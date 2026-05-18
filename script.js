@@ -1,3 +1,29 @@
+function sameFileUrl(url) {
+  try {
+    const next = new URL(url, window.location.href);
+    return window.location.protocol === "file:"
+      && next.protocol === "file:"
+      && next.pathname === window.location.pathname;
+  } catch {
+    return false;
+  }
+}
+
+if (window.location.protocol === "file:") {
+  document.addEventListener("submit", (event) => {
+    event.preventDefault();
+  }, true);
+
+  document.addEventListener("click", (event) => {
+    const target = event.target.closest("a[href], area[href], button, input, select, textarea");
+    if (!target) return;
+    if ((target.matches("a[href], area[href]") && sameFileUrl(target.getAttribute("href")))
+      || target.matches("button:not([type]), input[type='submit'], input[type='image']")) {
+      event.preventDefault();
+    }
+  }, true);
+}
+
 const rawRussianWords = `
 1	и	and	conjunction
 2	в	in, at	preposition
@@ -3924,8 +3950,8 @@ function renderSpotifyPlaylist() {
     const tr = document.createElement("tr");
     
     let actionHtml = isUnlocked 
-      ? `<button class="player-btn play-row-btn" data-index="${i}">▶️</button>` 
-      : `<button class="spotify-unlock-btn" data-index="${i}">Unlock (${song.price} 🪙)</button>`;
+      ? `<button class="player-btn play-row-btn" type="button" data-index="${i}">▶️</button>`
+      : `<button class="spotify-unlock-btn" type="button" data-index="${i}">Unlock (${song.price} 🪙)</button>`;
       
     tr.innerHTML = `
       <td>${i + 1}</td>
