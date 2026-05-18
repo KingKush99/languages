@@ -259,6 +259,7 @@
 
         <section id="profileView" class="reader-view profile-page-view" hidden>
           <button id="profileBackBtn" class="profile-back-btn" type="button">Back to Home</button>
+          <button id="profileSettingsBtn" class="profile-settings-btn" type="button" aria-label="Profile settings">Settings</button>
           <div class="profile-layout">
             
             <!-- 1. Header Profile Card (Avatar Circle, Horizontal Stats, Bio Details) -->
@@ -532,6 +533,70 @@
               </div>
               <p id="profileSaveStatus" class="profile-status"></p>
             </div>
+          </div>
+        </div>
+        <div id="profileSettingsModal" class="modal-overlay" hidden>
+          <div class="modal-content profile-settings-modal glass-panel">
+            <div class="modal-header">
+              <h2>Profile Settings</h2>
+              <button class="close-modal-btn" id="closeProfileSettingsBtn" type="button">x</button>
+            </div>
+            <div class="settings-grid">
+              <section class="settings-section">
+                <h3>Privacy</h3>
+                <label><input type="checkbox" id="settingShowFollowers"> Show followers</label>
+                <label><input type="checkbox" id="settingShowFollowing"> Show following</label>
+                <label><input type="checkbox" id="settingShowFriends"> Show friends</label>
+              </section>
+              <section class="settings-section">
+                <h3>Visual</h3>
+                <label><input type="checkbox" id="settingCompactProfile"> Compact profile panels</label>
+                <label><input type="checkbox" id="settingReduceMotion"> Reduce motion</label>
+              </section>
+              <section class="settings-section">
+                <h3>Audio</h3>
+                <label><input type="checkbox" id="settingMuteAssistant"> Mute assistant voice</label>
+                <label for="settingAudioRate">Audio rate</label>
+                <input type="range" id="settingAudioRate" min="0.6" max="1.4" step="0.1">
+                <small id="settingAudioRateValue">1.0x</small>
+              </section>
+              <section class="settings-section">
+                <h3>Notifications</h3>
+                <label><input type="checkbox" id="settingNotifyMessages"> Message alerts</label>
+                <label><input type="checkbox" id="settingNotifyAchievements"> Achievement alerts</label>
+              </section>
+              <section class="settings-section">
+                <h3>Theme</h3>
+                <label for="settingProfileTheme">Profile theme</label>
+                <select id="settingProfileTheme">
+                  <option value="system">System</option>
+                  <option value="light">Light</option>
+                  <option value="warm">Warm</option>
+                  <option value="focus">Focus</option>
+                </select>
+              </section>
+              <section class="settings-section">
+                <h3>Language</h3>
+                <label><input type="checkbox" id="settingAutoMatchChatLanguage"> Match chat to learning language</label>
+              </section>
+              <section class="settings-section">
+                <h3>Reading</h3>
+                <label><input type="checkbox" id="settingAutoTranslate"> Keep story translation visible</label>
+              </section>
+              <section class="settings-section">
+                <h3>Social</h3>
+                <label><input type="checkbox" id="settingAllowFriendRequests"> Allow friend requests</label>
+              </section>
+              <section class="settings-section">
+                <h3>Safety</h3>
+                <label><input type="checkbox" id="settingFilterMessages"> Filter message text</label>
+              </section>
+              <section class="settings-section">
+                <h3>Data</h3>
+                <button id="settingResetLocalUiBtn" class="action-btn secondary-btn" type="button">Reset UI Settings</button>
+              </section>
+            </div>
+            <p id="profileSettingsStatus" class="profile-status">Settings are saved locally.</p>
           </div>
         </div>
           <div class="speech-header">
@@ -815,7 +880,8 @@
     </div>
     <div id="publicProfileModal" class="modal-overlay" hidden>
       <div class="modal-content public-profile-card glass-panel">
-        <div class="modal-header">
+        <div class="modal-header public-profile-header">
+          <button class="public-back-btn" id="publicProfileBackBtn" type="button">Back</button>
           <h2 id="publicProfileName">Profile</h2>
           <button class="close-modal-btn" id="closePublicProfileBtn">x</button>
         </div>
@@ -826,9 +892,33 @@
             <p id="publicProfileBio"></p>
           </div>
           <div class="public-profile-stats">
-            <span><strong id="publicFollowersCount">0</strong> Followers</span>
-            <span><strong id="publicFollowingCount">0</strong> Following</span>
-            <span><strong id="publicFriendsCount">0</strong> Friends</span>
+            <div class="public-social-group" data-public-social-group="followers">
+              <button class="public-social-toggle" type="button" data-public-social-toggle="followers">
+                <strong id="publicFollowersCount">0</strong> Followers
+              </button>
+              <div class="public-social-dropdown glass-panel" hidden>
+                <input id="publicFollowersSearch" type="search" placeholder="Search followers">
+                <ul id="publicFollowersList"></ul>
+              </div>
+            </div>
+            <div class="public-social-group" data-public-social-group="following">
+              <button class="public-social-toggle" type="button" data-public-social-toggle="following">
+                <strong id="publicFollowingCount">0</strong> Following
+              </button>
+              <div class="public-social-dropdown glass-panel" hidden>
+                <input id="publicFollowingSearch" type="search" placeholder="Search following">
+                <ul id="publicFollowingList"></ul>
+              </div>
+            </div>
+            <div class="public-social-group" data-public-social-group="friends">
+              <button class="public-social-toggle" type="button" data-public-social-toggle="friends">
+                <strong id="publicFriendsCount">0</strong> Friends
+              </button>
+              <div class="public-social-dropdown glass-panel" hidden>
+                <input id="publicFriendsSearch" type="search" placeholder="Search friends">
+                <ul id="publicFriendsList"></ul>
+              </div>
+            </div>
           </div>
         </div>
         <div class="public-profile-grid">

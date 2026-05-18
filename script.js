@@ -1934,6 +1934,7 @@ const appState = {
   unlockedSongs: JSON.parse(localStorage.getItem('nova_unlocked_songs') || '[]'),
   learnedWords: JSON.parse(localStorage.getItem(`nova_learned_words_${initialLanguage}`) || localStorage.getItem('nova_learned_words') || '[]'),
   outboundMessages: JSON.parse(localStorage.getItem('nova_outbound_messages') || '{}'),
+  settings: JSON.parse(localStorage.getItem('nova_profile_settings') || '{}'),
   activeTheme: localStorage.getItem('nova_active_theme') || 'languages/russian/assets/images/theme_family_1778919168922.png',
   isPlaying: false,
   currentStorySectionIndex: 0
@@ -2050,12 +2051,39 @@ const els = {
   publicFollowersCount: document.querySelector("#publicFollowersCount"),
   publicFollowingCount: document.querySelector("#publicFollowingCount"),
   publicFriendsCount: document.querySelector("#publicFriendsCount"),
+  publicFollowersSearch: document.querySelector("#publicFollowersSearch"),
+  publicFollowingSearch: document.querySelector("#publicFollowingSearch"),
+  publicFriendsSearch: document.querySelector("#publicFriendsSearch"),
+  publicFollowersList: document.querySelector("#publicFollowersList"),
+  publicFollowingList: document.querySelector("#publicFollowingList"),
+  publicFriendsList: document.querySelector("#publicFriendsList"),
   publicAchievementsList: document.querySelector("#publicAchievementsList"),
   publicCollectionGrid: document.querySelector("#publicCollectionGrid"),
   publicLevelLabel: document.querySelector("#publicLevelLabel"),
   publicLevelProgressFill: document.querySelector("#publicLevelProgressFill"),
   publicLevelProgressText: document.querySelector("#publicLevelProgressText"),
+  publicProfileBackBtn: document.querySelector("#publicProfileBackBtn"),
   closePublicProfileBtn: document.querySelector("#closePublicProfileBtn"),
+  profileSettingsBtn: document.querySelector("#profileSettingsBtn"),
+  profileSettingsModal: document.querySelector("#profileSettingsModal"),
+  closeProfileSettingsBtn: document.querySelector("#closeProfileSettingsBtn"),
+  profileSettingsStatus: document.querySelector("#profileSettingsStatus"),
+  settingShowFollowers: document.querySelector("#settingShowFollowers"),
+  settingShowFollowing: document.querySelector("#settingShowFollowing"),
+  settingShowFriends: document.querySelector("#settingShowFriends"),
+  settingCompactProfile: document.querySelector("#settingCompactProfile"),
+  settingReduceMotion: document.querySelector("#settingReduceMotion"),
+  settingMuteAssistant: document.querySelector("#settingMuteAssistant"),
+  settingAudioRate: document.querySelector("#settingAudioRate"),
+  settingAudioRateValue: document.querySelector("#settingAudioRateValue"),
+  settingNotifyMessages: document.querySelector("#settingNotifyMessages"),
+  settingNotifyAchievements: document.querySelector("#settingNotifyAchievements"),
+  settingProfileTheme: document.querySelector("#settingProfileTheme"),
+  settingAutoMatchChatLanguage: document.querySelector("#settingAutoMatchChatLanguage"),
+  settingAutoTranslate: document.querySelector("#settingAutoTranslate"),
+  settingAllowFriendRequests: document.querySelector("#settingAllowFriendRequests"),
+  settingFilterMessages: document.querySelector("#settingFilterMessages"),
+  settingResetLocalUiBtn: document.querySelector("#settingResetLocalUiBtn"),
   editProfileBtn: document.querySelector("#editProfileBtn"),
   profileEditPanel: document.querySelector("#profileEditPanel"),
   mascotGrid: document.querySelector("#mascotGrid"),
@@ -2217,7 +2245,7 @@ function switchTargetLanguage(language) {
   appState.currentStorySectionIndex = 0;
   appState.learnedWords = JSON.parse(localStorage.getItem(`nova_learned_words_${appState.targetLanguage}`) || "[]");
   if (els.targetLanguageSelect) els.targetLanguageSelect.value = appState.targetLanguage;
-  if (els.chatLanguageSelect && chatLanguages?.[appState.targetLanguage]) {
+  if (appState.settings?.autoMatchChatLanguage && els.chatLanguageSelect && chatLanguages?.[appState.targetLanguage]) {
     els.chatLanguageSelect.value = appState.targetLanguage;
     updateChatIntro();
   }
@@ -2533,8 +2561,8 @@ function renderStory() {
 
   // Render English text on the current page
   els.storyEnglish.replaceChildren();
-  els.storyEnglish.hidden = true;
-  els.toggleStoryTranslationBtn.textContent = "Translate story";
+  els.storyEnglish.hidden = !appState.settings?.autoTranslate;
+  els.toggleStoryTranslationBtn.textContent = appState.settings?.autoTranslate ? "Hide translation" : "Translate story";
 
   const englishParagraph = document.createElement("p");
   englishParagraph.textContent = section.en;
@@ -2946,6 +2974,55 @@ els.storiesTab?.addEventListener("click", () => switchView("stories"));
 els.profileTab?.addEventListener("click", () => switchView("profile"));
 els.profileBtn?.addEventListener("click", () => switchView("profile"));
 els.profileBackBtn?.addEventListener("click", () => switchView("practice"));
+els.profileSettingsBtn?.addEventListener("click", () => {
+  renderProfileSettings();
+  if (els.profileSettingsModal) els.profileSettingsModal.hidden = false;
+});
+els.closeProfileSettingsBtn?.addEventListener("click", () => {
+  if (els.profileSettingsModal) els.profileSettingsModal.hidden = true;
+});
+els.profileSettingsModal?.addEventListener("click", (event) => {
+  if (event.target === els.profileSettingsModal) els.profileSettingsModal.hidden = true;
+});
+[
+  ["showFollowers", els.settingShowFollowers, "checked"],
+  ["showFollowing", els.settingShowFollowing, "checked"],
+  ["showFriends", els.settingShowFriends, "checked"],
+  ["compactProfile", els.settingCompactProfile, "checked"],
+  ["reduceMotion", els.settingReduceMotion, "checked"],
+  ["muteAssistant", els.settingMuteAssistant, "checked"],
+  ["notifyMessages", els.settingNotifyMessages, "checked"],
+  ["notifyAchievements", els.settingNotifyAchievements, "checked"],
+  ["autoMatchChatLanguage", els.settingAutoMatchChatLanguage, "checked"],
+  ["autoTranslate", els.settingAutoTranslate, "checked"],
+  ["allowFriendRequests", els.settingAllowFriendRequests, "checked"],
+  ["filterMessages", els.settingFilterMessages, "checked"],
+  ["profileTheme", els.settingProfileTheme, "value"],
+  ["audioRate", els.settingAudioRate, "value"]
+].forEach(([key, control, prop]) => {
+  control?.addEventListener("input", () => {
+    appState.settings[key] = prop === "checked" ? control.checked : control.value;
+    if (key === "audioRate" && els.settingAudioRateValue) {
+      els.settingAudioRateValue.textContent = `${Number(control.value).toFixed(1)}x`;
+    }
+    saveProfileSettings();
+    if (key === "autoMatchChatLanguage" && appState.settings.autoMatchChatLanguage && els.chatLanguageSelect && chatLanguages?.[appState.targetLanguage]) {
+      els.chatLanguageSelect.value = appState.targetLanguage;
+      updateChatIntro();
+    }
+    if (key === "autoTranslate" && appState.activeView === "stories") renderStory();
+    if (activePublicProfile) {
+      renderPublicSocialList("followers");
+      renderPublicSocialList("following");
+      renderPublicSocialList("friends");
+    }
+  });
+});
+els.settingResetLocalUiBtn?.addEventListener("click", () => {
+  appState.settings = { ...profileSettingsDefaults };
+  saveProfileSettings();
+  renderProfileSettings();
+});
 els.targetLanguageSelect?.addEventListener("change", () => switchTargetLanguage(els.targetLanguageSelect.value));
 
 // Pencil icon opens edit profile modal
@@ -3013,6 +3090,33 @@ document.querySelectorAll("[data-social-toggle]").forEach((button) => {
     if (item) showSocialContextMenu(event, item.dataset.person, item.dataset.socialType);
   });
 });
+document.querySelectorAll("[data-public-social-toggle]").forEach((button) => {
+  button.addEventListener("click", (event) => {
+    event.stopPropagation();
+    togglePublicSocialDropdown(button.dataset.publicSocialToggle);
+  });
+});
+[
+  ["followers", els.publicFollowersSearch],
+  ["following", els.publicFollowingSearch],
+  ["friends", els.publicFriendsSearch]
+].forEach(([type, input]) => {
+  input?.addEventListener("click", (event) => event.stopPropagation());
+  input?.addEventListener("input", () => {
+    publicSocialSearchState[type] = input.value.trim();
+    renderPublicSocialList(type);
+  });
+});
+[els.publicFollowersList, els.publicFollowingList, els.publicFriendsList].forEach((list) => {
+  list?.addEventListener("click", (event) => {
+    const item = event.target.closest("li[data-person]");
+    if (item) openPersonProfile(item.dataset.person);
+  });
+  list?.addEventListener("contextmenu", (event) => {
+    const item = event.target.closest("li[data-person]");
+    if (item) showSocialContextMenu(event, item.dataset.person, item.dataset.socialType);
+  });
+});
 els.socialContextMenu?.addEventListener("click", (event) => {
   const action = event.target.closest("[data-social-action]")?.dataset.socialAction;
   if (action) handleSocialAction(action);
@@ -3021,10 +3125,11 @@ document.addEventListener("click", (event) => {
   if (els.socialContextMenu && !els.socialContextMenu.contains(event.target)) els.socialContextMenu.hidden = true;
 });
 els.closePublicProfileBtn?.addEventListener("click", () => {
-  els.publicProfileModal.hidden = true;
+  closePublicProfileToHome();
 });
+els.publicProfileBackBtn?.addEventListener("click", goBackFromPublicProfile);
 els.publicProfileModal?.addEventListener("click", (event) => {
-  if (event.target === els.publicProfileModal) els.publicProfileModal.hidden = true;
+  if (event.target === els.publicProfileModal) closePublicProfileToHome();
 });
 els.storyPrevPageBtn?.addEventListener("click", () => {
   if (appState.currentStorySectionIndex > 0) {
@@ -3423,12 +3528,12 @@ function setupChatLanguages() {
 
 function speakChatText(text) {
   const synth = window.speechSynthesis;
-  if (!synth || !text) return;
+  if (!synth || !text || appState.settings?.muteAssistant) return;
   const config = chatLanguages[activeChatLanguageKey()] || chatLanguages.russian;
   synth.cancel();
   const utterance = new SpeechSynthesisUtterance(text);
   utterance.lang = config.speechLang;
-  utterance.rate = 0.92;
+  utterance.rate = Number(appState.settings?.audioRate || 0.92);
   synth.speak(utterance);
 }
 
@@ -3827,6 +3932,80 @@ const defaultSocial = {
   following: ["Russian Daily", "Moscow Reader", "Grammar Coach", "Speak Slow Club", "Cafe Phrases", "Story Lab"],
   friends: ["Mila Petrova", "Dima Sokolov", "Lena Smirnova", "Oleg Kuznetsov"]
 };
+const profileSettingsDefaults = {
+  showFollowers: true,
+  showFollowing: true,
+  showFriends: true,
+  compactProfile: false,
+  reduceMotion: false,
+  muteAssistant: false,
+  audioRate: 1,
+  notifyMessages: true,
+  notifyAchievements: true,
+  profileTheme: "system",
+  autoMatchChatLanguage: true,
+  autoTranslate: false,
+  allowFriendRequests: true,
+  filterMessages: true
+};
+const publicSocialSearchState = { followers: "", following: "", friends: "" };
+let activePublicProfile = null;
+let publicProfileStack = [];
+
+function normalizeProfileSettings(settings = {}) {
+  return {
+    ...profileSettingsDefaults,
+    ...settings,
+    audioRate: Math.min(1.4, Math.max(0.6, Number(settings.audioRate || profileSettingsDefaults.audioRate))),
+    profileTheme: ["system", "light", "warm", "focus"].includes(settings.profileTheme) ? settings.profileTheme : "system"
+  };
+}
+
+function saveProfileSettings() {
+  appState.settings = normalizeProfileSettings(appState.settings);
+  localStorage.setItem("nova_profile_settings", JSON.stringify(appState.settings));
+  applyProfileSettings();
+  if (els.profileSettingsStatus) els.profileSettingsStatus.textContent = "Settings saved.";
+}
+
+function applyProfileSettings() {
+  const settings = normalizeProfileSettings(appState.settings);
+  document.documentElement.classList.toggle("profile-compact", settings.compactProfile);
+  document.documentElement.classList.toggle("reduce-motion", settings.reduceMotion);
+  document.documentElement.dataset.profileTheme = settings.profileTheme;
+  if (els.playbackSpeed) {
+    els.playbackSpeed.value = String(settings.audioRate);
+    handleSpeedChange({ target: els.playbackSpeed }, els.speedLabel);
+  }
+  if (els.playbackSpeedStories) {
+    els.playbackSpeedStories.value = String(settings.audioRate);
+    handleSpeedChange({ target: els.playbackSpeedStories }, els.speedLabelStories);
+  }
+}
+
+function renderProfileSettings() {
+  appState.settings = normalizeProfileSettings(appState.settings);
+  const s = appState.settings;
+  if (els.settingShowFollowers) els.settingShowFollowers.checked = s.showFollowers;
+  if (els.settingShowFollowing) els.settingShowFollowing.checked = s.showFollowing;
+  if (els.settingShowFriends) els.settingShowFriends.checked = s.showFriends;
+  if (els.settingCompactProfile) els.settingCompactProfile.checked = s.compactProfile;
+  if (els.settingReduceMotion) els.settingReduceMotion.checked = s.reduceMotion;
+  if (els.settingMuteAssistant) els.settingMuteAssistant.checked = s.muteAssistant;
+  if (els.settingAudioRate) els.settingAudioRate.value = String(s.audioRate);
+  if (els.settingAudioRateValue) els.settingAudioRateValue.textContent = `${Number(s.audioRate).toFixed(1)}x`;
+  if (els.settingNotifyMessages) els.settingNotifyMessages.checked = s.notifyMessages;
+  if (els.settingNotifyAchievements) els.settingNotifyAchievements.checked = s.notifyAchievements;
+  if (els.settingProfileTheme) els.settingProfileTheme.value = s.profileTheme;
+  if (els.settingAutoMatchChatLanguage) els.settingAutoMatchChatLanguage.checked = s.autoMatchChatLanguage;
+  if (els.settingAutoTranslate) els.settingAutoTranslate.checked = s.autoTranslate;
+  if (els.settingAllowFriendRequests) els.settingAllowFriendRequests.checked = s.allowFriendRequests;
+  if (els.settingFilterMessages) els.settingFilterMessages.checked = s.filterMessages;
+  applyProfileSettings();
+}
+
+appState.settings = normalizeProfileSettings(appState.settings);
+
 function mergeSocialPeople(saved = [], defaults = []) {
   return Array.from(new Set([...(Array.isArray(saved) ? saved : []), ...defaults]));
 }
@@ -3934,6 +4113,7 @@ function renderProfile() {
   renderCollection();
   renderLevelBar();
   renderAchievements();
+  renderProfileSettings();
 }
 
 function renderSocialList(type) {
@@ -3994,12 +4174,29 @@ function profileHandleFromName(name) {
   return name.toLowerCase().replace(/[^a-z0-9]+/g, "_").replace(/^_|_$/g, "");
 }
 
+function seededPeople(name, type, count) {
+  const pool = [
+    "Mila Petrova", "Alexei Romanov", "Sofia Ivanova", "Nadia Volkova", "Dima Sokolov", "Irina Orlova",
+    "Pavel Morozov", "Lena Smirnova", "Oleg Kuznetsov", "Yuki Tanaka", "Hana Sato", "Mei Lin",
+    "Chen Wei", "Aarav Sharma", "Priya Patel", "Fatima Haddad", "Omar Nasser", "Sara Khan",
+    "Noah Reed", "Emma Clark", "Nikolai Orlov", "Anika Rao", "Layla Mansour", "Takashi Mori"
+  ].filter((person) => person !== name);
+  const seed = Math.abs(hashString(`${name}:${type}`));
+  return Array.from({ length: count }, (_, index) => pool[(seed + index * 5) % pool.length])
+    .filter((person, index, arr) => arr.indexOf(person) === index);
+}
+
 function createPublicProfile(name) {
   const hash = Math.abs(hashString(name));
   const language = languageDatasets[appState.targetLanguage]?.label || "Russian";
   const colors = ["#0f766e", "#2563eb", "#a855f7", "#d97706", "#dc2626", "#0891b2", "#16a34a", "#9333ea"];
   const level = hash % 18;
   const xp = (hash % 9000) + level * 1000;
+  const social = {
+    followers: seededPeople(name, "followers", 7 + (hash % 5)),
+    following: seededPeople(name, "following", 5 + (hash % 4)),
+    friends: seededPeople(name, "friends", 4 + (hash % 4))
+  };
   const collectionItems = Array.from({ length: 16 }, (_, index) => {
     const tiers = ["standard", "standard", "standard", "rare", "legendary", "god"];
     return index < 8 + (hash % 6)
@@ -4010,9 +4207,15 @@ function createPublicProfile(name) {
     name,
     handle: profileHandleFromName(name),
     bio: `${name} is practicing ${language} reading, listening, and vocabulary. Current focus: stories, pronunciation, and learned words.`,
-    followers: 20 + (hash % 980),
-    following: 8 + (hash % 160),
-    friends: 3 + (hash % 60),
+    followers: social.followers.length,
+    following: social.following.length,
+    friends: social.friends.length,
+    social,
+    privacy: {
+      showFollowers: hash % 7 !== 0,
+      showFollowing: hash % 6 !== 0,
+      showFriends: hash % 5 !== 0
+    },
     level,
     xp,
     color: colors[hash % colors.length],
@@ -4038,8 +4241,69 @@ function renderPublicProfileCollection(items) {
   }));
 }
 
-function openPersonProfile(name) {
+function renderPublicSocialList(type) {
+  const listMap = { followers: els.publicFollowersList, following: els.publicFollowingList, friends: els.publicFriendsList };
+  const profile = activePublicProfile;
+  const listEl = listMap[type];
+  if (!listEl || !profile) return;
+  const privacyKey = type === "followers" ? "showFollowers" : type === "following" ? "showFollowing" : "showFriends";
+  if (appState.settings?.[privacyKey] === false || !profile.privacy?.[privacyKey]) {
+    const li = document.createElement("li");
+    li.className = "social-empty";
+    li.textContent = appState.settings?.[privacyKey] === false ? "Hidden by your privacy settings." : "This list is private.";
+    listEl.replaceChildren(li);
+    return;
+  }
+  const query = publicSocialSearchState[type] || "";
+  const people = profile.social?.[type] || [];
+  const filtered = people.filter((person) => person.toLowerCase().includes(query.toLowerCase()));
+  listEl.replaceChildren(...filtered.map((person) => {
+    const li = document.createElement("li");
+    const initials = person.split(" ").map(part => part[0]).join("").slice(0, 2);
+    li.dataset.person = person;
+    li.dataset.socialType = type;
+    li.innerHTML = `
+      <button class="social-person-btn" type="button">
+        <span>${initials}</span>
+        <strong>${person}</strong>
+      </button>
+    `;
+    return li;
+  }));
+  if (!filtered.length) {
+    const li = document.createElement("li");
+    li.className = "social-empty";
+    li.textContent = "No matches";
+    listEl.append(li);
+  }
+}
+
+function togglePublicSocialDropdown(type) {
+  const group = document.querySelector(`[data-public-social-group="${type}"]`);
+  const dropdown = group?.querySelector(".public-social-dropdown");
+  if (!dropdown) return;
+  const opening = dropdown.hidden;
+  document.querySelectorAll(".public-social-group").forEach((item) => {
+    if (item !== group) {
+      item.classList.remove("is-open");
+      const otherDropdown = item.querySelector(".public-social-dropdown");
+      if (otherDropdown) otherDropdown.hidden = true;
+    }
+  });
+  if (opening) {
+    publicSocialSearchState[type] = "";
+    const input = dropdown.querySelector("input");
+    if (input) input.value = "";
+    renderPublicSocialList(type);
+  }
+  dropdown.hidden = !opening;
+  group.classList.toggle("is-open", opening);
+  if (opening) dropdown.querySelector("input")?.focus();
+}
+
+function renderPublicProfile(name) {
   const profile = createPublicProfile(name);
+  activePublicProfile = profile;
   els.publicProfileName.textContent = profile.name;
   els.publicProfileAvatar.textContent = profile.name.split(" ").map(part => part[0]).join("").slice(0, 2);
   els.publicProfileAvatar.style.setProperty("--public-profile-color", profile.color);
@@ -4048,6 +4312,9 @@ function openPersonProfile(name) {
   els.publicFollowersCount.textContent = profile.followers.toLocaleString();
   els.publicFollowingCount.textContent = profile.following.toLocaleString();
   els.publicFriendsCount.textContent = profile.friends.toLocaleString();
+  renderPublicSocialList("followers");
+  renderPublicSocialList("following");
+  renderPublicSocialList("friends");
   els.publicAchievementsList.replaceChildren(...profile.achievements.map((title, index) => {
     const item = document.createElement("div");
     item.className = "achievement-item";
@@ -4064,7 +4331,35 @@ function openPersonProfile(name) {
   els.publicProfileModal.hidden = false;
 }
 
+function openPersonProfile(name, options = {}) {
+  if (activePublicProfile?.name && activePublicProfile.name !== name && options.stack !== false) {
+    publicProfileStack.push(activePublicProfile.name);
+  }
+  renderPublicProfile(name);
+}
+
+function goBackFromPublicProfile() {
+  const previous = publicProfileStack.pop();
+  if (previous) {
+    renderPublicProfile(previous);
+    return;
+  }
+  els.publicProfileModal.hidden = true;
+  switchView("profile");
+}
+
+function closePublicProfileToHome() {
+  publicProfileStack = [];
+  activePublicProfile = null;
+  els.publicProfileModal.hidden = true;
+  switchView("practice");
+}
+
 function addFriend(name) {
+  if (!appState.settings?.allowFriendRequests) {
+    els.publicProfileStatus.textContent = "Friend requests are currently disabled in your profile settings.";
+    return;
+  }
   if (!appState.profile.social.friends.includes(name)) {
     appState.profile.social.friends.push(name);
     saveProfile();
@@ -4081,9 +4376,15 @@ function sendMessageToPerson(name) {
   }
   const message = window.prompt(`Message ${name}`);
   if (!message) return;
+  if (appState.settings?.filterMessages && checkInappropriate(message)) {
+    els.publicProfileStatus.textContent = "Message blocked by your safety filter.";
+    return;
+  }
   appState.outboundMessages[name] = pending + 1;
   localStorage.setItem("nova_outbound_messages", JSON.stringify(appState.outboundMessages));
-  els.publicProfileStatus.textContent = `Message sent. ${appState.outboundMessages[name]}/3 waiting for a reply.`;
+  els.publicProfileStatus.textContent = appState.settings?.notifyMessages
+    ? `Message sent. ${appState.outboundMessages[name]}/3 waiting for a reply.`
+    : `Message saved silently. ${appState.outboundMessages[name]}/3 waiting for a reply.`;
 }
 
 function showSocialContextMenu(event, name, type) {
@@ -4143,9 +4444,14 @@ function renderLevelBar() {
 }
 
 function addXp(amount) {
+  const previousLevel = getLevelInfo(appState.profile.xp || 0).level;
   appState.profile.xp = Number(appState.profile.xp || 0) + amount;
   saveProfile();
   renderLevelBar();
+  const nextLevel = getLevelInfo(appState.profile.xp || 0).level;
+  if (appState.settings?.notifyAchievements && nextLevel > previousLevel && els.collectionStatus) {
+    els.collectionStatus.textContent = `Level up: Level ${nextLevel}`;
+  }
 }
 
 function setCharacterInteraction(mode) {
