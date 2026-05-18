@@ -921,10 +921,13 @@
       <button type="button" data-social-action="visit">Visit Profile</button>
     </div>
     <div id="publicProfileModal" class="modal-overlay" hidden>
-      <div class="modal-content public-profile-card glass-panel">
-        <div class="modal-header public-profile-header">
-          <button class="public-back-btn" id="publicProfileBackBtn" type="button">Back</button>
-          <h2 id="publicProfileName">Profile</h2>
+        <div class="modal-content public-profile-card glass-panel">
+          <div class="modal-header public-profile-header">
+            <button class="public-back-btn" id="publicProfileBackBtn" type="button">Back</button>
+          <div class="public-profile-title">
+            <span>Visiting Profile</span>
+            <h2 id="publicProfileName">Profile</h2>
+          </div>
           <button class="close-modal-btn" id="closePublicProfileBtn" type="button">x</button>
         </div>
         <div class="public-profile-hero">
@@ -932,6 +935,10 @@
           <div class="public-profile-main">
             <p id="publicProfileHandle"></p>
             <p id="publicProfileBio"></p>
+            <div class="public-profile-actions">
+              <button id="publicAddFriendBtn" class="action-btn public-action-btn" type="button">Add Friend</button>
+              <button id="publicSendMessageBtn" class="action-btn secondary-btn public-action-btn" type="button">Send Message</button>
+            </div>
           </div>
           <div class="public-profile-stats">
             <div class="public-social-group" data-public-social-group="followers">
@@ -972,6 +979,15 @@
             <h3>Collection</h3>
             <div id="publicCollectionGrid" class="public-collection-grid"></div>
           </section>
+          <section>
+            <h3>Practice Stats</h3>
+            <div class="public-practice-stats-grid">
+              <div><strong id="publicBestAccuracy">--</strong><span>Best accuracy</span></div>
+              <div><strong id="publicWordsKnown">--</strong><span>Words known</span></div>
+              <div><strong id="publicStoriesRead">--</strong><span>Stories read</span></div>
+              <div><strong id="publicStreakDays">--</strong><span>Day streak</span></div>
+            </div>
+          </section>
         </div>
         <div class="public-level-panel">
           <span id="publicLevelLabel">Level 0</span>
@@ -982,7 +998,7 @@
       </div>
     </div>
     <div id="tooltip" class="tooltip glass-panel" role="tooltip" hidden></div>
-    <script src="script.js?v=language-profile-11"></script>
+    <script src="script.js?v=language-profile-12"></script>
 
     <!-- Clippy Guide -->
     <div id="clippyGuide" class="clippy-guide" hidden style="position: fixed; bottom: 20px; right: 20px; z-index: 1000; display: flex; align-items: flex-end; gap: 10px; pointer-events: none;">

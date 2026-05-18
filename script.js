@@ -2094,6 +2094,12 @@ const els = {
   publicFriendsList: document.querySelector("#publicFriendsList"),
   publicAchievementsList: document.querySelector("#publicAchievementsList"),
   publicCollectionGrid: document.querySelector("#publicCollectionGrid"),
+  publicAddFriendBtn: document.querySelector("#publicAddFriendBtn"),
+  publicSendMessageBtn: document.querySelector("#publicSendMessageBtn"),
+  publicBestAccuracy: document.querySelector("#publicBestAccuracy"),
+  publicWordsKnown: document.querySelector("#publicWordsKnown"),
+  publicStoriesRead: document.querySelector("#publicStoriesRead"),
+  publicStreakDays: document.querySelector("#publicStreakDays"),
   publicLevelLabel: document.querySelector("#publicLevelLabel"),
   publicLevelProgressFill: document.querySelector("#publicLevelProgressFill"),
   publicLevelProgressText: document.querySelector("#publicLevelProgressText"),
@@ -3247,6 +3253,12 @@ els.closePublicProfileBtn?.addEventListener("click", () => {
 els.publicProfileBackBtn?.addEventListener("click", goBackFromPublicProfile);
 els.publicProfileModal?.addEventListener("click", (event) => {
   if (event.target === els.publicProfileModal) closePublicProfileToHome();
+});
+els.publicAddFriendBtn?.addEventListener("click", () => {
+  if (activePublicProfile?.name) addFriend(activePublicProfile.name);
+});
+els.publicSendMessageBtn?.addEventListener("click", () => {
+  if (activePublicProfile?.name) sendMessageToPerson(activePublicProfile.name);
 });
 els.storyPrevPageBtn?.addEventListener("click", () => {
   if (appState.currentStorySectionIndex > 0) {
@@ -4768,6 +4780,8 @@ function renderPublicProfile(name) {
     }
   }
   if (els.publicProfileModal) els.publicProfileModal.hidden = true;
+  window.scrollTo({ top: 0, left: 0, behavior: "instant" });
+  els.profileView?.scrollTo?.({ top: 0, left: 0, behavior: "instant" });
   els.publicProfileName.textContent = profile.name;
   els.publicProfileAvatar.textContent = profile.name.split(" ").map(part => part[0]).join("").slice(0, 2);
   els.publicProfileAvatar.style.setProperty("--public-profile-color", profile.color);
@@ -4786,6 +4800,10 @@ function renderPublicProfile(name) {
     return item;
   }));
   renderPublicProfileCollection(profile.collectionItems);
+  if (els.publicBestAccuracy) els.publicBestAccuracy.textContent = `${62 + (Math.abs(hashString(name)) % 36)}%`;
+  if (els.publicWordsKnown) els.publicWordsKnown.textContent = (120 + (Math.abs(hashString(`${name}:words`)) % 840)).toLocaleString();
+  if (els.publicStoriesRead) els.publicStoriesRead.textContent = (8 + (Math.abs(hashString(`${name}:stories`)) % 160)).toLocaleString();
+  if (els.publicStreakDays) els.publicStreakDays.textContent = (1 + (Math.abs(hashString(`${name}:streak`)) % 40)).toLocaleString();
   const progress = getLevelInfo(profile.xp);
   els.publicLevelLabel.textContent = `Level ${progress.level}`;
   els.publicLevelProgressFill.style.width = `${Math.min(100, Math.round((progress.progress / progress.needed) * 100))}%`;
@@ -4812,6 +4830,7 @@ function goBackFromPublicProfile() {
   if (els.profileLayout) {
     els.profileLayout.hidden = false;
     renderProfile();
+    window.scrollTo({ top: 0, left: 0, behavior: "instant" });
   }
 }
 
