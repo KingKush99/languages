@@ -2080,6 +2080,7 @@ const els = {
   publicProfileCard: document.querySelector(".public-profile-card"),
   publicProfileName: document.querySelector("#publicProfileName"),
   publicProfileAvatar: document.querySelector("#publicProfileAvatar"),
+  publicCharacterCanvas: document.querySelector("#publicCharacterCanvas"),
   publicProfileHandle: document.querySelector("#publicProfileHandle"),
   publicProfileBio: document.querySelector("#publicProfileBio"),
   publicProfileStatus: document.querySelector("#publicProfileStatus"),
@@ -3093,8 +3094,14 @@ els.practiceTab?.addEventListener("click", () => switchView("practice"));
 els.storiesTab?.addEventListener("click", () => switchView("stories"));
 els.profileTab?.addEventListener("click", () => switchView("profile"));
 els.profileBtn?.addEventListener("click", () => switchView("profile"));
-els.profileBackBtn?.addEventListener("click", () => switchView("practice"));
-els.profileCloseBtn?.addEventListener("click", () => switchView("practice"));
+els.profileBackBtn?.addEventListener("click", () => {
+  if (activePublicProfile) {
+    goBackFromPublicProfile();
+    return;
+  }
+  switchView("practice");
+});
+els.profileCloseBtn?.addEventListener("click", () => closePublicProfileToHome());
 els.profileSettingsBtn?.addEventListener("click", () => {
   renderProfileSettings();
   openAppModal(els.profileSettingsModal);
@@ -4651,6 +4658,35 @@ els.dmList?.addEventListener("click", (event) => {
   if (personRow) openPersonProfile(personRow.dataset.person);
 });
 
+function createPublicCustomization(name) {
+  const hash = Math.abs(hashString(`character:${name}`));
+  const pick = (items, offset = 0) => items[(hash + offset) % items.length];
+  const skinColors = ["#d08a45", "#b86b35", "#f0a15f", "#8f4f2a", "#e8b07a", "#6f3b21"];
+  const hairColors = ["#241713", "#5b331b", "#9a671e", "#d9b441", "#111827", "#7c2d12"];
+  const eyeColors = ["#2563eb", "#0f766e", "#92400e", "#111827", "#7c3aed"];
+  const shirtColors = ["#2563eb", "#dc2626", "#16a34a", "#9333ea", "#f97316", "#0d9488"];
+  const pantsColors = ["#111827", "#1e3a8a", "#334155", "#3f2f20"];
+  const shoeColors = ["#0f172a", "#7f1d1d", "#1f2937", "#111827"];
+  return {
+    mascot: pick(mascotOptions, 4),
+    hair: pick(["short", "long", "spiky", "sidepart", "curly"], 1),
+    eyeShape: pick(["round", "anime", "determined", "happy"], 2),
+    nose: pick(["soft", "straight", "sharp", "cute"], 3),
+    mouth: pick(["smile", "neutral", "grin", "surprised"], 4),
+    arms: pick(["relaxed", "waving", "athletic"], 5),
+    legs: pick(["straight", "wide", "athletic"], 6),
+    shirt: pick(["tee", "hoodie", "jersey"], 7),
+    pants: pick(["slim", "shorts", "cargo"], 8),
+    shoes: pick(["trainers", "boots", "formal"], 9),
+    hairColor: pick(hairColors, 10),
+    eyeColor: pick(eyeColors, 11),
+    faceColor: pick(skinColors, 12),
+    shirtColor: pick(shirtColors, 13),
+    pantsColor: pick(pantsColors, 14),
+    shoesColor: pick(shoeColors, 15)
+  };
+}
+
 function createPublicProfile(name) {
   const hash = Math.abs(hashString(name));
   const language = languageDatasets[appState.targetLanguage]?.label || "Russian";
@@ -4681,6 +4717,7 @@ function createPublicProfile(name) {
     level,
     xp,
     color: colors[hash % colors.length],
+    customization: stored.customization || createPublicCustomization(name),
     achievements: [
       `First ${language} Page`,
       `${language} Story Reader`,
@@ -4701,6 +4738,207 @@ function renderPublicProfileCollection(items) {
       : `<span>empty</span><strong>Slot ${index + 1}</strong>`;
     return cell;
   }));
+}
+
+function renderPublicCharacter(profile) {
+  const canvas = els.publicCharacterCanvas;
+  const ctx = canvas?.getContext?.("2d");
+  if (!canvas || !ctx || !profile?.customization) return;
+  if (window.THREE && renderPublicCharacter3d(profile)) return;
+  const c = profile.customization;
+  const width = canvas.clientWidth || 300;
+  const height = canvas.clientHeight || 360;
+  const ratio = Math.min(Math.max(window.devicePixelRatio || 1, 2), 3);
+  if (canvas.width !== Math.floor(width * ratio) || canvas.height !== Math.floor(height * ratio)) {
+    canvas.width = Math.floor(width * ratio);
+    canvas.height = Math.floor(height * ratio);
+  }
+  ctx.setTransform(ratio, 0, 0, ratio, 0, 0);
+  ctx.clearRect(0, 0, width, height);
+  const gradient = ctx.createLinearGradient(0, 0, width, height);
+  gradient.addColorStop(0, "rgba(239, 246, 255, 0.95)");
+  gradient.addColorStop(1, "rgba(204, 251, 241, 0.95)");
+  ctx.fillStyle = gradient;
+  ctx.fillRect(0, 0, width, height);
+
+  const centerX = width / 2;
+  const groundY = height * 0.91;
+  const scale = Math.min(width / 300, height / 360);
+  ctx.fillStyle = "rgba(15, 23, 42, 0.14)";
+  ctx.beginPath();
+  ctx.ellipse(centerX, groundY, 72 * scale, 14 * scale, 0, 0, Math.PI * 2);
+  ctx.fill();
+  const shoulderY = groundY - 164 * scale;
+  drawArm(ctx, centerX - 55 * scale, shoulderY + 10 * scale, 18 * scale, 90 * scale, c.shirtColor, c.faceColor, -0.12);
+  drawArm(ctx, centerX + 55 * scale, shoulderY + 10 * scale, 18 * scale, 90 * scale, c.shirtColor, c.faceColor, 0.12);
+  drawLimb(ctx, centerX - 24 * scale, groundY - 96 * scale, 20 * scale, 92 * scale, c.pantsColor, 9 * scale);
+  drawLimb(ctx, centerX + 24 * scale, groundY - 96 * scale, 20 * scale, 92 * scale, c.pantsColor, 9 * scale);
+  drawShoe(ctx, centerX - 24 * scale, groundY - 18 * scale, c.shoesColor, c.shoes, scale * 0.82);
+  drawShoe(ctx, centerX + 24 * scale, groundY - 18 * scale, c.shoesColor, c.shoes, scale * 0.82);
+  drawNeck(ctx, centerX, groundY - 196 * scale, c.faceColor, scale * 0.78);
+  drawJerseyBody(ctx, centerX, groundY - 174 * scale, 104 * scale, 136 * scale, c.shirtColor, c.pantsColor);
+  drawEar(ctx, centerX - 43 * scale, groundY - 236 * scale, c.faceColor, scale * 0.78);
+  drawEar(ctx, centerX + 43 * scale, groundY - 236 * scale, c.faceColor, scale * 0.78);
+  drawHead(ctx, centerX, groundY - 250 * scale, 88 * scale, 96 * scale, c.faceColor);
+  drawPublicHair(ctx, centerX, groundY - 305 * scale, c, scale);
+  drawEye(ctx, centerX - 15 * scale, groundY - 258 * scale, c.eyeColor, c.eyeShape, scale * 0.82);
+  drawEye(ctx, centerX + 15 * scale, groundY - 258 * scale, c.eyeColor, c.eyeShape, scale * 0.82);
+  drawNose(ctx, centerX, groundY - 240 * scale, c.nose, scale * 0.78);
+  drawMouth(ctx, centerX, groundY - 219 * scale, c.mouth, scale * 0.78);
+  ctx.fillStyle = "rgba(15, 23, 42, 0.72)";
+  ctx.font = `${Math.max(11, 12 * scale)}px Outfit, sans-serif`;
+  ctx.textAlign = "center";
+  ctx.fillText(c.mascot || profile.name, centerX, groundY - 132 * scale);
+}
+
+function renderPublicCharacter3d(profile) {
+  const canvas = els.publicCharacterCanvas;
+  const c = profile?.customization;
+  if (!canvas || !c || !window.THREE) return false;
+  try {
+    const width = canvas.clientWidth || 300;
+    const height = canvas.clientHeight || 360;
+    const renderer = canvas.__publicRenderer || new THREE.WebGLRenderer({ canvas, antialias: true, alpha: true });
+    canvas.__publicRenderer = renderer;
+    renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
+    renderer.setSize(width, height, false);
+    if (THREE.SRGBColorSpace) renderer.outputColorSpace = THREE.SRGBColorSpace;
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(34, width / height, 0.1, 100);
+    camera.position.set(0, 1.22, 5.6);
+    scene.add(new THREE.HemisphereLight(0xffffff, 0x94a3b8, 2.1));
+    const key = new THREE.DirectionalLight(0xffffff, 1.9);
+    key.position.set(3, 4, 5);
+    scene.add(key);
+    const material = (color) => new THREE.MeshStandardMaterial({ color, roughness: 0.62, metalness: 0.02 });
+    const capsule = (radius, length, color, segments = 22) => {
+      const geometry = THREE.CapsuleGeometry
+        ? new THREE.CapsuleGeometry(radius, length, 9, segments)
+        : new THREE.CylinderGeometry(radius, radius, length + radius * 2, segments);
+      return new THREE.Mesh(geometry, material(color));
+    };
+    const group = new THREE.Group();
+    group.position.y = -0.2;
+    group.rotation.y = -0.22;
+    scene.add(group);
+    const shadow = new THREE.Mesh(
+      new THREE.CircleGeometry(1.28, 40),
+      new THREE.MeshBasicMaterial({ color: 0x0f172a, transparent: true, opacity: 0.12 })
+    );
+    shadow.rotation.x = -Math.PI / 2;
+    shadow.position.y = -1.42;
+    const torso = capsule(0.48, 0.85, c.shirtColor, 28);
+    torso.position.y = 0.12;
+    torso.scale.set(1.05, 1.08, 0.78);
+    const shorts = new THREE.Mesh(new THREE.BoxGeometry(0.9, 0.28, 0.64), material(c.pantsColor));
+    shorts.position.y = -0.53;
+    const neck = capsule(0.15, 0.2, c.faceColor, 18);
+    neck.position.y = 0.88;
+    const head = new THREE.Mesh(new THREE.SphereGeometry(0.46, 32, 24), material(c.faceColor));
+    head.position.y = 1.38;
+    head.scale.set(0.95, 1.08, 0.9);
+    const hair = new THREE.Mesh(new THREE.SphereGeometry(0.49, 30, 16, 0, Math.PI * 2, 0, Math.PI / 2), material(c.hairColor));
+    hair.position.y = 1.73;
+    hair.scale.set(c.hair === "long" ? 1.08 : 1, c.hair === "spiky" ? 0.78 : 0.55, 0.94);
+    hair.visible = c.hair !== "none";
+    const leftEar = new THREE.Mesh(new THREE.SphereGeometry(0.1, 18, 12), material(c.faceColor));
+    leftEar.position.set(-0.42, 1.38, 0.01);
+    leftEar.scale.set(0.72, 1.14, 0.58);
+    const rightEar = leftEar.clone();
+    rightEar.material = leftEar.material.clone();
+    rightEar.position.x = 0.42;
+    const eyeWhiteMaterial = material(0xffffff);
+    const eyeMaterial = material(c.eyeColor);
+    const leftEyeWhite = new THREE.Mesh(new THREE.SphereGeometry(0.066, 16, 12), eyeWhiteMaterial);
+    leftEyeWhite.position.set(-0.15, 1.43, 0.38);
+    leftEyeWhite.scale.set(1.08, c.eyeShape === "happy" ? 0.36 : 0.75, 0.34);
+    const rightEyeWhite = leftEyeWhite.clone();
+    rightEyeWhite.position.x = 0.15;
+    const leftEye = new THREE.Mesh(new THREE.SphereGeometry(0.032, 14, 10), eyeMaterial);
+    leftEye.position.set(-0.15, 1.43, 0.425);
+    const rightEye = leftEye.clone();
+    rightEye.material = leftEye.material.clone();
+    rightEye.position.x = 0.15;
+    const nose = capsule(0.03, 0.16, "#b9652c", 12);
+    nose.position.set(0, 1.34, 0.43);
+    nose.rotation.x = Math.PI / 2;
+    const mouth = new THREE.Mesh(new THREE.TorusGeometry(0.12, 0.012, 8, 28, Math.PI), material(0x51311c));
+    mouth.position.set(0, 1.22, 0.4);
+    mouth.rotation.set(0, 0, Math.PI);
+    const makeArm = (side) => {
+      const arm = new THREE.Group();
+      arm.position.set(side * 0.55, 0.33, 0);
+      arm.rotation.z = side * -0.22;
+      const sleeve = capsule(0.095, 0.48, c.shirtColor, 16);
+      sleeve.position.y = -0.23;
+      const hand = capsule(0.085, 0.42, c.faceColor, 16);
+      hand.position.y = -0.68;
+      arm.add(sleeve, hand);
+      return arm;
+    };
+    const makeLeg = (side) => {
+      const leg = new THREE.Group();
+      leg.position.set(side * (c.legs === "wide" ? 0.3 : 0.22), -0.83, 0);
+      const pant = capsule(0.1, 0.5, c.pantsColor, 16);
+      pant.position.y = -0.18;
+      const shoe = new THREE.Mesh(new THREE.BoxGeometry(0.3, 0.14, 0.43), material(c.shoesColor));
+      shoe.position.set(side * 0.03, -0.5, 0.06);
+      leg.add(pant, shoe);
+      return leg;
+    };
+    group.add(
+      shadow,
+      makeLeg(-1),
+      makeLeg(1),
+      makeArm(-1),
+      makeArm(1),
+      torso,
+      shorts,
+      neck,
+      leftEar,
+      rightEar,
+      head,
+      hair,
+      leftEyeWhite,
+      rightEyeWhite,
+      leftEye,
+      rightEye,
+      nose,
+      mouth
+    );
+    renderer.render(scene, camera);
+    return true;
+  } catch (error) {
+    console.warn("Public 3D character failed; using canvas fallback.", error);
+    return false;
+  }
+}
+
+function drawPublicHair(ctx, x, y, c, scale = 1) {
+  if (c.hair === "none") return;
+  const gradient = ctx.createLinearGradient(x - 50 * scale, y, x + 50 * scale, y + 40 * scale);
+  gradient.addColorStop(0, c.hairColor);
+  gradient.addColorStop(1, "#1f130f");
+  ctx.fillStyle = gradient;
+  if (c.hair === "spiky") {
+    for (let i = -3; i <= 3; i++) {
+      ctx.beginPath();
+      ctx.moveTo(x + i * 11 * scale, y + 24 * scale);
+      ctx.lineTo(x + i * 11 * scale + 7 * scale, y - 10 * scale);
+      ctx.lineTo(x + i * 11 * scale + 16 * scale, y + 24 * scale);
+      ctx.closePath();
+      ctx.fill();
+    }
+    return;
+  }
+  ctx.beginPath();
+  ctx.ellipse(x, y + 28 * scale, c.hair === "long" ? 50 * scale : 43 * scale, c.hair === "long" ? 40 * scale : 29 * scale, 0, Math.PI, Math.PI * 2);
+  ctx.fill();
+  for (let i = -3; i <= 3; i++) {
+    ctx.beginPath();
+    ctx.arc(x + i * 13 * scale, y + 29 * scale, 11 * scale, 0, Math.PI * 2);
+    ctx.fill();
+  }
 }
 
 function renderPublicSocialList(type) {
@@ -4785,6 +5023,7 @@ function renderPublicProfile(name) {
   els.publicProfileName.textContent = profile.name;
   els.publicProfileAvatar.textContent = profile.name.split(" ").map(part => part[0]).join("").slice(0, 2);
   els.publicProfileAvatar.style.setProperty("--public-profile-color", profile.color);
+  renderPublicCharacter(profile);
   els.publicProfileHandle.textContent = `@${profile.handle}`;
   els.publicProfileBio.textContent = profile.bio;
   els.publicFollowersCount.textContent = profile.followers.toLocaleString();
@@ -4945,7 +5184,21 @@ function addXp(amount) {
 function setCharacterInteraction(mode) {
   if (!character3d) return;
   character3d.interaction = mode;
-  drawCharacterFallback();
+  if (character3d.fallback) {
+    drawCharacterFallback();
+  } else {
+    if (mode === "pointing") {
+      character3d.rightArm.shoulder.rotation.z = -1.05;
+      character3d.leftArm.shoulder.rotation.z = 0.18;
+    } else if (mode === "celebrating") {
+      character3d.rightArm.shoulder.rotation.z = -1.25;
+      character3d.leftArm.shoulder.rotation.z = 1.25;
+    } else {
+      updateCharacterVisuals();
+      return;
+    }
+    animateCharacter3d();
+  }
 }
 
 function updateBioCount() {
@@ -4972,45 +5225,193 @@ function canChangeUsername(nextUsername) {
 
 function initCharacter3d() {
   if (character3d || !els.characterCanvas) return;
-  initCharacterCanvasFallback();
-  return;
   if (!window.THREE) {
     initCharacterCanvasFallback();
     return;
   }
-  const scene = new THREE.Scene();
-  const camera = new THREE.PerspectiveCamera(35, 1, 0.1, 100);
-  const renderer = new THREE.WebGLRenderer({ canvas: els.characterCanvas, antialias: true, alpha: true });
-  renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
-  renderer.setSize(420, 520, false);
-  camera.position.set(0, 1.55, 6);
-  scene.add(new THREE.HemisphereLight(0xffffff, 0x94a3b8, 1.8));
-  const key = new THREE.DirectionalLight(0xffffff, 1.6);
-  key.position.set(3, 4, 5);
-  scene.add(key);
-  const group = new THREE.Group();
-  scene.add(group);
-  const bodyGeometry = THREE.CapsuleGeometry
-    ? new THREE.CapsuleGeometry(0.62, 1.2, 8, 24)
-    : new THREE.CylinderGeometry(0.48, 0.62, 1.55, 32);
-  const body = new THREE.Mesh(bodyGeometry, new THREE.MeshStandardMaterial());
-  body.position.y = 0.8;
-  const head = new THREE.Mesh(new THREE.SphereGeometry(0.48, 32, 32), new THREE.MeshStandardMaterial());
-  head.position.y = 1.82;
-  const hair = new THREE.Mesh(new THREE.SphereGeometry(0.51, 32, 16, 0, Math.PI * 2, 0, Math.PI / 2), new THREE.MeshStandardMaterial({ color: 0x2f241f }));
-  hair.position.y = 2.08;
-  hair.scale.set(1, 0.75, 1);
-  const leftEye = new THREE.Mesh(new THREE.SphereGeometry(0.045, 16, 16), new THREE.MeshStandardMaterial());
-  leftEye.position.set(-0.16, 1.88, 0.43);
-  const rightEye = leftEye.clone();
-  rightEye.position.x = 0.16;
-  const outfit = new THREE.Mesh(new THREE.CylinderGeometry(0.72, 0.52, 0.95, 32), new THREE.MeshStandardMaterial());
-  outfit.position.y = 0.38;
-  const legs = new THREE.Mesh(new THREE.CylinderGeometry(0.42, 0.34, 0.9, 28), new THREE.MeshStandardMaterial({ color: 0x1f2937 }));
-  legs.position.y = -0.48;
-  group.add(legs, body, outfit, head, hair, leftEye, rightEye);
-  character3d = { scene, camera, renderer, group, body, head, hair, leftEye, rightEye, outfit, legs };
-  animateCharacter3d();
+  try {
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(34, 1, 0.1, 100);
+    const renderer = new THREE.WebGLRenderer({ canvas: els.characterCanvas, antialias: true, alpha: true });
+    renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
+    if (THREE.SRGBColorSpace) renderer.outputColorSpace = THREE.SRGBColorSpace;
+    camera.position.set(0, 1.28, 5.9);
+    scene.add(new THREE.HemisphereLight(0xffffff, 0x8aa0bf, 2.15));
+    const key = new THREE.DirectionalLight(0xffffff, 2.0);
+    key.position.set(3.2, 4.6, 5.4);
+    scene.add(key);
+    const fill = new THREE.DirectionalLight(0xbdd7ff, 0.9);
+    fill.position.set(-3, 2.3, 3);
+    scene.add(fill);
+
+    const group = new THREE.Group();
+    group.position.y = -0.18;
+    scene.add(group);
+    const material = (color) => new THREE.MeshStandardMaterial({ color, roughness: 0.62, metalness: 0.02 });
+    const capsule = (radius, length, color, segments = 24) => {
+      const geometry = THREE.CapsuleGeometry
+        ? new THREE.CapsuleGeometry(radius, length, 10, segments)
+        : new THREE.CylinderGeometry(radius, radius, length + radius * 2, segments);
+      return new THREE.Mesh(geometry, material(color));
+    };
+
+    const shadow = new THREE.Mesh(
+      new THREE.CircleGeometry(1.45, 48),
+      new THREE.MeshBasicMaterial({ color: 0x0f172a, transparent: true, opacity: 0.12 })
+    );
+    shadow.rotation.x = -Math.PI / 2;
+    shadow.position.y = -1.48;
+
+    const torso = capsule(0.54, 0.95, 0x3182ce, 32);
+    torso.position.y = 0.12;
+    torso.scale.set(1.05, 1.08, 0.78);
+
+    const chestPanel = new THREE.Mesh(new THREE.CapsuleGeometry(0.2, 0.72, 8, 20), material(0xffffff));
+    chestPanel.position.set(-0.19, 0.26, 0.42);
+    chestPanel.rotation.z = -0.26;
+    chestPanel.scale.set(0.7, 1, 0.08);
+
+    const shorts = new THREE.Mesh(new THREE.BoxGeometry(1.0, 0.32, 0.72), material(0x111827));
+    shorts.position.y = -0.58;
+    shorts.scale.set(1, 1, 0.82);
+
+    const neck = capsule(0.17, 0.23, 0xed8936, 20);
+    neck.position.y = 0.95;
+    neck.scale.set(0.9, 1.0, 0.88);
+
+    const head = new THREE.Mesh(new THREE.SphereGeometry(0.52, 36, 28), material(0xed8936));
+    head.position.y = 1.48;
+    head.scale.set(0.94, 1.1, 0.9);
+
+    const hair = new THREE.Mesh(new THREE.SphereGeometry(0.55, 36, 18, 0, Math.PI * 2, 0, Math.PI / 2), material(0x2f241f));
+    hair.position.y = 1.88;
+    hair.scale.set(1, 0.54, 0.94);
+
+    const hairTufts = Array.from({ length: 7 }, (_, index) => {
+      const tuft = new THREE.Mesh(new THREE.SphereGeometry(0.12, 18, 12), material(0x2f241f));
+      tuft.position.set((index - 3) * 0.13, 1.78 - Math.abs(index - 3) * 0.015, 0.31);
+      tuft.scale.set(1.25, 0.8, 0.72);
+      return tuft;
+    });
+
+    const leftEar = new THREE.Mesh(new THREE.SphereGeometry(0.12, 20, 16), material(0xed8936));
+    leftEar.position.set(-0.47, 1.48, 0.01);
+    leftEar.scale.set(0.72, 1.18, 0.58);
+    const rightEar = leftEar.clone();
+    rightEar.material = leftEar.material.clone();
+    rightEar.position.x = 0.47;
+
+    const eyeWhiteMaterial = material(0xffffff);
+    const eyeColorMaterial = material(0x2b6cb0);
+    const leftEyeWhite = new THREE.Mesh(new THREE.SphereGeometry(0.075, 18, 12), eyeWhiteMaterial);
+    leftEyeWhite.position.set(-0.17, 1.53, 0.43);
+    leftEyeWhite.scale.set(1.08, 0.76, 0.34);
+    const rightEyeWhite = leftEyeWhite.clone();
+    rightEyeWhite.position.x = 0.17;
+    const leftEye = new THREE.Mesh(new THREE.SphereGeometry(0.036, 16, 12), eyeColorMaterial);
+    leftEye.position.set(-0.17, 1.53, 0.475);
+    const rightEye = leftEye.clone();
+    rightEye.material = leftEye.material.clone();
+    rightEye.position.x = 0.17;
+
+    const nose = capsule(0.035, 0.19, 0xb9652c, 14);
+    nose.position.set(0, 1.42, 0.49);
+    nose.rotation.x = Math.PI / 2;
+    const mouth = new THREE.Mesh(
+      new THREE.TorusGeometry(0.14, 0.014, 8, 32, Math.PI),
+      material(0x51311c)
+    );
+    mouth.position.set(0, 1.27, 0.455);
+    mouth.rotation.set(0, 0, Math.PI);
+
+    const makeArm = (side) => {
+      const shoulder = new THREE.Group();
+      shoulder.position.set(side * 0.62, 0.36, 0);
+      shoulder.rotation.z = side * -0.2;
+      const sleeve = capsule(0.11, 0.54, 0x3182ce, 18);
+      sleeve.position.y = -0.26;
+      const forearm = capsule(0.095, 0.48, 0xed8936, 18);
+      forearm.position.y = -0.79;
+      const hand = new THREE.Mesh(new THREE.SphereGeometry(0.12, 18, 14), material(0xed8936));
+      hand.position.y = -1.08;
+      shoulder.add(sleeve, forearm, hand);
+      return { shoulder, sleeve, forearm, hand };
+    };
+    const leftArm = makeArm(-1);
+    const rightArm = makeArm(1);
+
+    const makeLeg = (side) => {
+      const leg = new THREE.Group();
+      leg.position.set(side * 0.25, -0.9, 0);
+      const pant = capsule(0.12, 0.58, 0x111827, 18);
+      pant.position.y = -0.2;
+      const shoe = new THREE.Mesh(new THREE.BoxGeometry(0.34, 0.16, 0.5), material(0x111827));
+      shoe.position.set(side * 0.03, -0.58, 0.08);
+      shoe.rotation.y = side * -0.08;
+      leg.add(pant, shoe);
+      return { leg, pant, shoe };
+    };
+    const leftLeg = makeLeg(-1);
+    const rightLeg = makeLeg(1);
+
+    group.add(
+      shadow,
+      leftLeg.leg,
+      rightLeg.leg,
+      leftArm.shoulder,
+      rightArm.shoulder,
+      torso,
+      chestPanel,
+      shorts,
+      neck,
+      leftEar,
+      rightEar,
+      head,
+      hair,
+      ...hairTufts,
+      leftEyeWhite,
+      rightEyeWhite,
+      leftEye,
+      rightEye,
+      nose,
+      mouth
+    );
+    character3d = {
+      scene,
+      camera,
+      renderer,
+      group,
+      torso,
+      chestPanel,
+      shorts,
+      neck,
+      head,
+      hair,
+      hairTufts,
+      leftEar,
+      rightEar,
+      leftEyeWhite,
+      rightEyeWhite,
+      leftEye,
+      rightEye,
+      nose,
+      mouth,
+      leftArm,
+      rightArm,
+      leftLeg,
+      rightLeg,
+      shadow,
+      angle: 0,
+      autoRotate: false
+    };
+    updateCharacterVisuals();
+    updateAutoRotateButton();
+    animateCharacter3d();
+  } catch (error) {
+    console.warn("3D character failed to initialize; falling back to canvas.", error);
+    character3d = null;
+    initCharacterCanvasFallback();
+  }
 }
 
 function animateCharacter3d() {
@@ -5018,6 +5419,16 @@ function animateCharacter3d() {
   if (character3d.fallback) {
     drawCharacterFallback();
     return;
+  }
+  const canvas = els.characterCanvas;
+  const width = canvas.clientWidth || 680;
+  const height = canvas.clientHeight || 540;
+  if (character3d.renderWidth !== width || character3d.renderHeight !== height) {
+    character3d.renderer.setSize(width, height, false);
+    character3d.camera.aspect = width / height;
+    character3d.camera.updateProjectionMatrix();
+    character3d.renderWidth = width;
+    character3d.renderHeight = height;
   }
   character3d.renderer.render(character3d.scene, character3d.camera);
 }
@@ -5045,14 +5456,38 @@ function updateCharacterVisuals() {
     drawCharacterFallback();
     return;
   }
+  const setColor = (mesh, color) => mesh?.material?.color?.set(color);
+  const setGroupColor = (parts, color) => parts.forEach((part) => setColor(part, color));
   character3d.head.material.color.set(c.faceColor);
-  character3d.body.material.color.set(c.faceColor);
-  character3d.leftEye.material.color.set(c.eyeColor);
-  character3d.rightEye.material.color.set(c.eyeColor);
-  character3d.outfit.material.color.set(c.shirtColor);
+  setGroupColor([character3d.neck, character3d.leftEar, character3d.rightEar, character3d.leftArm.forearm, character3d.leftArm.hand, character3d.rightArm.forearm, character3d.rightArm.hand], c.faceColor);
+  setGroupColor([character3d.leftEye, character3d.rightEye], c.eyeColor);
+  setGroupColor([character3d.torso, character3d.leftArm.sleeve, character3d.rightArm.sleeve], c.shirtColor);
+  setGroupColor([character3d.shorts, character3d.leftLeg.pant, character3d.rightLeg.pant], c.pantsColor);
+  setGroupColor([character3d.leftLeg.shoe, character3d.rightLeg.shoe], c.shoesColor);
+  setGroupColor([character3d.hair, ...character3d.hairTufts], c.hairColor);
   character3d.hair.visible = c.hair !== "none";
-  const hairScale = { short: [1, 0.55, 1], long: [1.08, 1.15, 1.08], spiky: [0.9, 0.95, 0.9] }[c.hair] || [1, 0.55, 1];
+  character3d.hairTufts.forEach((tuft) => { tuft.visible = c.hair !== "none"; });
+  const hairScale = { short: [1, 0.54, 0.94], long: [1.06, 1.05, 1.02], spiky: [0.92, 0.78, 0.92], sidepart: [1.08, 0.46, 0.96], curly: [1, 0.6, 0.94] }[c.hair] || [1, 0.54, 0.94];
   character3d.hair.scale.set(...hairScale);
+  character3d.hairTufts.forEach((tuft, index) => {
+    tuft.scale.set(c.hair === "spiky" ? 0.88 : c.hair === "curly" ? 1.25 : 1.0, c.hair === "spiky" ? 1.45 : 0.85, 0.78);
+    tuft.position.y = 1.78 + (c.hair === "spiky" ? Math.abs(index - 3) * 0.035 : 0) - Math.abs(index - 3) * 0.015;
+  });
+  character3d.leftEyeWhite.scale.set(c.eyeShape === "determined" ? 1.16 : c.eyeShape === "anime" ? 1.32 : 1.08, c.eyeShape === "happy" ? 0.36 : 0.76, 0.34);
+  character3d.rightEyeWhite.scale.copy(character3d.leftEyeWhite.scale);
+  character3d.nose.scale.set(c.nose === "sharp" ? 0.9 : c.nose === "cute" ? 0.76 : 1, c.nose === "straight" ? 1.2 : 1, c.nose === "sharp" ? 1.24 : 1);
+  character3d.mouth.scale.set(c.mouth === "grin" ? 1.45 : c.mouth === "neutral" ? 1.05 : c.mouth === "surprised" ? 0.62 : 1, c.mouth === "surprised" ? 1.7 : c.mouth === "neutral" ? 0.35 : 1, 1);
+  character3d.leftArm.shoulder.rotation.z = c.arms === "waving" ? 0.9 : c.arms === "athletic" ? 0.36 : 0.2;
+  character3d.rightArm.shoulder.rotation.z = c.arms === "waving" ? -0.9 : c.arms === "athletic" ? -0.36 : -0.2;
+  character3d.leftLeg.leg.position.x = c.legs === "wide" ? -0.34 : -0.25;
+  character3d.rightLeg.leg.position.x = c.legs === "wide" ? 0.34 : 0.25;
+  character3d.leftLeg.leg.rotation.z = c.legs === "athletic" ? 0.08 : 0;
+  character3d.rightLeg.leg.rotation.z = c.legs === "athletic" ? -0.08 : 0;
+  character3d.torso.scale.set(c.shirt === "hoodie" ? 1.14 : c.shirt === "jersey" ? 1.08 : 1.05, 1.08, 0.78);
+  character3d.shorts.scale.set(c.pants === "shorts" ? 1.05 : 1, c.pants === "cargo" ? 1.18 : 1, 0.82);
+  character3d.leftLeg.shoe.scale.set(c.shoes === "boots" ? 1.08 : c.shoes === "formal" ? 0.94 : 1, c.shoes === "boots" ? 1.18 : 1, c.shoes === "trainers" ? 1.16 : 1);
+  character3d.rightLeg.shoe.scale.copy(character3d.leftLeg.shoe.scale);
+  animateCharacter3d();
 }
 
 function initCharacterCanvasFallback() {
@@ -5175,7 +5610,12 @@ function runCharacterRotation() {
     return;
   }
   character3d.angle += 0.035;
-  drawCharacterFallback();
+  if (character3d.fallback) {
+    drawCharacterFallback();
+  } else {
+    character3d.group.rotation.y = character3d.angle;
+    animateCharacter3d();
+  }
   characterRotateFrame = requestAnimationFrame(runCharacterRotation);
 }
 
@@ -5187,7 +5627,12 @@ function setCharacterAutoRotate(enabled) {
     character3d.angle = 0;
     if (characterRotateFrame) cancelAnimationFrame(characterRotateFrame);
     characterRotateFrame = null;
-    drawCharacterFallback();
+    if (character3d.fallback) {
+      drawCharacterFallback();
+    } else {
+      character3d.group.rotation.y = 0;
+      animateCharacter3d();
+    }
     return;
   }
   if (!characterRotateFrame) characterRotateFrame = requestAnimationFrame(runCharacterRotation);

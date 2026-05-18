@@ -931,7 +931,10 @@
           <button class="close-modal-btn" id="closePublicProfileBtn" type="button">x</button>
         </div>
         <div class="public-profile-hero">
-          <div id="publicProfileAvatar" class="public-profile-avatar"></div>
+          <div class="public-character-preview">
+            <canvas id="publicCharacterCanvas" class="public-character-canvas" aria-label="Read-only profile character"></canvas>
+            <div id="publicProfileAvatar" class="public-profile-avatar"></div>
+          </div>
           <div class="public-profile-main">
             <p id="publicProfileHandle"></p>
             <p id="publicProfileBio"></p>
@@ -998,7 +1001,7 @@
       </div>
     </div>
     <div id="tooltip" class="tooltip glass-panel" role="tooltip" hidden></div>
-    <script src="script.js?v=language-profile-12"></script>
+    <script src="script.js?v=language-profile-13"></script>
 
     <!-- Clippy Guide -->
     <div id="clippyGuide" class="clippy-guide" hidden style="position: fixed; bottom: 20px; right: 20px; z-index: 1000; display: flex; align-items: flex-end; gap: 10px; pointer-events: none;">

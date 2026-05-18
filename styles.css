@@ -3835,3 +3835,169 @@ select, input, textarea {
     grid-template-columns: 1fr !important;
   }
 }
+
+/* Single fixed profile navigation and RPG-style character creator */
+.public-profile-header .public-back-btn,
+.public-profile-header #closePublicProfileBtn {
+  display: none !important;
+}
+
+.public-profile-header {
+  grid-template-columns: 1fr !important;
+}
+
+.public-character-preview {
+  position: relative;
+  width: min(320px, 100%);
+  aspect-ratio: 5 / 6;
+  justify-self: center;
+  overflow: hidden;
+  border-radius: 22px;
+  border: 4px solid rgba(255,255,255,0.9);
+  background: linear-gradient(180deg, #eff6ff, #ccfbf1);
+  box-shadow: 0 10px 0 rgba(30, 64, 175, 0.16), 0 24px 48px rgba(15, 23, 42, 0.18);
+}
+
+.public-character-canvas {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.public-character-preview .public-profile-avatar {
+  position: absolute;
+  right: 12px;
+  top: 12px;
+  width: 58px;
+  height: 58px;
+  border-radius: 18px;
+  font-size: 1.1rem;
+  border: 3px solid rgba(255,255,255,0.9);
+}
+
+.public-profile-hero {
+  grid-template-columns: minmax(260px, 340px) minmax(0, 1fr) minmax(320px, 0.8fr) !important;
+}
+
+.character-customization-panel {
+  background:
+    linear-gradient(180deg, rgba(15, 23, 42, 0.95), rgba(30, 41, 59, 0.94)) !important;
+  border-color: rgba(148, 163, 184, 0.65) !important;
+}
+
+.character-customization-panel .profile-section-heading h3 {
+  color: #fef08a !important;
+  text-shadow: 0 3px 0 rgba(0,0,0,0.25);
+}
+
+.character-customization-panel .studio-layout {
+  display: grid !important;
+  grid-template-columns: minmax(320px, 420px) minmax(440px, 1fr) !important;
+  align-items: stretch !important;
+  gap: 22px !important;
+}
+
+.character-customization-panel .customizer-controls {
+  order: 1 !important;
+  width: 100% !important;
+  justify-content: start !important;
+  gap: 16px !important;
+  padding: 16px;
+  border-radius: 14px;
+  background: rgba(2, 6, 23, 0.66);
+  border: 3px solid rgba(148, 163, 184, 0.62);
+  box-shadow: inset 0 0 0 2px rgba(255,255,255,0.05);
+}
+
+.character-customization-panel .character-preview-frame {
+  order: 2 !important;
+  width: 100% !important;
+  max-width: none !important;
+  min-height: 560px !important;
+  aspect-ratio: auto !important;
+  border-radius: 14px !important;
+  border: 4px solid rgba(96, 165, 250, 0.72) !important;
+  background:
+    linear-gradient(180deg, rgba(17, 24, 39, 0.18), rgba(15, 23, 42, 0.52)),
+    radial-gradient(circle at 42% 22%, rgba(248, 113, 113, 0.6), transparent 21%),
+    radial-gradient(circle at 66% 14%, rgba(168, 85, 247, 0.45), transparent 24%),
+    linear-gradient(180deg, #93c5fd 0%, #fda4af 42%, #475569 100%) !important;
+  box-shadow: 0 12px 0 rgba(15, 23, 42, 0.42), inset 0 0 0 2px rgba(255,255,255,0.16) !important;
+}
+
+.character-customization-panel .character-canvas {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.character-customization-panel .customizer-grid {
+  grid-template-columns: 1fr !important;
+  gap: 10px !important;
+}
+
+.character-customization-panel .control-group {
+  min-height: 74px;
+  grid-template-columns: minmax(120px, 1fr) auto;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 2px solid rgba(148, 163, 184, 0.45);
+  background: linear-gradient(180deg, rgba(30, 41, 59, 0.98), rgba(15, 23, 42, 0.96));
+}
+
+.character-customization-panel .control-group label {
+  color: #f8fafc !important;
+  font-size: 1rem !important;
+  text-transform: none !important;
+  letter-spacing: 0 !important;
+}
+
+.character-customization-panel .control-group select {
+  min-width: 160px;
+  min-height: 48px;
+  border: 2px solid rgba(96, 165, 250, 0.72);
+  border-radius: 999px;
+  background: linear-gradient(180deg, #111827, #020617);
+  color: #fef08a;
+  font-weight: 950;
+}
+
+.character-customization-panel .color-pickers-section {
+  border-top: 2px solid rgba(148, 163, 184, 0.32);
+  padding-top: 14px;
+}
+
+.character-customization-panel .color-pickers-section h4 {
+  color: #fef08a !important;
+}
+
+.character-customization-panel .color-pickers-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+}
+
+.character-customization-panel .color-picker-item {
+  color: #f8fafc;
+}
+
+.auto-rotate-btn {
+  right: 16px !important;
+  bottom: 16px !important;
+  min-height: 46px !important;
+  border: 3px solid rgba(255,255,255,0.86) !important;
+  background: linear-gradient(180deg, #22c55e, #15803d) !important;
+  color: white !important;
+  box-shadow: 0 7px 0 #14532d, 0 16px 28px rgba(21, 128, 61, 0.24) !important;
+}
+
+@media (max-width: 980px) {
+  .public-profile-hero,
+  .character-customization-panel .studio-layout {
+    grid-template-columns: 1fr !important;
+  }
+
+  .character-customization-panel .customizer-controls,
+  .character-customization-panel .character-preview-frame {
+    order: unset !important;
+  }
+}
