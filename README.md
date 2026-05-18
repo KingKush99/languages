@@ -1,6 +1,14 @@
-# Reader 1000
+# Languages
 
-Static prototype for language-reading practice.
+Static prototype for language-reading practice across Russian, Japanese, Mandarin, Hindi, and Arabic.
+
+## Project layout
+
+- `index.html`, `styles.css`, `script.js` - the static app.
+- `server.js` - local development server for `http://127.0.0.1:9876`.
+- `languages/` - language-specific folders and manifests.
+- `languages/russian/assets/images/` - Russian story and theme images.
+- `languages/japanese/assets/themes/` - Japanese background themes.
 
 ## Features
 
@@ -32,7 +40,7 @@ $env:OPENAI_API_KEY = "your_api_key"
 node server.js
 ```
 
-Generated story images are cached in `Images/story-ai/`.
+Generated story images are cached in `languages/<language>/assets/story-ai/`.
 
 ## Import format
 

@@ -1,0 +1,14 @@
+{
+  "id": "hindi",
+  "label": "Hindi",
+  "speechLang": "hi-IN",
+  "direction": "ltr",
+  "assets": {
+    "generatedStoryImages": "assets/story-ai"
+  },
+  "content": {
+    "words": "Bundled in script.js as the Hindi 1000-word list",
+    "paragraphs": "Bundled in script.js as Hindi practice paragraphs",
+    "stories": "Bundled in script.js as Hindi stories"
+  }
+}

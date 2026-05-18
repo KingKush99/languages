@@ -1,0 +1,15 @@
+{
+  "id": "russian",
+  "label": "Russian",
+  "speechLang": "ru-RU",
+  "direction": "ltr",
+  "assets": {
+    "images": "assets/images",
+    "generatedStoryImages": "assets/story-ai"
+  },
+  "content": {
+    "words": "Bundled in script.js as the Russian 1000-word list",
+    "paragraphs": "Bundled in script.js as Russian practice paragraphs",
+    "stories": "Bundled in script.js as Russian stories"
+  }
+}

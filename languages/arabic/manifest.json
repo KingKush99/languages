@@ -1,0 +1,14 @@
+{
+  "id": "arabic",
+  "label": "Arabic",
+  "speechLang": "ar-SA",
+  "direction": "rtl",
+  "assets": {
+    "generatedStoryImages": "assets/story-ai"
+  },
+  "content": {
+    "words": "Bundled in script.js as the Arabic 1000-word list",
+    "paragraphs": "Bundled in script.js as Arabic practice paragraphs",
+    "stories": "Bundled in script.js as Arabic stories"
+  }
+}

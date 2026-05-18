@@ -70,15 +70,18 @@ async function handleStoryImage(req, res) {
   }
 
   const id = safeFileName(payload.id);
+  const language = ["russian", "japanese", "mandarin", "hindi", "arabic"].includes(payload.language)
+    ? payload.language
+    : "russian";
   const prompt = String(payload.prompt || "").trim();
   if (!prompt) {
     sendJson(res, 400, { error: "Missing image prompt." });
     return;
   }
 
-  const imageDir = path.join(root, "Images", "story-ai");
+  const imageDir = path.join(root, "languages", language, "assets", "story-ai");
   const imagePath = path.join(imageDir, `${id}.webp`);
-  const publicUrl = `/Images/story-ai/${id}.webp`;
+  const publicUrl = `/languages/${language}/assets/story-ai/${id}.webp`;
 
   if (fs.existsSync(imagePath)) {
     sendJson(res, 200, { status: "cached", url: publicUrl });

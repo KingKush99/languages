@@ -1,0 +1,15 @@
+{
+  "id": "japanese",
+  "label": "Japanese",
+  "speechLang": "ja-JP",
+  "direction": "ltr",
+  "assets": {
+    "themes": "assets/themes",
+    "generatedStoryImages": "assets/story-ai"
+  },
+  "content": {
+    "words": "Bundled in script.js as the Japanese 1000-word list",
+    "paragraphs": "Bundled in script.js as Japanese practice paragraphs",
+    "stories": "Bundled in script.js as Japanese stories"
+  }
+}

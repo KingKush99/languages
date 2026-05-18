@@ -1,0 +1,14 @@
+{
+  "id": "mandarin",
+  "label": "Mandarin",
+  "speechLang": "zh-CN",
+  "direction": "ltr",
+  "assets": {
+    "generatedStoryImages": "assets/story-ai"
+  },
+  "content": {
+    "words": "Bundled in script.js as the Mandarin 1000-word list",
+    "paragraphs": "Bundled in script.js as Mandarin practice paragraphs",
+    "stories": "Bundled in script.js as Mandarin stories"
+  }
+}

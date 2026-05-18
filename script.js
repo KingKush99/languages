@@ -386,7 +386,7 @@ const handcraftedStories = [
     sections: [
       {
         heading: "Page 1",
-        image: "Images/story_morning_1778919583812.png",
+        image: "languages/russian/assets/images/story_morning_1778919583812.png",
         ru: "Утром Анна дома. На столе чай, хлеб и книга. Анна читает медленно. Потом она пишет новое слово: город. Она говорит: я знаю это слово.",
         en: "In the morning Anna is at home. On the table there is tea, bread, and a book. Anna reads slowly. Then she writes a new word: city. She says: I know this word."
       }
@@ -485,16 +485,16 @@ const handcraftedStories = [
 ];
 
 const themeImages = {
-  "семье": "Images/theme_family_1778919168922.png",
-  "работе": "Images/theme_city_1778919252164.png",
-  "городе": "Images/theme_city_1778919252164.png",
-  "языке": "Images/theme_history_1778919304589.png",
-  "истории": "Images/theme_history_1778919304589.png",
-  "плане": "Images/theme_meeting_1778919415930.png",
-  "дороге": "Images/theme_road_1778919338736.png",
-  "встрече": "Images/theme_meeting_1778919415930.png",
-  "новости": "Images/theme_meeting_1778919415930.png",
-  "вопросе": "Images/theme_history_1778919304589.png"
+  "семье": "languages/russian/assets/images/theme_family_1778919168922.png",
+  "работе": "languages/russian/assets/images/theme_city_1778919252164.png",
+  "городе": "languages/russian/assets/images/theme_city_1778919252164.png",
+  "языке": "languages/russian/assets/images/theme_history_1778919304589.png",
+  "истории": "languages/russian/assets/images/theme_history_1778919304589.png",
+  "плане": "languages/russian/assets/images/theme_meeting_1778919415930.png",
+  "дороге": "languages/russian/assets/images/theme_road_1778919338736.png",
+  "встрече": "languages/russian/assets/images/theme_meeting_1778919415930.png",
+  "новости": "languages/russian/assets/images/theme_meeting_1778919415930.png",
+  "вопросе": "languages/russian/assets/images/theme_history_1778919304589.png"
 };
 
 const storySeedData = {
@@ -575,7 +575,7 @@ function createBeginnerStories(count) {
       sections: [
         {
           heading: "Page 1",
-          image: themeImages[themeRu] || "Images/1.png",
+          image: themeImages[themeRu] || "languages/russian/assets/images/theme_family_1778919168922.png",
           ru: `Утром ${name} идёт в ${placeRu}. Там есть ${objectRu} и новое слово. ${name} читает медленно и думает о ${themeRu}. День хороший, и русский язык становится ближе.`,
           en: `In the morning ${name} goes to the ${placeEn}. There is a ${objectEn} and a new word there. ${name} reads slowly and thinks about ${themeEn}. The day is good, and the Russian language becomes closer.`
         }
@@ -801,7 +801,7 @@ function createBeginnerJpStories(count) {
       sections: [
         {
           heading: "Page 1",
-          image: themeImages[themeJp] || "Images/theme_family_1778919168922.png",
+          image: themeImages[themeJp] || "languages/russian/assets/images/theme_family_1778919168922.png",
           ru: `朝、${name}は${placeJp}に行きます。そこには${objectJp}と新しい言葉があります。${name}はゆっくりそれを読み、${themeJp}について考えます。良い日になり、日本語がより身近になります。`,
           en: `In the morning ${name} goes to the ${placeEn}. There is a ${objectEn} and a new word there. ${name} reads slowly and thinks about ${themeEn}. The day is good, and the Japanese language becomes closer.`
         }
@@ -1934,7 +1934,7 @@ const appState = {
   unlockedSongs: JSON.parse(localStorage.getItem('nova_unlocked_songs') || '[]'),
   learnedWords: JSON.parse(localStorage.getItem(`nova_learned_words_${initialLanguage}`) || localStorage.getItem('nova_learned_words') || '[]'),
   outboundMessages: JSON.parse(localStorage.getItem('nova_outbound_messages') || '{}'),
-  activeTheme: localStorage.getItem('nova_active_theme') || 'Images/theme_family_1778919168922.png',
+  activeTheme: localStorage.getItem('nova_active_theme') || 'languages/russian/assets/images/theme_family_1778919168922.png',
   isPlaying: false,
   currentStorySectionIndex: 0
 };
@@ -2443,7 +2443,8 @@ async function generateStoryImage() {
         id: `${story.id}-${sectionIndex}`,
         title: story.title,
         difficulty: story.difficulty,
-        prompt: storyImagePrompt(story)
+        prompt: storyImagePrompt(story),
+        language: appState.targetLanguage
       })
     });
     const result = await response.json();
@@ -3273,7 +3274,7 @@ function applyTheme(id) {
     document.documentElement.style.setProperty('--app-bg', japaneseThemes[id].bg);
     return;
   }
-  const url = `Themes/${id}.png`;
+  const url = `languages/japanese/assets/themes/${id}.png`;
   appState.activeTheme = url;
   localStorage.setItem('nova_active_theme', url);
   document.documentElement.style.setProperty('--app-bg', `url('${url}')`);
