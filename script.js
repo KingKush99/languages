@@ -2184,6 +2184,7 @@ const els = {
   nextSongBtn: document.querySelector("#nextSongBtn"),
   profileBtn: document.querySelector("#profileBtn"),
   profileBackBtn: document.querySelector("#profileBackBtn"),
+  profileCloseBtn: document.querySelector("#profileCloseBtn"),
   editAvatarBtn: document.querySelector("#editAvatarBtn"),
   userName: document.querySelector("#userName")
 };
@@ -3053,6 +3054,7 @@ els.storiesTab?.addEventListener("click", () => switchView("stories"));
 els.profileTab?.addEventListener("click", () => switchView("profile"));
 els.profileBtn?.addEventListener("click", () => switchView("profile"));
 els.profileBackBtn?.addEventListener("click", () => switchView("practice"));
+els.profileCloseBtn?.addEventListener("click", () => switchView("practice"));
 els.profileSettingsBtn?.addEventListener("click", () => {
   renderProfileSettings();
   if (els.profileSettingsModal) els.profileSettingsModal.hidden = false;
@@ -3348,7 +3350,10 @@ els.slotsCloseBtn.addEventListener("click", () => els.slotsWidget.hidden = true)
 els.toggleTwitchBtn.addEventListener("click", () => els.twitchChat.hidden = !els.twitchChat.hidden);
 els.closeTwitchBtn.addEventListener("click", () => els.twitchChat.hidden = true);
 
-els.toggleDMBtn.addEventListener("click", () => els.dmWidget.hidden = !els.dmWidget.hidden);
+els.toggleDMBtn.addEventListener("click", () => {
+  renderDMInbox();
+  els.dmWidget.hidden = !els.dmWidget.hidden;
+});
 els.closeDMBtn.addEventListener("click", () => els.dmWidget.hidden = true);
 
 // Add global window click to close modals if clicking outside content
@@ -4048,6 +4053,8 @@ let activePublicProfile = null;
 let publicProfileStack = [];
 const socialGraphKey = "nova_social_graph_v1";
 const socialMessagesKey = "nova_social_messages_v1";
+const socialFriendRequestsKey = "nova_friend_requests_v1";
+const socialGroupChatsKey = "nova_group_chats_v1";
 
 function normalizeProfileSettings(settings = {}) {
   return {
@@ -4370,21 +4377,47 @@ const socialDataStore = {
     appState.profile.social = mergedSocial;
     this.writeGraph(graph);
   },
-  addFriend(name) {
+  readFriendRequests() {
+    return readLocalJson(socialFriendRequestsKey, []);
+  },
+  writeFriendRequests(requests) {
+    localStorage.setItem(socialFriendRequestsKey, JSON.stringify(requests));
+  },
+  sendFriendRequest(to) {
     const ownName = this.getOwnName();
+    const requests = this.readFriendRequests();
+    const existing = requests.find((request) => request.from === ownName && request.to === to && request.status === "pending");
+    if (existing) return existing;
+    const request = {
+      id: `friend-${Date.now()}-${Math.abs(hashString(`${ownName}:${to}`))}`,
+      from: ownName,
+      to,
+      status: "pending",
+      createdAt: new Date().toISOString()
+    };
+    requests.push(request);
+    this.writeFriendRequests(requests.slice(-200));
+    return request;
+  },
+  acceptFriendRequest(id) {
+    const requests = this.readFriendRequests();
+    const request = requests.find((item) => item.id === id);
+    if (!request) return null;
+    request.status = "accepted";
     const graph = this.readGraph();
-    const own = graph[ownName] || buildSocialProfile(ownName);
-    const target = graph[name] || buildSocialProfile(name);
-    own.social = own.social || { followers: [], following: [], friends: [] };
-    target.social = target.social || { followers: [], following: [], friends: [] };
-    own.social.friends = mergeSocialPeople(own.social.friends, [name]);
-    target.social.followers = mergeSocialPeople(target.social.followers, [ownName]);
-    graph[ownName] = { ...own, updatedAt: Date.now() };
-    graph[name] = { ...target, updatedAt: Date.now() };
+    const own = graph[request.to] || buildSocialProfile(request.to);
+    const target = graph[request.from] || buildSocialProfile(request.from);
+    own.social.friends = mergeSocialPeople(own.social.friends, [request.from]);
+    target.social.friends = mergeSocialPeople(target.social.friends, [request.to]);
+    graph[request.to] = { ...own, updatedAt: Date.now() };
+    graph[request.from] = { ...target, updatedAt: Date.now() };
     this.writeGraph(graph);
-    appState.profile.social = graph[ownName].social;
-    saveProfile();
-    return graph[name];
+    this.writeFriendRequests(requests);
+    if (request.to === this.getOwnName()) {
+      appState.profile.social = graph[request.to].social;
+      saveProfile();
+    }
+    return request;
   },
   readMessages() {
     return readLocalJson(socialMessagesKey, []);
@@ -4408,8 +4441,139 @@ const socialDataStore = {
     messages.push(message);
     this.writeMessages(messages.slice(-200));
     return this.pendingMessagesTo(to);
+  },
+  readGroupChats() {
+    const groups = readLocalJson(socialGroupChatsKey, null);
+    if (groups) return groups;
+    const defaults = [
+      { id: "group-polyglot", name: "Polyglot Practice", members: ["Connor", "Mila Petrova", "Aarav Sharma"], lastMessage: "Share today's reading score.", updatedAt: new Date().toISOString() },
+      { id: "group-story", name: "Story Club", members: ["Connor", "Sofia Ivanova", "Yuki Tanaka"], lastMessage: "Pick a beginner story and read aloud.", updatedAt: new Date().toISOString() }
+    ];
+    localStorage.setItem(socialGroupChatsKey, JSON.stringify(defaults));
+    return defaults;
   }
 };
+
+function formatSocialTime(value) {
+  const date = value ? new Date(value) : null;
+  if (!date || Number.isNaN(date.getTime())) return "just now";
+  return date.toLocaleString([], { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" });
+}
+
+function makeDMSection(title, rows) {
+  const section = document.createElement("section");
+  section.className = "dm-section";
+  const heading = document.createElement("h4");
+  heading.textContent = title;
+  section.append(heading);
+  if (!rows.length) {
+    const empty = document.createElement("p");
+    empty.className = "dm-empty";
+    empty.textContent = "Nothing here yet.";
+    section.append(empty);
+    return section;
+  }
+  rows.forEach((row) => section.append(row));
+  return section;
+}
+
+function makeDMRow({ title, preview, meta, actionLabel, actionId, person }) {
+  const row = document.createElement("article");
+  row.className = "dm-thread";
+  if (person) row.dataset.person = person;
+  const initials = title.split(" ").map((part) => part[0]).join("").slice(0, 2);
+  const avatar = document.createElement("div");
+  avatar.className = "dm-avatar";
+  avatar.setAttribute("aria-hidden", "true");
+  avatar.textContent = initials;
+  const copy = document.createElement("div");
+  copy.className = "dm-copy";
+  const titleEl = document.createElement("strong");
+  titleEl.textContent = title;
+  const previewEl = document.createElement("span");
+  previewEl.className = "dm-preview";
+  previewEl.textContent = preview;
+  const metaEl = document.createElement("small");
+  metaEl.textContent = meta;
+  copy.append(titleEl, previewEl, metaEl);
+  row.append(avatar, copy);
+  if (actionId) {
+    const button = document.createElement("button");
+    button.className = "dm-inline-action";
+    button.type = "button";
+    button.dataset.acceptRequest = actionId;
+    button.textContent = actionLabel || "Accept";
+    row.append(button);
+  }
+  return row;
+}
+
+function renderDMInbox() {
+  if (!els.dmList) return;
+  const ownName = socialDataStore.getOwnName();
+  const requests = socialDataStore.readFriendRequests();
+  const messages = socialDataStore.readMessages();
+  const groups = socialDataStore.readGroupChats();
+  const pendingRequests = requests
+    .filter((request) => request.status === "pending")
+    .map((request) => {
+      const incoming = request.to === ownName;
+      return makeDMRow({
+        title: incoming ? request.from : request.to,
+        preview: incoming ? "Sent you a friend request." : "Friend request sent.",
+        meta: formatSocialTime(request.createdAt),
+        actionId: incoming ? request.id : "",
+        actionLabel: "Accept",
+        person: incoming ? request.from : request.to
+      });
+    });
+  const pendingMessages = messages
+    .filter((message) => message.status === "pending" && (message.to === ownName || message.from === ownName))
+    .slice(-20)
+    .reverse()
+    .map((message) => makeDMRow({
+      title: message.from === ownName ? message.to : message.from,
+      preview: `${message.from === ownName ? "You: " : ""}${message.text}`,
+      meta: formatSocialTime(message.createdAt),
+      person: message.from === ownName ? message.to : message.from
+    }));
+  const sentMessages = messages
+    .filter((message) => message.from === ownName)
+    .slice(-20)
+    .reverse()
+    .map((message) => makeDMRow({
+      title: message.to,
+      preview: message.text,
+      meta: `${message.status} - ${formatSocialTime(message.createdAt)}`,
+      person: message.to
+    }));
+  const groupRows = groups.map((group) => makeDMRow({
+    title: group.name,
+    preview: group.lastMessage || `${group.members.length} members`,
+    meta: `${group.members.length} members - ${formatSocialTime(group.updatedAt)}`
+  }));
+  els.dmList.replaceChildren(
+    makeDMSection("DM Requests", [...pendingRequests, ...pendingMessages]),
+    makeDMSection("Regular Messages Sent", sentMessages),
+    makeDMSection("Group Chats", groupRows)
+  );
+}
+
+function initDMs() {
+  renderDMInbox();
+}
+
+els.dmList?.addEventListener("click", (event) => {
+  const acceptButton = event.target.closest("[data-accept-request]");
+  const personRow = event.target.closest("[data-person]");
+  if (acceptButton) {
+    socialDataStore.acceptFriendRequest(acceptButton.dataset.acceptRequest);
+    renderProfile();
+    renderDMInbox();
+    return;
+  }
+  if (personRow) openPersonProfile(personRow.dataset.person);
+});
 
 function createPublicProfile(name) {
   const hash = Math.abs(hashString(name));
@@ -4595,10 +4759,10 @@ function addFriend(name) {
     els.publicProfileStatus.textContent = "Friend requests are currently disabled in your profile settings.";
     return;
   }
-  socialDataStore.addFriend(name);
-  renderProfile();
-  if (activePublicProfile?.name === name) renderPublicProfile(name);
-  els.publicProfileStatus.textContent = `${name} is now in your friends list.`;
+  socialDataStore.sendFriendRequest(name);
+  renderDMInbox();
+  if (els.dmWidget) els.dmWidget.hidden = false;
+  els.publicProfileStatus.textContent = `Friend request sent to ${name}. They need to accept it before they are added.`;
 }
 
 function sendMessageToPerson(name) {
@@ -4616,6 +4780,8 @@ function sendMessageToPerson(name) {
   const nextPending = socialDataStore.sendMessage(name, message);
   appState.outboundMessages[name] = nextPending;
   localStorage.setItem("nova_outbound_messages", JSON.stringify(appState.outboundMessages));
+  renderDMInbox();
+  if (els.dmWidget) els.dmWidget.hidden = false;
   els.publicProfileStatus.textContent = appState.settings?.notifyMessages
     ? `Message sent. ${nextPending}/3 waiting for a reply.`
     : `Message saved silently. ${nextPending}/3 waiting for a reply.`;
@@ -5253,6 +5419,7 @@ els.saveProfileBtn.addEventListener("click", () => {
   saveProfile();
   renderProfile();
   if (els.profileEditPanel) els.profileEditPanel.hidden = true;
+  if (els.editProfileModal) els.editProfileModal.hidden = true;
   if (els.editProfileBtn) els.editProfileBtn.textContent = "Edit";
   els.profileSaveStatus.textContent = "Profile saved.";
 });

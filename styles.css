@@ -637,6 +637,11 @@ select, input, textarea {
 }
 
 .practice-step-card {
+  margin-top: 14px;
+  padding: 12px;
+  border: 1px solid var(--glass-border);
+  border-radius: 8px;
+  background: rgba(255,255,255,0.62);
   text-align: center;
 }
 
@@ -1515,10 +1520,48 @@ select, input, textarea {
 .dm-thread:hover {
   background: rgba(255,255,255,0.6);
 }
+.dm-section {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.dm-section h4 {
+  margin: 6px 0 0;
+  color: var(--ink);
+  font-size: 0.82rem;
+  text-transform: uppercase;
+}
+.dm-empty {
+  margin: 0;
+  padding: 8px;
+  color: var(--muted);
+  font-size: 0.82rem;
+}
 .dm-avatar {
   width: 32px;
   height: 32px;
   border-radius: 50%;
+  display: grid;
+  place-items: center;
+  flex: 0 0 32px;
+  background: var(--primary);
+  color: white;
+  font-size: 0.75rem;
+  font-weight: 900;
+}
+.dm-copy {
+  min-width: 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.dm-copy strong {
+  font-size: 0.9rem;
+}
+.dm-copy small {
+  color: var(--muted);
+  font-size: 0.72rem;
 }
 .dm-preview {
   font-size: 0.8rem;
@@ -1526,7 +1569,16 @@ select, input, textarea {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  width: 180px;
+  max-width: 180px;
+}
+.dm-inline-action {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: white;
+  color: var(--primary-strong);
+  padding: 6px 8px;
+  font-weight: 900;
+  cursor: pointer;
 }
 
 /* --- PROFILE MODAL (INSTAGRAM STYLE) --- */
@@ -1998,6 +2050,25 @@ select, input, textarea {
   font-weight: 800;
   cursor: pointer;
   box-shadow: var(--shadow);
+}
+.profile-close-page-btn {
+  position: fixed;
+  top: 18px;
+  right: 18px;
+  z-index: 70;
+  width: 42px;
+  height: 42px;
+  border: 1px solid var(--line);
+  border-radius: 50%;
+  background: white;
+  color: var(--ink);
+  font-size: 1.2rem;
+  font-weight: 900;
+  cursor: pointer;
+  box-shadow: var(--shadow);
+}
+.profile-close-page-btn:hover {
+  background: var(--accent-soft);
 }
 .profile-header-card {
   position: relative;

@@ -12,13 +12,13 @@
     <!-- Top Navigation -->
     <header class="app-header glass-panel-top">
       <div class="profile-container">
-        <button id="profileBtn" class="profile-button">
+        <button id="profileBtn" class="profile-button" type="button">
           <div id="profileAvatarContainer" class="profile-avatar-mini-wrapper"></div>
           <span id="userName">Connor</span>
         </button>
       </div>
       <div class="economy-container">
-        <button id="hamburgerBtn" class="hamburger-button" aria-label="Menu">
+        <button id="hamburgerBtn" class="hamburger-button" type="button" aria-label="Menu">
           <svg viewBox="0 0 24 24" width="32" height="32" fill="currentColor">
             <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
           </svg>
@@ -30,7 +30,7 @@
     <div id="hamburgerMenu" class="side-menu glass-panel" hidden>
        <div class="menu-header">
          <h2>Menu</h2>
-         <button class="close-btn" id="closeHamburgerBtn">×</button>
+         <button class="close-btn" id="closeHamburgerBtn" type="button">×</button>
        </div>
        
        <div class="menu-wallet">
@@ -44,9 +44,9 @@
        </div>
 
        <div class="menu-actions">
-         <button id="openStoreBtn" class="menu-btn primary-btn">Buy Coins & Store</button>
-         <button id="openMusicBtn" class="menu-btn secondary-btn">Spotify Music Player</button>
-         <button id="openAchievementsBtn" class="menu-btn">Achievements</button>
+         <button id="openStoreBtn" class="menu-btn primary-btn" type="button">Buy Coins & Store</button>
+         <button id="openMusicBtn" class="menu-btn secondary-btn" type="button">Spotify Music Player</button>
+         <button id="openAchievementsBtn" class="menu-btn" type="button">Achievements</button>
        </div>
        
        <div class="themes-shop">
@@ -61,10 +61,10 @@
       <div class="modal-content glass-panel">
         <div class="modal-header">
           <h2>Coin Store</h2>
-          <button class="close-modal-btn" id="closeStoreBtn">×</button>
+          <button class="close-modal-btn" id="closeStoreBtn" type="button">×</button>
         </div>
         <div class="store-grid" id="storeGrid"></div>
-        <button id="watchAdBtn" class="action-btn watch-ad-btn">Watch Ad (+50 Coins)</button>
+        <button id="watchAdBtn" class="action-btn watch-ad-btn" type="button">Watch Ad (+50 Coins)</button>
       </div>
     </div>
 
@@ -73,7 +73,7 @@
       <div id="musicPlaylistPanel" class="music-playlist-panel">
         <div class="modal-header">
           <h2>Playlist</h2>
-          <button class="close-modal-btn" id="closeMusicBtn">×</button>
+          <button class="close-modal-btn" id="closeMusicBtn" type="button">×</button>
         </div>
         <div class="spotify-playlist-container">
           <table class="spotify-table">
@@ -97,9 +97,9 @@
              <span id="songStatus">Paused</span>
           </div>
           <div class="player-controls">
-             <button id="prevSongBtn" class="player-btn">⏮</button>
-             <button id="playSongBtn" class="player-btn play-btn">▶️</button>
-             <button id="nextSongBtn" class="player-btn">⏭</button>
+             <button id="prevSongBtn" class="player-btn" type="button">⏮</button>
+             <button id="playSongBtn" class="player-btn play-btn" type="button">▶️</button>
+             <button id="nextSongBtn" class="player-btn" type="button">⏭</button>
           </div>
           <button id="expandMusicBtn" class="action-btn secondary-btn music-expand-btn" type="button">Playlist</button>
         </div>
@@ -146,14 +146,7 @@
           <div><strong id="wordCount">0</strong><span>words loaded</span></div>
           <div><strong id="activeBand">1-100</strong><span>frequency band</span></div>
           <div><strong id="coverage">0%</strong><span>hover coverage</span></div>
-          <div class="practice-step-card">
-            <div class="practice-step-actions">
-              <button id="practiceBackBtn" class="practice-step-btn" type="button">Back</button>
-              <button id="newParagraphBtn" class="practice-step-btn primary" type="button">Next</button>
-            </div>
-            <strong id="practiceClock">--:--</strong>
-            <span id="practiceGateStatus">Score 70% to unlock Next</span>
-          </div>
+          <div><strong id="storyCount">0</strong><span>stories</span></div>
         </div>
 
         <section id="practiceView" class="reader-view is-active" aria-label="Paragraph practice">
@@ -171,6 +164,14 @@
                 <input type="range" id="playbackSpeed" min="0.5" max="2" step="0.1" value="1">
                 <span id="speedLabel">1.0x</span>
               </div>
+            </div>
+            <div class="practice-step-card">
+              <div class="practice-step-actions">
+                <button id="practiceBackBtn" class="practice-step-btn" type="button">Back</button>
+                <button id="newParagraphBtn" class="practice-step-btn primary" type="button">Next</button>
+              </div>
+              <strong id="practiceClock">--:--</strong>
+              <span id="practiceGateStatus">Score 70% to unlock Next</span>
             </div>
           </article>
         </section>
@@ -264,7 +265,8 @@
         </section>
 
         <section id="profileView" class="reader-view profile-page-view" hidden>
-          <button id="profileBackBtn" class="profile-back-btn" type="button">Back to Home</button>
+          <button id="profileBackBtn" class="profile-back-btn" type="button">Back</button>
+          <button id="profileCloseBtn" class="profile-close-page-btn" type="button" aria-label="Close profile">x</button>
           <div class="profile-layout">
             
             <!-- 1. Header Profile Card (Avatar Circle, Horizontal Stats, Bio Details) -->
@@ -274,7 +276,7 @@
                 <!-- Circular Avatar Wrapper with Pencil Overlay -->
                 <div class="circular-avatar-wrapper">
                   <div id="profilePageAvatarContainer" class="circular-avatar-inner"></div>
-                  <button class="avatar-edit-pencil-btn" id="avatarEditPencilBtn" aria-label="Edit Profile">✏️</button>
+                  <button class="avatar-edit-pencil-btn" id="avatarEditPencilBtn" type="button" aria-label="Edit Profile">✏️</button>
                 </div>
                 
                 <!-- Horizontal Social Stats Row next to Avatar -->
@@ -788,30 +790,30 @@
              <option value="Yoruba">Yoruba</option>
              <option value="Zulu">Zulu</option>
            </select>
-           <button class="close-btn" id="closeChatBtn">×</button>
+           <button class="close-btn" id="closeChatBtn" type="button">×</button>
          </div>
          <div id="chatMessages" class="chat-messages">
            <div class="chat-msg ai" id="chatWelcomeMsg">Привет! Как я могу помочь? (Hi! How can I help?)</div>
          </div>
          <div class="chat-media-actions">
-           <button class="media-btn" id="uploadScreenshotBtn" title="Screenshot">📸</button>
-           <button class="media-btn" id="uploadVideoBtn" title="Video">📹</button>
-           <button class="media-btn" id="uploadVoiceBtn" title="Voice">🎤</button>
-           <button class="media-btn" id="uploadTranscribeBtn" title="Transcribe">📝</button>
+           <button class="media-btn" id="uploadScreenshotBtn" type="button" title="Screenshot">📸</button>
+           <button class="media-btn" id="uploadVideoBtn" type="button" title="Video">📹</button>
+           <button class="media-btn" id="uploadVoiceBtn" type="button" title="Voice">🎤</button>
+           <button class="media-btn" id="uploadTranscribeBtn" type="button" title="Transcribe">📝</button>
            <input id="chatImageInput" type="file" accept="image/*" hidden>
            <input id="chatVideoInput" type="file" accept="video/*" hidden>
            <input id="chatAudioInput" type="file" accept="audio/*" hidden>
          </div>
          <div class="chat-input-area">
            <input type="text" id="chatInput" placeholder="Ask in any language..." />
-           <button id="chatSendBtn">➤</button>
+           <button id="chatSendBtn" type="button">➤</button>
          </div>
       </div>
-      <button id="chatToggleBtn" class="fab-btn" title="Nova AI Chatbot">💬</button>
+      <button id="chatToggleBtn" class="fab-btn" type="button" title="Nova AI Chatbot">💬</button>
     </div>
 
     <div class="slots-widget glass-panel" id="slotsWidget" hidden>
-      <button class="slots-close-btn" id="slotsCloseBtn">×</button>
+      <button class="slots-close-btn" id="slotsCloseBtn" type="button">×</button>
       <div class="slots-header">Mini Slots</div>
       
       <div class="slots-main-area">
@@ -828,7 +830,7 @@
       </div>
       
       <div class="slots-controls">
-        <button id="spinBtn" class="action-btn spin-btn-3d">Spin</button>
+        <button id="spinBtn" class="action-btn spin-btn-3d" type="button">Spin</button>
         <label class="auto-spin-label"><input type="checkbox" id="autoSpinCheck"> Auto Spin</label>
       </div>
       
@@ -860,14 +862,14 @@
     <div id="twitchChat" class="twitch-chat-widget glass-panel draggable-widget" hidden>
       <div class="twitch-header drag-handle">
         Global Chat 🔴
-        <button class="widget-close-btn" id="closeTwitchBtn">×</button>
+        <button class="widget-close-btn" id="closeTwitchBtn" type="button">×</button>
       </div>
       <div id="twitchMessages" class="twitch-messages">
         <!-- Messages auto-populated -->
       </div>
       <div class="twitch-input-area">
         <input type="text" placeholder="Send a message..." disabled>
-        <button disabled>Chat</button>
+        <button type="button" disabled>Chat</button>
       </div>
     </div>
 
@@ -875,7 +877,7 @@
     <div id="dmWidget" class="dm-widget glass-panel draggable-widget" hidden>
       <div class="dm-header drag-handle">
         Direct Messages 📩
-        <button class="widget-close-btn" id="closeDMBtn">×</button>
+        <button class="widget-close-btn" id="closeDMBtn" type="button">×</button>
       </div>
       <div class="dm-list" id="dmList">
         <!-- DM threads auto-populated -->
@@ -883,13 +885,13 @@
     </div>
 
     <!-- Toggle FABs -->
-    <button id="toggleTwitchBtn" class="fab-btn secondary left-center" title="Global Chat">
+    <button id="toggleTwitchBtn" class="fab-btn secondary left-center" type="button" title="Global Chat">
       <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M11.571 4.714h1.715v5.143H11.57zm4.715 0h1.714v5.143h-1.714zm-10.286 0L3.429 7.286v12h4.714V22l2.572-2.714h3.428l5.572-5.572V3.429H6zM17.57 12.857L14.57 15.857H10.714L8.143 18.429V15.857H5.571V5.143h12v7.714z"/></svg>
     </button>
-    <button id="toggleDMBtn" class="fab-btn secondary right-center" title="Direct Messages">
+    <button id="toggleDMBtn" class="fab-btn secondary right-center" type="button" title="Direct Messages">
       <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
     </button>
-    <button id="toggleSlotsBtn" class="fab-btn secondary bottom-right" title="Minislots">🎰</button>
+    <button id="toggleSlotsBtn" class="fab-btn secondary bottom-right" type="button" title="Minislots">🎰</button>
 
 
     <div id="socialContextMenu" class="social-context-menu glass-panel" hidden>
@@ -902,7 +904,7 @@
         <div class="modal-header public-profile-header">
           <button class="public-back-btn" id="publicProfileBackBtn" type="button">Back</button>
           <h2 id="publicProfileName">Profile</h2>
-          <button class="close-modal-btn" id="closePublicProfileBtn">x</button>
+          <button class="close-modal-btn" id="closePublicProfileBtn" type="button">x</button>
         </div>
         <div class="public-profile-hero">
           <div id="publicProfileAvatar" class="public-profile-avatar"></div>
