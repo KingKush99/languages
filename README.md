@@ -20,6 +20,7 @@ Static prototype for language-reading practice across Russian, Japanese, Mandari
 - Stories tab with 300+ practice readings across beginner pages, elementary pages, intermediate chapters, and advanced multi-chapter readings.
 - Every story has a right-side image panel. Local generated previews appear immediately, and the `Generate with ChatGPT` button can create and cache OpenAI-generated images when `OPENAI_API_KEY` is set.
 - JSON import for another language's 1000-word dataset.
+- Profile social data uses a local `SocialDataStore` layer. Followers, following, friends, and outbound message limits persist in browser storage now, and the UI is structured so the store can later be swapped for a real auth/database backend.
 
 ## Run
 

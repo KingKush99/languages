@@ -3932,6 +3932,12 @@ const defaultSocial = {
   following: ["Russian Daily", "Moscow Reader", "Grammar Coach", "Speak Slow Club", "Cafe Phrases", "Story Lab"],
   friends: ["Mila Petrova", "Dima Sokolov", "Lena Smirnova", "Oleg Kuznetsov"]
 };
+const socialProfilePool = [
+  "Mila Petrova", "Alexei Romanov", "Sofia Ivanova", "Nadia Volkova", "Dima Sokolov", "Irina Orlova",
+  "Pavel Morozov", "Lena Smirnova", "Oleg Kuznetsov", "Yuki Tanaka", "Hana Sato", "Mei Lin",
+  "Chen Wei", "Aarav Sharma", "Priya Patel", "Fatima Haddad", "Omar Nasser", "Sara Khan",
+  "Noah Reed", "Emma Clark", "Nikolai Orlov", "Anika Rao", "Layla Mansour", "Takashi Mori"
+];
 const profileSettingsDefaults = {
   showFollowers: true,
   showFollowing: true,
@@ -3951,6 +3957,8 @@ const profileSettingsDefaults = {
 const publicSocialSearchState = { followers: "", following: "", friends: "" };
 let activePublicProfile = null;
 let publicProfileStack = [];
+const socialGraphKey = "nova_social_graph_v1";
+const socialMessagesKey = "nova_social_messages_v1";
 
 function normalizeProfileSettings(settings = {}) {
   return {
@@ -4175,16 +4183,133 @@ function profileHandleFromName(name) {
 }
 
 function seededPeople(name, type, count) {
-  const pool = [
-    "Mila Petrova", "Alexei Romanov", "Sofia Ivanova", "Nadia Volkova", "Dima Sokolov", "Irina Orlova",
-    "Pavel Morozov", "Lena Smirnova", "Oleg Kuznetsov", "Yuki Tanaka", "Hana Sato", "Mei Lin",
-    "Chen Wei", "Aarav Sharma", "Priya Patel", "Fatima Haddad", "Omar Nasser", "Sara Khan",
-    "Noah Reed", "Emma Clark", "Nikolai Orlov", "Anika Rao", "Layla Mansour", "Takashi Mori"
-  ].filter((person) => person !== name);
+  const pool = socialProfilePool.filter((person) => person !== name);
   const seed = Math.abs(hashString(`${name}:${type}`));
   return Array.from({ length: count }, (_, index) => pool[(seed + index * 5) % pool.length])
     .filter((person, index, arr) => arr.indexOf(person) === index);
 }
+
+function buildSocialProfile(name) {
+  const hash = Math.abs(hashString(name));
+  const language = languageDatasets[appState.targetLanguage]?.label || "Russian";
+  const social = {
+    followers: seededPeople(name, "followers", 7 + (hash % 5)),
+    following: seededPeople(name, "following", 5 + (hash % 4)),
+    friends: seededPeople(name, "friends", 4 + (hash % 4))
+  };
+  return {
+    name,
+    handle: profileHandleFromName(name),
+    bio: `${name} is practicing ${language} reading, listening, and vocabulary. Current focus: stories, pronunciation, and learned words.`,
+    social,
+    privacy: {
+      showFollowers: hash % 7 !== 0,
+      showFollowing: hash % 6 !== 0,
+      showFriends: hash % 5 !== 0
+    },
+    updatedAt: Date.now()
+  };
+}
+
+function readLocalJson(key, fallback) {
+  try {
+    const raw = localStorage.getItem(key);
+    return raw ? JSON.parse(raw) : fallback;
+  } catch {
+    return fallback;
+  }
+}
+
+const socialDataStore = {
+  readGraph() {
+    return readLocalJson(socialGraphKey, {});
+  },
+  writeGraph(graph) {
+    localStorage.setItem(socialGraphKey, JSON.stringify(graph));
+  },
+  getOwnName() {
+    return appState.profile?.displayName || "Connor";
+  },
+  getProfile(name) {
+    const graph = this.readGraph();
+    if (!graph[name]) {
+      graph[name] = buildSocialProfile(name);
+      this.writeGraph(graph);
+    }
+    return graph[name];
+  },
+  saveProfile(profile) {
+    const graph = this.readGraph();
+    graph[profile.name] = { ...profile, updatedAt: Date.now() };
+    this.writeGraph(graph);
+    return graph[profile.name];
+  },
+  syncOwnProfileFromApp() {
+    if (!appState.profile) return;
+    const ownName = this.getOwnName();
+    const graph = this.readGraph();
+    const existing = graph[ownName] || buildSocialProfile(ownName);
+    const mergedSocial = {
+      followers: mergeSocialPeople(appState.profile.social?.followers, existing.social?.followers),
+      following: mergeSocialPeople(appState.profile.social?.following, existing.social?.following),
+      friends: mergeSocialPeople(appState.profile.social?.friends, existing.social?.friends)
+    };
+    graph[ownName] = {
+      ...existing,
+      name: ownName,
+      handle: appState.profile.username || existing.handle,
+      bio: appState.profile.bio || existing.bio,
+      social: mergedSocial,
+      privacy: {
+        showFollowers: appState.settings?.showFollowers !== false,
+        showFollowing: appState.settings?.showFollowing !== false,
+        showFriends: appState.settings?.showFriends !== false
+      },
+      updatedAt: Date.now()
+    };
+    appState.profile.social = mergedSocial;
+    this.writeGraph(graph);
+  },
+  addFriend(name) {
+    const ownName = this.getOwnName();
+    const graph = this.readGraph();
+    const own = graph[ownName] || buildSocialProfile(ownName);
+    const target = graph[name] || buildSocialProfile(name);
+    own.social = own.social || { followers: [], following: [], friends: [] };
+    target.social = target.social || { followers: [], following: [], friends: [] };
+    own.social.friends = mergeSocialPeople(own.social.friends, [name]);
+    target.social.followers = mergeSocialPeople(target.social.followers, [ownName]);
+    graph[ownName] = { ...own, updatedAt: Date.now() };
+    graph[name] = { ...target, updatedAt: Date.now() };
+    this.writeGraph(graph);
+    appState.profile.social = graph[ownName].social;
+    saveProfile();
+    return graph[name];
+  },
+  readMessages() {
+    return readLocalJson(socialMessagesKey, []);
+  },
+  writeMessages(messages) {
+    localStorage.setItem(socialMessagesKey, JSON.stringify(messages));
+  },
+  pendingMessagesTo(name) {
+    return this.readMessages().filter((message) => message.to === name && message.status === "pending").length;
+  },
+  sendMessage(to, text) {
+    const messages = this.readMessages();
+    const message = {
+      id: `msg-${Date.now()}-${Math.abs(hashString(`${to}:${text}`))}`,
+      from: this.getOwnName(),
+      to,
+      text,
+      status: "pending",
+      createdAt: new Date().toISOString()
+    };
+    messages.push(message);
+    this.writeMessages(messages.slice(-200));
+    return this.pendingMessagesTo(to);
+  }
+};
 
 function createPublicProfile(name) {
   const hash = Math.abs(hashString(name));
@@ -4192,11 +4317,8 @@ function createPublicProfile(name) {
   const colors = ["#0f766e", "#2563eb", "#a855f7", "#d97706", "#dc2626", "#0891b2", "#16a34a", "#9333ea"];
   const level = hash % 18;
   const xp = (hash % 9000) + level * 1000;
-  const social = {
-    followers: seededPeople(name, "followers", 7 + (hash % 5)),
-    following: seededPeople(name, "following", 5 + (hash % 4)),
-    friends: seededPeople(name, "friends", 4 + (hash % 4))
-  };
+  const stored = socialDataStore.getProfile(name);
+  const social = stored.social || { followers: [], following: [], friends: [] };
   const collectionItems = Array.from({ length: 16 }, (_, index) => {
     const tiers = ["standard", "standard", "standard", "rare", "legendary", "god"];
     return index < 8 + (hash % 6)
@@ -4205,13 +4327,13 @@ function createPublicProfile(name) {
   });
   return {
     name,
-    handle: profileHandleFromName(name),
-    bio: `${name} is practicing ${language} reading, listening, and vocabulary. Current focus: stories, pronunciation, and learned words.`,
+    handle: stored.handle || profileHandleFromName(name),
+    bio: stored.bio || `${name} is practicing ${language} reading, listening, and vocabulary. Current focus: stories, pronunciation, and learned words.`,
     followers: social.followers.length,
     following: social.following.length,
     friends: social.friends.length,
     social,
-    privacy: {
+    privacy: stored.privacy || {
       showFollowers: hash % 7 !== 0,
       showFollowing: hash % 6 !== 0,
       showFriends: hash % 5 !== 0
@@ -4326,7 +4448,7 @@ function renderPublicProfile(name) {
   els.publicLevelLabel.textContent = `Level ${progress.level}`;
   els.publicLevelProgressFill.style.width = `${Math.min(100, Math.round((progress.progress / progress.needed) * 100))}%`;
   els.publicLevelProgressText.textContent = `${progress.progress.toLocaleString()} / ${progress.needed.toLocaleString()} XP to Level ${progress.level + 1}`;
-  const pending = appState.outboundMessages[name] || 0;
+  const pending = socialDataStore.pendingMessagesTo(name) || appState.outboundMessages[name] || 0;
   els.publicProfileStatus.textContent = pending ? `${pending}/3 messages waiting for a reply.` : "No pending messages.";
   els.publicProfileModal.hidden = false;
 }
@@ -4360,16 +4482,14 @@ function addFriend(name) {
     els.publicProfileStatus.textContent = "Friend requests are currently disabled in your profile settings.";
     return;
   }
-  if (!appState.profile.social.friends.includes(name)) {
-    appState.profile.social.friends.push(name);
-    saveProfile();
-    renderProfile();
-  }
+  socialDataStore.addFriend(name);
+  renderProfile();
+  if (activePublicProfile?.name === name) renderPublicProfile(name);
   els.publicProfileStatus.textContent = `${name} is now in your friends list.`;
 }
 
 function sendMessageToPerson(name) {
-  const pending = appState.outboundMessages[name] || 0;
+  const pending = socialDataStore.pendingMessagesTo(name) || appState.outboundMessages[name] || 0;
   if (pending >= 3) {
     els.publicProfileStatus.textContent = "Message limit reached. Wait for a reply before sending more.";
     return;
@@ -4380,11 +4500,12 @@ function sendMessageToPerson(name) {
     els.publicProfileStatus.textContent = "Message blocked by your safety filter.";
     return;
   }
-  appState.outboundMessages[name] = pending + 1;
+  const nextPending = socialDataStore.sendMessage(name, message);
+  appState.outboundMessages[name] = nextPending;
   localStorage.setItem("nova_outbound_messages", JSON.stringify(appState.outboundMessages));
   els.publicProfileStatus.textContent = appState.settings?.notifyMessages
-    ? `Message sent. ${appState.outboundMessages[name]}/3 waiting for a reply.`
-    : `Message saved silently. ${appState.outboundMessages[name]}/3 waiting for a reply.`;
+    ? `Message sent. ${nextPending}/3 waiting for a reply.`
+    : `Message saved silently. ${nextPending}/3 waiting for a reply.`;
 }
 
 function showSocialContextMenu(event, name, type) {
@@ -5025,6 +5146,7 @@ els.saveProfileBtn.addEventListener("click", () => {
 
 function saveProfile() {
   localStorage.setItem('nova_profile', JSON.stringify(appState.profile));
+  socialDataStore?.syncOwnProfileFromApp();
 }
 
 // --- COLOR WHEEL ---
@@ -5166,6 +5288,7 @@ appState.profile = normalizeProfile(JSON.parse(localStorage.getItem('nova_profil
     shoesColor: "#111827"
   }
 });
+socialDataStore.syncOwnProfileFromApp();
 
 if (els.targetLanguageSelect) els.targetLanguageSelect.value = appState.targetLanguage;
 if (els.appTitle) els.appTitle.textContent = languageDatasets[appState.targetLanguage].title;
