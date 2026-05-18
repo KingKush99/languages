@@ -636,6 +636,46 @@ select, input, textarea {
   font-weight: 600;
 }
 
+.practice-step-card {
+  text-align: center;
+}
+
+.practice-step-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  width: 100%;
+}
+
+.practice-step-btn {
+  min-height: 34px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: white;
+  color: var(--ink);
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.practice-step-btn.primary {
+  background: var(--primary);
+  color: white;
+}
+
+.practice-step-btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+#practiceClock {
+  display: block;
+  margin-top: 8px;
+}
+
+#practiceGateStatus {
+  display: block;
+}
+
 .reading-card, .speech-card {
   background: rgba(255,255,255,0.8);
   border: 1px solid var(--glass-border);
@@ -1959,18 +1999,24 @@ select, input, textarea {
   cursor: pointer;
   box-shadow: var(--shadow);
 }
+.profile-header-card {
+  position: relative;
+}
+
 .profile-settings-btn {
-  position: fixed;
-  top: 18px;
-  right: 18px;
+  position: absolute;
+  top: 16px;
+  right: 16px;
   z-index: 70;
   min-height: 42px;
+  width: 42px;
   border: 1px solid var(--line);
-  border-radius: 8px;
+  border-radius: 50%;
   background: white;
   color: var(--ink);
-  padding: 0 16px;
+  padding: 0;
   font-weight: 800;
+  font-size: 1.1rem;
   cursor: pointer;
   box-shadow: var(--shadow);
 }
@@ -2116,6 +2162,19 @@ select, input, textarea {
   max-height: min(86vh, 820px);
   overflow-y: auto;
   padding: 24px;
+}
+
+.public-profile-page {
+  width: 100%;
+  max-width: 1320px;
+  margin: 0 auto;
+}
+
+.public-profile-page .public-profile-card {
+  width: 100%;
+  max-width: 1320px;
+  max-height: none;
+  overflow: visible;
 }
 
 .public-profile-header {
@@ -3091,8 +3150,41 @@ select, input, textarea {
 .achievements-panel,
 .character-customization-panel,
 .collection-panel,
+.profile-speech-stats-panel,
 .level-panel {
   border-radius: 14px;
+}
+
+.profile-speech-stats-panel {
+  width: 100%;
+  max-width: 1320px !important;
+}
+
+.profile-speech-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.profile-speech-stats-grid div {
+  padding: 14px;
+  border: 1px solid var(--glass-border);
+  border-radius: 10px;
+  background: rgba(255,255,255,0.62);
+  text-align: center;
+}
+
+.profile-speech-stats-grid strong {
+  display: block;
+  font-size: 1.45rem;
+  color: var(--primary);
+}
+
+.profile-speech-stats-grid span {
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-transform: uppercase;
 }
 
 .profile-header-top-row {
@@ -3201,6 +3293,7 @@ select, input, textarea {
 .profile-compact .achievements-panel,
 .profile-compact .character-customization-panel,
 .profile-compact .collection-panel,
+.profile-compact .profile-speech-stats-panel,
 .profile-compact .level-panel {
   padding: 14px;
 }

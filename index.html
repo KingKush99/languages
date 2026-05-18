@@ -139,7 +139,6 @@
                 <option value="4">501-1000</option>
               </select>
             </label>
-            <button id="newParagraphBtn" class="icon-button practice-only" type="button" title="New paragraph" aria-label="New paragraph">↻</button>
           </div>
         </header>
 
@@ -147,7 +146,14 @@
           <div><strong id="wordCount">0</strong><span>words loaded</span></div>
           <div><strong id="activeBand">1-100</strong><span>frequency band</span></div>
           <div><strong id="coverage">0%</strong><span>hover coverage</span></div>
-          <div><strong id="storyCount">0</strong><span>stories</span></div>
+          <div class="practice-step-card">
+            <div class="practice-step-actions">
+              <button id="practiceBackBtn" class="practice-step-btn" type="button">Back</button>
+              <button id="newParagraphBtn" class="practice-step-btn primary" type="button">Next</button>
+            </div>
+            <strong id="practiceClock">--:--</strong>
+            <span id="practiceGateStatus">Score 70% to unlock Next</span>
+          </div>
         </div>
 
         <section id="practiceView" class="reader-view is-active" aria-label="Paragraph practice">
@@ -259,11 +265,11 @@
 
         <section id="profileView" class="reader-view profile-page-view" hidden>
           <button id="profileBackBtn" class="profile-back-btn" type="button">Back to Home</button>
-          <button id="profileSettingsBtn" class="profile-settings-btn" type="button" aria-label="Profile settings">Settings</button>
           <div class="profile-layout">
             
             <!-- 1. Header Profile Card (Avatar Circle, Horizontal Stats, Bio Details) -->
             <div class="profile-header-card glass-panel">
+              <button id="profileSettingsBtn" class="profile-settings-btn" type="button" aria-label="Profile settings">⚙</button>
               <div class="profile-header-top-row">
                 <!-- Circular Avatar Wrapper with Pencil Overlay -->
                 <div class="circular-avatar-wrapper">
@@ -478,6 +484,18 @@
               <p id="collectionStatus" class="profile-status"></p>
             </section>
 
+            <section class="profile-speech-stats-panel glass-panel">
+              <div class="profile-section-heading">
+                <h3>Practice Stats</h3>
+              </div>
+              <div class="profile-speech-stats-grid">
+                <div><strong id="profileBestAccuracy">--</strong><span>Best accuracy</span></div>
+                <div><strong id="profileLastAccuracy">--</strong><span>Last accuracy</span></div>
+                <div><strong id="profileWordsMatched">--</strong><span>Words matched</span></div>
+                <div><strong id="profileMismatchedWords">--</strong><span>Mismatched words</span></div>
+              </div>
+            </section>
+
             <!-- 5. Level Panel (At the very bottom) -->
             <section class="level-panel glass-panel">
               <div class="profile-section-heading">
@@ -490,6 +508,7 @@
               <p id="levelProgressText" class="profile-status">0 / 1,000 XP to Level 1</p>
             </section>
           </div>
+          <section id="publicProfilePage" class="public-profile-page" hidden></section>
         </section>
 
         <!-- Edit Profile Modal Overlay -->

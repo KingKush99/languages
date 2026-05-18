@@ -1925,6 +1925,9 @@ const appState = {
   words: (languageDatasets[initialLanguage] || languageDatasets.russian).words(),
   currentParagraph: activeParagraphs[0],
   currentStory: storyLibrary[0],
+  practiceIndex: 0,
+  practiceUnlocked: false,
+  lastPracticeScore: JSON.parse(localStorage.getItem("nova_practice_stats") || "{}"),
   activeView: "practice",
   recognition: null,
   recognizing: false,
@@ -1961,8 +1964,13 @@ const els = {
   practiceView: document.querySelector("#practiceView"),
   storiesView: document.querySelector("#storiesView"),
   profileView: document.querySelector("#profileView"),
+  profileLayout: document.querySelector(".profile-layout"),
+  publicProfilePage: document.querySelector("#publicProfilePage"),
   bandSelect: document.querySelector("#bandSelect"),
   newParagraphBtn: document.querySelector("#newParagraphBtn"),
+  practiceBackBtn: document.querySelector("#practiceBackBtn"),
+  practiceClock: document.querySelector("#practiceClock"),
+  practiceGateStatus: document.querySelector("#practiceGateStatus"),
   wordCount: document.querySelector("#wordCount"),
   activeBand: document.querySelector("#activeBand"),
   coverage: document.querySelector("#coverage"),
@@ -2043,6 +2051,7 @@ const els = {
   followingSearch: document.querySelector("#followingSearch"),
   socialContextMenu: document.querySelector("#socialContextMenu"),
   publicProfileModal: document.querySelector("#publicProfileModal"),
+  publicProfileCard: document.querySelector(".public-profile-card"),
   publicProfileName: document.querySelector("#publicProfileName"),
   publicProfileAvatar: document.querySelector("#publicProfileAvatar"),
   publicProfileHandle: document.querySelector("#publicProfileHandle"),
@@ -2090,6 +2099,10 @@ const els = {
   levelLabel: document.querySelector("#levelLabel"),
   levelProgressFill: document.querySelector("#levelProgressFill"),
   levelProgressText: document.querySelector("#levelProgressText"),
+  profileBestAccuracy: document.querySelector("#profileBestAccuracy"),
+  profileLastAccuracy: document.querySelector("#profileLastAccuracy"),
+  profileWordsMatched: document.querySelector("#profileWordsMatched"),
+  profileMismatchedWords: document.querySelector("#profileMismatchedWords"),
   editAvatarBtn: document.querySelector("#editAvatarBtn"),
   editDisplayName: document.querySelector("#editDisplayName"),
   editUsername: document.querySelector("#editUsername"),
@@ -2240,6 +2253,8 @@ function switchTargetLanguage(language) {
   appState.words = dataset.words();
   activeParagraphs = dataset.paragraphs;
   storyLibrary = dataset.stories;
+  appState.practiceIndex = 0;
+  appState.practiceUnlocked = false;
   appState.currentParagraph = activeParagraphs[0];
   appState.currentStory = storyLibrary[0];
   appState.currentStorySectionIndex = 0;
@@ -2359,6 +2374,32 @@ function renderParagraph() {
   renderTokenizedText(els.russianParagraph, paragraph.ru);
   markTextAsLearned(paragraph.ru);
   if (appState.activeView === "practice") updateCoverage(paragraph.ru);
+  updatePracticeControls();
+}
+
+function updatePracticeClock() {
+  if (!els.practiceClock) return;
+  els.practiceClock.textContent = new Date().toLocaleTimeString([], { hour: "numeric", minute: "2-digit" });
+}
+
+function updatePracticeControls() {
+  if (els.practiceBackBtn) els.practiceBackBtn.disabled = appState.practiceIndex <= 0;
+  if (els.newParagraphBtn) els.newParagraphBtn.disabled = !appState.practiceUnlocked;
+  if (els.practiceGateStatus) {
+    els.practiceGateStatus.textContent = appState.practiceUnlocked ? "Next unlocked" : "Score 70% to unlock Next";
+  }
+  updatePracticeClock();
+}
+
+setInterval(updatePracticeClock, 30000);
+
+function setPracticeParagraph(index) {
+  const nextIndex = Math.max(0, Math.min(index, activeParagraphs.length - 1));
+  appState.practiceIndex = nextIndex;
+  appState.currentParagraph = activeParagraphs[nextIndex] || activeParagraphs[0];
+  appState.practiceUnlocked = false;
+  resetSpeech();
+  renderParagraph();
 }
 
 function getStoryText(story) {
@@ -2613,6 +2654,10 @@ function switchView(view) {
   appState.activeView = view;
   const isStories = view === "stories";
   const isProfile = view === "profile";
+  if (isProfile) {
+    if (els.profileLayout) els.profileLayout.hidden = false;
+    if (els.publicProfilePage) els.publicProfilePage.hidden = true;
+  }
   
   if (els.practiceView) els.practiceView.hidden = isStories || isProfile;
   if (els.storiesView) els.storiesView.hidden = view !== "stories";
@@ -2632,6 +2677,7 @@ function switchView(view) {
   }
   if (els.bandSelect) els.bandSelect.closest(".select-wrap").hidden = isStories || isProfile;
   if (els.newParagraphBtn) els.newParagraphBtn.hidden = isStories || isProfile;
+  if (els.practiceBackBtn) els.practiceBackBtn.hidden = isStories || isProfile;
   if (!isProfile) {
     const text = isStories 
       ? (appState.currentStory?.sections?.[appState.currentStorySectionIndex || 0]?.ru || "") 
@@ -2641,6 +2687,7 @@ function switchView(view) {
   renderStats();
   renderWordList();
   resetSpeech();
+  updatePracticeControls();
 }
 
 function renderStats() {
@@ -2648,7 +2695,7 @@ function renderStats() {
   const labels = { 1: "1-100", 2: "101-250", 3: "251-500", 4: "501-1000" };
   els.wordCount.textContent = appState.words.length.toLocaleString();
   els.activeBand.textContent = labels[band];
-  els.storyCount.textContent = storyLibrary.length.toLocaleString();
+  if (els.storyCount) els.storyCount.textContent = storyLibrary.length.toLocaleString();
 }
 
 function renderWordList() {
@@ -2672,10 +2719,23 @@ function renderWordList() {
   }
 }
 
-function pickParagraph() {
+function getPracticeChoices() {
   const band = Number(els.bandSelect.value);
-  const choices = activeParagraphs.filter((item) => item.band === band);
-  appState.currentParagraph = choices[Math.floor(Math.random() * choices.length)] || activeParagraphs[0];
+  return activeParagraphs.filter((item) => item.band === band);
+}
+
+function pickParagraph(direction = 1) {
+  const choices = getPracticeChoices();
+  if (!choices.length) return;
+  if (direction > 0 && !appState.practiceUnlocked) {
+    if (els.practiceGateStatus) els.practiceGateStatus.textContent = "Read aloud and score 70% first";
+    return;
+  }
+  const currentIndex = choices.indexOf(appState.currentParagraph);
+  const baseIndex = currentIndex >= 0 ? currentIndex : appState.practiceIndex;
+  appState.practiceIndex = Math.max(0, Math.min(baseIndex + direction, choices.length - 1));
+  appState.currentParagraph = choices[appState.practiceIndex] || choices[0];
+  appState.practiceUnlocked = false;
   resetSpeech();
   renderParagraph();
   renderStats();
@@ -2923,7 +2983,26 @@ function evaluateSpeech(transcript) {
   els.accuracyScore.textContent = `${accuracy}%`;
   els.matchedWords.textContent = `${matched}/${targetWords.length}`;
   els.missedWords.textContent = String(missed);
-  els.spokenResult.textContent = transcript || "Listening...";
+  const unlocked = accuracy >= 70;
+  appState.practiceUnlocked = unlocked || appState.activeView !== "practice";
+  appState.lastPracticeScore = {
+    bestAccuracy: Math.max(Number(appState.lastPracticeScore?.bestAccuracy || 0), accuracy),
+    lastAccuracy: accuracy,
+    lastMatched: matched,
+    lastMissed: missed,
+    lastTotal: targetWords.length,
+    language: appState.targetLanguage,
+    updatedAt: new Date().toISOString()
+  };
+  localStorage.setItem("nova_practice_stats", JSON.stringify(appState.lastPracticeScore));
+  updatePracticeControls();
+  if (appState.activeView === "practice") {
+    els.spokenResult.textContent = transcript
+      ? `${transcript} ${unlocked ? "Next paragraph unlocked." : "Keep practicing to unlock Next."}`
+      : "Listening...";
+  } else {
+    els.spokenResult.textContent = transcript || "Listening...";
+  }
 }
 
 function wordsOnly(text) {
@@ -3157,8 +3236,18 @@ function triggerPageTurnAnimation(direction) {
   cover.classList.add(direction === "next" ? "page-turn-next" : "page-turn-prev");
 }
 
-els.bandSelect?.addEventListener("change", pickParagraph);
-els.newParagraphBtn?.addEventListener("click", pickParagraph);
+els.bandSelect?.addEventListener("change", () => {
+  const choices = getPracticeChoices();
+  appState.practiceIndex = 0;
+  appState.currentParagraph = choices[0] || activeParagraphs[0];
+  appState.practiceUnlocked = false;
+  resetSpeech();
+  renderParagraph();
+  renderStats();
+  renderWordList();
+});
+els.newParagraphBtn?.addEventListener("click", () => pickParagraph(1));
+els.practiceBackBtn?.addEventListener("click", () => pickParagraph(-1));
 els.toggleTranslationBtn?.addEventListener("click", toggleTranslation);
 els.slowAudioBtn?.addEventListener("click", speakSlowRussian);
 els.storyLevelSelect?.addEventListener("change", selectStoryLevel);
@@ -4074,6 +4163,8 @@ function normalizeProfile(profile = {}) {
 
 function renderProfile() {
   const p = appState.profile;
+  if (els.profileLayout) els.profileLayout.hidden = false;
+  if (els.publicProfilePage) els.publicProfilePage.hidden = true;
   els.profileDisplayName.textContent = p.displayName;
   if (els.profileDisplayNameSummary) els.profileDisplayNameSummary.textContent = p.displayName;
   els.profileUsername.textContent = `@${p.username}`;
@@ -4119,9 +4210,18 @@ function renderProfile() {
   initCharacter3d();
   updateCharacterVisuals();
   renderCollection();
+  renderProfilePracticeStats();
   renderLevelBar();
   renderAchievements();
   renderProfileSettings();
+}
+
+function renderProfilePracticeStats() {
+  const stats = appState.lastPracticeScore || {};
+  if (els.profileBestAccuracy) els.profileBestAccuracy.textContent = stats.bestAccuracy !== undefined ? `${stats.bestAccuracy}%` : "--";
+  if (els.profileLastAccuracy) els.profileLastAccuracy.textContent = stats.lastAccuracy !== undefined ? `${stats.lastAccuracy}%` : "--";
+  if (els.profileWordsMatched) els.profileWordsMatched.textContent = stats.lastMatched !== undefined ? `${stats.lastMatched}/${stats.lastTotal || 0}` : "--";
+  if (els.profileMismatchedWords) els.profileMismatchedWords.textContent = stats.lastMissed !== undefined ? String(stats.lastMissed) : "--";
 }
 
 function renderSocialList(type) {
@@ -4426,6 +4526,15 @@ function togglePublicSocialDropdown(type) {
 function renderPublicProfile(name) {
   const profile = createPublicProfile(name);
   activePublicProfile = profile;
+  switchView("profile");
+  if (els.profileLayout) els.profileLayout.hidden = true;
+  if (els.publicProfilePage) {
+    els.publicProfilePage.hidden = false;
+    if (els.publicProfileCard && els.publicProfileCard.parentElement !== els.publicProfilePage) {
+      els.publicProfilePage.append(els.publicProfileCard);
+    }
+  }
+  if (els.publicProfileModal) els.publicProfileModal.hidden = true;
   els.publicProfileName.textContent = profile.name;
   els.publicProfileAvatar.textContent = profile.name.split(" ").map(part => part[0]).join("").slice(0, 2);
   els.publicProfileAvatar.style.setProperty("--public-profile-color", profile.color);
@@ -4450,7 +4559,6 @@ function renderPublicProfile(name) {
   els.publicLevelProgressText.textContent = `${progress.progress.toLocaleString()} / ${progress.needed.toLocaleString()} XP to Level ${progress.level + 1}`;
   const pending = socialDataStore.pendingMessagesTo(name) || appState.outboundMessages[name] || 0;
   els.publicProfileStatus.textContent = pending ? `${pending}/3 messages waiting for a reply.` : "No pending messages.";
-  els.publicProfileModal.hidden = false;
 }
 
 function openPersonProfile(name, options = {}) {
@@ -4466,14 +4574,19 @@ function goBackFromPublicProfile() {
     renderPublicProfile(previous);
     return;
   }
-  els.publicProfileModal.hidden = true;
-  switchView("profile");
+  activePublicProfile = null;
+  if (els.publicProfilePage) els.publicProfilePage.hidden = true;
+  if (els.profileLayout) {
+    els.profileLayout.hidden = false;
+    renderProfile();
+  }
 }
 
 function closePublicProfileToHome() {
   publicProfileStack = [];
   activePublicProfile = null;
-  els.publicProfileModal.hidden = true;
+  if (els.publicProfilePage) els.publicProfilePage.hidden = true;
+  if (els.publicProfileModal) els.publicProfileModal.hidden = true;
   switchView("practice");
 }
 
@@ -5288,6 +5401,7 @@ appState.profile = normalizeProfile(JSON.parse(localStorage.getItem('nova_profil
     shoesColor: "#111827"
   }
 });
+renderProfilePracticeStats();
 socialDataStore.syncOwnProfileFromApp();
 
 if (els.targetLanguageSelect) els.targetLanguageSelect.value = appState.targetLanguage;
