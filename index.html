@@ -345,6 +345,7 @@
                 <div class="character-preview-frame">
                   <canvas id="characterCanvas" class="character-canvas" aria-label="Mascot preview"></canvas>
                   <div id="characterFallback" class="character-fallback" hidden>Character preview unavailable.</div>
+                  <button id="characterAutoRotateBtn" class="auto-rotate-btn" type="button" aria-pressed="false">Auto-rotate Off</button>
                 </div>
                 
                 <div class="customizer-controls">
@@ -562,60 +563,80 @@
               <h2>Profile Settings</h2>
               <button class="close-modal-btn" id="closeProfileSettingsBtn" type="button">x</button>
             </div>
-            <div class="settings-grid">
-              <section class="settings-section">
-                <h3>Privacy</h3>
-                <label><input type="checkbox" id="settingShowFollowers"> Show followers</label>
-                <label><input type="checkbox" id="settingShowFollowing"> Show following</label>
-                <label><input type="checkbox" id="settingShowFriends"> Show friends</label>
-              </section>
-              <section class="settings-section">
-                <h3>Visual</h3>
-                <label><input type="checkbox" id="settingCompactProfile"> Compact profile panels</label>
-                <label><input type="checkbox" id="settingReduceMotion"> Reduce motion</label>
-              </section>
-              <section class="settings-section">
-                <h3>Audio</h3>
-                <label><input type="checkbox" id="settingMuteAssistant"> Mute assistant voice</label>
-                <label for="settingAudioRate">Audio rate</label>
-                <input type="range" id="settingAudioRate" min="0.6" max="1.4" step="0.1">
-                <small id="settingAudioRateValue">1.0x</small>
-              </section>
-              <section class="settings-section">
-                <h3>Notifications</h3>
-                <label><input type="checkbox" id="settingNotifyMessages"> Message alerts</label>
-                <label><input type="checkbox" id="settingNotifyAchievements"> Achievement alerts</label>
-              </section>
-              <section class="settings-section">
-                <h3>Theme</h3>
-                <label for="settingProfileTheme">Profile theme</label>
-                <select id="settingProfileTheme">
-                  <option value="system">System</option>
-                  <option value="light">Light</option>
-                  <option value="warm">Warm</option>
-                  <option value="focus">Focus</option>
-                </select>
-              </section>
-              <section class="settings-section">
-                <h3>Language</h3>
-                <label><input type="checkbox" id="settingAutoMatchChatLanguage"> Match chat to learning language</label>
-              </section>
-              <section class="settings-section">
-                <h3>Reading</h3>
-                <label><input type="checkbox" id="settingAutoTranslate"> Keep story translation visible</label>
-              </section>
-              <section class="settings-section">
-                <h3>Social</h3>
-                <label><input type="checkbox" id="settingAllowFriendRequests"> Allow friend requests</label>
-              </section>
-              <section class="settings-section">
-                <h3>Safety</h3>
-                <label><input type="checkbox" id="settingFilterMessages"> Filter message text</label>
-              </section>
-              <section class="settings-section">
-                <h3>Data</h3>
-                <button id="settingResetLocalUiBtn" class="action-btn secondary-btn" type="button">Reset UI Settings</button>
-              </section>
+            <div class="settings-list">
+              <details class="settings-section" open>
+                <summary>Privacy</summary>
+                <div class="settings-section-body">
+                  <label><input type="checkbox" id="settingShowFollowers"> Show followers</label>
+                  <label><input type="checkbox" id="settingShowFollowing"> Show following</label>
+                  <label><input type="checkbox" id="settingShowFriends"> Show friends</label>
+                </div>
+              </details>
+              <details class="settings-section">
+                <summary>Visual</summary>
+                <div class="settings-section-body">
+                  <label><input type="checkbox" id="settingCompactProfile"> Compact profile panels</label>
+                  <label><input type="checkbox" id="settingReduceMotion"> Reduce motion</label>
+                </div>
+              </details>
+              <details class="settings-section">
+                <summary>Audio</summary>
+                <div class="settings-section-body">
+                  <label><input type="checkbox" id="settingMuteAssistant"> Mute assistant voice</label>
+                  <label for="settingAudioRate">Audio rate</label>
+                  <input type="range" id="settingAudioRate" min="0.6" max="1.4" step="0.1">
+                  <small id="settingAudioRateValue">1.0x</small>
+                </div>
+              </details>
+              <details class="settings-section">
+                <summary>Notifications</summary>
+                <div class="settings-section-body">
+                  <label><input type="checkbox" id="settingNotifyMessages"> Message alerts</label>
+                  <label><input type="checkbox" id="settingNotifyAchievements"> Achievement alerts</label>
+                </div>
+              </details>
+              <details class="settings-section">
+                <summary>Theme</summary>
+                <div class="settings-section-body">
+                  <label for="settingProfileTheme">Profile theme</label>
+                  <select id="settingProfileTheme">
+                    <option value="system">System</option>
+                    <option value="light">Light</option>
+                    <option value="warm">Warm</option>
+                    <option value="focus">Focus</option>
+                  </select>
+                </div>
+              </details>
+              <details class="settings-section">
+                <summary>Language</summary>
+                <div class="settings-section-body">
+                  <label><input type="checkbox" id="settingAutoMatchChatLanguage"> Match chat to learning language</label>
+                </div>
+              </details>
+              <details class="settings-section">
+                <summary>Reading</summary>
+                <div class="settings-section-body">
+                  <label><input type="checkbox" id="settingAutoTranslate"> Keep story translation visible</label>
+                </div>
+              </details>
+              <details class="settings-section">
+                <summary>Social</summary>
+                <div class="settings-section-body">
+                  <label><input type="checkbox" id="settingAllowFriendRequests"> Allow friend requests</label>
+                </div>
+              </details>
+              <details class="settings-section">
+                <summary>Safety</summary>
+                <div class="settings-section-body">
+                  <label><input type="checkbox" id="settingFilterMessages"> Filter message text</label>
+                </div>
+              </details>
+              <details class="settings-section">
+                <summary>Data</summary>
+                <div class="settings-section-body">
+                  <button id="settingResetLocalUiBtn" class="action-btn secondary-btn" type="button">Reset UI Settings</button>
+                </div>
+              </details>
             </div>
             <p id="profileSettingsStatus" class="profile-status">Settings are saved locally.</p>
           </div>

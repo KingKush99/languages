@@ -2154,6 +2154,7 @@ const els = {
   shoesColor: document.querySelector("#shoesColor"),
   characterCanvas: document.querySelector("#characterCanvas"),
   characterFallback: document.querySelector("#characterFallback"),
+  characterAutoRotateBtn: document.querySelector("#characterAutoRotateBtn"),
   collectionGrid: document.querySelector("#collectionGrid"),
   collectItemBtn: document.querySelector("#collectItemBtn"),
   clearCollectionBtn: document.querySelector("#clearCollectionBtn"),
@@ -3075,6 +3076,13 @@ function hideTooltip() {
   els.tooltip.hidden = true;
 }
 
+function openAppModal(modal) {
+  if (!modal) return;
+  if (modal.parentElement !== document.body) document.body.append(modal);
+  modal.hidden = false;
+  modal.scrollTop = 0;
+}
+
 els.practiceTab?.addEventListener("click", () => switchView("practice"));
 els.storiesTab?.addEventListener("click", () => switchView("stories"));
 els.profileTab?.addEventListener("click", () => switchView("profile"));
@@ -3083,7 +3091,7 @@ els.profileBackBtn?.addEventListener("click", () => switchView("practice"));
 els.profileCloseBtn?.addEventListener("click", () => switchView("practice"));
 els.profileSettingsBtn?.addEventListener("click", () => {
   renderProfileSettings();
-  if (els.profileSettingsModal) els.profileSettingsModal.hidden = false;
+  openAppModal(els.profileSettingsModal);
 });
 els.closeProfileSettingsBtn?.addEventListener("click", () => {
   if (els.profileSettingsModal) els.profileSettingsModal.hidden = true;
@@ -3134,7 +3142,7 @@ els.targetLanguageSelect?.addEventListener("change", () => switchTargetLanguage(
 
 // Pencil icon opens edit profile modal
 els.avatarEditPencilBtn?.addEventListener("click", () => {
-  if (els.editProfileModal) els.editProfileModal.hidden = false;
+  openAppModal(els.editProfileModal);
   initColorWheel();
 });
 els.closeEditProfileBtn?.addEventListener("click", () => {
@@ -3149,7 +3157,7 @@ els.editProfileModal?.addEventListener("click", (e) => {
 
 els.editProfileBtn?.addEventListener("click", () => {
   if (els.editProfileModal) {
-    els.editProfileModal.hidden = false;
+    openAppModal(els.editProfileModal);
     initColorWheel();
   } else if (els.profileEditPanel) {
     els.profileEditPanel.hidden = !els.profileEditPanel.hidden;
@@ -3187,11 +3195,16 @@ document.querySelectorAll("[data-social-toggle]").forEach((button) => {
     }
   });
 });
+function openSocialPersonFromEvent(event) {
+  const item = event.target.closest("li[data-person]");
+  if (!item) return;
+  event.preventDefault();
+  event.stopPropagation();
+  openPersonProfile(item.dataset.person);
+}
+
 [els.followersList, els.followingList, els.friendsList].forEach((list) => {
-  list?.addEventListener("click", (event) => {
-    const item = event.target.closest("li[data-person]");
-    if (item) openPersonProfile(item.dataset.person);
-  });
+  list?.addEventListener("click", openSocialPersonFromEvent);
   list?.addEventListener("contextmenu", (event) => {
     const item = event.target.closest("li[data-person]");
     if (item) showSocialContextMenu(event, item.dataset.person, item.dataset.socialType);
@@ -3215,10 +3228,7 @@ document.querySelectorAll("[data-public-social-toggle]").forEach((button) => {
   });
 });
 [els.publicFollowersList, els.publicFollowingList, els.publicFriendsList].forEach((list) => {
-  list?.addEventListener("click", (event) => {
-    const item = event.target.closest("li[data-person]");
-    if (item) openPersonProfile(item.dataset.person);
-  });
+  list?.addEventListener("click", openSocialPersonFromEvent);
   list?.addEventListener("contextmenu", (event) => {
     const item = event.target.closest("li[data-person]");
     if (item) showSocialContextMenu(event, item.dataset.person, item.dataset.socialType);
@@ -4152,12 +4162,32 @@ const tierConfig = {
   god: { label: "God", weight: 1, items: ["Aurora Crown", "Language Oracle"], color: "#f59e0b" }
 };
 let character3d = null;
+let characterRotateFrame = null;
 
 function checkInappropriate(text) {
   const normalized = text.toLowerCase()
     .replace(/[@$!0]/g, (char) => ({ "@": "a", "$": "s", "!": "i", "0": "o" }[char] || char))
     .replace(/[^a-zа-яё0-9]+/gi, "");
   return inappropriateWords.some(word => normalized.includes(word));
+}
+
+function enforceCleanProfileField(input, label) {
+  if (!input) return;
+  const current = input.value;
+  if (!checkInappropriate(current)) {
+    input.dataset.cleanValue = current;
+    if (els.profileSaveStatus?.dataset.reason === "blocked-language") {
+      els.profileSaveStatus.textContent = "";
+      delete els.profileSaveStatus.dataset.reason;
+    }
+    return;
+  }
+  input.value = input.dataset.cleanValue || "";
+  if (els.profileSaveStatus) {
+    els.profileSaveStatus.dataset.reason = "blocked-language";
+    els.profileSaveStatus.textContent = `${label} cannot contain profanity or inappropriate words.`;
+  }
+  if (input === els.editBio) updateBioCount();
 }
 
 function normalizeProfile(profile = {}) {
@@ -4220,6 +4250,9 @@ function renderProfile() {
   els.editDisplayName.value = p.displayName || "";
   els.editUsername.value = p.username || "";
   els.editBio.value = p.bio || "";
+  els.editDisplayName.dataset.cleanValue = els.editDisplayName.value;
+  els.editUsername.dataset.cleanValue = els.editUsername.value;
+  els.editBio.dataset.cleanValue = els.editBio.value;
   updateBioCount();
   renderUsernameRule();
   renderMascotGrid();
@@ -4274,6 +4307,11 @@ function renderSocialList(type) {
         <strong>${name}</strong>
       </button>
     `;
+    li.querySelector(".social-person-btn")?.addEventListener("click", (event) => {
+      event.preventDefault();
+      event.stopPropagation();
+      openPersonProfile(name);
+    });
     return li;
   }));
   if (!filtered.length) {
@@ -4680,6 +4718,11 @@ function renderPublicSocialList(type) {
         <strong>${person}</strong>
       </button>
     `;
+    li.querySelector(".social-person-btn")?.addEventListener("click", (event) => {
+      event.preventDefault();
+      event.stopPropagation();
+      openPersonProfile(person);
+    });
     return li;
   }));
   if (!filtered.length) {
@@ -5012,6 +5055,7 @@ function initCharacterCanvasFallback() {
     shoesColor: "#111827",
     mascot: "Fox",
     interaction: "idle",
+    autoRotate: false,
     hair: "short",
     eyeShape: "round",
     nose: "soft",
@@ -5023,6 +5067,7 @@ function initCharacterCanvasFallback() {
     shoes: "trainers"
   };
   drawCharacterFallback();
+  updateAutoRotateButton();
 }
 
 function drawCharacterFallback() {
@@ -5039,11 +5084,13 @@ function drawCharacterFallback() {
   ctx.clearRect(0, 0, width, height);
   ctx.lineCap = "round";
   ctx.lineJoin = "round";
-  const turn = 0;
+  const turn = character3d.autoRotate ? Math.sin(character3d.angle) * 0.24 : 0;
   const centerX = width / 2;
-  const groundY = height * 0.9;
+  const groundY = height * 0.91;
   const scale = Math.min(width / 420, height / 520);
-  const shadowW = 142 * scale;
+  const shadowW = 156 * scale;
+  const bodySquash = 1 - Math.abs(turn) * 0.1;
+  const faceShift = turn * 12 * scale;
 
   ctx.save();
   ctx.translate(centerX, groundY);
@@ -5057,38 +5104,74 @@ function drawCharacterFallback() {
   ctx.fill();
   ctx.restore();
 
-  const shoulderY = groundY - 174 * scale;
+  const shoulderY = groundY - 226 * scale;
   const isPointing = character3d.interaction === "pointing";
   const isTyping = character3d.interaction === "typing";
   const isCelebrating = character3d.interaction === "celebrating";
-  const legSpread = (character3d.legs === "wide" ? 48 : character3d.legs === "athletic" ? 40 : 34) * scale;
-  const legWidth = (character3d.legs === "wide" ? 28 : 24) * scale;
-  const armSpread = (character3d.arms === "athletic" ? 76 : character3d.arms === "waving" ? 70 : 64) * scale;
+  const legSpread = (character3d.legs === "wide" ? 42 : character3d.legs === "athletic" ? 36 : 31) * scale;
+  const legWidth = (character3d.legs === "wide" ? 30 : 25) * scale;
+  const armSpread = (character3d.arms === "athletic" ? 80 : character3d.arms === "waving" ? 74 : 68) * scale;
   const rightArmTilt = isPointing ? -1.22 : isCelebrating ? 1.02 : isTyping ? -0.62 : character3d.arms === "waving" ? -0.95 : 0.16;
   const leftArmTilt = isCelebrating ? -1.02 : isTyping ? 0.62 : character3d.arms === "athletic" ? -0.36 : -0.16;
 
-  drawArm(ctx, centerX - armSpread, shoulderY + 18 * scale, 24 * scale, isCelebrating ? 102 * scale : 118 * scale, character3d.shirtColor, character3d.faceColor, leftArmTilt);
-  drawArm(ctx, centerX + armSpread, shoulderY + 18 * scale, 24 * scale, isPointing ? 138 * scale : isCelebrating ? 102 * scale : 118 * scale, character3d.shirtColor, character3d.faceColor, rightArmTilt, isPointing);
-  drawLimb(ctx, centerX - legSpread, groundY - 116 * scale, legWidth, 116 * scale, character3d.pantsColor, 11 * scale);
-  drawLimb(ctx, centerX + legSpread, groundY - 116 * scale, legWidth, 116 * scale, character3d.pantsColor, 11 * scale);
-  drawShoe(ctx, centerX - legSpread, groundY - 22 * scale, character3d.shoesColor, character3d.shoes, scale);
-  drawShoe(ctx, centerX + legSpread, groundY - 22 * scale, character3d.shoesColor, character3d.shoes, scale);
-  drawJerseyBody(ctx, centerX, groundY - 220 * scale, 128 * scale, 172 * scale, character3d.shirtColor, character3d.pantsColor);
-  drawNeck(ctx, centerX, groundY - 248 * scale, character3d.faceColor, scale);
-  drawEar(ctx, centerX - 58 * scale, groundY - 294 * scale, character3d.faceColor, scale);
-  drawEar(ctx, centerX + 58 * scale, groundY - 294 * scale, character3d.faceColor, scale);
-  drawHead(ctx, centerX, groundY - 316 * scale, 108 * scale, 122 * scale, character3d.faceColor);
-  drawFallbackHair(ctx, centerX, groundY - 386 * scale, character3d.hair, scale);
+  ctx.save();
+  ctx.translate(centerX, 0);
+  ctx.scale(bodySquash, 1);
+  ctx.translate(-centerX, 0);
+  drawArm(ctx, centerX - armSpread, shoulderY + 16 * scale, 24 * scale, isCelebrating ? 104 * scale : 126 * scale, character3d.shirtColor, character3d.faceColor, leftArmTilt);
+  drawArm(ctx, centerX + armSpread, shoulderY + 16 * scale, 24 * scale, isPointing ? 142 * scale : isCelebrating ? 104 * scale : 126 * scale, character3d.shirtColor, character3d.faceColor, rightArmTilt, isPointing);
+  drawLimb(ctx, centerX - legSpread, groundY - 132 * scale, legWidth, 126 * scale, character3d.pantsColor, 11 * scale);
+  drawLimb(ctx, centerX + legSpread, groundY - 132 * scale, legWidth, 126 * scale, character3d.pantsColor, 11 * scale);
+  drawShoe(ctx, centerX - legSpread, groundY - 24 * scale, character3d.shoesColor, character3d.shoes, scale);
+  drawShoe(ctx, centerX + legSpread, groundY - 24 * scale, character3d.shoesColor, character3d.shoes, scale);
+  drawNeck(ctx, centerX, groundY - 270 * scale, character3d.faceColor, scale);
+  drawJerseyBody(ctx, centerX, groundY - 244 * scale, 140 * scale, 190 * scale, character3d.shirtColor, character3d.pantsColor);
+  ctx.restore();
+
+  drawEar(ctx, centerX - 58 * scale + faceShift, groundY - 322 * scale, character3d.faceColor, scale);
+  drawEar(ctx, centerX + 58 * scale + faceShift, groundY - 322 * scale, character3d.faceColor, scale);
+  drawHead(ctx, centerX + faceShift, groundY - 344 * scale, 116 * scale, 126 * scale, character3d.faceColor);
+  drawFallbackHair(ctx, centerX + faceShift, groundY - 416 * scale, character3d.hair, scale);
 
   const eyeOffset = 19 * scale;
-  drawEye(ctx, centerX - eyeOffset, groundY - 326 * scale, character3d.eyeColor, character3d.eyeShape, scale);
-  drawEye(ctx, centerX + eyeOffset, groundY - 326 * scale, character3d.eyeColor, character3d.eyeShape, scale);
-  drawNose(ctx, centerX, groundY - 304 * scale, character3d.nose, scale);
-  drawMouth(ctx, centerX, groundY - 276 * scale, isCelebrating ? "wide" : character3d.mouth, scale);
+  drawEye(ctx, centerX - eyeOffset + faceShift, groundY - 354 * scale, character3d.eyeColor, character3d.eyeShape, scale);
+  drawEye(ctx, centerX + eyeOffset + faceShift, groundY - 354 * scale, character3d.eyeColor, character3d.eyeShape, scale);
+  drawNose(ctx, centerX + faceShift, groundY - 330 * scale, character3d.nose, scale);
+  drawMouth(ctx, centerX + faceShift, groundY - 302 * scale, isCelebrating ? "wide" : character3d.mouth, scale);
   ctx.fillStyle = "rgba(15, 23, 42, 0.68)";
   ctx.font = `${Math.max(12, 14 * scale)}px Outfit, sans-serif`;
   ctx.textAlign = "center";
-  ctx.fillText(character3d.mascot || "Mascot", centerX, groundY - 156 * scale);
+  ctx.fillText(character3d.mascot || "Mascot", centerX, groundY - 182 * scale);
+}
+
+function updateAutoRotateButton() {
+  if (!els.characterAutoRotateBtn || !character3d) return;
+  els.characterAutoRotateBtn.textContent = character3d.autoRotate ? "Auto-rotate On" : "Auto-rotate Off";
+  els.characterAutoRotateBtn.setAttribute("aria-pressed", String(Boolean(character3d.autoRotate)));
+}
+
+function runCharacterRotation() {
+  if (!character3d?.autoRotate) {
+    characterRotateFrame = null;
+    return;
+  }
+  character3d.angle += 0.035;
+  drawCharacterFallback();
+  characterRotateFrame = requestAnimationFrame(runCharacterRotation);
+}
+
+function setCharacterAutoRotate(enabled) {
+  if (!character3d) return;
+  character3d.autoRotate = enabled;
+  updateAutoRotateButton();
+  if (!enabled) {
+    character3d.angle = 0;
+    if (characterRotateFrame) cancelAnimationFrame(characterRotateFrame);
+    characterRotateFrame = null;
+    drawCharacterFallback();
+    return;
+  }
+  if (!characterRotateFrame) characterRotateFrame = requestAnimationFrame(runCharacterRotation);
 }
 
 function drawHead(ctx, x, y, width, height, color) {
@@ -5117,6 +5200,13 @@ function drawJerseyBody(ctx, x, y, width, height, shirtColor, pantsColor) {
   ctx.fillStyle = jersey;
   ctx.beginPath();
   ctx.roundRect(x - width / 2, y, width, height, width * 0.22);
+  ctx.fill();
+  ctx.fillStyle = "rgba(255,255,255,0.88)";
+  ctx.beginPath();
+  ctx.moveTo(x - width * 0.16, y + 1);
+  ctx.lineTo(x + width * 0.16, y + 1);
+  ctx.quadraticCurveTo(x + width * 0.09, y + height * 0.12, x, y + height * 0.15);
+  ctx.quadraticCurveTo(x - width * 0.09, y + height * 0.12, x - width * 0.16, y + 1);
   ctx.fill();
   ctx.fillStyle = "rgba(255, 255, 255, 0.18)";
   ctx.beginPath();
@@ -5177,9 +5267,12 @@ function drawArm(ctx, x, y, width, height, sleeveColor, skinColor, tilt, pointin
 }
 
 function drawNeck(ctx, x, y, color, scale = 1) {
-  ctx.fillStyle = color;
+  const gradient = ctx.createLinearGradient(x - 20 * scale, y, x + 20 * scale, y + 50 * scale);
+  gradient.addColorStop(0, color);
+  gradient.addColorStop(1, "#b95f25");
+  ctx.fillStyle = gradient;
   ctx.beginPath();
-  ctx.roundRect(x - 18 * scale, y, 36 * scale, 44 * scale, 14 * scale);
+  ctx.roundRect(x - 19 * scale, y, 38 * scale, 54 * scale, 14 * scale);
   ctx.fill();
 }
 
@@ -5196,11 +5289,19 @@ function drawEar(ctx, x, y, color, scale = 1) {
 }
 
 function drawShoe(ctx, x, y, color, shape, scale = 1) {
-  const width = (shape === "boots" ? 48 : shape === "formal" ? 41 : 46) * scale;
-  const height = (shape === "trainers" ? 19 : 16) * scale;
+  const width = (shape === "boots" ? 52 : shape === "formal" ? 45 : 52) * scale;
+  const height = (shape === "trainers" ? 22 : 18) * scale;
   ctx.fillStyle = color;
   ctx.beginPath();
-  ctx.roundRect(x - width / 2, y, width, height, 8 * scale);
+  ctx.roundRect(x - width * 0.48, y, width * 0.96, height, 8 * scale);
+  ctx.fill();
+  ctx.fillStyle = "rgba(15, 23, 42, 0.45)";
+  ctx.beginPath();
+  ctx.roundRect(x - width * 0.5, y + height * 0.72, width, 7 * scale, 5 * scale);
+  ctx.fill();
+  ctx.fillStyle = color;
+  ctx.beginPath();
+  ctx.roundRect(x - width * 0.08, y + 3 * scale, width * 0.5, height * 0.72, 7 * scale);
   ctx.fill();
   ctx.fillStyle = "rgba(255, 255, 255, 0.24)";
   ctx.fillRect(x - width * 0.3, y + 4 * scale, width * 0.42, 3 * scale);
@@ -5409,6 +5510,21 @@ customizationInputs.forEach(el => {
 });
 
 els.editBio.addEventListener("input", updateBioCount);
+[
+  [els.editDisplayName, "Display name"],
+  [els.editUsername, "Username"],
+  [els.editBio, "Bio"]
+].forEach(([input, label]) => {
+  input?.addEventListener("beforeinput", () => {
+    input.dataset.cleanValue = input.value;
+  });
+  input?.addEventListener("input", () => enforceCleanProfileField(input, label));
+  input?.addEventListener("paste", () => setTimeout(() => enforceCleanProfileField(input, label), 0));
+});
+els.characterAutoRotateBtn?.addEventListener("click", () => {
+  if (!character3d) initCharacter3d();
+  setCharacterAutoRotate(!character3d?.autoRotate);
+});
 els.collectItemBtn.addEventListener("click", collectItem);
 els.clearCollectionBtn.addEventListener("click", clearCollection);
 
