@@ -276,6 +276,19 @@ body {
   color: var(--ink);
   border-radius: 8px;
 }
+
+.profile-settings-btn,
+.avatar-edit-pencil-btn {
+  border: 3px solid rgba(255,255,255,0.88) !important;
+  background: linear-gradient(180deg, #fbbf24 0%, #d97706 100%) !important;
+  color: white !important;
+  box-shadow: 0 7px 0 #92400e, 0 15px 26px rgba(217, 119, 6, 0.28) !important;
+}
+
+.profile-settings-btn:hover,
+.avatar-edit-pencil-btn:hover {
+  transform: translateY(-2px) rotate(8deg) !important;
+}
 .hamburger-button:hover { background: rgba(0,0,0,0.05); }
 
 .side-menu {
@@ -3596,5 +3609,229 @@ select, input, textarea {
 @media (max-width: 760px) {
   .profile-settings-modal {
     max-height: min(84dvh, 720px);
+  }
+}
+
+/* Final game UI consistency pass */
+:root {
+  --game-blue: #2563eb;
+  --game-red: #dc2626;
+  --game-green: #16a34a;
+  --game-purple: #9333ea;
+  --game-orange: #f97316;
+  --game-pink: #db2777;
+  --game-teal: #0d9488;
+  --game-ink: #1e3a8a;
+}
+
+.close-btn,
+.close-modal-btn,
+.slots-close-btn,
+.widget-close-btn,
+.profile-close-page-btn,
+.music-close-btn {
+  width: 42px !important;
+  height: 42px !important;
+  min-width: 42px !important;
+  min-height: 42px !important;
+  display: grid !important;
+  place-items: center !important;
+  border: 3px solid #ef4444 !important;
+  border-radius: 50% !important;
+  background: #ffffff !important;
+  color: #dc2626 !important;
+  font-size: 1.45rem !important;
+  font-weight: 950 !important;
+  line-height: 1 !important;
+  padding: 0 !important;
+  box-shadow: 0 6px 0 #991b1b, 0 14px 22px rgba(220, 38, 38, 0.25) !important;
+  text-transform: none !important;
+}
+
+.close-btn:hover,
+.close-modal-btn:hover,
+.slots-close-btn:hover,
+.widget-close-btn:hover,
+.profile-close-page-btn:hover,
+.music-close-btn:hover {
+  transform: translateY(-2px) rotate(6deg) !important;
+  background: #fff5f5 !important;
+}
+
+.hamburger-button {
+  width: 58px;
+  height: 58px;
+  border: 3px solid rgba(255,255,255,0.86);
+  border-radius: 18px;
+  background: linear-gradient(180deg, #fde047 0%, #f97316 100%);
+  color: #431407;
+  box-shadow: 0 8px 0 #b45309, 0 16px 28px rgba(249, 115, 22, 0.26);
+}
+
+.hamburger-button:hover {
+  background: linear-gradient(180deg, #fef08a 0%, #f97316 100%);
+  transform: translateY(-2px);
+}
+
+#chatToggleBtn,
+.fab-btn.secondary {
+  border: 3px solid rgba(255,255,255,0.88) !important;
+  color: #fff !important;
+  box-shadow: 0 8px 0 rgba(15, 23, 42, 0.28), 0 16px 28px rgba(15, 23, 42, 0.24) !important;
+}
+
+#chatToggleBtn {
+  width: 62px;
+  height: 62px;
+  border-radius: 22px;
+  background: linear-gradient(180deg, #22d3ee 0%, #2563eb 100%) !important;
+}
+
+#toggleTwitchBtn {
+  background: linear-gradient(180deg, #c084fc 0%, #7e22ce 100%) !important;
+}
+
+#toggleDMBtn {
+  background: linear-gradient(180deg, #60a5fa 0%, #1d4ed8 100%) !important;
+}
+
+#toggleSlotsBtn {
+  background: linear-gradient(180deg, #fb7185 0%, #be123c 100%) !important;
+}
+
+.profile-header-card {
+  background:
+    radial-gradient(circle at 9% 20%, rgba(254, 240, 138, 0.95), transparent 18%),
+    linear-gradient(135deg, rgba(37, 99, 235, 0.95), rgba(147, 51, 234, 0.9) 52%, rgba(219, 39, 119, 0.92)) !important;
+  color: white;
+  border: 3px solid rgba(255,255,255,0.85) !important;
+}
+
+.profile-header-card .profile-bio-details h2,
+.profile-header-card .profile-bio-details p,
+.profile-header-card .profile-name-summary,
+.profile-header-card .profile-name-summary strong {
+  color: white;
+}
+
+.profile-header-card .bio-text-paragraph {
+  color: rgba(255,255,255,0.9) !important;
+}
+
+.profile-header-card .circular-avatar-wrapper {
+  background: linear-gradient(135deg, #fde047, #22c55e, #38bdf8);
+  box-shadow: 0 10px 0 rgba(15, 23, 42, 0.20), 0 24px 48px rgba(15, 23, 42, 0.22);
+}
+
+.profile-stats-horizontal,
+.public-profile-stats {
+  display: grid !important;
+  grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+  gap: 14px !important;
+  width: 100%;
+}
+
+.stat-divider {
+  display: none !important;
+}
+
+.social-toggle-btn,
+.public-social-toggle {
+  min-height: 86px;
+  justify-content: center;
+  border: 3px solid rgba(255,255,255,0.88) !important;
+  color: white !important;
+  text-shadow: 0 2px 0 rgba(15, 23, 42, 0.18);
+}
+
+.stat-item:nth-of-type(1) .social-toggle-btn,
+.public-social-group:nth-child(1) .public-social-toggle {
+  background: linear-gradient(180deg, #ef4444 0%, #b91c1c 100%) !important;
+  box-shadow: 0 8px 0 #7f1d1d, 0 16px 28px rgba(185, 28, 28, 0.24) !important;
+}
+
+.stat-item:nth-of-type(3) .social-toggle-btn,
+.public-social-group:nth-child(2) .public-social-toggle {
+  background: linear-gradient(180deg, #22c55e 0%, #15803d 100%) !important;
+  box-shadow: 0 8px 0 #14532d, 0 16px 28px rgba(21, 128, 61, 0.24) !important;
+}
+
+.stat-item:nth-of-type(5) .social-toggle-btn,
+.public-social-group:nth-child(3) .public-social-toggle {
+  background: linear-gradient(180deg, #a855f7 0%, #7e22ce 100%) !important;
+  box-shadow: 0 8px 0 #581c87, 0 16px 28px rgba(126, 34, 206, 0.24) !important;
+}
+
+.social-toggle-btn strong,
+.social-toggle-btn span,
+.public-social-toggle strong {
+  color: white !important;
+}
+
+.profile-settings-modal {
+  background: #1e3a8a !important;
+  border: 4px solid rgba(255,255,255,0.9) !important;
+  color: white;
+}
+
+.profile-settings-modal .modal-header h2 {
+  color: #fef08a;
+  font-size: 1.7rem;
+  text-shadow: 0 3px 0 rgba(15, 23, 42, 0.28);
+}
+
+.settings-section {
+  border: 3px solid rgba(255,255,255,0.86) !important;
+  background: transparent !important;
+  box-shadow: 0 7px 0 rgba(15, 23, 42, 0.22);
+}
+
+.settings-section summary {
+  min-height: 64px;
+  color: white;
+  font-size: 1.08rem;
+  text-shadow: 0 2px 0 rgba(15, 23, 42, 0.22);
+}
+
+.settings-section:nth-child(1) { background: linear-gradient(180deg, #ef4444, #b91c1c) !important; }
+.settings-section:nth-child(2) { background: linear-gradient(180deg, #22c55e, #15803d) !important; }
+.settings-section:nth-child(3) { background: linear-gradient(180deg, #f59e0b, #b45309) !important; }
+.settings-section:nth-child(4) { background: linear-gradient(180deg, #3b82f6, #1d4ed8) !important; }
+.settings-section:nth-child(5) { background: linear-gradient(180deg, #a855f7, #7e22ce) !important; }
+.settings-section:nth-child(6) { background: linear-gradient(180deg, #14b8a6, #0f766e) !important; }
+.settings-section:nth-child(7) { background: linear-gradient(180deg, #db2777, #9d174d) !important; }
+.settings-section:nth-child(8) { background: linear-gradient(180deg, #f97316, #c2410c) !important; }
+.settings-section:nth-child(9) { background: linear-gradient(180deg, #64748b, #334155) !important; }
+.settings-section:nth-child(10) { background: linear-gradient(180deg, #84cc16, #4d7c0f) !important; }
+
+.settings-section-body {
+  background: rgba(255,255,255,0.96);
+  color: var(--ink);
+  margin: 0 12px 12px;
+  border-radius: 14px;
+  border: 0;
+  padding: 14px;
+}
+
+.settings-section label {
+  color: var(--ink);
+}
+
+.achievements-panel,
+.character-customization-panel,
+.collection-panel,
+.profile-speech-stats-panel,
+.level-panel,
+.public-profile-grid section,
+.public-level-panel {
+  background:
+    linear-gradient(180deg, rgba(255,255,255,0.95), rgba(219,234,254,0.9)) !important;
+  border: 3px solid rgba(255,255,255,0.86) !important;
+}
+
+@media (max-width: 760px) {
+  .profile-stats-horizontal,
+  .public-profile-stats {
+    grid-template-columns: 1fr !important;
   }
 }
