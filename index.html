@@ -1,0 +1,862 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Language Learners</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r160/three.min.js"></script>
+  </head>
+  <body>
+    <!-- Top Navigation -->
+    <header class="app-header glass-panel-top">
+      <div class="profile-container">
+        <button id="profileBtn" class="profile-button">
+          <div id="profileAvatarContainer" class="profile-avatar-mini-wrapper"></div>
+          <span id="userName">Connor</span>
+        </button>
+      </div>
+      <div class="economy-container">
+        <button id="hamburgerBtn" class="hamburger-button" aria-label="Menu">
+          <svg viewBox="0 0 24 24" width="32" height="32" fill="currentColor">
+            <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+          </svg>
+        </button>
+      </div>
+    </header>
+
+    <!-- Side Menus -->
+    <div id="hamburgerMenu" class="side-menu glass-panel" hidden>
+       <div class="menu-header">
+         <h2>Menu</h2>
+         <button class="close-btn" id="closeHamburgerBtn">×</button>
+       </div>
+       
+       <div class="menu-wallet">
+         <div class="coin-display pulse-anim">
+           <svg class="ll-coin-svg" viewBox="0 0 24 24" width="28" height="28">
+             <circle cx="12" cy="12" r="10" fill="#f59e0b" stroke="#b45309" stroke-width="2"/>
+             <text x="12" y="16.5" font-family="Outfit, sans-serif" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">LL</text>
+           </svg>
+          <span id="coinCount">0</span>
+         </div>
+       </div>
+
+       <div class="menu-actions">
+         <button id="openStoreBtn" class="menu-btn primary-btn">Buy Coins & Store</button>
+         <button id="openMusicBtn" class="menu-btn secondary-btn">Spotify Music Player</button>
+         <button id="openAchievementsBtn" class="menu-btn">Achievements</button>
+       </div>
+       
+       <div class="themes-shop">
+         <h3>Background Theme</h3>
+         <select id="themeSelect" class="theme-dropdown"></select>
+       </div>
+    </div>
+
+    <!-- Modals -->
+    <!-- Store Modal -->
+    <div id="storeModal" class="modal-overlay" hidden>
+      <div class="modal-content glass-panel">
+        <div class="modal-header">
+          <h2>Coin Store</h2>
+          <button class="close-modal-btn" id="closeStoreBtn">×</button>
+        </div>
+        <div class="store-grid" id="storeGrid"></div>
+        <button id="watchAdBtn" class="action-btn watch-ad-btn">Watch Ad (+50 Coins)</button>
+      </div>
+    </div>
+
+    <!-- Bottom Music Player -->
+    <div id="musicDock" class="music-dock glass-panel" hidden>
+      <div id="musicPlaylistPanel" class="music-playlist-panel">
+        <div class="modal-header">
+          <h2>Playlist</h2>
+          <button class="close-modal-btn" id="closeMusicBtn">×</button>
+        </div>
+        <div class="spotify-playlist-container">
+          <table class="spotify-table">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Title</th>
+                <th>Status</th>
+                <th>Duration</th>
+                <th>Action</th>
+              </tr>
+            </thead>
+            <tbody id="spotifyPlaylist"></tbody>
+          </table>
+        </div>
+        <div class="spotify-now-playing">
+          <button class="close-modal-btn music-close-btn" id="musicDockCloseBtn" type="button">x</button>
+          <div id="songArtwork" class="artwork-placeholder">🎵</div>
+          <div class="player-info">
+             <strong id="currentSongTitle">No Song Selected</strong>
+             <span id="songStatus">Paused</span>
+          </div>
+          <div class="player-controls">
+             <button id="prevSongBtn" class="player-btn">⏮</button>
+             <button id="playSongBtn" class="player-btn play-btn">▶️</button>
+             <button id="nextSongBtn" class="player-btn">⏭</button>
+          </div>
+          <button id="expandMusicBtn" class="action-btn secondary-btn music-expand-btn" type="button">Playlist</button>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Main Content -->
+    <main class="app-shell">
+      <section class="reader-panel glass-panel" aria-label="Reading practice">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">Language Learners</p>
+            <h1 id="appTitle">Russian Reading</h1>
+          </div>
+          <div class="top-actions">
+            <nav class="view-tabs" aria-label="Reader sections">
+              <button id="practiceTab" class="tab-button is-active" type="button" aria-controls="practiceView" aria-selected="true">Practice</button>
+              <button id="storiesTab" class="tab-button" type="button" aria-controls="storiesView" aria-selected="false">Stories</button>
+            </nav>
+            <label class="select-wrap language-select-wrap">
+              <span>Language</span>
+              <select id="targetLanguageSelect" aria-label="Target language">
+                <option value="russian">Russian</option>
+                <option value="japanese">Japanese</option>
+                <option value="mandarin">Mandarin</option>
+                <option value="hindi">Hindi</option>
+                <option value="arabic">Arabic</option>
+              </select>
+            </label>
+            <label class="select-wrap practice-only">
+              <span>Band</span>
+              <select id="bandSelect" aria-label="Frequency band">
+                <option value="1">1-100</option>
+                <option value="2">101-250</option>
+                <option value="3">251-500</option>
+                <option value="4">501-1000</option>
+              </select>
+            </label>
+            <button id="newParagraphBtn" class="icon-button practice-only" type="button" title="New paragraph" aria-label="New paragraph">↻</button>
+          </div>
+        </header>
+
+        <div class="stats-row" aria-label="Lesson stats">
+          <div><strong id="wordCount">0</strong><span>words loaded</span></div>
+          <div><strong id="activeBand">1-100</strong><span>frequency band</span></div>
+          <div><strong id="coverage">0%</strong><span>hover coverage</span></div>
+          <div><strong id="storyCount">0</strong><span>stories</span></div>
+        </div>
+
+        <section id="practiceView" class="reader-view is-active" aria-label="Paragraph practice">
+          <article class="reading-card">
+            <div class="reading-meta">
+              <span id="paragraphTitle">Daily routine</span>
+              <span id="difficultyLabel">Beginner</span>
+            </div>
+            <p id="russianParagraph" class="paragraph russian readable-text" lang="ru"></p>
+            <p id="englishParagraph" class="paragraph english" hidden></p>
+            <div class="reader-actions">
+              <button id="toggleTranslationBtn" type="button" class="action-btn">Translate</button>
+              <button id="slowAudioBtn" type="button" class="action-btn">Play Audio</button>
+              <div class="audio-speed-control">
+                <input type="range" id="playbackSpeed" min="0.5" max="2" step="0.1" value="1">
+                <span id="speedLabel">1.0x</span>
+              </div>
+            </div>
+          </article>
+        </section>
+
+        <section id="storiesView" class="reader-view stories-view" aria-label="Stories" hidden>
+          <div class="story-toolbar">
+            <label class="select-wrap">
+              <span>Level</span>
+              <select id="storyLevelSelect" aria-label="Story level">
+                <option value="beginner">Beginner page</option>
+                <option value="elementary">Elementary pages</option>
+                <option value="intermediate">Intermediate chapter</option>
+                <option value="advanced">Advanced chapters</option>
+              </select>
+            </label>
+            <label class="select-wrap story-picker">
+              <span>Story</span>
+              <select id="storySelect" aria-label="Story"></select>
+            </label>
+            <p id="storyLibraryCount" class="story-count"></p>
+          </div>
+          <article class="book-container">
+            <!-- Open Book Outer Cover -->
+            <div class="book-cover">
+              <!-- Left Page: Book Illustration / Actions -->
+              <div class="book-page left-page">
+                <div class="page-content-wrapper">
+                  <figure class="story-visual">
+                    <img id="storyImage" alt="Story Illustration" />
+                    <figcaption>
+                      <span id="storyImageCaption">Story Image</span>
+                      <div class="image-action-buttons">
+                        <button id="generateStoryImageBtn" type="button" class="action-btn">Generate Image</button>
+                        <button id="importStoryImageBtn" type="button" class="action-btn secondary-btn">Import</button>
+                      </div>
+                      <input id="storyImageFileInput" type="file" accept="image/png,image/jpeg,image/webp,image/svg+xml" hidden />
+                    </figcaption>
+                    <p id="storyImageStatus" class="image-status"></p>
+                  </figure>
+                </div>
+              </div>
+              
+              <!-- Spine Crease / Centered binding shadow -->
+              <div class="book-spine"></div>
+              
+              <!-- Right Page: Reader Content & TTS controls -->
+              <div class="book-page right-page">
+                <div class="page-content-wrapper">
+                  <div class="reading-meta">
+                    <span id="storyTitle">Story Title</span>
+                    <span id="storyDifficulty">Level</span>
+                  </div>
+                  
+                  <div class="story-text-container">
+                    <h3 id="storySectionHeading">Chapter Heading</h3>
+                    <div id="storyContent" class="story-content russian readable-text" lang="ru"></div>
+                    <div id="storyEnglish" class="story-english english" hidden></div>
+                  </div>
+                  
+                  <div class="reader-actions">
+                    <button id="toggleStoryTranslationBtn" type="button" class="action-btn">Translate</button>
+                    <button id="storyAudioBtn" type="button" class="action-btn">Play Audio</button>
+                    <div class="audio-speed-control">
+                      <input type="range" id="playbackSpeedStories" min="0.5" max="2" step="0.1" value="1">
+                      <span id="speedLabelStories">1.0x</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            <!-- Book Turning Controls (Prev/Next Arrows and Silk Bookmark) -->
+            <div class="book-navigation">
+              <button id="storyPrevPageBtn" class="book-nav-btn prev" type="button" title="Previous Page">
+                <svg viewBox="0 0 24 24" width="24" height="24" fill="currentColor">
+                  <path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"/>
+                </svg>
+              </button>
+              
+              <div class="book-bookmark">
+                <span id="bookPageIndicator">Page 1 of 1</span>
+              </div>
+              
+              <button id="storyNextPageBtn" class="book-nav-btn next" type="button" title="Next Page">
+                <svg viewBox="0 0 24 24" width="24" height="24" fill="currentColor">
+                  <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/>
+                </svg>
+              </button>
+            </div>
+          </article>
+        </section>
+
+        <section id="profileView" class="reader-view profile-page-view" hidden>
+          <button id="profileBackBtn" class="profile-back-btn" type="button">Back to Home</button>
+          <div class="profile-layout">
+            
+            <!-- 1. Header Profile Card (Avatar Circle, Horizontal Stats, Bio Details) -->
+            <div class="profile-header-card glass-panel">
+              <div class="profile-header-top-row">
+                <!-- Circular Avatar Wrapper with Pencil Overlay -->
+                <div class="circular-avatar-wrapper">
+                  <div id="profilePageAvatarContainer" class="circular-avatar-inner"></div>
+                  <button class="avatar-edit-pencil-btn" id="avatarEditPencilBtn" aria-label="Edit Profile">✏️</button>
+                </div>
+                
+                <!-- Horizontal Social Stats Row next to Avatar -->
+                <div class="profile-stats-horizontal">
+                  <div class="stat-item social-group" data-social-group="followers">
+                    <button class="social-toggle-btn" type="button" data-social-toggle="followers">
+                      <strong id="followersCount">0</strong>
+                      <span>My Followers <span class="dropdown-arrow">▼</span></span>
+                    </button>
+                    <div class="social-dropdown glass-panel" hidden>
+                      <input id="followersSearch" type="search" placeholder="Search followers">
+                      <ul id="followersList"></ul>
+                    </div>
+                  </div>
+                  <div class="stat-divider"></div>
+                  <div class="stat-item social-group" data-social-group="following">
+                    <button class="social-toggle-btn" type="button" data-social-toggle="following">
+                      <strong id="followingCount">0</strong>
+                      <span>My Following <span class="dropdown-arrow">▼</span></span>
+                    </button>
+                    <div class="social-dropdown glass-panel" hidden>
+                      <input id="followingSearch" type="search" placeholder="Search following">
+                      <ul id="followingList"></ul>
+                    </div>
+                  </div>
+                  <div class="stat-divider"></div>
+                  <div class="stat-item social-group" data-social-group="friends">
+                    <button class="social-toggle-btn" type="button" data-social-toggle="friends">
+                      <strong id="friendsCount">0</strong>
+                      <span>My Friends <span class="dropdown-arrow">▼</span></span>
+                    </button>
+                    <div class="social-dropdown glass-panel" hidden>
+                      <input id="friendsSearch" type="search" placeholder="Search friends">
+                      <ul id="friendsList"></ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+              <!-- Underneath row: Bio and Identity details -->
+              <div class="profile-bio-details">
+                <h2 id="profileDisplayName">Connor</h2>
+                <p id="profileUsername">@connor_ll</p>
+                <p id="profileBioText" class="bio-text-paragraph">Learning Russian!</p>
+                <div class="profile-name-summary" hidden>
+                  <span>Display Name <strong id="profileDisplayNameSummary">Connor</strong></span>
+                  <span>Username <strong id="profileUsernameSummary">@connor_ll</strong></span>
+                </div>
+              </div>
+            </div>
+
+            <!-- 2. Achievements Panel (Underneath Bio and above Character Customization) -->
+            <section class="achievements-panel glass-panel">
+              <div class="profile-section-heading">
+                <h3>Achievements</h3>
+              </div>
+              <div id="achievementsList" class="achievements-list"></div>
+            </section>
+
+            <!-- 3. Character Customization Lab (Underneath Achievements and above Collection) -->
+            <section class="character-customization-panel glass-panel">
+              <div class="profile-section-heading">
+                <h3>Character Studio</h3>
+              </div>
+              <div class="studio-layout">
+                <div class="character-preview-frame">
+                  <canvas id="characterCanvas" class="character-canvas" aria-label="Mascot preview"></canvas>
+                  <div id="characterFallback" class="character-fallback" hidden>Character preview unavailable.</div>
+                </div>
+                
+                <div class="customizer-controls">
+                  <div class="customizer-grid">
+                    <div class="control-group">
+                      <label for="hairSelect">Hair Style</label>
+                      <select id="hairSelect">
+                        <option value="none">None</option>
+                        <option value="short" selected>Short Cut</option>
+                        <option value="long">Long Flowing</option>
+                        <option value="spiky">Spiky Peak</option>
+                      </select>
+                    </div>
+
+                    <div class="control-group">
+                      <label for="eyeShapeSelect">Eye Shape</label>
+                      <select id="eyeShapeSelect">
+                        <option value="round" selected>Round & Curious</option>
+                        <option value="anime">Anime Shimmer</option>
+                        <option value="determined">Determined</option>
+                        <option value="happy">Happy Semicircles</option>
+                      </select>
+                    </div>
+
+                    <div class="control-group">
+                      <label for="noseSelect">Nose Shape</label>
+                      <select id="noseSelect">
+                        <option value="soft" selected>Soft Curve</option>
+                        <option value="sharp">Sharp Point</option>
+                        <option value="cute">Cute Button</option>
+                      </select>
+                    </div>
+
+                    <div class="control-group">
+                      <label for="mouthSelect">Mouth Shape</label>
+                      <select id="mouthSelect">
+                        <option value="smile" selected>Wide Smile</option>
+                        <option value="neutral">Neutral Line</option>
+                        <option value="grin">Naughty Grin</option>
+                        <option value="surprised">O-shape Surprised</option>
+                      </select>
+                    </div>
+
+                    <div class="control-group">
+                      <label for="armSelect">Arm Pose</label>
+                      <select id="armSelect">
+                        <option value="relaxed" selected>Relaxed Hanging</option>
+                        <option value="athletic">Broad Spread</option>
+                        <option value="waving">Waving Greeting</option>
+                      </select>
+                    </div>
+
+                    <div class="control-group">
+                      <label for="legSelect">Leg Pose</label>
+                      <select id="legSelect">
+                        <option value="straight" selected>Straight Standard</option>
+                        <option value="wide">Wide Stance</option>
+                        <option value="athletic">Broad Run</option>
+                      </select>
+                    </div>
+
+                    <div class="control-group">
+                      <label for="shirtSelect">Outfit Style</label>
+                      <select id="shirtSelect">
+                        <option value="tee" selected>Classic Tee</option>
+                        <option value="hoodie">Cozy Hoodie</option>
+                        <option value="tuxedo">Formal Suit</option>
+                      </select>
+                    </div>
+
+                    <div class="control-group">
+                      <label for="pantsSelect">Pants Style</label>
+                      <select id="pantsSelect">
+                        <option value="slim" selected>Slim Fit Jeans</option>
+                        <option value="baggy">Baggy Cargo</option>
+                        <option value="shorts">Summer Shorts</option>
+                      </select>
+                    </div>
+
+                    <div class="control-group">
+                      <label for="shoesSelect">Shoes Style</label>
+                      <select id="shoesSelect">
+                        <option value="trainers" selected>Sporty Trainers</option>
+                        <option value="boots">Sturdy Boots</option>
+                        <option value="formal">Formal Oxfords</option>
+                      </select>
+                    </div>
+                  </div>
+
+                  <div class="color-pickers-section">
+                    <h4>Color Studio</h4>
+                    <div class="color-pickers-grid">
+                      <div class="color-picker-item">
+                        <label for="hairColor">Hair</label>
+                        <input type="color" id="hairColor" value="#2f241f">
+                      </div>
+                      <div class="color-picker-item">
+                        <label for="eyeColor">Eyes</label>
+                        <input type="color" id="eyeColor" value="#2b6cb0">
+                      </div>
+                      <div class="color-picker-item">
+                        <label for="faceColor">Skin</label>
+                        <input type="color" id="faceColor" value="#ed8936">
+                      </div>
+                      <div class="color-picker-item">
+                        <label for="shirtColor">Shirt</label>
+                        <input type="color" id="shirtColor" value="#3182ce">
+                      </div>
+                      <div class="color-picker-item">
+                        <label for="pantsColor">Pants</label>
+                        <input type="color" id="pantsColor" value="#1f2937">
+                      </div>
+                      <div class="color-picker-item">
+                        <label for="shoesColor">Shoes</label>
+                        <input type="color" id="shoesColor" value="#111827">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+
+            <!-- 4. Collection Grid (Underneath Customization and above Level) -->
+            <section class="collection-panel glass-panel">
+              <div class="profile-section-heading">
+                <h3>Collection Grid</h3>
+              </div>
+              <div class="tier-odds">
+                <span class="tier-chip standard">Standard 80%</span>
+                <span class="tier-chip rare">Rare 16%</span>
+                <span class="tier-chip legendary">Legendary 4%</span>
+                <span class="tier-chip god">God 1%</span>
+              </div>
+              <div id="collectionGrid" class="collection-grid" aria-label="Collectible items grid"></div>
+              <div class="collection-actions">
+                <button id="collectItemBtn" class="action-btn primary" type="button">Collect Item</button>
+                <button id="clearCollectionBtn" class="action-btn secondary-btn" type="button">Clear Grid</button>
+              </div>
+              <p id="collectionStatus" class="profile-status"></p>
+            </section>
+
+            <!-- 5. Level Panel (At the very bottom) -->
+            <section class="level-panel glass-panel">
+              <div class="profile-section-heading">
+                <h3>Level</h3>
+                <span id="levelLabel">Level 0</span>
+              </div>
+              <div class="level-progress">
+                <div id="levelProgressFill"></div>
+              </div>
+              <p id="levelProgressText" class="profile-status">0 / 1,000 XP to Level 1</p>
+            </section>
+          </div>
+        </section>
+
+        <!-- Edit Profile Modal Overlay -->
+        <div id="editProfileModal" class="modal-overlay" hidden>
+          <div class="modal-content edit-profile-modal glass-panel">
+            <div class="modal-header">
+              <h2>Edit Profile</h2>
+              <button class="close-modal-btn" id="closeEditProfileBtn" type="button">×</button>
+            </div>
+            <div class="modal-body">
+              <h3>Choose a Mascot</h3>
+              <div id="mascotGrid" class="mascot-grid" aria-label="Choose a mascot"></div>
+              
+              <h3>Avatar Color</h3>
+              <div class="color-wheel-section">
+                <canvas id="colorWheelCanvas" class="color-wheel-canvas" width="220" height="220"></canvas>
+                <div class="color-wheel-preview">
+                  <div id="colorWheelSwatch" class="color-swatch"></div>
+                  <span id="colorWheelHex">#f59e0b</span>
+                </div>
+              </div>
+
+              <div class="input-group">
+                <label for="editDisplayName">Display Name</label>
+                <input type="text" id="editDisplayName" placeholder="Display Name" maxlength="64">
+                <small>Up to 64 characters. Can be changed anytime.</small>
+              </div>
+              <div class="input-group">
+                <label for="editUsername">Username</label>
+                <input type="text" id="editUsername" placeholder="@username" maxlength="64">
+                <small id="usernameRuleText">Up to 64 characters. Can be changed once per week.</small>
+              </div>
+              <div class="input-group">
+                <label for="editBio">Bio</label>
+                <textarea id="editBio" placeholder="Tell us about yourself..." maxlength="1000"></textarea>
+                <small><span id="bioCount">0</span>/1000 characters.</small>
+              </div>
+              <div class="modal-actions">
+                <button id="saveProfileBtn" class="action-btn primary" type="button">Save Changes</button>
+                <button id="cancelEditProfileBtn" class="action-btn secondary-btn" type="button">Cancel</button>
+              </div>
+              <p id="profileSaveStatus" class="profile-status"></p>
+            </div>
+          </div>
+        </div>
+          <div class="speech-header">
+            <div>
+              <h2>Read it aloud <span class="reward-tag">+10 <svg class="ll-coin-svg inline" viewBox="0 0 24 24" width="12" height="12"><circle cx="12" cy="12" r="10" fill="#f59e0b" stroke="#b45309" stroke-width="2"/><text x="12" y="16" font-family="Outfit" font-size="11" font-weight="bold" fill="#fff" text-anchor="middle">LL</text></svg></span></h2>
+              <p>Browser speech recognition listens in Russian and compares your words.</p>
+            </div>
+            <button id="recordBtn" class="record-button" type="button">Start</button>
+          </div>
+          <div class="score-grid">
+            <div><span>Accuracy</span><strong id="accuracyScore">--</strong></div>
+            <div><span>Words matched</span><strong id="matchedWords">--</strong></div>
+            <div><span>Missed words</span><strong id="missedWords">--</strong></div>
+          </div>
+          <p id="spokenResult" class="spoken-result">Press Start, read the current Russian text, then stop.</p>
+      </section>
+
+      <section class="vocab-panel glass-panel" aria-label="Vocabulary">
+        <section class="search-panel">
+          <label for="searchInput">Learned vocabulary</label>
+          <input id="searchInput" type="search" placeholder="Search learned Russian or English" autocomplete="off" />
+        </section>
+        <section>
+          <div class="side-heading">
+            <h2>Words learned so far</h2>
+            <span id="visibleWordCount">0</span>
+          </div>
+          <ol id="wordList" class="word-list learned-word-list"></ol>
+        </section>
+      </section>
+    </main>
+
+    <!-- Interactive Modules (Bottom corners) -->
+    <div class="chatbot-widget" id="chatbotWidget">
+      <div id="chatWindow" class="chat-window glass-panel" hidden>
+         <div class="chat-header">
+           <span class="chat-globe" aria-hidden="true">🌐</span>
+           <select id="chatLanguageSelect" class="chat-lang-dropdown">
+             <option value="Afrikaans">Afrikaans</option>
+             <option value="Albanian">Albanian</option>
+             <option value="Amharic">Amharic</option>
+             <option value="Arabic">Arabic</option>
+             <option value="Armenian">Armenian</option>
+             <option value="Assamese">Assamese</option>
+             <option value="Aymara">Aymara</option>
+             <option value="Azerbaijani">Azerbaijani</option>
+             <option value="Bambara">Bambara</option>
+             <option value="Basque">Basque</option>
+             <option value="Belarusian">Belarusian</option>
+             <option value="Bengali">Bengali</option>
+             <option value="Bhojpuri">Bhojpuri</option>
+             <option value="Bosnian">Bosnian</option>
+             <option value="Bulgarian">Bulgarian</option>
+             <option value="Catalan">Catalan</option>
+             <option value="Cebuano">Cebuano</option>
+             <option value="Chichewa">Chichewa</option>
+             <option value="Chinese (Simplified)">Chinese (Simplified)</option>
+             <option value="Chinese (Traditional)">Chinese (Traditional)</option>
+             <option value="Corsican">Corsican</option>
+             <option value="Croatian">Croatian</option>
+             <option value="Czech">Czech</option>
+             <option value="Danish">Danish</option>
+             <option value="Dhivehi">Dhivehi</option>
+             <option value="Dogri">Dogri</option>
+             <option value="Dutch">Dutch</option>
+             <option value="English" selected>English</option>
+             <option value="Esperanto">Esperanto</option>
+             <option value="Estonian">Estonian</option>
+             <option value="Ewe">Ewe</option>
+             <option value="Filipino">Filipino</option>
+             <option value="Finnish">Finnish</option>
+             <option value="French">French</option>
+             <option value="Frisian">Frisian</option>
+             <option value="Galician">Galician</option>
+             <option value="Georgian">Georgian</option>
+             <option value="German">German</option>
+             <option value="Greek">Greek</option>
+             <option value="Guarani">Guarani</option>
+             <option value="Gujarati">Gujarati</option>
+             <option value="Haitian Creole">Haitian Creole</option>
+             <option value="Hausa">Hausa</option>
+             <option value="Hawaiian">Hawaiian</option>
+             <option value="Hebrew">Hebrew</option>
+             <option value="Hindi">Hindi</option>
+             <option value="Hmong">Hmong</option>
+             <option value="Hungarian">Hungarian</option>
+             <option value="Icelandic">Icelandic</option>
+             <option value="Igbo">Igbo</option>
+             <option value="Ilocano">Ilocano</option>
+             <option value="Indonesian">Indonesian</option>
+             <option value="Irish">Irish</option>
+             <option value="Italian">Italian</option>
+             <option value="Japanese">Japanese</option>
+             <option value="Javanese">Javanese</option>
+             <option value="Kannada">Kannada</option>
+             <option value="Kazakh">Kazakh</option>
+             <option value="Khmer">Khmer</option>
+             <option value="Kinyarwanda">Kinyarwanda</option>
+             <option value="Konkani">Konkani</option>
+             <option value="Korean">Korean</option>
+             <option value="Krio">Krio</option>
+             <option value="Kurdish (Kurmanji)">Kurdish (Kurmanji)</option>
+             <option value="Kurdish (Sorani)">Kurdish (Sorani)</option>
+             <option value="Kyrgyz">Kyrgyz</option>
+             <option value="Lao">Lao</option>
+             <option value="Latin">Latin</option>
+             <option value="Latvian">Latvian</option>
+             <option value="Lingala">Lingala</option>
+             <option value="Lithuanian">Lithuanian</option>
+             <option value="Luganda">Luganda</option>
+             <option value="Luxembourgish">Luxembourgish</option>
+             <option value="Macedonian">Macedonian</option>
+             <option value="Maithili">Maithili</option>
+             <option value="Malagasy">Malagasy</option>
+             <option value="Malay">Malay</option>
+             <option value="Malayalam">Malayalam</option>
+             <option value="Maltese">Maltese</option>
+             <option value="Maori">Maori</option>
+             <option value="Marathi">Marathi</option>
+             <option value="Meiteilon (Manipuri)">Meiteilon (Manipuri)</option>
+             <option value="Mizo">Mizo</option>
+             <option value="Mongolian">Mongolian</option>
+             <option value="Myanmar (Burmese)">Myanmar (Burmese)</option>
+             <option value="Nepali">Nepali</option>
+             <option value="Norwegian">Norwegian</option>
+             <option value="Odia (Oriya)">Odia (Oriya)</option>
+             <option value="Oromo">Oromo</option>
+             <option value="Pashto">Pashto</option>
+             <option value="Persian">Persian</option>
+             <option value="Polish">Polish</option>
+             <option value="Portuguese">Portuguese</option>
+             <option value="Punjabi">Punjabi</option>
+             <option value="Quechua">Quechua</option>
+             <option value="Romanian">Romanian</option>
+             <option value="Russian">Russian</option>
+             <option value="Samoan">Samoan</option>
+             <option value="Sanskrit">Sanskrit</option>
+             <option value="Scots Gaelic">Scots Gaelic</option>
+             <option value="Sepedi">Sepedi</option>
+             <option value="Serbian">Serbian</option>
+             <option value="Sesotho">Sesotho</option>
+             <option value="Shona">Shona</option>
+             <option value="Sindhi">Sindhi</option>
+             <option value="Sinhala">Sinhala</option>
+             <option value="Slovak">Slovak</option>
+             <option value="Slovenian">Slovenian</option>
+             <option value="Somali">Somali</option>
+             <option value="Spanish">Spanish</option>
+             <option value="Sundanese">Sundanese</option>
+             <option value="Swahili">Swahili</option>
+             <option value="Swedish">Swedish</option>
+             <option value="Tajik">Tajik</option>
+             <option value="Tamil">Tamil</option>
+             <option value="Tatar">Tatar</option>
+             <option value="Telugu">Telugu</option>
+             <option value="Thai">Thai</option>
+             <option value="Tigrinya">Tigrinya</option>
+             <option value="Tsonga">Tsonga</option>
+             <option value="Turkish">Turkish</option>
+             <option value="Turkmen">Turkmen</option>
+             <option value="Twi">Twi</option>
+             <option value="Ukrainian">Ukrainian</option>
+             <option value="Urdu">Urdu</option>
+             <option value="Uyghur">Uyghur</option>
+             <option value="Uzbek">Uzbek</option>
+             <option value="Vietnamese">Vietnamese</option>
+             <option value="Welsh">Welsh</option>
+             <option value="Xhosa">Xhosa</option>
+             <option value="Yiddish">Yiddish</option>
+             <option value="Yoruba">Yoruba</option>
+             <option value="Zulu">Zulu</option>
+           </select>
+           <button class="close-btn" id="closeChatBtn">×</button>
+         </div>
+         <div id="chatMessages" class="chat-messages">
+           <div class="chat-msg ai" id="chatWelcomeMsg">Привет! Как я могу помочь? (Hi! How can I help?)</div>
+         </div>
+         <div class="chat-media-actions">
+           <button class="media-btn" id="uploadScreenshotBtn" title="Screenshot">📸</button>
+           <button class="media-btn" id="uploadVideoBtn" title="Video">📹</button>
+           <button class="media-btn" id="uploadVoiceBtn" title="Voice">🎤</button>
+           <button class="media-btn" id="uploadTranscribeBtn" title="Transcribe">📝</button>
+           <input id="chatImageInput" type="file" accept="image/*" hidden>
+           <input id="chatVideoInput" type="file" accept="video/*" hidden>
+           <input id="chatAudioInput" type="file" accept="audio/*" hidden>
+         </div>
+         <div class="chat-input-area">
+           <input type="text" id="chatInput" placeholder="Ask in any language..." />
+           <button id="chatSendBtn">➤</button>
+         </div>
+      </div>
+      <button id="chatToggleBtn" class="fab-btn" title="Nova AI Chatbot">💬</button>
+    </div>
+
+    <div class="slots-widget glass-panel" id="slotsWidget" hidden>
+      <button class="slots-close-btn" id="slotsCloseBtn">×</button>
+      <div class="slots-header">Mini Slots</div>
+      
+      <div class="slots-main-area">
+        <div class="slots-display" id="slotsDisplay">
+           <span class="slot-reel" id="slot1">🍒</span><div class="reel-divider"></div>
+           <span class="slot-reel" id="slot2">🍒</span><div class="reel-divider"></div>
+           <span class="slot-reel" id="slot3">🍋</span>
+           <div id="slotResultOverlay" class="slot-result-overlay" hidden></div>
+        </div>
+        <div class="slot-lever" id="slotLever">
+          <div class="lever-knob"></div>
+          <div class="lever-stick"></div>
+        </div>
+      </div>
+      
+      <div class="slots-controls">
+        <button id="spinBtn" class="action-btn spin-btn-3d">Spin</button>
+        <label class="auto-spin-label"><input type="checkbox" id="autoSpinCheck"> Auto Spin</label>
+      </div>
+      
+      <div class="slots-footer-controls">
+        <div class="slot-dropup-container">
+          <label>Bet:</label>
+          <select id="slotBetSelect" class="slot-dropup">
+            <option value="10">10 Coins</option>
+            <option value="25">25 Coins</option>
+            <option value="50">50 Coins</option>
+            <option value="100">100 Coins</option>
+            <option value="250">250 Coins</option>
+            <option value="500">500 Coins</option>
+          </select>
+        </div>
+        <div class="slot-dropup-container">
+          <label>Reels:</label>
+          <select id="slotReelSelect" class="slot-dropup">
+            <option value="3" selected>3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <!-- Twitch Style Chat -->
+    <div id="twitchChat" class="twitch-chat-widget glass-panel draggable-widget" hidden>
+      <div class="twitch-header drag-handle">
+        Global Chat 🔴
+        <button class="widget-close-btn" id="closeTwitchBtn">×</button>
+      </div>
+      <div id="twitchMessages" class="twitch-messages">
+        <!-- Messages auto-populated -->
+      </div>
+      <div class="twitch-input-area">
+        <input type="text" placeholder="Send a message..." disabled>
+        <button disabled>Chat</button>
+      </div>
+    </div>
+
+    <!-- DM Widget -->
+    <div id="dmWidget" class="dm-widget glass-panel draggable-widget" hidden>
+      <div class="dm-header drag-handle">
+        Direct Messages 📩
+        <button class="widget-close-btn" id="closeDMBtn">×</button>
+      </div>
+      <div class="dm-list" id="dmList">
+        <!-- DM threads auto-populated -->
+      </div>
+    </div>
+
+    <!-- Toggle FABs -->
+    <button id="toggleTwitchBtn" class="fab-btn secondary left-center" title="Global Chat">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M11.571 4.714h1.715v5.143H11.57zm4.715 0h1.714v5.143h-1.714zm-10.286 0L3.429 7.286v12h4.714V22l2.572-2.714h3.428l5.572-5.572V3.429H6zM17.57 12.857L14.57 15.857H10.714L8.143 18.429V15.857H5.571V5.143h12v7.714z"/></svg>
+    </button>
+    <button id="toggleDMBtn" class="fab-btn secondary right-center" title="Direct Messages">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
+    </button>
+    <button id="toggleSlotsBtn" class="fab-btn secondary bottom-right" title="Minislots">🎰</button>
+
+
+    <div id="socialContextMenu" class="social-context-menu glass-panel" hidden>
+      <button type="button" data-social-action="friend">Add Friend</button>
+      <button type="button" data-social-action="message">Send Message</button>
+      <button type="button" data-social-action="visit">Visit Profile</button>
+    </div>
+    <div id="publicProfileModal" class="modal-overlay" hidden>
+      <div class="modal-content public-profile-card glass-panel">
+        <div class="modal-header">
+          <h2 id="publicProfileName">Profile</h2>
+          <button class="close-modal-btn" id="closePublicProfileBtn">x</button>
+        </div>
+        <div class="public-profile-hero">
+          <div id="publicProfileAvatar" class="public-profile-avatar"></div>
+          <div class="public-profile-main">
+            <p id="publicProfileHandle"></p>
+            <p id="publicProfileBio"></p>
+          </div>
+          <div class="public-profile-stats">
+            <span><strong id="publicFollowersCount">0</strong> Followers</span>
+            <span><strong id="publicFollowingCount">0</strong> Following</span>
+            <span><strong id="publicFriendsCount">0</strong> Friends</span>
+          </div>
+        </div>
+        <div class="public-profile-grid">
+          <section>
+            <h3>Achievements</h3>
+            <div id="publicAchievementsList" class="public-achievements-list"></div>
+          </section>
+          <section>
+            <h3>Collection</h3>
+            <div id="publicCollectionGrid" class="public-collection-grid"></div>
+          </section>
+        </div>
+        <div class="public-level-panel">
+          <span id="publicLevelLabel">Level 0</span>
+          <div class="level-progress"><div id="publicLevelProgressFill"></div></div>
+          <small id="publicLevelProgressText">0 / 1,000 XP to Level 1</small>
+        </div>
+        <p id="publicProfileStatus" class="profile-status"></p>
+      </div>
+    </div>
+    <div id="tooltip" class="tooltip glass-panel" role="tooltip" hidden></div>
+    <script src="script.js?v=language-profile-11"></script>
+
+    <!-- Clippy Guide -->
+    <div id="clippyGuide" class="clippy-guide" hidden style="position: fixed; bottom: 20px; right: 20px; z-index: 1000; display: flex; align-items: flex-end; gap: 10px; pointer-events: none;">
+       <div class="clippy-speech-bubble glass-panel" id="clippyMessage" style="padding: 12px; border-radius: 12px; border-bottom-right-radius: 0; max-width: 200px; font-weight: bold; font-size: 0.9rem; margin-bottom: 30px;">Welcome! Let me guide you.</div>
+       <div class="clippy-avatar circular-avatar-wrapper" id="clippyAvatar" style="width: 80px; height: 80px; border: 3px solid var(--primary); pointer-events: auto; cursor: pointer;"></div>
+    </div>
+
+  </body>
+</html>

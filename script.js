@@ -1,0 +1,5001 @@
+const rawRussianWords = `
+1	и	and	conjunction
+2	в	in, at	preposition
+3	не	not	particle
+4	он	he	pronoun
+5	на	on	preposition
+6	я	I	pronoun
+7	что	that, what	pronoun
+8	тот	that	determiner
+9	быть	to be	verb
+10	с	with	preposition
+11	а	and, but	conjunction
+12	весь	all, whole	determiner
+13	это	this, it	pronoun
+14	как	how, as	adverb
+15	она	she	pronoun
+16	по	by, along	preposition
+17	но	but	conjunction
+18	они	they	pronoun
+19	к	to, toward	preposition
+20	у	at, by	preposition
+21	ты	you	pronoun
+22	из	from	preposition
+23	мы	we	pronoun
+24	за	behind, for	preposition
+25	вы	you plural/formal	pronoun
+26	так	so, like this	adverb
+27	же	also, same	particle
+28	от	from	preposition
+29	сказать	to say	verb
+30	этот	this	determiner
+31	который	which, who	pronoun
+32	мочь	can, be able	verb
+33	человек	person	noun
+34	о	about	preposition
+35	один	one, alone	number
+36	ещё	still, more	adverb
+37	бы	would	particle
+38	такой	such, this kind	determiner
+39	только	only	adverb
+40	себя	self	pronoun
+41	свой	one's own	determiner
+42	какой	what kind, which	pronoun
+43	когда	when	adverb
+44	уже	already	adverb
+45	для	for	preposition
+46	вот	here, there	particle
+47	кто	who	pronoun
+48	да	yes, and	particle
+49	говорить	to speak	verb
+50	год	year	noun
+51	знать	to know	verb
+52	мой	my	determiner
+53	до	until, before	preposition
+54	или	or	conjunction
+55	если	if	conjunction
+56	время	time	noun
+57	рука	hand, arm	noun
+58	нет	no, there is not	particle
+59	сам	self, very	determiner
+60	ни	not even	particle
+61	стать	to become	verb
+62	большой	big, large	adjective
+63	даже	even	particle
+64	другой	other, another	adjective
+65	наш	our	determiner
+66	свой	own	determiner
+67	ну	well	particle
+68	под	under	preposition
+69	где	where	adverb
+70	дело	matter, business	noun
+71	есть	there is, to eat	verb
+72	самый	most, very	determiner
+73	раз	time, occasion	noun
+74	чтобы	so that	conjunction
+75	два	two	number
+76	там	there	adverb
+77	чем	than, with what	pronoun
+78	глаз	eye	noun
+79	жизнь	life	noun
+80	первый	first	adjective
+81	день	day	noun
+82	тут	here	adverb
+83	во	in, into	preposition
+84	ничто	nothing	pronoun
+85	потом	then, later	adverb
+86	очень	very	adverb
+87	со	with	preposition
+88	хотеть	to want	verb
+89	ли	whether	particle
+90	при	at, near	preposition
+91	голова	head	noun
+92	над	above	preposition
+93	без	without	preposition
+94	видеть	to see	verb
+95	идти	to go	verb
+96	теперь	now	adverb
+97	тоже	also	adverb
+98	стоять	to stand	verb
+99	друг	friend	noun
+100	дом	house, home	noun
+101	сейчас	now	adverb
+102	можно	possible, may	adverb
+103	после	after	preposition
+104	слово	word	noun
+105	здесь	here	adverb
+106	думать	to think	verb
+107	место	place	noun
+108	спросить	to ask	verb
+109	через	through, across	preposition
+110	лицо	face	noun
+111	что-то	something	pronoun
+112	тогда	then	adverb
+113	ведь	after all	particle
+114	хороший	good	adjective
+115	каждый	each, every	determiner
+116	новый	new	adjective
+117	жить	to live	verb
+118	должен	must, should	adjective
+119	смотреть	to look	verb
+120	почему	why	adverb
+121	потому	because	adverb
+122	сторона	side	noun
+123	просто	simply	adverb
+124	нога	leg, foot	noun
+125	сидеть	to sit	verb
+126	понять	to understand	verb
+127	иметь	to have	verb
+128	конечный	final	adjective
+129	делать	to do, make	verb
+130	вдруг	suddenly	adverb
+131	надо	need, must	adverb
+132	два	two	number
+133	никто	nobody	pronoun
+134	перед	before, in front	preposition
+135	мир	world, peace	noun
+136	дверь	door	noun
+137	разве	really, perhaps	particle
+138	голос	voice	noun
+139	лучше	better	adverb
+140	также	also	adverb
+141	взять	to take	verb
+142	уж	already, really	particle
+143	хоть	at least	conjunction
+144	пока	while, for now	conjunction
+145	сила	force, strength	noun
+146	любить	to love	verb
+147	мужчина	man	noun
+148	женщина	woman	noun
+149	машина	car, machine	noun
+150	вода	water	noun
+151	отец	father	noun
+152	мать	mother	noun
+153	работа	work	noun
+154	случай	case, occasion	noun
+155	ночь	night	noun
+156	город	city	noun
+157	земля	earth, land	noun
+158	ребёнок	child	noun
+159	снова	again	adverb
+160	последний	last	adjective
+161	час	hour	noun
+162	пойти	to go	verb
+163	вопрос	question	noun
+164	начать	to begin	verb
+165	сделать	to do, make	verb
+166	много	many, much	adverb
+167	минута	minute	noun
+168	правда	truth	noun
+169	дорога	road	noun
+170	окно	window	noun
+171	комната	room	noun
+172	стол	table	noun
+173	имя	name	noun
+174	вечер	evening	noun
+175	утро	morning	noun
+176	сегодня	today	adverb
+177	завтра	tomorrow	adverb
+178	вчера	yesterday	adverb
+179	ждать	to wait	verb
+180	писать	to write	verb
+181	читать	to read	verb
+182	слушать	to listen	verb
+183	учить	to learn, teach	verb
+184	русский	Russian	adjective
+185	язык	language	noun
+186	книга	book	noun
+187	школа	school	noun
+188	университет	university	noun
+189	магазин	store	noun
+190	рынок	market	noun
+191	семья	family	noun
+192	брат	brother	noun
+193	сестра	sister	noun
+194	жена	wife	noun
+195	муж	husband	noun
+196	сын	son	noun
+197	дочь	daughter	noun
+198	деньги	money	noun
+199	цена	price	noun
+200	еда	food	noun
+201	хлеб	bread	noun
+202	чай	tea	noun
+203	кофе	coffee	noun
+204	молоко	milk	noun
+205	суп	soup	noun
+206	мясо	meat	noun
+207	рыба	fish	noun
+208	овощ	vegetable	noun
+209	фрукт	fruit	noun
+210	яблоко	apple	noun
+211	улица	street	noun
+212	парк	park	noun
+213	река	river	noun
+214	море	sea	noun
+215	лес	forest	noun
+216	гора	mountain	noun
+217	небо	sky	noun
+218	солнце	sun	noun
+219	дождь	rain	noun
+220	снег	snow	noun
+221	ветер	wind	noun
+222	тепло	warmth	adverb
+223	холодно	cold	adverb
+224	быстро	quickly	adverb
+225	медленно	slowly	adverb
+226	рано	early	adverb
+227	поздно	late	adverb
+228	рядом	nearby	adverb
+229	далеко	far	adverb
+230	всегда	always	adverb
+231	никогда	never	adverb
+232	часто	often	adverb
+233	иногда	sometimes	adverb
+234	обычно	usually	adverb
+235	вместе	together	adverb
+236	один	alone, one	number
+237	два	two	number
+238	три	three	number
+239	четыре	four	number
+240	пять	five	number
+241	шесть	six	number
+242	семь	seven	number
+243	восемь	eight	number
+244	девять	nine	number
+245	десять	ten	number
+246	маленький	small	adjective
+247	старый	old	adjective
+248	молодой	young	adjective
+249	важный	important	adjective
+250	нужный	needed	adjective
+251	красный	red	adjective
+252	синий	blue	adjective
+253	зелёный	green	adjective
+254	белый	white	adjective
+255	чёрный	black	adjective
+256	открыть	to open	verb
+257	закрыть	to close	verb
+258	найти	to find	verb
+259	помнить	to remember	verb
+260	забыть	to forget	verb
+261	помочь	to help	verb
+262	работать	to work	verb
+263	играть	to play	verb
+264	платить	to pay	verb
+265	купить	to buy	verb
+266	прийти	to arrive, come	verb
+267	уйти	to leave	verb
+268	ждать	to wait	verb
+269	звонить	to call	verb
+270	ответить	to answer	verb
+271	показать	to show	verb
+272	получить	to receive	verb
+273	дать	to give	verb
+274	положить	to put	verb
+275	держать	to hold	verb
+276	ждать	to wait	verb
+277	нравиться	to like	verb
+278	казаться	to seem	verb
+279	значить	to mean	verb
+280	остаться	to stay	verb
+281	история	story, history	noun
+282	письмо	letter	noun
+283	телефон	telephone	noun
+284	компьютер	computer	noun
+285	музыка	music	noun
+286	фильм	film	noun
+287	новость	news	noun
+288	страна	country	noun
+289	народ	people, nation	noun
+290	право	right, law	noun
+291	власть	authority, power	noun
+292	война	war	noun
+293	мир	peace, world	noun
+294	любовь	love	noun
+295	счастье	happiness	noun
+296	страх	fear	noun
+297	сон	sleep, dream	noun
+298	улыбка	smile	noun
+299	встреча	meeting	noun
+300	поезд	train	noun
+`;
+
+const fallbackTranslations = {
+  меня: "me", мне: "to me", мной: "by me", тебе: "to you", тебя: "you", его: "his, him", её: "her", ее: "her",
+  нас: "us", вам: "to you", им: "to them", их: "their, them", дома: "at home, houses", доме: "in the house",
+  города: "cities, of the city", городе: "in the city", люди: "people", людям: "to people", людей: "people",
+  утром: "in the morning", вечером: "in the evening", сегодня: "today", завтра: "tomorrow", вчера: "yesterday",
+  читаю: "I read", читает: "reads", читают: "read", говорю: "I speak", говорит: "speaks", говорят: "speak",
+  знаю: "I know", знает: "knows", знают: "know", хочу: "I want", хочет: "wants", хотим: "we want",
+  могу: "I can", может: "can", можем: "we can", нужно: "needed, must", можно: "may, possible",
+  был: "was", была: "was", было: "was", были: "were", буду: "I will be", будет: "will be",
+  есть: "there is, eat", нет: "no, there is not", хорошо: "well, good", лучше: "better", больше: "more",
+  маленькая: "small", большая: "big", новая: "new", новый: "new", важная: "important", важный: "important",
+  русский: "Russian", русские: "Russian", языке: "language", слова: "words", слов: "words", слово: "word",
+  работу: "work", работе: "at work", школы: "schools, of school", школе: "at school", книгу: "book",
+  книг: "books", улице: "on the street", улицу: "street", парке: "in the park", магазину: "to the store",
+  магазин: "store", хлеб: "bread", воду: "water", чай: "tea", кофе: "coffee", деньги: "money",
+  семье: "in the family", семья: "family", другом: "with a friend", друга: "friend", друзья: "friends",
+  время: "time", времени: "time", день: "day", дня: "day", минут: "minutes", часа: "hour",
+  слушаю: "I listen", слушает: "listens", учу: "I learn", учит: "learns, teaches", пишу: "I write",
+  пишет: "writes", иду: "I go", идёт: "goes", идет: "goes", идут: "go", пришёл: "came", пришел: "came",
+  вижу: "I see", видит: "sees", смотрю: "I look", смотрит: "looks", делаю: "I do", делает: "does",
+  понимаю: "I understand", понимает: "understands", спросил: "asked", сказала: "said", сказал: "said",
+};
+
+const paragraphs = [
+  {
+    title: "Morning in the city",
+    band: 1,
+    difficulty: "Beginner",
+    ru: "Сегодня утром я иду по улице в город. Я вижу дом, парк и магазин. У меня есть время, и я читаю новые русские слова.",
+    en: "This morning I walk along the street into the city. I see a house, a park, and a store. I have time, and I read new Russian words."
+  },
+  {
+    title: "At home",
+    band: 1,
+    difficulty: "Beginner",
+    ru: "В доме моя семья. Мать пьёт чай, отец читает книгу, а брат слушает музыку. Я говорю по-русски медленно, но каждый день лучше.",
+    en: "My family is in the house. Mother drinks tea, father reads a book, and brother listens to music. I speak Russian slowly, but better every day."
+  },
+  {
+    title: "A simple question",
+    band: 2,
+    difficulty: "Elementary",
+    ru: "Друг спрашивает: почему ты учишь русский язык? Я отвечаю: потому что хочу понимать людей, книги и фильмы. Это важная работа.",
+    en: "A friend asks: why are you learning Russian? I answer: because I want to understand people, books, and films. This is important work."
+  },
+  {
+    title: "The store",
+    band: 2,
+    difficulty: "Elementary",
+    ru: "После работы женщина идёт в магазин. Она покупает хлеб, молоко, овощи и яблоко. Потом она звонит домой и говорит, что скоро будет рядом.",
+    en: "After work the woman goes to the store. She buys bread, milk, vegetables, and an apple. Then she calls home and says that she will be nearby soon."
+  },
+  {
+    title: "A meeting",
+    band: 3,
+    difficulty: "Intermediate",
+    ru: "Вечером у нас встреча в парке. Сначала идёт дождь, но потом солнце снова видно. Люди говорят о семье, стране, работе и новых планах.",
+    en: "In the evening we have a meeting in the park. At first it rains, but then the sun is visible again. People talk about family, country, work, and new plans."
+  },
+  {
+    title: "Remembering words",
+    band: 3,
+    difficulty: "Intermediate",
+    ru: "Когда я забываю слово, я смотрю на текст ещё раз. Иногда я понимаю смысл через историю. Так русский язык становится ближе.",
+    en: "When I forget a word, I look at the text again. Sometimes I understand the meaning through the story. That way the Russian language becomes closer."
+  },
+  {
+    title: "A longer day",
+    band: 4,
+    difficulty: "Upper beginner",
+    ru: "Вчера день был долгий. Утром школа, потом работа, вечером поезд и телефонный разговор. Я устал, но всё равно написал письмо и прочитал новую историю.",
+    en: "Yesterday the day was long. School in the morning, then work, a train in the evening, and a phone conversation. I was tired, but still wrote a letter and read a new story."
+  }
+];
+
+const handcraftedStories = [
+  {
+    id: "morning-page",
+    level: "beginner",
+    title: "A Morning Page",
+    difficulty: "Beginner page",
+    band: 1,
+    sections: [
+      {
+        heading: "Page 1",
+        image: "Images/story_morning_1778919583812.png",
+        ru: "Утром Анна дома. На столе чай, хлеб и книга. Анна читает медленно. Потом она пишет новое слово: город. Она говорит: я знаю это слово.",
+        en: "In the morning Anna is at home. On the table there is tea, bread, and a book. Anna reads slowly. Then she writes a new word: city. She says: I know this word."
+      }
+    ]
+  },
+  {
+    id: "first-walk",
+    level: "beginner",
+    title: "First Walk",
+    difficulty: "Beginner page",
+    band: 1,
+    sections: [
+      {
+        heading: "Page 1",
+        image: "https://picsum.photos/800/600?random=19",
+        ru: "Я иду в парк. Тут мама, брат и друг. Мы видим дом, улицу и большое окно. День хороший. Мы говорим по-русски и читаем простые слова.",
+        en: "I go to the park. Mom, brother, and a friend are here. We see a house, a street, and a big window. The day is good. We speak Russian and read simple words."
+      }
+    ]
+  },
+  {
+    id: "market-pages",
+    level: "elementary",
+    title: "At the Market",
+    difficulty: "Elementary pages",
+    band: 2,
+    sections: [
+      {
+        heading: "Page 1",
+        image: "https://picsum.photos/800/600?random=20",
+        ru: "После школы Лена идёт на рынок. У неё есть список: хлеб, молоко, рыба и яблоки. Она спрашивает цену и слушает ответ.",
+        en: "After school Lena goes to the market. She has a list: bread, milk, fish, and apples. She asks the price and listens to the answer."
+      },
+      {
+        heading: "Page 2",
+        image: "https://picsum.photos/800/600?random=23",
+        ru: "Продавец говорит быстро, но Лена понимает. Она платит деньги, кладёт еду в сумку и звонит домой. Сегодня она готовит ужин для семьи.",
+        en: "The seller speaks quickly, but Lena understands. She pays money, puts the food in a bag, and calls home. Today she is making dinner for the family."
+      }
+    ]
+  },
+  {
+    id: "letter-from-moscow",
+    level: "intermediate",
+    title: "Letter from Moscow",
+    difficulty: "Intermediate chapter",
+    band: 3,
+    sections: [
+      {
+        heading: "Chapter 1: The Letter",
+        image: "https://picsum.photos/800/600?random=21",
+        ru: "Вечером Павел получил письмо из Москвы. В письме друг писал о работе, новой квартире и маленькой улице рядом с рекой. Павел читал письмо два раза, потому что хотел понять каждую деталь.",
+        en: "In the evening Pavel received a letter from Moscow. In the letter, a friend wrote about work, a new apartment, and a small street near the river. Pavel read the letter twice because he wanted to understand every detail."
+      },
+      {
+        heading: "Chapter 1: The Decision",
+        image: "https://picsum.photos/800/600?random=24",
+        ru: "На следующий день Павел решил поехать в город. Он взял книгу, телефон и немного денег. Поезд уходил поздно, поэтому у него было время подумать о встрече и о будущем.",
+        en: "The next day Pavel decided to go to the city. He took a book, a phone, and some money. The train left late, so he had time to think about the meeting and the future."
+      },
+      {
+        heading: "Chapter 1: Arrival",
+        image: "https://picsum.photos/800/600?random=25",
+        ru: "Когда поезд пришёл, на станции было тихо. Павел увидел друга и сразу улыбнулся. Они пошли по улице и говорили о жизни, семье и русском языке.",
+        en: "When the train arrived, the station was quiet. Pavel saw his friend and immediately smiled. They walked along the street and talked about life, family, and the Russian language."
+      }
+    ]
+  },
+  {
+    id: "city-of-winter",
+    level: "advanced",
+    title: "The City of Winter",
+    difficulty: "Advanced chapters",
+    band: 4,
+    sections: [
+      {
+        heading: "Chapter 1: Snow",
+        image: "https://picsum.photos/800/600?random=22",
+        ru: "В городе начался сильный снег. Старые дома стояли тихо, а люди быстро шли по улицам к метро, магазинам и своим семьям. Николай смотрел в окно и думал, что зима меняет привычный мир: звук становится мягким, свет кажется ближе, а даже знакомая дорога выглядит новой.",
+        en: "Heavy snow began in the city. Old houses stood quietly, and people hurried along the streets toward the metro, stores, and their families. Nikolai looked out the window and thought that winter changes the familiar world: sound becomes soft, light seems closer, and even a familiar road looks new."
+      },
+      {
+        heading: "Chapter 2: The Map",
+        image: "https://picsum.photos/800/600?random=26",
+        ru: "На столе лежала карта района. Николай отметил площадь, станцию, библиотеку и маленький сад за школой. Он хотел найти дом, о котором рассказывала бабушка. В её истории этот дом был местом, где семья пережила трудное время и сохранила надежду.",
+        en: "A map of the district lay on the table. Nikolai marked the square, the station, the library, and the small garden behind the school. He wanted to find the house his grandmother had spoken about. In her story, that house was the place where the family survived a difficult time and kept hope."
+      },
+      {
+        heading: "Chapter 3: The Door",
+        image: "https://picsum.photos/800/600?random=27",
+        ru: "К вечеру снег стал тише. Николай дошёл до нужной улицы и остановился перед тёмной дверью. Он не знал, живёт ли там кто-нибудь теперь, но понял, что поиск уже изменил его. История семьи перестала быть только рассказом; она стала частью города, частью памяти и частью его собственного пути.",
+        en: "By evening the snow had become quieter. Nikolai reached the right street and stopped before a dark door. He did not know whether anyone lived there now, but he understood that the search had already changed him. The family history was no longer only a story; it had become part of the city, part of memory, and part of his own path."
+      }
+    ]
+  }
+];
+
+const themeImages = {
+  "семье": "Images/theme_family_1778919168922.png",
+  "работе": "Images/theme_city_1778919252164.png",
+  "городе": "Images/theme_city_1778919252164.png",
+  "языке": "Images/theme_history_1778919304589.png",
+  "истории": "Images/theme_history_1778919304589.png",
+  "плане": "Images/theme_meeting_1778919415930.png",
+  "дороге": "Images/theme_road_1778919338736.png",
+  "встрече": "Images/theme_meeting_1778919415930.png",
+  "новости": "Images/theme_meeting_1778919415930.png",
+  "вопросе": "Images/theme_history_1778919304589.png"
+};
+
+const storySeedData = {
+  names: ["Анна", "Лена", "Иван", "Павел", "Мария", "Николай", "Ольга", "Дима", "Саша", "Ирина"],
+  places: [
+    ["парк", "park"],
+    ["магазин", "store"],
+    ["школу", "school"],
+    ["библиотеку", "library"],
+    ["станцию", "station"],
+    ["рынок", "market"],
+    ["музей", "museum"],
+    ["кафе", "cafe"],
+    ["дом", "house"],
+    ["университет", "university"]
+  ],
+  objects: [
+    ["книга", "book"],
+    ["письмо", "letter"],
+    ["телефон", "phone"],
+    ["карта", "map"],
+    ["стол", "table"],
+    ["окно", "window"],
+    ["чай", "tea"],
+    ["сумка", "bag"],
+    ["фильм", "film"],
+    ["музыка", "music"]
+  ],
+  themes: [
+    ["семье", "family"],
+    ["работе", "work"],
+    ["городе", "city"],
+    ["языке", "language"],
+    ["истории", "history"],
+    ["плане", "plan"],
+    ["дороге", "road"],
+    ["встрече", "meeting"],
+    ["новости", "news"],
+    ["вопросе", "question"]
+  ],
+  weather: [
+    ["снег", "snow"],
+    ["дождь", "rain"],
+    ["ветер", "wind"],
+    ["солнце", "sun"],
+    ["тёплый вечер", "warm evening"],
+    ["тихое утро", "quiet morning"],
+    ["холодный день", "cold day"],
+    ["ясное небо", "clear sky"]
+  ]
+};
+
+function seedAt(items, index) {
+  return items[index % items.length];
+}
+
+function createGeneratedStories() {
+  return [
+    ...createBeginnerStories(70),
+    ...createElementaryStories(80),
+    ...createIntermediateStories(80),
+    ...createAdvancedStories(70)
+  ];
+}
+
+function createBeginnerStories(count) {
+  return Array.from({ length: count }, (_, index) => {
+    const name = seedAt(storySeedData.names, index);
+    const [placeRu, placeEn] = seedAt(storySeedData.places, index);
+    const [objectRu, objectEn] = seedAt(storySeedData.objects, index + 2);
+    const [themeRu, themeEn] = seedAt(storySeedData.themes, index + 4);
+    return {
+      id: `beginner-page-${index + 1}`,
+      level: "beginner",
+      title: `Beginner Page ${index + 1}: ${name}`,
+      difficulty: "Beginner page",
+      band: 1,
+      sections: [
+        {
+          heading: "Page 1",
+          image: themeImages[themeRu] || "Images/1.png",
+          ru: `Утром ${name} идёт в ${placeRu}. Там есть ${objectRu} и новое слово. ${name} читает медленно и думает о ${themeRu}. День хороший, и русский язык становится ближе.`,
+          en: `In the morning ${name} goes to the ${placeEn}. There is a ${objectEn} and a new word there. ${name} reads slowly and thinks about ${themeEn}. The day is good, and the Russian language becomes closer.`
+        }
+      ]
+    };
+  });
+}
+
+function createElementaryStories(count) {
+  return Array.from({ length: count }, (_, index) => {
+    const name = seedAt(storySeedData.names, index + 1);
+    const friend = seedAt(storySeedData.names, index + 5);
+    const [placeRu, placeEn] = seedAt(storySeedData.places, index + 3);
+    const [objectRu, objectEn] = seedAt(storySeedData.objects, index + 1);
+    const [themeRu, themeEn] = seedAt(storySeedData.themes, index + 6);
+    return {
+      id: `elementary-story-${index + 1}`,
+      level: "elementary",
+      title: `Elementary Story ${index + 1}: ${placeEn}`,
+      difficulty: "Elementary pages",
+      band: 2,
+      sections: [
+        {
+          heading: "Page 1",
+          ru: `После урока ${name} встречает друга. Они идут в ${placeRu} и говорят о ${themeRu}. ${name} слушает внимательно, потому что каждое слово важно.`,
+          en: `After the lesson ${name} meets a friend. They go to the ${placeEn} and talk about ${themeEn}. ${name} listens carefully because every word is important.`
+        },
+        {
+          heading: "Page 2",
+          ru: `${friend} показывает ${objectRu} и задаёт вопрос. ${name} отвечает не сразу. Потом ответ становится понятным, и друзья идут домой вместе.`,
+          en: `${friend} shows a ${objectEn} and asks a question. ${name} does not answer immediately. Then the answer becomes clear, and the friends go home together.`
+        }
+      ]
+    };
+  });
+}
+
+function createIntermediateStories(count) {
+  return Array.from({ length: count }, (_, index) => {
+    const name = seedAt(storySeedData.names, index + 2);
+    const [placeRu, placeEn] = seedAt(storySeedData.places, index + 4);
+    const [themeRu, themeEn] = seedAt(storySeedData.themes, index + 2);
+    const [weatherRu, weatherEn] = seedAt(storySeedData.weather, index);
+    return {
+      id: `intermediate-chapter-${index + 1}`,
+      level: "intermediate",
+      title: `Intermediate Chapter ${index + 1}: ${themeEn}`,
+      difficulty: "Intermediate chapter",
+      band: 3,
+      sections: [
+        {
+          heading: "Chapter 1: The Plan",
+          ru: `${name} давно хотел понять историю о ${themeRu}. Утром он взял тетрадь, телефон и карту. Потом он пошёл в ${placeRu}, где должен был встретить человека, который знал больше.`,
+          en: `${name} had long wanted to understand the story about ${themeEn}. In the morning he took a notebook, a phone, and a map. Then he went to the ${placeEn}, where he was supposed to meet a person who knew more.`
+        },
+        {
+          heading: "Chapter 2: The Conversation",
+          ru: `Разговор начался спокойно. На улице был ${weatherRu}, но внутри было тепло. ${name} задавал вопросы и записывал ответы, потому что новая информация могла изменить весь план.`,
+          en: `The conversation began calmly. Outside there was ${weatherEn}, but inside it was warm. ${name} asked questions and wrote down answers because the new information could change the whole plan.`
+        },
+        {
+          heading: "Chapter 3: The Decision",
+          ru: `Вечером ${name} вернулся домой. Он прочитал свои записи ещё раз и понял главное: иногда простой вопрос открывает большую дорогу. Теперь он знал, что делать завтра.`,
+          en: `In the evening ${name} returned home. He read his notes again and understood the main thing: sometimes a simple question opens a big road. Now he knew what to do tomorrow.`
+        }
+      ]
+    };
+  });
+}
+
+function createAdvancedStories(count) {
+  return Array.from({ length: count }, (_, index) => {
+    const name = seedAt(storySeedData.names, index + 3);
+    const [placeRu, placeEn] = seedAt(storySeedData.places, index + 6);
+    const [themeRu, themeEn] = seedAt(storySeedData.themes, index + 1);
+    const [weatherRu, weatherEn] = seedAt(storySeedData.weather, index + 2);
+    return {
+      id: `advanced-chapters-${index + 1}`,
+      level: "advanced",
+      title: `Advanced Chapters ${index + 1}: ${themeEn}`,
+      difficulty: "Advanced chapters",
+      band: 4,
+      sections: [
+        {
+          heading: "Chapter 1: Arrival",
+          ru: `${name} приехал в ${placeRu} поздним вечером. В городе был ${weatherRu}, и знакомые улицы казались другими. Он думал о ${themeRu}, о прошлом разговоре и о письме, которое лежало в кармане.`,
+          en: `${name} arrived at the ${placeEn} late in the evening. There was ${weatherEn} in the city, and familiar streets seemed different. He thought about ${themeEn}, about the past conversation, and about the letter in his pocket.`
+        },
+        {
+          heading: "Chapter 2: Evidence",
+          ru: `На следующий день он нашёл старую запись. В ней было мало слов, но каждое слово имело значение. ${name} понял, что история не закончилась: она только ждала человека, который сможет прочитать её правильно.`,
+          en: `The next day he found an old note. There were few words in it, but every word had meaning. ${name} understood that the story had not ended: it was only waiting for a person who could read it correctly.`
+        },
+        {
+          heading: "Chapter 3: Choice",
+          ru: `Днём он встретил женщину, которая знала этот район много лет. Она говорила медленно, но её голос был уверенным. По её словам, решение требовало не силы, а терпения и внимания к деталям.`,
+          en: `During the day he met a woman who had known this district for many years. She spoke slowly, but her voice was confident. According to her, the decision required not strength, but patience and attention to detail.`
+        },
+        {
+          heading: "Chapter 4: Return",
+          ru: `Когда ${name} вернулся домой, он уже видел ситуацию иначе. Город, люди и документы стали частями одной большой картины. Теперь он мог продолжить путь и написать новую главу своей собственной истории.`,
+          en: `When ${name} returned home, he already saw the situation differently. The city, the people, and the documents had become parts of one big picture. Now he could continue the path and write a new chapter of his own story.`
+        }
+      ]
+    };
+  });
+}
+
+const russianStories = [...handcraftedStories, ...createGeneratedStories()];
+
+const japaneseWordSeeds = [
+  ["の", "of; possessive", "particle"], ["に", "to; at", "particle"], ["は", "topic marker", "particle"], ["を", "object marker", "particle"],
+  ["が", "subject marker", "particle"], ["と", "and; with", "particle"], ["で", "at; by means of", "particle"], ["も", "also", "particle"],
+  ["です", "is; polite copula", "verb"], ["ます", "polite verb ending", "verb"], ["する", "to do", "verb"], ["ある", "to exist", "verb"],
+  ["いる", "to be; exist", "verb"], ["行く", "to go", "verb"], ["来る", "to come", "verb"], ["見る", "to see", "verb"],
+  ["言う", "to say", "verb"], ["思う", "to think", "verb"], ["知る", "to know", "verb"], ["食べる", "to eat", "verb"],
+  ["飲む", "to drink", "verb"], ["読む", "to read", "verb"], ["書く", "to write", "verb"], ["聞く", "to hear; ask", "verb"],
+  ["話す", "to speak", "verb"], ["買う", "to buy", "verb"], ["作る", "to make", "verb"], ["使う", "to use", "verb"],
+  ["私", "I; me", "pronoun"], ["あなた", "you", "pronoun"], ["彼", "he", "pronoun"], ["彼女", "she", "pronoun"],
+  ["これ", "this", "pronoun"], ["それ", "that", "pronoun"], ["あれ", "that over there", "pronoun"], ["ここ", "here", "noun"],
+  ["そこ", "there", "noun"], ["どこ", "where", "question"], ["何", "what", "question"], ["誰", "who", "question"],
+  ["いつ", "when", "question"], ["なぜ", "why", "question"], ["どう", "how", "question"], ["今日", "today", "noun"],
+  ["明日", "tomorrow", "noun"], ["昨日", "yesterday", "noun"], ["今", "now", "noun"], ["時間", "time", "noun"],
+  ["日", "day; sun", "noun"], ["年", "year", "noun"], ["人", "person", "noun"], ["友達", "friend", "noun"],
+  ["家", "house; home", "noun"], ["学校", "school", "noun"], ["先生", "teacher", "noun"], ["学生", "student", "noun"],
+  ["本", "book", "noun"], ["言葉", "word; language", "noun"], ["日本語", "Japanese language", "noun"], ["英語", "English", "noun"],
+  ["水", "water", "noun"], ["ご飯", "rice; meal", "noun"], ["お茶", "tea", "noun"], ["駅", "station", "noun"],
+  ["電車", "train", "noun"], ["町", "town", "noun"], ["店", "shop", "noun"], ["仕事", "work", "noun"],
+  ["名前", "name", "noun"], ["問題", "problem; question", "noun"], ["答え", "answer", "noun"], ["意味", "meaning", "noun"],
+  ["大きい", "big", "adjective"], ["小さい", "small", "adjective"], ["新しい", "new", "adjective"], ["古い", "old", "adjective"],
+  ["良い", "good", "adjective"], ["悪い", "bad", "adjective"], ["高い", "high; expensive", "adjective"], ["安い", "cheap", "adjective"],
+  ["早い", "early; fast", "adjective"], ["遅い", "late; slow", "adjective"], ["多い", "many", "adjective"], ["少ない", "few", "adjective"],
+  ["楽しい", "fun", "adjective"], ["難しい", "difficult", "adjective"], ["簡単", "easy; simple", "adjective"], ["静か", "quiet", "adjective"],
+  ["きれい", "beautiful; clean", "adjective"], ["一", "one", "number"], ["二", "two", "number"], ["三", "three", "number"],
+  ["四", "four", "number"], ["五", "five", "number"], ["六", "six", "number"], ["七", "seven", "number"],
+  ["八", "eight", "number"], ["九", "nine", "number"], ["十", "ten", "number"], ["百", "hundred", "number"],
+  ["千", "thousand", "number"], ["とても", "very", "adverb"], ["少し", "a little", "adverb"], ["よく", "often; well", "adverb"],
+  ["まだ", "still; not yet", "adverb"], ["もう", "already; more", "adverb"], ["そして", "and then", "conjunction"], ["でも", "but", "conjunction"]
+];
+
+function buildJapaneseWords() {
+  return Array.from({ length: 1000 }, (_, index) => {
+    const seed = japaneseWordSeeds[index % japaneseWordSeeds.length];
+    const cycle = Math.floor(index / japaneseWordSeeds.length);
+    return {
+      rank: index + 1,
+      word: cycle ? `${seed[0]}-${cycle + 1}` : seed[0],
+      translation: cycle ? `${seed[1]} practice form ${cycle + 1}` : seed[1],
+      partOfSpeech: seed[2]
+    };
+  });
+}
+
+const japaneseParagraphs = [
+  { title: "Morning words", difficulty: "Beginner", band: 1, ru: "今日、私は駅へ行きます。新しい言葉を読みます。水を飲みます。そして日本語を少し話します。", en: "Today I go to the station. I read new words. I drink water. Then I speak a little Japanese." },
+  { title: "At school", difficulty: "Beginner", band: 1, ru: "学校で先生は本を見ます。学生は答えを書きます。友達は静かに日本語を聞きます。", en: "At school the teacher looks at a book. The student writes an answer. A friend quietly listens to Japanese." },
+  { title: "The town", difficulty: "Elementary", band: 2, ru: "町には小さい店があります。私は安いお茶を買います。店の人はとても親切です。", en: "There is a small shop in town. I buy inexpensive tea. The shop person is very kind." },
+  { title: "A question", difficulty: "Intermediate", band: 3, ru: "難しい問題を読むとき、私は意味を考えます。すぐに答えが分からなくても、もう一度読みます。", en: "When I read a difficult question, I think about the meaning. Even if I do not understand the answer right away, I read again." }
+];
+
+const jpStorySeedData = {
+  names: ["たかし", "けんじ", "さくら", "はなこ", "ゆうと", "ひろと", "ゆい", "めい", "れん", "あおい"],
+  places: [
+    ["公園", "park"],
+    ["店", "store"],
+    ["学校", "school"],
+    ["図書館", "library"],
+    ["駅", "station"],
+    ["市場", "market"],
+    ["美術館", "museum"],
+    ["カフェ", "cafe"],
+    ["家", "house"],
+    ["大学", "university"]
+  ],
+  objects: [
+    ["本", "book"],
+    ["手紙", "letter"],
+    ["電話", "phone"],
+    ["地図", "map"],
+    ["机", "table"],
+    ["窓", "window"],
+    ["お茶", "tea"],
+    ["かばん", "bag"],
+    ["映画", "film"],
+    ["音楽", "music"]
+  ],
+  themes: [
+    ["家族", "family"],
+    ["仕事", "work"],
+    ["町", "city"],
+    ["言葉", "language"],
+    ["歴史", "history"],
+    ["計画", "plan"],
+    ["道", "road"],
+    ["約束", "meeting"],
+    ["ニュース", "news"],
+    ["質問", "question"]
+  ],
+  weather: [
+    ["雪", "snow"],
+    ["雨", "rain"],
+    ["風", "wind"],
+    ["太陽", "sun"],
+    ["暖かい夜", "warm evening"],
+    ["静かな朝", "quiet morning"],
+    ["寒い日", "cold day"],
+    ["青空", "clear sky"]
+  ]
+};
+
+function createBeginnerJpStories(count) {
+  return Array.from({ length: count }, (_, index) => {
+    const name = seedAt(jpStorySeedData.names, index);
+    const [placeJp, placeEn] = seedAt(jpStorySeedData.places, index);
+    const [objectJp, objectEn] = seedAt(jpStorySeedData.objects, index + 2);
+    const [themeJp, themeEn] = seedAt(jpStorySeedData.themes, index + 4);
+    return {
+      id: `jp-beginner-page-${index + 1}`,
+      level: "beginner",
+      title: `Japanese Page ${index + 1}: ${name}`,
+      difficulty: "Beginner page",
+      band: 1,
+      sections: [
+        {
+          heading: "Page 1",
+          image: themeImages[themeJp] || "Images/theme_family_1778919168922.png",
+          ru: `朝、${name}は${placeJp}に行きます。そこには${objectJp}と新しい言葉があります。${name}はゆっくりそれを読み、${themeJp}について考えます。良い日になり、日本語がより身近になります。`,
+          en: `In the morning ${name} goes to the ${placeEn}. There is a ${objectEn} and a new word there. ${name} reads slowly and thinks about ${themeEn}. The day is good, and the Japanese language becomes closer.`
+        }
+      ]
+    };
+  });
+}
+
+function createElementaryJpStories(count) {
+  return Array.from({ length: count }, (_, index) => {
+    const name = seedAt(jpStorySeedData.names, index + 1);
+    const friend = seedAt(jpStorySeedData.names, index + 5);
+    const [placeJp, placeEn] = seedAt(jpStorySeedData.places, index + 3);
+    const [objectJp, objectEn] = seedAt(jpStorySeedData.objects, index + 1);
+    const [themeJp, themeEn] = seedAt(jpStorySeedData.themes, index + 6);
+    return {
+      id: `jp-elementary-story-${index + 1}`,
+      level: "elementary",
+      title: `Japanese Story ${index + 1}: ${placeEn}`,
+      difficulty: "Elementary pages",
+      band: 2,
+      sections: [
+        {
+          heading: "Page 1",
+          ru: `授業のあと、${name}は友達に会います。彼らは${placeJp}に行き、${themeJp}について話します。${name}は注意深く聞きます。なぜなら、すべての言葉が大切だからです。`,
+          en: `After the lesson ${name} meets a friend. They go to the ${placeEn} and talk about ${themeEn}. ${name} listens carefully because every word is important.`
+        },
+        {
+          heading: "Page 2",
+          ru: `${friend}は${objectJp}を見せて、質問します。${name}はすぐには答えません。のちに答えが明らかになり、友達は一緒に家に帰ります。`,
+          en: `${friend} shows a ${objectJp} and asks a question. ${name} does not answer immediately. Then the answer becomes clear, and the friends go home together.`
+        }
+      ]
+    };
+  });
+}
+
+function createIntermediateJpStories(count) {
+  return Array.from({ length: count }, (_, index) => {
+    const name = seedAt(jpStorySeedData.names, index + 2);
+    const [placeJp, placeEn] = seedAt(jpStorySeedData.places, index + 4);
+    const [themeJp, themeEn] = seedAt(jpStorySeedData.themes, index + 2);
+    const [weatherJp, weatherEn] = seedAt(jpStorySeedData.weather, index);
+    return {
+      id: `jp-intermediate-chapter-${index + 1}`,
+      level: "intermediate",
+      title: `Japanese Chapter ${index + 1}: ${themeEn}`,
+      difficulty: "Intermediate chapter",
+      band: 3,
+      sections: [
+        {
+          heading: "Chapter 1: The Plan",
+          ru: `${name}はずっと${themeJp}に関する話を理解したいと思っていました。朝、彼はノート、電話、地図を持ちました。それから彼は、より詳しい人に会うことになっていた${placeJp}に行きました。`,
+          en: `${name} had long wanted to understand the story about ${themeEn}. In the morning he took a notebook, a phone, and a map. Then he went to the ${placeEn}, where he was supposed to meet a person who knew more.`
+        },
+        {
+          heading: "Chapter 2: The Conversation",
+          ru: `会話は静かに始まりました。外は${weatherJp}でしたが、中は暖かかったです。${name}は質問し、答えを書き留めました。新しい情報が計画全体を変えるかもしれないからです。`,
+          en: `The conversation began calmly. Outside there was ${weatherEn}, but inside it was warm. ${name} asked questions and wrote down answers because the new information could change the whole plan.`
+        },
+        {
+          heading: "Chapter 3: The Decision",
+          ru: `夕方、${name}は家に帰りました。彼はもう一度メモを読み、本質を理解しました。シンプルな質問が大きな道を切り開くことがあるのだと。今、彼は明日すべきことを知っていました。`,
+          en: `In the evening ${name} returned home. He read his notes again and understood the main thing: sometimes a simple question opens a big road. Now he knew what to do tomorrow.`
+        }
+      ]
+    };
+  });
+}
+
+function createAdvancedJpStories(count) {
+  return Array.from({ length: count }, (_, index) => {
+    const name = seedAt(jpStorySeedData.names, index + 3);
+    const [placeJp, placeEn] = seedAt(jpStorySeedData.places, index + 6);
+    const [themeJp, themeEn] = seedAt(jpStorySeedData.themes, index + 1);
+    const [weatherJp, weatherEn] = seedAt(jpStorySeedData.weather, index + 2);
+    return {
+      id: `jp-advanced-chapters-${index + 1}`,
+      level: "advanced",
+      title: `Japanese Chapters ${index + 1}: ${themeEn}`,
+      difficulty: "Advanced chapters",
+      band: 4,
+      sections: [
+        {
+          heading: "Chapter 1: Arrival",
+          ru: `${name}は夜遅くに${placeJp}に到着しました。街は${weatherJp}で、見慣れた通りが違って見えました。彼は${themeJp}や過去の会話、作用している力について考えていました。`,
+          en: `When ${name} arrived at the ${placeEn} late in the evening. There was ${weatherEn} in the city, and familiar streets seemed different. He thought about ${themeEn}, about the past conversation, and about the factors at play.`
+        },
+        {
+          heading: "Chapter 2: Evidence",
+          ru: `翌日、彼は古いメモを見つけました。言葉は少なかったですが、それぞれの言葉に意味がありました。${name}は物語が終わっていないことを理解しました。それを正しく読める人を待っているのだと。`,
+          en: `The next day he found an old note. There were few words in it, but every word had meaning. ${name} understood that the story had not ended: it was only waiting for a person who could read it correctly.`
+        },
+        {
+          heading: "Chapter 3: Choice",
+          ru: `日中、彼はこの地域を長年知っている女性に会いました。彼女はゆっくり話しましたが、確かな声でした。彼女によると、決断には力ではなく、忍耐と細部への注意が必要でした。`,
+          en: `During the day he met a woman who had known this district for many years. She spoke slowly, but her voice was confident. According to her, the decision required not strength, but patience and attention to detail.`
+        },
+        {
+          heading: "Chapter 4: Return",
+          ru: `${name}が家に帰ったとき、彼はすでに状況を違った風に見ていました。街、人々、文書が一つの大きな絵の一部となりました。今、彼は道を進み、彼自身の物語の新しい章を書くことができました。`,
+          en: `When ${name} returned home, he already saw the situation differently. The city, the people, and the documents had become parts of one big picture. Now he could continue the path and write a new chapter of his own story.`
+        }
+      ]
+    };
+  });
+}
+
+const handcraftedJapaneseStories = [
+  {
+    id: "jp-beginner-1",
+    level: "beginner",
+    title: "Japanese Page 1: 駅",
+    difficulty: "Beginner page",
+    band: 1,
+    sections: [{ heading: "Page 1", ru: "朝、私は駅へ行きます。駅には人が多いです。私は新しい日本語の言葉を読みます。友達はお茶を飲みます。", en: "In the morning, I go to the station. There are many people at the station. I read new Japanese words. My friend drinks tea." }]
+  },
+  {
+    id: "jp-elementary-1",
+    level: "elementary",
+    title: "Japanese Pages 1: 学校",
+    difficulty: "Elementary pages",
+    band: 2,
+    sections: [
+      { heading: "Page 1", ru: "学校で先生はゆっくり話します。学生は本を開きます。今日の言葉は簡単ですが、大切です。", en: "At school, the teacher speaks slowly. The students open their books. Today's words are simple but important." },
+      { heading: "Page 2", ru: "授業のあと、私は友達と町へ行きます。小さい店でお茶を買います。そして日本語で短い会話をします。", en: "After class, I go to town with a friend. We buy tea at a small shop. Then we have a short conversation in Japanese." }
+    ]
+  },
+  {
+    id: "jp-intermediate-1",
+    level: "intermediate",
+    title: "Japanese Chapter 1: 意味",
+    difficulty: "Intermediate chapter",
+    band: 3,
+    sections: [
+      { heading: "Chapter 1", ru: "私は古い本を読みました。知らない言葉が多かったですが、文の中で意味を考えました。", en: "I read an old book. There were many words I did not know, but I thought about their meaning inside the sentence." },
+      { heading: "Chapter 2", ru: "次の日、先生に質問しました。先生は答えをすぐに言わないで、もう一度読むように言いました。", en: "The next day, I asked the teacher a question. The teacher did not give the answer immediately and told me to read once more." }
+    ]
+  },
+  {
+    id: "jp-advanced-1",
+    level: "advanced",
+    title: "Japanese Chapters 1: 町の記憶",
+    difficulty: "Advanced chapters",
+    band: 4,
+    sections: [
+      { heading: "Chapter 1", ru: "静かな町に着いたとき、私はこの場所を前にも見たように感じました。駅の時計、古い店、狭い道のすべてが一つの記憶につながっていました。", en: "When I arrived in the quiet town, I felt as if I had seen this place before. The station clock, old shops, and narrow roads all connected to one memory." },
+      { heading: "Chapter 2", ru: "私は名前のない手紙を読みました。短い文章でしたが、その中には長い時間と多くの人の思いがありました。", en: "I read a letter without a name. It was a short text, but inside it were a long time and the feelings of many people." }
+    ]
+  },
+  {
+    id: "jp-winter-city",
+    level: "advanced",
+    title: "Japanese Chapters 2: 冬の都市",
+    difficulty: "Advanced chapters",
+    band: 4,
+    sections: [
+      {
+        heading: "Chapter 1: 雪",
+        ru: "街に激しい雪が降り始めました。古い家々は静かに佇み、人々は地下鉄や店、家族のもとへと急いでいました。タカシは窓の外を眺め、冬はいつもの世界を変えてしまうと考えていました。音が柔らかくなり、光が近く感じられ、見慣れた道さえ新しく見えました。",
+        en: "Heavy snow began in the city. Old houses stood quietly, and people hurried along the streets toward the metro, stores, and their families. Takashi looked out the window and thought that winter changes the familiar world: sound becomes soft, light seems closer, and even a familiar road looks new."
+      },
+      {
+        heading: "Chapter 2: 地図",
+        ru: "机の上には地域の地図が置かれていました。タカシは広場、駅、図書館、学校の裏の小さな庭に印をつけました。彼は祖母が語っていた家を見つけたいと思っていました。彼女の話では、その家は家族が困難な時期を乗り越え、希望を保ち続けた場所でした。",
+        en: "A map of the district lay on the table. Takashi marked the square, the station, the library, and the small garden behind the school. He wanted to find the house his grandmother had spoken about. In her story, that house was the place where the family survived a difficult time and kept hope."
+      },
+      {
+        heading: "Chapter 3: ドア",
+        ru: "夕方までに雪は静かになりました。タカシは目的の通りに着き、暗いドアの前に立ちました。彼は今そこに誰かが住んでいるかどうかは知りませんでしたが、探求自体がすでに彼を変えたことを理解しました。家族の歴史は単なる昔話ではなく、街の一部、記憶の一部、工程の一部となりました。",
+        en: "By evening the snow had become quieter. Takashi reached the right street and stopped before a dark door. He did not know whether anyone lived there now, but he understood that the search had already changed him. The family history was no longer only a story; it had become part of the city, part of memory, and part of his own path."
+      }
+    ]
+  }
+];
+
+const generatedJpStories = [
+  ...createBeginnerJpStories(70),
+  ...createElementaryJpStories(80),
+  ...createIntermediateJpStories(80),
+  ...createAdvancedJpStories(70)
+];
+
+const japaneseStories = [...handcraftedJapaneseStories, ...generatedJpStories];
+
+// --- NEW LANGUAGES ---
+// Mandarin words (placeholder generated based on user request)
+function buildMandarinWords() {
+  const common = [
+    ["的", "of; possessive", "particle"], ["一", "one", "number"], ["是", "is", "verb"], ["不", "not", "adverb"],
+    ["了", "completed action marker", "particle"], ["在", "at; in", "preposition"], ["人", "person", "noun"], ["有", "have", "verb"],
+    ["我", "I, me", "pronoun"], ["他", "he, him", "pronoun"], ["这", "this", "pronoun"], ["个", "general measure word", "classifier"],
+    ["们", "plural marker for pronouns", "particle"], ["中", "middle", "noun"], ["来", "come", "verb"], ["上", "above, on", "preposition"],
+    ["大", "big", "adjective"], ["为", "for", "preposition"], ["和", "and", "conjunction"], ["国", "country", "noun"]
+  ];
+  return Array.from({ length: 1000 }, (_, index) => {
+    const seed = common[index % common.length];
+    const cycle = Math.floor(index / common.length);
+    return { rank: index + 1, word: cycle ? `${seed[0]}${cycle + 1}` : seed[0], translation: cycle ? `${seed[1]} ${cycle + 1}` : seed[1], partOfSpeech: seed[2] };
+  });
+}
+const mandarinParagraphs = [
+  { title: "Hello", difficulty: "Beginner", band: 1, ru: "你好！我是一个人。", en: "Hello! I am a person." },
+  { title: "Big Country", difficulty: "Beginner", band: 1, ru: "中国是一个大国。", en: "China is a big country." }
+];
+const zhStorySeedData = {
+  "names": [
+    "李明",
+    "王伟",
+    "芳芳",
+    "小华",
+    "秀英",
+    "建国",
+    "强",
+    "丽丽",
+    "平",
+    "静"
+  ],
+  "places": [
+    [
+      "公园",
+      "park"
+    ],
+    [
+      "商店",
+      "store"
+    ],
+    [
+      "学校",
+      "school"
+    ],
+    [
+      "图书馆",
+      "library"
+    ],
+    [
+      "车站",
+      "station"
+    ],
+    [
+      "市场",
+      "market"
+    ],
+    [
+      "博物馆",
+      "museum"
+    ],
+    [
+      "咖啡馆",
+      "cafe"
+    ],
+    [
+      "家",
+      "house"
+    ],
+    [
+      "大学",
+      "university"
+    ]
+  ],
+  "objects": [
+    [
+      "书",
+      "book"
+    ],
+    [
+      "信",
+      "letter"
+    ],
+    [
+      "电话",
+      "phone"
+    ],
+    [
+      "地图",
+      "map"
+    ],
+    [
+      "桌子",
+      "table"
+    ],
+    [
+      "窗户",
+      "window"
+    ],
+    [
+      "茶",
+      "tea"
+    ],
+    [
+      "包",
+      "bag"
+    ],
+    [
+      "电影",
+      "film"
+    ],
+    [
+      "音乐",
+      "music"
+    ]
+  ],
+  "themes": [
+    [
+      "家庭",
+      "family"
+    ],
+    [
+      "工作",
+      "work"
+    ],
+    [
+      "城市",
+      "city"
+    ],
+    [
+      "语言",
+      "language"
+    ],
+    [
+      "历史",
+      "history"
+    ],
+    [
+      "计划",
+      "plan"
+    ],
+    [
+      "路",
+      "road"
+    ],
+    [
+      "会议",
+      "meeting"
+    ],
+    [
+      "新闻",
+      "news"
+    ],
+    [
+      "问题",
+      "question"
+    ]
+  ],
+  "weather": [
+    [
+      "雪",
+      "snow"
+    ],
+    [
+      "雨",
+      "rain"
+    ],
+    [
+      "风",
+      "wind"
+    ],
+    [
+      "太阳",
+      "sun"
+    ],
+    [
+      "温暖的夜晚",
+      "warm evening"
+    ],
+    [
+      "安静的早晨",
+      "quiet morning"
+    ],
+    [
+      "寒冷的一天",
+      "cold day"
+    ],
+    [
+      "晴朗的天空",
+      "clear sky"
+    ]
+  ]
+};
+const ZhStorySeedData = zhStorySeedData; // replaced at the top
+
+function createBeginnerZhStories(count) {
+  return Array.from({ length: count }, (_, index) => {
+    const name = seedAt(zhStorySeedData.names, index);
+    const [placeLang, placeEn] = seedAt(zhStorySeedData.places, index);
+    const [objectLang, objectEn] = seedAt(zhStorySeedData.objects, index + 2);
+    const [themeLang, themeEn] = seedAt(zhStorySeedData.themes, index + 4);
+    return {
+      id: `zh-beginner-page-${index + 1}`,
+      level: "beginner",
+      title: `Zh Page ${index + 1}: ${name}`,
+      difficulty: "Beginner page",
+      band: 1,
+      sections: [
+        {
+          heading: "第1页",
+          ru: `${name}早上去${placeLang}。那里有一个${objectLang}，还有一个新词。${name}慢慢读，然后想到${themeLang}。`,
+          en: `In the morning ${name} goes to the ${placeEn}. There is a ${objectEn} and a new word there. ${name} reads slowly and thinks about ${themeEn}.`
+        }
+      ]
+    };
+  });
+}
+
+function createElementaryZhStories(count) {
+  return Array.from({ length: count }, (_, index) => {
+    const name = seedAt(zhStorySeedData.names, index + 1);
+    const friend = seedAt(zhStorySeedData.names, index + 5);
+    const [placeLang, placeEn] = seedAt(zhStorySeedData.places, index + 3);
+    const [objectLang, objectEn] = seedAt(zhStorySeedData.objects, index + 1);
+    const [themeLang, themeEn] = seedAt(zhStorySeedData.themes, index + 6);
+    return {
+      id: `zh-elementary-story-${index + 1}`,
+      level: "elementary",
+      title: `Zh Story ${index + 1}: ${placeEn}`,
+      difficulty: "Elementary pages",
+      band: 2,
+      sections: [
+        {
+          heading: "第1页",
+          ru: `下课后，${name}遇见一个朋友。他们去${placeLang}，谈论${themeLang}。${name}认真听。`,
+          en: `After the lesson ${name} meets a friend. They go to the ${placeEn} and talk about ${themeEn}. ${name} listens carefully.`
+        },
+        {
+          heading: "第2页",
+          ru: `${friend}拿出一个${objectLang}，问了一个问题。然后他们一起回家。`,
+          en: `${friend} shows a ${objectEn} and asks a question. Then the answer becomes clear, and the friends go home together.`
+        }
+      ]
+    };
+  });
+}
+
+function createIntermediateZhStories(count) {
+  return Array.from({ length: count }, (_, index) => {
+    const name = seedAt(zhStorySeedData.names, index + 2);
+    const [placeLang, placeEn] = seedAt(zhStorySeedData.places, index + 4);
+    const [themeLang, themeEn] = seedAt(zhStorySeedData.themes, index + 2);
+    const [weatherLang, weatherEn] = seedAt(zhStorySeedData.weather, index);
+    return {
+      id: `zh-intermediate-chapter-${index + 1}`,
+      level: "intermediate",
+      title: `Zh Chapter ${index + 1}: ${themeEn}`,
+      difficulty: "Intermediate chapter",
+      band: 3,
+      sections: [
+        {
+          heading: "第1章",
+          ru: `${name}一直想了解${themeLang}的故事。于是他去了${placeLang}。`,
+          en: `${name} had long wanted to understand the story about ${themeEn}. Then he went to the ${placeEn}.`
+        },
+        {
+          heading: "第2章",
+          ru: `外面是${weatherLang}，城市很安静。`,
+          en: `Outside there was ${weatherEn}.`
+        }
+      ]
+    };
+  });
+}
+
+function createAdvancedZhStories(count) {
+  return Array.from({ length: count }, (_, index) => {
+    const name = seedAt(zhStorySeedData.names, index + 3);
+    const [placeLang, placeEn] = seedAt(zhStorySeedData.places, index + 6);
+    const [themeLang, themeEn] = seedAt(zhStorySeedData.themes, index + 1);
+    const [weatherLang, weatherEn] = seedAt(zhStorySeedData.weather, index + 2);
+    return {
+      id: `zh-advanced-chapter-${index + 1}`,
+      level: "advanced",
+      title: `Zh Chapter ${index + 1}: ${themeEn}`,
+      difficulty: "Advanced chapters",
+      band: 4,
+      sections: [
+        {
+          heading: "第1章",
+          ru: `${name}很晚才到${placeLang}。天气是${weatherLang}。他一边走，一边思考${themeLang}。`,
+          en: `When ${name} arrived at the ${placeEn} late in the evening. There was ${weatherEn} in the city. He thought about ${themeEn}.`
+        }
+      ]
+    };
+  });
+}
+
+const generatedZhStories = [
+  ...createBeginnerZhStories(70),
+  ...createElementaryZhStories(80),
+  ...createIntermediateZhStories(80),
+  ...createAdvancedZhStories(75)
+];
+
+const mandarinStories = generatedZhStories;
+
+// Hindi words
+function buildHindiWords() {
+  const common = [
+    ["मैं", "I", "pronoun"], ["आप", "you (formal)", "pronoun"], ["यह", "this", "pronoun"], ["वह", "that", "pronoun"],
+    ["है", "is", "verb"], ["और", "and", "conjunction"], ["क्या", "what", "pronoun"], ["नहीं", "not", "adverb"],
+    ["हाँ", "yes", "particle"], ["करना", "to do", "verb"], ["जाना", "to go", "verb"], ["आना", "to come", "verb"],
+    ["खाना", "to eat", "verb"], ["पानी", "water", "noun"], ["घर", "house", "noun"], ["नाम", "name", "noun"],
+    ["लड़का", "boy", "noun"], ["लड़की", "girl", "noun"], ["अच्छा", "good", "adjective"], ["बड़ा", "big", "adjective"]
+  ];
+  return Array.from({ length: 1000 }, (_, index) => {
+    const seed = common[index % common.length];
+    const cycle = Math.floor(index / common.length);
+    return { rank: index + 1, word: cycle ? `${seed[0]} ${cycle + 1}` : seed[0], translation: cycle ? `${seed[1]} ${cycle + 1}` : seed[1], partOfSpeech: seed[2] };
+  });
+}
+const hindiParagraphs = [
+  { title: "My name", difficulty: "Beginner", band: 1, ru: "मेरा नाम कॉनर है।", en: "My name is Connor." },
+  { title: "Good house", difficulty: "Beginner", band: 1, ru: "यह एक अच्छा घर है।", en: "This is a good house." }
+];
+const hiStorySeedData = {
+  "names": [
+    "आरव",
+    "विहान",
+    "अदिति",
+    "दीया",
+    "कबीर",
+    "रिया",
+    "अर्जुन",
+    "मीरा",
+    "रोहन",
+    "सान्या"
+  ],
+  "places": [
+    [
+      "पार्क",
+      "park"
+    ],
+    [
+      "दुकान",
+      "store"
+    ],
+    [
+      "स्कूल",
+      "school"
+    ],
+    [
+      "पुस्तकालय",
+      "library"
+    ],
+    [
+      "स्टेशन",
+      "station"
+    ],
+    [
+      "बाज़ार",
+      "market"
+    ],
+    [
+      "संग्रहालय",
+      "museum"
+    ],
+    [
+      "कैफे",
+      "cafe"
+    ],
+    [
+      "घर",
+      "house"
+    ],
+    [
+      "विश्वविद्यालय",
+      "university"
+    ]
+  ],
+  "objects": [
+    [
+      "किताब",
+      "book"
+    ],
+    [
+      "पत्र",
+      "letter"
+    ],
+    [
+      "फोन",
+      "phone"
+    ],
+    [
+      "नक्शा",
+      "map"
+    ],
+    [
+      "मेज़",
+      "table"
+    ],
+    [
+      "खिड़की",
+      "window"
+    ],
+    [
+      "चाय",
+      "tea"
+    ],
+    [
+      "बैग",
+      "bag"
+    ],
+    [
+      "फिल्म",
+      "film"
+    ],
+    [
+      "संगीत",
+      "music"
+    ]
+  ],
+  "themes": [
+    [
+      "परिवार",
+      "family"
+    ],
+    [
+      "काम",
+      "work"
+    ],
+    [
+      "शहर",
+      "city"
+    ],
+    [
+      "भाषा",
+      "language"
+    ],
+    [
+      "इतिहास",
+      "history"
+    ],
+    [
+      "योजना",
+      "plan"
+    ],
+    [
+      "सड़क",
+      "road"
+    ],
+    [
+      "बैठक",
+      "meeting"
+    ],
+    [
+      "समाचार",
+      "news"
+    ],
+    [
+      "सवाल",
+      "question"
+    ]
+  ],
+  "weather": [
+    [
+      "बर्फ",
+      "snow"
+    ],
+    [
+      "बारिश",
+      "rain"
+    ],
+    [
+      "हवा",
+      "wind"
+    ],
+    [
+      "सूरज",
+      "sun"
+    ],
+    [
+      "गर्म शाम",
+      "warm evening"
+    ],
+    [
+      "शांत सुबह",
+      "quiet morning"
+    ],
+    [
+      "ठंडा दिन",
+      "cold day"
+    ],
+    [
+      "साफ आसमान",
+      "clear sky"
+    ]
+  ]
+};
+const HiStorySeedData = hiStorySeedData; // replaced at the top
+
+function createBeginnerHiStories(count) {
+  return Array.from({ length: count }, (_, index) => {
+    const name = seedAt(hiStorySeedData.names, index);
+    const [placeLang, placeEn] = seedAt(hiStorySeedData.places, index);
+    const [objectLang, objectEn] = seedAt(hiStorySeedData.objects, index + 2);
+    const [themeLang, themeEn] = seedAt(hiStorySeedData.themes, index + 4);
+    return {
+      id: `hi-beginner-page-${index + 1}`,
+      level: "beginner",
+      title: `Hi Page ${index + 1}: ${name}`,
+      difficulty: "Beginner page",
+      band: 1,
+      sections: [
+        {
+          heading: "पृष्ठ 1",
+          ru: `${name} सुबह ${placeLang} जाता है। वहाँ एक ${objectLang} है और एक नया शब्द है। ${name} उसे पढ़ता है और ${themeLang} के बारे में सोचता है।`,
+          en: `In the morning ${name} goes to the ${placeEn}. There is a ${objectEn} and a new word there. ${name} reads slowly and thinks about ${themeEn}.`
+        }
+      ]
+    };
+  });
+}
+
+function createElementaryHiStories(count) {
+  return Array.from({ length: count }, (_, index) => {
+    const name = seedAt(hiStorySeedData.names, index + 1);
+    const friend = seedAt(hiStorySeedData.names, index + 5);
+    const [placeLang, placeEn] = seedAt(hiStorySeedData.places, index + 3);
+    const [objectLang, objectEn] = seedAt(hiStorySeedData.objects, index + 1);
+    const [themeLang, themeEn] = seedAt(hiStorySeedData.themes, index + 6);
+    return {
+      id: `hi-elementary-story-${index + 1}`,
+      level: "elementary",
+      title: `Hi Story ${index + 1}: ${placeEn}`,
+      difficulty: "Elementary pages",
+      band: 2,
+      sections: [
+        {
+          heading: "पृष्ठ 1",
+          ru: `कक्षा के बाद ${name} एक दोस्त से मिलता है। वे ${placeLang} जाते हैं और ${themeLang} के बारे में बात करते हैं। ${name} ध्यान से सुनता है।`,
+          en: `After the lesson ${name} meets a friend. They go to the ${placeEn} and talk about ${themeEn}. ${name} listens carefully.`
+        },
+        {
+          heading: "पृष्ठ 2",
+          ru: `${friend} एक ${objectLang} दिखाता है और एक सवाल पूछता है। फिर वे घर जाते हैं।`,
+          en: `${friend} shows a ${objectEn} and asks a question. Then the answer becomes clear, and the friends go home together.`
+        }
+      ]
+    };
+  });
+}
+
+function createIntermediateHiStories(count) {
+  return Array.from({ length: count }, (_, index) => {
+    const name = seedAt(hiStorySeedData.names, index + 2);
+    const [placeLang, placeEn] = seedAt(hiStorySeedData.places, index + 4);
+    const [themeLang, themeEn] = seedAt(hiStorySeedData.themes, index + 2);
+    const [weatherLang, weatherEn] = seedAt(hiStorySeedData.weather, index);
+    return {
+      id: `hi-intermediate-chapter-${index + 1}`,
+      level: "intermediate",
+      title: `Hi Chapter ${index + 1}: ${themeEn}`,
+      difficulty: "Intermediate chapter",
+      band: 3,
+      sections: [
+        {
+          heading: "अध्याय 1",
+          ru: `${name} लंबे समय से ${themeLang} की कहानी समझना चाहता था। फिर वह ${placeLang} गया।`,
+          en: `${name} had long wanted to understand the story about ${themeEn}. Then he went to the ${placeEn}.`
+        },
+        {
+          heading: "अध्याय 2",
+          ru: `बाहर ${weatherLang} था।`,
+          en: `Outside there was ${weatherEn}.`
+        }
+      ]
+    };
+  });
+}
+
+function createAdvancedHiStories(count) {
+  return Array.from({ length: count }, (_, index) => {
+    const name = seedAt(hiStorySeedData.names, index + 3);
+    const [placeLang, placeEn] = seedAt(hiStorySeedData.places, index + 6);
+    const [themeLang, themeEn] = seedAt(hiStorySeedData.themes, index + 1);
+    const [weatherLang, weatherEn] = seedAt(hiStorySeedData.weather, index + 2);
+    return {
+      id: `hi-advanced-chapter-${index + 1}`,
+      level: "advanced",
+      title: `Hi Chapter ${index + 1}: ${themeEn}`,
+      difficulty: "Advanced chapters",
+      band: 4,
+      sections: [
+        {
+          heading: "अध्याय 1",
+          ru: `${name} देर से ${placeLang} पहुँचा। मौसम ${weatherLang} था। वह ${themeLang} के बारे में सोच रहा था।`,
+          en: `When ${name} arrived at the ${placeEn} late in the evening. There was ${weatherEn} in the city. He thought about ${themeEn}.`
+        }
+      ]
+    };
+  });
+}
+
+const generatedHiStories = [
+  ...createBeginnerHiStories(70),
+  ...createElementaryHiStories(80),
+  ...createIntermediateHiStories(80),
+  ...createAdvancedHiStories(75)
+];
+
+const hindiStories = generatedHiStories;
+
+// Arabic words
+function buildArabicWords() {
+  const common = [
+    ["في", "in", "preposition"], ["من", "from", "preposition"], ["على", "on", "preposition"], ["أن", "that", "conjunction"],
+    ["إلى", "to", "preposition"], ["لا", "no", "particle"], ["الله", "God", "noun"], ["أو", "or", "conjunction"],
+    ["عن", "about", "preposition"], ["ما", "what", "pronoun"], ["مع", "with", "preposition"], ["كل", "all", "noun"],
+    ["هو", "he", "pronoun"], ["هي", "she", "pronoun"], ["هذا", "this", "pronoun"], ["كان", "was", "verb"],
+    ["قال", "said", "verb"], ["يوم", "day", "noun"], ["أنا", "I", "pronoun"], ["كبير", "big", "adjective"]
+  ];
+  return Array.from({ length: 1000 }, (_, index) => {
+    const seed = common[index % common.length];
+    const cycle = Math.floor(index / common.length);
+    return { rank: index + 1, word: cycle ? `${seed[0]} ${cycle + 1}` : seed[0], translation: cycle ? `${seed[1]} ${cycle + 1}` : seed[1], partOfSpeech: seed[2] };
+  });
+}
+const arabicParagraphs = [
+  { title: "Big day", difficulty: "Beginner", band: 1, ru: "هذا يوم كبير.", en: "This is a big day." },
+  { title: "Where from", difficulty: "Beginner", band: 1, ru: "من أين أنت؟", en: "Where are you from?" }
+];
+const arStorySeedData = {
+  "names": [
+    "محمد",
+    "أحمد",
+    "فاطمة",
+    "عائشة",
+    "علي",
+    "مريم",
+    "عمر",
+    "زينب",
+    "يوسف",
+    "سارة"
+  ],
+  "places": [
+    [
+      "حديقة",
+      "park"
+    ],
+    [
+      "متجر",
+      "store"
+    ],
+    [
+      "مدرسة",
+      "school"
+    ],
+    [
+      "مكتبة",
+      "library"
+    ],
+    [
+      "محطة",
+      "station"
+    ],
+    [
+      "سوق",
+      "market"
+    ],
+    [
+      "متحف",
+      "museum"
+    ],
+    [
+      "مقهى",
+      "cafe"
+    ],
+    [
+      "منزل",
+      "house"
+    ],
+    [
+      "جامعة",
+      "university"
+    ]
+  ],
+  "objects": [
+    [
+      "كتاب",
+      "book"
+    ],
+    [
+      "رسالة",
+      "letter"
+    ],
+    [
+      "هاتف",
+      "phone"
+    ],
+    [
+      "خريطة",
+      "map"
+    ],
+    [
+      "طاولة",
+      "table"
+    ],
+    [
+      "نافذة",
+      "window"
+    ],
+    [
+      "شاي",
+      "tea"
+    ],
+    [
+      "حقيبة",
+      "bag"
+    ],
+    [
+      "فيلم",
+      "film"
+    ],
+    [
+      "موسيقى",
+      "music"
+    ]
+  ],
+  "themes": [
+    [
+      "عائلة",
+      "family"
+    ],
+    [
+      "عمل",
+      "work"
+    ],
+    [
+      "مدينة",
+      "city"
+    ],
+    [
+      "لغة",
+      "language"
+    ],
+    [
+      "تاريخ",
+      "history"
+    ],
+    [
+      "خطة",
+      "plan"
+    ],
+    [
+      "طريق",
+      "road"
+    ],
+    [
+      "اجتماع",
+      "meeting"
+    ],
+    [
+      "أخبار",
+      "news"
+    ],
+    [
+      "سؤال",
+      "question"
+    ]
+  ],
+  "weather": [
+    [
+      "ثلج",
+      "snow"
+    ],
+    [
+      "مطر",
+      "rain"
+    ],
+    [
+      "رياح",
+      "wind"
+    ],
+    [
+      "شمس",
+      "sun"
+    ],
+    [
+      "مساء دافئ",
+      "warm evening"
+    ],
+    [
+      "صباح هادئ",
+      "quiet morning"
+    ],
+    [
+      "يوم بارد",
+      "cold day"
+    ],
+    [
+      "سماء صافية",
+      "clear sky"
+    ]
+  ]
+};
+const ArStorySeedData = arStorySeedData; // replaced at the top
+
+function createBeginnerArStories(count) {
+  return Array.from({ length: count }, (_, index) => {
+    const name = seedAt(arStorySeedData.names, index);
+    const [placeLang, placeEn] = seedAt(arStorySeedData.places, index);
+    const [objectLang, objectEn] = seedAt(arStorySeedData.objects, index + 2);
+    const [themeLang, themeEn] = seedAt(arStorySeedData.themes, index + 4);
+    return {
+      id: `ar-beginner-page-${index + 1}`,
+      level: "beginner",
+      title: `Ar Page ${index + 1}: ${name}`,
+      difficulty: "Beginner page",
+      band: 1,
+      sections: [
+        {
+          heading: "الصفحة 1",
+          ru: `${name} يذهب إلى ${placeLang} في الصباح. هناك ${objectLang} وكلمة جديدة. يقرأ ${name} الكلمة ويفكر في ${themeLang}.`,
+          en: `In the morning ${name} goes to the ${placeEn}. There is a ${objectEn} and a new word there. ${name} reads slowly and thinks about ${themeEn}.`
+        }
+      ]
+    };
+  });
+}
+
+function createElementaryArStories(count) {
+  return Array.from({ length: count }, (_, index) => {
+    const name = seedAt(arStorySeedData.names, index + 1);
+    const friend = seedAt(arStorySeedData.names, index + 5);
+    const [placeLang, placeEn] = seedAt(arStorySeedData.places, index + 3);
+    const [objectLang, objectEn] = seedAt(arStorySeedData.objects, index + 1);
+    const [themeLang, themeEn] = seedAt(arStorySeedData.themes, index + 6);
+    return {
+      id: `ar-elementary-story-${index + 1}`,
+      level: "elementary",
+      title: `Ar Story ${index + 1}: ${placeEn}`,
+      difficulty: "Elementary pages",
+      band: 2,
+      sections: [
+        {
+          heading: "الصفحة 1",
+          ru: `بعد الدرس، يلتقي ${name} بصديق. يذهبان إلى ${placeLang} ويتحدثان عن ${themeLang}. يستمع ${name} بانتباه.`,
+          en: `After the lesson ${name} meets a friend. They go to the ${placeEn} and talk about ${themeEn}. ${name} listens carefully.`
+        },
+        {
+          heading: "الصفحة 2",
+          ru: `يعرض ${friend} ${objectLang} ويسأل سؤالا. ثم يعودان إلى البيت.`,
+          en: `${friend} shows a ${objectEn} and asks a question. Then the answer becomes clear, and the friends go home together.`
+        }
+      ]
+    };
+  });
+}
+
+function createIntermediateArStories(count) {
+  return Array.from({ length: count }, (_, index) => {
+    const name = seedAt(arStorySeedData.names, index + 2);
+    const [placeLang, placeEn] = seedAt(arStorySeedData.places, index + 4);
+    const [themeLang, themeEn] = seedAt(arStorySeedData.themes, index + 2);
+    const [weatherLang, weatherEn] = seedAt(arStorySeedData.weather, index);
+    return {
+      id: `ar-intermediate-chapter-${index + 1}`,
+      level: "intermediate",
+      title: `Ar Chapter ${index + 1}: ${themeEn}`,
+      difficulty: "Intermediate chapter",
+      band: 3,
+      sections: [
+        {
+          heading: "الفصل 1",
+          ru: `كان ${name} يريد أن يفهم قصة عن ${themeLang}. ثم ذهب إلى ${placeLang}.`,
+          en: `${name} had long wanted to understand the story about ${themeEn}. Then he went to the ${placeEn}.`
+        },
+        {
+          heading: "الفصل 2",
+          ru: `كان الطقس ${weatherLang} في الخارج.`,
+          en: `Outside there was ${weatherEn}.`
+        }
+      ]
+    };
+  });
+}
+
+function createAdvancedArStories(count) {
+  return Array.from({ length: count }, (_, index) => {
+    const name = seedAt(arStorySeedData.names, index + 3);
+    const [placeLang, placeEn] = seedAt(arStorySeedData.places, index + 6);
+    const [themeLang, themeEn] = seedAt(arStorySeedData.themes, index + 1);
+    const [weatherLang, weatherEn] = seedAt(arStorySeedData.weather, index + 2);
+    return {
+      id: `ar-advanced-chapter-${index + 1}`,
+      level: "advanced",
+      title: `Ar Chapter ${index + 1}: ${themeEn}`,
+      difficulty: "Advanced chapters",
+      band: 4,
+      sections: [
+        {
+          heading: "الفصل 1",
+          ru: `وصل ${name} إلى ${placeLang} في وقت متأخر. كان الطقس ${weatherLang}. فكر في ${themeLang}.`,
+          en: `When ${name} arrived at the ${placeEn} late in the evening. There was ${weatherEn} in the city. He thought about ${themeEn}.`
+        }
+      ]
+    };
+  });
+}
+
+const generatedArStories = [
+  ...createBeginnerArStories(70),
+  ...createElementaryArStories(80),
+  ...createIntermediateArStories(80),
+  ...createAdvancedArStories(75)
+];
+
+const arabicStories = generatedArStories;
+
+const initialLanguage = localStorage.getItem("nova_target_language") || "russian";
+const languageDatasets = {
+  russian: { label: "Russian", title: "Russian Reading", words: () => parseWords(rawRussianWords), paragraphs, stories: russianStories, speechLang: "ru-RU" },
+  japanese: { label: "Japanese", title: "Japanese Reading", words: buildJapaneseWords, paragraphs: japaneseParagraphs, stories: japaneseStories, speechLang: "ja-JP" },
+  mandarin: { label: "Mandarin", title: "Mandarin Reading", words: buildMandarinWords, paragraphs: mandarinParagraphs, stories: mandarinStories, speechLang: "zh-CN" },
+  hindi: { label: "Hindi", title: "Hindi Reading", words: buildHindiWords, paragraphs: hindiParagraphs, stories: hindiStories, speechLang: "hi-IN" },
+  arabic: { label: "Arabic", title: "Arabic Reading", words: buildArabicWords, paragraphs: arabicParagraphs, stories: arabicStories, speechLang: "ar-SA" }
+};
+let activeParagraphs = languageDatasets[initialLanguage]?.paragraphs || paragraphs;
+let storyLibrary = languageDatasets[initialLanguage]?.stories || russianStories;
+
+const appState = {
+  targetLanguage: languageDatasets[initialLanguage] ? initialLanguage : "russian",
+  words: (languageDatasets[initialLanguage] || languageDatasets.russian).words(),
+  currentParagraph: activeParagraphs[0],
+  currentStory: storyLibrary[0],
+  activeView: "practice",
+  recognition: null,
+  recognizing: false,
+  transcript: "",
+  coins: parseInt(localStorage.getItem('nova_coins') || '100', 10),
+  unlockedThemes: JSON.parse(localStorage.getItem('nova_unlocked_themes') || '[8,9,10]'),
+  unlockedSongs: JSON.parse(localStorage.getItem('nova_unlocked_songs') || '[]'),
+  learnedWords: JSON.parse(localStorage.getItem(`nova_learned_words_${initialLanguage}`) || localStorage.getItem('nova_learned_words') || '[]'),
+  outboundMessages: JSON.parse(localStorage.getItem('nova_outbound_messages') || '{}'),
+  activeTheme: localStorage.getItem('nova_active_theme') || 'Images/theme_family_1778919168922.png',
+  isPlaying: false,
+  currentStorySectionIndex: 0
+};
+let mediaRecorder = null;
+let mediaRecordChunks = [];
+
+const fullRussianWordListUrl = "https://raw.githubusercontent.com/alicewriteswrongs/russian-vocab/master/words.json";
+
+const els = {
+  practiceTab: document.querySelector("#practiceTab"),
+  storiesTab: document.querySelector("#storiesTab"),
+  profileTab: document.querySelector("#profileTab"),
+  editProfileModal: document.querySelector("#editProfileModal"),
+  closeEditProfileBtn: document.querySelector("#closeEditProfileBtn"),
+  cancelEditProfileBtn: document.querySelector("#cancelEditProfileBtn"),
+  avatarEditPencilBtn: document.querySelector("#avatarEditPencilBtn"),
+  colorWheelCanvas: document.querySelector("#colorWheelCanvas"),
+  colorWheelSwatch: document.querySelector("#colorWheelSwatch"),
+  colorWheelHex: document.querySelector("#colorWheelHex"),
+  achievementsList: document.querySelector("#achievementsList"),
+  appTitle: document.querySelector("#appTitle"),
+  targetLanguageSelect: document.querySelector("#targetLanguageSelect"),
+  practiceView: document.querySelector("#practiceView"),
+  storiesView: document.querySelector("#storiesView"),
+  profileView: document.querySelector("#profileView"),
+  bandSelect: document.querySelector("#bandSelect"),
+  newParagraphBtn: document.querySelector("#newParagraphBtn"),
+  wordCount: document.querySelector("#wordCount"),
+  activeBand: document.querySelector("#activeBand"),
+  coverage: document.querySelector("#coverage"),
+  storyCount: document.querySelector("#storyCount"),
+  paragraphTitle: document.querySelector("#paragraphTitle"),
+  difficultyLabel: document.querySelector("#difficultyLabel"),
+  russianParagraph: document.querySelector("#russianParagraph"),
+  englishParagraph: document.querySelector("#englishParagraph"),
+  toggleTranslationBtn: document.querySelector("#toggleTranslationBtn"),
+  slowAudioBtn: document.querySelector("#slowAudioBtn"),
+  storyLevelSelect: document.querySelector("#storyLevelSelect"),
+  storySelect: document.querySelector("#storySelect"),
+  storyLibraryCount: document.querySelector("#storyLibraryCount"),
+  storyTitle: document.querySelector("#storyTitle"),
+  storyDifficulty: document.querySelector("#storyDifficulty"),
+  storySectionHeading: document.querySelector("#storySectionHeading"),
+  storyContent: document.querySelector("#storyContent"),
+  storyEnglish: document.querySelector("#storyEnglish"),
+  storyImage: document.querySelector("#storyImage"),
+  storyImageCaption: document.querySelector("#storyImageCaption"),
+  generateStoryImageBtn: document.querySelector("#generateStoryImageBtn"),
+  importStoryImageBtn: document.querySelector("#importStoryImageBtn"),
+  storyImageFileInput: document.querySelector("#storyImageFileInput"),
+  storyImageStatus: document.querySelector("#storyImageStatus"),
+  toggleStoryTranslationBtn: document.querySelector("#toggleStoryTranslationBtn"),
+  storyPrevPageBtn: document.querySelector("#storyPrevPageBtn"),
+  storyNextPageBtn: document.querySelector("#storyNextPageBtn"),
+  bookPageIndicator: document.querySelector("#bookPageIndicator"),
+  storyAudioBtn: document.querySelector("#storyAudioBtn"),
+  recordBtn: document.querySelector("#recordBtn"),
+  accuracyScore: document.querySelector("#accuracyScore"),
+  matchedWords: document.querySelector("#matchedWords"),
+  missedWords: document.querySelector("#missedWords"),
+  spokenResult: document.querySelector("#spokenResult"),
+  searchInput: document.querySelector("#searchInput"),
+  wordList: document.querySelector("#wordList"),
+  visibleWordCount: document.querySelector("#visibleWordCount"),
+  tooltip: document.querySelector("#tooltip"),
+  coinCount: document.querySelector("#coinCount"),
+  hamburgerBtn: document.querySelector("#hamburgerBtn"),
+  hamburgerMenu: document.querySelector("#hamburgerMenu"),
+  closeHamburgerBtn: document.querySelector("#closeHamburgerBtn"),
+  openStoreBtn: document.querySelector("#openStoreBtn"),
+  openMusicBtn: document.querySelector("#openMusicBtn"),
+  openAchievementsBtn: document.querySelector("#openAchievementsBtn"),
+  themeSelect: document.querySelector("#themeSelect"),
+  
+  storeModal: document.querySelector("#storeModal"),
+  closeStoreBtn: document.querySelector("#closeStoreBtn"),
+  storeGrid: document.querySelector("#storeGrid"),
+  watchAdBtn: document.querySelector("#watchAdBtn"),
+  
+  musicDock: document.querySelector("#musicDock"),
+  closeMusicBtn: document.querySelector("#closeMusicBtn"),
+  musicDockCloseBtn: document.querySelector("#musicDockCloseBtn"),
+  expandMusicBtn: document.querySelector("#expandMusicBtn"),
+  musicPlaylistPanel: document.querySelector("#musicPlaylistPanel"),
+  spotifyPlaylist: document.querySelector("#spotifyPlaylist"),
+  
+  // Profile elements moved up to main views
+
+  
+  profileAvatar: document.querySelector("#profileAvatar"),
+  profilePageAvatar: document.querySelector("#profilePageAvatar"),
+  profileDisplayName: document.querySelector("#profileDisplayName"),
+  profileDisplayNameSummary: document.querySelector("#profileDisplayNameSummary"),
+  profileUsername: document.querySelector("#profileUsername"),
+  profileUsernameSummary: document.querySelector("#profileUsernameSummary"),
+  profileBioText: document.querySelector("#profileBioText"),
+  followersCount: document.querySelector("#followersCount"),
+  followingCount: document.querySelector("#followingCount"),
+  friendsCount: document.querySelector("#friendsCount"),
+  friendsList: document.querySelector("#friendsList"),
+  followersList: document.querySelector("#followersList"),
+  followingList: document.querySelector("#followingList"),
+  friendsSearch: document.querySelector("#friendsSearch"),
+  followersSearch: document.querySelector("#followersSearch"),
+  followingSearch: document.querySelector("#followingSearch"),
+  socialContextMenu: document.querySelector("#socialContextMenu"),
+  publicProfileModal: document.querySelector("#publicProfileModal"),
+  publicProfileName: document.querySelector("#publicProfileName"),
+  publicProfileAvatar: document.querySelector("#publicProfileAvatar"),
+  publicProfileHandle: document.querySelector("#publicProfileHandle"),
+  publicProfileBio: document.querySelector("#publicProfileBio"),
+  publicProfileStatus: document.querySelector("#publicProfileStatus"),
+  publicFollowersCount: document.querySelector("#publicFollowersCount"),
+  publicFollowingCount: document.querySelector("#publicFollowingCount"),
+  publicFriendsCount: document.querySelector("#publicFriendsCount"),
+  publicAchievementsList: document.querySelector("#publicAchievementsList"),
+  publicCollectionGrid: document.querySelector("#publicCollectionGrid"),
+  publicLevelLabel: document.querySelector("#publicLevelLabel"),
+  publicLevelProgressFill: document.querySelector("#publicLevelProgressFill"),
+  publicLevelProgressText: document.querySelector("#publicLevelProgressText"),
+  closePublicProfileBtn: document.querySelector("#closePublicProfileBtn"),
+  editProfileBtn: document.querySelector("#editProfileBtn"),
+  profileEditPanel: document.querySelector("#profileEditPanel"),
+  mascotGrid: document.querySelector("#mascotGrid"),
+  levelLabel: document.querySelector("#levelLabel"),
+  levelProgressFill: document.querySelector("#levelProgressFill"),
+  levelProgressText: document.querySelector("#levelProgressText"),
+  editAvatarBtn: document.querySelector("#editAvatarBtn"),
+  editDisplayName: document.querySelector("#editDisplayName"),
+  editUsername: document.querySelector("#editUsername"),
+  editBio: document.querySelector("#editBio"),
+  bioCount: document.querySelector("#bioCount"),
+  usernameRuleText: document.querySelector("#usernameRuleText"),
+  profileSaveStatus: document.querySelector("#profileSaveStatus"),
+  saveProfileBtn: document.querySelector("#saveProfileBtn"),
+  hairSelect: document.querySelector("#hairSelect"),
+  eyeShapeSelect: document.querySelector("#eyeShapeSelect"),
+  noseSelect: document.querySelector("#noseSelect"),
+  mouthSelect: document.querySelector("#mouthSelect"),
+  armSelect: document.querySelector("#armSelect"),
+  legSelect: document.querySelector("#legSelect"),
+  shirtSelect: document.querySelector("#shirtSelect"),
+  pantsSelect: document.querySelector("#pantsSelect"),
+  shoesSelect: document.querySelector("#shoesSelect"),
+  hairColor: document.querySelector("#hairColor"),
+  eyeColor: document.querySelector("#eyeColor"),
+  faceColor: document.querySelector("#faceColor"),
+  shirtColor: document.querySelector("#shirtColor"),
+  pantsColor: document.querySelector("#pantsColor"),
+  shoesColor: document.querySelector("#shoesColor"),
+  characterCanvas: document.querySelector("#characterCanvas"),
+  characterFallback: document.querySelector("#characterFallback"),
+  collectionGrid: document.querySelector("#collectionGrid"),
+  collectItemBtn: document.querySelector("#collectItemBtn"),
+  clearCollectionBtn: document.querySelector("#clearCollectionBtn"),
+  collectionStatus: document.querySelector("#collectionStatus"),
+  
+  twitchChat: document.querySelector("#twitchChat"),
+  twitchMessages: document.querySelector("#twitchMessages"),
+  closeTwitchBtn: document.querySelector("#closeTwitchBtn"),
+  toggleTwitchBtn: document.querySelector("#toggleTwitchBtn"),
+  
+  dmWidget: document.querySelector("#dmWidget"),
+  dmList: document.querySelector("#dmList"),
+  closeDMBtn: document.querySelector("#closeDMBtn"),
+  toggleDMBtn: document.querySelector("#toggleDMBtn"),
+  
+  toggleSlotsBtn: document.querySelector("#toggleSlotsBtn"),
+  openSlotsBtn: document.querySelector("#openSlotsBtn"),
+  
+  chatbotWidget: document.querySelector("#chatbotWidget"),
+  chatToggleBtn: document.querySelector("#chatToggleBtn"),
+  chatWindow: document.querySelector("#chatWindow"),
+  closeChatBtn: document.querySelector("#closeChatBtn"),
+  chatMessages: document.querySelector("#chatMessages"),
+  chatInput: document.querySelector("#chatInput"),
+  chatSendBtn: document.querySelector("#chatSendBtn"),
+  chatLanguageSelect: document.querySelector("#chatLanguageSelect"),
+  chatWelcomeMsg: document.querySelector("#chatWelcomeMsg"),
+  uploadScreenshotBtn: document.querySelector("#uploadScreenshotBtn"),
+  uploadVideoBtn: document.querySelector("#uploadVideoBtn"),
+  uploadVoiceBtn: document.querySelector("#uploadVoiceBtn"),
+  uploadTranscribeBtn: document.querySelector("#uploadTranscribeBtn"),
+  chatImageInput: document.querySelector("#chatImageInput"),
+  chatVideoInput: document.querySelector("#chatVideoInput"),
+  chatAudioInput: document.querySelector("#chatAudioInput"),
+  
+  slotsWidget: document.querySelector("#slotsWidget"),
+  slotsCloseBtn: document.querySelector("#slotsCloseBtn"),
+  spinBtn: document.querySelector("#spinBtn"),
+  slotsDisplay: document.querySelector("#slotsDisplay"),
+  slotLever: document.querySelector("#slotLever"),
+  autoSpinCheck: document.querySelector("#autoSpinCheck"),
+  slotBetSelect: document.querySelector("#slotBetSelect"),
+  slotReelSelect: document.querySelector("#slotReelSelect"),
+  playbackSpeed: document.querySelector("#playbackSpeed"),
+  speedLabel: document.querySelector("#speedLabel"),
+  playbackSpeedStories: document.querySelector("#playbackSpeedStories"),
+  speedLabelStories: document.querySelector("#speedLabelStories"),
+  slotResultOverlay: document.querySelector("#slotResultOverlay"),
+  
+  currentSongTitle: document.querySelector("#currentSongTitle"),
+  songStatus: document.querySelector("#songStatus"),
+  playSongBtn: document.querySelector("#playSongBtn"),
+  prevSongBtn: document.querySelector("#prevSongBtn"),
+  nextSongBtn: document.querySelector("#nextSongBtn"),
+  profileBtn: document.querySelector("#profileBtn"),
+  profileBackBtn: document.querySelector("#profileBackBtn"),
+  editAvatarBtn: document.querySelector("#editAvatarBtn"),
+  userName: document.querySelector("#userName")
+};
+
+function parseWords(raw) {
+  const seen = new Set();
+  return raw.trim().split("\n").map((line) => {
+    const [rank, word, translation, partOfSpeech = ""] = line.split("\t");
+    return { rank: Number(rank), word, translation, partOfSpeech };
+  }).filter((item) => {
+    const key = normalizeWord(item.word);
+    if (!item.word || seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+}
+
+function parseImportedRows(rows) {
+  return rows.map((row, index) => {
+    if (Array.isArray(row)) {
+      return {
+        rank: index + 1,
+        word: String(row[0] || "").replace(/\s*\(see #[^)]+\)/gi, "").trim(),
+        translation: cleanTranslation(row[1]),
+        partOfSpeech: String(row[2] || "")
+      };
+    }
+    return {
+      rank: Number(row.rank || index + 1),
+      word: String(row.word || "").replace(/\s*\(see #[^)]+\)/gi, "").trim(),
+      translation: cleanTranslation(row.translation || row.english),
+      partOfSpeech: String(row.partOfSpeech || row.part_of_speech || "")
+    };
+  }).filter((item) => item.word && item.translation);
+}
+
+function cleanTranslation(value) {
+  return String(value || "")
+    .replace(/;?\s*masterrussian,?\s*dot\s*com/gi, "")
+    .replace(/\s*\(see #[^)]+\)/gi, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+async function loadFullRussianWords() {
+  if (appState.targetLanguage !== "russian") return;
+  try {
+    const response = await fetch(fullRussianWordListUrl, { cache: "force-cache" });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const rows = await response.json();
+    const words = parseImportedRows(rows).slice(0, 1000);
+    if (words.length < 900) throw new Error("Dataset was smaller than expected.");
+    appState.words = words;
+    renderStats();
+    renderParagraph();
+    renderStory();
+    renderWordList();
+  } catch (error) {
+    if (els.importStatus) els.importStatus.textContent = "Using bundled offline starter list. Full 1000-word list loads when the browser can reach GitHub.";
+  }
+}
+
+function switchTargetLanguage(language) {
+  const dataset = languageDatasets[language] || languageDatasets.russian;
+  appState.targetLanguage = languageDatasets[language] ? language : "russian";
+  localStorage.setItem("nova_target_language", appState.targetLanguage);
+  appState.words = dataset.words();
+  activeParagraphs = dataset.paragraphs;
+  storyLibrary = dataset.stories;
+  appState.currentParagraph = activeParagraphs[0];
+  appState.currentStory = storyLibrary[0];
+  appState.currentStorySectionIndex = 0;
+  appState.learnedWords = JSON.parse(localStorage.getItem(`nova_learned_words_${appState.targetLanguage}`) || "[]");
+  if (els.targetLanguageSelect) els.targetLanguageSelect.value = appState.targetLanguage;
+  if (els.chatLanguageSelect && chatLanguages?.[appState.targetLanguage]) {
+    els.chatLanguageSelect.value = appState.targetLanguage;
+    updateChatIntro();
+  }
+  if (els.appTitle) els.appTitle.textContent = dataset.title;
+  const writing = getLanguageWritingMeta();
+  els.russianParagraph?.setAttribute("lang", writing.lang);
+  els.storyContent?.setAttribute("lang", writing.lang);
+  els.storyContent?.setAttribute("dir", writing.dir);
+  setupSpeechRecognition();
+  renderStoryOptions();
+  renderStats();
+  renderParagraph();
+  renderStory();
+  renderWordList();
+  renderThemes();
+  renderAchievements();
+}
+
+function normalizeWord(word) {
+  return word.toLocaleLowerCase("ru-RU").replace(/ё/g, "е").replace(/[^\p{Letter}-]/gu, "");
+}
+
+function getWordMap() {
+  const map = new Map();
+  appState.words.forEach((item) => map.set(normalizeWord(item.word), item));
+  Object.entries(fallbackTranslations).forEach(([word, translation]) => {
+    const key = normalizeWord(word);
+    if (!map.has(key)) map.set(key, { rank: "form", word, translation, partOfSpeech: "form" });
+  });
+  return map;
+}
+
+function markTextAsLearned(text) {
+  const wordMap = getWordMap();
+  const existing = new Set(appState.learnedWords.map((item) => normalizeWord(item.word)));
+  const learned = [...appState.learnedWords];
+  (text.match(/[\p{Letter}-]+/gu) || []).forEach((word) => {
+    const key = normalizeWord(word);
+    if (!key || existing.has(key)) return;
+    const item = wordMap.get(key) || { rank: "new", word, translation: fallbackTranslations[key] || "[Translation unavailable]" };
+    learned.push({ rank: item.rank, word: item.word, translation: item.translation });
+    existing.add(key);
+  });
+  appState.learnedWords = learned.slice(-500);
+  localStorage.setItem(`nova_learned_words_${appState.targetLanguage}`, JSON.stringify(appState.learnedWords));
+}
+
+function renderTokenizedText(container, text, startIndex = 0) {
+  const wordMap = getWordMap();
+  const tokens = text.match(/[\p{Letter}-]+|[^\p{Letter}-]+/gu) || [];
+  let currentPos = startIndex;
+  
+  container.replaceChildren(...tokens.map((token) => {
+    const isWord = /[\p{Letter}-]+/u.test(token);
+    const start = currentPos;
+    currentPos += token.length;
+    
+    if (!isWord) return document.createTextNode(token);
+    
+    const key = normalizeWord(token);
+    const span = document.createElement("span");
+    span.className = "word-token";
+    span.tabIndex = 0;
+    span.textContent = token;
+    span.dataset.charIndex = start;
+    
+    if (key && wordMap.has(key)) {
+      span.dataset.word = wordMap.get(key).word;
+      span.dataset.translation = wordMap.get(key).translation;
+      span.dataset.rank = wordMap.get(key).rank;
+    } else if (key && fallbackTranslations[key]) {
+      span.dataset.word = token;
+      span.dataset.translation = fallbackTranslations[key];
+      span.dataset.rank = "fallback";
+    } else {
+      span.dataset.word = token;
+      span.dataset.translation = "[Translation unavailable]";
+      span.dataset.rank = "unknown";
+    }
+    return span;
+  }));
+}
+
+function updateCoverage(text) {
+  const wordMap = getWordMap();
+  const wordTokens = text.match(/[\p{Letter}-]+/gu) || [];
+  const covered = wordTokens.filter((word) => wordMap.has(normalizeWord(word))).length;
+  els.coverage.textContent = `${Math.round((covered / Math.max(wordTokens.length, 1)) * 100)}%`;
+}
+
+function getLanguageWritingMeta(language = appState.targetLanguage) {
+  return {
+    russian: { lang: "ru", dir: "ltr" },
+    japanese: { lang: "ja", dir: "ltr" },
+    mandarin: { lang: "zh", dir: "ltr" },
+    hindi: { lang: "hi", dir: "ltr" },
+    arabic: { lang: "ar", dir: "rtl" }
+  }[language] || { lang: "ru", dir: "ltr" };
+}
+
+function renderParagraph() {
+  const paragraph = appState.currentParagraph;
+  const writing = getLanguageWritingMeta();
+  els.paragraphTitle.textContent = paragraph.title;
+  els.difficultyLabel.textContent = paragraph.difficulty;
+  els.englishParagraph.textContent = paragraph.en;
+  els.englishParagraph.hidden = true;
+  els.toggleTranslationBtn.textContent = "Translate paragraph";
+  els.russianParagraph.lang = writing.lang;
+  els.russianParagraph.dir = writing.dir;
+  renderTokenizedText(els.russianParagraph, paragraph.ru);
+  markTextAsLearned(paragraph.ru);
+  if (appState.activeView === "practice") updateCoverage(paragraph.ru);
+}
+
+function getStoryText(story) {
+  return story.sections.map((section) => section.ru).join("\n\n");
+}
+
+function getStoryEnglish(story) {
+  return story.sections.map((section) => section.en).join("\n\n");
+}
+
+function storyImagePrompt(story) {
+  const section = story.sections[appState.currentStorySectionIndex || 0];
+  const pageText = section?.en || "";
+  const language = languageDatasets[appState.targetLanguage]?.label || "language";
+  return [
+    `Create a polished editorial storybook illustration for a ${language} language learning story page.`,
+    `Story title: ${story.title}.`,
+    `Page/Chapter: ${section?.heading || ""}.`,
+    `Scene description: ${pageText}`,
+    "Composition: one clear narrative scene, no text, no letters, no captions, no watermark.",
+    "Style: Vibrant cartoon style, high-quality digital 2D animation aesthetic, soft cel-shading, bold colors, friendly and expressive characters, inviting learning-app tone."
+  ].join(" ");
+}
+
+function storyHash(input) {
+  let hash = 0;
+  for (let i = 0; i < input.length; i += 1) {
+    hash = (hash * 31 + input.charCodeAt(i)) >>> 0;
+  }
+  return hash;
+}
+
+function fallbackStoryImage(story) {
+  const visualThemes = {
+    russian: { palette: ["#0f766e", "#fef3c7", "#f97316", "#134e4a"], motif: '<rect x="305" y="612" width="290" height="235" rx="18" fill="#fff7ed" opacity="0.96"/><path d="M450 530 C515 530 570 585 570 650 L330 650 C330 585 385 530 450 530 Z" fill="#f97316"/>' },
+    japanese: { palette: ["#be123c", "#fff1f2", "#fb7185", "#7f1d1d"], motif: '<path d="M260 612 h380 v40 h-380z" fill="#7f1d1d"/><path d="M310 652 h42 v210 h-42zM548 652 h42 v210 h-42z" fill="#991b1b"/><path d="M352 725 h196 v32 h-196z" fill="#fecdd3"/>' },
+    mandarin: { palette: ["#b91c1c", "#fef3c7", "#f59e0b", "#7f1d1d"], motif: '<path d="M270 650 Q450 530 630 650 Z" fill="#f59e0b"/><rect x="315" y="650" width="270" height="170" rx="14" fill="#fee2e2"/><path d="M330 700 h240" stroke="#b91c1c" stroke-width="18"/>' },
+    arabic: { palette: ["#0f766e", "#ecfdf5", "#d97706", "#064e3b"], motif: '<path d="M300 820 V650 Q450 500 600 650 V820 Z" fill="#fef3c7"/><path d="M372 820 V710 Q450 635 528 710 V820 Z" fill="#0f766e" opacity="0.86"/>' },
+    hindi: { palette: ["#c2410c", "#fff7ed", "#16a34a", "#7c2d12"], motif: '<rect x="300" y="690" width="300" height="142" rx="12" fill="#ffedd5"/><path d="M330 690 Q450 540 570 690 Z" fill="#fb923c"/><circle cx="450" cy="618" r="38" fill="#16a34a"/>' }
+  };
+  const theme = visualThemes[appState.targetLanguage] || visualThemes.russian;
+  const palettes = [
+    theme.palette,
+    ["#2563eb", "#dbeafe", "#7c3aed", "#1e3a8a"],
+    ["#166534", "#dcfce7", "#0ea5e9", "#14532d"],
+    ["#4338ca", "#ede9fe", "#14b8a6", "#312e81"]
+  ];
+  const palette = palettes[storyHash(story.id) % palettes.length];
+  const motif = theme.motif;
+  const svg = `
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img">
+      <defs>
+        <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="${palette[1]}"/>
+          <stop offset="1" stop-color="#ffffff"/>
+        </linearGradient>
+        <linearGradient id="scene" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0" stop-color="${palette[0]}"/>
+          <stop offset="1" stop-color="${palette[3]}"/>
+        </linearGradient>
+      </defs>
+      <rect width="900" height="1125" fill="url(#bg)"/>
+      <circle cx="720" cy="180" r="94" fill="${palette[2]}" opacity="0.88"/>
+      <path d="M0 790 C180 670 310 745 470 650 C650 545 760 590 900 500 L900 1125 L0 1125 Z" fill="url(#scene)"/>
+      <path d="M122 680 L222 515 L322 680 Z" fill="#ffffff" opacity="0.88"/>
+      <path d="M545 682 L662 486 L780 682 Z" fill="#ffffff" opacity="0.78"/>
+      ${motif}
+      <circle cx="360" cy="705" r="24" fill="#ffffff" opacity="0.82"/>
+      <circle cx="540" cy="705" r="24" fill="#ffffff" opacity="0.82"/>
+      <circle cx="450" cy="468" r="62" fill="#fde68a"/>
+      <path d="M250 915 C360 870 515 870 650 920" fill="none" stroke="#ffffff" stroke-width="24" stroke-linecap="round" opacity="0.72"/>
+    </svg>
+  `;
+  return `data:image/svg+xml;charset=UTF-8,${encodeURIComponent(svg)}`;
+}
+
+function renderStoryVisual(story) {
+  const section = story.sections[appState.currentStorySectionIndex || 0];
+  const sectionImage = section?.image;
+  const explicitImage = sectionImage || story.image || story.sections.find((sec) => sec.image)?.image;
+  const storedImage = localStorage.getItem(`story-image:${story.id}_${appState.currentStorySectionIndex || 0}`) || localStorage.getItem(`story-image:${story.id}`);
+  els.storyImage.src = storedImage || explicitImage || fallbackStoryImage(story);
+  els.storyImage.alt = `Illustration for ${story.title} - ${section?.heading || ""}`;
+  els.storyImageCaption.textContent = `${story.title} - ${section?.heading || ""}`;
+  if (storedImage) {
+    els.storyImageStatus.textContent = "Imported image saved in this browser.";
+  } else if (explicitImage) {
+    els.storyImageStatus.textContent = "Image ready.";
+  } else if (location.protocol === "file:") {
+    els.storyImageStatus.textContent = "File mode: use Import local image, or run the local server for ChatGPT generation.";
+  } else {
+    els.storyImageStatus.textContent = "Generated preview. Use ChatGPT to create a cached image.";
+  }
+}
+
+async function generateStoryImage() {
+  const story = appState.currentStory;
+  const sectionIndex = appState.currentStorySectionIndex || 0;
+  if (location.protocol === "file:") {
+    els.storyImageStatus.textContent = "ChatGPT generation needs the local server. Open http://127.0.0.1:9876, or import an image here.";
+    return;
+  }
+  els.generateStoryImageBtn.disabled = true;
+  els.storyImageStatus.textContent = "Generating image with ChatGPT...";
+  try {
+    const response = await fetch("/api/story-image", {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({
+        id: `${story.id}-${sectionIndex}`,
+        title: story.title,
+        difficulty: story.difficulty,
+        prompt: storyImagePrompt(story)
+      })
+    });
+    const result = await response.json();
+    if (!response.ok) throw new Error(result.error || "Image generation failed.");
+    story.sections[sectionIndex].image = `${result.url}?v=${Date.now()}`;
+    renderStoryVisual(story);
+    els.storyImageStatus.textContent = "ChatGPT image saved for this page.";
+  } catch (error) {
+    els.storyImageStatus.textContent = error.message;
+  } finally {
+    els.generateStoryImageBtn.disabled = false;
+  }
+}
+
+function importStoryImage() {
+  els.storyImageFileInput.click();
+}
+
+function saveImportedStoryImage() {
+  const file = els.storyImageFileInput.files?.[0];
+  if (!file) return;
+  if (!file.type.startsWith("image/")) {
+    els.storyImageStatus.textContent = "Choose an image file.";
+    return;
+  }
+  const reader = new FileReader();
+  reader.onload = () => {
+    try {
+      localStorage.setItem(`story-image:${appState.currentStory.id}_${appState.currentStorySectionIndex || 0}`, String(reader.result));
+      renderStoryVisual(appState.currentStory);
+    } catch {
+      els.storyImageStatus.textContent = "The image is too large to save in this browser. Try a smaller WebP or JPEG.";
+    }
+  };
+  reader.onerror = () => {
+    els.storyImageStatus.textContent = "Could not import that image.";
+  };
+  reader.readAsDataURL(file);
+}
+
+function renderStoryOptions() {
+  const level = els.storyLevelSelect.value;
+  const stories = storyLibrary.filter((story) => story.level === level);
+  els.storyLibraryCount.textContent = `${stories.length} in level`;
+  els.storySelect.replaceChildren(...stories.map((story) => {
+    const option = document.createElement("option");
+    option.value = story.id;
+    option.textContent = story.title;
+    return option;
+  }));
+
+  if (!stories.some((story) => story.id === appState.currentStory.id)) {
+    appState.currentStory = stories[0] || storyLibrary[0];
+  }
+  els.storySelect.value = appState.currentStory.id;
+}
+
+function renderStory() {
+  const story = appState.currentStory;
+  if (!story) return;
+
+  // Enforce valid section index
+  if (appState.currentStorySectionIndex === undefined || appState.currentStorySectionIndex === null || appState.currentStorySectionIndex >= story.sections.length) {
+    appState.currentStorySectionIndex = 0;
+  }
+
+  const section = story.sections[appState.currentStorySectionIndex];
+  const writing = getLanguageWritingMeta();
+
+  els.storyTitle.textContent = story.title;
+  els.storyDifficulty.textContent = story.difficulty;
+
+  if (els.storySectionHeading) {
+    els.storySectionHeading.textContent = section.heading || `Page ${appState.currentStorySectionIndex + 1}`;
+  }
+
+  // Render Russian text on the current page
+  els.storyContent.replaceChildren();
+  els.storyContent.lang = writing.lang;
+  els.storyContent.dir = writing.dir;
+  const paragraph = document.createElement("p");
+  paragraph.lang = writing.lang;
+  paragraph.dir = writing.dir;
+  renderTokenizedText(paragraph, section.ru, 0); // Tokenizer starts at 0 for this page
+  els.storyContent.append(paragraph);
+
+  // Render English text on the current page
+  els.storyEnglish.replaceChildren();
+  els.storyEnglish.hidden = true;
+  els.toggleStoryTranslationBtn.textContent = "Translate story";
+
+  const englishParagraph = document.createElement("p");
+  englishParagraph.textContent = section.en;
+  els.storyEnglish.append(englishParagraph);
+
+  // Update Book Image
+  renderStoryVisual(story);
+
+  // Page Indicator
+  if (els.bookPageIndicator) {
+    els.bookPageIndicator.textContent = `Page ${appState.currentStorySectionIndex + 1} of ${story.sections.length}`;
+  }
+
+  // Enable/disable page turning buttons
+  if (els.storyPrevPageBtn) {
+    els.storyPrevPageBtn.disabled = appState.currentStorySectionIndex === 0;
+  }
+  if (els.storyNextPageBtn) {
+    els.storyNextPageBtn.disabled = appState.currentStorySectionIndex === story.sections.length - 1;
+  }
+
+  if (appState.activeView === "stories") {
+    markTextAsLearned(section.ru);
+    updateCoverage(section.ru);
+  }
+}
+
+function selectStoryLevel() {
+  appState.currentStorySectionIndex = 0;
+  renderStoryOptions();
+  renderStory();
+  resetSpeech();
+  renderStats();
+  renderWordList();
+}
+
+function selectStory() {
+  const selected = storyLibrary.find((story) => story.id === els.storySelect.value);
+  if (selected) appState.currentStory = selected;
+  appState.currentStorySectionIndex = 0;
+  renderStory();
+  renderStats();
+  renderWordList();
+  resetSpeech();
+}
+
+function switchView(view) {
+  appState.activeView = view;
+  const isStories = view === "stories";
+  const isProfile = view === "profile";
+  
+  if (els.practiceView) els.practiceView.hidden = isStories || isProfile;
+  if (els.storiesView) els.storiesView.hidden = view !== "stories";
+  if (els.profileView) els.profileView.hidden = view !== "profile";
+  
+  if (els.practiceTab) els.practiceTab.classList.toggle("is-active", view === "practice");
+  if (els.storiesTab) els.storiesTab.classList.toggle("is-active", view === "stories");
+  if (els.profileTab) els.profileTab.classList.toggle("is-active", view === "profile");
+  
+  document.body.classList.toggle("stories-mode", isStories);
+  document.body.classList.toggle("profile-mode", isProfile);
+  
+  if (view === "profile") renderProfile();
+  if (view === "stories") {
+    const currentSection = appState.currentStory?.sections?.[appState.currentStorySectionIndex || 0];
+    if (currentSection) markTextAsLearned(currentSection.ru);
+  }
+  if (els.bandSelect) els.bandSelect.closest(".select-wrap").hidden = isStories || isProfile;
+  if (els.newParagraphBtn) els.newParagraphBtn.hidden = isStories || isProfile;
+  if (!isProfile) {
+    const text = isStories 
+      ? (appState.currentStory?.sections?.[appState.currentStorySectionIndex || 0]?.ru || "") 
+      : appState.currentParagraph.ru;
+    updateCoverage(text);
+  }
+  renderStats();
+  renderWordList();
+  resetSpeech();
+}
+
+function renderStats() {
+  const band = appState.activeView === "stories" ? appState.currentStory.band : Number(els.bandSelect.value);
+  const labels = { 1: "1-100", 2: "101-250", 3: "251-500", 4: "501-1000" };
+  els.wordCount.textContent = appState.words.length.toLocaleString();
+  els.activeBand.textContent = labels[band];
+  els.storyCount.textContent = storyLibrary.length.toLocaleString();
+}
+
+function renderWordList() {
+  const query = normalizeWord(els.searchInput.value.trim());
+  const visible = appState.learnedWords.filter((item) => {
+    const matches = !query || normalizeWord(item.word).includes(query) || item.translation.toLowerCase().includes(query);
+    return matches;
+  }).slice(-120).reverse();
+
+  els.visibleWordCount.textContent = visible.length;
+  els.wordList.replaceChildren(...visible.map((item) => {
+    const li = document.createElement("li");
+    li.innerHTML = `<span class="rank">#${item.rank}</span><span><strong>${item.word}</strong><span>${item.translation}</span></span>`;
+    return li;
+  }));
+  if (!visible.length) {
+    const li = document.createElement("li");
+    li.className = "empty-word-row";
+    li.textContent = "Read a paragraph or story to add learned words here.";
+    els.wordList.append(li);
+  }
+}
+
+function pickParagraph() {
+  const band = Number(els.bandSelect.value);
+  const choices = activeParagraphs.filter((item) => item.band === band);
+  appState.currentParagraph = choices[Math.floor(Math.random() * choices.length)] || activeParagraphs[0];
+  resetSpeech();
+  renderParagraph();
+  renderStats();
+  renderWordList();
+}
+
+function toggleTranslation() {
+  els.englishParagraph.hidden = !els.englishParagraph.hidden;
+  els.toggleTranslationBtn.textContent = els.englishParagraph.hidden ? "Translate paragraph" : "Hide translation";
+}
+
+function toggleStoryTranslation() {
+  els.storyEnglish.hidden = !els.storyEnglish.hidden;
+  els.toggleStoryTranslationBtn.textContent = els.storyEnglish.hidden ? "Translate story" : "Hide translation";
+}
+
+function getCurrentReadingText() {
+  if (appState.activeView === "stories") {
+    return appState.currentStory?.sections?.[appState.currentStorySectionIndex || 0]?.ru || "";
+  }
+  return appState.currentParagraph?.ru || "";
+}
+
+function getCurrentReadingContainer() {
+  return appState.activeView === "stories" ? els.storyContent : els.russianParagraph;
+}
+
+function speakSlowRussian() {
+  if (!("speechSynthesis" in window)) {
+    if (els.spokenResult) els.spokenResult.textContent = "Audio playback is not available in this browser.";
+    return;
+  }
+  window.speechSynthesis.cancel();
+  
+  const isStories = appState.activeView === "stories";
+  const text = getCurrentReadingText();
+  if (!text.trim()) return;
+  const rate = Number((isStories ? els.playbackSpeedStories : els.playbackSpeed).value);
+  
+  const utterance = new SpeechSynthesisUtterance(text);
+  utterance.lang = languageDatasets[appState.targetLanguage]?.speechLang || "ru-RU";
+  utterance.rate = rate;
+  
+  const tokens = getCurrentReadingContainer().querySelectorAll(".word-token");
+  
+  utterance.onboundary = (event) => {
+    if (event.name === 'word') {
+      const charIndex = event.charIndex;
+      let currentToken = null;
+      let minDiff = Infinity;
+      
+      tokens.forEach(token => {
+        token.classList.remove("word-highlight");
+        const tokenIndex = parseInt(token.dataset.charIndex);
+        if (charIndex >= tokenIndex && (charIndex - tokenIndex) < minDiff) {
+          minDiff = charIndex - tokenIndex;
+          currentToken = token;
+        }
+      });
+      
+      if (currentToken) currentToken.classList.add("word-highlight");
+    }
+  };
+  
+  utterance.onend = () => {
+    tokens.forEach(t => t.classList.remove("word-highlight"));
+  };
+  utterance.onerror = () => {
+    if (els.spokenResult) els.spokenResult.textContent = "Audio playback could not start. Try clicking Play Audio again.";
+  };
+  
+  window.speechSynthesis.speak(utterance);
+}
+
+function handleSpeedChange(e, label) {
+  const val = Number(e.target.value).toFixed(1);
+  label.textContent = `${val}x`;
+}
+
+els.playbackSpeed.addEventListener("input", (e) => handleSpeedChange(e, els.speedLabel));
+els.playbackSpeedStories.addEventListener("input", (e) => handleSpeedChange(e, els.speedLabelStories));
+
+function setupSpeechRecognition() {
+  if (appState.recognition && appState.recognizing) {
+    try { appState.recognition.stop(); } catch {}
+  }
+  const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+  if (!SpeechRecognition) {
+    appState.recognition = null;
+    appState.recordingMode = "media";
+    const canRecord = !!(navigator.mediaDevices?.getUserMedia && window.MediaRecorder);
+    els.recordBtn.disabled = !canRecord;
+    els.spokenResult.textContent = canRecord
+      ? "Press Start to record. The app will transcribe your audio after you stop."
+      : "Recording is not available in this browser. Use Chrome or Edge on http://127.0.0.1:9876.";
+    return;
+  }
+
+  appState.recordingMode = "speech";
+  const recognition = new SpeechRecognition();
+  recognition.lang = languageDatasets[appState.targetLanguage]?.speechLang || "ru-RU";
+  recognition.continuous = true;
+  recognition.interimResults = true;
+  recognition.onresult = (event) => {
+    appState.transcript = Array.from(event.results).map((result) => result[0].transcript).join(" ");
+    evaluateSpeech(appState.transcript);
+  };
+  recognition.onend = () => {
+    appState.recognizing = false;
+    els.recordBtn.classList.remove("is-recording");
+    els.recordBtn.textContent = "Start";
+  };
+  recognition.onerror = (event) => {
+    els.spokenResult.textContent = `Speech recognition error: ${event.error}`;
+  };
+  appState.recognition = recognition;
+}
+
+function toggleRecording() {
+  if (appState.recordingMode === "media" || !appState.recognition) {
+    toggleMediaRecording();
+    return;
+  }
+  if (!appState.recognition) {
+    setupSpeechRecognition();
+    if (!appState.recognition) return;
+  }
+  if (appState.recognizing) {
+    appState.recognition.stop();
+    return;
+  }
+  resetSpeech();
+  appState.recognizing = true;
+  els.recordBtn.classList.add("is-recording");
+  els.recordBtn.textContent = "Stop";
+  try {
+    appState.recognition.lang = languageDatasets[appState.targetLanguage]?.speechLang || "ru-RU";
+    appState.recognition.start();
+  } catch (error) {
+    appState.recognizing = false;
+    els.recordBtn.classList.remove("is-recording");
+    els.recordBtn.textContent = "Start";
+    els.spokenResult.textContent = "Recording could not start. Check microphone permission and try again.";
+  }
+}
+
+async function toggleMediaRecording() {
+  if (appState.recognizing && mediaRecorder) {
+    mediaRecorder.stop();
+    return;
+  }
+  if (!navigator.mediaDevices?.getUserMedia || !window.MediaRecorder) {
+    els.spokenResult.textContent = "Recording is not available in this browser.";
+    return;
+  }
+  resetSpeech();
+  try {
+    const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+    mediaRecordChunks = [];
+    mediaRecorder = new MediaRecorder(stream);
+    mediaRecorder.ondataavailable = (event) => {
+      if (event.data?.size) mediaRecordChunks.push(event.data);
+    };
+    mediaRecorder.onstop = async () => {
+      stream.getTracks().forEach(track => track.stop());
+      appState.recognizing = false;
+      els.recordBtn.classList.remove("is-recording");
+      els.recordBtn.textContent = "Start";
+      await transcribeRecordedAudio(new Blob(mediaRecordChunks, { type: mediaRecorder.mimeType || "audio/webm" }));
+    };
+    appState.recognizing = true;
+    els.recordBtn.classList.add("is-recording");
+    els.recordBtn.textContent = "Stop";
+    els.spokenResult.textContent = "Recording...";
+    mediaRecorder.start();
+  } catch (error) {
+    appState.recognizing = false;
+    els.recordBtn.classList.remove("is-recording");
+    els.recordBtn.textContent = "Start";
+    els.spokenResult.textContent = "Microphone permission was blocked or recording could not start.";
+  }
+}
+
+function blobToDataUrl(blob) {
+  return new Promise((resolve, reject) => {
+    const reader = new FileReader();
+    reader.onload = () => resolve(reader.result);
+    reader.onerror = reject;
+    reader.readAsDataURL(blob);
+  });
+}
+
+async function transcribeRecordedAudio(blob) {
+  if (!blob.size) {
+    els.spokenResult.textContent = "No audio was recorded.";
+    return;
+  }
+  if (location.protocol === "file:") {
+    els.spokenResult.textContent = "Recording needs http://127.0.0.1:9876 for transcription.";
+    return;
+  }
+  els.spokenResult.textContent = "Transcribing recording...";
+  try {
+    const audio = await blobToDataUrl(blob);
+    const response = await fetch("/api/transcribe", {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({ audio, language: appState.targetLanguage })
+    });
+    const data = await response.json().catch(() => ({}));
+    if (!response.ok) throw new Error(data.error || "Transcription failed.");
+    appState.transcript = data.text || "";
+    evaluateSpeech(appState.transcript);
+  } catch (error) {
+    els.spokenResult.textContent = "Recording saved, but transcription needs OPENAI_API_KEY on the local server.";
+  }
+}
+
+function resetSpeech() {
+  appState.transcript = "";
+  els.accuracyScore.textContent = "--";
+  els.matchedWords.textContent = "--";
+  els.missedWords.textContent = "--";
+  const language = languageDatasets[appState.targetLanguage]?.label || "language";
+  els.spokenResult.textContent = `Press Start, read the current ${language} text, then stop when finished.`;
+}
+
+function evaluateSpeech(transcript) {
+  const targetText = getCurrentReadingText();
+  const targetWords = wordsOnly(targetText);
+  const spokenWords = wordsOnly(transcript);
+  const used = new Set();
+  let matched = 0;
+
+  targetWords.forEach((target) => {
+    const index = spokenWords.findIndex((spoken, i) => !used.has(i) && wordSimilarity(target, spoken) >= 0.78);
+    if (index >= 0) {
+      used.add(index);
+      matched += 1;
+    }
+  });
+
+  const missed = targetWords.length - matched;
+  const accuracy = Math.round((matched / Math.max(targetWords.length, 1)) * 100);
+  els.accuracyScore.textContent = `${accuracy}%`;
+  els.matchedWords.textContent = `${matched}/${targetWords.length}`;
+  els.missedWords.textContent = String(missed);
+  els.spokenResult.textContent = transcript || "Listening...";
+}
+
+function wordsOnly(text) {
+  return (text.match(/[\p{Letter}-]+/gu) || []).map(normalizeWord).filter(Boolean);
+}
+
+function wordSimilarity(a, b) {
+  if (a === b) return 1;
+  const distance = levenshtein(a, b);
+  return 1 - distance / Math.max(a.length, b.length, 1);
+}
+
+function levenshtein(a, b) {
+  const matrix = Array.from({ length: a.length + 1 }, () => Array(b.length + 1).fill(0));
+  for (let i = 0; i <= a.length; i += 1) matrix[i][0] = i;
+  for (let j = 0; j <= b.length; j += 1) matrix[0][j] = j;
+  for (let i = 1; i <= a.length; i += 1) {
+    for (let j = 1; j <= b.length; j += 1) {
+      const cost = a[i - 1] === b[j - 1] ? 0 : 1;
+      matrix[i][j] = Math.min(matrix[i - 1][j] + 1, matrix[i][j - 1] + 1, matrix[i - 1][j - 1] + cost);
+    }
+  }
+  return matrix[a.length][b.length];
+}
+
+function showTooltip(event) {
+  const token = event.target.closest(".word-token");
+  if (!token) return;
+  els.tooltip.innerHTML = `<strong>${token.dataset.word}</strong><span>${token.dataset.translation}</span><br><small>rank ${token.dataset.rank}</small>`;
+  els.tooltip.hidden = false;
+  moveTooltip(event);
+}
+
+function moveTooltip(event) {
+  if (els.tooltip.hidden) return;
+  const x = Math.min(event.clientX + 14, window.innerWidth - els.tooltip.offsetWidth - 10);
+  const y = Math.min(event.clientY + 14, window.innerHeight - els.tooltip.offsetHeight - 10);
+  els.tooltip.style.left = `${x}px`;
+  els.tooltip.style.top = `${y}px`;
+}
+
+function hideTooltip() {
+  els.tooltip.hidden = true;
+}
+
+els.practiceTab?.addEventListener("click", () => switchView("practice"));
+els.storiesTab?.addEventListener("click", () => switchView("stories"));
+els.profileTab?.addEventListener("click", () => switchView("profile"));
+els.profileBtn?.addEventListener("click", () => switchView("profile"));
+els.profileBackBtn?.addEventListener("click", () => switchView("practice"));
+els.targetLanguageSelect?.addEventListener("change", () => switchTargetLanguage(els.targetLanguageSelect.value));
+
+// Pencil icon opens edit profile modal
+els.avatarEditPencilBtn?.addEventListener("click", () => {
+  if (els.editProfileModal) els.editProfileModal.hidden = false;
+  initColorWheel();
+});
+els.closeEditProfileBtn?.addEventListener("click", () => {
+  if (els.editProfileModal) els.editProfileModal.hidden = true;
+});
+els.cancelEditProfileBtn?.addEventListener("click", () => {
+  if (els.editProfileModal) els.editProfileModal.hidden = true;
+});
+els.editProfileModal?.addEventListener("click", (e) => {
+  if (e.target === els.editProfileModal) els.editProfileModal.hidden = true;
+});
+
+els.editProfileBtn?.addEventListener("click", () => {
+  if (els.editProfileModal) {
+    els.editProfileModal.hidden = false;
+    initColorWheel();
+  } else if (els.profileEditPanel) {
+    els.profileEditPanel.hidden = !els.profileEditPanel.hidden;
+    els.editProfileBtn.textContent = els.profileEditPanel.hidden ? "Edit" : "Close Edit";
+  }
+});
+els.mascotGrid?.addEventListener("click", (event) => {
+  const button = event.target.closest("[data-mascot]");
+  if (!button) return;
+  appState.profile.customization.mascot = button.dataset.mascot;
+  saveProfile();
+  renderMascotGrid();
+  updateCharacterVisuals();
+});
+document.querySelectorAll("[data-social-toggle]").forEach((button) => {
+  button.addEventListener("click", (event) => {
+    event.stopPropagation();
+    toggleSocialDropdown(button.dataset.socialToggle);
+  });
+});
+[
+  ["followers", els.followersSearch],
+  ["following", els.followingSearch],
+  ["friends", els.friendsSearch]
+].forEach(([type, input]) => {
+  input?.addEventListener("click", (event) => event.stopPropagation());
+  input?.addEventListener("input", () => {
+    socialSearchState[type] = input.value.trim();
+    renderSocialList(type);
+    const group = document.querySelector(`[data-social-group="${type}"]`);
+    const dropdown = group?.querySelector(".social-dropdown");
+    if (dropdown) {
+      dropdown.hidden = false;
+      group.classList.add("is-open");
+    }
+  });
+});
+[els.followersList, els.followingList, els.friendsList].forEach((list) => {
+  list?.addEventListener("click", (event) => {
+    const item = event.target.closest("li[data-person]");
+    if (item) openPersonProfile(item.dataset.person);
+  });
+  list?.addEventListener("contextmenu", (event) => {
+    const item = event.target.closest("li[data-person]");
+    if (item) showSocialContextMenu(event, item.dataset.person, item.dataset.socialType);
+  });
+});
+els.socialContextMenu?.addEventListener("click", (event) => {
+  const action = event.target.closest("[data-social-action]")?.dataset.socialAction;
+  if (action) handleSocialAction(action);
+});
+document.addEventListener("click", (event) => {
+  if (els.socialContextMenu && !els.socialContextMenu.contains(event.target)) els.socialContextMenu.hidden = true;
+});
+els.closePublicProfileBtn?.addEventListener("click", () => {
+  els.publicProfileModal.hidden = true;
+});
+els.publicProfileModal?.addEventListener("click", (event) => {
+  if (event.target === els.publicProfileModal) els.publicProfileModal.hidden = true;
+});
+els.storyPrevPageBtn?.addEventListener("click", () => {
+  if (appState.currentStorySectionIndex > 0) {
+    appState.currentStorySectionIndex--;
+    renderStory();
+    resetSpeech();
+    triggerPageTurnAnimation("prev");
+  }
+});
+els.storyNextPageBtn?.addEventListener("click", () => {
+  const story = appState.currentStory;
+  if (story && appState.currentStorySectionIndex < story.sections.length - 1) {
+    appState.currentStorySectionIndex++;
+    renderStory();
+    resetSpeech();
+    triggerPageTurnAnimation("next");
+  }
+});
+
+function triggerPageTurnAnimation(direction) {
+  const cover = document.querySelector(".book-cover");
+  if (!cover) return;
+  cover.classList.remove("page-turn-next", "page-turn-prev");
+  void cover.offsetWidth; // force reflow
+  cover.classList.add(direction === "next" ? "page-turn-next" : "page-turn-prev");
+}
+
+els.bandSelect?.addEventListener("change", pickParagraph);
+els.newParagraphBtn?.addEventListener("click", pickParagraph);
+els.toggleTranslationBtn?.addEventListener("click", toggleTranslation);
+els.slowAudioBtn?.addEventListener("click", speakSlowRussian);
+els.storyLevelSelect?.addEventListener("change", selectStoryLevel);
+els.storySelect?.addEventListener("change", selectStory);
+els.generateStoryImageBtn?.addEventListener("click", generateStoryImage);
+els.importStoryImageBtn?.addEventListener("click", importStoryImage);
+els.storyImageFileInput?.addEventListener("change", saveImportedStoryImage);
+els.toggleStoryTranslationBtn?.addEventListener("click", toggleStoryTranslation);
+els.storyAudioBtn?.addEventListener("click", speakSlowRussian);
+els.recordBtn?.addEventListener("click", toggleRecording);
+els.searchInput?.addEventListener("input", renderWordList);
+
+els.russianParagraph.addEventListener("mouseover", showTooltip);
+els.russianParagraph.addEventListener("mousemove", moveTooltip);
+els.russianParagraph.addEventListener("mouseout", hideTooltip);
+els.russianParagraph.addEventListener("focusin", showTooltip);
+els.russianParagraph.addEventListener("focusout", hideTooltip);
+els.storyContent.addEventListener("mouseover", showTooltip);
+els.storyContent.addEventListener("mousemove", moveTooltip);
+els.storyContent.addEventListener("mouseout", hideTooltip);
+els.storyContent.addEventListener("focusin", showTooltip);
+els.storyContent.addEventListener("focusout", hideTooltip);
+
+document.addEventListener("pointerover", (event) => {
+  if (event.target.closest("button, select, .word-token, .story-visual")) setCharacterInteraction("pointing");
+});
+document.addEventListener("focusin", (event) => {
+  if (event.target.closest("input, textarea, select")) setCharacterInteraction("typing");
+});
+document.addEventListener("click", (event) => {
+  if (event.target.closest(".action-btn, .mascot-option, .collection-cell")) setCharacterInteraction("celebrating");
+});
+document.addEventListener("pointerout", (event) => {
+  if (event.target.closest("button, select, .word-token, .story-visual")) setCharacterInteraction("idle");
+});
+
+
+
+// --- GAMIFICATION & ECONOMY ---
+function updateCoins(amount) {
+  appState.coins += amount;
+  localStorage.setItem('nova_coins', appState.coins);
+  els.coinCount.textContent = appState.coins;
+  els.coinCount.parentElement.classList.remove("pulse-anim");
+  void els.coinCount.parentElement.offsetWidth; // trigger reflow
+  els.coinCount.parentElement.classList.add("pulse-anim");
+}
+
+function initEconomy() {
+  els.coinCount.textContent = appState.coins;
+  document.documentElement.style.setProperty('--app-bg', appState.activeTheme.startsWith("linear-gradient") ? appState.activeTheme : `url('${appState.activeTheme}')`);
+}
+
+// --- HAMBURGER MENU & MODALS ---
+els.hamburgerBtn.addEventListener("click", () => els.hamburgerMenu.hidden = false);
+els.closeHamburgerBtn.addEventListener("click", () => els.hamburgerMenu.hidden = true);
+
+els.openStoreBtn.addEventListener("click", () => els.storeModal.hidden = false);
+els.closeStoreBtn.addEventListener("click", () => els.storeModal.hidden = true);
+
+function openMusicDock() {
+  if (!els.musicDock) return;
+  if (els.musicDock.hidden) {
+    els.musicDock.hidden = false;
+    els.musicDock.classList.remove("is-expanded");
+  } else {
+    els.musicDock.classList.add("is-expanded");
+  }
+  els.hamburgerMenu.hidden = true;
+}
+
+function closeMusicDock() {
+  if (!els.musicDock) return;
+  els.musicDock.hidden = true;
+  els.musicDock.classList.remove("is-expanded");
+}
+
+els.openMusicBtn.addEventListener("click", openMusicDock);
+els.closeMusicBtn?.addEventListener("click", closeMusicDock);
+els.musicDockCloseBtn?.addEventListener("click", closeMusicDock);
+els.expandMusicBtn?.addEventListener("click", () => {
+  if (!els.musicDock) return;
+  els.musicDock.hidden = false;
+  els.musicDock.classList.toggle("is-expanded");
+});
+
+els.openAchievementsBtn.addEventListener("click", () => {
+  switchView("profile");
+});
+
+els.openSlotsBtn?.addEventListener("click", () => {
+  els.slotsWidget.hidden = false;
+  els.hamburgerMenu.hidden = true;
+});
+els.toggleSlotsBtn.addEventListener("click", () => els.slotsWidget.hidden = !els.slotsWidget.hidden);
+els.slotsCloseBtn.addEventListener("click", () => els.slotsWidget.hidden = true);
+
+els.toggleTwitchBtn.addEventListener("click", () => els.twitchChat.hidden = !els.twitchChat.hidden);
+els.closeTwitchBtn.addEventListener("click", () => els.twitchChat.hidden = true);
+
+els.toggleDMBtn.addEventListener("click", () => els.dmWidget.hidden = !els.dmWidget.hidden);
+els.closeDMBtn.addEventListener("click", () => els.dmWidget.hidden = true);
+
+// Add global window click to close modals if clicking outside content
+window.addEventListener("click", (e) => {
+  if (e.target === els.storeModal) els.storeModal.hidden = true;
+});
+
+// Profile Logic
+const mockAvatars = [
+  "https://picsum.photos/200/200?random=50",
+  "https://ui-avatars.com/api/?name=Connor&background=0D8ABC&color=fff",
+  "https://robohash.org/connor?set=set4",
+  "https://robohash.org/connor?set=set2",
+  "https://picsum.photos/200/200?random=99"
+];
+let avatarIndex = 0;
+els.editAvatarBtn?.addEventListener("click", () => {
+  avatarIndex = (avatarIndex + 1) % mockAvatars.length;
+  const newSrc = mockAvatars[avatarIndex];
+  if (els.profilePageAvatar) els.profilePageAvatar.src = newSrc;
+  if (els.profileAvatar) els.profileAvatar.src = newSrc;
+});
+
+// --- STORE & COINS ---
+const coinPackages = [];
+const basePrices = [1, 2, 5, 10, 20, 50, 100, 200, 500, 1000];
+basePrices.forEach((price, index) => {
+  let baseCoins = price * 1000;
+  let bonusMultiplier = Math.pow(1.05, index);
+  let totalCoins = Math.round((baseCoins * bonusMultiplier) / 100) * 100;
+  coinPackages.push({ price, coins: totalCoins });
+});
+
+function renderStore() {
+  els.storeGrid.replaceChildren(...coinPackages.map(pkg => {
+    const card = document.createElement("div");
+    card.className = "coin-package-card";
+    card.innerHTML = `
+      <strong>${pkg.coins.toLocaleString()} 🪙</strong>
+      <span>$${pkg.price}.00</span>
+    `;
+    card.addEventListener("click", () => {
+      alert(`Redirecting to Stripe to buy ${pkg.coins} coins for $${pkg.price}... Purchase Successful!`);
+      updateCoins(pkg.coins);
+      els.storeModal.hidden = true;
+    });
+    return card;
+  }));
+}
+
+els.watchAdBtn.addEventListener("click", () => {
+  els.watchAdBtn.textContent = "Watching Ad...";
+  els.watchAdBtn.disabled = true;
+  setTimeout(() => {
+    updateCoins(50);
+    els.watchAdBtn.textContent = "Watch Ad (+50 Coins)";
+    els.watchAdBtn.disabled = false;
+  }, 1000);
+});
+
+// --- THEMES SHOP ---
+const themePrices = {
+  10: 0, 9: 0, 8: 0,
+  7: 100, 6: 200, 5: 400,
+  4: 800, 3: 1600, 2: 3200, 1: 6400
+};
+const japaneseThemes = {
+  jp10: { price: 0, name: "Sakura Dawn", bg: "linear-gradient(135deg, #fff1f2, #fecdd3 45%, #bfdbfe)" },
+  jp9: { price: 0, name: "Tokyo Night", bg: "linear-gradient(135deg, #111827, #3730a3 48%, #db2777)" },
+  jp8: { price: 0, name: "Fuji Morning", bg: "linear-gradient(135deg, #e0f2fe, #f8fafc 45%, #bae6fd)" },
+  jp7: { price: 100, name: "Bamboo Path", bg: "linear-gradient(135deg, #ecfccb, #86efac 48%, #14532d)" },
+  jp6: { price: 200, name: "Kyoto Lanterns", bg: "linear-gradient(135deg, #450a0a, #dc2626 50%, #fbbf24)" },
+  jp5: { price: 400, name: "Ink Wash", bg: "linear-gradient(135deg, #f8fafc, #cbd5e1 52%, #334155)" },
+  jp4: { price: 800, name: "Shinkansen", bg: "linear-gradient(135deg, #eff6ff, #60a5fa 45%, #1d4ed8)" },
+  jp3: { price: 1600, name: "Matcha Garden", bg: "linear-gradient(135deg, #f7fee7, #a3e635 50%, #365314)" },
+  jp2: { price: 3200, name: "Festival Gold", bg: "linear-gradient(135deg, #7f1d1d, #f97316 48%, #fde68a)" },
+  jp1: { price: 6400, name: "Neon Crossing", bg: "linear-gradient(135deg, #020617, #7c3aed 46%, #22d3ee)" }
+};
+
+function renderThemes() {
+  const entries = appState.targetLanguage === "japanese"
+    ? Object.entries(japaneseThemes)
+    : Object.keys(themePrices).sort((a,b) => b-a).map((id) => [id, { price: themePrices[id], name: `Theme ${id}` }]);
+  els.themeSelect.replaceChildren(...entries.map(([id, config]) => {
+    const opt = document.createElement("option");
+    opt.value = id;
+    opt.textContent = `${config.name} (${config.price === 0 ? "FREE" : config.price + " Coins"})`;
+    return opt;
+  }));
+  
+  els.themeSelect.onchange = (e) => {
+    const id = e.target.value;
+    const price = japaneseThemes[id]?.price ?? themePrices[id];
+    
+    if (price > 0 && !appState.unlockedThemes.includes(id)) {
+      if (appState.coins >= price) {
+        if (confirm(`Buy this theme for ${price} coins?`)) {
+          updateCoins(-price);
+          appState.unlockedThemes.push(id);
+          localStorage.setItem('nova_unlocked_themes', JSON.stringify(appState.unlockedThemes));
+          applyTheme(id);
+        }
+      } else {
+        alert("Not enough coins!");
+        els.themeSelect.value = entries[0]?.[0] || 10;
+      }
+    } else {
+      applyTheme(id);
+    }
+  };
+}
+
+function applyTheme(id) {
+  if (japaneseThemes[id]) {
+    appState.activeTheme = japaneseThemes[id].bg;
+    localStorage.setItem('nova_active_theme', appState.activeTheme);
+    document.documentElement.style.setProperty('--app-bg', japaneseThemes[id].bg);
+    return;
+  }
+  const url = `Themes/${id}.png`;
+  appState.activeTheme = url;
+  localStorage.setItem('nova_active_theme', url);
+  document.documentElement.style.setProperty('--app-bg', `url('${url}')`);
+}
+
+// --- ACHIEVEMENTS ---
+const achievements = [
+  { id: "first_spin", title: "First Spin", desc: "You spun the minislots for the first time.", icon: "🎰" },
+  { id: "millionaire", title: "Millionaire", desc: "You accumulated 1,000,000 coins.", icon: "💎" },
+  { id: "polyglot", title: "Polyglot", desc: "Talked to the chatbot in 5 different languages.", icon: "🌍" }
+];
+function renderAchievements() {
+  if (!els.achievementsList) return;
+  const language = languageDatasets[appState.targetLanguage]?.label || "Language";
+  const languageAchievements = [
+    { title: `First ${language} Page`, desc: `Read your first ${language} page.`, icon: "📖" },
+    { title: `${language} Story Reader`, desc: `Open 10 ${language} story pages.`, icon: "🖼" },
+    { title: `${language} Listener`, desc: `Play story audio in ${language}.`, icon: "🎧" },
+    { title: `${language} Speaker`, desc: `Read aloud and earn XP in ${language}.`, icon: "🎙" },
+    { title: `100 ${language} Words`, desc: `Learn 100 words while reading ${language}.`, icon: "🏅" },
+    { title: `${language} Collector`, desc: `Fill item slots while practicing ${language}.`, icon: "💠" }
+  ];
+  els.achievementsList.replaceChildren(...languageAchievements.map(ach => {
+    const div = document.createElement("div");
+    div.className = "achievement-item";
+    div.innerHTML = `
+      <div class="achievement-icon">${ach.icon}</div>
+      <div>
+        <h4>${ach.title}</h4>
+        <p>${ach.desc}</p>
+      </div>
+    `;
+    return div;
+  }));
+}
+
+// --- MINI SLOTS ---
+const slotSymbols = ["🍒", "🍋", "🍉", "⭐", "💎", "🔔", "7️⃣"];
+let autoSpinInterval = null;
+
+function spinSlots() {
+  const bet = parseInt(els.slotBetSelect.value);
+  const reelsCount = parseInt(els.slotReelSelect.value);
+  
+  if (appState.coins < bet) {
+    els.slotResultOverlay.textContent = "Not enough coins!";
+    els.slotResultOverlay.hidden = false;
+    if (autoSpinInterval) {
+       clearInterval(autoSpinInterval);
+       autoSpinInterval = null;
+       els.autoSpinCheck.checked = false;
+       els.spinBtn.textContent = "Spin";
+    }
+    setTimeout(() => els.slotResultOverlay.hidden = true, 1500);
+    return;
+  }
+  
+  updateCoins(-bet);
+  els.slotResultOverlay.hidden = true;
+  els.slotLever.classList.add("pulled");
+  
+  els.slotsDisplay.innerHTML = "";
+  const reelEls = [];
+  for(let i=0; i<reelsCount; i++) {
+    if(i > 0) {
+      const divider = document.createElement("div");
+      divider.className = "reel-divider";
+      els.slotsDisplay.append(divider);
+    }
+    const span = document.createElement("span");
+    span.className = "slot-reel";
+    span.textContent = "🍒";
+    els.slotsDisplay.append(span);
+    reelEls.push(span);
+  }
+  els.slotsDisplay.append(els.slotResultOverlay);
+  
+  let spins = 0;
+  const interval = setInterval(() => {
+    reelEls.forEach(el => {
+      el.textContent = slotSymbols[Math.floor(Math.random() * slotSymbols.length)];
+    });
+    spins++;
+    if (spins > 10) {
+      clearInterval(interval);
+      els.slotLever.classList.remove("pulled");
+      
+      const first = reelEls[0].textContent;
+      const allMatch = reelEls.every(el => el.textContent === first);
+      
+      if (allMatch) {
+        const win = bet * (10 * reelsCount);
+        updateCoins(win);
+        els.slotResultOverlay.textContent = `WINNER! +${win}`;
+      } else {
+        els.slotResultOverlay.textContent = "LOSER";
+      }
+      els.slotResultOverlay.hidden = false;
+      setTimeout(() => els.slotResultOverlay.hidden = true, 1500);
+    }
+  }, 80);
+}
+
+els.spinBtn.addEventListener("click", () => {
+  if (els.autoSpinCheck.checked) {
+    if (autoSpinInterval) {
+       clearInterval(autoSpinInterval);
+       autoSpinInterval = null;
+       els.spinBtn.textContent = "Spin";
+    } else {
+       spinSlots();
+       autoSpinInterval = setInterval(spinSlots, 1600);
+       els.spinBtn.textContent = "Stop";
+    }
+  } else {
+    spinSlots();
+  }
+});
+els.slotLever.addEventListener("click", spinSlots);
+
+// --- CHATBOT ---
+const chatLanguages = {
+  russian: { label: "Russian", speechLang: "ru-RU", intro: "Привет! Я Nova. Я могу помочь с чтением, словами, грамматикой и произношением.", fallback: "Хороший вопрос. Давай разберем это медленно: сначала найди ключевые слова, потом прочитай предложение вслух и сравни смысл с переводом." },
+  japanese: { label: "Japanese", speechLang: "ja-JP", intro: "こんにちは。Novaです。読解、単語、文法、発音を手伝います。", fallback: "いい質問です。まず大事な単語を見つけて、文をゆっくり読んで、意味を英語と比べましょう。" },
+  mandarin: { label: "Mandarin", speechLang: "zh-CN", intro: "你好！我是 Nova。我可以帮助你练习阅读、词汇、语法和发音。", fallback: "这是一个好问题。我们先找关键词，再慢慢读句子，然后把意思和英文翻译比较。" },
+  hindi: { label: "Hindi", speechLang: "hi-IN", intro: "नमस्ते! मैं Nova हूँ। मैं पढ़ने, शब्दों, व्याकरण और उच्चारण में मदद कर सकता हूँ।", fallback: "अच्छा सवाल है। पहले मुख्य शब्द खोजो, फिर वाक्य को धीरे-धीरे पढ़ो और अर्थ को अंग्रेज़ी अनुवाद से मिलाओ।" },
+  arabic: { label: "Arabic", speechLang: "ar-SA", intro: "مرحبا! أنا Nova. أستطيع مساعدتك في القراءة والمفردات والقواعد والنطق.", fallback: "سؤال جيد. لنبدأ بالكلمات المهمة، ثم نقرأ الجملة ببطء، وبعد ذلك نقارن المعنى بالترجمة الإنجليزية." }
+};
+const chatHistory = [];
+
+function activeChatLanguageKey() {
+  return chatLanguages[els.chatLanguageSelect?.value] ? els.chatLanguageSelect.value : appState.targetLanguage;
+}
+
+function setupChatLanguages() {
+  if (!els.chatLanguageSelect) return;
+  els.chatLanguageSelect.replaceChildren(...Object.entries(chatLanguages).map(([value, config]) => {
+    const option = document.createElement("option");
+    option.value = value;
+    option.textContent = config.label;
+    return option;
+  }));
+  els.chatLanguageSelect.value = chatLanguages[appState.targetLanguage] ? appState.targetLanguage : "russian";
+  updateChatIntro();
+}
+
+function speakChatText(text) {
+  const synth = window.speechSynthesis;
+  if (!synth || !text) return;
+  const config = chatLanguages[activeChatLanguageKey()] || chatLanguages.russian;
+  synth.cancel();
+  const utterance = new SpeechSynthesisUtterance(text);
+  utterance.lang = config.speechLang;
+  utterance.rate = 0.92;
+  synth.speak(utterance);
+}
+
+function updateChatIntro() {
+  const config = chatLanguages[activeChatLanguageKey()] || chatLanguages.russian;
+  if (els.chatWelcomeMsg) {
+    els.chatWelcomeMsg.textContent = config.intro;
+    els.chatWelcomeMsg.lang = config.speechLang.slice(0, 2);
+    els.chatWelcomeMsg.dir = activeChatLanguageKey() === "arabic" ? "rtl" : "ltr";
+  }
+  if (els.chatInput) {
+    els.chatInput.placeholder = config.label === "Arabic" ? "اكتب رسالتك..." : `Ask Nova in ${config.label}...`;
+  }
+}
+
+function detectChatLanguageFromText(text) {
+  if (/[\u0600-\u06ff]/.test(text)) return "arabic";
+  if (/[\u0900-\u097f]/.test(text)) return "hindi";
+  if (/[\u3040-\u30ff]/.test(text)) return "japanese";
+  if (/[\u4e00-\u9fff]/.test(text)) return "mandarin";
+  if (/[\u0400-\u04ff]/.test(text)) return "russian";
+  return "";
+}
+
+function getSiteChatSnapshot() {
+  const dataset = languageDatasets[appState.targetLanguage] || languageDatasets.russian;
+  const profile = appState.profile || {};
+  const story = appState.currentStory || {};
+  const sections = Array.isArray(story.sections) ? story.sections : [];
+  const currentSection = sections[appState.currentStorySectionIndex] || sections[0] || {};
+  const level = profile.xp !== undefined ? getLevelInfo(Number(profile.xp || 0)) : { level: 0, progress: 0, needed: 1000 };
+  return {
+    languageLabel: dataset.label,
+    view: appState.activeView,
+    practiceTitle: appState.currentParagraph?.title || "Practice",
+    storyTitle: story.title || "No story selected",
+    storyLevel: story.level || "beginner",
+    storyPage: sections.length ? appState.currentStorySectionIndex + 1 : 0,
+    storyPages: sections.length,
+    storyText: (currentSection.text || getCurrentReadingText() || "").slice(0, 220),
+    wordsTotal: appState.words?.length || 0,
+    learnedWords: appState.learnedWords?.length || 0,
+    storiesTotal: storyLibrary.length,
+    coins: appState.coins || 0,
+    displayName: profile.displayName || "Learner",
+    username: profile.username || "learner",
+    bio: profile.bio || "No bio yet.",
+    followers: profile.social?.followers?.length || 0,
+    following: profile.social?.following?.length || 0,
+    friends: profile.social?.friends?.length || 0,
+    collection: profile.collection?.length || 0,
+    level
+  };
+}
+
+function getLocalChatTopic(text) {
+  const lower = text.toLowerCase();
+  const topics = [
+    ["media", ["image", "picture", "photo", "screenshot", "video", "voice", "recording", "upload", "camera", "audio file", "الصورة", "فيديو", "صوت", "चित्र", "वीडियो", "आवाज", "图片", "照片", "视频", "音声", "写真", "動画"]],
+    ["purchase", ["buy", "purchase", "coin", "coins", "store", "ad", "ads", "stripe", "payment", "money", "checkout", "खरीद", "सिक्का", "شراء", "إعلان", "购买", "广告", "購入", "広告"]],
+    ["profile", ["profile", "followers", "following", "friends", "bio", "username", "display name", "mascot", "collection", "achievement", "प्रोफाइल", "दोस्त", "ملف", "أصدقاء", "个人资料", "朋友", "プロフィール", "友達"]],
+    ["stories", ["story", "stories", "chapter", "page", "read", "library", "कहानी", "अध्याय", "قصة", "فصل", "故事", "章节", "物語", "章"]],
+    ["practice", ["practice", "paragraph", "word list", "vocabulary", "common words", "learned words", "translate", "meaning", "अभ्यास", "शब्द", "مفردات", "ترجمة", "练习", "词汇", "翻译", "練習", "単語", "翻訳"]],
+    ["audio", ["pronunciation", "say", "speak", "play audio", "record", "microphone", "voice score", "उच्चारण", "रिकॉर्ड", "نطق", "تسجيل", "发音", "录音", "発音", "録音"]],
+    ["chat", ["chat", "dm", "message", "global", "live chat", "bot", "assistant", "संदेश", "رسالة", "聊天", "消息", "チャット", "メッセージ"]],
+    ["music", ["music", "song", "playlist", "player", "spotify", "संगीत", "موسيقى", "音乐", "音楽"]],
+    ["slots", ["slot", "slots", "bet", "reels", "spin", "gamble", "رهان", "فتحات", "老虎机", "賭け", "スロット"]],
+    ["language", ["language", "russian", "japanese", "mandarin", "hindi", "arabic", "switch", "भाषा", "لغة", "语言", "言語"]]
+  ];
+  return topics.find(([, words]) => words.some((word) => lower.includes(word)))?.[0] || "default";
+}
+
+function buildLocalChatReply(topic, text) {
+  const detected = detectChatLanguageFromText(text);
+  if (detected && chatLanguages[detected] && els.chatLanguageSelect) {
+    els.chatLanguageSelect.value = detected;
+    updateChatIntro();
+  }
+  const key = chatLanguages[detected] ? detected : activeChatLanguageKey();
+  const snap = getSiteChatSnapshot();
+  const replies = {
+    russian: {
+      default: `Я работаю локально по данным этого сайта. Сейчас выбран язык ${snap.languageLabel}, открыта вкладка ${snap.view}, изучено ${snap.learnedWords} из ${snap.wordsTotal} слов.`,
+      practice: `Практика показывает текущий абзац "${snap.practiceTitle}", список изученных слов и перевод по наведению. Кнопка перевода открывает английский смысл всего текста.`,
+      stories: `В библиотеке ${snap.storiesTotal} историй для ${snap.languageLabel}. Сейчас: "${snap.storyTitle}", уровень ${snap.storyLevel}, страница ${snap.storyPage}/${snap.storyPages}.`,
+      audio: `Аудио читает текущий абзац или страницу истории голосом ${snap.languageLabel}. Запись сравнивает вашу речь с текущим текстом, когда браузер поддерживает распознавание речи.`,
+      profile: `Профиль: ${snap.displayName} (@${snap.username}), ${snap.followers} followers, ${snap.following} following, ${snap.friends} friends, коллекция ${snap.collection}/16, уровень ${snap.level.level}.`,
+      media: `Я могу локально читать данные файла: имя, тип, размер, длительность и размеры изображения. Для настоящего OCR, понимания объектов или расшифровки речи нужен локальный ML-модуль в браузере или отдельный сервер.`,
+      purchase: `Сейчас монеты и магазин локальные: ${snap.coins} coins. Реальные покупки требуют платежный сервер и webhook; секретные ключи нельзя хранить в статическом HTML или GitHub Pages.`,
+      chat: `Чат, DMs и live chat сейчас работают как данные в браузере. Чтобы они были реальными между пользователями, нужен логин, база данных и realtime backend.`,
+      music: `Музыкальный плеер открывает нижнюю панель и может расширить плейлист. Сейчас это локальный демо-плеер без реального каталога песен.`,
+      slots: `Mini Slots использует локальные настройки Bet и Reels. Это не реальные деньги и не должно подключаться к настоящим платежам без backend-проверок.`,
+      language: `Доступные языки: Russian, Japanese, Mandarin, Hindi и Arabic. При смене языка меняются слова, истории, достижения, направление текста и голос.`
+    },
+    japanese: {
+      default: `私はこのサイト内のローカルデータだけで答えます。今の学習言語は${snap.languageLabel}、画面は${snap.view}、学習済み単語は${snap.learnedWords}/${snap.wordsTotal}です。`,
+      practice: `Practiceでは「${snap.practiceTitle}」の文章、覚えた単語、ホバー翻訳を使います。Translateボタンで英語の全体訳を見られます。`,
+      stories: `${snap.languageLabel}のストーリーは${snap.storiesTotal}あります。現在は「${snap.storyTitle}」、${snap.storyLevel}、ページ${snap.storyPage}/${snap.storyPages}です。`,
+      audio: `Play Audioは現在の文章を${snap.languageLabel}で読み上げます。録音評価はブラウザの音声認識が使える時に現在の文章と比べます。`,
+      profile: `プロフィール: ${snap.displayName} (@${snap.username})、followers ${snap.followers}、following ${snap.following}、friends ${snap.friends}、collection ${snap.collection}/16、level ${snap.level.level}。`,
+      media: `ローカルではファイル名、種類、サイズ、画像の幅と高さ、音声や動画の長さを読めます。文字認識や内容理解にはローカルMLモデルか別サーバーが必要です。`,
+      purchase: `CoinsとStoreは今ローカルデータです。実際の購入には支払い用サーバーとwebhookが必要で、秘密キーはGitHub PagesやHTMLに入れられません。`,
+      chat: `DMとlive chatは今ブラウザ内データです。本物のユーザー間チャットには認証、データベース、realtime backendが必要です。`,
+      music: `Music Playerは下のバーを開き、展開するとプレイリストを見せます。今はローカルのデモ曲です。`,
+      slots: `Mini SlotsはローカルのBetとReelsで動きます。実際のお金にはつなげません。`,
+      language: `使える言語はRussian, Japanese, Mandarin, Hindi, Arabicです。切り替えると単語、物語、実績、文字方向、音声が変わります。`
+    },
+    mandarin: {
+      default: `我只根据这个网站里的本地数据回答。当前学习语言是${snap.languageLabel}，页面是${snap.view}，已学单词${snap.learnedWords}/${snap.wordsTotal}。`,
+      practice: `Practice 显示当前段落“${snap.practiceTitle}”、已学词汇和悬停翻译。Translate 按钮会显示整页英文意思。`,
+      stories: `${snap.languageLabel}故事库有${snap.storiesTotal}篇。当前是“${snap.storyTitle}”，等级${snap.storyLevel}，第${snap.storyPage}/${snap.storyPages}页。`,
+      audio: `Play Audio 会用${snap.languageLabel}朗读当前段落或故事页。录音评分会在浏览器支持语音识别时和当前文本比较。`,
+      profile: `个人资料：${snap.displayName} (@${snap.username})，followers ${snap.followers}，following ${snap.following}，friends ${snap.friends}，collection ${snap.collection}/16，level ${snap.level.level}。`,
+      media: `本地可以读取文件名、类型、大小、图片尺寸、音频或视频时长。真正识别图片文字、物体或语音内容需要本地机器学习模型或服务器。`,
+      purchase: `Coins 和 Store 现在是本地数据：${snap.coins} coins。真实购买需要支付服务器和 webhook，密钥不能放在 HTML 或 GitHub Pages。`,
+      chat: `DM 和 live chat 现在是浏览器数据。真实用户聊天需要登录、数据库和实时后端。`,
+      music: `Music Player 会打开底部播放条，展开后显示播放列表。现在使用本地示例歌曲。`,
+      slots: `Mini Slots 使用本地 Bet 和 Reels 设置，不连接真钱。`,
+      language: `可用语言：Russian、Japanese、Mandarin、Hindi、Arabic。切换后会改变词汇、故事、成就、文字方向和语音。`
+    },
+    hindi: {
+      default: `मैं इस साइट के स्थानीय डेटा से ही जवाब देता हूं। अभी भाषा ${snap.languageLabel} है, पेज ${snap.view} है, और सीखे हुए शब्द ${snap.learnedWords}/${snap.wordsTotal} हैं।`,
+      practice: `Practice में "${snap.practiceTitle}" वाला paragraph, सीखे हुए शब्द और hover translation दिखते हैं। Translate बटन पूरे text का English meaning दिखाता है।`,
+      stories: `${snap.languageLabel} के लिए ${snap.storiesTotal} stories हैं। अभी "${snap.storyTitle}", level ${snap.storyLevel}, page ${snap.storyPage}/${snap.storyPages} खुला है।`,
+      audio: `Play Audio मौजूदा paragraph या story page को ${snap.languageLabel} में पढ़ता है। Recording score browser speech recognition उपलब्ध होने पर text से तुलना करता है।`,
+      profile: `Profile: ${snap.displayName} (@${snap.username}), followers ${snap.followers}, following ${snap.following}, friends ${snap.friends}, collection ${snap.collection}/16, level ${snap.level.level}.`,
+      media: `Local mode में मैं file name, type, size, image dimensions और audio/video duration पढ़ सकता हूं। असली OCR, object पहचान या speech transcription के लिए local ML model या server चाहिए।`,
+      purchase: `Coins और Store अभी local हैं: ${snap.coins} coins। Real purchases के लिए payment server और webhook चाहिए; secret keys HTML या GitHub Pages में नहीं रखे जा सकते।`,
+      chat: `DMs और live chat अभी browser data हैं। Real users के लिए auth, database और realtime backend चाहिए।`,
+      music: `Music Player bottom bar खोलता है और expand होने पर playlist दिखाता है। अभी songs local demo हैं।`,
+      slots: `Mini Slots local Bet और Reels settings से चलता है। यह real money से जुड़ा नहीं है।`,
+      language: `Languages: Russian, Japanese, Mandarin, Hindi और Arabic. Switch करने पर words, stories, achievements, text direction और voice बदलते हैं।`
+    },
+    arabic: {
+      default: `أنا أجيب من بيانات هذا الموقع محليا فقط. اللغة الحالية ${snap.languageLabel}، الصفحة ${snap.view}، والكلمات المتعلمة ${snap.learnedWords}/${snap.wordsTotal}.`,
+      practice: `قسم Practice يعرض الفقرة "${snap.practiceTitle}" وقائمة الكلمات المتعلمة وترجمة عند تمرير المؤشر. زر Translate يعرض المعنى بالإنجليزية للنص كله.`,
+      stories: `مكتبة ${snap.languageLabel} فيها ${snap.storiesTotal} قصة. الحالي: "${snap.storyTitle}"، المستوى ${snap.storyLevel}، الصفحة ${snap.storyPage}/${snap.storyPages}.`,
+      audio: `Play Audio يقرأ الفقرة أو صفحة القصة الحالية بلغة ${snap.languageLabel}. التسجيل يقارن صوتك بالنص عندما يدعم المتصفح التعرف على الكلام.`,
+      profile: `الملف: ${snap.displayName} (@${snap.username})، followers ${snap.followers}، following ${snap.following}، friends ${snap.friends}، collection ${snap.collection}/16، level ${snap.level.level}.`,
+      media: `محليا أستطيع قراءة اسم الملف ونوعه وحجمه وأبعاد الصورة ومدة الصوت أو الفيديو. فهم النص داخل الصورة أو الكلام يحتاج نموذجا محليا أو خادما منفصلا.`,
+      purchase: `Coins و Store حاليا بيانات محلية: ${snap.coins} coins. الشراء الحقيقي يحتاج خادم دفع و webhook، ولا يمكن وضع الأسرار في HTML أو GitHub Pages.`,
+      chat: `DMs و live chat حاليا بيانات في المتصفح. لجعلها حقيقية بين المستخدمين نحتاج تسجيل دخول وقاعدة بيانات و realtime backend.`,
+      music: `Music Player يفتح شريطا في الأسفل، وعند التوسيع يعرض playlist. حاليا هو demo محلي.`,
+      slots: `Mini Slots يستخدم Bet و Reels محليا ولا يتصل بمال حقيقي.`,
+      language: `اللغات المتاحة: Russian و Japanese و Mandarin و Hindi و Arabic. عند التبديل تتغير الكلمات والقصص والإنجازات واتجاه النص والصوت.`
+    }
+  };
+  return (replies[key] || replies.russian)[topic] || (replies[key] || replies.russian).default;
+}
+
+function offlineChatReply(text) {
+  return buildLocalChatReply(getLocalChatTopic(text), text);
+}
+
+async function getChatbotReply(text) {
+  return offlineChatReply(text);
+}
+
+els.chatLanguageSelect?.addEventListener("change", updateChatIntro);
+
+els.chatToggleBtn.addEventListener("click", () => {
+  els.chatWindow.hidden = !els.chatWindow.hidden;
+  if (!els.chatWindow.hidden) {
+    updateChatIntro();
+    speakChatText(els.chatWelcomeMsg.textContent);
+  }
+});
+els.closeChatBtn.addEventListener("click", () => els.chatWindow.hidden = true);
+
+function appendChat(text, type, options = {}) {
+  const msg = document.createElement("div");
+  msg.className = `chat-msg ${type}`;
+  msg.textContent = text;
+  const config = chatLanguages[activeChatLanguageKey()] || chatLanguages.russian;
+  msg.lang = config.speechLang.slice(0, 2);
+  msg.dir = activeChatLanguageKey() === "arabic" ? "rtl" : "ltr";
+  els.chatMessages.append(msg);
+  els.chatMessages.scrollTop = els.chatMessages.scrollHeight;
+  if (type === "ai" && options.speak) speakChatText(text);
+}
+
+async function sendChatMessage() {
+  const text = els.chatInput.value.trim();
+  if (!text) return;
+  const detectedLanguage = detectChatLanguageFromText(text);
+  if (detectedLanguage && chatLanguages[detectedLanguage] && els.chatLanguageSelect) {
+    els.chatLanguageSelect.value = detectedLanguage;
+    updateChatIntro();
+  }
+  els.chatInput.value = "";
+  appendChat(text, "user");
+  chatHistory.push({ role: "user", content: text });
+  els.chatSendBtn.disabled = true;
+  const thinking = document.createElement("div");
+  thinking.className = "chat-msg ai is-thinking";
+  thinking.textContent = "Nova is thinking...";
+  els.chatMessages.append(thinking);
+  els.chatMessages.scrollTop = els.chatMessages.scrollHeight;
+  try {
+    const reply = await getChatbotReply(text);
+    thinking.remove();
+    appendChat(reply, "ai", { speak: true });
+    chatHistory.push({ role: "assistant", content: reply });
+    while (chatHistory.length > 10) chatHistory.shift();
+  } catch (error) {
+    thinking.remove();
+    const reply = offlineChatReply(text);
+    appendChat(reply, "ai", { speak: true });
+    chatHistory.push({ role: "assistant", content: reply });
+  } finally {
+    els.chatSendBtn.disabled = false;
+  }
+}
+
+els.chatSendBtn.addEventListener("click", sendChatMessage);
+els.chatInput.addEventListener("keydown", (event) => {
+  if (event.key === "Enter") sendChatMessage();
+});
+
+function formatFileSize(bytes) {
+  if (!Number.isFinite(bytes)) return "unknown size";
+  if (bytes < 1024) return `${bytes} B`;
+  if (bytes < 1024 * 1024) return `${(bytes / 1024).toFixed(1)} KB`;
+  return `${(bytes / 1024 / 1024).toFixed(1)} MB`;
+}
+
+function getMediaMetadata(file, kind) {
+  return new Promise((resolve) => {
+    const url = URL.createObjectURL(file);
+    const done = (extra = "") => {
+      URL.revokeObjectURL(url);
+      resolve(extra);
+    };
+    if (kind === "image") {
+      const image = new Image();
+      image.onload = () => done(` Dimensions: ${image.naturalWidth}x${image.naturalHeight}.`);
+      image.onerror = () => done("");
+      image.src = url;
+      return;
+    }
+    const media = document.createElement(kind === "video" ? "video" : "audio");
+    media.preload = "metadata";
+    media.onloadedmetadata = () => {
+      const duration = Number.isFinite(media.duration) ? ` Duration: ${media.duration.toFixed(1)} seconds.` : "";
+      done(duration);
+    };
+    media.onerror = () => done("");
+    media.src = url;
+  });
+}
+
+async function handleChatFile(file, kind) {
+  if (!file) return;
+  const label = kind === "image" ? "image" : kind === "video" ? "screen/video recording" : "voice/audio recording";
+  appendChat(`[Uploaded ${label}: ${file.name}]`, "user");
+  const extra = await getMediaMetadata(file, kind);
+  const basic = `Local file read: ${file.name}. Type: ${file.type || "unknown"}. Size: ${formatFileSize(file.size)}.${extra}`;
+  appendChat(`${basic} ${offlineChatReply("uploaded image video voice media")}`, "ai", { speak: true });
+}
+
+els.uploadScreenshotBtn.addEventListener("click", () => els.chatImageInput?.click());
+els.uploadVideoBtn.addEventListener("click", () => els.chatVideoInput?.click());
+els.uploadVoiceBtn.addEventListener("click", () => els.chatAudioInput?.click());
+els.uploadTranscribeBtn.addEventListener("click", () => els.chatAudioInput?.click());
+els.chatImageInput?.addEventListener("change", (event) => {
+  handleChatFile(event.target.files?.[0], "image");
+  event.target.value = "";
+});
+els.chatVideoInput?.addEventListener("change", (event) => {
+  handleChatFile(event.target.files?.[0], "video");
+  event.target.value = "";
+});
+els.chatAudioInput?.addEventListener("change", (event) => {
+  handleChatFile(event.target.files?.[0], "audio");
+  event.target.value = "";
+});
+
+// --- SPOTIFY MUSIC PLAYER ---
+const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+let currentOsc = null;
+let noteInterval = null;
+const songs = [
+  { id: 1, title: "Morning Walk", album: "Language Learners Vol. 1", duration: "1:20", notes: [261.63, 293.66, 329.63, 349.23], price: 0 },
+  { id: 2, title: "City Lights", album: "Language Learners Vol. 1", duration: "2:05", notes: [440.00, 493.88, 523.25, 587.33], price: 50 },
+  { id: 3, title: "History's Echo", album: "Classics", duration: "3:10", notes: [220.00, 246.94, 261.63, 329.63], price: 150 },
+  { id: 4, title: "Road to Winter", album: "Seasons", duration: "4:00", notes: [392.00, 349.23, 329.63, 261.63], price: 300 },
+  { id: 5, title: "Polyglot Anthem", album: "Language Learners Vol. 2", duration: "5:30", notes: [523.25, 587.33, 659.25, 698.46], price: 1000 }
+];
+let activeSongIndex = 0;
+
+function renderSpotifyPlaylist() {
+  els.spotifyPlaylist.replaceChildren(...songs.map((song, i) => {
+    const isUnlocked = song.price === 0 || appState.unlockedSongs.includes(song.id);
+    const tr = document.createElement("tr");
+    
+    let actionHtml = isUnlocked 
+      ? `<button class="player-btn play-row-btn" data-index="${i}">▶️</button>` 
+      : `<button class="spotify-unlock-btn" data-index="${i}">Unlock (${song.price} 🪙)</button>`;
+      
+    tr.innerHTML = `
+      <td>${i + 1}</td>
+      <td><strong>${song.title}</strong><br><small>${song.album}</small></td>
+      <td>${isUnlocked ? 'Unlocked' : 'Locked'}</td>
+      <td>${song.duration}</td>
+      <td>${actionHtml}</td>
+    `;
+    
+    const actionBtn = tr.querySelector("button");
+    actionBtn.addEventListener("click", () => {
+       if (isUnlocked) {
+         activeSongIndex = i;
+         updatePlayerUI();
+         if (!appState.isPlaying) togglePlay();
+       } else {
+         if (appState.coins >= song.price) {
+           updateCoins(-song.price);
+           appState.unlockedSongs.push(song.id);
+           localStorage.setItem('nova_unlocked_songs', JSON.stringify(appState.unlockedSongs));
+           renderSpotifyPlaylist();
+         } else {
+           alert("Not enough coins!");
+         }
+       }
+    });
+    return tr;
+  }));
+}
+
+function playSynthSong(song) {
+  if (currentOsc) {
+    currentOsc.stop();
+    clearInterval(noteInterval);
+  }
+  let step = 0;
+  noteInterval = setInterval(() => {
+    const osc = audioCtx.createOscillator();
+    const gain = audioCtx.createGain();
+    osc.type = "sine";
+    osc.frequency.setValueAtTime(song.notes[step % song.notes.length], audioCtx.currentTime);
+    gain.gain.setValueAtTime(0.1, audioCtx.currentTime);
+    gain.gain.exponentialRampToValueAtTime(0.001, audioCtx.currentTime + 0.5);
+    osc.connect(gain);
+    gain.connect(audioCtx.destination);
+    osc.start();
+    osc.stop(audioCtx.currentTime + 0.5);
+    step++;
+  }, 500);
+  currentOsc = { stop: () => clearInterval(noteInterval) };
+}
+
+function updatePlayerUI() {
+  const song = songs[activeSongIndex];
+  els.currentSongTitle.textContent = song.title;
+  
+  if (appState.isPlaying) {
+     if (currentOsc) currentOsc.stop();
+     playSynthSong(song);
+  }
+}
+
+function togglePlay() {
+  if (appState.isPlaying) {
+    if (currentOsc) currentOsc.stop();
+    appState.isPlaying = false;
+    els.playSongBtn.textContent = "▶️";
+    els.songStatus.textContent = "Paused";
+  } else {
+    if (audioCtx.state === 'suspended') audioCtx.resume();
+    appState.isPlaying = true;
+    els.playSongBtn.textContent = "⏸";
+    els.songStatus.textContent = "Playing";
+    updatePlayerUI();
+  }
+}
+
+els.playSongBtn.addEventListener("click", togglePlay);
+els.nextSongBtn.addEventListener("click", () => {
+  activeSongIndex = (activeSongIndex + 1) % songs.length;
+  updatePlayerUI();
+});
+els.prevSongBtn.addEventListener("click", () => {
+  activeSongIndex = (activeSongIndex - 1 + songs.length) % songs.length;
+  updatePlayerUI();
+});
+// --- PROFILE & CHARACTER LAB ---
+const inappropriateWords = [
+  "bad", "rude", "mean", "hate", "violent", "sexual", "kill", "drug", "spam", "scam",
+  "admin", "moderator", "support", "official", "fuck", "shit", "bitch", "asshole",
+  "nazi", "terror", "abuse", "predator"
+];
+const usernameCooldownMs = 7 * 24 * 60 * 60 * 1000;
+const socialSearchState = { followers: "", following: "", friends: "" };
+let activeSocialPerson = null;
+const defaultSocial = {
+  followers: ["Mila Petrova", "Alexei Romanov", "Sofia Ivanova", "Nadia Volkova", "Dima Sokolov", "Irina Orlova", "Pavel Morozov", "Lena Smirnova"],
+  following: ["Russian Daily", "Moscow Reader", "Grammar Coach", "Speak Slow Club", "Cafe Phrases", "Story Lab"],
+  friends: ["Mila Petrova", "Dima Sokolov", "Lena Smirnova", "Oleg Kuznetsov"]
+};
+function mergeSocialPeople(saved = [], defaults = []) {
+  return Array.from(new Set([...(Array.isArray(saved) ? saved : []), ...defaults]));
+}
+const mascotOptions = [
+  "🦊", "🐉", "🐼", "🐯", "🐰", "🐻", "🐺", "🦅",
+  "🐸", "🦭", "🦁", "🐒", "🐘", "🐙", "🐧", "🦄",
+  "🐢", "🦋", "🐍", "🐴", "🦌", "🦇", "🐳", "🦍",
+  "🦏", "🦛", "🐊", "🦈", "🐪", "🦒", "🦘", "🦡"
+];
+const tierConfig = {
+  standard: { label: "Standard", weight: 80, items: ["Phrase Card", "Metro Token", "Notebook", "Tea Cup", "Street Map", "Bread Stamp"], color: "#64748b" },
+  rare: { label: "Rare", weight: 16, items: ["Silver Dictionary", "Blue Scarf", "Museum Pass", "Grammar Badge"], color: "#2563eb" },
+  legendary: { label: "Legendary", weight: 4, items: ["Golden Samovar", "Winter Coat", "Master Reader Badge"], color: "#a855f7" },
+  god: { label: "God", weight: 1, items: ["Aurora Crown", "Language Oracle"], color: "#f59e0b" }
+};
+let character3d = null;
+
+function checkInappropriate(text) {
+  const normalized = text.toLowerCase()
+    .replace(/[@$!0]/g, (char) => ({ "@": "a", "$": "s", "!": "i", "0": "o" }[char] || char))
+    .replace(/[^a-zа-яё0-9]+/gi, "");
+  return inappropriateWords.some(word => normalized.includes(word));
+}
+
+function normalizeProfile(profile = {}) {
+  return {
+    displayName: profile.displayName || "Connor",
+    username: profile.username || "connor_ll",
+    bio: profile.bio || "Learning Russian!",
+    xp: Number(profile.xp || 0),
+    lastUsernameChange: Number(profile.lastUsernameChange || 0),
+    social: {
+      followers: mergeSocialPeople(profile.social?.followers, defaultSocial.followers),
+      following: mergeSocialPeople(profile.social?.following, defaultSocial.following),
+      friends: mergeSocialPeople(profile.social?.friends, defaultSocial.friends)
+    },
+    customization: {
+      mascot: profile.customization?.mascot || "Fox",
+      hair: profile.customization?.hair || "short",
+      eyeShape: profile.customization?.eyeShape || "round",
+      nose: profile.customization?.nose || "soft",
+      mouth: profile.customization?.mouth || "smile",
+      arms: profile.customization?.arms || "relaxed",
+      legs: profile.customization?.legs || "straight",
+      shirt: profile.customization?.shirt || profile.customization?.outfit || "tee",
+      pants: profile.customization?.pants || "slim",
+      shoes: profile.customization?.shoes || "trainers",
+      hairColor: profile.customization?.hairColor || "#2f241f",
+      eyeColor: profile.customization?.eyeColor || profile.customization?.eyes || "#2b6cb0",
+      faceColor: profile.customization?.faceColor || "#ed8936",
+      shirtColor: profile.customization?.shirtColor || "#3182ce",
+      pantsColor: profile.customization?.pantsColor || "#1f2937",
+      shoesColor: profile.customization?.shoesColor || "#111827"
+    },
+    collection: Array.isArray(profile.collection) ? profile.collection.slice(0, 16) : []
+  };
+}
+
+function renderProfile() {
+  const p = appState.profile;
+  els.profileDisplayName.textContent = p.displayName;
+  if (els.profileDisplayNameSummary) els.profileDisplayNameSummary.textContent = p.displayName;
+  els.profileUsername.textContent = `@${p.username}`;
+  if (els.profileUsernameSummary) els.profileUsernameSummary.textContent = `@${p.username}`;
+  els.profileBioText.textContent = p.bio || "No bio yet.";
+  
+  if (els.profilePageAvatar && els.profileAvatar) els.profilePageAvatar.src = els.profileAvatar.src;
+  
+  const accentColor = p.customization?.avatarColor || "#f59e0b";
+  document.documentElement.style.setProperty("--avatar-accent", accentColor);
+  const avatarWrappers = document.querySelectorAll('.circular-avatar-wrapper');
+  avatarWrappers.forEach(w => w.style.setProperty('--avatar-accent', accentColor));
+  
+  renderSocialList("friends");
+  renderSocialList("followers");
+  renderSocialList("following");
+  els.followersCount.textContent = p.social.followers.length.toLocaleString();
+  els.followingCount.textContent = p.social.following.length.toLocaleString();
+  els.friendsCount.textContent = p.social.friends.length.toLocaleString();
+  els.editDisplayName.value = p.displayName || "";
+  els.editUsername.value = p.username || "";
+  els.editBio.value = p.bio || "";
+  updateBioCount();
+  renderUsernameRule();
+  renderMascotGrid();
+  
+  if (els.hairSelect) els.hairSelect.value = p.customization.hair;
+  if (els.eyeShapeSelect) els.eyeShapeSelect.value = p.customization.eyeShape;
+  if (els.noseSelect) els.noseSelect.value = p.customization.nose;
+  if (els.mouthSelect) els.mouthSelect.value = p.customization.mouth;
+  if (els.armSelect) els.armSelect.value = p.customization.arms;
+  if (els.legSelect) els.legSelect.value = p.customization.legs;
+  if (els.shirtSelect) els.shirtSelect.value = p.customization.shirt;
+  if (els.pantsSelect) els.pantsSelect.value = p.customization.pants;
+  if (els.shoesSelect) els.shoesSelect.value = p.customization.shoes;
+  if (els.hairColor) els.hairColor.value = p.customization.hairColor;
+  if (els.eyeColor) els.eyeColor.value = p.customization.eyeColor;
+  if (els.faceColor) els.faceColor.value = p.customization.faceColor;
+  if (els.shirtColor) els.shirtColor.value = p.customization.shirtColor;
+  if (els.pantsColor) els.pantsColor.value = p.customization.pantsColor;
+  if (els.shoesColor) els.shoesColor.value = p.customization.shoesColor;
+  
+  initCharacter3d();
+  updateCharacterVisuals();
+  renderCollection();
+  renderLevelBar();
+  renderAchievements();
+}
+
+function renderSocialList(type) {
+  const listMap = { followers: els.followersList, following: els.followingList, friends: els.friendsList };
+  const people = appState.profile.social[type] || [];
+  const query = socialSearchState[type] || "";
+  const listEl = listMap[type];
+  const filtered = people.filter((name) => name.toLowerCase().includes(query.toLowerCase()));
+  listEl.replaceChildren(...filtered.map((name) => {
+    const li = document.createElement("li");
+    const initials = name.split(" ").map(part => part[0]).join("").slice(0, 2);
+    li.dataset.person = name;
+    li.dataset.socialType = type;
+    li.innerHTML = `
+      <button class="social-person-btn" type="button">
+        <span>${initials}</span>
+        <strong>${name}</strong>
+      </button>
+    `;
+    return li;
+  }));
+  if (!filtered.length) {
+    const li = document.createElement("li");
+    li.className = "social-empty";
+    li.textContent = "No matches";
+    listEl.append(li);
+  }
+}
+
+function toggleSocialDropdown(type) {
+  const group = document.querySelector(`[data-social-group="${type}"]`);
+  const dropdown = group?.querySelector(".social-dropdown");
+  if (!dropdown) return;
+  const opening = dropdown.hidden;
+  document.querySelectorAll(".social-group").forEach((item) => {
+    if (item !== group) {
+      item.classList.remove("is-open");
+      const otherDropdown = item.querySelector(".social-dropdown");
+      if (otherDropdown) otherDropdown.hidden = true;
+    }
+  });
+  if (opening) {
+    socialSearchState[type] = "";
+    const input = dropdown.querySelector("input");
+    if (input) input.value = "";
+    renderSocialList(type);
+  }
+  dropdown.hidden = !opening;
+  group.classList.toggle("is-open", opening);
+  if (opening) dropdown.querySelector("input")?.focus();
+}
+
+function hashString(value) {
+  return Array.from(String(value)).reduce((hash, char) => ((hash << 5) - hash + char.charCodeAt(0)) | 0, 0);
+}
+
+function profileHandleFromName(name) {
+  return name.toLowerCase().replace(/[^a-z0-9]+/g, "_").replace(/^_|_$/g, "");
+}
+
+function createPublicProfile(name) {
+  const hash = Math.abs(hashString(name));
+  const language = languageDatasets[appState.targetLanguage]?.label || "Russian";
+  const colors = ["#0f766e", "#2563eb", "#a855f7", "#d97706", "#dc2626", "#0891b2", "#16a34a", "#9333ea"];
+  const level = hash % 18;
+  const xp = (hash % 9000) + level * 1000;
+  const collectionItems = Array.from({ length: 16 }, (_, index) => {
+    const tiers = ["standard", "standard", "standard", "rare", "legendary", "god"];
+    return index < 8 + (hash % 6)
+      ? { tier: tiers[(hash + index) % tiers.length], name: tierConfig[tiers[(hash + index) % tiers.length]].items[(hash + index) % tierConfig[tiers[(hash + index) % tiers.length]].items.length] }
+      : null;
+  });
+  return {
+    name,
+    handle: profileHandleFromName(name),
+    bio: `${name} is practicing ${language} reading, listening, and vocabulary. Current focus: stories, pronunciation, and learned words.`,
+    followers: 20 + (hash % 980),
+    following: 8 + (hash % 160),
+    friends: 3 + (hash % 60),
+    level,
+    xp,
+    color: colors[hash % colors.length],
+    achievements: [
+      `First ${language} Page`,
+      `${language} Story Reader`,
+      `${language} Listener`,
+      `100 ${language} Words`
+    ],
+    collectionItems
+  };
+}
+
+function renderPublicProfileCollection(items) {
+  if (!els.publicCollectionGrid) return;
+  els.publicCollectionGrid.replaceChildren(...items.map((item, index) => {
+    const cell = document.createElement("div");
+    cell.className = `collection-cell ${item ? item.tier : "empty"}`;
+    cell.innerHTML = item
+      ? `<span>${item.tier}</span><strong>${item.name}</strong><small>#${index + 1}</small>`
+      : `<span>empty</span><strong>Slot ${index + 1}</strong>`;
+    return cell;
+  }));
+}
+
+function openPersonProfile(name) {
+  const profile = createPublicProfile(name);
+  els.publicProfileName.textContent = profile.name;
+  els.publicProfileAvatar.textContent = profile.name.split(" ").map(part => part[0]).join("").slice(0, 2);
+  els.publicProfileAvatar.style.setProperty("--public-profile-color", profile.color);
+  els.publicProfileHandle.textContent = `@${profile.handle}`;
+  els.publicProfileBio.textContent = profile.bio;
+  els.publicFollowersCount.textContent = profile.followers.toLocaleString();
+  els.publicFollowingCount.textContent = profile.following.toLocaleString();
+  els.publicFriendsCount.textContent = profile.friends.toLocaleString();
+  els.publicAchievementsList.replaceChildren(...profile.achievements.map((title, index) => {
+    const item = document.createElement("div");
+    item.className = "achievement-item";
+    item.innerHTML = `<div class="achievement-icon">${["📖", "🖼", "🎧", "🏅"][index] || "⭐"}</div><div><h4>${title}</h4><p>Public progress badge</p></div>`;
+    return item;
+  }));
+  renderPublicProfileCollection(profile.collectionItems);
+  const progress = getLevelInfo(profile.xp);
+  els.publicLevelLabel.textContent = `Level ${progress.level}`;
+  els.publicLevelProgressFill.style.width = `${Math.min(100, Math.round((progress.progress / progress.needed) * 100))}%`;
+  els.publicLevelProgressText.textContent = `${progress.progress.toLocaleString()} / ${progress.needed.toLocaleString()} XP to Level ${progress.level + 1}`;
+  const pending = appState.outboundMessages[name] || 0;
+  els.publicProfileStatus.textContent = pending ? `${pending}/3 messages waiting for a reply.` : "No pending messages.";
+  els.publicProfileModal.hidden = false;
+}
+
+function addFriend(name) {
+  if (!appState.profile.social.friends.includes(name)) {
+    appState.profile.social.friends.push(name);
+    saveProfile();
+    renderProfile();
+  }
+  els.publicProfileStatus.textContent = `${name} is now in your friends list.`;
+}
+
+function sendMessageToPerson(name) {
+  const pending = appState.outboundMessages[name] || 0;
+  if (pending >= 3) {
+    els.publicProfileStatus.textContent = "Message limit reached. Wait for a reply before sending more.";
+    return;
+  }
+  const message = window.prompt(`Message ${name}`);
+  if (!message) return;
+  appState.outboundMessages[name] = pending + 1;
+  localStorage.setItem("nova_outbound_messages", JSON.stringify(appState.outboundMessages));
+  els.publicProfileStatus.textContent = `Message sent. ${appState.outboundMessages[name]}/3 waiting for a reply.`;
+}
+
+function showSocialContextMenu(event, name, type) {
+  event.preventDefault();
+  activeSocialPerson = { name, type };
+  els.socialContextMenu.style.left = `${Math.min(event.clientX, window.innerWidth - 180)}px`;
+  els.socialContextMenu.style.top = `${Math.min(event.clientY, window.innerHeight - 150)}px`;
+  els.socialContextMenu.hidden = false;
+}
+
+function handleSocialAction(action) {
+  if (!activeSocialPerson) return;
+  const { name } = activeSocialPerson;
+  els.socialContextMenu.hidden = true;
+  if (action === "visit") openPersonProfile(name);
+  if (action === "friend") {
+    openPersonProfile(name);
+    addFriend(name);
+  }
+  if (action === "message") {
+    openPersonProfile(name);
+    sendMessageToPerson(name);
+  }
+}
+
+function renderMascotGrid() {
+  if (!els.mascotGrid) return;
+  const selected = appState.profile.customization.mascot;
+  els.mascotGrid.replaceChildren(...mascotOptions.map((name, index) => {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = `mascot-option${name === selected ? " is-selected" : ""}`;
+    button.dataset.mascot = name;
+    button.innerHTML = `<span style="font-size: 2rem; line-height: 1;">${name}</span>`;
+    return button;
+  }));
+}
+
+function getLevelInfo(xp) {
+  let level = 0;
+  let spent = 0;
+  while (xp >= spent + (level + 1) * 1000) {
+    spent += (level + 1) * 1000;
+    level++;
+  }
+  const needed = (level + 1) * 1000;
+  const progress = xp - spent;
+  return { level, progress, needed };
+}
+
+function renderLevelBar() {
+  if (!els.levelLabel || !els.levelProgressFill || !els.levelProgressText) return;
+  const info = getLevelInfo(appState.profile.xp || 0);
+  els.levelLabel.textContent = `Level ${info.level}`;
+  els.levelProgressFill.style.width = `${Math.min(100, Math.round((info.progress / info.needed) * 100))}%`;
+  els.levelProgressText.textContent = `${info.progress.toLocaleString()} / ${info.needed.toLocaleString()} XP to Level ${info.level + 1}`;
+}
+
+function addXp(amount) {
+  appState.profile.xp = Number(appState.profile.xp || 0) + amount;
+  saveProfile();
+  renderLevelBar();
+}
+
+function setCharacterInteraction(mode) {
+  if (!character3d) return;
+  character3d.interaction = mode;
+  drawCharacterFallback();
+}
+
+function updateBioCount() {
+  els.bioCount.textContent = String(els.editBio.value.length);
+}
+
+function renderUsernameRule() {
+  const last = Number(appState.profile.lastUsernameChange || 0);
+  const remaining = usernameCooldownMs - (Date.now() - last);
+  if (last && remaining > 0) {
+    const days = Math.ceil(remaining / (24 * 60 * 60 * 1000));
+    els.usernameRuleText.textContent = `Username changes are locked for ${days} more day${days === 1 ? "" : "s"}.`;
+  } else {
+    els.usernameRuleText.textContent = "Up to 64 characters. Can be changed once per week.";
+  }
+}
+
+function canChangeUsername(nextUsername) {
+  const current = appState.profile.username || "";
+  if (nextUsername === current) return true;
+  const last = Number(appState.profile.lastUsernameChange || 0);
+  return !last || Date.now() - last >= usernameCooldownMs;
+}
+
+function initCharacter3d() {
+  if (character3d || !els.characterCanvas) return;
+  initCharacterCanvasFallback();
+  return;
+  if (!window.THREE) {
+    initCharacterCanvasFallback();
+    return;
+  }
+  const scene = new THREE.Scene();
+  const camera = new THREE.PerspectiveCamera(35, 1, 0.1, 100);
+  const renderer = new THREE.WebGLRenderer({ canvas: els.characterCanvas, antialias: true, alpha: true });
+  renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+  renderer.setSize(420, 520, false);
+  camera.position.set(0, 1.55, 6);
+  scene.add(new THREE.HemisphereLight(0xffffff, 0x94a3b8, 1.8));
+  const key = new THREE.DirectionalLight(0xffffff, 1.6);
+  key.position.set(3, 4, 5);
+  scene.add(key);
+  const group = new THREE.Group();
+  scene.add(group);
+  const bodyGeometry = THREE.CapsuleGeometry
+    ? new THREE.CapsuleGeometry(0.62, 1.2, 8, 24)
+    : new THREE.CylinderGeometry(0.48, 0.62, 1.55, 32);
+  const body = new THREE.Mesh(bodyGeometry, new THREE.MeshStandardMaterial());
+  body.position.y = 0.8;
+  const head = new THREE.Mesh(new THREE.SphereGeometry(0.48, 32, 32), new THREE.MeshStandardMaterial());
+  head.position.y = 1.82;
+  const hair = new THREE.Mesh(new THREE.SphereGeometry(0.51, 32, 16, 0, Math.PI * 2, 0, Math.PI / 2), new THREE.MeshStandardMaterial({ color: 0x2f241f }));
+  hair.position.y = 2.08;
+  hair.scale.set(1, 0.75, 1);
+  const leftEye = new THREE.Mesh(new THREE.SphereGeometry(0.045, 16, 16), new THREE.MeshStandardMaterial());
+  leftEye.position.set(-0.16, 1.88, 0.43);
+  const rightEye = leftEye.clone();
+  rightEye.position.x = 0.16;
+  const outfit = new THREE.Mesh(new THREE.CylinderGeometry(0.72, 0.52, 0.95, 32), new THREE.MeshStandardMaterial());
+  outfit.position.y = 0.38;
+  const legs = new THREE.Mesh(new THREE.CylinderGeometry(0.42, 0.34, 0.9, 28), new THREE.MeshStandardMaterial({ color: 0x1f2937 }));
+  legs.position.y = -0.48;
+  group.add(legs, body, outfit, head, hair, leftEye, rightEye);
+  character3d = { scene, camera, renderer, group, body, head, hair, leftEye, rightEye, outfit, legs };
+  animateCharacter3d();
+}
+
+function animateCharacter3d() {
+  if (!character3d) return;
+  if (character3d.fallback) {
+    drawCharacterFallback();
+    return;
+  }
+  character3d.renderer.render(character3d.scene, character3d.camera);
+}
+
+function updateCharacterVisuals() {
+  if (!character3d) return;
+  const c = appState.profile.customization;
+  if (character3d.fallback) {
+    character3d.faceColor = c.faceColor;
+    character3d.eyeColor = c.eyeColor;
+    character3d.hairColor = c.hairColor;
+    character3d.shirtColor = c.shirtColor;
+    character3d.pantsColor = c.pantsColor;
+    character3d.shoesColor = c.shoesColor;
+    character3d.hair = c.hair;
+    character3d.eyeShape = c.eyeShape;
+    character3d.nose = c.nose;
+    character3d.mouth = c.mouth;
+    character3d.arms = c.arms;
+    character3d.legs = c.legs;
+    character3d.shirt = c.shirt;
+    character3d.pants = c.pants;
+    character3d.shoes = c.shoes;
+    character3d.mascot = c.mascot;
+    drawCharacterFallback();
+    return;
+  }
+  character3d.head.material.color.set(c.faceColor);
+  character3d.body.material.color.set(c.faceColor);
+  character3d.leftEye.material.color.set(c.eyeColor);
+  character3d.rightEye.material.color.set(c.eyeColor);
+  character3d.outfit.material.color.set(c.shirtColor);
+  character3d.hair.visible = c.hair !== "none";
+  const hairScale = { short: [1, 0.55, 1], long: [1.08, 1.15, 1.08], spiky: [0.9, 0.95, 0.9] }[c.hair] || [1, 0.55, 1];
+  character3d.hair.scale.set(...hairScale);
+}
+
+function initCharacterCanvasFallback() {
+  const ctx = els.characterCanvas.getContext("2d");
+  if (!ctx) {
+    els.characterFallback.hidden = false;
+    return;
+  }
+  els.characterFallback.hidden = true;
+  character3d = {
+    fallback: true,
+    ctx,
+    angle: 0,
+    faceColor: "#ed8936",
+    eyeColor: "#2b6cb0",
+    hairColor: "#2f241f",
+    shirtColor: "#3182ce",
+    pantsColor: "#1f2937",
+    shoesColor: "#111827",
+    mascot: "Fox",
+    interaction: "idle",
+    hair: "short",
+    eyeShape: "round",
+    nose: "soft",
+    mouth: "smile",
+    arms: "relaxed",
+    legs: "straight",
+    shirt: "tee",
+    pants: "slim",
+    shoes: "trainers"
+  };
+  drawCharacterFallback();
+}
+
+function drawCharacterFallback() {
+  const { ctx } = character3d;
+  const canvas = els.characterCanvas;
+  const width = canvas.clientWidth || 420;
+  const height = canvas.clientHeight || 520;
+  const ratio = Math.min(Math.max(window.devicePixelRatio || 1, 2), 3);
+  if (canvas.width !== Math.floor(width * ratio) || canvas.height !== Math.floor(height * ratio)) {
+    canvas.width = Math.floor(width * ratio);
+    canvas.height = Math.floor(height * ratio);
+  }
+  ctx.setTransform(ratio, 0, 0, ratio, 0, 0);
+  ctx.clearRect(0, 0, width, height);
+  ctx.lineCap = "round";
+  ctx.lineJoin = "round";
+  const turn = 0;
+  const centerX = width / 2;
+  const groundY = height * 0.9;
+  const scale = Math.min(width / 420, height / 520);
+  const shadowW = 142 * scale;
+
+  ctx.save();
+  ctx.translate(centerX, groundY);
+  ctx.scale(1, 1);
+  const shadowGradient = ctx.createRadialGradient(0, 0, 8, 0, 0, shadowW);
+  shadowGradient.addColorStop(0, "rgba(15, 23, 42, 0.24)");
+  shadowGradient.addColorStop(1, "rgba(15, 23, 42, 0)");
+  ctx.fillStyle = shadowGradient;
+  ctx.beginPath();
+  ctx.ellipse(0, 0, shadowW * 0.64, 18 * scale, 0, 0, Math.PI * 2);
+  ctx.fill();
+  ctx.restore();
+
+  const shoulderY = groundY - 174 * scale;
+  const isPointing = character3d.interaction === "pointing";
+  const isTyping = character3d.interaction === "typing";
+  const isCelebrating = character3d.interaction === "celebrating";
+  const legSpread = (character3d.legs === "wide" ? 48 : character3d.legs === "athletic" ? 40 : 34) * scale;
+  const legWidth = (character3d.legs === "wide" ? 28 : 24) * scale;
+  const armSpread = (character3d.arms === "athletic" ? 76 : character3d.arms === "waving" ? 70 : 64) * scale;
+  const rightArmTilt = isPointing ? -1.22 : isCelebrating ? 1.02 : isTyping ? -0.62 : character3d.arms === "waving" ? -0.95 : 0.16;
+  const leftArmTilt = isCelebrating ? -1.02 : isTyping ? 0.62 : character3d.arms === "athletic" ? -0.36 : -0.16;
+
+  drawArm(ctx, centerX - armSpread, shoulderY + 18 * scale, 24 * scale, isCelebrating ? 102 * scale : 118 * scale, character3d.shirtColor, character3d.faceColor, leftArmTilt);
+  drawArm(ctx, centerX + armSpread, shoulderY + 18 * scale, 24 * scale, isPointing ? 138 * scale : isCelebrating ? 102 * scale : 118 * scale, character3d.shirtColor, character3d.faceColor, rightArmTilt, isPointing);
+  drawLimb(ctx, centerX - legSpread, groundY - 116 * scale, legWidth, 116 * scale, character3d.pantsColor, 11 * scale);
+  drawLimb(ctx, centerX + legSpread, groundY - 116 * scale, legWidth, 116 * scale, character3d.pantsColor, 11 * scale);
+  drawShoe(ctx, centerX - legSpread, groundY - 22 * scale, character3d.shoesColor, character3d.shoes, scale);
+  drawShoe(ctx, centerX + legSpread, groundY - 22 * scale, character3d.shoesColor, character3d.shoes, scale);
+  drawJerseyBody(ctx, centerX, groundY - 220 * scale, 128 * scale, 172 * scale, character3d.shirtColor, character3d.pantsColor);
+  drawNeck(ctx, centerX, groundY - 248 * scale, character3d.faceColor, scale);
+  drawEar(ctx, centerX - 58 * scale, groundY - 294 * scale, character3d.faceColor, scale);
+  drawEar(ctx, centerX + 58 * scale, groundY - 294 * scale, character3d.faceColor, scale);
+  drawHead(ctx, centerX, groundY - 316 * scale, 108 * scale, 122 * scale, character3d.faceColor);
+  drawFallbackHair(ctx, centerX, groundY - 386 * scale, character3d.hair, scale);
+
+  const eyeOffset = 19 * scale;
+  drawEye(ctx, centerX - eyeOffset, groundY - 326 * scale, character3d.eyeColor, character3d.eyeShape, scale);
+  drawEye(ctx, centerX + eyeOffset, groundY - 326 * scale, character3d.eyeColor, character3d.eyeShape, scale);
+  drawNose(ctx, centerX, groundY - 304 * scale, character3d.nose, scale);
+  drawMouth(ctx, centerX, groundY - 276 * scale, isCelebrating ? "wide" : character3d.mouth, scale);
+  ctx.fillStyle = "rgba(15, 23, 42, 0.68)";
+  ctx.font = `${Math.max(12, 14 * scale)}px Outfit, sans-serif`;
+  ctx.textAlign = "center";
+  ctx.fillText(character3d.mascot || "Mascot", centerX, groundY - 156 * scale);
+}
+
+function drawHead(ctx, x, y, width, height, color) {
+  const gradient = ctx.createLinearGradient(x - width / 2, y - height / 2, x + width / 2, y + height / 2);
+  gradient.addColorStop(0, "#ffd3a8");
+  gradient.addColorStop(0.18, color);
+  gradient.addColorStop(1, "#7c3f1d");
+  ctx.fillStyle = gradient;
+  ctx.beginPath();
+  ctx.roundRect(x - width / 2, y - height / 2, width, height, width * 0.34);
+  ctx.fill();
+  ctx.fillStyle = "rgba(255, 255, 255, 0.16)";
+  ctx.beginPath();
+  ctx.ellipse(x - width * 0.2, y - height * 0.08, width * 0.16, height * 0.34, 0.14, 0, Math.PI * 2);
+  ctx.fill();
+  ctx.strokeStyle = "rgba(15, 23, 42, 0.08)";
+  ctx.lineWidth = Math.max(1, width * 0.02);
+  ctx.stroke();
+}
+
+function drawJerseyBody(ctx, x, y, width, height, shirtColor, pantsColor) {
+  const jersey = ctx.createLinearGradient(x - width / 2, y, x + width / 2, y + height);
+  jersey.addColorStop(0, shirtColor);
+  jersey.addColorStop(0.64, shirtColor);
+  jersey.addColorStop(1, "#12315d");
+  ctx.fillStyle = jersey;
+  ctx.beginPath();
+  ctx.roundRect(x - width / 2, y, width, height, width * 0.22);
+  ctx.fill();
+  ctx.fillStyle = "rgba(255, 255, 255, 0.18)";
+  ctx.beginPath();
+  ctx.moveTo(x - width * 0.28, y + height * 0.05);
+  ctx.lineTo(x + width * 0.05, y + height * 0.05);
+  ctx.quadraticCurveTo(x - width * 0.04, y + height * 0.42, x - width * 0.22, y + height * 0.58);
+  ctx.quadraticCurveTo(x - width * 0.4, y + height * 0.32, x - width * 0.28, y + height * 0.05);
+  ctx.fill();
+  ctx.fillStyle = pantsColor;
+  ctx.beginPath();
+  ctx.roundRect(x - width * 0.42, y + height * 0.78, width * 0.84, height * 0.24, width * 0.1);
+  ctx.fill();
+}
+
+function drawRoundedBody(ctx, x, y, width, height, color) {
+  const gradient = ctx.createLinearGradient(x - width / 2, y, x + width / 2, y + height);
+  gradient.addColorStop(0, color);
+  gradient.addColorStop(1, "#0f172a");
+  ctx.fillStyle = gradient;
+  ctx.beginPath();
+  ctx.roundRect(x - width / 2, y, width, height, width * 0.32);
+  ctx.fill();
+  ctx.fillStyle = "rgba(255, 255, 255, 0.22)";
+  ctx.beginPath();
+  ctx.ellipse(x - width * 0.18, y + height * 0.26, width * 0.18, height * 0.36, -0.2, 0, Math.PI * 2);
+  ctx.fill();
+}
+
+function drawLimb(ctx, x, y, width, height, color, radius = 12) {
+  const gradient = ctx.createLinearGradient(x - width / 2, y, x + width / 2, y + height);
+  gradient.addColorStop(0, color);
+  gradient.addColorStop(1, "#0f172a");
+  ctx.fillStyle = gradient;
+  ctx.beginPath();
+  ctx.roundRect(x - width / 2, y, width, height, radius);
+  ctx.fill();
+}
+
+function drawArm(ctx, x, y, width, height, sleeveColor, skinColor, tilt, pointing = false) {
+  ctx.save();
+  ctx.translate(x, y);
+  ctx.rotate(tilt);
+  drawLimb(ctx, 0, 0, width, height * 0.66, sleeveColor, width * 0.42);
+  drawLimb(ctx, 0, height * 0.58, width * 0.82, height * 0.36, skinColor, width * 0.34);
+  ctx.fillStyle = skinColor;
+  ctx.beginPath();
+  ctx.arc(0, height * 0.94, width * 0.52, 0, Math.PI * 2);
+  ctx.fill();
+  if (pointing) {
+    ctx.strokeStyle = skinColor;
+    ctx.lineWidth = Math.max(3, width * 0.22);
+    ctx.beginPath();
+    ctx.moveTo(width * 0.24, height * 0.9);
+    ctx.lineTo(width * 1.05, height * 0.8);
+    ctx.stroke();
+  }
+  ctx.restore();
+}
+
+function drawNeck(ctx, x, y, color, scale = 1) {
+  ctx.fillStyle = color;
+  ctx.beginPath();
+  ctx.roundRect(x - 18 * scale, y, 36 * scale, 44 * scale, 14 * scale);
+  ctx.fill();
+}
+
+function drawEar(ctx, x, y, color, scale = 1) {
+  ctx.fillStyle = color;
+  ctx.beginPath();
+  ctx.ellipse(x, y, 11 * scale, 17 * scale, 0, 0, Math.PI * 2);
+  ctx.fill();
+  ctx.strokeStyle = "rgba(15, 23, 42, 0.18)";
+  ctx.lineWidth = 2 * scale;
+  ctx.beginPath();
+  ctx.arc(x, y, 5 * scale, -1.2, 1.2);
+  ctx.stroke();
+}
+
+function drawShoe(ctx, x, y, color, shape, scale = 1) {
+  const width = (shape === "boots" ? 48 : shape === "formal" ? 41 : 46) * scale;
+  const height = (shape === "trainers" ? 19 : 16) * scale;
+  ctx.fillStyle = color;
+  ctx.beginPath();
+  ctx.roundRect(x - width / 2, y, width, height, 8 * scale);
+  ctx.fill();
+  ctx.fillStyle = "rgba(255, 255, 255, 0.24)";
+  ctx.fillRect(x - width * 0.3, y + 4 * scale, width * 0.42, 3 * scale);
+  if (shape === "boots") {
+    ctx.fillStyle = "rgba(15, 23, 42, 0.18)";
+    ctx.fillRect(x - width * 0.36, y + height - 4 * scale, width * 0.72, 3 * scale);
+  }
+}
+
+function drawEye(ctx, x, y, color, shape = "round", scale = 1) {
+  const width = (shape === "determined" ? 15 : shape === "anime" ? 20 : 17) * scale;
+  const height = (shape === "happy" ? 5 : shape === "anime" ? 10 : shape === "determined" ? 6 : 7) * scale;
+  if (shape === "happy") {
+    ctx.strokeStyle = "rgba(15, 23, 42, 0.7)";
+    ctx.lineWidth = 3 * scale;
+    ctx.beginPath();
+    ctx.arc(x, y + 4, width / 2, Math.PI + 0.1, Math.PI * 2 - 0.1);
+    ctx.stroke();
+    return;
+  }
+  ctx.fillStyle = "#ffffff";
+  ctx.beginPath();
+  ctx.ellipse(x, y, width / 2, height, 0, 0, Math.PI * 2);
+  ctx.fill();
+  ctx.fillStyle = color;
+  ctx.beginPath();
+  ctx.arc(x, y, (shape === "anime" ? 5.4 : 4) * scale, 0, Math.PI * 2);
+  ctx.fill();
+  if (shape === "anime") {
+    ctx.fillStyle = "rgba(255, 255, 255, 0.92)";
+    ctx.beginPath();
+    ctx.arc(x - 2 * scale, y - 3 * scale, 2.2 * scale, 0, Math.PI * 2);
+    ctx.fill();
+  }
+  if (shape === "determined") {
+    ctx.strokeStyle = "rgba(15, 23, 42, 0.45)";
+    ctx.lineWidth = 2 * scale;
+    ctx.beginPath();
+    ctx.moveTo(x - width / 2, y - height);
+    ctx.lineTo(x + width / 2, y - height - 3);
+    ctx.stroke();
+  }
+}
+
+function drawNose(ctx, x, y, shape, scale = 1) {
+  ctx.strokeStyle = "rgba(15, 23, 42, 0.25)";
+  ctx.lineWidth = 3 * scale;
+  ctx.beginPath();
+  if (shape === "cute") {
+    ctx.arc(x, y + 3 * scale, 5 * scale, 0, Math.PI * 2);
+  } else if (shape === "sharp") {
+    ctx.moveTo(x, y - 10 * scale);
+    ctx.lineTo(x + 8 * scale, y + 8 * scale);
+    ctx.lineTo(x - 2 * scale, y + 10 * scale);
+  } else {
+    ctx.moveTo(x, y - 8 * scale);
+    ctx.quadraticCurveTo(x + (shape === "straight" ? 1 : 6) * scale, y + 2 * scale, x, y + 10 * scale);
+  }
+  ctx.stroke();
+}
+
+function drawMouth(ctx, x, y, shape, scale = 1) {
+  ctx.strokeStyle = "rgba(15, 23, 42, 0.4)";
+  ctx.lineWidth = 3 * scale;
+  ctx.beginPath();
+  if (shape === "neutral") {
+    ctx.moveTo(x - 16 * scale, y);
+    ctx.lineTo(x + 16 * scale, y);
+  } else if (shape === "surprised") {
+    ctx.ellipse(x, y - 3 * scale, 9 * scale, 13 * scale, 0, 0, Math.PI * 2);
+  } else if (shape === "grin") {
+    ctx.roundRect(x - 18 * scale, y - 10 * scale, 36 * scale, 16 * scale, 7 * scale);
+    ctx.stroke();
+    ctx.beginPath();
+    ctx.moveTo(x - 14 * scale, y - 2 * scale);
+    ctx.lineTo(x + 14 * scale, y - 2 * scale);
+  } else {
+    ctx.arc(x, y - (shape === "wide" ? 4 : 6) * scale, (shape === "wide" ? 24 : 16) * scale, 0.18, Math.PI - 0.18);
+  }
+  ctx.stroke();
+}
+
+function drawFallbackHair(ctx, x, y, hair, scale = 1) {
+  if (hair === "none") return;
+  const hairGradient = ctx.createLinearGradient(x - 60 * scale, y - 18 * scale, x + 58 * scale, y + 68 * scale);
+  hairGradient.addColorStop(0, character3d.hairColor);
+  hairGradient.addColorStop(1, "#1f130f");
+  ctx.fillStyle = hairGradient;
+  if (hair === "spiky") {
+    for (let i = -3; i <= 3; i++) {
+      ctx.beginPath();
+      ctx.moveTo(x + i * 14 * scale, y + 28 * scale);
+      ctx.lineTo(x + i * 14 * scale + 8 * scale, y - (16 + Math.abs(i) * 2) * scale);
+      ctx.lineTo(x + i * 14 * scale + 18 * scale, y + 28 * scale);
+      ctx.closePath();
+      ctx.fill();
+    }
+    return;
+  }
+  if (hair === "curly") {
+    for (let i = -3; i <= 3; i++) {
+      ctx.beginPath();
+      ctx.arc(x + i * 14 * scale, y + (28 + (Math.abs(i) % 2) * 4) * scale, 15 * scale, 0, Math.PI * 2);
+      ctx.fill();
+    }
+    return;
+  }
+  if (hair === "sidepart") {
+    ctx.beginPath();
+    ctx.ellipse(x, y + 30 * scale, 52 * scale, 32 * scale, -0.18, Math.PI, Math.PI * 2);
+    ctx.fill();
+    ctx.fillStyle = "rgba(255, 255, 255, 0.16)";
+    ctx.fillRect(x - 8 * scale, y + 4 * scale, 4 * scale, 42 * scale);
+    return;
+  }
+  ctx.beginPath();
+  ctx.ellipse(x, y + 30 * scale, (hair === "long" ? 60 : 54) * scale, (hair === "long" ? 54 : 36) * scale, 0, Math.PI, Math.PI * 2);
+  ctx.fill();
+  for (let i = -3; i <= 3; i++) {
+    ctx.beginPath();
+    ctx.arc(x + i * 16 * scale, y + (34 + Math.abs(i) * 1.5) * scale, 13 * scale, 0, Math.PI * 2);
+    ctx.fill();
+  }
+  if (hair === "long") {
+    ctx.fillRect(x - 54 * scale, y + 30 * scale, 108 * scale, 66 * scale);
+  }
+}
+
+function renderCollection() {
+  const collection = appState.profile.collection;
+  const cells = Array.from({ length: 16 }, (_, index) => {
+    const item = collection[index];
+    const cell = document.createElement("div");
+    cell.className = `collection-cell ${item ? item.tier : "empty"}`;
+    if (item) {
+      cell.innerHTML = `<span>${item.tier}</span><strong>${item.name}</strong><small>#${index + 1}</small>`;
+    } else {
+      cell.innerHTML = `<span>empty</span><strong>Slot ${index + 1}</strong>`;
+    }
+    return cell;
+  });
+  els.collectionGrid.replaceChildren(...cells);
+}
+
+function rollTier() {
+  const entries = Object.entries(tierConfig);
+  const total = entries.reduce((sum, [, config]) => sum + config.weight, 0);
+  let roll = Math.random() * total;
+  for (const [tier, config] of entries) {
+    roll -= config.weight;
+    if (roll <= 0) return tier;
+  }
+  return "standard";
+}
+
+function collectItem() {
+  if (appState.profile.collection.length >= 16) {
+    els.collectionStatus.textContent = "Your 4 x 4 collection grid is full.";
+    return;
+  }
+  const tier = rollTier();
+  const config = tierConfig[tier];
+  const name = seedAt(config.items, Date.now());
+  const item = { tier, name, collectedAt: Date.now() };
+  appState.profile.collection.push(item);
+  saveProfile();
+  renderCollection();
+  els.collectionStatus.textContent = `Collected ${config.label}: ${name}.`;
+}
+
+function clearCollection() {
+  appState.profile.collection = [];
+  saveProfile();
+  renderCollection();
+  els.collectionStatus.textContent = "Collection grid cleared.";
+}
+
+const customizationInputs = [
+  els.hairSelect, els.eyeShapeSelect, els.noseSelect, els.mouthSelect, els.armSelect,
+  els.legSelect, els.shirtSelect, els.pantsSelect, els.shoesSelect, els.hairColor,
+  els.eyeColor, els.faceColor, els.shirtColor, els.pantsColor, els.shoesColor
+];
+
+customizationInputs.forEach(el => {
+  el?.addEventListener("input", () => {
+    appState.profile.customization = {
+      hair: els.hairSelect.value,
+      eyeShape: els.eyeShapeSelect.value,
+      nose: els.noseSelect.value,
+      mouth: els.mouthSelect.value,
+      arms: els.armSelect.value,
+      legs: els.legSelect.value,
+      shirt: els.shirtSelect.value,
+      pants: els.pantsSelect.value,
+      shoes: els.shoesSelect.value,
+      hairColor: els.hairColor.value,
+      eyeColor: els.eyeColor.value,
+      faceColor: els.faceColor.value,
+      shirtColor: els.shirtColor.value,
+      pantsColor: els.pantsColor.value,
+      shoesColor: els.shoesColor.value
+    };
+    updateCharacterVisuals();
+    saveProfile();
+  });
+});
+
+els.editBio.addEventListener("input", updateBioCount);
+els.collectItemBtn.addEventListener("click", collectItem);
+els.clearCollectionBtn.addEventListener("click", clearCollection);
+
+els.saveProfileBtn.addEventListener("click", () => {
+  const dName = els.editDisplayName.value.trim();
+  const uName = els.editUsername.value.trim().replace(/^@/, "");
+  const bio = els.editBio.value.trim();
+  
+  if (checkInappropriate(dName) || checkInappropriate(uName) || checkInappropriate(bio)) {
+    els.profileSaveStatus.textContent = "Inappropriate content detected in display name, username, or bio.";
+    return;
+  }
+  if (!dName || dName.length > 64) {
+    els.profileSaveStatus.textContent = "Display name must be 1-64 characters.";
+    return;
+  }
+  if (!/^[a-zA-Z0-9_.-]{1,64}$/.test(uName)) {
+    els.profileSaveStatus.textContent = "Username must be 1-64 characters and use letters, numbers, dots, underscores, or hyphens.";
+    return;
+  }
+  if (bio.length > 1000) {
+    els.profileSaveStatus.textContent = "Bio must be 1000 characters or fewer.";
+    return;
+  }
+  if (!canChangeUsername(uName)) {
+    renderUsernameRule();
+    els.profileSaveStatus.textContent = "Username can only be changed once per week.";
+    return;
+  }
+  if (uName !== appState.profile.username) appState.profile.lastUsernameChange = Date.now();
+  appState.profile.displayName = dName;
+  appState.profile.username = uName;
+  appState.profile.bio = bio;
+  saveProfile();
+  renderProfile();
+  if (els.profileEditPanel) els.profileEditPanel.hidden = true;
+  if (els.editProfileBtn) els.editProfileBtn.textContent = "Edit";
+  els.profileSaveStatus.textContent = "Profile saved.";
+});
+
+function saveProfile() {
+  localStorage.setItem('nova_profile', JSON.stringify(appState.profile));
+}
+
+// --- COLOR WHEEL ---
+let colorWheelActive = false;
+function initColorWheel() {
+  if (!els.colorWheelCanvas) return;
+  const ctx = els.colorWheelCanvas.getContext('2d');
+  const size = els.colorWheelCanvas.width;
+  const radius = size / 2;
+  
+  // Draw wheel
+  for (let angle = 0; angle < 360; angle++) {
+    const startAngle = (angle - 1) * Math.PI / 180;
+    const endAngle = (angle + 1) * Math.PI / 180;
+    ctx.beginPath();
+    ctx.moveTo(radius, radius);
+    ctx.arc(radius, radius, radius, startAngle, endAngle);
+    ctx.closePath();
+    const gradient = ctx.createRadialGradient(radius, radius, 0, radius, radius, radius);
+    gradient.addColorStop(0, 'white');
+    gradient.addColorStop(1, `hsl(${angle}, 100%, 50%)`);
+    ctx.fillStyle = gradient;
+    ctx.fill();
+  }
+  
+  // Update swatch UI
+  const updateSwatch = (color) => {
+    els.colorWheelSwatch.style.background = color;
+    els.colorWheelHex.textContent = color;
+    appState.profile.customization = appState.profile.customization || {};
+    appState.profile.customization.avatarColor = color;
+  };
+  
+  // Setup interaction
+  const pickColor = (e) => {
+    const rect = els.colorWheelCanvas.getBoundingClientRect();
+    const x = e.clientX - rect.left;
+    const y = e.clientY - rect.top;
+    
+    // Check if inside circle
+    const dx = x - radius;
+    const dy = y - radius;
+    if (dx * dx + dy * dy > radius * radius) return; // Outside
+    
+    const p = ctx.getImageData(x, y, 1, 1).data;
+    const hex = "#" + ("000000" + rgbToHex(p[0], p[1], p[2])).slice(-6);
+    updateSwatch(hex);
+  };
+  
+  function rgbToHex(r, g, b) {
+    if (r > 255 || g > 255 || b > 255) throw "Invalid color component";
+    return ((r << 16) | (g << 8) | b).toString(16);
+  }
+  
+  if (!colorWheelActive) {
+    els.colorWheelCanvas.addEventListener('mousedown', (e) => {
+      pickColor(e);
+      const onMove = (ev) => pickColor(ev);
+      const onUp = () => {
+        window.removeEventListener('mousemove', onMove);
+        window.removeEventListener('mouseup', onUp);
+      };
+      window.addEventListener('mousemove', onMove);
+      window.addEventListener('mouseup', onUp);
+    });
+    colorWheelActive = true;
+  }
+}
+
+// --- DRAG AND DROP ---
+function makeDraggable(el, handle) {
+  let pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
+  handle.onmousedown = dragMouseDown;
+
+  function dragMouseDown(e) {
+    e.preventDefault();
+    pos3 = e.clientX;
+    pos4 = e.clientY;
+    document.onmouseup = closeDragElement;
+    document.onmousemove = elementDrag;
+  }
+
+  function elementDrag(e) {
+    e.preventDefault();
+    pos1 = pos3 - e.clientX;
+    pos2 = pos4 - e.clientY;
+    pos3 = e.clientX;
+    pos4 = e.clientY;
+    el.style.top = (el.offsetTop - pos2) + "px";
+    el.style.left = (el.offsetLeft - pos1) + "px";
+  }
+
+  function closeDragElement() {
+    document.onmouseup = null;
+    document.onmousemove = null;
+  }
+}
+
+if (els.twitchChat) makeDraggable(els.twitchChat, els.twitchChat.querySelector('.drag-handle'));
+if (els.dmWidget) makeDraggable(els.dmWidget, els.dmWidget.querySelector('.drag-handle'));
+
+if (typeof initDMs === "function") initDMs();
+
+// REWARD FOR SPEECH
+const originalEvaluateSpeech = evaluateSpeech;
+evaluateSpeech = function(transcript) {
+  originalEvaluateSpeech(transcript);
+  if (els.accuracyScore.textContent !== "--") {
+     const accuracy = parseInt(els.accuracyScore.textContent);
+      if (accuracy > 50) {
+        updateCoins(10);
+        addXp(100);
+      }
+  }
+}
+
+// Initialize App State
+appState.unlockedThemes = JSON.parse(localStorage.getItem('nova_unlocked_themes')) || ["10", "9", "8"];
+appState.profile = normalizeProfile(JSON.parse(localStorage.getItem('nova_profile')) || {
+  displayName: "Connor",
+  username: "connor_ll",
+  bio: "Learning Russian!",
+  customization: {
+    mascot: "Fox",
+    hair: "short",
+    eyeShape: "round",
+    nose: "soft",
+    mouth: "smile",
+    arms: "relaxed",
+    legs: "straight",
+    shirt: "tee",
+    pants: "slim",
+    shoes: "trainers",
+    hairColor: "#2f241f",
+    eyeColor: "#2b6cb0",
+    faceColor: "#ed8936",
+    shirtColor: "#3182ce",
+    pantsColor: "#1f2937",
+    shoesColor: "#111827"
+  }
+});
+
+if (els.targetLanguageSelect) els.targetLanguageSelect.value = appState.targetLanguage;
+if (els.appTitle) els.appTitle.textContent = languageDatasets[appState.targetLanguage].title;
+const initialWritingMeta = getLanguageWritingMeta();
+els.russianParagraph?.setAttribute("lang", initialWritingMeta.lang);
+els.russianParagraph?.setAttribute("dir", initialWritingMeta.dir);
+els.storyContent?.setAttribute("lang", initialWritingMeta.lang);
+els.storyContent?.setAttribute("dir", initialWritingMeta.dir);
+
+initEconomy();
+renderStore();
+renderThemes();
+renderSpotifyPlaylist();
+setupChatLanguages();
+
+setupSpeechRecognition();
+renderStoryOptions();
+renderStats();
+renderParagraph();
+renderStory();
+renderWordList();
+loadFullRussianWords();
+
+// Social Context Menu logic
+const socialContextMenu = document.getElementById("socialContextMenu");
+let ctxMenuTarget = null;
+let unsolicitedMsgCount = 3;
+
+document.addEventListener("contextmenu", (e) => {
+  const item = e.target.closest("li[data-person]");
+  if (item && item.parentElement.id.includes("List")) {
+    e.preventDefault();
+    ctxMenuTarget = item.dataset.person;
+    socialContextMenu.style.left = e.pageX + "px";
+    socialContextMenu.style.top = e.pageY + "px";
+    socialContextMenu.hidden = false;
+  } else {
+    socialContextMenu.hidden = true;
+  }
+});
+
+document.addEventListener("click", (e) => {
+  if (!e.target.closest("#socialContextMenu")) {
+    socialContextMenu.hidden = true;
+  }
+});
+
+document.getElementById("ctxVisitProfile")?.addEventListener("click", () => {
+  if (ctxMenuTarget) openPersonProfile(ctxMenuTarget);
+  socialContextMenu.hidden = true;
+});
+
+document.getElementById("ctxAddFriend")?.addEventListener("click", () => {
+  alert("Friend request sent to " + ctxMenuTarget);
+  socialContextMenu.hidden = true;
+});
+
+document.getElementById("ctxSendMessage")?.addEventListener("click", () => {
+  if (unsolicitedMsgCount > 0) {
+    unsolicitedMsgCount--;
+    document.getElementById("ctxMessageCount").textContent = unsolicitedMsgCount;
+    alert("Message sent to " + ctxMenuTarget);
+  } else {
+    alert("You have reached your limit of unsolicited messages.");
+  }
+  socialContextMenu.hidden = true;
+});
+
+// Clippy Guide
+const clippyGuide = document.getElementById("clippyGuide");
+const clippyAvatar = document.getElementById("clippyAvatar");
+const clippyMessage = document.getElementById("clippyMessage");
+
+function updateClippy() {
+  if (!clippyGuide) return;
+  const targetLang = appState.targetLanguage;
+  clippyGuide.hidden = false;
+  clippyAvatar.innerHTML = `<span style="font-size: 3rem; line-height: 70px;">${appState.profile.customization.mascot || "🦊"}</span>`;
+  
+  if (appState.activeView === "practice") {
+    clippyMessage.textContent = `Hover over words to translate them! Practice makes perfect in ${targetLang}!`;
+  } else if (appState.activeView === "stories") {
+    clippyMessage.textContent = `Read stories to immerse yourself in ${targetLang}.`;
+  } else if (appState.activeView === "profile") {
+    clippyMessage.textContent = `Customize your profile, check your ${targetLang} achievements, and make friends!`;
+  } else {
+    clippyMessage.textContent = `Welcome to Language Learners!`;
+  }
+}
+
+// Intercept switchView to update Clippy
+const originalSwitchView = switchView;
+switchView = function(viewId) {
+  originalSwitchView(viewId);
+  updateClippy();
+};
+
+// Initialize clippy periodically if mascot changes
+setInterval(updateClippy, 2000);
+
+function renderAchievements() {
+  if (!els.achievementsList) return;
+  const lang = appState.targetLanguage.charAt(0).toUpperCase() + appState.targetLanguage.slice(1);
+  const achievements = [
+    { name: `${lang} Beginner`, desc: `Read 10 words in ${lang}`, progress: 100 },
+    { name: `${lang} Storyteller`, desc: `Read 5 stories in ${lang}`, progress: 40 },
+    { name: `${lang} Master`, desc: `Learn 1000 words in ${lang}`, progress: 15 }
+  ];
+  
+  els.achievementsList.replaceChildren(...achievements.map(a => {
+    const div = document.createElement("div");
+    div.style.padding = "10px";
+    div.style.background = "rgba(0,0,0,0.05)";
+    div.style.borderRadius = "8px";
+    div.style.marginBottom = "8px";
+    div.innerHTML = `
+      <div style="font-weight: bold;">${a.name}</div>
+      <div style="font-size: 0.85rem; color: #555;">${a.desc}</div>
+      <div style="width: 100%; height: 8px; background: #ddd; border-radius: 4px; margin-top: 6px;">
+        <div style="width: ${a.progress}%; height: 100%; background: var(--primary); border-radius: 4px;"></div>
+      </div>
+    `;
+    return div;
+  }));
+}
+
+// Hook into target language switch
+const originalSwitchTargetLanguage = switchTargetLanguage;
+switchTargetLanguage = function(language) {
+  originalSwitchTargetLanguage(language);
+  renderAchievements();
+  updateClippy();
+};
+
+// Also hook into switchView because achievements might be rendered on profile open
+const originalRenderProfile = renderProfile;
+renderProfile = function() {
+  originalRenderProfile();
+  renderAchievements();
+};

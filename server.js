@@ -1,0 +1,207 @@
+const http = require("node:http");
+const fs = require("node:fs");
+const path = require("node:path");
+
+const root = __dirname;
+const port = Number(process.env.PORT || 9876);
+const host = "127.0.0.1";
+const types = {
+  ".html": "text/html; charset=utf-8",
+  ".css": "text/css; charset=utf-8",
+  ".js": "text/javascript; charset=utf-8",
+  ".md": "text/markdown; charset=utf-8",
+  ".png": "image/png",
+  ".jpg": "image/jpeg",
+  ".jpeg": "image/jpeg",
+  ".webp": "image/webp",
+  ".svg": "image/svg+xml; charset=utf-8"
+};
+
+function sendJson(res, status, payload) {
+  res.writeHead(status, { "content-type": "application/json; charset=utf-8" });
+  res.end(JSON.stringify(payload));
+}
+
+function readJsonBody(req, maxBytes = 64_000) {
+  return new Promise((resolve, reject) => {
+    let body = "";
+    req.on("data", (chunk) => {
+      body += chunk;
+      if (body.length > maxBytes) {
+        reject(new Error("Request body is too large."));
+        req.destroy();
+      }
+    });
+    req.on("end", () => {
+      try {
+        resolve(JSON.parse(body || "{}"));
+      } catch {
+        reject(new Error("Request body must be valid JSON."));
+      }
+    });
+    req.on("error", reject);
+  });
+}
+
+function safeFileName(value) {
+  return String(value || "story")
+    .toLowerCase()
+    .replace(/[^a-z0-9-_]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+    .slice(0, 80) || "story";
+}
+
+async function handleStoryImage(req, res) {
+  let payload;
+  try {
+    payload = await readJsonBody(req);
+  } catch (error) {
+    sendJson(res, 400, { error: error.message });
+    return;
+  }
+
+  const env = typeof process === "undefined" ? {} : process.env;
+  const apiKey = env.OPENAI_API_KEY;
+  if (!apiKey) {
+    sendJson(res, 503, {
+      error: "Set OPENAI_API_KEY before generating ChatGPT images. The app is showing local preview images until then."
+    });
+    return;
+  }
+
+  const id = safeFileName(payload.id);
+  const prompt = String(payload.prompt || "").trim();
+  if (!prompt) {
+    sendJson(res, 400, { error: "Missing image prompt." });
+    return;
+  }
+
+  const imageDir = path.join(root, "Images", "story-ai");
+  const imagePath = path.join(imageDir, `${id}.webp`);
+  const publicUrl = `/Images/story-ai/${id}.webp`;
+
+  if (fs.existsSync(imagePath)) {
+    sendJson(res, 200, { status: "cached", url: publicUrl });
+    return;
+  }
+
+  try {
+    fs.mkdirSync(imageDir, { recursive: true });
+    const response = await fetch("https://api.openai.com/v1/images/generations", {
+      method: "POST",
+      headers: {
+        authorization: `Bearer ${apiKey}`,
+        "content-type": "application/json"
+      },
+      body: JSON.stringify({
+        model: env.OPENAI_IMAGE_MODEL || "gpt-image-1",
+        prompt,
+        size: "1024x1024",
+        quality: env.OPENAI_IMAGE_QUALITY || "medium",
+        output_format: "webp"
+      })
+    });
+
+    if (!response.ok) {
+      const text = await response.text();
+      sendJson(res, response.status, { error: `OpenAI image request failed: ${text.slice(0, 500)}` });
+      return;
+    }
+
+    const result = await response.json();
+    const imageBase64 = result.data?.[0]?.b64_json;
+    if (!imageBase64) {
+      sendJson(res, 502, { error: "OpenAI response did not include image data." });
+      return;
+    }
+
+    fs.writeFileSync(imagePath, Buffer.from(imageBase64, "base64"));
+    sendJson(res, 200, { status: "generated", url: publicUrl });
+  } catch (error) {
+    sendJson(res, 500, { error: error.message });
+  }
+}
+
+async function handleTranscription(req, res) {
+  let payload;
+  try {
+    payload = await readJsonBody(req, 10_000_000);
+  } catch (error) {
+    sendJson(res, 400, { error: error.message });
+    return;
+  }
+
+  const env = typeof process === "undefined" ? {} : process.env;
+  const apiKey = env.OPENAI_API_KEY;
+  if (!apiKey) {
+    sendJson(res, 503, {
+      error: "Set OPENAI_API_KEY before using server transcription."
+    });
+    return;
+  }
+
+  const audio = String(payload.audio || "");
+  const match = audio.match(/^data:([^;]+);base64,(.+)$/);
+  if (!match) {
+    sendJson(res, 400, { error: "Missing recorded audio data." });
+    return;
+  }
+
+  const mimeType = match[1] || "audio/webm";
+  const extension = mimeType.includes("mp4") ? "mp4" : mimeType.includes("mpeg") ? "mp3" : mimeType.includes("wav") ? "wav" : "webm";
+  const buffer = Buffer.from(match[2], "base64");
+  const form = new FormData();
+  form.append("model", env.OPENAI_TRANSCRIBE_MODEL || "gpt-4o-mini-transcribe");
+  form.append("file", new Blob([buffer], { type: mimeType }), `recording.${extension}`);
+
+  try {
+    const response = await fetch("https://api.openai.com/v1/audio/transcriptions", {
+      method: "POST",
+      headers: { authorization: `Bearer ${apiKey}` },
+      body: form
+    });
+    if (!response.ok) {
+      const text = await response.text();
+      sendJson(res, response.status, { error: `OpenAI transcription request failed: ${text.slice(0, 500)}` });
+      return;
+    }
+    const result = await response.json();
+    sendJson(res, 200, { text: result.text || "" });
+  } catch (error) {
+    sendJson(res, 500, { error: error.message });
+  }
+}
+
+const server = http.createServer((req, res) => {
+  const url = new URL(req.url, `http://${host}:${port}`);
+  if (url.pathname === "/api/story-image" && req.method === "POST") {
+    handleStoryImage(req, res);
+    return;
+  }
+  if (url.pathname === "/api/transcribe" && req.method === "POST") {
+    handleTranscription(req, res);
+    return;
+  }
+
+  const requested = url.pathname === "/" ? "/index.html" : decodeURIComponent(url.pathname);
+  const filePath = path.normalize(path.join(root, requested));
+
+  if (!filePath.startsWith(root)) {
+    res.writeHead(403);
+    res.end("Forbidden");
+    return;
+  }
+
+  fs.readFile(filePath, (error, data) => {
+    if (error) {
+      res.writeHead(404);
+      res.end("Not found");
+      return;
+    }
+
+    res.writeHead(200, { "content-type": types[path.extname(filePath)] || "application/octet-stream" });
+    res.end(data);
+  });
+});
+
+server.listen(port, host);
