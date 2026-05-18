@@ -2109,6 +2109,12 @@ const els = {
   profileSettingsBtn: document.querySelector("#profileSettingsBtn"),
   profileSettingsModal: document.querySelector("#profileSettingsModal"),
   closeProfileSettingsBtn: document.querySelector("#closeProfileSettingsBtn"),
+  profileAvatarContainer: document.querySelector("#profileAvatarContainer"),
+  profilePageAvatarContainer: document.querySelector("#profilePageAvatarContainer"),
+  characterGuideToggle: document.querySelector("#characterGuideToggle"),
+  clippyGuide: document.querySelector("#clippyGuide"),
+  clippyAvatar: document.querySelector("#clippyAvatar"),
+  clippyMessage: document.querySelector("#clippyMessage"),
   profileSettingsStatus: document.querySelector("#profileSettingsStatus"),
   settingShowFollowers: document.querySelector("#settingShowFollowers"),
   settingShowFollowing: document.querySelector("#settingShowFollowing"),
@@ -3146,6 +3152,11 @@ els.profileSettingsModal?.addEventListener("click", (event) => {
     }
   });
 });
+els.characterGuideToggle?.addEventListener("change", () => {
+  appState.settings.characterGuide = els.characterGuideToggle.checked;
+  saveProfileSettings();
+  updateCharacterGuide();
+});
 els.settingResetLocalUiBtn?.addEventListener("click", () => {
   appState.settings = { ...profileSettingsDefaults };
   saveProfileSettings();
@@ -3177,12 +3188,15 @@ els.editProfileBtn?.addEventListener("click", () => {
     els.editProfileBtn.textContent = els.profileEditPanel.hidden ? "Edit" : "Close Edit";
   }
 });
-els.mascotGrid?.addEventListener("click", (event) => {
+  els.mascotGrid?.addEventListener("click", (event) => {
   const button = event.target.closest("[data-mascot]");
   if (!button) return;
   appState.profile.customization.mascot = button.dataset.mascot;
   saveProfile();
   renderMascotGrid();
+  renderMascotAvatar(els.profilePageAvatarContainer, appState.profile.customization.mascot, { color: appState.profile.customization.avatarColor || "#f59e0b" });
+  renderMascotAvatar(els.profileAvatarContainer, appState.profile.customization.mascot, { color: appState.profile.customization.avatarColor || "#f59e0b", small: true });
+  updateCharacterGuide();
   updateCharacterVisuals();
 });
 document.querySelectorAll("[data-social-toggle]").forEach((button) => {
@@ -4101,7 +4115,8 @@ const profileSettingsDefaults = {
   autoMatchChatLanguage: true,
   autoTranslate: false,
   allowFriendRequests: true,
-  filterMessages: true
+  filterMessages: true,
+  characterGuide: true
 };
 const publicSocialSearchState = { followers: "", following: "", friends: "" };
 let activePublicProfile = null;
@@ -4160,6 +4175,7 @@ function renderProfileSettings() {
   if (els.settingAutoTranslate) els.settingAutoTranslate.checked = s.autoTranslate;
   if (els.settingAllowFriendRequests) els.settingAllowFriendRequests.checked = s.allowFriendRequests;
   if (els.settingFilterMessages) els.settingFilterMessages.checked = s.filterMessages;
+  if (els.characterGuideToggle) els.characterGuideToggle.checked = s.characterGuide;
   applyProfileSettings();
 }
 
@@ -4182,6 +4198,7 @@ const tierConfig = {
 };
 let character3d = null;
 let characterRotateFrame = null;
+let loadingThree = false;
 
 function checkInappropriate(text) {
   const normalized = text.toLowerCase()
@@ -4243,6 +4260,22 @@ function normalizeProfile(profile = {}) {
   };
 }
 
+function renderMascotAvatar(target, mascot, options = {}) {
+  if (!target) return;
+  const label = mascot || "LL";
+  const size = options.small ? "1.15rem" : "3.1rem";
+  target.innerHTML = `
+    <div class="mascot-avatar-face" aria-label="Selected mascot">
+      <span>${label}</span>
+    </div>
+  `;
+  const face = target.querySelector(".mascot-avatar-face");
+  if (face) {
+    face.style.setProperty("--mascot-avatar-size", size);
+    if (options.color) face.style.setProperty("--mascot-avatar-accent", options.color);
+  }
+}
+
 function renderProfile() {
   const p = appState.profile;
   if (els.profileLayout) els.profileLayout.hidden = false;
@@ -4253,12 +4286,12 @@ function renderProfile() {
   if (els.profileUsernameSummary) els.profileUsernameSummary.textContent = `@${p.username}`;
   els.profileBioText.textContent = p.bio || "No bio yet.";
   
-  if (els.profilePageAvatar && els.profileAvatar) els.profilePageAvatar.src = els.profileAvatar.src;
-  
   const accentColor = p.customization?.avatarColor || "#f59e0b";
   document.documentElement.style.setProperty("--avatar-accent", accentColor);
   const avatarWrappers = document.querySelectorAll('.circular-avatar-wrapper');
   avatarWrappers.forEach(w => w.style.setProperty('--avatar-accent', accentColor));
+  renderMascotAvatar(els.profilePageAvatarContainer, p.customization?.mascot, { color: accentColor });
+  renderMascotAvatar(els.profileAvatarContainer, p.customization?.mascot, { color: accentColor, small: true });
   
   renderSocialList("friends");
   renderSocialList("followers");
@@ -4785,10 +4818,6 @@ function renderPublicCharacter(profile) {
   drawEye(ctx, centerX + 15 * scale, groundY - 258 * scale, c.eyeColor, c.eyeShape, scale * 0.82);
   drawNose(ctx, centerX, groundY - 240 * scale, c.nose, scale * 0.78);
   drawMouth(ctx, centerX, groundY - 219 * scale, c.mouth, scale * 0.78);
-  ctx.fillStyle = "rgba(15, 23, 42, 0.72)";
-  ctx.font = `${Math.max(11, 12 * scale)}px Outfit, sans-serif`;
-  ctx.textAlign = "center";
-  ctx.fillText(c.mascot || profile.name, centerX, groundY - 132 * scale);
 }
 
 function renderPublicCharacter3d(profile) {
@@ -5021,7 +5050,7 @@ function renderPublicProfile(name) {
   window.scrollTo({ top: 0, left: 0, behavior: "instant" });
   els.profileView?.scrollTo?.({ top: 0, left: 0, behavior: "instant" });
   els.publicProfileName.textContent = profile.name;
-  els.publicProfileAvatar.textContent = profile.name.split(" ").map(part => part[0]).join("").slice(0, 2);
+  els.publicProfileAvatar.textContent = profile.customization?.mascot || profile.name.split(" ").map(part => part[0]).join("").slice(0, 2);
   els.publicProfileAvatar.style.setProperty("--public-profile-color", profile.color);
   renderPublicCharacter(profile);
   els.publicProfileHandle.textContent = `@${profile.handle}`;
@@ -5223,10 +5252,52 @@ function canChangeUsername(nextUsername) {
   return !last || Date.now() - last >= usernameCooldownMs;
 }
 
+function loadThreeRuntime(onReady, onFail) {
+  if (window.THREE) {
+    onReady();
+    return;
+  }
+  if (loadingThree) {
+    window.addEventListener("three-ready", onReady, { once: true });
+    window.addEventListener("three-failed", onFail, { once: true });
+    return;
+  }
+  loadingThree = true;
+  const urls = [
+    "https://cdnjs.cloudflare.com/ajax/libs/three.js/r160/three.min.js",
+    "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.min.js"
+  ];
+  const tryLoad = (index) => {
+    if (window.THREE) {
+      loadingThree = false;
+      window.dispatchEvent(new Event("three-ready"));
+      onReady();
+      return;
+    }
+    if (index >= urls.length) {
+      loadingThree = false;
+      window.dispatchEvent(new Event("three-failed"));
+      onFail();
+      return;
+    }
+    const script = document.createElement("script");
+    script.src = urls[index];
+    script.async = true;
+    script.onload = () => tryLoad(index + 1);
+    script.onerror = () => tryLoad(index + 1);
+    document.head.append(script);
+  };
+  tryLoad(0);
+}
+
 function initCharacter3d() {
   if (character3d || !els.characterCanvas) return;
   if (!window.THREE) {
-    initCharacterCanvasFallback();
+    loadThreeRuntime(() => {
+      character3d = null;
+      initCharacter3d();
+      updateCharacterVisuals();
+    }, initCharacterCanvasFallback);
     return;
   }
   try {
@@ -5235,7 +5306,7 @@ function initCharacter3d() {
     const renderer = new THREE.WebGLRenderer({ canvas: els.characterCanvas, antialias: true, alpha: true });
     renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
     if (THREE.SRGBColorSpace) renderer.outputColorSpace = THREE.SRGBColorSpace;
-    camera.position.set(0, 1.28, 5.9);
+    camera.position.set(0, 1.12, 5.6);
     scene.add(new THREE.HemisphereLight(0xffffff, 0x8aa0bf, 2.15));
     const key = new THREE.DirectionalLight(0xffffff, 2.0);
     key.position.set(3.2, 4.6, 5.4);
@@ -5275,12 +5346,12 @@ function initCharacter3d() {
     shorts.position.y = -0.58;
     shorts.scale.set(1, 1, 0.82);
 
-    const neck = capsule(0.17, 0.23, 0xed8936, 20);
-    neck.position.y = 0.95;
-    neck.scale.set(0.9, 1.0, 0.88);
+    const neck = capsule(0.18, 0.32, 0xed8936, 20);
+    neck.position.y = 0.94;
+    neck.scale.set(0.96, 1.0, 0.9);
 
     const head = new THREE.Mesh(new THREE.SphereGeometry(0.52, 36, 28), material(0xed8936));
-    head.position.y = 1.48;
+    head.position.y = 1.42;
     head.scale.set(0.94, 1.1, 0.9);
 
     const hair = new THREE.Mesh(new THREE.SphereGeometry(0.55, 36, 18, 0, Math.PI * 2, 0, Math.PI / 2), material(0x2f241f));
@@ -5326,8 +5397,9 @@ function initCharacter3d() {
 
     const makeArm = (side) => {
       const shoulder = new THREE.Group();
-      shoulder.position.set(side * 0.62, 0.36, 0);
+      shoulder.position.set(side * 0.58, 0.38, 0.34);
       shoulder.rotation.z = side * -0.2;
+      shoulder.rotation.x = 0.12;
       const sleeve = capsule(0.11, 0.54, 0x3182ce, 18);
       sleeve.position.y = -0.26;
       const forearm = capsule(0.095, 0.48, 0xed8936, 18);
@@ -5343,13 +5415,15 @@ function initCharacter3d() {
     const makeLeg = (side) => {
       const leg = new THREE.Group();
       leg.position.set(side * 0.25, -0.9, 0);
-      const pant = capsule(0.12, 0.58, 0x111827, 18);
-      pant.position.y = -0.2;
-      const shoe = new THREE.Mesh(new THREE.BoxGeometry(0.34, 0.16, 0.5), material(0x111827));
-      shoe.position.set(side * 0.03, -0.58, 0.08);
+      const pant = capsule(0.135, 0.42, 0x111827, 18);
+      pant.position.y = -0.08;
+      const lowerLeg = capsule(0.105, 0.28, 0xed8936, 16);
+      lowerLeg.position.y = -0.47;
+      const shoe = new THREE.Mesh(new THREE.BoxGeometry(0.38, 0.18, 0.56), material(0x111827));
+      shoe.position.set(side * 0.04, -0.74, 0.14);
       shoe.rotation.y = side * -0.08;
-      leg.add(pant, shoe);
-      return { leg, pant, shoe };
+      leg.add(pant, lowerLeg, shoe);
+      return { leg, pant, lowerLeg, shoe };
     };
     const leftLeg = makeLeg(-1);
     const rightLeg = makeLeg(1);
@@ -5459,7 +5533,7 @@ function updateCharacterVisuals() {
   const setColor = (mesh, color) => mesh?.material?.color?.set(color);
   const setGroupColor = (parts, color) => parts.forEach((part) => setColor(part, color));
   character3d.head.material.color.set(c.faceColor);
-  setGroupColor([character3d.neck, character3d.leftEar, character3d.rightEar, character3d.leftArm.forearm, character3d.leftArm.hand, character3d.rightArm.forearm, character3d.rightArm.hand], c.faceColor);
+  setGroupColor([character3d.neck, character3d.leftEar, character3d.rightEar, character3d.leftArm.forearm, character3d.leftArm.hand, character3d.rightArm.forearm, character3d.rightArm.hand, character3d.leftLeg.lowerLeg, character3d.rightLeg.lowerLeg], c.faceColor);
   setGroupColor([character3d.leftEye, character3d.rightEye], c.eyeColor);
   setGroupColor([character3d.torso, character3d.leftArm.sleeve, character3d.rightArm.sleeve], c.shirtColor);
   setGroupColor([character3d.shorts, character3d.leftLeg.pant, character3d.rightLeg.pant], c.pantsColor);
@@ -5538,13 +5612,15 @@ function drawCharacterFallback() {
   ctx.clearRect(0, 0, width, height);
   ctx.lineCap = "round";
   ctx.lineJoin = "round";
-  const turn = character3d.autoRotate ? Math.sin(character3d.angle) * 0.24 : 0;
+  const spin = character3d.autoRotate ? character3d.angle : 0;
+  const turn = Math.sin(spin) * 0.5;
+  const facing = Math.cos(spin);
   const centerX = width / 2;
   const groundY = height * 0.91;
   const scale = Math.min(width / 420, height / 520);
   const shadowW = 156 * scale;
-  const bodySquash = 1 - Math.abs(turn) * 0.1;
-  const faceShift = turn * 12 * scale;
+  const bodySquash = character3d.autoRotate ? 0.72 + Math.abs(facing) * 0.28 : 1;
+  const faceShift = turn * 18 * scale;
 
   ctx.save();
   ctx.translate(centerX, groundY);
@@ -5587,15 +5663,13 @@ function drawCharacterFallback() {
   drawHead(ctx, centerX + faceShift, groundY - 344 * scale, 116 * scale, 126 * scale, character3d.faceColor);
   drawFallbackHair(ctx, centerX + faceShift, groundY - 416 * scale, character3d.hair, scale);
 
-  const eyeOffset = 19 * scale;
-  drawEye(ctx, centerX - eyeOffset + faceShift, groundY - 354 * scale, character3d.eyeColor, character3d.eyeShape, scale);
-  drawEye(ctx, centerX + eyeOffset + faceShift, groundY - 354 * scale, character3d.eyeColor, character3d.eyeShape, scale);
-  drawNose(ctx, centerX + faceShift, groundY - 330 * scale, character3d.nose, scale);
-  drawMouth(ctx, centerX + faceShift, groundY - 302 * scale, isCelebrating ? "wide" : character3d.mouth, scale);
-  ctx.fillStyle = "rgba(15, 23, 42, 0.68)";
-  ctx.font = `${Math.max(12, 14 * scale)}px Outfit, sans-serif`;
-  ctx.textAlign = "center";
-  ctx.fillText(character3d.mascot || "Mascot", centerX, groundY - 182 * scale);
+  if (facing > -0.2) {
+    const eyeOffset = 19 * scale;
+    drawEye(ctx, centerX - eyeOffset + faceShift, groundY - 354 * scale, character3d.eyeColor, character3d.eyeShape, scale);
+    drawEye(ctx, centerX + eyeOffset + faceShift, groundY - 354 * scale, character3d.eyeColor, character3d.eyeShape, scale);
+    drawNose(ctx, centerX + faceShift, groundY - 330 * scale, character3d.nose, scale);
+    drawMouth(ctx, centerX + faceShift, groundY - 302 * scale, isCelebrating ? "wide" : character3d.mouth, scale);
+  }
 }
 
 function updateAutoRotateButton() {
@@ -6251,10 +6325,15 @@ const clippyMessage = document.getElementById("clippyMessage");
 
 function updateClippy() {
   if (!clippyGuide) return;
+  if (appState.settings?.characterGuide === false) {
+    clippyGuide.hidden = true;
+    return;
+  }
   const targetLang = appState.targetLanguage;
   clippyGuide.hidden = false;
   clippyAvatar.innerHTML = `<span style="font-size: 3rem; line-height: 70px;">${appState.profile.customization.mascot || "🦊"}</span>`;
   
+  renderMascotAvatar(clippyAvatar, appState.profile.customization.mascot || "LL");
   if (appState.activeView === "practice") {
     clippyMessage.textContent = `Hover over words to translate them! Practice makes perfect in ${targetLang}!`;
   } else if (appState.activeView === "stories") {
@@ -6264,6 +6343,10 @@ function updateClippy() {
   } else {
     clippyMessage.textContent = `Welcome to Language Learners!`;
   }
+}
+
+function updateCharacterGuide() {
+  updateClippy();
 }
 
 // Intercept switchView to update Clippy
