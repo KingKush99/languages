@@ -4059,6 +4059,78 @@ select, input, textarea {
   accent-color: #fef08a;
 }
 
+.story-treasure-card {
+  width: min(100%, 360px);
+  display: grid;
+  gap: 4px;
+  margin: 18px 0 0;
+  padding: 14px 16px;
+  border-radius: 16px;
+  border: 3px solid rgba(255,255,255,0.9);
+  color: white;
+  text-align: left;
+  cursor: pointer;
+  box-shadow: 0 8px 0 rgba(15, 23, 42, 0.22), 0 18px 30px rgba(15, 23, 42, 0.18);
+}
+
+.story-visual {
+  position: relative;
+}
+
+.story-visual .story-treasure-card {
+  position: absolute;
+  right: 16px;
+  bottom: 16px;
+  z-index: 4;
+  margin: 0;
+}
+
+.story-treasure-card.standard { background: linear-gradient(180deg, #64748b, #334155); }
+.story-treasure-card.rare { background: linear-gradient(180deg, #3b82f6, #1d4ed8); }
+.story-treasure-card.legendary { background: linear-gradient(180deg, #a855f7, #7e22ce); }
+.story-treasure-card.god { background: linear-gradient(180deg, #f59e0b, #b45309); }
+
+.story-treasure-card.is-locked {
+  filter: grayscale(0.35);
+  opacity: 0.82;
+}
+
+.story-treasure-card span {
+  font-size: 0.76rem;
+  font-weight: 950;
+  text-transform: uppercase;
+}
+
+.story-treasure-card strong {
+  font-size: 1.12rem;
+}
+
+.story-treasure-card small {
+  color: rgba(255,255,255,0.84);
+  font-weight: 800;
+}
+
+.coin-package-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.coin-package-actions button {
+  min-height: 38px;
+  border: 2px solid rgba(255,255,255,0.86);
+  border-radius: 12px;
+  background: linear-gradient(180deg, #2563eb, #1d4ed8);
+  color: white;
+  font-weight: 950;
+  cursor: pointer;
+}
+
+.coin-package-actions button[data-provider="crypto"] {
+  background: linear-gradient(180deg, #f59e0b, #b45309);
+}
+
 .clippy-guide .clippy-avatar {
   padding: 4px;
   background: linear-gradient(135deg, #fde047, #22c55e, #38bdf8) !important;

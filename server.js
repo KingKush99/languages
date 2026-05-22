@@ -22,6 +22,20 @@ function sendJson(res, status, payload) {
   res.end(JSON.stringify(payload));
 }
 
+const coinPackages = [1, 2, 5, 10, 20, 50, 100, 200, 500, 1000].map((price, index) => {
+  const baseCoins = price * 1000;
+  const bonusMultiplier = Math.pow(1.05, index);
+  return {
+    id: `coins_${price}`,
+    price,
+    coins: Math.round((baseCoins * bonusMultiplier) / 100) * 100
+  };
+});
+
+function getCoinPackage(id) {
+  return coinPackages.find((pack) => pack.id === id || String(pack.price) === String(id));
+}
+
 function readJsonBody(req, maxBytes = 64_000) {
   return new Promise((resolve, reject) => {
     let body = "";
@@ -175,6 +189,119 @@ async function handleTranscription(req, res) {
   }
 }
 
+async function handleStripeCheckout(req, res) {
+  const env = typeof process === "undefined" ? {} : process.env;
+  if (!env.STRIPE_SECRET_KEY) {
+    sendJson(res, 503, { error: "Set STRIPE_SECRET_KEY on the backend before using real card checkout." });
+    return;
+  }
+  let payload;
+  try {
+    payload = await readJsonBody(req);
+  } catch (error) {
+    sendJson(res, 400, { error: error.message });
+    return;
+  }
+  const pack = getCoinPackage(payload.packageId);
+  if (!pack) {
+    sendJson(res, 400, { error: "Unknown coin package." });
+    return;
+  }
+  const origin = env.PUBLIC_APP_URL || `http://${host}:${port}`;
+  const params = new URLSearchParams();
+  params.set("mode", "payment");
+  params.set("success_url", `${origin}/?purchase=stripe_success&package=${pack.id}`);
+  params.set("cancel_url", `${origin}/?purchase=stripe_cancel`);
+  params.set("metadata[package_id]", pack.id);
+  params.set("metadata[coins]", String(pack.coins));
+  const priceId = env[`STRIPE_PRICE_ID_${pack.price}`] || env.STRIPE_PRICE_ID;
+  if (priceId) {
+    params.set("line_items[0][price]", priceId);
+    params.set("line_items[0][quantity]", "1");
+  } else {
+    params.set("line_items[0][price_data][currency]", "usd");
+    params.set("line_items[0][price_data][product_data][name]", `${pack.coins.toLocaleString()} Language Learners coins`);
+    params.set("line_items[0][price_data][unit_amount]", String(pack.price * 100));
+    params.set("line_items[0][quantity]", "1");
+  }
+
+  try {
+    const response = await fetch("https://api.stripe.com/v1/checkout/sessions", {
+      method: "POST",
+      headers: {
+        authorization: `Bearer ${env.STRIPE_SECRET_KEY}`,
+        "content-type": "application/x-www-form-urlencoded"
+      },
+      body: params
+    });
+    const result = await response.json();
+    if (!response.ok) {
+      sendJson(res, response.status, { error: result.error?.message || "Stripe checkout failed." });
+      return;
+    }
+    sendJson(res, 200, { provider: "stripe", url: result.url, sessionId: result.id });
+  } catch (error) {
+    sendJson(res, 500, { error: error.message });
+  }
+}
+
+async function handleCoinbaseCharge(req, res) {
+  const env = typeof process === "undefined" ? {} : process.env;
+  if (!env.COINBASE_COMMERCE_API_KEY) {
+    sendJson(res, 503, { error: "Set COINBASE_COMMERCE_API_KEY on the backend before using real crypto checkout." });
+    return;
+  }
+  let payload;
+  try {
+    payload = await readJsonBody(req);
+  } catch (error) {
+    sendJson(res, 400, { error: error.message });
+    return;
+  }
+  const pack = getCoinPackage(payload.packageId);
+  if (!pack) {
+    sendJson(res, 400, { error: "Unknown coin package." });
+    return;
+  }
+  const origin = env.PUBLIC_APP_URL || `http://${host}:${port}`;
+  try {
+    const response = await fetch("https://api.commerce.coinbase.com/charges", {
+      method: "POST",
+      headers: {
+        "content-type": "application/json",
+        "X-CC-Api-Key": env.COINBASE_COMMERCE_API_KEY,
+        "X-CC-Version": env.COINBASE_COMMERCE_API_VERSION || "2018-03-22"
+      },
+      body: JSON.stringify({
+        name: `${pack.coins.toLocaleString()} Language Learners coins`,
+        description: `Coin package ${pack.id}`,
+        pricing_type: "fixed_price",
+        local_price: { amount: String(pack.price), currency: "USD" },
+        metadata: { package_id: pack.id, coins: String(pack.coins) },
+        redirect_url: `${origin}/?purchase=coinbase_success&package=${pack.id}`,
+        cancel_url: `${origin}/?purchase=coinbase_cancel`
+      })
+    });
+    const result = await response.json();
+    if (!response.ok) {
+      sendJson(res, response.status, { error: result.error?.message || "Coinbase charge failed." });
+      return;
+    }
+    sendJson(res, 200, { provider: "coinbase", url: result.data?.hosted_url, chargeId: result.data?.id });
+  } catch (error) {
+    sendJson(res, 500, { error: error.message });
+  }
+}
+
+function handleAdsConfig(_req, res) {
+  const env = typeof process === "undefined" ? {} : process.env;
+  sendJson(res, 200, {
+    enabled: Boolean(env.GOOGLE_ADSENSE_CLIENT && env.GOOGLE_ADSENSE_REWARDED_SLOT),
+    client: env.GOOGLE_ADSENSE_CLIENT || "",
+    rewardedSlot: env.GOOGLE_ADSENSE_REWARDED_SLOT || ""
+  });
+}
+
 const server = http.createServer((req, res) => {
   const url = new URL(req.url, `http://${host}:${port}`);
   if (url.pathname === "/api/story-image" && req.method === "POST") {
@@ -183,6 +310,24 @@ const server = http.createServer((req, res) => {
   }
   if (url.pathname === "/api/transcribe" && req.method === "POST") {
     handleTranscription(req, res);
+    return;
+  }
+  if (url.pathname === "/api/payments/stripe-checkout" && req.method === "POST") {
+    handleStripeCheckout(req, res);
+    return;
+  }
+  if (url.pathname === "/api/payments/coinbase-charge" && req.method === "POST") {
+    handleCoinbaseCharge(req, res);
+    return;
+  }
+  if (url.pathname === "/api/ads/config" && req.method === "GET") {
+    handleAdsConfig(req, res);
+    return;
+  }
+  if (url.pathname === "/ads.txt" && req.method === "GET") {
+    const publisher = process.env.GOOGLE_ADSENSE_PUBLISHER_ID || "";
+    res.writeHead(200, { "content-type": "text/plain; charset=utf-8" });
+    res.end(publisher ? `google.com, ${publisher}, DIRECT, f08c47fec0942fa0\n` : "# Set GOOGLE_ADSENSE_PUBLISHER_ID on the backend.\n");
     return;
   }
 

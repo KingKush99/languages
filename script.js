@@ -2473,6 +2473,105 @@ function storyHash(input) {
   return hash;
 }
 
+function getStoryPageKey(story = appState.currentStory, sectionIndex = appState.currentStorySectionIndex || 0) {
+  return `${appState.targetLanguage}:${story?.id || "story"}:${sectionIndex}`;
+}
+
+function getUnlockedTiers() {
+  const tasks = Number(appState.profile?.storyProgress?.completedTasks || 0);
+  return Object.entries(tierUnlockRules)
+    .filter(([, rule]) => tasks >= rule.tasks)
+    .map(([tier]) => tier);
+}
+
+function getStoryTreasure(story = appState.currentStory, sectionIndex = appState.currentStorySectionIndex || 0) {
+  if (!story) return null;
+  const seed = storyHash(`${appState.targetLanguage}:${story.id}:${sectionIndex}`);
+  const candidates = ["standard", "standard", "standard", "rare", "legendary", "god"];
+  const desiredTier = candidates[seed % candidates.length];
+  const unlocked = getUnlockedTiers();
+  const tier = unlocked.includes(desiredTier) ? desiredTier : "standard";
+  const config = tierConfig[tier];
+  return {
+    id: getStoryPageKey(story, sectionIndex),
+    tier,
+    name: config.items[seed % config.items.length],
+    source: `${story.title} - ${story.sections[sectionIndex]?.heading || `Page ${sectionIndex + 1}`}`,
+    hiddenIn: seed % 2 === 0 ? "image" : "page"
+  };
+}
+
+function hasStoryTreasure(treasure) {
+  return Boolean(treasure && appState.profile.collection.some((item) => item?.id === treasure.id));
+}
+
+function completeCurrentStoryTask() {
+  const story = appState.currentStory;
+  if (!story) return;
+  const key = getStoryPageKey(story);
+  const progress = appState.profile.storyProgress || { completedTasks: 0, completedPages: [], claimedTreasures: [] };
+  if (!progress.completedPages.includes(key)) {
+    progress.completedPages.push(key);
+    progress.completedTasks = Number(progress.completedTasks || 0) + 1;
+    appState.profile.storyProgress = progress;
+    saveProfile();
+  }
+}
+
+function claimCurrentStoryTreasure() {
+  const treasure = getStoryTreasure();
+  if (!treasure) return;
+  const rule = tierUnlockRules[treasure.tier];
+  const tasks = Number(appState.profile.storyProgress?.completedTasks || 0);
+  if (tasks < rule.tasks) {
+    if (els.storyImageStatus) els.storyImageStatus.textContent = `${tierConfig[treasure.tier].label} treasure locked: ${rule.label}.`;
+    return;
+  }
+  if (hasStoryTreasure(treasure)) {
+    if (els.storyImageStatus) els.storyImageStatus.textContent = `${treasure.name} already collected from this page.`;
+    return;
+  }
+  if (appState.profile.collection.length >= 16) {
+    if (els.storyImageStatus) els.storyImageStatus.textContent = "Your 4 x 4 collection grid is full.";
+    return;
+  }
+  appState.profile.collection.push({ ...treasure, collectedAt: Date.now() });
+  appState.profile.storyProgress.claimedTreasures = Array.from(new Set([...(appState.profile.storyProgress.claimedTreasures || []), treasure.id]));
+  saveProfile();
+  renderCollection();
+  if (els.storyImageStatus) els.storyImageStatus.textContent = `Collected ${tierConfig[treasure.tier].label}: ${treasure.name}.`;
+}
+
+function renderStoryTreasure(story) {
+  const treasure = getStoryTreasure(story);
+  const old = document.querySelector(".story-treasure-card");
+  old?.remove();
+  if (!treasure || !els.storyContent) return;
+  const tasks = Number(appState.profile.storyProgress?.completedTasks || 0);
+  const rule = tierUnlockRules[treasure.tier];
+  const claimed = hasStoryTreasure(treasure);
+  const locked = tasks < rule.tasks;
+  const card = document.createElement("button");
+  card.type = "button";
+  card.className = `story-treasure-card ${treasure.tier}${locked ? " is-locked" : ""}`;
+  card.innerHTML = `
+    <span>${locked ? "Locked" : claimed ? "Collected" : "Hidden item"}</span>
+    <strong>${treasure.name}</strong>
+    <small>${tierConfig[treasure.tier].label} - ${locked ? rule.label : treasure.hiddenIn === "image" ? "Found in the image" : "Found on this page"}</small>
+  `;
+  card.disabled = claimed;
+  card.addEventListener("click", () => {
+    completeCurrentStoryTask();
+    claimCurrentStoryTreasure();
+    renderStoryTreasure(appState.currentStory);
+  });
+  if (treasure.hiddenIn === "image" && els.storyImage?.parentElement) {
+    els.storyImage.parentElement.append(card);
+  } else {
+    els.storyContent.append(card);
+  }
+}
+
 function fallbackStoryImage(story) {
   const visualThemes = {
     russian: { palette: ["#0f766e", "#fef3c7", "#f97316", "#134e4a"], motif: '<rect x="305" y="612" width="290" height="235" rx="18" fill="#fff7ed" opacity="0.96"/><path d="M450 530 C515 530 570 585 570 650 L330 650 C330 585 385 530 450 530 Z" fill="#f97316"/>' },
@@ -2669,7 +2768,9 @@ function renderStory() {
   if (appState.activeView === "stories") {
     markTextAsLearned(section.ru);
     updateCoverage(section.ru);
+    completeCurrentStoryTask();
   }
+  renderStoryTreasure(story);
 }
 
 function selectStoryLevel() {
@@ -3453,8 +3554,25 @@ basePrices.forEach((price, index) => {
   let baseCoins = price * 1000;
   let bonusMultiplier = Math.pow(1.05, index);
   let totalCoins = Math.round((baseCoins * bonusMultiplier) / 100) * 100;
-  coinPackages.push({ price, coins: totalCoins });
+  coinPackages.push({ id: `coins_${price}`, price, coins: totalCoins });
 });
+
+async function startRealCheckout(provider, pkg) {
+  if (location.protocol === "file:" || location.hostname.includes("github.io")) {
+    alert("Real checkout needs the backend server, not static GitHub Pages. Deploy server.js with Stripe/Coinbase environment variables, then use this button.");
+    return;
+  }
+  const endpoint = provider === "crypto" ? "/api/payments/coinbase-charge" : "/api/payments/stripe-checkout";
+  const response = await fetch(endpoint, {
+    method: "POST",
+    headers: { "content-type": "application/json" },
+    body: JSON.stringify({ packageId: pkg.id })
+  });
+  const result = await response.json();
+  if (!response.ok) throw new Error(result.error || "Checkout could not be started.");
+  if (!result.url) throw new Error("Checkout provider did not return a hosted payment URL.");
+  window.location.href = result.url;
+}
 
 function renderStore() {
   els.storeGrid.replaceChildren(...coinPackages.map(pkg => {
@@ -3482,6 +3600,62 @@ els.watchAdBtn.addEventListener("click", () => {
     els.watchAdBtn.disabled = false;
   }, 1000);
 });
+
+function renderStore() {
+  els.storeGrid.replaceChildren(...coinPackages.map((pkg) => {
+    const card = document.createElement("div");
+    card.className = "coin-package-card";
+    card.innerHTML = `
+      <strong>${pkg.coins.toLocaleString()} coins</strong>
+      <span>$${pkg.price}.00</span>
+      <div class="coin-package-actions">
+        <button type="button" data-provider="card">Card</button>
+        <button type="button" data-provider="crypto">Crypto</button>
+      </div>
+    `;
+    card.querySelectorAll("[data-provider]").forEach((button) => {
+      button.addEventListener("click", async (event) => {
+        event.stopPropagation();
+        button.disabled = true;
+        button.textContent = "Opening...";
+        try {
+          await startRealCheckout(button.dataset.provider, pkg);
+        } catch (error) {
+          alert(error.message);
+          button.disabled = false;
+          button.textContent = button.dataset.provider === "crypto" ? "Crypto" : "Card";
+        }
+      });
+    });
+    return card;
+  }));
+}
+
+async function loadRewardedAdConfig() {
+  if (location.protocol === "file:" || location.hostname.includes("github.io")) return null;
+  const response = await fetch("/api/ads/config");
+  if (!response.ok) return null;
+  const config = await response.json();
+  return config.enabled ? config : null;
+}
+
+els.watchAdBtn.addEventListener("click", async (event) => {
+  event.preventDefault();
+  event.stopImmediatePropagation();
+  els.watchAdBtn.textContent = "Checking ads...";
+  els.watchAdBtn.disabled = true;
+  try {
+    const config = await loadRewardedAdConfig();
+    if (!config) {
+      alert("Real rewarded ads are not configured yet. Set GOOGLE_ADSENSE_CLIENT, GOOGLE_ADSENSE_REWARDED_SLOT, and GOOGLE_ADSENSE_PUBLISHER_ID on the backend.");
+      return;
+    }
+    alert("AdSense is configured. Reward credit should be granted only after a verified ad completion callback.");
+  } finally {
+    els.watchAdBtn.textContent = "Watch Ad (+50 Coins)";
+    els.watchAdBtn.disabled = false;
+  }
+}, true);
 
 // --- THEMES SHOP ---
 const themePrices = {
@@ -4196,6 +4370,12 @@ const tierConfig = {
   legendary: { label: "Legendary", weight: 4, items: ["Golden Samovar", "Winter Coat", "Master Reader Badge"], color: "#a855f7" },
   god: { label: "God", weight: 1, items: ["Aurora Crown", "Language Oracle"], color: "#f59e0b" }
 };
+const tierUnlockRules = {
+  standard: { tasks: 0, label: "Unlocked from the start" },
+  rare: { tasks: 4, label: "Complete 4 reading tasks" },
+  legendary: { tasks: 10, label: "Complete 10 reading tasks" },
+  god: { tasks: 18, label: "Complete 18 reading tasks" }
+};
 let character3d = null;
 let characterRotateFrame = null;
 let loadingThree = false;
@@ -4256,7 +4436,12 @@ function normalizeProfile(profile = {}) {
       pantsColor: profile.customization?.pantsColor || "#1f2937",
       shoesColor: profile.customization?.shoesColor || "#111827"
     },
-    collection: Array.isArray(profile.collection) ? profile.collection.slice(0, 16) : []
+    collection: Array.isArray(profile.collection) ? profile.collection.slice(0, 16) : [],
+    storyProgress: {
+      completedTasks: Number(profile.storyProgress?.completedTasks || 0),
+      completedPages: Array.isArray(profile.storyProgress?.completedPages) ? profile.storyProgress.completedPages : [],
+      claimedTreasures: Array.isArray(profile.storyProgress?.claimedTreasures) ? profile.storyProgress.claimedTreasures : []
+    }
   };
 }
 
@@ -6000,14 +6185,19 @@ function collectItem() {
     els.collectionStatus.textContent = "Your 4 x 4 collection grid is full.";
     return;
   }
-  const tier = rollTier();
+  const unlockedTiers = getUnlockedTiers();
+  let tier = rollTier();
+  if (!unlockedTiers.includes(tier)) tier = "standard";
   const config = tierConfig[tier];
   const name = seedAt(config.items, Date.now());
-  const item = { tier, name, collectedAt: Date.now() };
+  const item = { id: `manual:${Date.now()}`, tier, name, source: "Collection roll", collectedAt: Date.now() };
   appState.profile.collection.push(item);
   saveProfile();
   renderCollection();
-  els.collectionStatus.textContent = `Collected ${config.label}: ${name}.`;
+  const nextLocked = Object.entries(tierUnlockRules).find(([lockedTier, rule]) => !unlockedTiers.includes(lockedTier) && Number(appState.profile.storyProgress?.completedTasks || 0) < rule.tasks);
+  els.collectionStatus.textContent = nextLocked
+    ? `Collected ${config.label}: ${name}. Next tier: ${tierConfig[nextLocked[0]].label} after ${nextLocked[1].tasks} reading tasks.`
+    : `Collected ${config.label}: ${name}.`;
 }
 
 function clearCollection() {

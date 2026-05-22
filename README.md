@@ -21,6 +21,8 @@ Static prototype for language-reading practice across Russian, Japanese, Mandari
 - Every story has a right-side image panel. Local generated previews appear immediately, and the `Generate with ChatGPT` button can create and cache OpenAI-generated images when `OPENAI_API_KEY` is set.
 - JSON import for another language's 1000-word dataset.
 - Profile social data uses a local `SocialDataStore` layer. Followers, following, friends, and outbound message limits persist in browser storage now, and the UI is structured so the store can later be swapped for a real auth/database backend.
+- Story pages now contain collectible treasures. Standard items are available immediately; rare, legendary, and god-tier items unlock after more reading tasks and feed into the 4 x 4 collection grid.
+- The store UI is wired for real Stripe card checkout, Coinbase Commerce crypto checkout, and backend-provided AdSense configuration. It no longer grants fake purchase coins from the client.
 
 ## Run
 
@@ -42,6 +44,32 @@ node server.js
 ```
 
 Generated story images are cached in `languages/<language>/assets/story-ai/`.
+
+## Real ads and purchases
+
+Real payments and rewarded ads require `server.js` or another backend. Do not put secret keys in `index.html`, `script.js`, GitHub Pages, or browser storage.
+
+Backend environment variables:
+
+```powershell
+$env:PUBLIC_APP_URL = "http://127.0.0.1:9876"
+$env:STRIPE_SECRET_KEY = "sk_live_or_test_key"
+$env:STRIPE_PRICE_ID = "price_optional_default"
+$env:COINBASE_COMMERCE_API_KEY = "coinbase_commerce_key"
+$env:GOOGLE_ADSENSE_CLIENT = "ca-pub-0000000000000000"
+$env:GOOGLE_ADSENSE_REWARDED_SLOT = "0000000000"
+$env:GOOGLE_ADSENSE_PUBLISHER_ID = "pub-0000000000000000"
+node server.js
+```
+
+Available local endpoints:
+
+- `POST /api/payments/stripe-checkout` starts a Stripe Checkout Session for a coin package.
+- `POST /api/payments/coinbase-charge` starts a Coinbase Commerce hosted crypto charge.
+- `GET /api/ads/config` exposes only public ad configuration.
+- `GET /ads.txt` emits the Google AdSense publisher line when `GOOGLE_ADSENSE_PUBLISHER_ID` is set.
+
+For production, add webhook verification and a database-backed user ledger before crediting purchased coins.
 
 ## Import format
 
