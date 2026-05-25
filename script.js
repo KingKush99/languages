@@ -710,7 +710,68 @@ function createAdvancedStories(count) {
   });
 }
 
-const russianStories = [...handcraftedStories, ...createGeneratedStories()];
+function enhanceRussianStory(story, index) {
+  const name = seedAt(storySeedData.names, index + 2);
+  const friend = seedAt(storySeedData.names, index + 7);
+  const [placeRu, placeEn] = seedAt(storySeedData.places, index + 3);
+  const [objectRu, objectEn] = seedAt(storySeedData.objects, index + 5);
+  const [themeRu, themeEn] = seedAt(storySeedData.themes, index + 1);
+  const [weatherRu, weatherEn] = seedAt(storySeedData.weather, index + 4);
+  const beginner = [
+    {
+      heading: "Page 1",
+      ru: `${name} открывает окно и видит ${placeRu}. На столе лежит ${objectRu}. Сегодня он учит слова о ${themeRu} и читает их вслух.`,
+      en: `${name} opens the window and sees the ${placeEn}. A ${objectEn} is on the table. Today he studies words about ${themeEn} and reads them aloud.`
+    },
+    {
+      heading: "Page 1",
+      ru: `В ${placeRu} тихо. ${name} покупает чай, находит ${objectRu} и пишет три новых слова. Потом он звонит другу и говорит простое предложение.`,
+      en: `It is quiet in the ${placeEn}. ${name} buys tea, finds a ${objectEn}, and writes three new words. Then he calls a friend and says a simple sentence.`
+    },
+    {
+      heading: "Page 1",
+      ru: `${name} идёт медленно, потому что ${weatherRu}. Возле двери он видит ${objectRu}. Это помогает ему вспомнить слово о ${themeRu}.`,
+      en: `${name} walks slowly because there is ${weatherEn}. Near the door he sees a ${objectEn}. It helps him remember a word about ${themeEn}.`
+    }
+  ];
+  const elementary = [
+    [
+      { heading: "Page 1", ru: `${name} и ${friend} встречаются в ${placeRu}. Они выбирают маленькую задачу: понять короткий текст о ${themeRu}.`, en: `${name} and ${friend} meet in the ${placeEn}. They choose a small task: understand a short text about ${themeEn}.` },
+      { heading: "Page 2", ru: `${friend} показывает ${objectRu}. ${name} сначала ошибается, потом читает фразу ещё раз. В конце они смеются и записывают правильный ответ.`, en: `${friend} shows a ${objectEn}. ${name} makes a mistake at first, then reads the phrase again. In the end they laugh and write the correct answer.` }
+    ],
+    [
+      { heading: "Page 1", ru: `После урока ${name} остаётся в ${placeRu}. На улице ${weatherRu}, поэтому все говорят тихо и слушают внимательно.`, en: `After the lesson ${name} stays in the ${placeEn}. Outside there is ${weatherEn}, so everyone speaks quietly and listens carefully.` },
+      { heading: "Page 2", ru: `Учитель даёт ${objectRu} и просит описать его. ${name} использует новые слова, а ${friend} добавляет пример из жизни.`, en: `The teacher gives a ${objectEn} and asks them to describe it. ${name} uses new words, and ${friend} adds an example from life.` }
+    ]
+  ];
+  const intermediate = [
+    [
+      { heading: "Chapter 1: A Small Clue", ru: `${name} нашёл заметку о ${themeRu} возле ${placeRu}. В заметке было только несколько слов, но одно слово повторялось два раза.`, en: `${name} found a note about ${themeEn} near the ${placeEn}. There were only a few words in the note, but one word appeared twice.` },
+      { heading: "Chapter 2: The Search", ru: `Погода была ${weatherRu}, и улицы быстро пустели. ${name} взял ${objectRu} и пошёл туда, где раньше стоял старый киоск.`, en: `The weather was ${weatherEn}, and the streets emptied quickly. ${name} took a ${objectEn} and went to the place where an old kiosk once stood.` },
+      { heading: "Chapter 3: New Meaning", ru: `Там он встретил ${friend}. Вместе они поняли, что заметка была не просьбой, а приглашением продолжить разговор.`, en: `There he met ${friend}. Together they understood that the note was not a request, but an invitation to continue the conversation.` }
+    ],
+    [
+      { heading: "Chapter 1: The Recording", ru: `${name} слушал старую запись о ${themeRu}. Голос был тихий, поэтому он останавливал запись после каждой фразы.`, en: `${name} listened to an old recording about ${themeEn}. The voice was quiet, so he paused the recording after every phrase.` },
+      { heading: "Chapter 2: The Detail", ru: `В середине записи прозвучало название ${placeRu}. ${name} понял, что должен проверить карту и найти путь до вечера.`, en: `In the middle of the recording, the name of the ${placeEn} was mentioned. ${name} understood that he had to check the map and find the route before evening.` },
+      { heading: "Chapter 3: The Result", ru: `Когда он пришёл, ${friend} уже ждал у входа. Они сравнили слова, нашли ошибку и увидели, что история стала понятной.`, en: `When he arrived, ${friend} was already waiting at the entrance. They compared the words, found the mistake, and saw that the story had become clear.` }
+    ]
+  ];
+  const advanced = [
+    [
+      { heading: "Chapter 1: Arrival", ru: `${name} приехал в ${placeRu}, когда город уже закрывал окна и гасил витрины. ${weatherRu} менял звук улиц, а мысль о ${themeRu} не давала ему повернуть назад.`, en: `${name} arrived at the ${placeEn} when the city was already closing windows and dimming shop lights. The ${weatherEn} changed the sound of the streets, and the thought of ${themeEn} would not let him turn back.` },
+      { heading: "Chapter 2: The Object", ru: `В маленькой комнате лежал ${objectRu}. Он казался обычным, но на его краю были числа, которые совпадали с датой из старого письма.`, en: `In a small room lay a ${objectEn}. It looked ordinary, but on its edge were numbers that matched the date from an old letter.` },
+      { heading: "Chapter 3: Witness", ru: `${friend} помнил эту дату. Он говорил осторожно, выбирая слова, потому что одно неверное имя могло разрушить доверие.`, en: `${friend} remembered that date. He spoke carefully, choosing his words, because one wrong name could destroy trust.` },
+      { heading: "Chapter 4: Decision", ru: `${name} понял, что правда не всегда приходит как ответ. Иногда она приходит как обязанность: прочитать, сохранить и рассказать дальше.`, en: `${name} understood that truth does not always arrive as an answer. Sometimes it arrives as a duty: to read, preserve, and tell the story onward.` }
+    ]
+  ];
+  const replacements = { beginner, elementary, intermediate, advanced };
+  const pool = replacements[story.level];
+  if (!pool) return story;
+  const sections = story.level === "beginner" ? [pool[index % pool.length]] : pool[index % pool.length];
+  return { ...story, sections };
+}
+
+const russianStories = [...handcraftedStories, ...createGeneratedStories().map(enhanceRussianStory)];
 
 const japaneseWordSeeds = [
   ["の", "of; possessive", "particle"], ["に", "to; at", "particle"], ["は", "topic marker", "particle"], ["を", "object marker", "particle"],
@@ -1011,7 +1072,49 @@ const generatedJpStories = [
   ...createAdvancedJpStories(70)
 ];
 
-const japaneseStories = [...handcraftedJapaneseStories, ...generatedJpStories];
+function enhanceJapaneseStory(story, index) {
+  const name = seedAt(jpStorySeedData.names, index + 2);
+  const friend = seedAt(jpStorySeedData.names, index + 7);
+  const [placeJp, placeEn] = seedAt(jpStorySeedData.places, index + 3);
+  const [objectJp, objectEn] = seedAt(jpStorySeedData.objects, index + 5);
+  const [themeJp, themeEn] = seedAt(jpStorySeedData.themes, index + 1);
+  const [weatherJp, weatherEn] = seedAt(jpStorySeedData.weather, index + 4);
+  const beginner = [
+    { heading: "Page 1", ru: `${name}は朝、${placeJp}で小さな${objectJp}を見つけます。新しい言葉を二つ読み、${themeJp}について短く話します。`, en: `In the morning, ${name} finds a small ${objectEn} at the ${placeEn}. They read two new words and briefly talk about ${themeEn}.` },
+    { heading: "Page 1", ru: `${weatherJp}の日、${name}は${placeJp}へ行きます。そこで${objectJp}を使って、先生に一つ質問します。`, en: `On a day with ${weatherEn}, ${name} goes to the ${placeEn}. There they use a ${objectEn} and ask the teacher one question.` },
+    { heading: "Page 1", ru: `${name}は${placeJp}の近くで友達を待ちます。待っている間、${themeJp}の文を読み、声に出して練習します。`, en: `${name} waits for a friend near the ${placeEn}. While waiting, they read sentences about ${themeEn} and practice aloud.` }
+  ];
+  const elementary = [
+    [
+      { heading: "Page 1", ru: `${name}と${friend}は${placeJp}で会います。二人は${themeJp}について話しますが、知らない言葉が一つあります。`, en: `${name} and ${friend} meet at the ${placeEn}. They talk about ${themeEn}, but there is one word they do not know.` },
+      { heading: "Page 2", ru: `${friend}は${objectJp}を指さします。${name}は文をもう一度読み、言葉の意味を場面から考えます。`, en: `${friend} points to a ${objectEn}. ${name} reads the sentence again and thinks about the meaning from the scene.` }
+    ],
+    [
+      { heading: "Page 1", ru: `授業のあと、${name}は${placeJp}に残ります。外は${weatherJp}で、部屋の中は静かです。`, en: `After class, ${name} stays at the ${placeEn}. Outside there is ${weatherEn}, and inside the room it is quiet.` },
+      { heading: "Page 2", ru: `先生は${objectJp}を見せます。${name}は短い説明を書き、${friend}は発音を直してくれます。`, en: `The teacher shows a ${objectEn}. ${name} writes a short description, and ${friend} helps correct the pronunciation.` }
+    ]
+  ];
+  const intermediate = [
+    [
+      { heading: "Chapter 1", ru: `${name}は${themeJp}に関する古い記事を読みました。記事には${placeJp}の名前があり、彼はその場所へ行くことにしました。`, en: `${name} read an old article about ${themeEn}. The article named the ${placeEn}, so he decided to go there.` },
+      { heading: "Chapter 2", ru: `外は${weatherJp}でした。${name}は${objectJp}を持ち、知らない漢字を写真に撮りました。`, en: `Outside there was ${weatherEn}. ${name} carried a ${objectEn} and photographed unfamiliar kanji.` },
+      { heading: "Chapter 3", ru: `${friend}が後で説明してくれました。その言葉は場所だけでなく、昔の約束も表していました。`, en: `${friend} explained it later. The word described not only a place, but also an old promise.` }
+    ]
+  ];
+  const advanced = [
+    [
+      { heading: "Chapter 1", ru: `${name}が${placeJp}に着いたとき、街は${weatherJp}に包まれていました。彼は${themeJp}についての手紙を何度も読み返しました。`, en: `When ${name} reached the ${placeEn}, the town was covered in ${weatherEn}. He reread the letter about ${themeEn} many times.` },
+      { heading: "Chapter 2", ru: `手紙の中の${objectJp}はただの物ではありませんでした。それは家族が沈黙の中で守ってきた記憶でした。`, en: `The ${objectEn} in the letter was not merely an object. It was a memory the family had protected in silence.` },
+      { heading: "Chapter 3", ru: `${friend}はゆっくり話しました。正しい答えよりも、正しく聞く態度のほうが大切だと言いました。`, en: `${friend} spoke slowly. They said that the attitude of listening correctly mattered more than the correct answer.` },
+      { heading: "Chapter 4", ru: `${name}は帰り道で、新しい言葉を一つ選びました。その言葉は物語を閉じるためではなく、続けるためにありました。`, en: `On the way home, ${name} chose one new word. The word existed not to close the story, but to continue it.` }
+    ]
+  ];
+  const pool = { beginner, elementary, intermediate, advanced }[story.level];
+  if (!pool) return story;
+  return { ...story, sections: story.level === "beginner" ? [pool[index % pool.length]] : pool[index % pool.length] };
+}
+
+const japaneseStories = [...handcraftedJapaneseStories, ...generatedJpStories.map(enhanceJapaneseStory)];
 
 // --- NEW LANGUAGES ---
 // Mandarin words (placeholder generated based on user request)
@@ -1319,7 +1422,49 @@ const generatedZhStories = [
   ...createAdvancedZhStories(75)
 ];
 
-const mandarinStories = generatedZhStories;
+function enhanceMandarinStory(story, index) {
+  const name = seedAt(zhStorySeedData.names, index + 2);
+  const friend = seedAt(zhStorySeedData.names, index + 8);
+  const [placeZh, placeEn] = seedAt(zhStorySeedData.places, index + 3);
+  const [objectZh, objectEn] = seedAt(zhStorySeedData.objects, index + 5);
+  const [themeZh, themeEn] = seedAt(zhStorySeedData.themes, index + 1);
+  const [weatherZh, weatherEn] = seedAt(zhStorySeedData.weather, index + 4);
+  const beginner = [
+    { heading: "第1页", ru: `${name}早上来到${placeZh}。他看见一个${objectZh}，也听见有人谈论${themeZh}。他把新词写下来，然后慢慢读一遍。`, en: `In the morning, ${name} comes to the ${placeEn}. He sees a ${objectEn} and hears someone talking about ${themeEn}. He writes down the new words and reads them slowly.` },
+    { heading: "第1页", ru: `${weatherZh}的时候，${name}在${placeZh}等朋友。他用${objectZh}练习一个句子，声音不大，但是很清楚。`, en: `During ${weatherEn}, ${name} waits for a friend at the ${placeEn}. He uses a ${objectEn} to practice one sentence. His voice is not loud, but it is clear.` },
+    { heading: "第1页", ru: `${name}今天学习${themeZh}。老师给他看${objectZh}，让他说出三个简单的句子。`, en: `${name} studies ${themeEn} today. The teacher shows him a ${objectEn} and asks him to say three simple sentences.` }
+  ];
+  const elementary = [
+    [
+      { heading: "第1页", ru: `${name}和${friend}在${placeZh}见面。他们想读一篇关于${themeZh}的短文，但是里面有几个不熟悉的词。`, en: `${name} and ${friend} meet at the ${placeEn}. They want to read a short text about ${themeEn}, but it has several unfamiliar words.` },
+      { heading: "第2页", ru: `${friend}拿起${objectZh}，解释第一个词。${name}重新读句子，终于明白了故事的意思。`, en: `${friend} picks up a ${objectEn} and explains the first word. ${name} reads the sentence again and finally understands the meaning of the story.` }
+    ],
+    [
+      { heading: "第1页", ru: `课后，${name}还留在${placeZh}。外面是${weatherZh}，所以房间里的人都安静地听录音。`, en: `After class, ${name} stays at the ${placeEn}. Outside there is ${weatherEn}, so everyone in the room quietly listens to the recording.` },
+      { heading: "第2页", ru: `录音里多次出现${themeZh}。${name}把关键句子抄下来，${friend}帮他纠正发音。`, en: `${themeEn} appears many times in the recording. ${name} copies the key sentence, and ${friend} helps correct his pronunciation.` }
+    ]
+  ];
+  const intermediate = [
+    [
+      { heading: "第1章：线索", ru: `${name}在${placeZh}附近发现一张纸条。纸条写得很短，只提到${themeZh}和一个奇怪的时间。`, en: `${name} finds a note near the ${placeEn}. The note is short and mentions only ${themeEn} and a strange time.` },
+      { heading: "第2章：寻找", ru: `外面是${weatherZh}，街上的声音变得很远。${name}带着${objectZh}，沿着旧路向前走。`, en: `Outside there is ${weatherEn}, and the sounds of the street feel far away. ${name} carries a ${objectEn} and follows the old road forward.` },
+      { heading: "第3章：答案", ru: `在入口处，${friend}已经等了很久。两个人一起读纸条，发现真正重要的不是地点，而是纸条背后的承诺。`, en: `At the entrance, ${friend} has been waiting for a long time. Together they read the note and discover that the important thing is not the place, but the promise behind it.` }
+    ]
+  ];
+  const advanced = [
+    [
+      { heading: "第1章：抵达", ru: `${name}傍晚到达${placeZh}时，${weatherZh}让整条街像被压低了声音。他反复想起关于${themeZh}的那封信。`, en: `When ${name} reaches the ${placeEn} in the evening, the ${weatherEn} seems to lower the sound of the whole street. He keeps thinking of the letter about ${themeEn}.` },
+      { heading: "第2章：物件", ru: `屋里只有一盏灯和一个${objectZh}。它看起来普通，却藏着过去许多人不愿说出的名字。`, en: `Inside the room there is only one lamp and a ${objectEn}. It looks ordinary, but it holds names many people from the past did not want to say aloud.` },
+      { heading: "第3章：选择", ru: `${friend}提醒他，有些故事不是为了马上得到答案，而是为了学会认真听别人留下的声音。`, en: `${friend} reminds him that some stories are not meant to give an answer immediately, but to teach people to listen carefully to voices left behind.` },
+      { heading: "第4章：继续", ru: `${name}离开时，终于把那个词读对了。这个词没有结束故事，反而让他知道下一页应该从哪里开始。`, en: `When ${name} leaves, he finally reads the word correctly. The word does not end the story; instead, it tells him where the next page should begin.` }
+    ]
+  ];
+  const pool = { beginner, elementary, intermediate, advanced }[story.level];
+  if (!pool) return story;
+  return { ...story, sections: story.level === "beginner" ? [pool[index % pool.length]] : pool[index % pool.length] };
+}
+
+const mandarinStories = generatedZhStories.map(enhanceMandarinStory);
 
 // Hindi words
 function buildHindiWords() {
@@ -1626,7 +1771,49 @@ const generatedHiStories = [
   ...createAdvancedHiStories(75)
 ];
 
-const hindiStories = generatedHiStories;
+function enhanceHindiStory(story, index) {
+  const name = seedAt(hiStorySeedData.names, index + 2);
+  const friend = seedAt(hiStorySeedData.names, index + 8);
+  const [placeHi, placeEn] = seedAt(hiStorySeedData.places, index + 3);
+  const [objectHi, objectEn] = seedAt(hiStorySeedData.objects, index + 5);
+  const [themeHi, themeEn] = seedAt(hiStorySeedData.themes, index + 1);
+  const [weatherHi, weatherEn] = seedAt(hiStorySeedData.weather, index + 4);
+  const beginner = [
+    { heading: "पेज 1", ru: `${name} सुबह ${placeHi} जाता है। वहाँ उसे एक ${objectHi} मिलता है। वह ${themeHi} के बारे में दो नए शब्द पढ़ता है और धीरे-धीरे बोलता है।`, en: `In the morning, ${name} goes to the ${placeEn}. There he finds a ${objectEn}. He reads two new words about ${themeEn} and says them slowly.` },
+    { heading: "पेज 1", ru: `${weatherHi} में ${name} ${placeHi} के पास रुकता है। वह ${objectHi} को देखता है और शिक्षक से एक आसान सवाल पूछता है।`, en: `In ${weatherEn}, ${name} stops near the ${placeEn}. He looks at a ${objectEn} and asks the teacher one easy question.` },
+    { heading: "पेज 1", ru: `${name} आज ${themeHi} सीख रहा है। वह छोटा वाक्य पढ़ता है, फिर उसे अपनी नोटबुक में साफ-साफ लिखता है।`, en: `${name} is learning ${themeEn} today. He reads a short sentence, then writes it clearly in his notebook.` }
+  ];
+  const elementary = [
+    [
+      { heading: "पेज 1", ru: `${name} और ${friend} ${placeHi} में मिलते हैं। वे ${themeHi} पर एक छोटी कहानी पढ़ना चाहते हैं, लेकिन पहला वाक्य कठिन लगता है।`, en: `${name} and ${friend} meet in the ${placeEn}. They want to read a short story about ${themeEn}, but the first sentence feels difficult.` },
+      { heading: "पेज 2", ru: `${friend} ${objectHi} दिखाता है और अर्थ समझाता है। ${name} फिर से पढ़ता है और इस बार पूरी बात समझ जाता है।`, en: `${friend} shows a ${objectEn} and explains the meaning. ${name} reads again and this time understands the whole idea.` }
+    ],
+    [
+      { heading: "पेज 1", ru: `कक्षा के बाद ${name} ${placeHi} में रुकता है। बाहर ${weatherHi} है, इसलिए सब लोग अंदर बैठकर रिकॉर्डिंग सुनते हैं।`, en: `After class, ${name} stays in the ${placeEn}. Outside there is ${weatherEn}, so everyone sits inside and listens to a recording.` },
+      { heading: "पेज 2", ru: `रिकॉर्डिंग में ${themeHi} शब्द कई बार आता है। ${name} उसका उच्चारण करता है, और ${friend} उसे सही लय बताता है।`, en: `The word for ${themeEn} appears many times in the recording. ${name} pronounces it, and ${friend} shows him the correct rhythm.` }
+    ]
+  ];
+  const intermediate = [
+    [
+      { heading: "अध्याय 1: संकेत", ru: `${name} को ${placeHi} के बाहर एक पुराना कागज़ मिला। उसमें ${themeHi} के बारे में सिर्फ तीन पंक्तियाँ थीं, पर हर पंक्ति में एक ही नाम छिपा था।`, en: `${name} found an old paper outside the ${placeEn}. It had only three lines about ${themeEn}, but each line hid the same name.` },
+      { heading: "अध्याय 2: रास्ता", ru: `बाहर ${weatherHi} था। ${name} ने ${objectHi} उठाया और उस गली में गया जहाँ पुराने लोग शाम को कहानियाँ सुनाते थे।`, en: `Outside there was ${weatherEn}. ${name} picked up a ${objectEn} and went to the lane where old people used to tell stories in the evening.` },
+      { heading: "अध्याय 3: अर्थ", ru: `वहाँ ${friend} मिला। दोनों ने मिलकर कागज़ पढ़ा और समझा कि कठिन शब्द असल में एक अधूरी याद का दरवाज़ा था।`, en: `There he met ${friend}. Together they read the paper and understood that the difficult word was actually a door to an unfinished memory.` }
+    ]
+  ];
+  const advanced = [
+    [
+      { heading: "अध्याय 1: आगमन", ru: `${name} देर शाम ${placeHi} पहुँचा। ${weatherHi} ने सड़क को शांत कर दिया था, और उसके मन में ${themeHi} वाली चिट्ठी बार-बार लौट रही थी।`, en: `${name} reached the ${placeEn} late in the evening. The ${weatherEn} had made the road quiet, and the letter about ${themeEn} kept returning to his mind.` },
+      { heading: "अध्याय 2: वस्तु", ru: `कमरे में एक ${objectHi} रखा था। वह साधारण दिखता था, लेकिन उसके किनारे पर लिखे शब्द किसी पुराने फैसले की ओर इशारा करते थे।`, en: `A ${objectEn} was placed in the room. It looked ordinary, but the words written on its edge pointed toward an old decision.` },
+      { heading: "अध्याय 3: गवाही", ru: `${friend} ने धीमी आवाज़ में बताया कि भाषा कभी-कभी सिर्फ अर्थ नहीं देती; वह लोगों के बीच बचा हुआ भरोसा भी सँभालती है।`, en: `${friend} said softly that language sometimes gives more than meaning; it also protects the trust left between people.` },
+      { heading: "अध्याय 4: आगे", ru: `${name} ने आखिरी पंक्ति फिर पढ़ी। अब वह उत्तर खोजने नहीं, बल्कि कहानी को सही आवाज़ में आगे कहने के लिए तैयार था।`, en: `${name} read the last line again. He was no longer searching only for an answer; he was ready to carry the story forward in the right voice.` }
+    ]
+  ];
+  const pool = { beginner, elementary, intermediate, advanced }[story.level];
+  if (!pool) return story;
+  return { ...story, sections: story.level === "beginner" ? [pool[index % pool.length]] : pool[index % pool.length] };
+}
+
+const hindiStories = generatedHiStories.map(enhanceHindiStory);
 
 // Arabic words
 function buildArabicWords() {
@@ -1933,7 +2120,49 @@ const generatedArStories = [
   ...createAdvancedArStories(75)
 ];
 
-const arabicStories = generatedArStories;
+function enhanceArabicStory(story, index) {
+  const name = seedAt(arStorySeedData.names, index + 2);
+  const friend = seedAt(arStorySeedData.names, index + 8);
+  const [placeAr, placeEn] = seedAt(arStorySeedData.places, index + 3);
+  const [objectAr, objectEn] = seedAt(arStorySeedData.objects, index + 5);
+  const [themeAr, themeEn] = seedAt(arStorySeedData.themes, index + 1);
+  const [weatherAr, weatherEn] = seedAt(arStorySeedData.weather, index + 4);
+  const beginner = [
+    { heading: "الصفحة 1", ru: `في الصباح يذهب ${name} إلى ${placeAr}. يرى ${objectAr} صغيرا، ثم يقرأ كلمتين عن ${themeAr} بصوت واضح.`, en: `In the morning, ${name} goes to the ${placeEn}. He sees a small ${objectEn}, then reads two words about ${themeEn} in a clear voice.` },
+    { heading: "الصفحة 1", ru: `عندما يكون الطقس ${weatherAr}، ينتظر ${name} قرب ${placeAr}. يكتب جملة قصيرة ويسأل المعلم عن معنى ${objectAr}.`, en: `When the weather is ${weatherEn}, ${name} waits near the ${placeEn}. He writes a short sentence and asks the teacher about the meaning of a ${objectEn}.` },
+    { heading: "الصفحة 1", ru: `يتعلم ${name} اليوم عن ${themeAr}. يقرأ ببطء، ثم يعيد الجملة حتى تصبح الكلمات أسهل.`, en: `${name} learns about ${themeEn} today. He reads slowly, then repeats the sentence until the words become easier.` }
+  ];
+  const elementary = [
+    [
+      { heading: "الصفحة 1", ru: `يلتقي ${name} و${friend} في ${placeAr}. يريدان قراءة قصة قصيرة عن ${themeAr}، لكن في السطر الأول كلمة جديدة.`, en: `${name} and ${friend} meet in the ${placeEn}. They want to read a short story about ${themeEn}, but the first line has a new word.` },
+      { heading: "الصفحة 2", ru: `يشير ${friend} إلى ${objectAr} ويشرح الفكرة. يقرأ ${name} السطر مرة ثانية، ثم يفهم لماذا تغير معنى القصة.`, en: `${friend} points to a ${objectEn} and explains the idea. ${name} reads the line a second time, then understands why the story's meaning changed.` }
+    ],
+    [
+      { heading: "الصفحة 1", ru: `بعد الدرس يبقى ${name} في ${placeAr}. في الخارج طقس ${weatherAr}، ولذلك يستمع الجميع إلى التسجيل بهدوء.`, en: `After the lesson, ${name} stays in the ${placeEn}. Outside there is ${weatherEn}, so everyone listens quietly to the recording.` },
+      { heading: "الصفحة 2", ru: `تتكرر كلمة ${themeAr} في التسجيل. يكتبها ${name} ثلاث مرات، ويساعده ${friend} على نطق الحروف الصعبة.`, en: `The word for ${themeEn} repeats in the recording. ${name} writes it three times, and ${friend} helps him pronounce the difficult letters.` }
+    ]
+  ];
+  const intermediate = [
+    [
+      { heading: "الفصل 1: أثر", ru: `وجد ${name} ورقة قديمة قرب ${placeAr}. كانت الورقة تتحدث عن ${themeAr}، لكنها تركت أهم جملة ناقصة.`, en: `${name} found an old paper near the ${placeEn}. The paper spoke about ${themeEn}, but it left the most important sentence unfinished.` },
+      { heading: "الفصل 2: الطريق", ru: `كان الطقس ${weatherAr}، والشارع شبه خال. حمل ${name} ${objectAr} ومشى نحو الباب الذي ذكرته الورقة.`, en: `The weather was ${weatherEn}, and the street was almost empty. ${name} carried a ${objectEn} and walked toward the door mentioned in the paper.` },
+      { heading: "الفصل 3: المعنى", ru: `هناك وجد ${friend}. قرآ الكلمات معا، واكتشفا أن الجملة الناقصة كانت وعدا قديما لا سؤالا عاديا.`, en: `There he found ${friend}. They read the words together and discovered that the missing sentence was an old promise, not an ordinary question.` }
+    ]
+  ];
+  const advanced = [
+    [
+      { heading: "الفصل 1: الوصول", ru: `وصل ${name} إلى ${placeAr} في ساعة متأخرة. كان الطقس ${weatherAr}، وكانت فكرة ${themeAr} تتحرك في ذهنه كأنها صوت من بعيد.`, en: `${name} arrived at the ${placeEn} late. The weather was ${weatherEn}, and the thought of ${themeEn} moved through his mind like a distant voice.` },
+      { heading: "الفصل 2: الشيء", ru: `في الغرفة كان هناك ${objectAr}. بدا عاديا، لكن العلامة الصغيرة عليه فتحت بابا إلى قصة لم يروها أحد كاملة.`, en: `In the room there was a ${objectEn}. It looked ordinary, but the small mark on it opened a door to a story no one had told completely.` },
+      { heading: "الفصل 3: الصمت", ru: `قال ${friend} إن بعض الكلمات لا تكشف الحقيقة مباشرة. إنها تجعل القارئ يبطئ، يسمع، ثم يختار ما يجب أن يحفظه.`, en: `${friend} said that some words do not reveal the truth directly. They make the reader slow down, listen, and then choose what must be preserved.` },
+      { heading: "الفصل 4: العودة", ru: `قرأ ${name} الجملة الأخيرة مرة أخرى. هذه المرة لم يبحث عن نهاية، بل عن طريقة يحمل بها القصة إلى الشخص التالي.`, en: `${name} read the final sentence again. This time he was not searching for an ending, but for a way to carry the story to the next person.` }
+    ]
+  ];
+  const pool = { beginner, elementary, intermediate, advanced }[story.level];
+  if (!pool) return story;
+  return { ...story, sections: story.level === "beginner" ? [pool[index % pool.length]] : pool[index % pool.length] };
+}
+
+const arabicStories = generatedArStories.map(enhanceArabicStory);
 
 const initialLanguage = localStorage.getItem("nova_target_language") || "russian";
 const languageDatasets = {
