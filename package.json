@@ -1,0 +1,9 @@
+{
+  "name": "language-learners",
+  "private": true,
+  "scripts": {
+    "media:manifest": "node tools/generate-music-manifest.js",
+    "media:upload:r2": "node tools/upload-media-to-r2.js",
+    "media:check": "node tools/check-media-links.js"
+  }
+}
