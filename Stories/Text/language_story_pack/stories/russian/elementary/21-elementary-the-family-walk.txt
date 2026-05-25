@@ -1,0 +1,24 @@
+Story 21: The Family Walk
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 229-244 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Анна идёт в парк. Там рядом есть мама и брат. Анна читает медленно и замечает новое слово: «дом». День хороший, и русский язык становится ближе.
+
+Page 2:
+Анна пишет слово «дом» в тетради. Потом Анна думает о теме «семья». В этом месте тихо, поэтому Анна снова читает предложение и произносит его вслух.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Anna is in the park. There is mother and brother nearby. Anna reads slowly and notices a new word: house. The day feels good, and the language feels a little closer.
+
+Page 2:
+Anna writes the word house in a notebook. Then Anna thinks about family. The place is quiet, so Anna reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

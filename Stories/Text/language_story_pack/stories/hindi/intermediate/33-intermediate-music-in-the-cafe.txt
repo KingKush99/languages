@@ -1,0 +1,30 @@
+Story 33: Music in the Cafe
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 465-488 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह ओल्गा कैफ़े जाती है। वहाँ पास में संगीत और चाय है। ओल्गा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “गीत।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+ओल्गा अपनी कॉपी में “गीत” शब्द लिखती है। फिर ओल्गा “याद” के बारे में सोचती है। जगह शांत है, इसलिए ओल्गा वाक्य को फिर से पढ़कर धीरे से बोलती है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन ओल्गा नए शब्दों का इस्तेमाल करती है। ओल्गा संगीत को देखती है, फिर चाय को देखती है, और एक आसान योजना बनाती है। अंत में ओल्गा एक साफ़ वाक्य कह सकती है।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is in the cafe. There is music and tea nearby. Olga reads slowly and notices a new word: song. The day feels good, and the language feels a little closer.
+
+Page 2:
+Olga writes the word song in a notebook. Then Olga thinks about memory. The place is quiet, so Olga reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Olga uses the new words to understand it. Olga checks the music, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

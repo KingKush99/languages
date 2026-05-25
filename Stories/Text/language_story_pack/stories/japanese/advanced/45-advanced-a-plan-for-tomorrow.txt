@@ -1,0 +1,42 @@
+Story 45: A Plan for Tomorrow
+Language: Japanese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 791-825 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、レナは家へ行きます。近くに地図とノートがあります。レナはゆっくり読み、新しい言葉「明日」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+レナはノートに「明日」を書きます。それから「計画」について考えます。そこは静かなので、レナは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、レナは新しい言葉を使います。地図を見て、次にノートを見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+Page 4:
+あとで、レナは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。レナはさらに三つの言葉を書き、今日の話とつなげます。
+
+Page 5:
+一日の終わりに、レナはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、レナはほほえみます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Lena is at home. There is map and notebook nearby. Lena reads slowly and notices a new word: tomorrow. The day feels good, and the language feels a little closer.
+
+Page 2:
+Lena writes the word tomorrow in a notebook. Then Lena thinks about plan. The place is quiet, so Lena reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Lena uses the new words to understand it. Lena checks the map, looks at the notebook, and makes a simple plan. By the end, Lena can say one clear sentence.
+
+Page 4:
+Later, Lena meets another person and asks one careful question. The answer is simple, but it helps. Lena writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Lena reads the whole page out loud. The words are not perfect yet, but they are familiar now. Lena smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

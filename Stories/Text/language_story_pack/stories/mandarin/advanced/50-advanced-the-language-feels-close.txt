@@ -1,0 +1,42 @@
+Story 50: The Language Feels Close
+Language: Chinese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 966-1000 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，伊琳娜去公园。旁边有书和电话。伊琳娜慢慢地读，并注意到一个新词：“语言”。今天很好，语言也变得更近了。
+
+Page 2:
+伊琳娜把“语言”写在笔记本里。然后伊琳娜想一想“信心”这个主题。这里很安静，所以伊琳娜又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是伊琳娜用新词来理解。伊琳娜看了看书，又看了看电话，然后做了一个简单的计划。最后，伊琳娜能说出一个清楚的句子。
+
+Page 4:
+后来，伊琳娜遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。伊琳娜又写下三个词，并把它们和今天的故事连起来。
+
+Page 5:
+一天结束时，伊琳娜大声读完整页。词语还不完美，但已经熟悉了。伊琳娜笑了，因为学习变得可能，也变得很近。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is in the park. There is book and phone nearby. Irina reads slowly and notices a new word: language. The day feels good, and the language feels a little closer.
+
+Page 2:
+Irina writes the word language in a notebook. Then Irina thinks about confidence. The place is quiet, so Irina reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Irina uses the new words to understand it. Irina checks the book, looks at the phone, and makes a simple plan. By the end, Irina can say one clear sentence.
+
+Page 4:
+Later, Irina meets another person and asks one careful question. The answer is simple, but it helps. Irina writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Irina reads the whole page out loud. The words are not perfect yet, but they are familiar now. Irina smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,30 @@
+Story 30: The Rainy Lesson
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 393-416 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、イリーナは学校へ行きます。近くに窓と雨があります。イリーナはゆっくり読み、新しい言葉「天気」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+イリーナはノートに「天気」を書きます。それから「勉強」について考えます。そこは静かなので、イリーナは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、イリーナは新しい言葉を使います。窓を見て、次に雨を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is at school. There is window and rain nearby. Irina reads slowly and notices a new word: weather. The day feels good, and the language feels a little closer.
+
+Page 2:
+Irina writes the word weather in a notebook. Then Irina thinks about study. The place is quiet, so Irina reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Irina uses the new words to understand it. Irina checks the window, looks at the rain, and makes a simple plan. By the end, Irina can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

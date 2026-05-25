@@ -1,0 +1,24 @@
+Story 22: The Quiet Room
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 245-260 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Иван идёт в комнату. Там рядом есть стул и книга. Иван читает медленно и замечает новое слово: «комната». День хороший, и русский язык становится ближе.
+
+Page 2:
+Иван пишет слово «комната» в тетради. Потом Иван думает о теме «тишина». В этом месте тихо, поэтому Иван снова читает предложение и произносит его вслух.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Ivan is in the room. There is chair and book nearby. Ivan reads slowly and notices a new word: room. The day feels good, and the language feels a little closer.
+
+Page 2:
+Ivan writes the word room in a notebook. Then Ivan thinks about silence. The place is quiet, so Ivan reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,18 @@
+Story 01: Morning at Home
+Language: Arabic
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 1-9 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+في الصباح، تذهب آنا إلى البيت. هناك شاي وكتاب بالقرب منه. تقرأ آنا ببطء وتلاحظ كلمة جديدة: «مدينة». اليوم جيد، واللغة تصبح أقرب.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Anna is at home. There is tea and book nearby. Anna reads slowly and notices a new word: city. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

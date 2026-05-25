@@ -1,0 +1,24 @@
+Story 25: The Small Market
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 291-305 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，奥尔加去市场。旁边有水果和包。奥尔加慢慢地读，并注意到一个新词：“钱”。今天很好，语言也变得更近了。
+
+Page 2:
+奥尔加把“钱”写在笔记本里。然后奥尔加想一想“市场”这个主题。这里很安静，所以奥尔加又读了一遍句子，并轻声说出来。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is at the market. There is fruit and bag nearby. Olga reads slowly and notices a new word: money. The day feels good, and the language feels a little closer.
+
+Page 2:
+Olga writes the word money in a notebook. Then Olga thinks about market. The place is quiet, so Olga reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

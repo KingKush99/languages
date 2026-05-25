@@ -1,0 +1,1591 @@
+Story 01: Morning at Home
+Language: Hindi
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 1-9 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह अन्ना घर जाती है। वहाँ पास में चाय और किताब है। अन्ना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “शहर।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Anna is at home. There is tea and book nearby. Anna reads slowly and notices a new word: city. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 02: Tea on the Table
+Language: Hindi
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 10-18 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह लीना घर जाती है। वहाँ पास में चाय और रोटी है। लीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “मेज़।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Lena is at home. There is tea and bread nearby. Lena reads slowly and notices a new word: table. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 03: The Open Window
+Language: Hindi
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 19-27 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह इवान घर जाता है। वहाँ पास में खिड़की और किताब है। इवान धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “पुस्तकालय।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Ivan is at home. There is window and book nearby. Ivan reads slowly and notices a new word: library. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 04: Walking to the Park
+Language: Hindi
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 28-36 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह माशा पार्क जाती है। वहाँ पास में माँ और भाई है। माशा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “दोस्त।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Masha is in the park. There is mother and brother nearby. Masha reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 05: A Quiet Street
+Language: Hindi
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 37-44 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह पावेल सड़क जाता है। वहाँ पास में घर और खिड़की है। पावेल धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “सड़क।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Pavel is on the street. There is house and window nearby. Pavel reads slowly and notices a new word: street. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 06: The First Book
+Language: Hindi
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 45-52 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह ओल्गा पुस्तकालय जाती है। वहाँ पास में किताब और कार्ड है। ओल्गा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “शब्द।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is in the library. There is book and card nearby. Olga reads slowly and notices a new word: word. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 07: A Good Day
+Language: Hindi
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 53-60 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह निकोलाई पार्क जाता है। वहाँ पास में सूरज और पेड़ है। निकोलाई धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “अच्छा।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Nikolay is in the park. There is sun and tree nearby. Nikolay reads slowly and notices a new word: good. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 08: At School
+Language: Hindi
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 61-68 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह साशा स्कूल जाता है। वहाँ पास में डेस्क और पेंसिल है। साशा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “स्कूल।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Sasha is at school. There is desk and pencil nearby. Sasha reads slowly and notices a new word: school. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 09: At the Store
+Language: Hindi
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 69-76 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह इरीना दुकान जाती है। वहाँ पास में बैग और खाना है। इरीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “दुकान।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is in the store. There is bag and food nearby. Irina reads slowly and notices a new word: store. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 10: At the Station
+Language: Hindi
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 77-84 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह मारिया स्टेशन जाती है। वहाँ पास में चाय और टिकट है। मारिया धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “स्टेशन।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Maria is at the station. There is tea and ticket nearby. Maria reads slowly and notices a new word: station. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 11: A Simple Call
+Language: Hindi
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 85-92 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह दीमा घर जाता है। वहाँ पास में फ़ोन और कॉपी है। दीमा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “दोस्त।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is at home. There is phone and notebook nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 12: I Know This Word
+Language: Hindi
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 93-100 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह कात्या कमरे जाती है। वहाँ पास में कागज़ और किताब है। कात्या धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “जानना।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Katya is in the room. There is paper and book nearby. Katya reads slowly and notices a new word: know. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 13: The Library Window
+Language: Hindi
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 101-116 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह पावेल पुस्तकालय जाता है। वहाँ पास में खिड़की और कॉपी है। पावेल धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “शांत।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+पावेल अपनी कॉपी में “शांत” शब्द लिखता है। फिर पावेल “पढ़ना” के बारे में सोचता है। जगह शांत है, इसलिए पावेल वाक्य को फिर से पढ़कर धीरे से बोलता है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Pavel is in the library. There is window and notebook nearby. Pavel reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer.
+
+Page 2:
+Pavel writes the word quiet in a notebook. Then Pavel thinks about reading. The place is quiet, so Pavel reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 14: The Museum Visit
+Language: Hindi
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 117-132 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह निकोलाई संग्रहालय जाता है। वहाँ पास में टिकट और तस्वीर है। निकोलाई धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “इतिहास।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+निकोलाई अपनी कॉपी में “इतिहास” शब्द लिखता है। फिर निकोलाई “याद” के बारे में सोचता है। जगह शांत है, इसलिए निकोलाई वाक्य को फिर से पढ़कर धीरे से बोलता है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Nikolay is in the museum. There is ticket and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer.
+
+Page 2:
+Nikolay writes the word history in a notebook. Then Nikolay thinks about memory. The place is quiet, so Nikolay reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 15: The Cafe Notebook
+Language: Hindi
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 133-148 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह ओल्गा कैफ़े जाती है। वहाँ पास में चाय और संगीत है। ओल्गा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “धुन।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+ओल्गा अपनी कॉपी में “धुन” शब्द लिखती है। फिर ओल्गा “सुनना” के बारे में सोचती है। जगह शांत है, इसलिए ओल्गा वाक्य को फिर से पढ़कर धीरे से बोलती है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is in the cafe. There is tea and music nearby. Olga reads slowly and notices a new word: melody. The day feels good, and the language feels a little closer.
+
+Page 2:
+Olga writes the word melody in a notebook. Then Olga thinks about listening. The place is quiet, so Olga reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 16: Rain Near the Door
+Language: Hindi
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 149-164 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह दीमा किताबों की दुकान जाता है। वहाँ पास में दरवाज़ा और किताब है। दीमा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “रास्ता।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+दीमा अपनी कॉपी में “रास्ता” शब्द लिखता है। फिर दीमा “बारिश” के बारे में सोचता है। जगह शांत है, इसलिए दीमा वाक्य को फिर से पढ़कर धीरे से बोलता है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is in the bookshop. There is door and book nearby. Dima reads slowly and notices a new word: road. The day feels good, and the language feels a little closer.
+
+Page 2:
+Dima writes the word road in a notebook. Then Dima thinks about rain. The place is quiet, so Dima reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 17: The Letter on the Table
+Language: Hindi
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 165-180 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह साशा विश्वविद्यालय जाता है। वहाँ पास में पत्र और मेज़ है। साशा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “मुलाकात।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+साशा अपनी कॉपी में “मुलाकात” शब्द लिखता है। फिर साशा “निमंत्रण” के बारे में सोचता है। जगह शांत है, इसलिए साशा वाक्य को फिर से पढ़कर धीरे से बोलता है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Sasha is at the university. There is letter and table nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer.
+
+Page 2:
+Sasha writes the word meeting in a notebook. Then Sasha thinks about invitation. The place is quiet, so Sasha reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 18: Words in the Park
+Language: Hindi
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 181-196 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह इरीना पार्क जाती है। वहाँ पास में फ़ोन और चाय है। इरीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “तीन।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+इरीना अपनी कॉपी में “तीन” शब्द लिखती है। फिर इरीना “बोलना” के बारे में सोचती है। जगह शांत है, इसलिए इरीना वाक्य को फिर से पढ़कर धीरे से बोलती है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is in the park. There is phone and tea nearby. Irina reads slowly and notices a new word: three. The day feels good, and the language feels a little closer.
+
+Page 2:
+Irina writes the word three in a notebook. Then Irina thinks about speaking. The place is quiet, so Irina reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 19: The Little Plan
+Language: Hindi
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 197-212 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह लीना दुकान जाती है। वहाँ पास में नक्शा और टोकरी है। लीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “योजना।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+लीना अपनी कॉपी में “योजना” शब्द लिखती है। फिर लीना “खरीदारी” के बारे में सोचती है। जगह शांत है, इसलिए लीना वाक्य को फिर से पढ़कर धीरे से बोलती है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Lena is in the store. There is map and basket nearby. Lena reads slowly and notices a new word: plan. The day feels good, and the language feels a little closer.
+
+Page 2:
+Lena writes the word plan in a notebook. Then Lena thinks about shopping. The place is quiet, so Lena reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 20: The News Page
+Language: Hindi
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 213-228 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह मारिया स्टेशन जाती है। वहाँ पास में चाय और अख़बार है। मारिया धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “समाचार।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+मारिया अपनी कॉपी में “समाचार” शब्द लिखती है। फिर मारिया “सोच” के बारे में सोचती है। जगह शांत है, इसलिए मारिया वाक्य को फिर से पढ़कर धीरे से बोलती है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Maria is at the station. There is tea and newspaper nearby. Maria reads slowly and notices a new word: news. The day feels good, and the language feels a little closer.
+
+Page 2:
+Maria writes the word news in a notebook. Then Maria thinks about thinking. The place is quiet, so Maria reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 21: The Family Walk
+Language: Hindi
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 229-244 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह अन्ना पार्क जाती है। वहाँ पास में माँ और भाई है। अन्ना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “घर।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+अन्ना अपनी कॉपी में “घर” शब्द लिखती है। फिर अन्ना “परिवार” के बारे में सोचती है। जगह शांत है, इसलिए अन्ना वाक्य को फिर से पढ़कर धीरे से बोलती है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Anna is in the park. There is mother and brother nearby. Anna reads slowly and notices a new word: house. The day feels good, and the language feels a little closer.
+
+Page 2:
+Anna writes the word house in a notebook. Then Anna thinks about family. The place is quiet, so Anna reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 22: The Quiet Room
+Language: Hindi
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 245-260 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह इवान कमरे जाता है। वहाँ पास में कुर्सी और किताब है। इवान धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “कमरा।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+इवान अपनी कॉपी में “कमरा” शब्द लिखता है। फिर इवान “शांति” के बारे में सोचता है। जगह शांत है, इसलिए इवान वाक्य को फिर से पढ़कर धीरे से बोलता है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Ivan is in the room. There is chair and book nearby. Ivan reads slowly and notices a new word: room. The day feels good, and the language feels a little closer.
+
+Page 2:
+Ivan writes the word room in a notebook. Then Ivan thinks about silence. The place is quiet, so Ivan reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 23: The New Teacher
+Language: Hindi
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 261-275 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह माशा स्कूल जाती है। वहाँ पास में शिक्षक और बोर्ड है। माशा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “प्रश्न।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+माशा अपनी कॉपी में “प्रश्न” शब्द लिखती है। फिर माशा “सीखना” के बारे में सोचती है। जगह शांत है, इसलिए माशा वाक्य को फिर से पढ़कर धीरे से बोलती है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Masha is at school. There is teacher and board nearby. Masha reads slowly and notices a new word: question. The day feels good, and the language feels a little closer.
+
+Page 2:
+Masha writes the word question in a notebook. Then Masha thinks about learning. The place is quiet, so Masha reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 24: The Bus Stop
+Language: Hindi
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 276-290 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह पावेल सड़क जाता है। वहाँ पास में टिकट और बस है। पावेल धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “समय।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+पावेल अपनी कॉपी में “समय” शब्द लिखता है। फिर पावेल “इंतज़ार” के बारे में सोचता है। जगह शांत है, इसलिए पावेल वाक्य को फिर से पढ़कर धीरे से बोलता है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Pavel is on the street. There is ticket and bus nearby. Pavel reads slowly and notices a new word: time. The day feels good, and the language feels a little closer.
+
+Page 2:
+Pavel writes the word time in a notebook. Then Pavel thinks about waiting. The place is quiet, so Pavel reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 25: The Small Market
+Language: Hindi
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 291-305 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह ओल्गा बाज़ार जाती है। वहाँ पास में फल और बैग है। ओल्गा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “पैसा।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+ओल्गा अपनी कॉपी में “पैसा” शब्द लिखती है। फिर ओल्गा “बाज़ार” के बारे में सोचती है। जगह शांत है, इसलिए ओल्गा वाक्य को फिर से पढ़कर धीरे से बोलती है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is at the market. There is fruit and bag nearby. Olga reads slowly and notices a new word: money. The day feels good, and the language feels a little closer.
+
+Page 2:
+Olga writes the word money in a notebook. Then Olga thinks about market. The place is quiet, so Olga reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 26: The First Conversation
+Language: Hindi
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 306-320 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह दीमा कैफ़े जाता है। वहाँ पास में फ़ोन और दोस्त है। दीमा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “वाक्य।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+दीमा अपनी कॉपी में “वाक्य” शब्द लिखता है। फिर दीमा “बातचीत” के बारे में सोचता है। जगह शांत है, इसलिए दीमा वाक्य को फिर से पढ़कर धीरे से बोलता है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is in the cafe. There is phone and friend nearby. Dima reads slowly and notices a new word: sentence. The day feels good, and the language feels a little closer.
+
+Page 2:
+Dima writes the word sentence in a notebook. Then Dima thinks about talk. The place is quiet, so Dima reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 27: The Lost Note
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 321-344 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह कात्या पुस्तकालय जाती है। वहाँ पास में नोट और नक्शा है। कात्या धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “जगह।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+कात्या अपनी कॉपी में “जगह” शब्द लिखती है। फिर कात्या “खोज” के बारे में सोचती है। जगह शांत है, इसलिए कात्या वाक्य को फिर से पढ़कर धीरे से बोलती है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन कात्या नए शब्दों का इस्तेमाल करती है। कात्या नोट को देखती है, फिर नक्शा को देखती है, और एक आसान योजना बनाती है। अंत में कात्या एक साफ़ वाक्य कह सकती है।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Katya is in the library. There is note and map nearby. Katya reads slowly and notices a new word: place. The day feels good, and the language feels a little closer.
+
+Page 2:
+Katya writes the word place in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Katya uses the new words to understand it. Katya checks the note, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 28: A Meeting at Noon
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 345-368 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह साशा विश्वविद्यालय जाता है। वहाँ पास में घड़ी और पत्र है। साशा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “दोपहर।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+साशा अपनी कॉपी में “दोपहर” शब्द लिखता है। फिर साशा “मुलाकात” के बारे में सोचता है। जगह शांत है, इसलिए साशा वाक्य को फिर से पढ़कर धीरे से बोलता है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन साशा नए शब्दों का इस्तेमाल करता है। साशा घड़ी को देखता है, फिर पत्र को देखता है, और एक आसान योजना बनाता है। अंत में साशा एक साफ़ वाक्य कह सकता है।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Sasha is at the university. There is clock and letter nearby. Sasha reads slowly and notices a new word: noon. The day feels good, and the language feels a little closer.
+
+Page 2:
+Sasha writes the word noon in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Sasha uses the new words to understand it. Sasha checks the clock, looks at the letter, and makes a simple plan. By the end, Sasha can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 29: The Old Map
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 369-392 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह निकोलाई संग्रहालय जाता है। वहाँ पास में नक्शा और सड़क है। निकोलाई धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “शहर।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+निकोलाई अपनी कॉपी में “शहर” शब्द लिखता है। फिर निकोलाई “इतिहास” के बारे में सोचता है। जगह शांत है, इसलिए निकोलाई वाक्य को फिर से पढ़कर धीरे से बोलता है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन निकोलाई नए शब्दों का इस्तेमाल करता है। निकोलाई नक्शा को देखता है, फिर सड़क को देखता है, और एक आसान योजना बनाता है। अंत में निकोलाई एक साफ़ वाक्य कह सकता है।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Nikolay is in the museum. There is map and street nearby. Nikolay reads slowly and notices a new word: city. The day feels good, and the language feels a little closer.
+
+Page 2:
+Nikolay writes the word city in a notebook. Then Nikolay thinks about history. The place is quiet, so Nikolay reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the map, looks at the street, and makes a simple plan. By the end, Nikolay can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 30: The Rainy Lesson
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 393-416 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह इरीना स्कूल जाती है। वहाँ पास में खिड़की और बारिश है। इरीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “मौसम।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+इरीना अपनी कॉपी में “मौसम” शब्द लिखती है। फिर इरीना “पढ़ाई” के बारे में सोचती है। जगह शांत है, इसलिए इरीना वाक्य को फिर से पढ़कर धीरे से बोलती है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन इरीना नए शब्दों का इस्तेमाल करती है। इरीना खिड़की को देखती है, फिर बारिश को देखती है, और एक आसान योजना बनाती है। अंत में इरीना एक साफ़ वाक्य कह सकती है।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is at school. There is window and rain nearby. Irina reads slowly and notices a new word: weather. The day feels good, and the language feels a little closer.
+
+Page 2:
+Irina writes the word weather in a notebook. Then Irina thinks about study. The place is quiet, so Irina reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Irina uses the new words to understand it. Irina checks the window, looks at the rain, and makes a simple plan. By the end, Irina can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 31: The Museum Question
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 417-440 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह पावेल संग्रहालय जाता है। वहाँ पास में तस्वीर और कॉपी है। पावेल धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “प्रश्न।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+पावेल अपनी कॉपी में “प्रश्न” शब्द लिखता है। फिर पावेल “उत्तर” के बारे में सोचता है। जगह शांत है, इसलिए पावेल वाक्य को फिर से पढ़कर धीरे से बोलता है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन पावेल नए शब्दों का इस्तेमाल करता है। पावेल तस्वीर को देखता है, फिर कॉपी को देखता है, और एक आसान योजना बनाता है। अंत में पावेल एक साफ़ वाक्य कह सकता है।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Pavel is in the museum. There is picture and notebook nearby. Pavel reads slowly and notices a new word: question. The day feels good, and the language feels a little closer.
+
+Page 2:
+Pavel writes the word question in a notebook. Then Pavel thinks about answer. The place is quiet, so Pavel reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Pavel uses the new words to understand it. Pavel checks the picture, looks at the notebook, and makes a simple plan. By the end, Pavel can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 32: The Train Delay
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 441-464 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह मारिया स्टेशन जाती है। वहाँ पास में टिकट और घड़ी है। मारिया धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “रुकना।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+मारिया अपनी कॉपी में “रुकना” शब्द लिखती है। फिर मारिया “यात्रा” के बारे में सोचती है। जगह शांत है, इसलिए मारिया वाक्य को फिर से पढ़कर धीरे से बोलती है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन मारिया नए शब्दों का इस्तेमाल करती है। मारिया टिकट को देखती है, फिर घड़ी को देखती है, और एक आसान योजना बनाती है। अंत में मारिया एक साफ़ वाक्य कह सकती है।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Maria is at the station. There is ticket and clock nearby. Maria reads slowly and notices a new word: wait. The day feels good, and the language feels a little closer.
+
+Page 2:
+Maria writes the word wait in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the clock, and makes a simple plan. By the end, Maria can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 33: Music in the Cafe
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 465-488 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह ओल्गा कैफ़े जाती है। वहाँ पास में संगीत और चाय है। ओल्गा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “गीत।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+ओल्गा अपनी कॉपी में “गीत” शब्द लिखती है। फिर ओल्गा “याद” के बारे में सोचती है। जगह शांत है, इसलिए ओल्गा वाक्य को फिर से पढ़कर धीरे से बोलती है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन ओल्गा नए शब्दों का इस्तेमाल करती है। ओल्गा संगीत को देखती है, फिर चाय को देखती है, और एक आसान योजना बनाती है। अंत में ओल्गा एक साफ़ वाक्य कह सकती है।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is in the cafe. There is music and tea nearby. Olga reads slowly and notices a new word: song. The day feels good, and the language feels a little closer.
+
+Page 2:
+Olga writes the word song in a notebook. Then Olga thinks about memory. The place is quiet, so Olga reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Olga uses the new words to understand it. Olga checks the music, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 34: A Letter from a Friend
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 489-512 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह दीमा घर जाता है। वहाँ पास में पत्र और फ़ोन है। दीमा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “दोस्त।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+दीमा अपनी कॉपी में “दोस्त” शब्द लिखता है। फिर दीमा “निमंत्रण” के बारे में सोचता है। जगह शांत है, इसलिए दीमा वाक्य को फिर से पढ़कर धीरे से बोलता है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन दीमा नए शब्दों का इस्तेमाल करता है। दीमा पत्र को देखता है, फिर फ़ोन को देखता है, और एक आसान योजना बनाता है। अंत में दीमा एक साफ़ वाक्य कह सकता है।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is at home. There is letter and phone nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer.
+
+Page 2:
+Dima writes the word friend in a notebook. Then Dima thinks about invitation. The place is quiet, so Dima reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Dima uses the new words to understand it. Dima checks the letter, looks at the phone, and makes a simple plan. By the end, Dima can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 35: The School Project
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 513-535 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह माशा स्कूल जाती है। वहाँ पास में कागज़ और शिक्षक है। माशा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “परियोजना।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+माशा अपनी कॉपी में “परियोजना” शब्द लिखती है। फिर माशा “समूह” के बारे में सोचती है। जगह शांत है, इसलिए माशा वाक्य को फिर से पढ़कर धीरे से बोलती है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन माशा नए शब्दों का इस्तेमाल करती है। माशा कागज़ को देखती है, फिर शिक्षक को देखती है, और एक आसान योजना बनाती है। अंत में माशा एक साफ़ वाक्य कह सकती है।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Masha is at school. There is paper and teacher nearby. Masha reads slowly and notices a new word: project. The day feels good, and the language feels a little closer.
+
+Page 2:
+Masha writes the word project in a notebook. Then Masha thinks about group. The place is quiet, so Masha reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Masha uses the new words to understand it. Masha checks the paper, looks at the teacher, and makes a simple plan. By the end, Masha can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 36: The City Walk
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 536-558 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह अन्ना शहर जाती है। वहाँ पास में सड़क और खिड़की है। अन्ना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “सैर।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+अन्ना अपनी कॉपी में “सैर” शब्द लिखती है। फिर अन्ना “जगह” के बारे में सोचती है। जगह शांत है, इसलिए अन्ना वाक्य को फिर से पढ़कर धीरे से बोलती है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन अन्ना नए शब्दों का इस्तेमाल करती है। अन्ना सड़क को देखती है, फिर खिड़की को देखती है, और एक आसान योजना बनाती है। अंत में अन्ना एक साफ़ वाक्य कह सकती है।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Anna is in the city. There is street and window nearby. Anna reads slowly and notices a new word: walk. The day feels good, and the language feels a little closer.
+
+Page 2:
+Anna writes the word walk in a notebook. Then Anna thinks about place. The place is quiet, so Anna reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Anna uses the new words to understand it. Anna checks the street, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 37: The Bookshop Door
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 559-581 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह इवान किताबों की दुकान जाता है। वहाँ पास में दरवाज़ा और किताब है। इवान धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “खोलना।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+इवान अपनी कॉपी में “खोलना” शब्द लिखता है। फिर इवान “पढ़ना” के बारे में सोचता है। जगह शांत है, इसलिए इवान वाक्य को फिर से पढ़कर धीरे से बोलता है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन इवान नए शब्दों का इस्तेमाल करता है। इवान दरवाज़ा को देखता है, फिर किताब को देखता है, और एक आसान योजना बनाता है। अंत में इवान एक साफ़ वाक्य कह सकता है।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Ivan is in the bookshop. There is door and book nearby. Ivan reads slowly and notices a new word: open. The day feels good, and the language feels a little closer.
+
+Page 2:
+Ivan writes the word open in a notebook. Then Ivan thinks about reading. The place is quiet, so Ivan reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Ivan uses the new words to understand it. Ivan checks the door, looks at the book, and makes a simple plan. By the end, Ivan can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 38: The Family Story
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 582-604 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह लीना घर जाती है। वहाँ पास में माँ और फ़ोटो है। लीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “कहानी।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+लीना अपनी कॉपी में “कहानी” शब्द लिखती है। फिर लीना “परिवार” के बारे में सोचती है। जगह शांत है, इसलिए लीना वाक्य को फिर से पढ़कर धीरे से बोलती है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन लीना नए शब्दों का इस्तेमाल करती है। लीना माँ को देखती है, फिर फ़ोटो को देखती है, और एक आसान योजना बनाती है। अंत में लीना एक साफ़ वाक्य कह सकती है।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Lena is at home. There is mother and photo nearby. Lena reads slowly and notices a new word: story. The day feels good, and the language feels a little closer.
+
+Page 2:
+Lena writes the word story in a notebook. Then Lena thinks about family. The place is quiet, so Lena reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Lena uses the new words to understand it. Lena checks the mother, looks at the photo, and makes a simple plan. By the end, Lena can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 39: The Important Word
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 605-627 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह पावेल पुस्तकालय जाता है। वहाँ पास में शब्दकोश और कागज़ है। पावेल धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “अर्थ।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+पावेल अपनी कॉपी में “अर्थ” शब्द लिखता है। फिर पावेल “भाषा” के बारे में सोचता है। जगह शांत है, इसलिए पावेल वाक्य को फिर से पढ़कर धीरे से बोलता है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन पावेल नए शब्दों का इस्तेमाल करता है। पावेल शब्दकोश को देखता है, फिर कागज़ को देखता है, और एक आसान योजना बनाता है। अंत में पावेल एक साफ़ वाक्य कह सकता है।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Pavel is in the library. There is dictionary and paper nearby. Pavel reads slowly and notices a new word: meaning. The day feels good, and the language feels a little closer.
+
+Page 2:
+Pavel writes the word meaning in a notebook. Then Pavel thinks about language. The place is quiet, so Pavel reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Pavel uses the new words to understand it. Pavel checks the dictionary, looks at the paper, and makes a simple plan. By the end, Pavel can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 40: Closer Every Day
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 628-650 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह इरीना पार्क जाती है। वहाँ पास में कॉपी और चाय है। इरीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “करीब।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+इरीना अपनी कॉपी में “करीब” शब्द लिखती है। फिर इरीना “दोहराना” के बारे में सोचती है। जगह शांत है, इसलिए इरीना वाक्य को फिर से पढ़कर धीरे से बोलती है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन इरीना नए शब्दों का इस्तेमाल करती है। इरीना कॉपी को देखती है, फिर चाय को देखती है, और एक आसान योजना बनाती है। अंत में इरीना एक साफ़ वाक्य कह सकती है।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is in the park. There is notebook and tea nearby. Irina reads slowly and notices a new word: closer. The day feels good, and the language feels a little closer.
+
+Page 2:
+Irina writes the word closer in a notebook. Then Irina thinks about review. The place is quiet, so Irina reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Irina uses the new words to understand it. Irina checks the notebook, looks at the tea, and makes a simple plan. By the end, Irina can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 41: The Long Walk Through the City
+Language: Hindi
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 651-685 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह अन्ना शहर जाती है। वहाँ पास में नक्शा और खिड़की है। अन्ना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “यात्रा।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+अन्ना अपनी कॉपी में “यात्रा” शब्द लिखती है। फिर अन्ना “शहर” के बारे में सोचती है। जगह शांत है, इसलिए अन्ना वाक्य को फिर से पढ़कर धीरे से बोलती है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन अन्ना नए शब्दों का इस्तेमाल करती है। अन्ना नक्शा को देखती है, फिर खिड़की को देखती है, और एक आसान योजना बनाती है। अंत में अन्ना एक साफ़ वाक्य कह सकती है।
+
+Page 4:
+बाद में अन्ना एक व्यक्ति से मिलती है और एक सावधान प्रश्न पूछती है। उत्तर सरल है, पर मदद करता है। अन्ना तीन और शब्द लिखती है और उन्हें दिन की कहानी से जोड़ती है.
+
+Page 5:
+दिन के अंत में अन्ना पूरा पृष्ठ ज़ोर से पढ़ती है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। अन्ना मुस्कुराती है, क्योंकि सीखना अब संभव और पास लगता है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Anna is in the city. There is map and window nearby. Anna reads slowly and notices a new word: journey. The day feels good, and the language feels a little closer.
+
+Page 2:
+Anna writes the word journey in a notebook. Then Anna thinks about city. The place is quiet, so Anna reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Anna uses the new words to understand it. Anna checks the map, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence.
+
+Page 4:
+Later, Anna meets another person and asks one careful question. The answer is simple, but it helps. Anna writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Anna reads the whole page out loud. The words are not perfect yet, but they are familiar now. Anna smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 42: The Forgotten Invitation
+Language: Hindi
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 686-720 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह साशा विश्वविद्यालय जाता है। वहाँ पास में पत्र और फ़ोन है। साशा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “निमंत्रण।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+साशा अपनी कॉपी में “निमंत्रण” शब्द लिखता है। फिर साशा “मुलाकात” के बारे में सोचता है। जगह शांत है, इसलिए साशा वाक्य को फिर से पढ़कर धीरे से बोलता है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन साशा नए शब्दों का इस्तेमाल करता है। साशा पत्र को देखता है, फिर फ़ोन को देखता है, और एक आसान योजना बनाता है। अंत में साशा एक साफ़ वाक्य कह सकता है।
+
+Page 4:
+बाद में साशा एक व्यक्ति से मिलता है और एक सावधान प्रश्न पूछता है। उत्तर सरल है, पर मदद करता है। साशा तीन और शब्द लिखता है और उन्हें दिन की कहानी से जोड़ता है.
+
+Page 5:
+दिन के अंत में साशा पूरा पृष्ठ ज़ोर से पढ़ता है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। साशा मुस्कुराता है, क्योंकि सीखना अब संभव और पास लगता है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Sasha is at the university. There is letter and phone nearby. Sasha reads slowly and notices a new word: invitation. The day feels good, and the language feels a little closer.
+
+Page 2:
+Sasha writes the word invitation in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the phone, and makes a simple plan. By the end, Sasha can say one clear sentence.
+
+Page 4:
+Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 43: The History Room
+Language: Hindi
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 721-755 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह निकोलाई संग्रहालय जाता है। वहाँ पास में किताब और तस्वीर है। निकोलाई धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “इतिहास।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+निकोलाई अपनी कॉपी में “इतिहास” शब्द लिखता है। फिर निकोलाई “अतीत” के बारे में सोचता है। जगह शांत है, इसलिए निकोलाई वाक्य को फिर से पढ़कर धीरे से बोलता है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन निकोलाई नए शब्दों का इस्तेमाल करता है। निकोलाई किताब को देखता है, फिर तस्वीर को देखता है, और एक आसान योजना बनाता है। अंत में निकोलाई एक साफ़ वाक्य कह सकता है।
+
+Page 4:
+बाद में निकोलाई एक व्यक्ति से मिलता है और एक सावधान प्रश्न पूछता है। उत्तर सरल है, पर मदद करता है। निकोलाई तीन और शब्द लिखता है और उन्हें दिन की कहानी से जोड़ता है.
+
+Page 5:
+दिन के अंत में निकोलाई पूरा पृष्ठ ज़ोर से पढ़ता है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। निकोलाई मुस्कुराता है, क्योंकि सीखना अब संभव और पास लगता है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Nikolay is in the museum. There is book and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer.
+
+Page 2:
+Nikolay writes the word history in a notebook. Then Nikolay thinks about past. The place is quiet, so Nikolay reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the book, looks at the picture, and makes a simple plan. By the end, Nikolay can say one clear sentence.
+
+Page 4:
+Later, Nikolay meets another person and asks one careful question. The answer is simple, but it helps. Nikolay writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Nikolay reads the whole page out loud. The words are not perfect yet, but they are familiar now. Nikolay smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 44: The Quiet Train
+Language: Hindi
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 756-790 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह मारिया ट्रेन जाती है। वहाँ पास में टिकट और चाय है। मारिया धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “शांत।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+मारिया अपनी कॉपी में “शांत” शब्द लिखती है। फिर मारिया “यात्रा” के बारे में सोचती है। जगह शांत है, इसलिए मारिया वाक्य को फिर से पढ़कर धीरे से बोलती है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन मारिया नए शब्दों का इस्तेमाल करती है। मारिया टिकट को देखती है, फिर चाय को देखती है, और एक आसान योजना बनाती है। अंत में मारिया एक साफ़ वाक्य कह सकती है।
+
+Page 4:
+बाद में मारिया एक व्यक्ति से मिलती है और एक सावधान प्रश्न पूछती है। उत्तर सरल है, पर मदद करता है। मारिया तीन और शब्द लिखती है और उन्हें दिन की कहानी से जोड़ती है.
+
+Page 5:
+दिन के अंत में मारिया पूरा पृष्ठ ज़ोर से पढ़ती है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। मारिया मुस्कुराती है, क्योंकि सीखना अब संभव और पास लगता है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Maria is on the train. There is ticket and tea nearby. Maria reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer.
+
+Page 2:
+Maria writes the word quiet in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the tea, and makes a simple plan. By the end, Maria can say one clear sentence.
+
+Page 4:
+Later, Maria meets another person and asks one careful question. The answer is simple, but it helps. Maria writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Maria reads the whole page out loud. The words are not perfect yet, but they are familiar now. Maria smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 45: A Plan for Tomorrow
+Language: Hindi
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 791-825 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह लीना घर जाती है। वहाँ पास में नक्शा और कॉपी है। लीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “कल।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+लीना अपनी कॉपी में “कल” शब्द लिखती है। फिर लीना “योजना” के बारे में सोचती है। जगह शांत है, इसलिए लीना वाक्य को फिर से पढ़कर धीरे से बोलती है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन लीना नए शब्दों का इस्तेमाल करती है। लीना नक्शा को देखती है, फिर कॉपी को देखती है, और एक आसान योजना बनाती है। अंत में लीना एक साफ़ वाक्य कह सकती है।
+
+Page 4:
+बाद में लीना एक व्यक्ति से मिलती है और एक सावधान प्रश्न पूछती है। उत्तर सरल है, पर मदद करता है। लीना तीन और शब्द लिखती है और उन्हें दिन की कहानी से जोड़ती है.
+
+Page 5:
+दिन के अंत में लीना पूरा पृष्ठ ज़ोर से पढ़ती है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। लीना मुस्कुराती है, क्योंकि सीखना अब संभव और पास लगता है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Lena is at home. There is map and notebook nearby. Lena reads slowly and notices a new word: tomorrow. The day feels good, and the language feels a little closer.
+
+Page 2:
+Lena writes the word tomorrow in a notebook. Then Lena thinks about plan. The place is quiet, so Lena reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Lena uses the new words to understand it. Lena checks the map, looks at the notebook, and makes a simple plan. By the end, Lena can say one clear sentence.
+
+Page 4:
+Later, Lena meets another person and asks one careful question. The answer is simple, but it helps. Lena writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Lena reads the whole page out loud. The words are not perfect yet, but they are familiar now. Lena smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 46: News from the Cafe
+Language: Hindi
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 826-860 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह ओल्गा कैफ़े जाती है। वहाँ पास में अख़बार और चाय है। ओल्गा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “समाचार।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+ओल्गा अपनी कॉपी में “समाचार” शब्द लिखती है। फिर ओल्गा “बातचीत” के बारे में सोचती है। जगह शांत है, इसलिए ओल्गा वाक्य को फिर से पढ़कर धीरे से बोलती है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन ओल्गा नए शब्दों का इस्तेमाल करती है। ओल्गा अख़बार को देखती है, फिर चाय को देखती है, और एक आसान योजना बनाती है। अंत में ओल्गा एक साफ़ वाक्य कह सकती है।
+
+Page 4:
+बाद में ओल्गा एक व्यक्ति से मिलती है और एक सावधान प्रश्न पूछती है। उत्तर सरल है, पर मदद करता है। ओल्गा तीन और शब्द लिखती है और उन्हें दिन की कहानी से जोड़ती है.
+
+Page 5:
+दिन के अंत में ओल्गा पूरा पृष्ठ ज़ोर से पढ़ती है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। ओल्गा मुस्कुराती है, क्योंकि सीखना अब संभव और पास लगता है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is in the cafe. There is newspaper and tea nearby. Olga reads slowly and notices a new word: news. The day feels good, and the language feels a little closer.
+
+Page 2:
+Olga writes the word news in a notebook. Then Olga thinks about talk. The place is quiet, so Olga reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Olga uses the new words to understand it. Olga checks the newspaper, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence.
+
+Page 4:
+Later, Olga meets another person and asks one careful question. The answer is simple, but it helps. Olga writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Olga reads the whole page out loud. The words are not perfect yet, but they are familiar now. Olga smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 47: The Word That Changed the Day
+Language: Hindi
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 861-895 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह दीमा सड़क जाता है। वहाँ पास में बैग और किताब है। दीमा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “मदद।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+दीमा अपनी कॉपी में “मदद” शब्द लिखता है। फिर दीमा “रास्ता” के बारे में सोचता है। जगह शांत है, इसलिए दीमा वाक्य को फिर से पढ़कर धीरे से बोलता है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन दीमा नए शब्दों का इस्तेमाल करता है। दीमा बैग को देखता है, फिर किताब को देखता है, और एक आसान योजना बनाता है। अंत में दीमा एक साफ़ वाक्य कह सकता है।
+
+Page 4:
+बाद में दीमा एक व्यक्ति से मिलता है और एक सावधान प्रश्न पूछता है। उत्तर सरल है, पर मदद करता है। दीमा तीन और शब्द लिखता है और उन्हें दिन की कहानी से जोड़ता है.
+
+Page 5:
+दिन के अंत में दीमा पूरा पृष्ठ ज़ोर से पढ़ता है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। दीमा मुस्कुराता है, क्योंकि सीखना अब संभव और पास लगता है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is on the street. There is bag and book nearby. Dima reads slowly and notices a new word: help. The day feels good, and the language feels a little closer.
+
+Page 2:
+Dima writes the word help in a notebook. Then Dima thinks about road. The place is quiet, so Dima reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Dima uses the new words to understand it. Dima checks the bag, looks at the book, and makes a simple plan. By the end, Dima can say one clear sentence.
+
+Page 4:
+Later, Dima meets another person and asks one careful question. The answer is simple, but it helps. Dima writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Dima reads the whole page out loud. The words are not perfect yet, but they are familiar now. Dima smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 48: The Meeting at the University
+Language: Hindi
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 896-930 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह साशा विश्वविद्यालय जाता है। वहाँ पास में पत्र और डेस्क है। साशा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “मुलाकात।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+साशा अपनी कॉपी में “मुलाकात” शब्द लिखता है। फिर साशा “विचार” के बारे में सोचता है। जगह शांत है, इसलिए साशा वाक्य को फिर से पढ़कर धीरे से बोलता है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन साशा नए शब्दों का इस्तेमाल करता है। साशा पत्र को देखता है, फिर डेस्क को देखता है, और एक आसान योजना बनाता है। अंत में साशा एक साफ़ वाक्य कह सकता है।
+
+Page 4:
+बाद में साशा एक व्यक्ति से मिलता है और एक सावधान प्रश्न पूछता है। उत्तर सरल है, पर मदद करता है। साशा तीन और शब्द लिखता है और उन्हें दिन की कहानी से जोड़ता है.
+
+Page 5:
+दिन के अंत में साशा पूरा पृष्ठ ज़ोर से पढ़ता है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। साशा मुस्कुराता है, क्योंकि सीखना अब संभव और पास लगता है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Sasha is at the university. There is letter and desk nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer.
+
+Page 2:
+Sasha writes the word meeting in a notebook. Then Sasha thinks about ideas. The place is quiet, so Sasha reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the desk, and makes a simple plan. By the end, Sasha can say one clear sentence.
+
+Page 4:
+Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 49: The Letter and the Map
+Language: Hindi
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 931-965 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह कात्या पुस्तकालय जाती है। वहाँ पास में पत्र और नक्शा है। कात्या धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “रास्ता।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+कात्या अपनी कॉपी में “रास्ता” शब्द लिखती है। फिर कात्या “खोज” के बारे में सोचती है। जगह शांत है, इसलिए कात्या वाक्य को फिर से पढ़कर धीरे से बोलती है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन कात्या नए शब्दों का इस्तेमाल करती है। कात्या पत्र को देखती है, फिर नक्शा को देखती है, और एक आसान योजना बनाती है। अंत में कात्या एक साफ़ वाक्य कह सकती है।
+
+Page 4:
+बाद में कात्या एक व्यक्ति से मिलती है और एक सावधान प्रश्न पूछती है। उत्तर सरल है, पर मदद करता है। कात्या तीन और शब्द लिखती है और उन्हें दिन की कहानी से जोड़ती है.
+
+Page 5:
+दिन के अंत में कात्या पूरा पृष्ठ ज़ोर से पढ़ती है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। कात्या मुस्कुराती है, क्योंकि सीखना अब संभव और पास लगता है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Katya is in the library. There is letter and map nearby. Katya reads slowly and notices a new word: route. The day feels good, and the language feels a little closer.
+
+Page 2:
+Katya writes the word route in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Katya uses the new words to understand it. Katya checks the letter, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence.
+
+Page 4:
+Later, Katya meets another person and asks one careful question. The answer is simple, but it helps. Katya writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Katya reads the whole page out loud. The words are not perfect yet, but they are familiar now. Katya smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 50: The Language Feels Close
+Language: Hindi
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 966-1000 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह इरीना पार्क जाती है। वहाँ पास में किताब और फ़ोन है। इरीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “भाषा।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.
+
+Page 2:
+इरीना अपनी कॉपी में “भाषा” शब्द लिखती है। फिर इरीना “आत्मविश्वास” के बारे में सोचती है। जगह शांत है, इसलिए इरीना वाक्य को फिर से पढ़कर धीरे से बोलती है.
+
+Page 3:
+एक छोटी-सी समस्या आती है, लेकिन इरीना नए शब्दों का इस्तेमाल करती है। इरीना किताब को देखती है, फिर फ़ोन को देखती है, और एक आसान योजना बनाती है। अंत में इरीना एक साफ़ वाक्य कह सकती है।
+
+Page 4:
+बाद में इरीना एक व्यक्ति से मिलती है और एक सावधान प्रश्न पूछती है। उत्तर सरल है, पर मदद करता है। इरीना तीन और शब्द लिखती है और उन्हें दिन की कहानी से जोड़ती है.
+
+Page 5:
+दिन के अंत में इरीना पूरा पृष्ठ ज़ोर से पढ़ती है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। इरीना मुस्कुराती है, क्योंकि सीखना अब संभव और पास लगता है.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is in the park. There is book and phone nearby. Irina reads slowly and notices a new word: language. The day feels good, and the language feels a little closer.
+
+Page 2:
+Irina writes the word language in a notebook. Then Irina thinks about confidence. The place is quiet, so Irina reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Irina uses the new words to understand it. Irina checks the book, looks at the phone, and makes a simple plan. By the end, Irina can say one clear sentence.
+
+Page 4:
+Later, Irina meets another person and asks one careful question. The answer is simple, but it helps. Irina writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Irina reads the whole page out loud. The words are not perfect yet, but they are familiar now. Irina smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================

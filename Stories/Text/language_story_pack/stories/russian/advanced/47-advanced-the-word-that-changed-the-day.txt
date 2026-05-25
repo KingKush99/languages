@@ -1,0 +1,42 @@
+Story 47: The Word That Changed the Day
+Language: Russian
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 861-895 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Дима идёт на улицу. Там рядом есть сумка и книга. Дима читает медленно и замечает новое слово: «помощь». День хороший, и русский язык становится ближе.
+
+Page 2:
+Дима пишет слово «помощь» в тетради. Потом Дима думает о теме «дорога». В этом месте тихо, поэтому Дима снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Дима использует новые слова. Дима смотрит на сумка, потом на книга, и составляет простой план. В конце Дима может сказать одно понятное предложение.
+
+Page 4:
+Позже Дима встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Дима пишет ещё три слова и связывает их с историей этого дня.
+
+Page 5:
+В конце дня Дима читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Дима улыбается, потому что учиться теперь легче.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is on the street. There is bag and book nearby. Dima reads slowly and notices a new word: help. The day feels good, and the language feels a little closer.
+
+Page 2:
+Dima writes the word help in a notebook. Then Dima thinks about road. The place is quiet, so Dima reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Dima uses the new words to understand it. Dima checks the bag, looks at the book, and makes a simple plan. By the end, Dima can say one clear sentence.
+
+Page 4:
+Later, Dima meets another person and asks one careful question. The answer is simple, but it helps. Dima writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Dima reads the whole page out loud. The words are not perfect yet, but they are familiar now. Dima smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

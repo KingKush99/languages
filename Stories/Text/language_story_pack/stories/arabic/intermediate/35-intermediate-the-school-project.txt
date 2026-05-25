@@ -1,0 +1,30 @@
+Story 35: The School Project
+Language: Arabic
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 513-535 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+في الصباح، تذهب ماشا إلى المدرسة. هناك ورقة ومعلم بالقرب منه. تقرأ ماشا ببطء وتلاحظ كلمة جديدة: «مشروع». اليوم جيد، واللغة تصبح أقرب.
+
+Page 2:
+تكتب ماشا كلمة «مشروع» في الدفتر. ثم تفكر في موضوع «مجموعة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+
+Page 3:
+تظهر مشكلة صغيرة، لكن ماشا تستخدم الكلمات الجديدة. تنظر إلى ورقة، ثم إلى معلم، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Masha is at school. There is paper and teacher nearby. Masha reads slowly and notices a new word: project. The day feels good, and the language feels a little closer.
+
+Page 2:
+Masha writes the word project in a notebook. Then Masha thinks about group. The place is quiet, so Masha reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Masha uses the new words to understand it. Masha checks the paper, looks at the teacher, and makes a simple plan. By the end, Masha can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

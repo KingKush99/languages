@@ -1,0 +1,42 @@
+Story 47: The Word That Changed the Day
+Language: Japanese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 861-895 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、ディマは通りへ行きます。近くにかばんと本があります。ディマはゆっくり読み、新しい言葉「助け」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+ディマはノートに「助け」を書きます。それから「道」について考えます。そこは静かなので、ディマは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、ディマは新しい言葉を使います。かばんを見て、次に本を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+Page 4:
+あとで、ディマは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。ディマはさらに三つの言葉を書き、今日の話とつなげます。
+
+Page 5:
+一日の終わりに、ディマはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、ディマはほほえみます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is on the street. There is bag and book nearby. Dima reads slowly and notices a new word: help. The day feels good, and the language feels a little closer.
+
+Page 2:
+Dima writes the word help in a notebook. Then Dima thinks about road. The place is quiet, so Dima reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Dima uses the new words to understand it. Dima checks the bag, looks at the book, and makes a simple plan. By the end, Dima can say one clear sentence.
+
+Page 4:
+Later, Dima meets another person and asks one careful question. The answer is simple, but it helps. Dima writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Dima reads the whole page out loud. The words are not perfect yet, but they are familiar now. Dima smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

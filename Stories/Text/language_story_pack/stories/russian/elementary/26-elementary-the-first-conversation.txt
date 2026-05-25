@@ -1,0 +1,24 @@
+Story 26: The First Conversation
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 306-320 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Дима идёт в кафе. Там рядом есть телефон и друг. Дима читает медленно и замечает новое слово: «предложение». День хороший, и русский язык становится ближе.
+
+Page 2:
+Дима пишет слово «предложение» в тетради. Потом Дима думает о теме «разговор». В этом месте тихо, поэтому Дима снова читает предложение и произносит его вслух.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is in the cafe. There is phone and friend nearby. Dima reads slowly and notices a new word: sentence. The day feels good, and the language feels a little closer.
+
+Page 2:
+Dima writes the word sentence in a notebook. Then Dima thinks about talk. The place is quiet, so Dima reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

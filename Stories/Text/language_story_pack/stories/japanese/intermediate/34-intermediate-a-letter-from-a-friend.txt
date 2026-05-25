@@ -1,0 +1,30 @@
+Story 34: A Letter from a Friend
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 489-512 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、ディマは家へ行きます。近くに手紙と電話があります。ディマはゆっくり読み、新しい言葉「友だち」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+ディマはノートに「友だち」を書きます。それから「招待」について考えます。そこは静かなので、ディマは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、ディマは新しい言葉を使います。手紙を見て、次に電話を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is at home. There is letter and phone nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer.
+
+Page 2:
+Dima writes the word friend in a notebook. Then Dima thinks about invitation. The place is quiet, so Dima reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Dima uses the new words to understand it. Dima checks the letter, looks at the phone, and makes a simple plan. By the end, Dima can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

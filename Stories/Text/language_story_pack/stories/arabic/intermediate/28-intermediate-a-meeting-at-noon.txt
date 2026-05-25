@@ -1,0 +1,30 @@
+Story 28: A Meeting at Noon
+Language: Arabic
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 345-368 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+في الصباح، يذهب ساشا إلى الجامعة. هناك ساعة ورسالة بالقرب منه. يقرأ ساشا ببطء ويلاحظ كلمة جديدة: «ظهر». اليوم جيد، واللغة تصبح أقرب.
+
+Page 2:
+يكتب ساشا كلمة «ظهر» في الدفتر. ثم يفكر في موضوع «لقاء». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.
+
+Page 3:
+تظهر مشكلة صغيرة، لكن ساشا يستخدم الكلمات الجديدة. ينظر إلى ساعة، ثم إلى رسالة، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Sasha is at the university. There is clock and letter nearby. Sasha reads slowly and notices a new word: noon. The day feels good, and the language feels a little closer.
+
+Page 2:
+Sasha writes the word noon in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Sasha uses the new words to understand it. Sasha checks the clock, looks at the letter, and makes a simple plan. By the end, Sasha can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

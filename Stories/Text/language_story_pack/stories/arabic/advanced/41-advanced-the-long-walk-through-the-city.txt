@@ -1,0 +1,42 @@
+Story 41: The Long Walk Through the City
+Language: Arabic
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 651-685 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+في الصباح، تذهب آنا إلى المدينة. هناك خريطة ونافذة بالقرب منه. تقرأ آنا ببطء وتلاحظ كلمة جديدة: «رحلة». اليوم جيد، واللغة تصبح أقرب.
+
+Page 2:
+تكتب آنا كلمة «رحلة» في الدفتر. ثم تفكر في موضوع «مدينة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+
+Page 3:
+تظهر مشكلة صغيرة، لكن آنا تستخدم الكلمات الجديدة. تنظر إلى خريطة، ثم إلى نافذة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.
+
+Page 4:
+لاحقًا، تلتقي آنا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.
+
+Page 5:
+في نهاية اليوم، تقرأ آنا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم آنا لأن التعلم صار ممكنًا وقريبًا.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Anna is in the city. There is map and window nearby. Anna reads slowly and notices a new word: journey. The day feels good, and the language feels a little closer.
+
+Page 2:
+Anna writes the word journey in a notebook. Then Anna thinks about city. The place is quiet, so Anna reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Anna uses the new words to understand it. Anna checks the map, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence.
+
+Page 4:
+Later, Anna meets another person and asks one careful question. The answer is simple, but it helps. Anna writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Anna reads the whole page out loud. The words are not perfect yet, but they are familiar now. Anna smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,42 @@
+Story 46: News from the Cafe
+Language: Chinese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 826-860 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，奥尔加去咖啡馆。旁边有报纸和茶。奥尔加慢慢地读，并注意到一个新词：“新闻”。今天很好，语言也变得更近了。
+
+Page 2:
+奥尔加把“新闻”写在笔记本里。然后奥尔加想一想“谈话”这个主题。这里很安静，所以奥尔加又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是奥尔加用新词来理解。奥尔加看了看报纸，又看了看茶，然后做了一个简单的计划。最后，奥尔加能说出一个清楚的句子。
+
+Page 4:
+后来，奥尔加遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。奥尔加又写下三个词，并把它们和今天的故事连起来。
+
+Page 5:
+一天结束时，奥尔加大声读完整页。词语还不完美，但已经熟悉了。奥尔加笑了，因为学习变得可能，也变得很近。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is in the cafe. There is newspaper and tea nearby. Olga reads slowly and notices a new word: news. The day feels good, and the language feels a little closer.
+
+Page 2:
+Olga writes the word news in a notebook. Then Olga thinks about talk. The place is quiet, so Olga reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Olga uses the new words to understand it. Olga checks the newspaper, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence.
+
+Page 4:
+Later, Olga meets another person and asks one careful question. The answer is simple, but it helps. Olga writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Olga reads the whole page out loud. The words are not perfect yet, but they are familiar now. Olga smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

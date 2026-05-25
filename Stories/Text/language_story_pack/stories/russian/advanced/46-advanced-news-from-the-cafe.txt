@@ -1,0 +1,42 @@
+Story 46: News from the Cafe
+Language: Russian
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 826-860 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Ольга идёт в кафе. Там рядом есть газета и чай. Ольга читает медленно и замечает новое слово: «новость». День хороший, и русский язык становится ближе.
+
+Page 2:
+Ольга пишет слово «новость» в тетради. Потом Ольга думает о теме «разговор». В этом месте тихо, поэтому Ольга снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Ольга использует новые слова. Ольга смотрит на газета, потом на чай, и составляет простой план. В конце Ольга может сказать одно понятное предложение.
+
+Page 4:
+Позже Ольга встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Ольга пишет ещё три слова и связывает их с историей этого дня.
+
+Page 5:
+В конце дня Ольга читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Ольга улыбается, потому что учиться теперь легче.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is in the cafe. There is newspaper and tea nearby. Olga reads slowly and notices a new word: news. The day feels good, and the language feels a little closer.
+
+Page 2:
+Olga writes the word news in a notebook. Then Olga thinks about talk. The place is quiet, so Olga reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Olga uses the new words to understand it. Olga checks the newspaper, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence.
+
+Page 4:
+Later, Olga meets another person and asks one careful question. The answer is simple, but it helps. Olga writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Olga reads the whole page out loud. The words are not perfect yet, but they are familiar now. Olga smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,30 @@
+Story 32: The Train Delay
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 441-464 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、マリアは駅へ行きます。近くに切符と時計があります。マリアはゆっくり読み、新しい言葉「待つ」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+マリアはノートに「待つ」を書きます。それから「旅」について考えます。そこは静かなので、マリアは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、マリアは新しい言葉を使います。切符を見て、次に時計を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Maria is at the station. There is ticket and clock nearby. Maria reads slowly and notices a new word: wait. The day feels good, and the language feels a little closer.
+
+Page 2:
+Maria writes the word wait in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the clock, and makes a simple plan. By the end, Maria can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

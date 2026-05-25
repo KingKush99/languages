@@ -1,0 +1,30 @@
+Story 32: The Train Delay
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 441-464 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Мария идёт на станцию. Там рядом есть билет и часы. Мария читает медленно и замечает новое слово: «ждать». День хороший, и русский язык становится ближе.
+
+Page 2:
+Мария пишет слово «ждать» в тетради. Потом Мария думает о теме «поездка». В этом месте тихо, поэтому Мария снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Мария использует новые слова. Мария смотрит на билет, потом на часы, и составляет простой план. В конце Мария может сказать одно понятное предложение.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Maria is at the station. There is ticket and clock nearby. Maria reads slowly and notices a new word: wait. The day feels good, and the language feels a little closer.
+
+Page 2:
+Maria writes the word wait in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the clock, and makes a simple plan. By the end, Maria can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

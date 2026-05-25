@@ -1,0 +1,18 @@
+Story 07: A Good Day
+Language: Chinese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 53-60 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，尼古拉去公园。旁边有太阳和树。尼古拉慢慢地读，并注意到一个新词：“好”。今天很好，语言也变得更近了。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Nikolay is in the park. There is sun and tree nearby. Nikolay reads slowly and notices a new word: good. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

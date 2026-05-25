@@ -1,0 +1,30 @@
+Story 38: The Family Story
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 582-604 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、レナは家へ行きます。近くに母と写真があります。レナはゆっくり読み、新しい言葉「物語」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+レナはノートに「物語」を書きます。それから「家族」について考えます。そこは静かなので、レナは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、レナは新しい言葉を使います。母を見て、次に写真を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Lena is at home. There is mother and photo nearby. Lena reads slowly and notices a new word: story. The day feels good, and the language feels a little closer.
+
+Page 2:
+Lena writes the word story in a notebook. Then Lena thinks about family. The place is quiet, so Lena reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Lena uses the new words to understand it. Lena checks the mother, looks at the photo, and makes a simple plan. By the end, Lena can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

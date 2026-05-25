@@ -1,0 +1,18 @@
+Story 09: At the Store
+Language: Japanese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 69-76 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、イリーナは店へ行きます。近くにかばんと食べ物があります。イリーナはゆっくり読み、新しい言葉「店」に気づきます。よい日で、言語が少し近く感じます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is in the store. There is bag and food nearby. Irina reads slowly and notices a new word: store. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

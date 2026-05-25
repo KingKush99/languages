@@ -1,0 +1,24 @@
+Story 16: Rain Near the Door
+Language: Arabic
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 149-164 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+في الصباح، يذهب ديما إلى متجر الكتب. هناك باب وكتاب بالقرب منه. يقرأ ديما ببطء ويلاحظ كلمة جديدة: «طريق». اليوم جيد، واللغة تصبح أقرب.
+
+Page 2:
+يكتب ديما كلمة «طريق» في الدفتر. ثم يفكر في موضوع «مطر». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is in the bookshop. There is door and book nearby. Dima reads slowly and notices a new word: road. The day feels good, and the language feels a little closer.
+
+Page 2:
+Dima writes the word road in a notebook. Then Dima thinks about rain. The place is quiet, so Dima reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

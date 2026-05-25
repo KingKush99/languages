@@ -1,0 +1,30 @@
+Story 36: The City Walk
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 536-558 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Анна идёт в город. Там рядом есть улица и окно. Анна читает медленно и замечает новое слово: «прогулка». День хороший, и русский язык становится ближе.
+
+Page 2:
+Анна пишет слово «прогулка» в тетради. Потом Анна думает о теме «место». В этом месте тихо, поэтому Анна снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Анна использует новые слова. Анна смотрит на улица, потом на окно, и составляет простой план. В конце Анна может сказать одно понятное предложение.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Anna is in the city. There is street and window nearby. Anna reads slowly and notices a new word: walk. The day feels good, and the language feels a little closer.
+
+Page 2:
+Anna writes the word walk in a notebook. Then Anna thinks about place. The place is quiet, so Anna reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Anna uses the new words to understand it. Anna checks the street, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

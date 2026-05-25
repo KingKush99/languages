@@ -1,0 +1,18 @@
+Story 03: The Open Window
+Language: Japanese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 19-27 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、イワンは家へ行きます。近くに窓と本があります。イワンはゆっくり読み、新しい言葉「図書館」に気づきます。よい日で、言語が少し近く感じます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Ivan is at home. There is window and book nearby. Ivan reads slowly and notices a new word: library. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

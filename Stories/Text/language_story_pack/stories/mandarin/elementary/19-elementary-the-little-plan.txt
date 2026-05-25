@@ -1,0 +1,24 @@
+Story 19: The Little Plan
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 197-212 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，莉娜去商店。旁边有地图和篮子。莉娜慢慢地读，并注意到一个新词：“计划”。今天很好，语言也变得更近了。
+
+Page 2:
+莉娜把“计划”写在笔记本里。然后莉娜想一想“购物”这个主题。这里很安静，所以莉娜又读了一遍句子，并轻声说出来。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Lena is in the store. There is map and basket nearby. Lena reads slowly and notices a new word: plan. The day feels good, and the language feels a little closer.
+
+Page 2:
+Lena writes the word plan in a notebook. Then Lena thinks about shopping. The place is quiet, so Lena reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

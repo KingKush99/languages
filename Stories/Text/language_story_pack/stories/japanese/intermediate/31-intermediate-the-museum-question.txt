@@ -1,0 +1,30 @@
+Story 31: The Museum Question
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 417-440 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、パーヴェルは博物館へ行きます。近くに絵とノートがあります。パーヴェルはゆっくり読み、新しい言葉「質問」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+パーヴェルはノートに「質問」を書きます。それから「答え」について考えます。そこは静かなので、パーヴェルは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、パーヴェルは新しい言葉を使います。絵を見て、次にノートを見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Pavel is in the museum. There is picture and notebook nearby. Pavel reads slowly and notices a new word: question. The day feels good, and the language feels a little closer.
+
+Page 2:
+Pavel writes the word question in a notebook. Then Pavel thinks about answer. The place is quiet, so Pavel reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Pavel uses the new words to understand it. Pavel checks the picture, looks at the notebook, and makes a simple plan. By the end, Pavel can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

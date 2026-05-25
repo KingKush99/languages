@@ -1,0 +1,1591 @@
+Story 01: Morning at Home
+Language: Japanese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 1-9 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、アンナは家へ行きます。近くにお茶と本があります。アンナはゆっくり読み、新しい言葉「町」に気づきます。よい日で、言語が少し近く感じます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Anna is at home. There is tea and book nearby. Anna reads slowly and notices a new word: city. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 02: Tea on the Table
+Language: Japanese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 10-18 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、レナは家へ行きます。近くにお茶とパンがあります。レナはゆっくり読み、新しい言葉「テーブル」に気づきます。よい日で、言語が少し近く感じます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Lena is at home. There is tea and bread nearby. Lena reads slowly and notices a new word: table. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 03: The Open Window
+Language: Japanese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 19-27 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、イワンは家へ行きます。近くに窓と本があります。イワンはゆっくり読み、新しい言葉「図書館」に気づきます。よい日で、言語が少し近く感じます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Ivan is at home. There is window and book nearby. Ivan reads slowly and notices a new word: library. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 04: Walking to the Park
+Language: Japanese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 28-36 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、マーシャは公園へ行きます。近くに母と兄弟があります。マーシャはゆっくり読み、新しい言葉「友だち」に気づきます。よい日で、言語が少し近く感じます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Masha is in the park. There is mother and brother nearby. Masha reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 05: A Quiet Street
+Language: Japanese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 37-44 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、パーヴェルは通りへ行きます。近くに家と窓があります。パーヴェルはゆっくり読み、新しい言葉「通り」に気づきます。よい日で、言語が少し近く感じます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Pavel is on the street. There is house and window nearby. Pavel reads slowly and notices a new word: street. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 06: The First Book
+Language: Japanese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 45-52 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、オリガは図書館へ行きます。近くに本とカードがあります。オリガはゆっくり読み、新しい言葉「言葉」に気づきます。よい日で、言語が少し近く感じます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is in the library. There is book and card nearby. Olga reads slowly and notices a new word: word. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 07: A Good Day
+Language: Japanese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 53-60 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、ニコライは公園へ行きます。近くに太陽と木があります。ニコライはゆっくり読み、新しい言葉「よい」に気づきます。よい日で、言語が少し近く感じます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Nikolay is in the park. There is sun and tree nearby. Nikolay reads slowly and notices a new word: good. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 08: At School
+Language: Japanese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 61-68 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、サーシャは学校へ行きます。近くに机と鉛筆があります。サーシャはゆっくり読み、新しい言葉「学校」に気づきます。よい日で、言語が少し近く感じます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Sasha is at school. There is desk and pencil nearby. Sasha reads slowly and notices a new word: school. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 09: At the Store
+Language: Japanese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 69-76 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、イリーナは店へ行きます。近くにかばんと食べ物があります。イリーナはゆっくり読み、新しい言葉「店」に気づきます。よい日で、言語が少し近く感じます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is in the store. There is bag and food nearby. Irina reads slowly and notices a new word: store. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 10: At the Station
+Language: Japanese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 77-84 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、マリアは駅へ行きます。近くにお茶と切符があります。マリアはゆっくり読み、新しい言葉「駅」に気づきます。よい日で、言語が少し近く感じます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Maria is at the station. There is tea and ticket nearby. Maria reads slowly and notices a new word: station. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 11: A Simple Call
+Language: Japanese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 85-92 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、ディマは家へ行きます。近くに電話とノートがあります。ディマはゆっくり読み、新しい言葉「友だち」に気づきます。よい日で、言語が少し近く感じます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is at home. There is phone and notebook nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 12: I Know This Word
+Language: Japanese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 93-100 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、カーチャは部屋へ行きます。近くに紙と本があります。カーチャはゆっくり読み、新しい言葉「知る」に気づきます。よい日で、言語が少し近く感じます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Katya is in the room. There is paper and book nearby. Katya reads slowly and notices a new word: know. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 13: The Library Window
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 101-116 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、パーヴェルは図書館へ行きます。近くに窓とノートがあります。パーヴェルはゆっくり読み、新しい言葉「静か」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+パーヴェルはノートに「静か」を書きます。それから「読むこと」について考えます。そこは静かなので、パーヴェルは文をもう一度読み、小さな声で言います。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Pavel is in the library. There is window and notebook nearby. Pavel reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer.
+
+Page 2:
+Pavel writes the word quiet in a notebook. Then Pavel thinks about reading. The place is quiet, so Pavel reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 14: The Museum Visit
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 117-132 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、ニコライは博物館へ行きます。近くに切符と絵があります。ニコライはゆっくり読み、新しい言葉「歴史」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+ニコライはノートに「歴史」を書きます。それから「記憶」について考えます。そこは静かなので、ニコライは文をもう一度読み、小さな声で言います。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Nikolay is in the museum. There is ticket and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer.
+
+Page 2:
+Nikolay writes the word history in a notebook. Then Nikolay thinks about memory. The place is quiet, so Nikolay reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 15: The Cafe Notebook
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 133-148 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、オリガはカフェへ行きます。近くにお茶と音楽があります。オリガはゆっくり読み、新しい言葉「メロディー」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+オリガはノートに「メロディー」を書きます。それから「聞くこと」について考えます。そこは静かなので、オリガは文をもう一度読み、小さな声で言います。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is in the cafe. There is tea and music nearby. Olga reads slowly and notices a new word: melody. The day feels good, and the language feels a little closer.
+
+Page 2:
+Olga writes the word melody in a notebook. Then Olga thinks about listening. The place is quiet, so Olga reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 16: Rain Near the Door
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 149-164 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、ディマは本屋へ行きます。近くにドアと本があります。ディマはゆっくり読み、新しい言葉「道」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+ディマはノートに「道」を書きます。それから「雨」について考えます。そこは静かなので、ディマは文をもう一度読み、小さな声で言います。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is in the bookshop. There is door and book nearby. Dima reads slowly and notices a new word: road. The day feels good, and the language feels a little closer.
+
+Page 2:
+Dima writes the word road in a notebook. Then Dima thinks about rain. The place is quiet, so Dima reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 17: The Letter on the Table
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 165-180 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、サーシャは大学へ行きます。近くに手紙とテーブルがあります。サーシャはゆっくり読み、新しい言葉「会議」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+サーシャはノートに「会議」を書きます。それから「招待」について考えます。そこは静かなので、サーシャは文をもう一度読み、小さな声で言います。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Sasha is at the university. There is letter and table nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer.
+
+Page 2:
+Sasha writes the word meeting in a notebook. Then Sasha thinks about invitation. The place is quiet, so Sasha reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 18: Words in the Park
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 181-196 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、イリーナは公園へ行きます。近くに電話とお茶があります。イリーナはゆっくり読み、新しい言葉「三つ」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+イリーナはノートに「三つ」を書きます。それから「話すこと」について考えます。そこは静かなので、イリーナは文をもう一度読み、小さな声で言います。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is in the park. There is phone and tea nearby. Irina reads slowly and notices a new word: three. The day feels good, and the language feels a little closer.
+
+Page 2:
+Irina writes the word three in a notebook. Then Irina thinks about speaking. The place is quiet, so Irina reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 19: The Little Plan
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 197-212 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、レナは店へ行きます。近くに地図とかごがあります。レナはゆっくり読み、新しい言葉「計画」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+レナはノートに「計画」を書きます。それから「買い物」について考えます。そこは静かなので、レナは文をもう一度読み、小さな声で言います。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Lena is in the store. There is map and basket nearby. Lena reads slowly and notices a new word: plan. The day feels good, and the language feels a little closer.
+
+Page 2:
+Lena writes the word plan in a notebook. Then Lena thinks about shopping. The place is quiet, so Lena reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 20: The News Page
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 213-228 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、マリアは駅へ行きます。近くにお茶と新聞があります。マリアはゆっくり読み、新しい言葉「ニュース」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+マリアはノートに「ニュース」を書きます。それから「考え」について考えます。そこは静かなので、マリアは文をもう一度読み、小さな声で言います。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Maria is at the station. There is tea and newspaper nearby. Maria reads slowly and notices a new word: news. The day feels good, and the language feels a little closer.
+
+Page 2:
+Maria writes the word news in a notebook. Then Maria thinks about thinking. The place is quiet, so Maria reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 21: The Family Walk
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 229-244 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、アンナは公園へ行きます。近くに母と兄弟があります。アンナはゆっくり読み、新しい言葉「家」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+アンナはノートに「家」を書きます。それから「家族」について考えます。そこは静かなので、アンナは文をもう一度読み、小さな声で言います。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Anna is in the park. There is mother and brother nearby. Anna reads slowly and notices a new word: house. The day feels good, and the language feels a little closer.
+
+Page 2:
+Anna writes the word house in a notebook. Then Anna thinks about family. The place is quiet, so Anna reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 22: The Quiet Room
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 245-260 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、イワンは部屋へ行きます。近くに椅子と本があります。イワンはゆっくり読み、新しい言葉「部屋」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+イワンはノートに「部屋」を書きます。それから「静けさ」について考えます。そこは静かなので、イワンは文をもう一度読み、小さな声で言います。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Ivan is in the room. There is chair and book nearby. Ivan reads slowly and notices a new word: room. The day feels good, and the language feels a little closer.
+
+Page 2:
+Ivan writes the word room in a notebook. Then Ivan thinks about silence. The place is quiet, so Ivan reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 23: The New Teacher
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 261-275 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、マーシャは学校へ行きます。近くに先生とボードがあります。マーシャはゆっくり読み、新しい言葉「質問」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+マーシャはノートに「質問」を書きます。それから「学び」について考えます。そこは静かなので、マーシャは文をもう一度読み、小さな声で言います。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Masha is at school. There is teacher and board nearby. Masha reads slowly and notices a new word: question. The day feels good, and the language feels a little closer.
+
+Page 2:
+Masha writes the word question in a notebook. Then Masha thinks about learning. The place is quiet, so Masha reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 24: The Bus Stop
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 276-290 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、パーヴェルは通りへ行きます。近くに切符とバスがあります。パーヴェルはゆっくり読み、新しい言葉「時間」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+パーヴェルはノートに「時間」を書きます。それから「待つこと」について考えます。そこは静かなので、パーヴェルは文をもう一度読み、小さな声で言います。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Pavel is on the street. There is ticket and bus nearby. Pavel reads slowly and notices a new word: time. The day feels good, and the language feels a little closer.
+
+Page 2:
+Pavel writes the word time in a notebook. Then Pavel thinks about waiting. The place is quiet, so Pavel reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 25: The Small Market
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 291-305 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、オリガは市場へ行きます。近くに果物とかばんがあります。オリガはゆっくり読み、新しい言葉「お金」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+オリガはノートに「お金」を書きます。それから「市場」について考えます。そこは静かなので、オリガは文をもう一度読み、小さな声で言います。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is at the market. There is fruit and bag nearby. Olga reads slowly and notices a new word: money. The day feels good, and the language feels a little closer.
+
+Page 2:
+Olga writes the word money in a notebook. Then Olga thinks about market. The place is quiet, so Olga reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 26: The First Conversation
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 306-320 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、ディマはカフェへ行きます。近くに電話と友だちがあります。ディマはゆっくり読み、新しい言葉「文」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+ディマはノートに「文」を書きます。それから「会話」について考えます。そこは静かなので、ディマは文をもう一度読み、小さな声で言います。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is in the cafe. There is phone and friend nearby. Dima reads slowly and notices a new word: sentence. The day feels good, and the language feels a little closer.
+
+Page 2:
+Dima writes the word sentence in a notebook. Then Dima thinks about talk. The place is quiet, so Dima reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 27: The Lost Note
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 321-344 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、カーチャは図書館へ行きます。近くにメモと地図があります。カーチャはゆっくり読み、新しい言葉「場所」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+カーチャはノートに「場所」を書きます。それから「探すこと」について考えます。そこは静かなので、カーチャは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、カーチャは新しい言葉を使います。メモを見て、次に地図を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Katya is in the library. There is note and map nearby. Katya reads slowly and notices a new word: place. The day feels good, and the language feels a little closer.
+
+Page 2:
+Katya writes the word place in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Katya uses the new words to understand it. Katya checks the note, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 28: A Meeting at Noon
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 345-368 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、サーシャは大学へ行きます。近くに時計と手紙があります。サーシャはゆっくり読み、新しい言葉「正午」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+サーシャはノートに「正午」を書きます。それから「会議」について考えます。そこは静かなので、サーシャは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、サーシャは新しい言葉を使います。時計を見て、次に手紙を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Sasha is at the university. There is clock and letter nearby. Sasha reads slowly and notices a new word: noon. The day feels good, and the language feels a little closer.
+
+Page 2:
+Sasha writes the word noon in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Sasha uses the new words to understand it. Sasha checks the clock, looks at the letter, and makes a simple plan. By the end, Sasha can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 29: The Old Map
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 369-392 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、ニコライは博物館へ行きます。近くに地図と通りがあります。ニコライはゆっくり読み、新しい言葉「町」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+ニコライはノートに「町」を書きます。それから「歴史」について考えます。そこは静かなので、ニコライは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、ニコライは新しい言葉を使います。地図を見て、次に通りを見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Nikolay is in the museum. There is map and street nearby. Nikolay reads slowly and notices a new word: city. The day feels good, and the language feels a little closer.
+
+Page 2:
+Nikolay writes the word city in a notebook. Then Nikolay thinks about history. The place is quiet, so Nikolay reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the map, looks at the street, and makes a simple plan. By the end, Nikolay can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 30: The Rainy Lesson
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 393-416 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、イリーナは学校へ行きます。近くに窓と雨があります。イリーナはゆっくり読み、新しい言葉「天気」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+イリーナはノートに「天気」を書きます。それから「勉強」について考えます。そこは静かなので、イリーナは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、イリーナは新しい言葉を使います。窓を見て、次に雨を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is at school. There is window and rain nearby. Irina reads slowly and notices a new word: weather. The day feels good, and the language feels a little closer.
+
+Page 2:
+Irina writes the word weather in a notebook. Then Irina thinks about study. The place is quiet, so Irina reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Irina uses the new words to understand it. Irina checks the window, looks at the rain, and makes a simple plan. By the end, Irina can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 31: The Museum Question
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 417-440 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、パーヴェルは博物館へ行きます。近くに絵とノートがあります。パーヴェルはゆっくり読み、新しい言葉「質問」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+パーヴェルはノートに「質問」を書きます。それから「答え」について考えます。そこは静かなので、パーヴェルは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、パーヴェルは新しい言葉を使います。絵を見て、次にノートを見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Pavel is in the museum. There is picture and notebook nearby. Pavel reads slowly and notices a new word: question. The day feels good, and the language feels a little closer.
+
+Page 2:
+Pavel writes the word question in a notebook. Then Pavel thinks about answer. The place is quiet, so Pavel reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Pavel uses the new words to understand it. Pavel checks the picture, looks at the notebook, and makes a simple plan. By the end, Pavel can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 32: The Train Delay
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 441-464 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、マリアは駅へ行きます。近くに切符と時計があります。マリアはゆっくり読み、新しい言葉「待つ」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+マリアはノートに「待つ」を書きます。それから「旅」について考えます。そこは静かなので、マリアは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、マリアは新しい言葉を使います。切符を見て、次に時計を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Maria is at the station. There is ticket and clock nearby. Maria reads slowly and notices a new word: wait. The day feels good, and the language feels a little closer.
+
+Page 2:
+Maria writes the word wait in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the clock, and makes a simple plan. By the end, Maria can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 33: Music in the Cafe
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 465-488 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、オリガはカフェへ行きます。近くに音楽とお茶があります。オリガはゆっくり読み、新しい言葉「歌」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+オリガはノートに「歌」を書きます。それから「記憶」について考えます。そこは静かなので、オリガは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、オリガは新しい言葉を使います。音楽を見て、次にお茶を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is in the cafe. There is music and tea nearby. Olga reads slowly and notices a new word: song. The day feels good, and the language feels a little closer.
+
+Page 2:
+Olga writes the word song in a notebook. Then Olga thinks about memory. The place is quiet, so Olga reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Olga uses the new words to understand it. Olga checks the music, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 34: A Letter from a Friend
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 489-512 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、ディマは家へ行きます。近くに手紙と電話があります。ディマはゆっくり読み、新しい言葉「友だち」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+ディマはノートに「友だち」を書きます。それから「招待」について考えます。そこは静かなので、ディマは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、ディマは新しい言葉を使います。手紙を見て、次に電話を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is at home. There is letter and phone nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer.
+
+Page 2:
+Dima writes the word friend in a notebook. Then Dima thinks about invitation. The place is quiet, so Dima reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Dima uses the new words to understand it. Dima checks the letter, looks at the phone, and makes a simple plan. By the end, Dima can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 35: The School Project
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 513-535 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、マーシャは学校へ行きます。近くに紙と先生があります。マーシャはゆっくり読み、新しい言葉「プロジェクト」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+マーシャはノートに「プロジェクト」を書きます。それから「グループ」について考えます。そこは静かなので、マーシャは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、マーシャは新しい言葉を使います。紙を見て、次に先生を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Masha is at school. There is paper and teacher nearby. Masha reads slowly and notices a new word: project. The day feels good, and the language feels a little closer.
+
+Page 2:
+Masha writes the word project in a notebook. Then Masha thinks about group. The place is quiet, so Masha reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Masha uses the new words to understand it. Masha checks the paper, looks at the teacher, and makes a simple plan. By the end, Masha can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 36: The City Walk
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 536-558 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、アンナは町へ行きます。近くに通りと窓があります。アンナはゆっくり読み、新しい言葉「散歩」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+アンナはノートに「散歩」を書きます。それから「場所」について考えます。そこは静かなので、アンナは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、アンナは新しい言葉を使います。通りを見て、次に窓を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Anna is in the city. There is street and window nearby. Anna reads slowly and notices a new word: walk. The day feels good, and the language feels a little closer.
+
+Page 2:
+Anna writes the word walk in a notebook. Then Anna thinks about place. The place is quiet, so Anna reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Anna uses the new words to understand it. Anna checks the street, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 37: The Bookshop Door
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 559-581 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、イワンは本屋へ行きます。近くにドアと本があります。イワンはゆっくり読み、新しい言葉「開ける」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+イワンはノートに「開ける」を書きます。それから「読むこと」について考えます。そこは静かなので、イワンは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、イワンは新しい言葉を使います。ドアを見て、次に本を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Ivan is in the bookshop. There is door and book nearby. Ivan reads slowly and notices a new word: open. The day feels good, and the language feels a little closer.
+
+Page 2:
+Ivan writes the word open in a notebook. Then Ivan thinks about reading. The place is quiet, so Ivan reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Ivan uses the new words to understand it. Ivan checks the door, looks at the book, and makes a simple plan. By the end, Ivan can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 38: The Family Story
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 582-604 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、レナは家へ行きます。近くに母と写真があります。レナはゆっくり読み、新しい言葉「物語」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+レナはノートに「物語」を書きます。それから「家族」について考えます。そこは静かなので、レナは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、レナは新しい言葉を使います。母を見て、次に写真を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Lena is at home. There is mother and photo nearby. Lena reads slowly and notices a new word: story. The day feels good, and the language feels a little closer.
+
+Page 2:
+Lena writes the word story in a notebook. Then Lena thinks about family. The place is quiet, so Lena reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Lena uses the new words to understand it. Lena checks the mother, looks at the photo, and makes a simple plan. By the end, Lena can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 39: The Important Word
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 605-627 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、パーヴェルは図書館へ行きます。近くに辞書と紙があります。パーヴェルはゆっくり読み、新しい言葉「意味」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+パーヴェルはノートに「意味」を書きます。それから「言語」について考えます。そこは静かなので、パーヴェルは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、パーヴェルは新しい言葉を使います。辞書を見て、次に紙を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Pavel is in the library. There is dictionary and paper nearby. Pavel reads slowly and notices a new word: meaning. The day feels good, and the language feels a little closer.
+
+Page 2:
+Pavel writes the word meaning in a notebook. Then Pavel thinks about language. The place is quiet, so Pavel reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Pavel uses the new words to understand it. Pavel checks the dictionary, looks at the paper, and makes a simple plan. By the end, Pavel can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 40: Closer Every Day
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 628-650 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、イリーナは公園へ行きます。近くにノートとお茶があります。イリーナはゆっくり読み、新しい言葉「近い」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+イリーナはノートに「近い」を書きます。それから「復習」について考えます。そこは静かなので、イリーナは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、イリーナは新しい言葉を使います。ノートを見て、次にお茶を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is in the park. There is notebook and tea nearby. Irina reads slowly and notices a new word: closer. The day feels good, and the language feels a little closer.
+
+Page 2:
+Irina writes the word closer in a notebook. Then Irina thinks about review. The place is quiet, so Irina reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Irina uses the new words to understand it. Irina checks the notebook, looks at the tea, and makes a simple plan. By the end, Irina can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 41: The Long Walk Through the City
+Language: Japanese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 651-685 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、アンナは町へ行きます。近くに地図と窓があります。アンナはゆっくり読み、新しい言葉「旅」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+アンナはノートに「旅」を書きます。それから「町」について考えます。そこは静かなので、アンナは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、アンナは新しい言葉を使います。地図を見て、次に窓を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+Page 4:
+あとで、アンナは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。アンナはさらに三つの言葉を書き、今日の話とつなげます。
+
+Page 5:
+一日の終わりに、アンナはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、アンナはほほえみます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Anna is in the city. There is map and window nearby. Anna reads slowly and notices a new word: journey. The day feels good, and the language feels a little closer.
+
+Page 2:
+Anna writes the word journey in a notebook. Then Anna thinks about city. The place is quiet, so Anna reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Anna uses the new words to understand it. Anna checks the map, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence.
+
+Page 4:
+Later, Anna meets another person and asks one careful question. The answer is simple, but it helps. Anna writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Anna reads the whole page out loud. The words are not perfect yet, but they are familiar now. Anna smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 42: The Forgotten Invitation
+Language: Japanese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 686-720 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、サーシャは大学へ行きます。近くに手紙と電話があります。サーシャはゆっくり読み、新しい言葉「招待」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+サーシャはノートに「招待」を書きます。それから「会議」について考えます。そこは静かなので、サーシャは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、サーシャは新しい言葉を使います。手紙を見て、次に電話を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+Page 4:
+あとで、サーシャは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。サーシャはさらに三つの言葉を書き、今日の話とつなげます。
+
+Page 5:
+一日の終わりに、サーシャはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、サーシャはほほえみます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Sasha is at the university. There is letter and phone nearby. Sasha reads slowly and notices a new word: invitation. The day feels good, and the language feels a little closer.
+
+Page 2:
+Sasha writes the word invitation in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the phone, and makes a simple plan. By the end, Sasha can say one clear sentence.
+
+Page 4:
+Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 43: The History Room
+Language: Japanese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 721-755 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、ニコライは博物館へ行きます。近くに本と絵があります。ニコライはゆっくり読み、新しい言葉「歴史」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+ニコライはノートに「歴史」を書きます。それから「過去」について考えます。そこは静かなので、ニコライは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、ニコライは新しい言葉を使います。本を見て、次に絵を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+Page 4:
+あとで、ニコライは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。ニコライはさらに三つの言葉を書き、今日の話とつなげます。
+
+Page 5:
+一日の終わりに、ニコライはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、ニコライはほほえみます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Nikolay is in the museum. There is book and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer.
+
+Page 2:
+Nikolay writes the word history in a notebook. Then Nikolay thinks about past. The place is quiet, so Nikolay reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the book, looks at the picture, and makes a simple plan. By the end, Nikolay can say one clear sentence.
+
+Page 4:
+Later, Nikolay meets another person and asks one careful question. The answer is simple, but it helps. Nikolay writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Nikolay reads the whole page out loud. The words are not perfect yet, but they are familiar now. Nikolay smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 44: The Quiet Train
+Language: Japanese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 756-790 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、マリアは電車へ行きます。近くに切符とお茶があります。マリアはゆっくり読み、新しい言葉「静か」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+マリアはノートに「静か」を書きます。それから「旅」について考えます。そこは静かなので、マリアは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、マリアは新しい言葉を使います。切符を見て、次にお茶を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+Page 4:
+あとで、マリアは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。マリアはさらに三つの言葉を書き、今日の話とつなげます。
+
+Page 5:
+一日の終わりに、マリアはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、マリアはほほえみます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Maria is on the train. There is ticket and tea nearby. Maria reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer.
+
+Page 2:
+Maria writes the word quiet in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the tea, and makes a simple plan. By the end, Maria can say one clear sentence.
+
+Page 4:
+Later, Maria meets another person and asks one careful question. The answer is simple, but it helps. Maria writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Maria reads the whole page out loud. The words are not perfect yet, but they are familiar now. Maria smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 45: A Plan for Tomorrow
+Language: Japanese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 791-825 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、レナは家へ行きます。近くに地図とノートがあります。レナはゆっくり読み、新しい言葉「明日」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+レナはノートに「明日」を書きます。それから「計画」について考えます。そこは静かなので、レナは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、レナは新しい言葉を使います。地図を見て、次にノートを見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+Page 4:
+あとで、レナは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。レナはさらに三つの言葉を書き、今日の話とつなげます。
+
+Page 5:
+一日の終わりに、レナはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、レナはほほえみます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Lena is at home. There is map and notebook nearby. Lena reads slowly and notices a new word: tomorrow. The day feels good, and the language feels a little closer.
+
+Page 2:
+Lena writes the word tomorrow in a notebook. Then Lena thinks about plan. The place is quiet, so Lena reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Lena uses the new words to understand it. Lena checks the map, looks at the notebook, and makes a simple plan. By the end, Lena can say one clear sentence.
+
+Page 4:
+Later, Lena meets another person and asks one careful question. The answer is simple, but it helps. Lena writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Lena reads the whole page out loud. The words are not perfect yet, but they are familiar now. Lena smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 46: News from the Cafe
+Language: Japanese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 826-860 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、オリガはカフェへ行きます。近くに新聞とお茶があります。オリガはゆっくり読み、新しい言葉「ニュース」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+オリガはノートに「ニュース」を書きます。それから「会話」について考えます。そこは静かなので、オリガは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、オリガは新しい言葉を使います。新聞を見て、次にお茶を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+Page 4:
+あとで、オリガは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。オリガはさらに三つの言葉を書き、今日の話とつなげます。
+
+Page 5:
+一日の終わりに、オリガはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、オリガはほほえみます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is in the cafe. There is newspaper and tea nearby. Olga reads slowly and notices a new word: news. The day feels good, and the language feels a little closer.
+
+Page 2:
+Olga writes the word news in a notebook. Then Olga thinks about talk. The place is quiet, so Olga reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Olga uses the new words to understand it. Olga checks the newspaper, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence.
+
+Page 4:
+Later, Olga meets another person and asks one careful question. The answer is simple, but it helps. Olga writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Olga reads the whole page out loud. The words are not perfect yet, but they are familiar now. Olga smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 47: The Word That Changed the Day
+Language: Japanese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 861-895 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、ディマは通りへ行きます。近くにかばんと本があります。ディマはゆっくり読み、新しい言葉「助け」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+ディマはノートに「助け」を書きます。それから「道」について考えます。そこは静かなので、ディマは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、ディマは新しい言葉を使います。かばんを見て、次に本を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+Page 4:
+あとで、ディマは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。ディマはさらに三つの言葉を書き、今日の話とつなげます。
+
+Page 5:
+一日の終わりに、ディマはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、ディマはほほえみます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is on the street. There is bag and book nearby. Dima reads slowly and notices a new word: help. The day feels good, and the language feels a little closer.
+
+Page 2:
+Dima writes the word help in a notebook. Then Dima thinks about road. The place is quiet, so Dima reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Dima uses the new words to understand it. Dima checks the bag, looks at the book, and makes a simple plan. By the end, Dima can say one clear sentence.
+
+Page 4:
+Later, Dima meets another person and asks one careful question. The answer is simple, but it helps. Dima writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Dima reads the whole page out loud. The words are not perfect yet, but they are familiar now. Dima smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 48: The Meeting at the University
+Language: Japanese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 896-930 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、サーシャは大学へ行きます。近くに手紙と机があります。サーシャはゆっくり読み、新しい言葉「会議」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+サーシャはノートに「会議」を書きます。それから「考え」について考えます。そこは静かなので、サーシャは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、サーシャは新しい言葉を使います。手紙を見て、次に机を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+Page 4:
+あとで、サーシャは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。サーシャはさらに三つの言葉を書き、今日の話とつなげます。
+
+Page 5:
+一日の終わりに、サーシャはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、サーシャはほほえみます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Sasha is at the university. There is letter and desk nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer.
+
+Page 2:
+Sasha writes the word meeting in a notebook. Then Sasha thinks about ideas. The place is quiet, so Sasha reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the desk, and makes a simple plan. By the end, Sasha can say one clear sentence.
+
+Page 4:
+Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 49: The Letter and the Map
+Language: Japanese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 931-965 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、カーチャは図書館へ行きます。近くに手紙と地図があります。カーチャはゆっくり読み、新しい言葉「道順」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+カーチャはノートに「道順」を書きます。それから「探すこと」について考えます。そこは静かなので、カーチャは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、カーチャは新しい言葉を使います。手紙を見て、次に地図を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+Page 4:
+あとで、カーチャは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。カーチャはさらに三つの言葉を書き、今日の話とつなげます。
+
+Page 5:
+一日の終わりに、カーチャはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、カーチャはほほえみます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Katya is in the library. There is letter and map nearby. Katya reads slowly and notices a new word: route. The day feels good, and the language feels a little closer.
+
+Page 2:
+Katya writes the word route in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Katya uses the new words to understand it. Katya checks the letter, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence.
+
+Page 4:
+Later, Katya meets another person and asks one careful question. The answer is simple, but it helps. Katya writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Katya reads the whole page out loud. The words are not perfect yet, but they are familiar now. Katya smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 50: The Language Feels Close
+Language: Japanese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 966-1000 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、イリーナは公園へ行きます。近くに本と電話があります。イリーナはゆっくり読み、新しい言葉「言語」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+イリーナはノートに「言語」を書きます。それから「自信」について考えます。そこは静かなので、イリーナは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、イリーナは新しい言葉を使います。本を見て、次に電話を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+Page 4:
+あとで、イリーナは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。イリーナはさらに三つの言葉を書き、今日の話とつなげます。
+
+Page 5:
+一日の終わりに、イリーナはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、イリーナはほほえみます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is in the park. There is book and phone nearby. Irina reads slowly and notices a new word: language. The day feels good, and the language feels a little closer.
+
+Page 2:
+Irina writes the word language in a notebook. Then Irina thinks about confidence. The place is quiet, so Irina reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Irina uses the new words to understand it. Irina checks the book, looks at the phone, and makes a simple plan. By the end, Irina can say one clear sentence.
+
+Page 4:
+Later, Irina meets another person and asks one careful question. The answer is simple, but it helps. Irina writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Irina reads the whole page out loud. The words are not perfect yet, but they are familiar now. Irina smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================

@@ -1,0 +1,42 @@
+Story 48: The Meeting at the University
+Language: Arabic
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 896-930 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+في الصباح، يذهب ساشا إلى الجامعة. هناك رسالة ومكتب بالقرب منه. يقرأ ساشا ببطء ويلاحظ كلمة جديدة: «لقاء». اليوم جيد، واللغة تصبح أقرب.
+
+Page 2:
+يكتب ساشا كلمة «لقاء» في الدفتر. ثم يفكر في موضوع «أفكار». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.
+
+Page 3:
+تظهر مشكلة صغيرة، لكن ساشا يستخدم الكلمات الجديدة. ينظر إلى رسالة، ثم إلى مكتب، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.
+
+Page 4:
+لاحقًا، يلتقي ساشا شخصًا آخر ويسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. يكتب ثلاث كلمات أخرى ويربطها بقصة اليوم.
+
+Page 5:
+في نهاية اليوم، يقرأ ساشا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. يبتسم ساشا لأن التعلم صار ممكنًا وقريبًا.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Sasha is at the university. There is letter and desk nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer.
+
+Page 2:
+Sasha writes the word meeting in a notebook. Then Sasha thinks about ideas. The place is quiet, so Sasha reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the desk, and makes a simple plan. By the end, Sasha can say one clear sentence.
+
+Page 4:
+Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

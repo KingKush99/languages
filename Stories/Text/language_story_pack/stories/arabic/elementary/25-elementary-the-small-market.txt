@@ -1,0 +1,24 @@
+Story 25: The Small Market
+Language: Arabic
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 291-305 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+في الصباح، تذهب أولغا إلى السوق. هناك فاكهة وحقيبة بالقرب منه. تقرأ أولغا ببطء وتلاحظ كلمة جديدة: «مال». اليوم جيد، واللغة تصبح أقرب.
+
+Page 2:
+تكتب أولغا كلمة «مال» في الدفتر. ثم تفكر في موضوع «سوق». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is at the market. There is fruit and bag nearby. Olga reads slowly and notices a new word: money. The day feels good, and the language feels a little closer.
+
+Page 2:
+Olga writes the word money in a notebook. Then Olga thinks about market. The place is quiet, so Olga reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,24 @@
+Story 18: Words in the Park
+Language: Arabic
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 181-196 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+في الصباح، تذهب إيرينا إلى الحديقة. هناك هاتف وشاي بالقرب منه. تقرأ إيرينا ببطء وتلاحظ كلمة جديدة: «ثلاثة». اليوم جيد، واللغة تصبح أقرب.
+
+Page 2:
+تكتب إيرينا كلمة «ثلاثة» في الدفتر. ثم تفكر في موضوع «كلام». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is in the park. There is phone and tea nearby. Irina reads slowly and notices a new word: three. The day feels good, and the language feels a little closer.
+
+Page 2:
+Irina writes the word three in a notebook. Then Irina thinks about speaking. The place is quiet, so Irina reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

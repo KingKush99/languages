@@ -1,0 +1,42 @@
+Story 41: The Long Walk Through the City
+Language: Russian
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 651-685 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Анна идёт в город. Там рядом есть карта и окно. Анна читает медленно и замечает новое слово: «путь». День хороший, и русский язык становится ближе.
+
+Page 2:
+Анна пишет слово «путь» в тетради. Потом Анна думает о теме «город». В этом месте тихо, поэтому Анна снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Анна использует новые слова. Анна смотрит на карта, потом на окно, и составляет простой план. В конце Анна может сказать одно понятное предложение.
+
+Page 4:
+Позже Анна встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Анна пишет ещё три слова и связывает их с историей этого дня.
+
+Page 5:
+В конце дня Анна читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Анна улыбается, потому что учиться теперь легче.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Anna is in the city. There is map and window nearby. Anna reads slowly and notices a new word: journey. The day feels good, and the language feels a little closer.
+
+Page 2:
+Anna writes the word journey in a notebook. Then Anna thinks about city. The place is quiet, so Anna reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Anna uses the new words to understand it. Anna checks the map, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence.
+
+Page 4:
+Later, Anna meets another person and asks one careful question. The answer is simple, but it helps. Anna writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Anna reads the whole page out loud. The words are not perfect yet, but they are familiar now. Anna smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

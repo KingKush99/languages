@@ -1,0 +1,24 @@
+Story 25: The Small Market
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 291-305 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Ольга идёт на рынок. Там рядом есть фрукты и сумка. Ольга читает медленно и замечает новое слово: «деньги». День хороший, и русский язык становится ближе.
+
+Page 2:
+Ольга пишет слово «деньги» в тетради. Потом Ольга думает о теме «рынок». В этом месте тихо, поэтому Ольга снова читает предложение и произносит его вслух.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is at the market. There is fruit and bag nearby. Olga reads slowly and notices a new word: money. The day feels good, and the language feels a little closer.
+
+Page 2:
+Olga writes the word money in a notebook. Then Olga thinks about market. The place is quiet, so Olga reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

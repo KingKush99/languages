@@ -1,0 +1,30 @@
+Story 30: The Rainy Lesson
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 393-416 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Ирина идёт в школу. Там рядом есть окно и дождь. Ирина читает медленно и замечает новое слово: «погода». День хороший, и русский язык становится ближе.
+
+Page 2:
+Ирина пишет слово «погода» в тетради. Потом Ирина думает о теме «учёба». В этом месте тихо, поэтому Ирина снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Ирина использует новые слова. Ирина смотрит на окно, потом на дождь, и составляет простой план. В конце Ирина может сказать одно понятное предложение.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is at school. There is window and rain nearby. Irina reads slowly and notices a new word: weather. The day feels good, and the language feels a little closer.
+
+Page 2:
+Irina writes the word weather in a notebook. Then Irina thinks about study. The place is quiet, so Irina reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Irina uses the new words to understand it. Irina checks the window, looks at the rain, and makes a simple plan. By the end, Irina can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

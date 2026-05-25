@@ -1,0 +1,42 @@
+Story 50: The Language Feels Close
+Language: Japanese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 966-1000 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、イリーナは公園へ行きます。近くに本と電話があります。イリーナはゆっくり読み、新しい言葉「言語」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+イリーナはノートに「言語」を書きます。それから「自信」について考えます。そこは静かなので、イリーナは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、イリーナは新しい言葉を使います。本を見て、次に電話を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+Page 4:
+あとで、イリーナは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。イリーナはさらに三つの言葉を書き、今日の話とつなげます。
+
+Page 5:
+一日の終わりに、イリーナはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、イリーナはほほえみます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is in the park. There is book and phone nearby. Irina reads slowly and notices a new word: language. The day feels good, and the language feels a little closer.
+
+Page 2:
+Irina writes the word language in a notebook. Then Irina thinks about confidence. The place is quiet, so Irina reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Irina uses the new words to understand it. Irina checks the book, looks at the phone, and makes a simple plan. By the end, Irina can say one clear sentence.
+
+Page 4:
+Later, Irina meets another person and asks one careful question. The answer is simple, but it helps. Irina writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Irina reads the whole page out loud. The words are not perfect yet, but they are familiar now. Irina smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

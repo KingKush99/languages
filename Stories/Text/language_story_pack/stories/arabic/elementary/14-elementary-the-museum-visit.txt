@@ -1,0 +1,24 @@
+Story 14: The Museum Visit
+Language: Arabic
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 117-132 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+في الصباح، يذهب نيكولاي إلى المتحف. هناك تذكرة وصورة بالقرب منه. يقرأ نيكولاي ببطء ويلاحظ كلمة جديدة: «تاريخ». اليوم جيد، واللغة تصبح أقرب.
+
+Page 2:
+يكتب نيكولاي كلمة «تاريخ» في الدفتر. ثم يفكر في موضوع «ذاكرة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Nikolay is in the museum. There is ticket and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer.
+
+Page 2:
+Nikolay writes the word history in a notebook. Then Nikolay thinks about memory. The place is quiet, so Nikolay reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

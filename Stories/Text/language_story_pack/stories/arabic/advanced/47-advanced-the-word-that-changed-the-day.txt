@@ -1,0 +1,42 @@
+Story 47: The Word That Changed the Day
+Language: Arabic
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 861-895 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+في الصباح، يذهب ديما إلى الشارع. هناك حقيبة وكتاب بالقرب منه. يقرأ ديما ببطء ويلاحظ كلمة جديدة: «مساعدة». اليوم جيد، واللغة تصبح أقرب.
+
+Page 2:
+يكتب ديما كلمة «مساعدة» في الدفتر. ثم يفكر في موضوع «طريق». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.
+
+Page 3:
+تظهر مشكلة صغيرة، لكن ديما يستخدم الكلمات الجديدة. ينظر إلى حقيبة، ثم إلى كتاب، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.
+
+Page 4:
+لاحقًا، يلتقي ديما شخصًا آخر ويسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. يكتب ثلاث كلمات أخرى ويربطها بقصة اليوم.
+
+Page 5:
+في نهاية اليوم، يقرأ ديما الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. يبتسم ديما لأن التعلم صار ممكنًا وقريبًا.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is on the street. There is bag and book nearby. Dima reads slowly and notices a new word: help. The day feels good, and the language feels a little closer.
+
+Page 2:
+Dima writes the word help in a notebook. Then Dima thinks about road. The place is quiet, so Dima reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Dima uses the new words to understand it. Dima checks the bag, looks at the book, and makes a simple plan. By the end, Dima can say one clear sentence.
+
+Page 4:
+Later, Dima meets another person and asks one careful question. The answer is simple, but it helps. Dima writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Dima reads the whole page out loud. The words are not perfect yet, but they are familiar now. Dima smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

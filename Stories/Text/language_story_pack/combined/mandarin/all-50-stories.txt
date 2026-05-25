@@ -1,0 +1,1591 @@
+Story 01: Morning at Home
+Language: Chinese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 1-9 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，安娜回家。旁边有茶和书。安娜慢慢地读，并注意到一个新词：“城市”。今天很好，语言也变得更近了。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Anna is at home. There is tea and book nearby. Anna reads slowly and notices a new word: city. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 02: Tea on the Table
+Language: Chinese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 10-18 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，莉娜回家。旁边有茶和面包。莉娜慢慢地读，并注意到一个新词：“桌子”。今天很好，语言也变得更近了。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Lena is at home. There is tea and bread nearby. Lena reads slowly and notices a new word: table. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 03: The Open Window
+Language: Chinese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 19-27 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，伊万回家。旁边有窗户和书。伊万慢慢地读，并注意到一个新词：“图书馆”。今天很好，语言也变得更近了。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Ivan is at home. There is window and book nearby. Ivan reads slowly and notices a new word: library. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 04: Walking to the Park
+Language: Chinese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 28-36 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，玛莎去公园。旁边有妈妈和哥哥。玛莎慢慢地读，并注意到一个新词：“朋友”。今天很好，语言也变得更近了。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Masha is in the park. There is mother and brother nearby. Masha reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 05: A Quiet Street
+Language: Chinese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 37-44 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，帕维尔去街上。旁边有房子和窗户。帕维尔慢慢地读，并注意到一个新词：“街道”。今天很好，语言也变得更近了。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Pavel is on the street. There is house and window nearby. Pavel reads slowly and notices a new word: street. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 06: The First Book
+Language: Chinese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 45-52 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，奥尔加去图书馆。旁边有书和卡片。奥尔加慢慢地读，并注意到一个新词：“词”。今天很好，语言也变得更近了。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is in the library. There is book and card nearby. Olga reads slowly and notices a new word: word. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 07: A Good Day
+Language: Chinese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 53-60 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，尼古拉去公园。旁边有太阳和树。尼古拉慢慢地读，并注意到一个新词：“好”。今天很好，语言也变得更近了。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Nikolay is in the park. There is sun and tree nearby. Nikolay reads slowly and notices a new word: good. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 08: At School
+Language: Chinese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 61-68 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，萨沙去学校。旁边有书桌和铅笔。萨沙慢慢地读，并注意到一个新词：“学校”。今天很好，语言也变得更近了。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Sasha is at school. There is desk and pencil nearby. Sasha reads slowly and notices a new word: school. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 09: At the Store
+Language: Chinese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 69-76 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，伊琳娜去商店。旁边有包和食物。伊琳娜慢慢地读，并注意到一个新词：“商店”。今天很好，语言也变得更近了。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is in the store. There is bag and food nearby. Irina reads slowly and notices a new word: store. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 10: At the Station
+Language: Chinese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 77-84 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，玛丽亚去车站。旁边有茶和票。玛丽亚慢慢地读，并注意到一个新词：“车站”。今天很好，语言也变得更近了。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Maria is at the station. There is tea and ticket nearby. Maria reads slowly and notices a new word: station. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 11: A Simple Call
+Language: Chinese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 85-92 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，迪马回家。旁边有电话和笔记本。迪马慢慢地读，并注意到一个新词：“朋友”。今天很好，语言也变得更近了。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is at home. There is phone and notebook nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 12: I Know This Word
+Language: Chinese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 93-100 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，卡佳去房间。旁边有纸和书。卡佳慢慢地读，并注意到一个新词：“知道”。今天很好，语言也变得更近了。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Katya is in the room. There is paper and book nearby. Katya reads slowly and notices a new word: know. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 13: The Library Window
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 101-116 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，帕维尔去图书馆。旁边有窗户和笔记本。帕维尔慢慢地读，并注意到一个新词：“安静”。今天很好，语言也变得更近了。
+
+Page 2:
+帕维尔把“安静”写在笔记本里。然后帕维尔想一想“阅读”这个主题。这里很安静，所以帕维尔又读了一遍句子，并轻声说出来。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Pavel is in the library. There is window and notebook nearby. Pavel reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer.
+
+Page 2:
+Pavel writes the word quiet in a notebook. Then Pavel thinks about reading. The place is quiet, so Pavel reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 14: The Museum Visit
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 117-132 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，尼古拉去博物馆。旁边有票和图画。尼古拉慢慢地读，并注意到一个新词：“历史”。今天很好，语言也变得更近了。
+
+Page 2:
+尼古拉把“历史”写在笔记本里。然后尼古拉想一想“记忆”这个主题。这里很安静，所以尼古拉又读了一遍句子，并轻声说出来。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Nikolay is in the museum. There is ticket and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer.
+
+Page 2:
+Nikolay writes the word history in a notebook. Then Nikolay thinks about memory. The place is quiet, so Nikolay reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 15: The Cafe Notebook
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 133-148 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，奥尔加去咖啡馆。旁边有茶和音乐。奥尔加慢慢地读，并注意到一个新词：“旋律”。今天很好，语言也变得更近了。
+
+Page 2:
+奥尔加把“旋律”写在笔记本里。然后奥尔加想一想“听”这个主题。这里很安静，所以奥尔加又读了一遍句子，并轻声说出来。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is in the cafe. There is tea and music nearby. Olga reads slowly and notices a new word: melody. The day feels good, and the language feels a little closer.
+
+Page 2:
+Olga writes the word melody in a notebook. Then Olga thinks about listening. The place is quiet, so Olga reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 16: Rain Near the Door
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 149-164 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，迪马去书店。旁边有门和书。迪马慢慢地读，并注意到一个新词：“道路”。今天很好，语言也变得更近了。
+
+Page 2:
+迪马把“道路”写在笔记本里。然后迪马想一想“雨”这个主题。这里很安静，所以迪马又读了一遍句子，并轻声说出来。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is in the bookshop. There is door and book nearby. Dima reads slowly and notices a new word: road. The day feels good, and the language feels a little closer.
+
+Page 2:
+Dima writes the word road in a notebook. Then Dima thinks about rain. The place is quiet, so Dima reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 17: The Letter on the Table
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 165-180 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，萨沙去大学。旁边有信和桌子。萨沙慢慢地读，并注意到一个新词：“会议”。今天很好，语言也变得更近了。
+
+Page 2:
+萨沙把“会议”写在笔记本里。然后萨沙想一想“邀请”这个主题。这里很安静，所以萨沙又读了一遍句子，并轻声说出来。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Sasha is at the university. There is letter and table nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer.
+
+Page 2:
+Sasha writes the word meeting in a notebook. Then Sasha thinks about invitation. The place is quiet, so Sasha reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 18: Words in the Park
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 181-196 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，伊琳娜去公园。旁边有电话和茶。伊琳娜慢慢地读，并注意到一个新词：“三个”。今天很好，语言也变得更近了。
+
+Page 2:
+伊琳娜把“三个”写在笔记本里。然后伊琳娜想一想“说话”这个主题。这里很安静，所以伊琳娜又读了一遍句子，并轻声说出来。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is in the park. There is phone and tea nearby. Irina reads slowly and notices a new word: three. The day feels good, and the language feels a little closer.
+
+Page 2:
+Irina writes the word three in a notebook. Then Irina thinks about speaking. The place is quiet, so Irina reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 19: The Little Plan
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 197-212 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，莉娜去商店。旁边有地图和篮子。莉娜慢慢地读，并注意到一个新词：“计划”。今天很好，语言也变得更近了。
+
+Page 2:
+莉娜把“计划”写在笔记本里。然后莉娜想一想“购物”这个主题。这里很安静，所以莉娜又读了一遍句子，并轻声说出来。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Lena is in the store. There is map and basket nearby. Lena reads slowly and notices a new word: plan. The day feels good, and the language feels a little closer.
+
+Page 2:
+Lena writes the word plan in a notebook. Then Lena thinks about shopping. The place is quiet, so Lena reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 20: The News Page
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 213-228 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，玛丽亚去车站。旁边有茶和报纸。玛丽亚慢慢地读，并注意到一个新词：“新闻”。今天很好，语言也变得更近了。
+
+Page 2:
+玛丽亚把“新闻”写在笔记本里。然后玛丽亚想一想“想法”这个主题。这里很安静，所以玛丽亚又读了一遍句子，并轻声说出来。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Maria is at the station. There is tea and newspaper nearby. Maria reads slowly and notices a new word: news. The day feels good, and the language feels a little closer.
+
+Page 2:
+Maria writes the word news in a notebook. Then Maria thinks about thinking. The place is quiet, so Maria reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 21: The Family Walk
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 229-244 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，安娜去公园。旁边有妈妈和哥哥。安娜慢慢地读，并注意到一个新词：“房子”。今天很好，语言也变得更近了。
+
+Page 2:
+安娜把“房子”写在笔记本里。然后安娜想一想“家庭”这个主题。这里很安静，所以安娜又读了一遍句子，并轻声说出来。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Anna is in the park. There is mother and brother nearby. Anna reads slowly and notices a new word: house. The day feels good, and the language feels a little closer.
+
+Page 2:
+Anna writes the word house in a notebook. Then Anna thinks about family. The place is quiet, so Anna reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 22: The Quiet Room
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 245-260 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，伊万去房间。旁边有椅子和书。伊万慢慢地读，并注意到一个新词：“房间”。今天很好，语言也变得更近了。
+
+Page 2:
+伊万把“房间”写在笔记本里。然后伊万想一想“安静”这个主题。这里很安静，所以伊万又读了一遍句子，并轻声说出来。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Ivan is in the room. There is chair and book nearby. Ivan reads slowly and notices a new word: room. The day feels good, and the language feels a little closer.
+
+Page 2:
+Ivan writes the word room in a notebook. Then Ivan thinks about silence. The place is quiet, so Ivan reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 23: The New Teacher
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 261-275 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，玛莎去学校。旁边有老师和白板。玛莎慢慢地读，并注意到一个新词：“问题”。今天很好，语言也变得更近了。
+
+Page 2:
+玛莎把“问题”写在笔记本里。然后玛莎想一想“学习”这个主题。这里很安静，所以玛莎又读了一遍句子，并轻声说出来。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Masha is at school. There is teacher and board nearby. Masha reads slowly and notices a new word: question. The day feels good, and the language feels a little closer.
+
+Page 2:
+Masha writes the word question in a notebook. Then Masha thinks about learning. The place is quiet, so Masha reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 24: The Bus Stop
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 276-290 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，帕维尔去街上。旁边有票和公交车。帕维尔慢慢地读，并注意到一个新词：“时间”。今天很好，语言也变得更近了。
+
+Page 2:
+帕维尔把“时间”写在笔记本里。然后帕维尔想一想“等待”这个主题。这里很安静，所以帕维尔又读了一遍句子，并轻声说出来。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Pavel is on the street. There is ticket and bus nearby. Pavel reads slowly and notices a new word: time. The day feels good, and the language feels a little closer.
+
+Page 2:
+Pavel writes the word time in a notebook. Then Pavel thinks about waiting. The place is quiet, so Pavel reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 25: The Small Market
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 291-305 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，奥尔加去市场。旁边有水果和包。奥尔加慢慢地读，并注意到一个新词：“钱”。今天很好，语言也变得更近了。
+
+Page 2:
+奥尔加把“钱”写在笔记本里。然后奥尔加想一想“市场”这个主题。这里很安静，所以奥尔加又读了一遍句子，并轻声说出来。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is at the market. There is fruit and bag nearby. Olga reads slowly and notices a new word: money. The day feels good, and the language feels a little closer.
+
+Page 2:
+Olga writes the word money in a notebook. Then Olga thinks about market. The place is quiet, so Olga reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 26: The First Conversation
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 306-320 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，迪马去咖啡馆。旁边有电话和朋友。迪马慢慢地读，并注意到一个新词：“句子”。今天很好，语言也变得更近了。
+
+Page 2:
+迪马把“句子”写在笔记本里。然后迪马想一想“谈话”这个主题。这里很安静，所以迪马又读了一遍句子，并轻声说出来。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is in the cafe. There is phone and friend nearby. Dima reads slowly and notices a new word: sentence. The day feels good, and the language feels a little closer.
+
+Page 2:
+Dima writes the word sentence in a notebook. Then Dima thinks about talk. The place is quiet, so Dima reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 27: The Lost Note
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 321-344 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，卡佳去图书馆。旁边有便条和地图。卡佳慢慢地读，并注意到一个新词：“地方”。今天很好，语言也变得更近了。
+
+Page 2:
+卡佳把“地方”写在笔记本里。然后卡佳想一想“寻找”这个主题。这里很安静，所以卡佳又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是卡佳用新词来理解。卡佳看了看便条，又看了看地图，然后做了一个简单的计划。最后，卡佳能说出一个清楚的句子。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Katya is in the library. There is note and map nearby. Katya reads slowly and notices a new word: place. The day feels good, and the language feels a little closer.
+
+Page 2:
+Katya writes the word place in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Katya uses the new words to understand it. Katya checks the note, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 28: A Meeting at Noon
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 345-368 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，萨沙去大学。旁边有钟和信。萨沙慢慢地读，并注意到一个新词：“中午”。今天很好，语言也变得更近了。
+
+Page 2:
+萨沙把“中午”写在笔记本里。然后萨沙想一想“会议”这个主题。这里很安静，所以萨沙又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是萨沙用新词来理解。萨沙看了看钟，又看了看信，然后做了一个简单的计划。最后，萨沙能说出一个清楚的句子。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Sasha is at the university. There is clock and letter nearby. Sasha reads slowly and notices a new word: noon. The day feels good, and the language feels a little closer.
+
+Page 2:
+Sasha writes the word noon in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Sasha uses the new words to understand it. Sasha checks the clock, looks at the letter, and makes a simple plan. By the end, Sasha can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 29: The Old Map
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 369-392 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，尼古拉去博物馆。旁边有地图和街道。尼古拉慢慢地读，并注意到一个新词：“城市”。今天很好，语言也变得更近了。
+
+Page 2:
+尼古拉把“城市”写在笔记本里。然后尼古拉想一想“历史”这个主题。这里很安静，所以尼古拉又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是尼古拉用新词来理解。尼古拉看了看地图，又看了看街道，然后做了一个简单的计划。最后，尼古拉能说出一个清楚的句子。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Nikolay is in the museum. There is map and street nearby. Nikolay reads slowly and notices a new word: city. The day feels good, and the language feels a little closer.
+
+Page 2:
+Nikolay writes the word city in a notebook. Then Nikolay thinks about history. The place is quiet, so Nikolay reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the map, looks at the street, and makes a simple plan. By the end, Nikolay can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 30: The Rainy Lesson
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 393-416 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，伊琳娜去学校。旁边有窗户和雨。伊琳娜慢慢地读，并注意到一个新词：“天气”。今天很好，语言也变得更近了。
+
+Page 2:
+伊琳娜把“天气”写在笔记本里。然后伊琳娜想一想“学习”这个主题。这里很安静，所以伊琳娜又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是伊琳娜用新词来理解。伊琳娜看了看窗户，又看了看雨，然后做了一个简单的计划。最后，伊琳娜能说出一个清楚的句子。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is at school. There is window and rain nearby. Irina reads slowly and notices a new word: weather. The day feels good, and the language feels a little closer.
+
+Page 2:
+Irina writes the word weather in a notebook. Then Irina thinks about study. The place is quiet, so Irina reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Irina uses the new words to understand it. Irina checks the window, looks at the rain, and makes a simple plan. By the end, Irina can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 31: The Museum Question
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 417-440 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，帕维尔去博物馆。旁边有图画和笔记本。帕维尔慢慢地读，并注意到一个新词：“问题”。今天很好，语言也变得更近了。
+
+Page 2:
+帕维尔把“问题”写在笔记本里。然后帕维尔想一想“答案”这个主题。这里很安静，所以帕维尔又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是帕维尔用新词来理解。帕维尔看了看图画，又看了看笔记本，然后做了一个简单的计划。最后，帕维尔能说出一个清楚的句子。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Pavel is in the museum. There is picture and notebook nearby. Pavel reads slowly and notices a new word: question. The day feels good, and the language feels a little closer.
+
+Page 2:
+Pavel writes the word question in a notebook. Then Pavel thinks about answer. The place is quiet, so Pavel reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Pavel uses the new words to understand it. Pavel checks the picture, looks at the notebook, and makes a simple plan. By the end, Pavel can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 32: The Train Delay
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 441-464 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，玛丽亚去车站。旁边有票和钟。玛丽亚慢慢地读，并注意到一个新词：“等待”。今天很好，语言也变得更近了。
+
+Page 2:
+玛丽亚把“等待”写在笔记本里。然后玛丽亚想一想“旅行”这个主题。这里很安静，所以玛丽亚又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是玛丽亚用新词来理解。玛丽亚看了看票，又看了看钟，然后做了一个简单的计划。最后，玛丽亚能说出一个清楚的句子。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Maria is at the station. There is ticket and clock nearby. Maria reads slowly and notices a new word: wait. The day feels good, and the language feels a little closer.
+
+Page 2:
+Maria writes the word wait in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the clock, and makes a simple plan. By the end, Maria can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 33: Music in the Cafe
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 465-488 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，奥尔加去咖啡馆。旁边有音乐和茶。奥尔加慢慢地读，并注意到一个新词：“歌曲”。今天很好，语言也变得更近了。
+
+Page 2:
+奥尔加把“歌曲”写在笔记本里。然后奥尔加想一想“记忆”这个主题。这里很安静，所以奥尔加又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是奥尔加用新词来理解。奥尔加看了看音乐，又看了看茶，然后做了一个简单的计划。最后，奥尔加能说出一个清楚的句子。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is in the cafe. There is music and tea nearby. Olga reads slowly and notices a new word: song. The day feels good, and the language feels a little closer.
+
+Page 2:
+Olga writes the word song in a notebook. Then Olga thinks about memory. The place is quiet, so Olga reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Olga uses the new words to understand it. Olga checks the music, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 34: A Letter from a Friend
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 489-512 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，迪马回家。旁边有信和电话。迪马慢慢地读，并注意到一个新词：“朋友”。今天很好，语言也变得更近了。
+
+Page 2:
+迪马把“朋友”写在笔记本里。然后迪马想一想“邀请”这个主题。这里很安静，所以迪马又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是迪马用新词来理解。迪马看了看信，又看了看电话，然后做了一个简单的计划。最后，迪马能说出一个清楚的句子。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is at home. There is letter and phone nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer.
+
+Page 2:
+Dima writes the word friend in a notebook. Then Dima thinks about invitation. The place is quiet, so Dima reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Dima uses the new words to understand it. Dima checks the letter, looks at the phone, and makes a simple plan. By the end, Dima can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 35: The School Project
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 513-535 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，玛莎去学校。旁边有纸和老师。玛莎慢慢地读，并注意到一个新词：“项目”。今天很好，语言也变得更近了。
+
+Page 2:
+玛莎把“项目”写在笔记本里。然后玛莎想一想“小组”这个主题。这里很安静，所以玛莎又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是玛莎用新词来理解。玛莎看了看纸，又看了看老师，然后做了一个简单的计划。最后，玛莎能说出一个清楚的句子。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Masha is at school. There is paper and teacher nearby. Masha reads slowly and notices a new word: project. The day feels good, and the language feels a little closer.
+
+Page 2:
+Masha writes the word project in a notebook. Then Masha thinks about group. The place is quiet, so Masha reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Masha uses the new words to understand it. Masha checks the paper, looks at the teacher, and makes a simple plan. By the end, Masha can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 36: The City Walk
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 536-558 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，安娜去城市。旁边有街道和窗户。安娜慢慢地读，并注意到一个新词：“散步”。今天很好，语言也变得更近了。
+
+Page 2:
+安娜把“散步”写在笔记本里。然后安娜想一想“地方”这个主题。这里很安静，所以安娜又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是安娜用新词来理解。安娜看了看街道，又看了看窗户，然后做了一个简单的计划。最后，安娜能说出一个清楚的句子。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Anna is in the city. There is street and window nearby. Anna reads slowly and notices a new word: walk. The day feels good, and the language feels a little closer.
+
+Page 2:
+Anna writes the word walk in a notebook. Then Anna thinks about place. The place is quiet, so Anna reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Anna uses the new words to understand it. Anna checks the street, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 37: The Bookshop Door
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 559-581 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，伊万去书店。旁边有门和书。伊万慢慢地读，并注意到一个新词：“打开”。今天很好，语言也变得更近了。
+
+Page 2:
+伊万把“打开”写在笔记本里。然后伊万想一想“阅读”这个主题。这里很安静，所以伊万又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是伊万用新词来理解。伊万看了看门，又看了看书，然后做了一个简单的计划。最后，伊万能说出一个清楚的句子。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Ivan is in the bookshop. There is door and book nearby. Ivan reads slowly and notices a new word: open. The day feels good, and the language feels a little closer.
+
+Page 2:
+Ivan writes the word open in a notebook. Then Ivan thinks about reading. The place is quiet, so Ivan reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Ivan uses the new words to understand it. Ivan checks the door, looks at the book, and makes a simple plan. By the end, Ivan can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 38: The Family Story
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 582-604 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，莉娜回家。旁边有妈妈和照片。莉娜慢慢地读，并注意到一个新词：“故事”。今天很好，语言也变得更近了。
+
+Page 2:
+莉娜把“故事”写在笔记本里。然后莉娜想一想“家庭”这个主题。这里很安静，所以莉娜又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是莉娜用新词来理解。莉娜看了看妈妈，又看了看照片，然后做了一个简单的计划。最后，莉娜能说出一个清楚的句子。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Lena is at home. There is mother and photo nearby. Lena reads slowly and notices a new word: story. The day feels good, and the language feels a little closer.
+
+Page 2:
+Lena writes the word story in a notebook. Then Lena thinks about family. The place is quiet, so Lena reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Lena uses the new words to understand it. Lena checks the mother, looks at the photo, and makes a simple plan. By the end, Lena can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 39: The Important Word
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 605-627 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，帕维尔去图书馆。旁边有词典和纸。帕维尔慢慢地读，并注意到一个新词：“意思”。今天很好，语言也变得更近了。
+
+Page 2:
+帕维尔把“意思”写在笔记本里。然后帕维尔想一想“语言”这个主题。这里很安静，所以帕维尔又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是帕维尔用新词来理解。帕维尔看了看词典，又看了看纸，然后做了一个简单的计划。最后，帕维尔能说出一个清楚的句子。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Pavel is in the library. There is dictionary and paper nearby. Pavel reads slowly and notices a new word: meaning. The day feels good, and the language feels a little closer.
+
+Page 2:
+Pavel writes the word meaning in a notebook. Then Pavel thinks about language. The place is quiet, so Pavel reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Pavel uses the new words to understand it. Pavel checks the dictionary, looks at the paper, and makes a simple plan. By the end, Pavel can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 40: Closer Every Day
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 628-650 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，伊琳娜去公园。旁边有笔记本和茶。伊琳娜慢慢地读，并注意到一个新词：“更近”。今天很好，语言也变得更近了。
+
+Page 2:
+伊琳娜把“更近”写在笔记本里。然后伊琳娜想一想“复习”这个主题。这里很安静，所以伊琳娜又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是伊琳娜用新词来理解。伊琳娜看了看笔记本，又看了看茶，然后做了一个简单的计划。最后，伊琳娜能说出一个清楚的句子。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is in the park. There is notebook and tea nearby. Irina reads slowly and notices a new word: closer. The day feels good, and the language feels a little closer.
+
+Page 2:
+Irina writes the word closer in a notebook. Then Irina thinks about review. The place is quiet, so Irina reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Irina uses the new words to understand it. Irina checks the notebook, looks at the tea, and makes a simple plan. By the end, Irina can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 41: The Long Walk Through the City
+Language: Chinese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 651-685 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，安娜去城市。旁边有地图和窗户。安娜慢慢地读，并注意到一个新词：“旅程”。今天很好，语言也变得更近了。
+
+Page 2:
+安娜把“旅程”写在笔记本里。然后安娜想一想“城市”这个主题。这里很安静，所以安娜又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是安娜用新词来理解。安娜看了看地图，又看了看窗户，然后做了一个简单的计划。最后，安娜能说出一个清楚的句子。
+
+Page 4:
+后来，安娜遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。安娜又写下三个词，并把它们和今天的故事连起来。
+
+Page 5:
+一天结束时，安娜大声读完整页。词语还不完美，但已经熟悉了。安娜笑了，因为学习变得可能，也变得很近。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Anna is in the city. There is map and window nearby. Anna reads slowly and notices a new word: journey. The day feels good, and the language feels a little closer.
+
+Page 2:
+Anna writes the word journey in a notebook. Then Anna thinks about city. The place is quiet, so Anna reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Anna uses the new words to understand it. Anna checks the map, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence.
+
+Page 4:
+Later, Anna meets another person and asks one careful question. The answer is simple, but it helps. Anna writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Anna reads the whole page out loud. The words are not perfect yet, but they are familiar now. Anna smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 42: The Forgotten Invitation
+Language: Chinese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 686-720 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，萨沙去大学。旁边有信和电话。萨沙慢慢地读，并注意到一个新词：“邀请”。今天很好，语言也变得更近了。
+
+Page 2:
+萨沙把“邀请”写在笔记本里。然后萨沙想一想“会议”这个主题。这里很安静，所以萨沙又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是萨沙用新词来理解。萨沙看了看信，又看了看电话，然后做了一个简单的计划。最后，萨沙能说出一个清楚的句子。
+
+Page 4:
+后来，萨沙遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。萨沙又写下三个词，并把它们和今天的故事连起来。
+
+Page 5:
+一天结束时，萨沙大声读完整页。词语还不完美，但已经熟悉了。萨沙笑了，因为学习变得可能，也变得很近。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Sasha is at the university. There is letter and phone nearby. Sasha reads slowly and notices a new word: invitation. The day feels good, and the language feels a little closer.
+
+Page 2:
+Sasha writes the word invitation in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the phone, and makes a simple plan. By the end, Sasha can say one clear sentence.
+
+Page 4:
+Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 43: The History Room
+Language: Chinese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 721-755 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，尼古拉去博物馆。旁边有书和图画。尼古拉慢慢地读，并注意到一个新词：“历史”。今天很好，语言也变得更近了。
+
+Page 2:
+尼古拉把“历史”写在笔记本里。然后尼古拉想一想“过去”这个主题。这里很安静，所以尼古拉又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是尼古拉用新词来理解。尼古拉看了看书，又看了看图画，然后做了一个简单的计划。最后，尼古拉能说出一个清楚的句子。
+
+Page 4:
+后来，尼古拉遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。尼古拉又写下三个词，并把它们和今天的故事连起来。
+
+Page 5:
+一天结束时，尼古拉大声读完整页。词语还不完美，但已经熟悉了。尼古拉笑了，因为学习变得可能，也变得很近。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Nikolay is in the museum. There is book and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer.
+
+Page 2:
+Nikolay writes the word history in a notebook. Then Nikolay thinks about past. The place is quiet, so Nikolay reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the book, looks at the picture, and makes a simple plan. By the end, Nikolay can say one clear sentence.
+
+Page 4:
+Later, Nikolay meets another person and asks one careful question. The answer is simple, but it helps. Nikolay writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Nikolay reads the whole page out loud. The words are not perfect yet, but they are familiar now. Nikolay smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 44: The Quiet Train
+Language: Chinese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 756-790 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，玛丽亚去火车站。旁边有票和茶。玛丽亚慢慢地读，并注意到一个新词：“安静”。今天很好，语言也变得更近了。
+
+Page 2:
+玛丽亚把“安静”写在笔记本里。然后玛丽亚想一想“旅行”这个主题。这里很安静，所以玛丽亚又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是玛丽亚用新词来理解。玛丽亚看了看票，又看了看茶，然后做了一个简单的计划。最后，玛丽亚能说出一个清楚的句子。
+
+Page 4:
+后来，玛丽亚遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。玛丽亚又写下三个词，并把它们和今天的故事连起来。
+
+Page 5:
+一天结束时，玛丽亚大声读完整页。词语还不完美，但已经熟悉了。玛丽亚笑了，因为学习变得可能，也变得很近。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Maria is on the train. There is ticket and tea nearby. Maria reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer.
+
+Page 2:
+Maria writes the word quiet in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the tea, and makes a simple plan. By the end, Maria can say one clear sentence.
+
+Page 4:
+Later, Maria meets another person and asks one careful question. The answer is simple, but it helps. Maria writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Maria reads the whole page out loud. The words are not perfect yet, but they are familiar now. Maria smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 45: A Plan for Tomorrow
+Language: Chinese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 791-825 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，莉娜回家。旁边有地图和笔记本。莉娜慢慢地读，并注意到一个新词：“明天”。今天很好，语言也变得更近了。
+
+Page 2:
+莉娜把“明天”写在笔记本里。然后莉娜想一想“计划”这个主题。这里很安静，所以莉娜又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是莉娜用新词来理解。莉娜看了看地图，又看了看笔记本，然后做了一个简单的计划。最后，莉娜能说出一个清楚的句子。
+
+Page 4:
+后来，莉娜遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。莉娜又写下三个词，并把它们和今天的故事连起来。
+
+Page 5:
+一天结束时，莉娜大声读完整页。词语还不完美，但已经熟悉了。莉娜笑了，因为学习变得可能，也变得很近。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Lena is at home. There is map and notebook nearby. Lena reads slowly and notices a new word: tomorrow. The day feels good, and the language feels a little closer.
+
+Page 2:
+Lena writes the word tomorrow in a notebook. Then Lena thinks about plan. The place is quiet, so Lena reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Lena uses the new words to understand it. Lena checks the map, looks at the notebook, and makes a simple plan. By the end, Lena can say one clear sentence.
+
+Page 4:
+Later, Lena meets another person and asks one careful question. The answer is simple, but it helps. Lena writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Lena reads the whole page out loud. The words are not perfect yet, but they are familiar now. Lena smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 46: News from the Cafe
+Language: Chinese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 826-860 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，奥尔加去咖啡馆。旁边有报纸和茶。奥尔加慢慢地读，并注意到一个新词：“新闻”。今天很好，语言也变得更近了。
+
+Page 2:
+奥尔加把“新闻”写在笔记本里。然后奥尔加想一想“谈话”这个主题。这里很安静，所以奥尔加又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是奥尔加用新词来理解。奥尔加看了看报纸，又看了看茶，然后做了一个简单的计划。最后，奥尔加能说出一个清楚的句子。
+
+Page 4:
+后来，奥尔加遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。奥尔加又写下三个词，并把它们和今天的故事连起来。
+
+Page 5:
+一天结束时，奥尔加大声读完整页。词语还不完美，但已经熟悉了。奥尔加笑了，因为学习变得可能，也变得很近。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is in the cafe. There is newspaper and tea nearby. Olga reads slowly and notices a new word: news. The day feels good, and the language feels a little closer.
+
+Page 2:
+Olga writes the word news in a notebook. Then Olga thinks about talk. The place is quiet, so Olga reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Olga uses the new words to understand it. Olga checks the newspaper, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence.
+
+Page 4:
+Later, Olga meets another person and asks one careful question. The answer is simple, but it helps. Olga writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Olga reads the whole page out loud. The words are not perfect yet, but they are familiar now. Olga smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 47: The Word That Changed the Day
+Language: Chinese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 861-895 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，迪马去街上。旁边有包和书。迪马慢慢地读，并注意到一个新词：“帮助”。今天很好，语言也变得更近了。
+
+Page 2:
+迪马把“帮助”写在笔记本里。然后迪马想一想“道路”这个主题。这里很安静，所以迪马又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是迪马用新词来理解。迪马看了看包，又看了看书，然后做了一个简单的计划。最后，迪马能说出一个清楚的句子。
+
+Page 4:
+后来，迪马遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。迪马又写下三个词，并把它们和今天的故事连起来。
+
+Page 5:
+一天结束时，迪马大声读完整页。词语还不完美，但已经熟悉了。迪马笑了，因为学习变得可能，也变得很近。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is on the street. There is bag and book nearby. Dima reads slowly and notices a new word: help. The day feels good, and the language feels a little closer.
+
+Page 2:
+Dima writes the word help in a notebook. Then Dima thinks about road. The place is quiet, so Dima reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Dima uses the new words to understand it. Dima checks the bag, looks at the book, and makes a simple plan. By the end, Dima can say one clear sentence.
+
+Page 4:
+Later, Dima meets another person and asks one careful question. The answer is simple, but it helps. Dima writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Dima reads the whole page out loud. The words are not perfect yet, but they are familiar now. Dima smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 48: The Meeting at the University
+Language: Chinese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 896-930 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，萨沙去大学。旁边有信和书桌。萨沙慢慢地读，并注意到一个新词：“会议”。今天很好，语言也变得更近了。
+
+Page 2:
+萨沙把“会议”写在笔记本里。然后萨沙想一想“想法”这个主题。这里很安静，所以萨沙又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是萨沙用新词来理解。萨沙看了看信，又看了看书桌，然后做了一个简单的计划。最后，萨沙能说出一个清楚的句子。
+
+Page 4:
+后来，萨沙遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。萨沙又写下三个词，并把它们和今天的故事连起来。
+
+Page 5:
+一天结束时，萨沙大声读完整页。词语还不完美，但已经熟悉了。萨沙笑了，因为学习变得可能，也变得很近。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Sasha is at the university. There is letter and desk nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer.
+
+Page 2:
+Sasha writes the word meeting in a notebook. Then Sasha thinks about ideas. The place is quiet, so Sasha reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the desk, and makes a simple plan. By the end, Sasha can say one clear sentence.
+
+Page 4:
+Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 49: The Letter and the Map
+Language: Chinese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 931-965 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，卡佳去图书馆。旁边有信和地图。卡佳慢慢地读，并注意到一个新词：“路线”。今天很好，语言也变得更近了。
+
+Page 2:
+卡佳把“路线”写在笔记本里。然后卡佳想一想“寻找”这个主题。这里很安静，所以卡佳又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是卡佳用新词来理解。卡佳看了看信，又看了看地图，然后做了一个简单的计划。最后，卡佳能说出一个清楚的句子。
+
+Page 4:
+后来，卡佳遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。卡佳又写下三个词，并把它们和今天的故事连起来。
+
+Page 5:
+一天结束时，卡佳大声读完整页。词语还不完美，但已经熟悉了。卡佳笑了，因为学习变得可能，也变得很近。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Katya is in the library. There is letter and map nearby. Katya reads slowly and notices a new word: route. The day feels good, and the language feels a little closer.
+
+Page 2:
+Katya writes the word route in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Katya uses the new words to understand it. Katya checks the letter, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence.
+
+Page 4:
+Later, Katya meets another person and asks one careful question. The answer is simple, but it helps. Katya writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Katya reads the whole page out loud. The words are not perfect yet, but they are familiar now. Katya smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 50: The Language Feels Close
+Language: Chinese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 966-1000 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，伊琳娜去公园。旁边有书和电话。伊琳娜慢慢地读，并注意到一个新词：“语言”。今天很好，语言也变得更近了。
+
+Page 2:
+伊琳娜把“语言”写在笔记本里。然后伊琳娜想一想“信心”这个主题。这里很安静，所以伊琳娜又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是伊琳娜用新词来理解。伊琳娜看了看书，又看了看电话，然后做了一个简单的计划。最后，伊琳娜能说出一个清楚的句子。
+
+Page 4:
+后来，伊琳娜遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。伊琳娜又写下三个词，并把它们和今天的故事连起来。
+
+Page 5:
+一天结束时，伊琳娜大声读完整页。词语还不完美，但已经熟悉了。伊琳娜笑了，因为学习变得可能，也变得很近。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is in the park. There is book and phone nearby. Irina reads slowly and notices a new word: language. The day feels good, and the language feels a little closer.
+
+Page 2:
+Irina writes the word language in a notebook. Then Irina thinks about confidence. The place is quiet, so Irina reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Irina uses the new words to understand it. Irina checks the book, looks at the phone, and makes a simple plan. By the end, Irina can say one clear sentence.
+
+Page 4:
+Later, Irina meets another person and asks one careful question. The answer is simple, but it helps. Irina writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Irina reads the whole page out loud. The words are not perfect yet, but they are familiar now. Irina smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================

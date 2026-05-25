@@ -1,0 +1,30 @@
+Story 27: The Lost Note
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 321-344 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Катя идёт в библиотеку. Там рядом есть записка и карта. Катя читает медленно и замечает новое слово: «место». День хороший, и русский язык становится ближе.
+
+Page 2:
+Катя пишет слово «место» в тетради. Потом Катя думает о теме «поиск». В этом месте тихо, поэтому Катя снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Катя использует новые слова. Катя смотрит на записка, потом на карта, и составляет простой план. В конце Катя может сказать одно понятное предложение.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Katya is in the library. There is note and map nearby. Katya reads slowly and notices a new word: place. The day feels good, and the language feels a little closer.
+
+Page 2:
+Katya writes the word place in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Katya uses the new words to understand it. Katya checks the note, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

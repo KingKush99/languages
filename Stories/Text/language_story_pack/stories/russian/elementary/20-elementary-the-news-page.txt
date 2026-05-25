@@ -1,0 +1,24 @@
+Story 20: The News Page
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 213-228 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Мария идёт на станцию. Там рядом есть чай и газета. Мария читает медленно и замечает новое слово: «новость». День хороший, и русский язык становится ближе.
+
+Page 2:
+Мария пишет слово «новость» в тетради. Потом Мария думает о теме «мысль». В этом месте тихо, поэтому Мария снова читает предложение и произносит его вслух.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Maria is at the station. There is tea and newspaper nearby. Maria reads slowly and notices a new word: news. The day feels good, and the language feels a little closer.
+
+Page 2:
+Maria writes the word news in a notebook. Then Maria thinks about thinking. The place is quiet, so Maria reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

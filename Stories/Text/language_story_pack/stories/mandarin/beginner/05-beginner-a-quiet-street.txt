@@ -1,0 +1,18 @@
+Story 05: A Quiet Street
+Language: Chinese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 37-44 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，帕维尔去街上。旁边有房子和窗户。帕维尔慢慢地读，并注意到一个新词：“街道”。今天很好，语言也变得更近了。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Pavel is on the street. There is house and window nearby. Pavel reads slowly and notices a new word: street. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

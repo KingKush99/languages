@@ -1,0 +1,30 @@
+Story 30: The Rainy Lesson
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 393-416 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+早上，伊琳娜去学校。旁边有窗户和雨。伊琳娜慢慢地读，并注意到一个新词：“天气”。今天很好，语言也变得更近了。
+
+Page 2:
+伊琳娜把“天气”写在笔记本里。然后伊琳娜想一想“学习”这个主题。这里很安静，所以伊琳娜又读了一遍句子，并轻声说出来。
+
+Page 3:
+出现了一个小问题，但是伊琳娜用新词来理解。伊琳娜看了看窗户，又看了看雨，然后做了一个简单的计划。最后，伊琳娜能说出一个清楚的句子。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is at school. There is window and rain nearby. Irina reads slowly and notices a new word: weather. The day feels good, and the language feels a little closer.
+
+Page 2:
+Irina writes the word weather in a notebook. Then Irina thinks about study. The place is quiet, so Irina reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Irina uses the new words to understand it. Irina checks the window, looks at the rain, and makes a simple plan. By the end, Irina can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

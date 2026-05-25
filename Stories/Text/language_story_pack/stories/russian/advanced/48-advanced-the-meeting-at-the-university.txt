@@ -1,0 +1,42 @@
+Story 48: The Meeting at the University
+Language: Russian
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 896-930 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Саша идёт в университет. Там рядом есть письмо и парта. Саша читает медленно и замечает новое слово: «встреча». День хороший, и русский язык становится ближе.
+
+Page 2:
+Саша пишет слово «встреча» в тетради. Потом Саша думает о теме «идеи». В этом месте тихо, поэтому Саша снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Саша использует новые слова. Саша смотрит на письмо, потом на парта, и составляет простой план. В конце Саша может сказать одно понятное предложение.
+
+Page 4:
+Позже Саша встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Саша пишет ещё три слова и связывает их с историей этого дня.
+
+Page 5:
+В конце дня Саша читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Саша улыбается, потому что учиться теперь легче.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Sasha is at the university. There is letter and desk nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer.
+
+Page 2:
+Sasha writes the word meeting in a notebook. Then Sasha thinks about ideas. The place is quiet, so Sasha reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the desk, and makes a simple plan. By the end, Sasha can say one clear sentence.
+
+Page 4:
+Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

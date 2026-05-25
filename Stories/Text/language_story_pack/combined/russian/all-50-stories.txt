@@ -1,0 +1,1591 @@
+Story 01: Morning at Home
+Language: Russian
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 1-9 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Анна идёт домой. Там рядом есть чай и книга. Анна читает медленно и замечает новое слово: «город». День хороший, и русский язык становится ближе.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Anna is at home. There is tea and book nearby. Anna reads slowly and notices a new word: city. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 02: Tea on the Table
+Language: Russian
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 10-18 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Лена идёт домой. Там рядом есть чай и хлеб. Лена читает медленно и замечает новое слово: «стол». День хороший, и русский язык становится ближе.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Lena is at home. There is tea and bread nearby. Lena reads slowly and notices a new word: table. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 03: The Open Window
+Language: Russian
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 19-27 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Иван идёт домой. Там рядом есть окно и книга. Иван читает медленно и замечает новое слово: «библиотека». День хороший, и русский язык становится ближе.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Ivan is at home. There is window and book nearby. Ivan reads slowly and notices a new word: library. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 04: Walking to the Park
+Language: Russian
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 28-36 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Маша идёт в парк. Там рядом есть мама и брат. Маша читает медленно и замечает новое слово: «друг». День хороший, и русский язык становится ближе.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Masha is in the park. There is mother and brother nearby. Masha reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 05: A Quiet Street
+Language: Russian
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 37-44 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Павел идёт на улицу. Там рядом есть дом и окно. Павел читает медленно и замечает новое слово: «улица». День хороший, и русский язык становится ближе.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Pavel is on the street. There is house and window nearby. Pavel reads slowly and notices a new word: street. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 06: The First Book
+Language: Russian
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 45-52 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Ольга идёт в библиотеку. Там рядом есть книга и карточка. Ольга читает медленно и замечает новое слово: «слово». День хороший, и русский язык становится ближе.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is in the library. There is book and card nearby. Olga reads slowly and notices a new word: word. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 07: A Good Day
+Language: Russian
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 53-60 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Николай идёт в парк. Там рядом есть солнце и дерево. Николай читает медленно и замечает новое слово: «хороший». День хороший, и русский язык становится ближе.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Nikolay is in the park. There is sun and tree nearby. Nikolay reads slowly and notices a new word: good. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 08: At School
+Language: Russian
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 61-68 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Саша идёт в школу. Там рядом есть парта и карандаш. Саша читает медленно и замечает новое слово: «школа». День хороший, и русский язык становится ближе.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Sasha is at school. There is desk and pencil nearby. Sasha reads slowly and notices a new word: school. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 09: At the Store
+Language: Russian
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 69-76 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Ирина идёт в магазин. Там рядом есть сумка и еда. Ирина читает медленно и замечает новое слово: «магазин». День хороший, и русский язык становится ближе.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is in the store. There is bag and food nearby. Irina reads slowly and notices a new word: store. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 10: At the Station
+Language: Russian
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 77-84 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Мария идёт на станцию. Там рядом есть чай и билет. Мария читает медленно и замечает новое слово: «станция». День хороший, и русский язык становится ближе.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Maria is at the station. There is tea and ticket nearby. Maria reads slowly and notices a new word: station. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 11: A Simple Call
+Language: Russian
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 85-92 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Дима идёт домой. Там рядом есть телефон и тетрадь. Дима читает медленно и замечает новое слово: «друг». День хороший, и русский язык становится ближе.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is at home. There is phone and notebook nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 12: I Know This Word
+Language: Russian
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 93-100 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Катя идёт в комнату. Там рядом есть бумага и книга. Катя читает медленно и замечает новое слово: «знать». День хороший, и русский язык становится ближе.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Katya is in the room. There is paper and book nearby. Katya reads slowly and notices a new word: know. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 13: The Library Window
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 101-116 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Павел идёт в библиотеку. Там рядом есть окно и тетрадь. Павел читает медленно и замечает новое слово: «тихо». День хороший, и русский язык становится ближе.
+
+Page 2:
+Павел пишет слово «тихо» в тетради. Потом Павел думает о теме «чтение». В этом месте тихо, поэтому Павел снова читает предложение и произносит его вслух.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Pavel is in the library. There is window and notebook nearby. Pavel reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer.
+
+Page 2:
+Pavel writes the word quiet in a notebook. Then Pavel thinks about reading. The place is quiet, so Pavel reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 14: The Museum Visit
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 117-132 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Николай идёт в музей. Там рядом есть билет и картина. Николай читает медленно и замечает новое слово: «история». День хороший, и русский язык становится ближе.
+
+Page 2:
+Николай пишет слово «история» в тетради. Потом Николай думает о теме «память». В этом месте тихо, поэтому Николай снова читает предложение и произносит его вслух.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Nikolay is in the museum. There is ticket and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer.
+
+Page 2:
+Nikolay writes the word history in a notebook. Then Nikolay thinks about memory. The place is quiet, so Nikolay reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 15: The Cafe Notebook
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 133-148 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Ольга идёт в кафе. Там рядом есть чай и музыка. Ольга читает медленно и замечает новое слово: «мелодия». День хороший, и русский язык становится ближе.
+
+Page 2:
+Ольга пишет слово «мелодия» в тетради. Потом Ольга думает о теме «слушание». В этом месте тихо, поэтому Ольга снова читает предложение и произносит его вслух.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is in the cafe. There is tea and music nearby. Olga reads slowly and notices a new word: melody. The day feels good, and the language feels a little closer.
+
+Page 2:
+Olga writes the word melody in a notebook. Then Olga thinks about listening. The place is quiet, so Olga reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 16: Rain Near the Door
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 149-164 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Дима идёт в книжный магазин. Там рядом есть дверь и книга. Дима читает медленно и замечает новое слово: «дорога». День хороший, и русский язык становится ближе.
+
+Page 2:
+Дима пишет слово «дорога» в тетради. Потом Дима думает о теме «дождь». В этом месте тихо, поэтому Дима снова читает предложение и произносит его вслух.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is in the bookshop. There is door and book nearby. Dima reads slowly and notices a new word: road. The day feels good, and the language feels a little closer.
+
+Page 2:
+Dima writes the word road in a notebook. Then Dima thinks about rain. The place is quiet, so Dima reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 17: The Letter on the Table
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 165-180 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Саша идёт в университет. Там рядом есть письмо и стол. Саша читает медленно и замечает новое слово: «встреча». День хороший, и русский язык становится ближе.
+
+Page 2:
+Саша пишет слово «встреча» в тетради. Потом Саша думает о теме «приглашение». В этом месте тихо, поэтому Саша снова читает предложение и произносит его вслух.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Sasha is at the university. There is letter and table nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer.
+
+Page 2:
+Sasha writes the word meeting in a notebook. Then Sasha thinks about invitation. The place is quiet, so Sasha reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 18: Words in the Park
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 181-196 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Ирина идёт в парк. Там рядом есть телефон и чай. Ирина читает медленно и замечает новое слово: «три». День хороший, и русский язык становится ближе.
+
+Page 2:
+Ирина пишет слово «три» в тетради. Потом Ирина думает о теме «речь». В этом месте тихо, поэтому Ирина снова читает предложение и произносит его вслух.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is in the park. There is phone and tea nearby. Irina reads slowly and notices a new word: three. The day feels good, and the language feels a little closer.
+
+Page 2:
+Irina writes the word three in a notebook. Then Irina thinks about speaking. The place is quiet, so Irina reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 19: The Little Plan
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 197-212 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Лена идёт в магазин. Там рядом есть карта и корзина. Лена читает медленно и замечает новое слово: «план». День хороший, и русский язык становится ближе.
+
+Page 2:
+Лена пишет слово «план» в тетради. Потом Лена думает о теме «покупки». В этом месте тихо, поэтому Лена снова читает предложение и произносит его вслух.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Lena is in the store. There is map and basket nearby. Lena reads slowly and notices a new word: plan. The day feels good, and the language feels a little closer.
+
+Page 2:
+Lena writes the word plan in a notebook. Then Lena thinks about shopping. The place is quiet, so Lena reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 20: The News Page
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 213-228 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Мария идёт на станцию. Там рядом есть чай и газета. Мария читает медленно и замечает новое слово: «новость». День хороший, и русский язык становится ближе.
+
+Page 2:
+Мария пишет слово «новость» в тетради. Потом Мария думает о теме «мысль». В этом месте тихо, поэтому Мария снова читает предложение и произносит его вслух.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Maria is at the station. There is tea and newspaper nearby. Maria reads slowly and notices a new word: news. The day feels good, and the language feels a little closer.
+
+Page 2:
+Maria writes the word news in a notebook. Then Maria thinks about thinking. The place is quiet, so Maria reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 21: The Family Walk
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 229-244 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Анна идёт в парк. Там рядом есть мама и брат. Анна читает медленно и замечает новое слово: «дом». День хороший, и русский язык становится ближе.
+
+Page 2:
+Анна пишет слово «дом» в тетради. Потом Анна думает о теме «семья». В этом месте тихо, поэтому Анна снова читает предложение и произносит его вслух.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Anna is in the park. There is mother and brother nearby. Anna reads slowly and notices a new word: house. The day feels good, and the language feels a little closer.
+
+Page 2:
+Anna writes the word house in a notebook. Then Anna thinks about family. The place is quiet, so Anna reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 22: The Quiet Room
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 245-260 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Иван идёт в комнату. Там рядом есть стул и книга. Иван читает медленно и замечает новое слово: «комната». День хороший, и русский язык становится ближе.
+
+Page 2:
+Иван пишет слово «комната» в тетради. Потом Иван думает о теме «тишина». В этом месте тихо, поэтому Иван снова читает предложение и произносит его вслух.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Ivan is in the room. There is chair and book nearby. Ivan reads slowly and notices a new word: room. The day feels good, and the language feels a little closer.
+
+Page 2:
+Ivan writes the word room in a notebook. Then Ivan thinks about silence. The place is quiet, so Ivan reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 23: The New Teacher
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 261-275 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Маша идёт в школу. Там рядом есть учитель и доска. Маша читает медленно и замечает новое слово: «вопрос». День хороший, и русский язык становится ближе.
+
+Page 2:
+Маша пишет слово «вопрос» в тетради. Потом Маша думает о теме «обучение». В этом месте тихо, поэтому Маша снова читает предложение и произносит его вслух.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Masha is at school. There is teacher and board nearby. Masha reads slowly and notices a new word: question. The day feels good, and the language feels a little closer.
+
+Page 2:
+Masha writes the word question in a notebook. Then Masha thinks about learning. The place is quiet, so Masha reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 24: The Bus Stop
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 276-290 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Павел идёт на улицу. Там рядом есть билет и автобус. Павел читает медленно и замечает новое слово: «время». День хороший, и русский язык становится ближе.
+
+Page 2:
+Павел пишет слово «время» в тетради. Потом Павел думает о теме «ожидание». В этом месте тихо, поэтому Павел снова читает предложение и произносит его вслух.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Pavel is on the street. There is ticket and bus nearby. Pavel reads slowly and notices a new word: time. The day feels good, and the language feels a little closer.
+
+Page 2:
+Pavel writes the word time in a notebook. Then Pavel thinks about waiting. The place is quiet, so Pavel reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 25: The Small Market
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 291-305 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Ольга идёт на рынок. Там рядом есть фрукты и сумка. Ольга читает медленно и замечает новое слово: «деньги». День хороший, и русский язык становится ближе.
+
+Page 2:
+Ольга пишет слово «деньги» в тетради. Потом Ольга думает о теме «рынок». В этом месте тихо, поэтому Ольга снова читает предложение и произносит его вслух.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is at the market. There is fruit and bag nearby. Olga reads slowly and notices a new word: money. The day feels good, and the language feels a little closer.
+
+Page 2:
+Olga writes the word money in a notebook. Then Olga thinks about market. The place is quiet, so Olga reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 26: The First Conversation
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 306-320 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Дима идёт в кафе. Там рядом есть телефон и друг. Дима читает медленно и замечает новое слово: «предложение». День хороший, и русский язык становится ближе.
+
+Page 2:
+Дима пишет слово «предложение» в тетради. Потом Дима думает о теме «разговор». В этом месте тихо, поэтому Дима снова читает предложение и произносит его вслух.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is in the cafe. There is phone and friend nearby. Dima reads slowly and notices a new word: sentence. The day feels good, and the language feels a little closer.
+
+Page 2:
+Dima writes the word sentence in a notebook. Then Dima thinks about talk. The place is quiet, so Dima reads the sentence again and says it softly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 27: The Lost Note
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 321-344 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Катя идёт в библиотеку. Там рядом есть записка и карта. Катя читает медленно и замечает новое слово: «место». День хороший, и русский язык становится ближе.
+
+Page 2:
+Катя пишет слово «место» в тетради. Потом Катя думает о теме «поиск». В этом месте тихо, поэтому Катя снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Катя использует новые слова. Катя смотрит на записка, потом на карта, и составляет простой план. В конце Катя может сказать одно понятное предложение.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Katya is in the library. There is note and map nearby. Katya reads slowly and notices a new word: place. The day feels good, and the language feels a little closer.
+
+Page 2:
+Katya writes the word place in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Katya uses the new words to understand it. Katya checks the note, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 28: A Meeting at Noon
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 345-368 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Саша идёт в университет. Там рядом есть часы и письмо. Саша читает медленно и замечает новое слово: «полдень». День хороший, и русский язык становится ближе.
+
+Page 2:
+Саша пишет слово «полдень» в тетради. Потом Саша думает о теме «встреча». В этом месте тихо, поэтому Саша снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Саша использует новые слова. Саша смотрит на часы, потом на письмо, и составляет простой план. В конце Саша может сказать одно понятное предложение.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Sasha is at the university. There is clock and letter nearby. Sasha reads slowly and notices a new word: noon. The day feels good, and the language feels a little closer.
+
+Page 2:
+Sasha writes the word noon in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Sasha uses the new words to understand it. Sasha checks the clock, looks at the letter, and makes a simple plan. By the end, Sasha can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 29: The Old Map
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 369-392 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Николай идёт в музей. Там рядом есть карта и улица. Николай читает медленно и замечает новое слово: «город». День хороший, и русский язык становится ближе.
+
+Page 2:
+Николай пишет слово «город» в тетради. Потом Николай думает о теме «история». В этом месте тихо, поэтому Николай снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Николай использует новые слова. Николай смотрит на карта, потом на улица, и составляет простой план. В конце Николай может сказать одно понятное предложение.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Nikolay is in the museum. There is map and street nearby. Nikolay reads slowly and notices a new word: city. The day feels good, and the language feels a little closer.
+
+Page 2:
+Nikolay writes the word city in a notebook. Then Nikolay thinks about history. The place is quiet, so Nikolay reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the map, looks at the street, and makes a simple plan. By the end, Nikolay can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 30: The Rainy Lesson
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 393-416 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Ирина идёт в школу. Там рядом есть окно и дождь. Ирина читает медленно и замечает новое слово: «погода». День хороший, и русский язык становится ближе.
+
+Page 2:
+Ирина пишет слово «погода» в тетради. Потом Ирина думает о теме «учёба». В этом месте тихо, поэтому Ирина снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Ирина использует новые слова. Ирина смотрит на окно, потом на дождь, и составляет простой план. В конце Ирина может сказать одно понятное предложение.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is at school. There is window and rain nearby. Irina reads slowly and notices a new word: weather. The day feels good, and the language feels a little closer.
+
+Page 2:
+Irina writes the word weather in a notebook. Then Irina thinks about study. The place is quiet, so Irina reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Irina uses the new words to understand it. Irina checks the window, looks at the rain, and makes a simple plan. By the end, Irina can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 31: The Museum Question
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 417-440 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Павел идёт в музей. Там рядом есть картина и тетрадь. Павел читает медленно и замечает новое слово: «вопрос». День хороший, и русский язык становится ближе.
+
+Page 2:
+Павел пишет слово «вопрос» в тетради. Потом Павел думает о теме «ответ». В этом месте тихо, поэтому Павел снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Павел использует новые слова. Павел смотрит на картина, потом на тетрадь, и составляет простой план. В конце Павел может сказать одно понятное предложение.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Pavel is in the museum. There is picture and notebook nearby. Pavel reads slowly and notices a new word: question. The day feels good, and the language feels a little closer.
+
+Page 2:
+Pavel writes the word question in a notebook. Then Pavel thinks about answer. The place is quiet, so Pavel reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Pavel uses the new words to understand it. Pavel checks the picture, looks at the notebook, and makes a simple plan. By the end, Pavel can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 32: The Train Delay
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 441-464 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Мария идёт на станцию. Там рядом есть билет и часы. Мария читает медленно и замечает новое слово: «ждать». День хороший, и русский язык становится ближе.
+
+Page 2:
+Мария пишет слово «ждать» в тетради. Потом Мария думает о теме «поездка». В этом месте тихо, поэтому Мария снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Мария использует новые слова. Мария смотрит на билет, потом на часы, и составляет простой план. В конце Мария может сказать одно понятное предложение.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Maria is at the station. There is ticket and clock nearby. Maria reads slowly and notices a new word: wait. The day feels good, and the language feels a little closer.
+
+Page 2:
+Maria writes the word wait in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the clock, and makes a simple plan. By the end, Maria can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 33: Music in the Cafe
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 465-488 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Ольга идёт в кафе. Там рядом есть музыка и чай. Ольга читает медленно и замечает новое слово: «песня». День хороший, и русский язык становится ближе.
+
+Page 2:
+Ольга пишет слово «песня» в тетради. Потом Ольга думает о теме «память». В этом месте тихо, поэтому Ольга снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Ольга использует новые слова. Ольга смотрит на музыка, потом на чай, и составляет простой план. В конце Ольга может сказать одно понятное предложение.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is in the cafe. There is music and tea nearby. Olga reads slowly and notices a new word: song. The day feels good, and the language feels a little closer.
+
+Page 2:
+Olga writes the word song in a notebook. Then Olga thinks about memory. The place is quiet, so Olga reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Olga uses the new words to understand it. Olga checks the music, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 34: A Letter from a Friend
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 489-512 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Дима идёт домой. Там рядом есть письмо и телефон. Дима читает медленно и замечает новое слово: «друг». День хороший, и русский язык становится ближе.
+
+Page 2:
+Дима пишет слово «друг» в тетради. Потом Дима думает о теме «приглашение». В этом месте тихо, поэтому Дима снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Дима использует новые слова. Дима смотрит на письмо, потом на телефон, и составляет простой план. В конце Дима может сказать одно понятное предложение.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is at home. There is letter and phone nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer.
+
+Page 2:
+Dima writes the word friend in a notebook. Then Dima thinks about invitation. The place is quiet, so Dima reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Dima uses the new words to understand it. Dima checks the letter, looks at the phone, and makes a simple plan. By the end, Dima can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 35: The School Project
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 513-535 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Маша идёт в школу. Там рядом есть бумага и учитель. Маша читает медленно и замечает новое слово: «проект». День хороший, и русский язык становится ближе.
+
+Page 2:
+Маша пишет слово «проект» в тетради. Потом Маша думает о теме «группа». В этом месте тихо, поэтому Маша снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Маша использует новые слова. Маша смотрит на бумага, потом на учитель, и составляет простой план. В конце Маша может сказать одно понятное предложение.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Masha is at school. There is paper and teacher nearby. Masha reads slowly and notices a new word: project. The day feels good, and the language feels a little closer.
+
+Page 2:
+Masha writes the word project in a notebook. Then Masha thinks about group. The place is quiet, so Masha reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Masha uses the new words to understand it. Masha checks the paper, looks at the teacher, and makes a simple plan. By the end, Masha can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 36: The City Walk
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 536-558 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Анна идёт в город. Там рядом есть улица и окно. Анна читает медленно и замечает новое слово: «прогулка». День хороший, и русский язык становится ближе.
+
+Page 2:
+Анна пишет слово «прогулка» в тетради. Потом Анна думает о теме «место». В этом месте тихо, поэтому Анна снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Анна использует новые слова. Анна смотрит на улица, потом на окно, и составляет простой план. В конце Анна может сказать одно понятное предложение.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Anna is in the city. There is street and window nearby. Anna reads slowly and notices a new word: walk. The day feels good, and the language feels a little closer.
+
+Page 2:
+Anna writes the word walk in a notebook. Then Anna thinks about place. The place is quiet, so Anna reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Anna uses the new words to understand it. Anna checks the street, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 37: The Bookshop Door
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 559-581 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Иван идёт в книжный магазин. Там рядом есть дверь и книга. Иван читает медленно и замечает новое слово: «открыть». День хороший, и русский язык становится ближе.
+
+Page 2:
+Иван пишет слово «открыть» в тетради. Потом Иван думает о теме «чтение». В этом месте тихо, поэтому Иван снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Иван использует новые слова. Иван смотрит на дверь, потом на книга, и составляет простой план. В конце Иван может сказать одно понятное предложение.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Ivan is in the bookshop. There is door and book nearby. Ivan reads slowly and notices a new word: open. The day feels good, and the language feels a little closer.
+
+Page 2:
+Ivan writes the word open in a notebook. Then Ivan thinks about reading. The place is quiet, so Ivan reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Ivan uses the new words to understand it. Ivan checks the door, looks at the book, and makes a simple plan. By the end, Ivan can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 38: The Family Story
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 582-604 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Лена идёт домой. Там рядом есть мама и фото. Лена читает медленно и замечает новое слово: «история». День хороший, и русский язык становится ближе.
+
+Page 2:
+Лена пишет слово «история» в тетради. Потом Лена думает о теме «семья». В этом месте тихо, поэтому Лена снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Лена использует новые слова. Лена смотрит на мама, потом на фото, и составляет простой план. В конце Лена может сказать одно понятное предложение.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Lena is at home. There is mother and photo nearby. Lena reads slowly and notices a new word: story. The day feels good, and the language feels a little closer.
+
+Page 2:
+Lena writes the word story in a notebook. Then Lena thinks about family. The place is quiet, so Lena reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Lena uses the new words to understand it. Lena checks the mother, looks at the photo, and makes a simple plan. By the end, Lena can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 39: The Important Word
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 605-627 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Павел идёт в библиотеку. Там рядом есть словарь и бумага. Павел читает медленно и замечает новое слово: «значение». День хороший, и русский язык становится ближе.
+
+Page 2:
+Павел пишет слово «значение» в тетради. Потом Павел думает о теме «язык». В этом месте тихо, поэтому Павел снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Павел использует новые слова. Павел смотрит на словарь, потом на бумага, и составляет простой план. В конце Павел может сказать одно понятное предложение.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Pavel is in the library. There is dictionary and paper nearby. Pavel reads slowly and notices a new word: meaning. The day feels good, and the language feels a little closer.
+
+Page 2:
+Pavel writes the word meaning in a notebook. Then Pavel thinks about language. The place is quiet, so Pavel reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Pavel uses the new words to understand it. Pavel checks the dictionary, looks at the paper, and makes a simple plan. By the end, Pavel can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 40: Closer Every Day
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 628-650 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Ирина идёт в парк. Там рядом есть тетрадь и чай. Ирина читает медленно и замечает новое слово: «ближе». День хороший, и русский язык становится ближе.
+
+Page 2:
+Ирина пишет слово «ближе» в тетради. Потом Ирина думает о теме «повторение». В этом месте тихо, поэтому Ирина снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Ирина использует новые слова. Ирина смотрит на тетрадь, потом на чай, и составляет простой план. В конце Ирина может сказать одно понятное предложение.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is in the park. There is notebook and tea nearby. Irina reads slowly and notices a new word: closer. The day feels good, and the language feels a little closer.
+
+Page 2:
+Irina writes the word closer in a notebook. Then Irina thinks about review. The place is quiet, so Irina reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Irina uses the new words to understand it. Irina checks the notebook, looks at the tea, and makes a simple plan. By the end, Irina can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 41: The Long Walk Through the City
+Language: Russian
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 651-685 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Анна идёт в город. Там рядом есть карта и окно. Анна читает медленно и замечает новое слово: «путь». День хороший, и русский язык становится ближе.
+
+Page 2:
+Анна пишет слово «путь» в тетради. Потом Анна думает о теме «город». В этом месте тихо, поэтому Анна снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Анна использует новые слова. Анна смотрит на карта, потом на окно, и составляет простой план. В конце Анна может сказать одно понятное предложение.
+
+Page 4:
+Позже Анна встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Анна пишет ещё три слова и связывает их с историей этого дня.
+
+Page 5:
+В конце дня Анна читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Анна улыбается, потому что учиться теперь легче.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Anna is in the city. There is map and window nearby. Anna reads slowly and notices a new word: journey. The day feels good, and the language feels a little closer.
+
+Page 2:
+Anna writes the word journey in a notebook. Then Anna thinks about city. The place is quiet, so Anna reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Anna uses the new words to understand it. Anna checks the map, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence.
+
+Page 4:
+Later, Anna meets another person and asks one careful question. The answer is simple, but it helps. Anna writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Anna reads the whole page out loud. The words are not perfect yet, but they are familiar now. Anna smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 42: The Forgotten Invitation
+Language: Russian
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 686-720 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Саша идёт в университет. Там рядом есть письмо и телефон. Саша читает медленно и замечает новое слово: «приглашение». День хороший, и русский язык становится ближе.
+
+Page 2:
+Саша пишет слово «приглашение» в тетради. Потом Саша думает о теме «встреча». В этом месте тихо, поэтому Саша снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Саша использует новые слова. Саша смотрит на письмо, потом на телефон, и составляет простой план. В конце Саша может сказать одно понятное предложение.
+
+Page 4:
+Позже Саша встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Саша пишет ещё три слова и связывает их с историей этого дня.
+
+Page 5:
+В конце дня Саша читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Саша улыбается, потому что учиться теперь легче.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Sasha is at the university. There is letter and phone nearby. Sasha reads slowly and notices a new word: invitation. The day feels good, and the language feels a little closer.
+
+Page 2:
+Sasha writes the word invitation in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the phone, and makes a simple plan. By the end, Sasha can say one clear sentence.
+
+Page 4:
+Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 43: The History Room
+Language: Russian
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 721-755 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Николай идёт в музей. Там рядом есть книга и картина. Николай читает медленно и замечает новое слово: «история». День хороший, и русский язык становится ближе.
+
+Page 2:
+Николай пишет слово «история» в тетради. Потом Николай думает о теме «прошлое». В этом месте тихо, поэтому Николай снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Николай использует новые слова. Николай смотрит на книга, потом на картина, и составляет простой план. В конце Николай может сказать одно понятное предложение.
+
+Page 4:
+Позже Николай встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Николай пишет ещё три слова и связывает их с историей этого дня.
+
+Page 5:
+В конце дня Николай читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Николай улыбается, потому что учиться теперь легче.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Nikolay is in the museum. There is book and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer.
+
+Page 2:
+Nikolay writes the word history in a notebook. Then Nikolay thinks about past. The place is quiet, so Nikolay reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the book, looks at the picture, and makes a simple plan. By the end, Nikolay can say one clear sentence.
+
+Page 4:
+Later, Nikolay meets another person and asks one careful question. The answer is simple, but it helps. Nikolay writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Nikolay reads the whole page out loud. The words are not perfect yet, but they are familiar now. Nikolay smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 44: The Quiet Train
+Language: Russian
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 756-790 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Мария идёт к поезду. Там рядом есть билет и чай. Мария читает медленно и замечает новое слово: «тихо». День хороший, и русский язык становится ближе.
+
+Page 2:
+Мария пишет слово «тихо» в тетради. Потом Мария думает о теме «поездка». В этом месте тихо, поэтому Мария снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Мария использует новые слова. Мария смотрит на билет, потом на чай, и составляет простой план. В конце Мария может сказать одно понятное предложение.
+
+Page 4:
+Позже Мария встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Мария пишет ещё три слова и связывает их с историей этого дня.
+
+Page 5:
+В конце дня Мария читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Мария улыбается, потому что учиться теперь легче.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Maria is on the train. There is ticket and tea nearby. Maria reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer.
+
+Page 2:
+Maria writes the word quiet in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the tea, and makes a simple plan. By the end, Maria can say one clear sentence.
+
+Page 4:
+Later, Maria meets another person and asks one careful question. The answer is simple, but it helps. Maria writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Maria reads the whole page out loud. The words are not perfect yet, but they are familiar now. Maria smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 45: A Plan for Tomorrow
+Language: Russian
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 791-825 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Лена идёт домой. Там рядом есть карта и тетрадь. Лена читает медленно и замечает новое слово: «завтра». День хороший, и русский язык становится ближе.
+
+Page 2:
+Лена пишет слово «завтра» в тетради. Потом Лена думает о теме «план». В этом месте тихо, поэтому Лена снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Лена использует новые слова. Лена смотрит на карта, потом на тетрадь, и составляет простой план. В конце Лена может сказать одно понятное предложение.
+
+Page 4:
+Позже Лена встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Лена пишет ещё три слова и связывает их с историей этого дня.
+
+Page 5:
+В конце дня Лена читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Лена улыбается, потому что учиться теперь легче.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Lena is at home. There is map and notebook nearby. Lena reads slowly and notices a new word: tomorrow. The day feels good, and the language feels a little closer.
+
+Page 2:
+Lena writes the word tomorrow in a notebook. Then Lena thinks about plan. The place is quiet, so Lena reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Lena uses the new words to understand it. Lena checks the map, looks at the notebook, and makes a simple plan. By the end, Lena can say one clear sentence.
+
+Page 4:
+Later, Lena meets another person and asks one careful question. The answer is simple, but it helps. Lena writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Lena reads the whole page out loud. The words are not perfect yet, but they are familiar now. Lena smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 46: News from the Cafe
+Language: Russian
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 826-860 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Ольга идёт в кафе. Там рядом есть газета и чай. Ольга читает медленно и замечает новое слово: «новость». День хороший, и русский язык становится ближе.
+
+Page 2:
+Ольга пишет слово «новость» в тетради. Потом Ольга думает о теме «разговор». В этом месте тихо, поэтому Ольга снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Ольга использует новые слова. Ольга смотрит на газета, потом на чай, и составляет простой план. В конце Ольга может сказать одно понятное предложение.
+
+Page 4:
+Позже Ольга встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Ольга пишет ещё три слова и связывает их с историей этого дня.
+
+Page 5:
+В конце дня Ольга читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Ольга улыбается, потому что учиться теперь легче.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Olga is in the cafe. There is newspaper and tea nearby. Olga reads slowly and notices a new word: news. The day feels good, and the language feels a little closer.
+
+Page 2:
+Olga writes the word news in a notebook. Then Olga thinks about talk. The place is quiet, so Olga reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Olga uses the new words to understand it. Olga checks the newspaper, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence.
+
+Page 4:
+Later, Olga meets another person and asks one careful question. The answer is simple, but it helps. Olga writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Olga reads the whole page out loud. The words are not perfect yet, but they are familiar now. Olga smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 47: The Word That Changed the Day
+Language: Russian
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 861-895 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Дима идёт на улицу. Там рядом есть сумка и книга. Дима читает медленно и замечает новое слово: «помощь». День хороший, и русский язык становится ближе.
+
+Page 2:
+Дима пишет слово «помощь» в тетради. Потом Дима думает о теме «дорога». В этом месте тихо, поэтому Дима снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Дима использует новые слова. Дима смотрит на сумка, потом на книга, и составляет простой план. В конце Дима может сказать одно понятное предложение.
+
+Page 4:
+Позже Дима встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Дима пишет ещё три слова и связывает их с историей этого дня.
+
+Page 5:
+В конце дня Дима читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Дима улыбается, потому что учиться теперь легче.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Dima is on the street. There is bag and book nearby. Dima reads slowly and notices a new word: help. The day feels good, and the language feels a little closer.
+
+Page 2:
+Dima writes the word help in a notebook. Then Dima thinks about road. The place is quiet, so Dima reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Dima uses the new words to understand it. Dima checks the bag, looks at the book, and makes a simple plan. By the end, Dima can say one clear sentence.
+
+Page 4:
+Later, Dima meets another person and asks one careful question. The answer is simple, but it helps. Dima writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Dima reads the whole page out loud. The words are not perfect yet, but they are familiar now. Dima smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 48: The Meeting at the University
+Language: Russian
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 896-930 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Саша идёт в университет. Там рядом есть письмо и парта. Саша читает медленно и замечает новое слово: «встреча». День хороший, и русский язык становится ближе.
+
+Page 2:
+Саша пишет слово «встреча» в тетради. Потом Саша думает о теме «идеи». В этом месте тихо, поэтому Саша снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Саша использует новые слова. Саша смотрит на письмо, потом на парта, и составляет простой план. В конце Саша может сказать одно понятное предложение.
+
+Page 4:
+Позже Саша встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Саша пишет ещё три слова и связывает их с историей этого дня.
+
+Page 5:
+В конце дня Саша читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Саша улыбается, потому что учиться теперь легче.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Sasha is at the university. There is letter and desk nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer.
+
+Page 2:
+Sasha writes the word meeting in a notebook. Then Sasha thinks about ideas. The place is quiet, so Sasha reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the desk, and makes a simple plan. By the end, Sasha can say one clear sentence.
+
+Page 4:
+Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 49: The Letter and the Map
+Language: Russian
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 931-965 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Катя идёт в библиотеку. Там рядом есть письмо и карта. Катя читает медленно и замечает новое слово: «маршрут». День хороший, и русский язык становится ближе.
+
+Page 2:
+Катя пишет слово «маршрут» в тетради. Потом Катя думает о теме «поиск». В этом месте тихо, поэтому Катя снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Катя использует новые слова. Катя смотрит на письмо, потом на карта, и составляет простой план. В конце Катя может сказать одно понятное предложение.
+
+Page 4:
+Позже Катя встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Катя пишет ещё три слова и связывает их с историей этого дня.
+
+Page 5:
+В конце дня Катя читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Катя улыбается, потому что учиться теперь легче.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Katya is in the library. There is letter and map nearby. Katya reads slowly and notices a new word: route. The day feels good, and the language feels a little closer.
+
+Page 2:
+Katya writes the word route in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Katya uses the new words to understand it. Katya checks the letter, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence.
+
+Page 4:
+Later, Katya meets another person and asks one careful question. The answer is simple, but it helps. Katya writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Katya reads the whole page out loud. The words are not perfect yet, but they are familiar now. Katya smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================
+
+Story 50: The Language Feels Close
+Language: Russian
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 966-1000 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Ирина идёт в парк. Там рядом есть книга и телефон. Ирина читает медленно и замечает новое слово: «язык». День хороший, и русский язык становится ближе.
+
+Page 2:
+Ирина пишет слово «язык» в тетради. Потом Ирина думает о теме «уверенность». В этом месте тихо, поэтому Ирина снова читает предложение и произносит его вслух.
+
+Page 3:
+Появляется маленькая трудность, но Ирина использует новые слова. Ирина смотрит на книга, потом на телефон, и составляет простой план. В конце Ирина может сказать одно понятное предложение.
+
+Page 4:
+Позже Ирина встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Ирина пишет ещё три слова и связывает их с историей этого дня.
+
+Page 5:
+В конце дня Ирина читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Ирина улыбается, потому что учиться теперь легче.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Irina is in the park. There is book and phone nearby. Irina reads slowly and notices a new word: language. The day feels good, and the language feels a little closer.
+
+Page 2:
+Irina writes the word language in a notebook. Then Irina thinks about confidence. The place is quiet, so Irina reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Irina uses the new words to understand it. Irina checks the book, looks at the phone, and makes a simple plan. By the end, Irina can say one clear sentence.
+
+Page 4:
+Later, Irina meets another person and asks one careful question. The answer is simple, but it helps. Irina writes three more words and connects them to the story of the day.
+
+Page 5:
+At the end of the day, Irina reads the whole page out loud. The words are not perfect yet, but they are familiar now. Irina smiles because learning feels possible and close.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
+
+
+================================================================================

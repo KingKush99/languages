@@ -1,0 +1,30 @@
+Story 37: The Bookshop Door
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 559-581 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+朝、イワンは本屋へ行きます。近くにドアと本があります。イワンはゆっくり読み、新しい言葉「開ける」に気づきます。よい日で、言語が少し近く感じます。
+
+Page 2:
+イワンはノートに「開ける」を書きます。それから「読むこと」について考えます。そこは静かなので、イワンは文をもう一度読み、小さな声で言います。
+
+Page 3:
+小さな問題が出ますが、イワンは新しい言葉を使います。ドアを見て、次に本を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Ivan is in the bookshop. There is door and book nearby. Ivan reads slowly and notices a new word: open. The day feels good, and the language feels a little closer.
+
+Page 2:
+Ivan writes the word open in a notebook. Then Ivan thinks about reading. The place is quiet, so Ivan reads the sentence again and says it softly.
+
+Page 3:
+A small problem appears, but Ivan uses the new words to understand it. Ivan checks the door, looks at the book, and makes a simple plan. By the end, Ivan can say one clear sentence.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

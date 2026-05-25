@@ -1,0 +1,18 @@
+Story 12: I Know This Word
+Language: Russian
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 93-100 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Утром Катя идёт в комнату. Там рядом есть бумага и книга. Катя читает медленно и замечает новое слово: «знать». День хороший, и русский язык становится ближе.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the morning, Katya is in the room. There is paper and book nearby. Katya reads slowly and notices a new word: know. The day feels good, and the language feels a little closer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
