@@ -2319,6 +2319,9 @@ function switchTargetLanguage(language) {
   renderWordList();
   renderThemes();
   renderAchievements();
+  activeSongIndex = 0;
+  renderSpotifyPlaylist();
+  updatePlayerUI();
 }
 
 function normalizeWord(word) {
@@ -4262,6 +4265,30 @@ function playAudioSong(song) {
   });
 }
 
+function createMusicCoverFallback(song) {
+  const fallback = document.createElement("div");
+  fallback.className = "music-cover-fallback";
+  fallback.setAttribute("aria-label", `${song.album || song.title || "Language music"} cover fallback`);
+  fallback.textContent = (song.title || "LL").trim().slice(0, 1).toUpperCase();
+  return fallback;
+}
+
+function renderSongArtwork(song) {
+  if (!els.songArtwork) return;
+  els.songArtwork.replaceChildren();
+  if (!song.cover) {
+    els.songArtwork.append(createMusicCoverFallback(song));
+    return;
+  }
+  const img = document.createElement("img");
+  img.src = encodeURI(song.cover);
+  img.alt = `${song.album || song.title} cover`;
+  img.addEventListener("error", () => {
+    els.songArtwork.replaceChildren(createMusicCoverFallback(song));
+  }, { once: true });
+  els.songArtwork.append(img);
+}
+
 els.playSongBtn.addEventListener("click", togglePlay);
 els.nextSongBtn.addEventListener("click", () => {
   const songs = getActiveSongList();
@@ -4289,9 +4316,7 @@ function updatePlayerUI() {
   }
   els.currentSongTitle.textContent = song.title;
   els.songStatus.textContent = appState.isPlaying ? "Playing" : "Paused";
-  if (els.songArtwork) {
-    els.songArtwork.innerHTML = song.cover ? `<img src="${encodeURI(song.cover)}" alt="${song.album || song.title} cover">` : "Note";
-  }
+  renderSongArtwork(song);
   if (appState.isPlaying) {
     if (currentOsc) currentOsc.stop();
     if (song.src) playAudioSong(song);
@@ -5554,11 +5579,12 @@ function initCharacter3d() {
   }
   try {
     const scene = new THREE.Scene();
-    const camera = new THREE.PerspectiveCamera(34, 1, 0.1, 100);
+    const camera = new THREE.PerspectiveCamera(31, 1, 0.1, 100);
     const renderer = new THREE.WebGLRenderer({ canvas: els.characterCanvas, antialias: true, alpha: true });
     renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
     if (THREE.SRGBColorSpace) renderer.outputColorSpace = THREE.SRGBColorSpace;
-    camera.position.set(0, 1.12, 5.6);
+    camera.position.set(0, 0.34, 7.25);
+    camera.lookAt(0, 0.08, 0);
     scene.add(new THREE.HemisphereLight(0xffffff, 0x8aa0bf, 2.15));
     const key = new THREE.DirectionalLight(0xffffff, 2.0);
     key.position.set(3.2, 4.6, 5.4);
@@ -5568,7 +5594,7 @@ function initCharacter3d() {
     scene.add(fill);
 
     const group = new THREE.Group();
-    group.position.y = -0.18;
+    group.position.y = -0.26;
     scene.add(group);
     const material = (color) => new THREE.MeshStandardMaterial({ color, roughness: 0.62, metalness: 0.02 });
     const capsule = (radius, length, color, segments = 24) => {
@@ -5579,46 +5605,46 @@ function initCharacter3d() {
     };
 
     const shadow = new THREE.Mesh(
-      new THREE.CircleGeometry(1.45, 48),
+      new THREE.CircleGeometry(1.62, 56),
       new THREE.MeshBasicMaterial({ color: 0x0f172a, transparent: true, opacity: 0.12 })
     );
     shadow.rotation.x = -Math.PI / 2;
-    shadow.position.y = -1.48;
+    shadow.position.y = -1.86;
 
-    const torso = capsule(0.54, 0.95, 0x3182ce, 32);
-    torso.position.y = 0.12;
-    torso.scale.set(1.05, 1.08, 0.78);
+    const torso = capsule(0.5, 1.18, 0x3182ce, 36);
+    torso.position.y = 0.06;
+    torso.scale.set(1.04, 1.05, 0.82);
 
-    const chestPanel = new THREE.Mesh(new THREE.CapsuleGeometry(0.2, 0.72, 8, 20), material(0xffffff));
-    chestPanel.position.set(-0.19, 0.26, 0.42);
-    chestPanel.rotation.z = -0.26;
-    chestPanel.scale.set(0.7, 1, 0.08);
+    const chestPanel = new THREE.Mesh(new THREE.CapsuleGeometry(0.18, 0.8, 8, 24), material(0xffffff));
+    chestPanel.position.set(-0.19, 0.2, 0.44);
+    chestPanel.rotation.z = -0.24;
+    chestPanel.scale.set(0.72, 1.05, 0.08);
 
-    const shorts = new THREE.Mesh(new THREE.BoxGeometry(1.0, 0.32, 0.72), material(0x111827));
-    shorts.position.y = -0.58;
-    shorts.scale.set(1, 1, 0.82);
+    const shorts = new THREE.Mesh(new THREE.BoxGeometry(1.02, 0.42, 0.76), material(0x111827));
+    shorts.position.y = -0.66;
+    shorts.scale.set(1.02, 1, 0.86);
 
-    const neck = capsule(0.18, 0.32, 0xed8936, 20);
-    neck.position.y = 0.94;
-    neck.scale.set(0.96, 1.0, 0.9);
+    const neck = capsule(0.2, 0.36, 0xed8936, 24);
+    neck.position.y = 0.9;
+    neck.scale.set(1.0, 1.08, 0.94);
 
-    const head = new THREE.Mesh(new THREE.SphereGeometry(0.52, 36, 28), material(0xed8936));
-    head.position.y = 1.42;
-    head.scale.set(0.94, 1.1, 0.9);
+    const head = new THREE.Mesh(new THREE.SphereGeometry(0.54, 42, 32), material(0xed8936));
+    head.position.y = 1.35;
+    head.scale.set(0.94, 1.06, 0.92);
 
-    const hair = new THREE.Mesh(new THREE.SphereGeometry(0.55, 36, 18, 0, Math.PI * 2, 0, Math.PI / 2), material(0x2f241f));
-    hair.position.y = 1.88;
-    hair.scale.set(1, 0.54, 0.94);
+    const hair = new THREE.Mesh(new THREE.SphereGeometry(0.57, 42, 20, 0, Math.PI * 2, 0, Math.PI / 2), material(0x2f241f));
+    hair.position.y = 1.79;
+    hair.scale.set(1.02, 0.56, 0.96);
 
     const hairTufts = Array.from({ length: 7 }, (_, index) => {
       const tuft = new THREE.Mesh(new THREE.SphereGeometry(0.12, 18, 12), material(0x2f241f));
-      tuft.position.set((index - 3) * 0.13, 1.78 - Math.abs(index - 3) * 0.015, 0.31);
-      tuft.scale.set(1.25, 0.8, 0.72);
+      tuft.position.set((index - 3) * 0.13, 1.68 - Math.abs(index - 3) * 0.015, 0.34);
+      tuft.scale.set(1.28, 0.82, 0.76);
       return tuft;
     });
 
     const leftEar = new THREE.Mesh(new THREE.SphereGeometry(0.12, 20, 16), material(0xed8936));
-    leftEar.position.set(-0.47, 1.48, 0.01);
+    leftEar.position.set(-0.49, 1.4, 0.02);
     leftEar.scale.set(0.72, 1.18, 0.58);
     const rightEar = leftEar.clone();
     rightEar.material = leftEar.material.clone();
@@ -5627,37 +5653,38 @@ function initCharacter3d() {
     const eyeWhiteMaterial = material(0xffffff);
     const eyeColorMaterial = material(0x2b6cb0);
     const leftEyeWhite = new THREE.Mesh(new THREE.SphereGeometry(0.075, 18, 12), eyeWhiteMaterial);
-    leftEyeWhite.position.set(-0.17, 1.53, 0.43);
+    leftEyeWhite.position.set(-0.17, 1.45, 0.45);
     leftEyeWhite.scale.set(1.08, 0.76, 0.34);
     const rightEyeWhite = leftEyeWhite.clone();
     rightEyeWhite.position.x = 0.17;
     const leftEye = new THREE.Mesh(new THREE.SphereGeometry(0.036, 16, 12), eyeColorMaterial);
-    leftEye.position.set(-0.17, 1.53, 0.475);
+    leftEye.position.set(-0.17, 1.45, 0.49);
     const rightEye = leftEye.clone();
     rightEye.material = leftEye.material.clone();
     rightEye.position.x = 0.17;
 
     const nose = capsule(0.035, 0.19, 0xb9652c, 14);
-    nose.position.set(0, 1.42, 0.49);
+    nose.position.set(0, 1.35, 0.51);
     nose.rotation.x = Math.PI / 2;
     const mouth = new THREE.Mesh(
       new THREE.TorusGeometry(0.14, 0.014, 8, 32, Math.PI),
       material(0x51311c)
     );
-    mouth.position.set(0, 1.27, 0.455);
+    mouth.position.set(0, 1.21, 0.48);
     mouth.rotation.set(0, 0, Math.PI);
 
     const makeArm = (side) => {
       const shoulder = new THREE.Group();
-      shoulder.position.set(side * 0.58, 0.38, 0.34);
+      shoulder.position.set(side * 0.57, 0.4, 0.46);
       shoulder.rotation.z = side * -0.2;
-      shoulder.rotation.x = 0.12;
-      const sleeve = capsule(0.11, 0.54, 0x3182ce, 18);
-      sleeve.position.y = -0.26;
-      const forearm = capsule(0.095, 0.48, 0xed8936, 18);
-      forearm.position.y = -0.79;
-      const hand = new THREE.Mesh(new THREE.SphereGeometry(0.12, 18, 14), material(0xed8936));
-      hand.position.y = -1.08;
+      shoulder.rotation.x = 0.28;
+      const sleeve = capsule(0.125, 0.62, 0x3182ce, 22);
+      sleeve.position.y = -0.31;
+      const forearm = capsule(0.105, 0.56, 0xed8936, 20);
+      forearm.position.y = -0.9;
+      forearm.position.z = 0.03;
+      const hand = new THREE.Mesh(new THREE.SphereGeometry(0.13, 22, 16), material(0xed8936));
+      hand.position.set(0, -1.23, 0.04);
       shoulder.add(sleeve, forearm, hand);
       return { shoulder, sleeve, forearm, hand };
     };
@@ -5666,13 +5693,13 @@ function initCharacter3d() {
 
     const makeLeg = (side) => {
       const leg = new THREE.Group();
-      leg.position.set(side * 0.25, -0.9, 0);
-      const pant = capsule(0.135, 0.42, 0x111827, 18);
-      pant.position.y = -0.08;
-      const lowerLeg = capsule(0.105, 0.28, 0xed8936, 16);
-      lowerLeg.position.y = -0.47;
-      const shoe = new THREE.Mesh(new THREE.BoxGeometry(0.38, 0.18, 0.56), material(0x111827));
-      shoe.position.set(side * 0.04, -0.74, 0.14);
+      leg.position.set(side * 0.27, -0.94, 0.02);
+      const pant = capsule(0.14, 0.58, 0x111827, 22);
+      pant.position.y = -0.13;
+      const lowerLeg = capsule(0.108, 0.46, 0xed8936, 18);
+      lowerLeg.position.y = -0.68;
+      const shoe = new THREE.Mesh(new THREE.BoxGeometry(0.42, 0.2, 0.64), material(0x111827));
+      shoe.position.set(side * 0.04, -1.0, 0.2);
       shoe.rotation.y = side * -0.08;
       leg.add(pant, lowerLeg, shoe);
       return { leg, pant, lowerLeg, shoe };
@@ -6520,6 +6547,7 @@ initEconomy();
 renderStore();
 renderThemes();
 renderSpotifyPlaylist();
+updatePlayerUI();
 setupChatLanguages();
 
 setupSpeechRecognition();
