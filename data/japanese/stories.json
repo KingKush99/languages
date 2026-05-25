@@ -1,0 +1,2948 @@
+[
+  {
+    "id": "japanese-beginner-01",
+    "level": "beginner",
+    "title": "Beginner 01: 言葉 1-9",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      1,
+      9
+    ],
+    "allowedWordRankMax": 9,
+    "newWords": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "reviewWords": [],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "今日は学習者が短いページを読みます。 新しい言葉: ように, 私は, 彼の, その, 彼, た, ために, 上の, アール. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "Today the learner reads a short page. New words: ように = as; 私は = I; 彼の = his; その = that; 彼 = he; た = was; ために = for; 上の = on; アール = are. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-beginner-02",
+    "level": "beginner",
+    "title": "Beginner 02: 言葉 10-18",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      10,
+      18
+    ],
+    "allowedWordRankMax": 18,
+    "newWords": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "reviewWords": [
+      1,
+      3,
+      5,
+      7,
+      9
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "今日は学習者が短いページを読みます。 復習する言葉: ように, 彼の, 彼, ために, アール. 新しい言葉: とともに, 彼ら, ある, アット, 一つ, 持っている, この, から, バイ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "Today the learner reads a short page. Review words: ように = as; 彼の = his; 彼 = he; ために = for; アール = are. New words: とともに = with; 彼ら = they; ある = be; アット = at; 一つ = one; 持っている = have; この = this; から = from; バイ = by. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-beginner-03",
+    "level": "beginner",
+    "title": "Beginner 03: 言葉 19-27",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      19,
+      27
+    ],
+    "allowedWordRankMax": 27,
+    "newWords": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "reviewWords": [
+      1,
+      4,
+      7,
+      10,
+      13,
+      16
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "今日は学習者が短いページを読みます。 復習する言葉: ように, その, ために, とともに, アット. 新しい言葉: ホット, 言葉, しかし, 何, いくつかの, です, それ, あなた, または. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "Today the learner reads a short page. Review words: ように = as; その = that; ために = for; とともに = with; アット = at. New words: ホット = hot; 言葉 = word; しかし = but; 何 = what; いくつかの = some; です = is; それ = it; あなた = you; または = or. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-beginner-04",
+    "level": "beginner",
+    "title": "Beginner 04: 言葉 28-36",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      28,
+      36
+    ],
+    "allowedWordRankMax": 36,
+    "newWords": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "reviewWords": [
+      4,
+      7,
+      10,
+      13,
+      16,
+      19,
+      22,
+      25
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "今日は学習者が短いページを読みます。 復習する言葉: その, ために, とともに, アット, この. 新しい言葉: 持っていた, インクルード, の, へ, そして, は, で, 我々, 缶. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "Today the learner reads a short page. Review words: その = that; ために = for; とともに = with; アット = at; この = this. New words: 持っていた = had; インクルード = the; の = of; へ = to; そして = and; は = a; で = in; 我々 = we; 缶 = can. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-beginner-05",
+    "level": "beginner",
+    "title": "Beginner 05: 言葉 37-44",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      37,
+      44
+    ],
+    "allowedWordRankMax": 44,
+    "newWords": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "reviewWords": [
+      13,
+      16,
+      19,
+      22,
+      25,
+      28,
+      31,
+      34
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "今日は学習者が短いページを読みます。 復習する言葉: アット, この, ホット, 何, それ. 新しい言葉: アウト, その他, だった, これ, やる, それらの, 時間, もし. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "Today the learner reads a short page. Review words: アット = at; この = this; ホット = hot; 何 = what; それ = it. New words: アウト = out; その他 = other; だった = were; これ = which; やる = do; それらの = their; 時間 = time; もし = if. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-beginner-06",
+    "level": "beginner",
+    "title": "Beginner 06: 言葉 45-52",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      45,
+      52
+    ],
+    "allowedWordRankMax": 52,
+    "newWords": [
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "reviewWords": [
+      21,
+      24,
+      27,
+      30,
+      33,
+      36,
+      39,
+      42
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "今日は学習者が短いページを読みます。 復習する言葉: しかし, です, または, の, は. 新しい言葉: 意志, 方法, 前記, の, それぞれ, 言う, し, セット. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "Today the learner reads a short page. Review words: しかし = but; です = is; または = or; の = of; は = a. New words: 意志 = will; 方法 = how; 前記 = said; の = an; それぞれ = each; 言う = tell; し = does; セット = set. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-beginner-07",
+    "level": "beginner",
+    "title": "Beginner 07: 言葉 53-60",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      53,
+      60
+    ],
+    "allowedWordRankMax": 60,
+    "newWords": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "reviewWords": [
+      29,
+      32,
+      35,
+      38,
+      41,
+      44,
+      47,
+      50
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "今日は学習者が短いページを読みます。 復習する言葉: インクルード, そして, 我々, その他, やる. 新しい言葉: 個, 欲しい, 空気, よく, また, 遊ぶ, 小さい, 終わり. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "Today the learner reads a short page. Review words: インクルード = the; そして = and; 我々 = we; その他 = other; やる = do. New words: 個 = three; 欲しい = want; 空気 = air; よく = well; また = also; 遊ぶ = play; 小さい = small; 終わり = end. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-beginner-08",
+    "level": "beginner",
+    "title": "Beginner 08: 言葉 61-68",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      61,
+      68
+    ],
+    "allowedWordRankMax": 68,
+    "newWords": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "reviewWords": [
+      37,
+      40,
+      43,
+      46,
+      49,
+      52,
+      55,
+      58
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "今日は学習者が短いページを読みます。 復習する言葉: アウト, これ, 時間, 方法, それぞれ. 新しい言葉: 置く, ホーム, 読む, 手, ポート, 大きい, スペル, 加える. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "Today the learner reads a short page. Review words: アウト = out; これ = which; 時間 = time; 方法 = how; それぞれ = each. New words: 置く = put; ホーム = home; 読む = read; 手 = hand; ポート = port; 大きい = large; スペル = spell; 加える = add. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-beginner-09",
+    "level": "beginner",
+    "title": "Beginner 09: 言葉 69-76",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      69,
+      76
+    ],
+    "allowedWordRankMax": 76,
+    "newWords": [
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76
+    ],
+    "reviewWords": [
+      45,
+      48,
+      51,
+      54,
+      57,
+      60,
+      63,
+      66
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "今日は学習者が短いページを読みます。 復習する言葉: 意志, の, し, 欲しい, また. 新しい言葉: さらに, 土地, ここに, しなければならない, 大きい, 高い, そのような, 続く. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "Today the learner reads a short page. Review words: 意志 = will; の = an; し = does; 欲しい = want; また = also. New words: さらに = even; 土地 = land; ここに = here; しなければならない = must; 大きい = big; 高い = high; そのような = such; 続く = follow. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-beginner-10",
+    "level": "beginner",
+    "title": "Beginner 10: 言葉 77-84",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      77,
+      84
+    ],
+    "allowedWordRankMax": 84,
+    "newWords": [
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "reviewWords": [
+      53,
+      56,
+      59,
+      62,
+      65,
+      68,
+      71,
+      74
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "今日は学習者が短いページを読みます。 復習する言葉: 個, よく, 小さい, ホーム, ポート. 新しい言葉: 行為, なぜ, 頼む, 人々, 変更, 行ってきました, 光, 種類. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "Today the learner reads a short page. Review words: 個 = three; よく = well; 小さい = small; ホーム = home; ポート = port. New words: 行為 = act; なぜ = why; 頼む = ask; 人々 = men; 変更 = change; 行ってきました = went; 光 = light; 種類 = kind. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-beginner-11",
+    "level": "beginner",
+    "title": "Beginner 11: 言葉 85-92",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      85,
+      92
+    ],
+    "allowedWordRankMax": 92,
+    "newWords": [
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "reviewWords": [
+      61,
+      64,
+      67,
+      70,
+      73,
+      76,
+      79,
+      82
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "今日は学習者が短いページを読みます。 復習する言葉: 置く, 手, スペル, 土地, 大きい. 新しい言葉: オフ, 必要, 家, 絵, 試す, 私たち, 再び, 動物. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "Today the learner reads a short page. Review words: 置く = put; 手 = hand; スペル = spell; 土地 = land; 大きい = big. New words: オフ = off; 必要 = need; 家 = house; 絵 = picture; 試す = try; 私たち = us; 再び = again; 動物 = animal. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-beginner-12",
+    "level": "beginner",
+    "title": "Beginner 12: 言葉 93-100",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      93,
+      100
+    ],
+    "allowedWordRankMax": 100,
+    "newWords": [
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "reviewWords": [
+      69,
+      72,
+      75,
+      78,
+      81,
+      84,
+      87,
+      90
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "今日は学習者が短いページを読みます。 復習する言葉: さらに, しなければならない, そのような, なぜ, 変更. 新しい言葉: ポイント, 母, 世界, 近く, ビルド, 自己, 地球, 父. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "Today the learner reads a short page. Review words: さらに = even; しなければならない = must; そのような = such; なぜ = why; 変更 = change. New words: ポイント = point; 母 = mother; 世界 = world; 近く = near; ビルド = build; 自己 = self; 地球 = earth; 父 = father. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-elementary-01",
+    "level": "elementary",
+    "title": "Elementary 01: 言葉 101-116",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      101,
+      116
+    ],
+    "allowedWordRankMax": 116,
+    "newWords": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116
+    ],
+    "reviewWords": [
+      77,
+      80,
+      83,
+      86,
+      89,
+      92,
+      95,
+      98
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 行為, 人々, 光, 必要, 試す. 新しい言葉: 任意の, 新しい, 仕事, パート, 取る, ゲット, 場所, 製. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 行為 = act; 人々 = men; 光 = light; 必要 = need; 試す = try. New words: 任意の = any; 新しい = new; 仕事 = work; パート = part; 取る = take; ゲット = get; 場所 = place; 製 = made. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "ページ 2",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 行為, 人々, 光, 必要, 試す. 新しい言葉: 暮らす, どこ, 後に, バック, 少し, 唯一の, ラウンド, 男. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 行為 = act; 人々 = men; 光 = light; 必要 = need; 試す = try. New words: 暮らす = live; どこ = where; 後に = after; バック = back; 少し = little; 唯一の = only; ラウンド = round; 男 = man. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-elementary-02",
+    "level": "elementary",
+    "title": "Elementary 02: 言葉 117-132",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      117,
+      132
+    ],
+    "allowedWordRankMax": 132,
+    "newWords": [
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132
+    ],
+    "reviewWords": [
+      93,
+      96,
+      99,
+      102,
+      105,
+      108,
+      111,
+      114
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: ポイント, 近く, 地球, 新しい, 取る. 新しい言葉: 年, 来た, ショー, すべての, 良い, 私に, 与える, 私たちの. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: ポイント = point; 近く = near; 地球 = earth; 新しい = new; 取る = take. New words: 年 = year; 来た = came; ショー = show; すべての = every; 良い = good; 私に = me; 与える = give; 私たちの = our. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "ページ 2",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: ポイント, 近く, 地球, 新しい, 取る. 新しい言葉: 下, 名前, 非常に, スルー, ただ, フォーム, 文, 素晴らしい. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: ポイント = point; 近く = near; 地球 = earth; 新しい = new; 取る = take. New words: 下 = under; 名前 = name; 非常に = very; スルー = through; ただ = just; フォーム = form; 文 = sentence; 素晴らしい = great. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-elementary-03",
+    "level": "elementary",
+    "title": "Elementary 03: 言葉 133-148",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      133,
+      148
+    ],
+    "allowedWordRankMax": 148,
+    "newWords": [
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148
+    ],
+    "reviewWords": [
+      109,
+      112,
+      115,
+      118,
+      121,
+      124,
+      127,
+      130
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 暮らす, バック, ラウンド, 来た, 良い. 新しい言葉: 思う, 言う, 助け, 低い, ライン, 異なる, ターン, 原因. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 暮らす = live; バック = back; ラウンド = round; 来た = came; 良い = good. New words: 思う = think; 言う = say; 助け = help; 低い = low; ライン = line; 異なる = differ; ターン = turn; 原因 = cause. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "ページ 2",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 暮らす, バック, ラウンド, 来た, 良い. 新しい言葉: ずっと, 意味する, 前に, 移動, 権利, 男の子, 古い, あまりに. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 暮らす = live; バック = back; ラウンド = round; 来た = came; 良い = good. New words: ずっと = much; 意味する = mean; 前に = before; 移動 = move; 権利 = right; 男の子 = boy; 古い = old; あまりに = too. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-elementary-04",
+    "level": "elementary",
+    "title": "Elementary 04: 言葉 149-164",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      149,
+      164
+    ],
+    "allowedWordRankMax": 164,
+    "newWords": [
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164
+    ],
+    "reviewWords": [
+      125,
+      128,
+      131,
+      134,
+      137,
+      140,
+      143,
+      146
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 下, スルー, 文, 言う, ライン. 新しい言葉: 同じ, 彼女, すべて, そこ, 時, アップ, 使用, あなたの. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 下 = under; スルー = through; 文 = sentence; 言う = say; ライン = line. New words: 同じ = same; 彼女 = she; すべて = all; そこ = there; 時 = when; アップ = up; 使用 = use; あなたの = your. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "ページ 2",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 下, スルー, 文, 言う, ライン. 新しい言葉: 道, 約, 多くの, その後, それら, 書く, でしょう, ような. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 下 = under; スルー = through; 文 = sentence; 言う = say; ライン = line. New words: 道 = way; 約 = about; 多くの = many; その後 = then; それら = them; 書く = write; でしょう = would; ような = like. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-elementary-05",
+    "level": "elementary",
+    "title": "Elementary 05: 言葉 165-180",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      165,
+      180
+    ],
+    "allowedWordRankMax": 180,
+    "newWords": [
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180
+    ],
+    "reviewWords": [
+      141,
+      144,
+      147,
+      150,
+      153,
+      156,
+      159,
+      162
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: ずっと, 移動, 古い, 彼女, 時. 新しい言葉: そう, これらの, 彼女の, 長い, 作る, もの, 見る, 彼に. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: ずっと = much; 移動 = move; 古い = old; 彼女 = she; 時 = when. New words: そう = so; これらの = these; 彼女の = her; 長い = long; 作る = make; もの = thing; 見る = see; 彼に = him. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "ページ 2",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: ずっと, 移動, 古い, 彼女, 時. 新しい言葉: 二つ, があります, 見える, 多くの, 日, 可能性, 行く, 来る. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: ずっと = much; 移動 = move; 古い = old; 彼女 = she; 時 = when. New words: 二つ = two; があります = has; 見える = look; 多くの = more; 日 = day; 可能性 = could; 行く = go; 来る = come. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-elementary-06",
+    "level": "elementary",
+    "title": "Elementary 06: 言葉 181-196",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      181,
+      196
+    ],
+    "allowedWordRankMax": 196,
+    "newWords": [
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196
+    ],
+    "reviewWords": [
+      157,
+      160,
+      163,
+      166,
+      169,
+      172,
+      175,
+      178
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 道, その後, でしょう, これらの, 作る. 新しい言葉: やった, 番号, 聞こえる, いいえ, 最も, 人々, 私の, オーバー. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 道 = way; その後 = then; でしょう = would; これらの = these; 作る = make. New words: やった = did; 番号 = number; 聞こえる = sound; いいえ = no; 最も = most; 人々 = people; 私の = my; オーバー = over. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "ページ 2",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 道, その後, でしょう, これらの, 作る. 新しい言葉: 知っている, 水, 比べて, コール, 最初の, 誰, よい, ダウン. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 道 = way; その後 = then; でしょう = would; これらの = these; 作る = make. New words: 知っている = know; 水 = water; 比べて = than; コール = call; 最初の = first; 誰 = who; よい = may; ダウン = down. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-elementary-07",
+    "level": "elementary",
+    "title": "Elementary 07: 言葉 197-212",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      197,
+      212
+    ],
+    "allowedWordRankMax": 212,
+    "newWords": [
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212
+    ],
+    "reviewWords": [
+      173,
+      176,
+      179,
+      182,
+      185,
+      188,
+      191,
+      194
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 二つ, 多くの, 行く, 番号, 最も. 新しい言葉: サイド, き, 今, 見つける, ヘッド, スタンド, 独自の, ページ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 二つ = two; 多くの = more; 行く = go; 番号 = number; 最も = most. New words: サイド = side; き = been; 今 = now; 見つける = find; ヘッド = head; スタンド = stand; 独自の = own; ページ = page. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "ページ 2",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 二つ, 多くの, 行く, 番号, 最も. 新しい言葉: べき, 国, 発見, 答え, 学校, 成長する, 研究, まだ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 二つ = two; 多くの = more; 行く = go; 番号 = number; 最も = most. New words: べき = should; 国 = country; 発見 = found; 答え = answer; 学校 = school; 成長する = grow; 研究 = study; まだ = still. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-elementary-08",
+    "level": "elementary",
+    "title": "Elementary 08: 言葉 213-228",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      213,
+      228
+    ],
+    "allowedWordRankMax": 228,
+    "newWords": [
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228
+    ],
+    "reviewWords": [
+      189,
+      192,
+      195,
+      198,
+      201,
+      204,
+      207,
+      210
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 知っている, コール, よい, き, ヘッド. 新しい言葉: 学ぶ, 植物, カバー, 食品, 太陽, つの, 間に, 状態. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 知っている = know; コール = call; よい = may; き = been; ヘッド = head. New words: 学ぶ = learn; 植物 = plant; カバー = cover; 食品 = food; 太陽 = sun; つの = four; 間に = between; 状態 = state. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "ページ 2",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 知っている, コール, よい, き, ヘッド. 新しい言葉: キープ, 目, ネバー, 最後の, てみましょう, 考え, 街, ツリー. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 知っている = know; コール = call; よい = may; き = been; ヘッド = head. New words: キープ = keep; 目 = eye; ネバー = never; 最後の = last; てみましょう = let; 考え = thought; 街 = city; ツリー = tree. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-elementary-09",
+    "level": "elementary",
+    "title": "Elementary 09: 言葉 229-244",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      229,
+      244
+    ],
+    "allowedWordRankMax": 244,
+    "newWords": [
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244
+    ],
+    "reviewWords": [
+      205,
+      208,
+      211,
+      214,
+      217,
+      220,
+      223,
+      226
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: べき, 答え, 研究, 植物, 太陽. 新しい言葉: クロス, 農場, ハード, スタート, 可能性がある, 物語, のこぎり, 遠く. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: べき = should; 答え = answer; 研究 = study; 植物 = plant; 太陽 = sun. New words: クロス = cross; 農場 = farm; ハード = hard; スタート = start; 可能性がある = might; 物語 = story; のこぎり = saw; 遠く = far. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "ページ 2",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: べき, 答え, 研究, 植物, 太陽. 新しい言葉: 海, 描く, 左, 遅く, ラン, ない, 一方、, プレス. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: べき = should; 答え = answer; 研究 = study; 植物 = plant; 太陽 = sun. New words: 海 = sea; 描く = draw; 左 = left; 遅く = late; ラン = run; ない = don’t; 一方、 = while; プレス = press. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-elementary-10",
+    "level": "elementary",
+    "title": "Elementary 10: 言葉 245-260",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      245,
+      260
+    ],
+    "allowedWordRankMax": 260,
+    "newWords": [
+      245,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260
+    ],
+    "reviewWords": [
+      221,
+      224,
+      227,
+      230,
+      233,
+      236,
+      239,
+      242
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: キープ, 最後の, 街, 農場, 可能性がある. 新しい言葉: クローズ, 夜, リアル, 生活, 少数, 北, ブック, 運ぶ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: キープ = keep; 最後の = last; 街 = city; 農場 = farm; 可能性がある = might. New words: クローズ = close; 夜 = night; リアル = real; 生活 = life; 少数 = few; 北 = north; ブック = book; 運ぶ = carry. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "ページ 2",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: キープ, 最後の, 街, 農場, 可能性がある. 新しい言葉: かかった, 科学, 食べる, 部屋, 友人, 始まった, アイデア, 魚. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: キープ = keep; 最後の = last; 街 = city; 農場 = farm; 可能性がある = might. New words: かかった = took; 科学 = science; 食べる = eat; 部屋 = room; 友人 = friend; 始まった = began; アイデア = idea; 魚 = fish. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-elementary-11",
+    "level": "elementary",
+    "title": "Elementary 11: 言葉 261-275",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      261,
+      275
+    ],
+    "allowedWordRankMax": 275,
+    "newWords": [
+      261,
+      262,
+      263,
+      264,
+      265,
+      266,
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274,
+      275
+    ],
+    "reviewWords": [
+      237,
+      240,
+      243,
+      246,
+      249,
+      252,
+      255,
+      258
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 海, 遅く, 一方、, 夜, 少数. 新しい言葉: 山, 停止, 一度, ベース, 聞く, 馬, カット, 確か. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 海 = sea; 遅く = late; 一方、 = while; 夜 = night; 少数 = few. New words: 山 = mountain; 停止 = stop; 一度 = once; ベース = base; 聞く = hear; 馬 = horse; カット = cut; 確か = sure. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "ページ 2",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 海, 遅く, 一方、, 夜, 少数. 新しい言葉: 見る, カラー, 顔, 木材, メイン, オープン, 見える. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 海 = sea; 遅く = late; 一方、 = while; 夜 = night; 少数 = few. New words: 見る = watch; カラー = color; 顔 = face; 木材 = wood; メイン = main; オープン = open; 見える = seem. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-elementary-12",
+    "level": "elementary",
+    "title": "Elementary 12: 言葉 276-290",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      276,
+      290
+    ],
+    "allowedWordRankMax": 290,
+    "newWords": [
+      276,
+      277,
+      278,
+      279,
+      280,
+      281,
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      288,
+      289,
+      290
+    ],
+    "reviewWords": [
+      252,
+      255,
+      258,
+      261,
+      264,
+      267,
+      270,
+      273
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 運ぶ, 食べる, 始まった, 山, ベース. 新しい言葉: 一緒に, 次, 白, 子どもたち, 始まる, だ, 歩く, 例. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 運ぶ = carry; 食べる = eat; 始まった = began; 山 = mountain; ベース = base. New words: 一緒に = together; 次 = next; 白 = white; 子どもたち = children; 始まる = begin; だ = got; 歩く = walk; 例 = example. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "ページ 2",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 運ぶ, 食べる, 始まった, 山, ベース. 新しい言葉: 和らげる, 紙, グループ, 常に, 音楽, それらの, 両方. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 運ぶ = carry; 食べる = eat; 始まった = began; 山 = mountain; ベース = base. New words: 和らげる = ease; 紙 = paper; グループ = group; 常に = always; 音楽 = music; それらの = those; 両方 = both. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-elementary-13",
+    "level": "elementary",
+    "title": "Elementary 13: 言葉 291-305",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      291,
+      305
+    ],
+    "allowedWordRankMax": 305,
+    "newWords": [
+      291,
+      292,
+      293,
+      294,
+      295,
+      296,
+      297,
+      298,
+      299,
+      300,
+      301,
+      302,
+      303,
+      304,
+      305
+    ],
+    "reviewWords": [
+      267,
+      270,
+      273,
+      276,
+      279,
+      282,
+      285,
+      288
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: カット, カラー, メイン, 一緒に, 子どもたち. 新しい言葉: マーク, しばしば, 手紙, まで、, マイル, 川, カー, フィート. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: カット = cut; カラー = color; メイン = main; 一緒に = together; 子どもたち = children. New words: マーク = mark; しばしば = often; 手紙 = letter; まで、 = until; マイル = mile; 川 = river; カー = car; フィート = feet. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "ページ 2",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: カット, カラー, メイン, 一緒に, 子どもたち. 新しい言葉: 介護, 第2, 十分な, 平野, 女の子, いつもの, 若い. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: カット = cut; カラー = color; メイン = main; 一緒に = together; 子どもたち = children. New words: 介護 = care; 第2 = second; 十分な = enough; 平野 = plain; 女の子 = girl; いつもの = usual; 若い = young. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-elementary-14",
+    "level": "elementary",
+    "title": "Elementary 14: 言葉 306-320",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      306,
+      320
+    ],
+    "allowedWordRankMax": 320,
+    "newWords": [
+      306,
+      307,
+      308,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320
+    ],
+    "reviewWords": [
+      282,
+      285,
+      288,
+      291,
+      294,
+      297,
+      300,
+      303
+    ],
+    "sections": [
+      {
+        "heading": "ページ 1",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 歩く, 紙, 音楽, マーク, まで、. 新しい言葉: レディー, 上記, 今までに, 赤, リスト, しかし, 感じる, トーク. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 歩く = walk; 紙 = paper; 音楽 = music; マーク = mark; まで、 = until. New words: レディー = ready; 上記 = above; 今までに = ever; 赤 = red; リスト = list; しかし = though; 感じる = feel; トーク = talk. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "ページ 2",
+        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 歩く, 紙, 音楽, マーク, まで、. 新しい言葉: 鳥, すぐに, ボディ, 犬, 家族, ダイレクト, ポーズ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 歩く = walk; 紙 = paper; 音楽 = music; マーク = mark; まで、 = until. New words: 鳥 = bird; すぐに = soon; ボディ = body; 犬 = dog; 家族 = family; ダイレクト = direct; ポーズ = pose. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-intermediate-01",
+    "level": "intermediate",
+    "title": "Intermediate 01: 言葉 321-344",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      321,
+      344
+    ],
+    "allowedWordRankMax": 344,
+    "newWords": [
+      321,
+      322,
+      323,
+      324,
+      325,
+      326,
+      327,
+      328,
+      329,
+      330,
+      331,
+      332,
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340,
+      341,
+      342,
+      343,
+      344
+    ],
+    "reviewWords": [
+      297,
+      300,
+      303,
+      306,
+      309,
+      312,
+      315,
+      318
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: カー, 第2, 女の子, レディー, 赤. 新しい言葉: 去る, 歌, 測定, ドア, 製品, 黒, 短い, 数字. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: カー = car; 第2 = second; 女の子 = girl; レディー = ready; 赤 = red. New words: 去る = leave; 歌 = song; 測定 = measure; ドア = door; 製品 = product; 黒 = black; 短い = short; 数字 = numeral. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: カー, 第2, 女の子, レディー, 赤. 新しい言葉: クラス, 風, 質問, 起こる, 完全な, 船, エリア, 半分. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: カー = car; 第2 = second; 女の子 = girl; レディー = ready; 赤 = red. New words: クラス = class; 風 = wind; 質問 = question; 起こる = happen; 完全な = complete; 船 = ship; エリア = area; 半分 = half. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: カー, 第2, 女の子, レディー, 赤. 新しい言葉: 岩, オーダー, 火災, 南, 問題, 作品, 言われ, 知っていた. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: カー = car; 第2 = second; 女の子 = girl; レディー = ready; 赤 = red. New words: 岩 = rock; オーダー = order; 火災 = fire; 南 = south; 問題 = problem; 作品 = piece; 言われ = told; 知っていた = knew. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-intermediate-02",
+    "level": "intermediate",
+    "title": "Intermediate 02: 言葉 345-368",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      345,
+      368
+    ],
+    "allowedWordRankMax": 368,
+    "newWords": [
+      345,
+      346,
+      347,
+      348,
+      349,
+      350,
+      351,
+      352,
+      353,
+      354,
+      355,
+      356,
+      357,
+      358,
+      359,
+      360,
+      361,
+      362,
+      363,
+      364,
+      365,
+      366,
+      367,
+      368
+    ],
+    "reviewWords": [
+      321,
+      324,
+      327,
+      330,
+      333,
+      336,
+      339,
+      342
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 去る, ドア, 短い, 風, 完全な. 新しい言葉: 合格, 以来, トップ, 全体, 王, ストリート, インチ, 掛ける. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 去る = leave; ドア = door; 短い = short; 風 = wind; 完全な = complete. New words: 合格 = pass; 以来 = since; トップ = top; 全体 = whole; 王 = king; ストリート = street; インチ = inch; 掛ける = multiply. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 去る, ドア, 短い, 風, 完全な. 新しい言葉: 何も, もちろん, 滞在, ホイール, フル, 力, ブルー, オブジェクト. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 去る = leave; ドア = door; 短い = short; 風 = wind; 完全な = complete. New words: 何も = nothing; もちろん = course; 滞在 = stay; ホイール = wheel; フル = full; 力 = force; ブルー = blue; オブジェクト = object. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 去る, ドア, 短い, 風, 完全な. 新しい言葉: 決定する, 表面, 深い, ムーン, 島, 足, システム, 忙しい. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 去る = leave; ドア = door; 短い = short; 風 = wind; 完全な = complete. New words: 決定する = decide; 表面 = surface; 深い = deep; ムーン = moon; 島 = island; 足 = foot; システム = system; 忙しい = busy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-intermediate-03",
+    "level": "intermediate",
+    "title": "Intermediate 03: 言葉 369-392",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      369,
+      392
+    ],
+    "allowedWordRankMax": 392,
+    "newWords": [
+      369,
+      370,
+      371,
+      372,
+      373,
+      374,
+      375,
+      376,
+      377,
+      378,
+      379,
+      380,
+      381,
+      382,
+      383,
+      384,
+      385,
+      386,
+      387,
+      388,
+      389,
+      390,
+      391,
+      392
+    ],
+    "reviewWords": [
+      345,
+      348,
+      351,
+      354,
+      357,
+      360,
+      363,
+      366
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 合格, 全体, インチ, もちろん, フル. 新しい言葉: テスト, 記録, ボート, 一般的な, ゴールド, 可能, 飛行機, 代わり. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 合格 = pass; 全体 = whole; インチ = inch; もちろん = course; フル = full. New words: テスト = test; 記録 = record; ボート = boat; 一般的な = common; ゴールド = gold; 可能 = possible; 飛行機 = plane; 代わり = stead. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 合格, 全体, インチ, もちろん, フル. 新しい言葉: ドライ, 不思議, 笑い, 千の, 前, 走った, チェック, ゲーム. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 合格 = pass; 全体 = whole; インチ = inch; もちろん = course; フル = full. New words: ドライ = dry; 不思議 = wonder; 笑い = laugh; 千の = thousand; 前 = ago; 走った = ran; チェック = check; ゲーム = game. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 合格, 全体, インチ, もちろん, フル. 新しい言葉: 形状, 一致する, ホット, ミス, た, 熱, 雪, タイヤ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 合格 = pass; 全体 = whole; インチ = inch; もちろん = course; フル = full. New words: 形状 = shape; 一致する = equate; ホット = hot; ミス = miss; た = brought; 熱 = heat; 雪 = snow; タイヤ = tire. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-intermediate-04",
+    "level": "intermediate",
+    "title": "Intermediate 04: 言葉 393-416",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      393,
+      416
+    ],
+    "allowedWordRankMax": 416,
+    "newWords": [
+      393,
+      394,
+      395,
+      396,
+      397,
+      398,
+      399,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405,
+      406,
+      407,
+      408,
+      409,
+      410,
+      411,
+      412,
+      413,
+      414,
+      415,
+      416
+    ],
+    "reviewWords": [
+      369,
+      372,
+      375,
+      378,
+      381,
+      384,
+      387,
+      390
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: テスト, 一般的な, 飛行機, 不思議, 前. 新しい言葉: 持って来る, はい, 遠い, 埋める, 東, ペイント, 言語, の間で. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: テスト = test; 一般的な = common; 飛行機 = plane; 不思議 = wonder; 前 = ago. New words: 持って来る = bring; はい = yes; 遠い = distant; 埋める = fill; 東 = east; ペイント = paint; 言語 = language; の間で = among. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: テスト, 一般的な, 飛行機, 不思議, 前. 新しい言葉: ユニット, パワー, 町, 罰金, 特定の, 飛ぶ, 落ちる, 鉛. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: テスト = test; 一般的な = common; 飛行機 = plane; 不思議 = wonder; 前 = ago. New words: ユニット = unit; パワー = power; 町 = town; 罰金 = fine; 特定の = certain; 飛ぶ = fly; 落ちる = fall; 鉛 = lead. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: テスト, 一般的な, 飛行機, 不思議, 前. 新しい言葉: 泣く, 暗い, マシン, ノート, 待つ, 計画, 図, スター. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: テスト = test; 一般的な = common; 飛行機 = plane; 不思議 = wonder; 前 = ago. New words: 泣く = cry; 暗い = dark; マシン = machine; ノート = note; 待つ = wait; 計画 = plan; 図 = figure; スター = star. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-intermediate-05",
+    "level": "intermediate",
+    "title": "Intermediate 05: 言葉 417-440",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      417,
+      440
+    ],
+    "allowedWordRankMax": 440,
+    "newWords": [
+      417,
+      418,
+      419,
+      420,
+      421,
+      422,
+      423,
+      424,
+      425,
+      426,
+      427,
+      428,
+      429,
+      430,
+      431,
+      432,
+      433,
+      434,
+      435,
+      436,
+      437,
+      438,
+      439,
+      440
+    ],
+    "reviewWords": [
+      393,
+      396,
+      399,
+      402,
+      405,
+      408,
+      411,
+      414
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 持って来る, 埋める, 言語, パワー, 特定の. 新しい言葉: ボックス, 名詞, フィールド, 残り, 正しい, できる, ポンド, 終わった. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 持って来る = bring; 埋める = fill; 言語 = language; パワー = power; 特定の = certain. New words: ボックス = box; 名詞 = noun; フィールド = field; 残り = rest; 正しい = correct; できる = able; ポンド = pound; 終わった = done. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 持って来る, 埋める, 言語, パワー, 特定の. 新しい言葉: 美しさ, ドライブ, 立っていた, 含む, フロント, 教える, 週, ファイナル. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 持って来る = bring; 埋める = fill; 言語 = language; パワー = power; 特定の = certain. New words: 美しさ = beauty; ドライブ = drive; 立っていた = stood; 含む = contain; フロント = front; 教える = teach; 週 = week; ファイナル = final. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 持って来る, 埋める, 言語, パワー, 特定の. 新しい言葉: 与えた, 緑, ああ, クイック, 開発する, 海, 暖かい, 無料で. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 持って来る = bring; 埋める = fill; 言語 = language; パワー = power; 特定の = certain. New words: 与えた = gave; 緑 = green; ああ = oh; クイック = quick; 開発する = develop; 海 = ocean; 暖かい = warm; 無料で = free. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-intermediate-06",
+    "level": "intermediate",
+    "title": "Intermediate 06: 言葉 441-464",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      441,
+      464
+    ],
+    "allowedWordRankMax": 464,
+    "newWords": [
+      441,
+      442,
+      443,
+      444,
+      445,
+      446,
+      447,
+      448,
+      449,
+      450,
+      451,
+      452,
+      453,
+      454,
+      455,
+      456,
+      457,
+      458,
+      459,
+      460,
+      461,
+      462,
+      463,
+      464
+    ],
+    "reviewWords": [
+      417,
+      420,
+      423,
+      426,
+      429,
+      432,
+      435,
+      438
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: ボックス, 残り, ポンド, ドライブ, フロント. 新しい言葉: 分, 強い, 特別, 心, 背後に, 明確な, テール, 作る. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: ボックス = box; 残り = rest; ポンド = pound; ドライブ = drive; フロント = front. New words: 分 = minute; 強い = strong; 特別 = special; 心 = mind; 背後に = behind; 明確な = clear; テール = tail; 作る = produce. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: ボックス, 残り, ポンド, ドライブ, フロント. 新しい言葉: 事実, スペース, 聞いた, ベスト, 時間, 良い, 真の, 間に. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: ボックス = box; 残り = rest; ポンド = pound; ドライブ = drive; フロント = front. New words: 事実 = fact; スペース = space; 聞いた = heard; ベスト = best; 時間 = hour; 良い = better; 真の = true; 間に = during. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: ボックス, 残り, ポンド, ドライブ, フロント. 新しい言葉: 百, 五, 覚えている, ステップ, 早い, ホールド, 西, 地面. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: ボックス = box; 残り = rest; ポンド = pound; ドライブ = drive; フロント = front. New words: 百 = hundred; 五 = five; 覚えている = remember; ステップ = step; 早い = early; ホールド = hold; 西 = west; 地面 = ground. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-intermediate-07",
+    "level": "intermediate",
+    "title": "Intermediate 07: 言葉 465-488",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      465,
+      488
+    ],
+    "allowedWordRankMax": 488,
+    "newWords": [
+      465,
+      466,
+      467,
+      468,
+      469,
+      470,
+      471,
+      472,
+      473,
+      474,
+      475,
+      476,
+      477,
+      478,
+      479,
+      480,
+      481,
+      482,
+      483,
+      484,
+      485,
+      486,
+      487,
+      488
+    ],
+    "reviewWords": [
+      441,
+      444,
+      447,
+      450,
+      453,
+      456,
+      459,
+      462
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 分, 心, テール, スペース, 時間. 新しい言葉: 関心, リーチ, 速い, 動詞, 歌う, 聞く, 六, テーブル. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 分 = minute; 心 = mind; テール = tail; スペース = space; 時間 = hour. New words: 関心 = interest; リーチ = reach; 速い = fast; 動詞 = verb; 歌う = sing; 聞く = listen; 六 = six; テーブル = table. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 分, 心, テール, スペース, 時間. 新しい言葉: 旅行, レス, 朝, 十, シンプル, いくつかの, 母音, の方へ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 分 = minute; 心 = mind; テール = tail; スペース = space; 時間 = hour. New words: 旅行 = travel; レス = less; 朝 = morning; 十 = ten; シンプル = simple; いくつかの = several; 母音 = vowel; の方へ = toward. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 分, 心, テール, スペース, 時間. 新しい言葉: 戦争, 産む, に対する, パターン, 遅い, センター, 愛, 人. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 分 = minute; 心 = mind; テール = tail; スペース = space; 時間 = hour. New words: 戦争 = war; 産む = lay; に対する = against; パターン = pattern; 遅い = slow; センター = center; 愛 = love; 人 = person. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-intermediate-08",
+    "level": "intermediate",
+    "title": "Intermediate 08: 言葉 489-512",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      489,
+      512
+    ],
+    "allowedWordRankMax": 512,
+    "newWords": [
+      489,
+      490,
+      491,
+      492,
+      493,
+      494,
+      495,
+      496,
+      497,
+      498,
+      499,
+      500,
+      501,
+      502,
+      503,
+      504,
+      505,
+      506,
+      507,
+      508,
+      509,
+      510,
+      511,
+      512
+    ],
+    "reviewWords": [
+      465,
+      468,
+      471,
+      474,
+      477,
+      480,
+      483,
+      486
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 関心, 動詞, 六, レス, シンプル. 新しい言葉: マネー, サーブ, 見える, 道路, マップ, 雨, ルール, 支配する. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 関心 = interest; 動詞 = verb; 六 = six; レス = less; シンプル = simple. New words: マネー = money; サーブ = serve; 見える = appear; 道路 = road; マップ = map; 雨 = rain; ルール = rule; 支配する = govern. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 関心, 動詞, 六, レス, シンプル. 新しい言葉: 引っ張る, 寒い, 予告, 声, エネルギー, 狩り, ありそうな, ベッド. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 関心 = interest; 動詞 = verb; 六 = six; レス = less; シンプル = simple. New words: 引っ張る = pull; 寒い = cold; 予告 = notice; 声 = voice; エネルギー = energy; 狩り = hunt; ありそうな = probable; ベッド = bed. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 関心, 動詞, 六, レス, シンプル. 新しい言葉: 兄, 卵, 乗る, セル, 信じる, たぶん, 選ぶ, 突然の. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 関心 = interest; 動詞 = verb; 六 = six; レス = less; シンプル = simple. New words: 兄 = brother; 卵 = egg; 乗る = ride; セル = cell; 信じる = believe; たぶん = perhaps; 選ぶ = pick; 突然の = sudden. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-intermediate-09",
+    "level": "intermediate",
+    "title": "Intermediate 09: 言葉 513-535",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      513,
+      535
+    ],
+    "allowedWordRankMax": 535,
+    "newWords": [
+      513,
+      514,
+      515,
+      516,
+      517,
+      518,
+      519,
+      520,
+      521,
+      522,
+      523,
+      524,
+      525,
+      526,
+      527,
+      528,
+      529,
+      530,
+      531,
+      532,
+      533,
+      534,
+      535
+    ],
+    "reviewWords": [
+      489,
+      492,
+      495,
+      498,
+      501,
+      504,
+      507,
+      510
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: マネー, 道路, ルール, 寒い, エネルギー. 新しい言葉: カウント, 広場, 理由, 長さ, 表す, アート, テーマ, 地域. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: マネー = money; 道路 = road; ルール = rule; 寒い = cold; エネルギー = energy. New words: カウント = count; 広場 = square; 理由 = reason; 長さ = length; 表す = represent; アート = art; テーマ = subject; 地域 = region. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: マネー, 道路, ルール, 寒い, エネルギー. 新しい言葉: サイズ, 変える, 落ち着く, 話す, 重さ, 一般, アイス, 問題. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: マネー = money; 道路 = road; ルール = rule; 寒い = cold; エネルギー = energy. New words: サイズ = size; 変える = vary; 落ち着く = settle; 話す = speak; 重さ = weight; 一般 = general; アイス = ice; 問題 = matter. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: マネー, 道路, ルール, 寒い, エネルギー. 新しい言葉: サークル, ペア, 含める, 分割, 音節, フェルト, 壮大な. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: マネー = money; 道路 = road; ルール = rule; 寒い = cold; エネルギー = energy. New words: サークル = circle; ペア = pair; 含める = include; 分割 = divide; 音節 = syllable; フェルト = felt; 壮大な = grand. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-intermediate-10",
+    "level": "intermediate",
+    "title": "Intermediate 10: 言葉 536-558",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      536,
+      558
+    ],
+    "allowedWordRankMax": 558,
+    "newWords": [
+      536,
+      537,
+      538,
+      539,
+      540,
+      541,
+      542,
+      543,
+      544,
+      545,
+      546,
+      547,
+      548,
+      549,
+      550,
+      551,
+      552,
+      553,
+      554,
+      555,
+      556,
+      557,
+      558
+    ],
+    "reviewWords": [
+      512,
+      515,
+      518,
+      521,
+      524,
+      527,
+      530,
+      533
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 突然の, 理由, アート, サイズ, 話す. 新しい言葉: ボール, まだ, 波, ドロップ, 心, AM, 現在, 重い. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 突然の = sudden; 理由 = reason; アート = art; サイズ = size; 話す = speak. New words: ボール = ball; まだ = yet; 波 = wave; ドロップ = drop; 心 = heart; AM = am; 現在 = present; 重い = heavy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 突然の, 理由, アート, サイズ, 話す. 新しい言葉: ダンス, エンジン, ポジション, アーム, 広い, 帆, 材料, 分数. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 突然の = sudden; 理由 = reason; アート = art; サイズ = size; 話す = speak. New words: ダンス = dance; エンジン = engine; ポジション = position; アーム = arm; 広い = wide; 帆 = sail; 材料 = material; 分数 = fraction. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 突然の, 理由, アート, サイズ, 話す. 新しい言葉: 森, 座る, レース, 窓, 店, 夏, 列車. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 突然の = sudden; 理由 = reason; アート = art; サイズ = size; 話す = speak. New words: 森 = forest; 座る = sit; レース = race; 窓 = window; 店 = store; 夏 = summer; 列車 = train. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-intermediate-11",
+    "level": "intermediate",
+    "title": "Intermediate 11: 言葉 559-581",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      559,
+      581
+    ],
+    "allowedWordRankMax": 581,
+    "newWords": [
+      559,
+      560,
+      561,
+      562,
+      563,
+      564,
+      565,
+      566,
+      567,
+      568,
+      569,
+      570,
+      571,
+      572,
+      573,
+      574,
+      575,
+      576,
+      577,
+      578,
+      579,
+      580,
+      581
+    ],
+    "reviewWords": [
+      535,
+      538,
+      541,
+      544,
+      547,
+      550,
+      553,
+      556
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 壮大な, 波, AM, ダンス, アーム. 新しい言葉: スリープ, 証明する, ローン, レッグ, エクササイズ, 壁, キャッチ, マウント. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 壮大な = grand; 波 = wave; AM = am; ダンス = dance; アーム = arm. New words: スリープ = sleep; 証明する = prove; ローン = lone; レッグ = leg; エクササイズ = exercise; 壁 = wall; キャッチ = catch; マウント = mount. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 壮大な, 波, AM, ダンス, アーム. 新しい言葉: 希望, 空, ボード, 喜び, 冬, 土, 書かれた, ワイルド. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 壮大な = grand; 波 = wave; AM = am; ダンス = dance; アーム = arm. New words: 希望 = wish; 空 = sky; ボード = board; 喜び = joy; 冬 = winter; 土 = sat; 書かれた = written; ワイルド = wild. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 壮大な, 波, AM, ダンス, アーム. 新しい言葉: 楽器, 保管, ガラス, 草, 乳牛, 仕事, エッジ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 壮大な = grand; 波 = wave; AM = am; ダンス = dance; アーム = arm. New words: 楽器 = instrument; 保管 = kept; ガラス = glass; 草 = grass; 乳牛 = cow; 仕事 = job; エッジ = edge. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-intermediate-12",
+    "level": "intermediate",
+    "title": "Intermediate 12: 言葉 582-604",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      582,
+      604
+    ],
+    "allowedWordRankMax": 604,
+    "newWords": [
+      582,
+      583,
+      584,
+      585,
+      586,
+      587,
+      588,
+      589,
+      590,
+      591,
+      592,
+      593,
+      594,
+      595,
+      596,
+      597,
+      598,
+      599,
+      600,
+      601,
+      602,
+      603,
+      604
+    ],
+    "reviewWords": [
+      558,
+      561,
+      564,
+      567,
+      570,
+      573,
+      576,
+      579
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 列車, ローン, 壁, 希望, 喜び. 新しい言葉: 看板, 訪問, 過去, ソフト, 楽しい, 明るい, ガス, 天候. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 列車 = train; ローン = lone; 壁 = wall; 希望 = wish; 喜び = joy. New words: 看板 = sign; 訪問 = visit; 過去 = past; ソフト = soft; 楽しい = fun; 明るい = bright; ガス = gas; 天候 = weather. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 列車, ローン, 壁, 希望, 喜び. 新しい言葉: 月, 万, クマ, 仕上げ, 幸せな, 希望, 花, 衣服を着せる. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 列車 = train; ローン = lone; 壁 = wall; 希望 = wish; 喜び = joy. New words: 月 = month; 万 = million; クマ = bear; 仕上げ = finish; 幸せな = happy; 希望 = hope; 花 = flower; 衣服を着せる = clothe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 列車, ローン, 壁, 希望, 喜び. 新しい言葉: 奇妙な, いなくなった, トレード, メロディー, 旅, オフィス, 受け取る. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 列車 = train; ローン = lone; 壁 = wall; 希望 = wish; 喜び = joy. New words: 奇妙な = strange; いなくなった = gone; トレード = trade; メロディー = melody; 旅 = trip; オフィス = office; 受け取る = receive. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-intermediate-13",
+    "level": "intermediate",
+    "title": "Intermediate 13: 言葉 605-627",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      605,
+      627
+    ],
+    "allowedWordRankMax": 627,
+    "newWords": [
+      605,
+      606,
+      607,
+      608,
+      609,
+      610,
+      611,
+      612,
+      613,
+      614,
+      615,
+      616,
+      617,
+      618,
+      619,
+      620,
+      621,
+      622,
+      623,
+      624,
+      625,
+      626,
+      627
+    ],
+    "reviewWords": [
+      581,
+      584,
+      587,
+      590,
+      593,
+      596,
+      599,
+      602
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: エッジ, 過去, 明るい, 月, 仕上げ. 新しい言葉: 行, 口, 正確な, シンボル, 死ぬ, 最低, トラブル, シャウト. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: エッジ = edge; 過去 = past; 明るい = bright; 月 = month; 仕上げ = finish. New words: 行 = row; 口 = mouth; 正確な = exact; シンボル = symbol; 死ぬ = die; 最低 = least; トラブル = trouble; シャウト = shout. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: エッジ, 過去, 明るい, 月, 仕上げ. 新しい言葉: ただし, 書いた, シード, トーン, 参加する, 提案する, クリーン, ブレーク. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: エッジ = edge; 過去 = past; 明るい = bright; 月 = month; 仕上げ = finish. New words: ただし = except; 書いた = wrote; シード = seed; トーン = tone; 参加する = join; 提案する = suggest; クリーン = clean; ブレーク = break. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: エッジ, 過去, 明るい, 月, 仕上げ. 新しい言葉: 女性, 庭, 上昇, 悪い, 打撃, オイル, 血. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: エッジ = edge; 過去 = past; 明るい = bright; 月 = month; 仕上げ = finish. New words: 女性 = lady; 庭 = yard; 上昇 = rise; 悪い = bad; 打撃 = blow; オイル = oil; 血 = blood. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-intermediate-14",
+    "level": "intermediate",
+    "title": "Intermediate 14: 言葉 628-650",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      628,
+      650
+    ],
+    "allowedWordRankMax": 650,
+    "newWords": [
+      628,
+      629,
+      630,
+      631,
+      632,
+      633,
+      634,
+      635,
+      636,
+      637,
+      638,
+      639,
+      640,
+      641,
+      642,
+      643,
+      644,
+      645,
+      646,
+      647,
+      648,
+      649,
+      650
+    ],
+    "reviewWords": [
+      604,
+      607,
+      610,
+      613,
+      616,
+      619,
+      622,
+      625
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 受け取る, 正確な, 最低, ただし, トーン. 新しい言葉: 触れる, 成長した, セント, ミックス, チーム, ワイヤー, コスト, 失われた. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 受け取る = receive; 正確な = exact; 最低 = least; ただし = except; トーン = tone. New words: 触れる = touch; 成長した = grew; セント = cent; ミックス = mix; チーム = team; ワイヤー = wire; コスト = cost; 失われた = lost. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 受け取る, 正確な, 最低, ただし, トーン. 新しい言葉: ブラウン, 着用, 庭, 等しい, 送信された, 選ぶ, 落ちた, フィット. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 受け取る = receive; 正確な = exact; 最低 = least; ただし = except; トーン = tone. New words: ブラウン = brown; 着用 = wear; 庭 = garden; 等しい = equal; 送信された = sent; 選ぶ = choose; 落ちた = fell; フィット = fit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 受け取る, 正確な, 最低, ただし, トーン. 新しい言葉: 流れ, フェア, 銀行, 集める, 保存, コントロール, 進. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 受け取る = receive; 正確な = exact; 最低 = least; ただし = except; トーン = tone. New words: 流れ = flow; フェア = fair; 銀行 = bank; 集める = collect; 保存 = save; コントロール = control; 進 = decimal. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-advanced-01",
+    "level": "advanced",
+    "title": "Advanced 01: 言葉 651-685",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      651,
+      685
+    ],
+    "allowedWordRankMax": 685,
+    "newWords": [
+      651,
+      652,
+      653,
+      654,
+      655,
+      656,
+      657,
+      658,
+      659,
+      660,
+      661,
+      662,
+      663,
+      664,
+      665,
+      666,
+      667,
+      668,
+      669,
+      670,
+      671,
+      672,
+      673,
+      674,
+      675,
+      676,
+      677,
+      678,
+      679,
+      680,
+      681,
+      682,
+      683,
+      684,
+      685
+    ],
+    "reviewWords": [
+      627,
+      630,
+      633,
+      636,
+      639,
+      642,
+      645,
+      648
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 血, セント, ワイヤー, ブラウン, 等しい. 新しい言葉: 耳, ほかに, かなり, 壊した, ケース, ミドル, 殺す. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 血 = blood; セント = cent; ワイヤー = wire; ブラウン = brown; 等しい = equal. New words: 耳 = ear; ほかに = else; かなり = quite; 壊した = broke; ケース = case; ミドル = middle; 殺す = kill. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 血, セント, ワイヤー, ブラウン, 等しい. 新しい言葉: 息子, 湖, 瞬間, スケール, 騒々しい, 春, 観察する. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 血 = blood; セント = cent; ワイヤー = wire; ブラウン = brown; 等しい = equal. New words: 息子 = son; 湖 = lake; 瞬間 = moment; スケール = scale; 騒々しい = loud; 春 = spring; 観察する = observe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 血, セント, ワイヤー, ブラウン, 等しい. 新しい言葉: 子ども, ストレート, 子音, 国家, 辞書, ミルク, スピード. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 血 = blood; セント = cent; ワイヤー = wire; ブラウン = brown; 等しい = equal. New words: 子ども = child; ストレート = straight; 子音 = consonant; 国家 = nation; 辞書 = dictionary; ミルク = milk; スピード = speed. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 4 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 血, セント, ワイヤー, ブラウン, 等しい. 新しい言葉: 方法, オルガン, 支払い, 年齢, セクション, ドレス, クラウド. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 血 = blood; セント = cent; ワイヤー = wire; ブラウン = brown; 等しい = equal. New words: 方法 = method; オルガン = organ; 支払い = pay; 年齢 = age; セクション = section; ドレス = dress; クラウド = cloud. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 5 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 血, セント, ワイヤー, ブラウン, 等しい. 新しい言葉: 驚き, 静かな, 石, 小さな, 登る, 涼しい, デザイン. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 血 = blood; セント = cent; ワイヤー = wire; ブラウン = brown; 等しい = equal. New words: 驚き = surprise; 静かな = quiet; 石 = stone; 小さな = tiny; 登る = climb; 涼しい = cool; デザイン = design. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-advanced-02",
+    "level": "advanced",
+    "title": "Advanced 02: 言葉 686-720",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      686,
+      720
+    ],
+    "allowedWordRankMax": 720,
+    "newWords": [
+      686,
+      687,
+      688,
+      689,
+      690,
+      691,
+      692,
+      693,
+      694,
+      695,
+      696,
+      697,
+      698,
+      699,
+      700,
+      701,
+      702,
+      703,
+      704,
+      705,
+      706,
+      707,
+      708,
+      709,
+      710,
+      711,
+      712,
+      713,
+      714,
+      715,
+      716,
+      717,
+      718,
+      719,
+      720
+    ],
+    "reviewWords": [
+      662,
+      665,
+      668,
+      671,
+      674,
+      677,
+      680,
+      683
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 騒々しい, 子ども, 国家, スピード, 支払い. 新しい言葉: 貧しい, たくさん, 実験, ボトム, キー, 鉄, シングル. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 騒々しい = loud; 子ども = child; 国家 = nation; スピード = speed; 支払い = pay. New words: 貧しい = poor; たくさん = lot; 実験 = experiment; ボトム = bottom; キー = key; 鉄 = iron; シングル = single. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 騒々しい, 子ども, 国家, スピード, 支払い. 新しい言葉: スティック, フラット, 個の, スキン, 笑顔, しわ, 穴. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 騒々しい = loud; 子ども = child; 国家 = nation; スピード = speed; 支払い = pay. New words: スティック = stick; フラット = flat; 個の = twenty; スキン = skin; 笑顔 = smile; しわ = crease; 穴 = hole. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 騒々しい, 子ども, 国家, スピード, 支払い. 新しい言葉: ジャンプ, 赤ちゃん, 人, 村, 大会, ルート, 買う. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 騒々しい = loud; 子ども = child; 国家 = nation; スピード = speed; 支払い = pay. New words: ジャンプ = jump; 赤ちゃん = baby; 人 = eight; 村 = village; 大会 = meet; ルート = root; 買う = buy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 4 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 騒々しい, 子ども, 国家, スピード, 支払い. 新しい言葉: 上げる, 解く, 金属, かどうか, プッシュ, 7, パラグラフ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 騒々しい = loud; 子ども = child; 国家 = nation; スピード = speed; 支払い = pay. New words: 上げる = raise; 解く = solve; 金属 = metal; かどうか = whether; プッシュ = push; 7 = seven; パラグラフ = paragraph. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 5 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 騒々しい, 子ども, 国家, スピード, 支払い. 新しい言葉: 第3, しなければならない, ハンドヘルド, 髪, 説明する, 料理人, 床. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 騒々しい = loud; 子ども = child; 国家 = nation; スピード = speed; 支払い = pay. New words: 第3 = third; しなければならない = shall; ハンドヘルド = held; 髪 = hair; 説明する = describe; 料理人 = cook; 床 = floor. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-advanced-03",
+    "level": "advanced",
+    "title": "Advanced 03: 言葉 721-755",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      721,
+      755
+    ],
+    "allowedWordRankMax": 755,
+    "newWords": [
+      721,
+      722,
+      723,
+      724,
+      725,
+      726,
+      727,
+      728,
+      729,
+      730,
+      731,
+      732,
+      733,
+      734,
+      735,
+      736,
+      737,
+      738,
+      739,
+      740,
+      741,
+      742,
+      743,
+      744,
+      745,
+      746,
+      747,
+      748,
+      749,
+      750,
+      751,
+      752,
+      753,
+      754,
+      755
+    ],
+    "reviewWords": [
+      697,
+      700,
+      703,
+      706,
+      709,
+      712,
+      715,
+      718
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 笑顔, ジャンプ, 村, 買う, 金属. 新しい言葉: どちら, 結果, 燃やす, 丘, 金庫, 猫, 世紀. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 笑顔 = smile; ジャンプ = jump; 村 = village; 買う = buy; 金属 = metal. New words: どちら = either; 結果 = result; 燃やす = burn; 丘 = hill; 金庫 = safe; 猫 = cat; 世紀 = century. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 笑顔, ジャンプ, 村, 買う, 金属. 新しい言葉: 考える, タイプ, 法則, ビット, 海岸, コピー, フレーズ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 笑顔 = smile; ジャンプ = jump; 村 = village; 買う = buy; 金属 = metal. New words: 考える = consider; タイプ = type; 法則 = law; ビット = bit; 海岸 = coast; コピー = copy; フレーズ = phrase. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 笑顔, ジャンプ, 村, 買う, 金属. 新しい言葉: サイレント, 背の高い, 砂, 土壌, ロール, 温度, 指. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 笑顔 = smile; ジャンプ = jump; 村 = village; 買う = buy; 金属 = metal. New words: サイレント = silent; 背の高い = tall; 砂 = sand; 土壌 = soil; ロール = roll; 温度 = temperature; 指 = finger. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 4 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 笑顔, ジャンプ, 村, 買う, 金属. 新しい言葉: 業界, 値, 戦い, うそ, ビート, エキサイト, ナチュラル. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 笑顔 = smile; ジャンプ = jump; 村 = village; 買う = buy; 金属 = metal. New words: 業界 = industry; 値 = value; 戦い = fight; うそ = lie; ビート = beat; エキサイト = excite; ナチュラル = natural. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 5 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 笑顔, ジャンプ, 村, 買う, 金属. 新しい言葉: ビュー, 感覚, 首都, ないでしょう, 椅子, 危険, フルーツ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 笑顔 = smile; ジャンプ = jump; 村 = village; 買う = buy; 金属 = metal. New words: ビュー = view; 感覚 = sense; 首都 = capital; ないでしょう = won’t; 椅子 = chair; 危険 = danger; フルーツ = fruit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-advanced-04",
+    "level": "advanced",
+    "title": "Advanced 04: 言葉 756-790",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      756,
+      790
+    ],
+    "allowedWordRankMax": 790,
+    "newWords": [
+      756,
+      757,
+      758,
+      759,
+      760,
+      761,
+      762,
+      763,
+      764,
+      765,
+      766,
+      767,
+      768,
+      769,
+      770,
+      771,
+      772,
+      773,
+      774,
+      775,
+      776,
+      777,
+      778,
+      779,
+      780,
+      781,
+      782,
+      783,
+      784,
+      785,
+      786,
+      787,
+      788,
+      789,
+      790
+    ],
+    "reviewWords": [
+      732,
+      735,
+      738,
+      741,
+      744,
+      747,
+      750,
+      753
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 海岸, サイレント, 土壌, 指, 戦い. 新しい言葉: 金持ち, 厚い, 兵士, プロセス, 操作する, 練習, 別. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 海岸 = coast; サイレント = silent; 土壌 = soil; 指 = finger; 戦い = fight. New words: 金持ち = rich; 厚い = thick; 兵士 = soldier; プロセス = process; 操作する = operate; 練習 = practice; 別 = separate. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 海岸, サイレント, 土壌, 指, 戦い. 新しい言葉: 難しい, 医師, どうぞ, 守る, 正午, 作物, モダン. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 海岸 = coast; サイレント = silent; 土壌 = soil; 指 = finger; 戦い = fight. New words: 難しい = difficult; 医師 = doctor; どうぞ = please; 守る = protect; 正午 = noon; 作物 = crop; モダン = modern. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 海岸, サイレント, 土壌, 指, 戦い. 新しい言葉: 要素, ヒット, 学生, コーナー, パーティー, サプライ, その. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 海岸 = coast; サイレント = silent; 土壌 = soil; 指 = finger; 戦い = fight. New words: 要素 = element; ヒット = hit; 学生 = student; コーナー = corner; パーティー = party; サプライ = supply; その = whose. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 4 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 海岸, サイレント, 土壌, 指, 戦い. 新しい言葉: 検索する, リング, キャラクター, 昆虫, キャッチ, 期間, 示す. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 海岸 = coast; サイレント = silent; 土壌 = soil; 指 = finger; 戦い = fight. New words: 検索する = locate; リング = ring; キャラクター = character; 昆虫 = insect; キャッチ = caught; 期間 = period; 示す = indicate. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 5 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 海岸, サイレント, 土壌, 指, 戦い. 新しい言葉: ラジオ, スポーク, アトム, 人間, 歴史, 効果, エレクトリック. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 海岸 = coast; サイレント = silent; 土壌 = soil; 指 = finger; 戦い = fight. New words: ラジオ = radio; スポーク = spoke; アトム = atom; 人間 = human; 歴史 = history; 効果 = effect; エレクトリック = electric. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-advanced-05",
+    "level": "advanced",
+    "title": "Advanced 05: 言葉 791-825",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      791,
+      825
+    ],
+    "allowedWordRankMax": 825,
+    "newWords": [
+      791,
+      792,
+      793,
+      794,
+      795,
+      796,
+      797,
+      798,
+      799,
+      800,
+      801,
+      802,
+      803,
+      804,
+      805,
+      806,
+      807,
+      808,
+      809,
+      810,
+      811,
+      812,
+      813,
+      814,
+      815,
+      816,
+      817,
+      818,
+      819,
+      820,
+      821,
+      822,
+      823,
+      824,
+      825
+    ],
+    "reviewWords": [
+      767,
+      770,
+      773,
+      776,
+      779,
+      782,
+      785,
+      788
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 正午, 要素, コーナー, その, キャラクター. 新しい言葉: 期待する, 骨, レール, 想像する, 提供する, 同意する, このようにして. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 正午 = noon; 要素 = element; コーナー = corner; その = whose; キャラクター = character. New words: 期待する = expect; 骨 = bone; レール = rail; 想像する = imagine; 提供する = provide; 同意する = agree; このようにして = thus. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 正午, 要素, コーナー, その, キャラクター. 新しい言葉: 優しい, 女, キャプテン, 推測, 必要, シャープ, ウイング. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 正午 = noon; 要素 = element; コーナー = corner; その = whose; キャラクター = character. New words: 優しい = gentle; 女 = woman; キャプテン = captain; 推測 = guess; 必要 = necessary; シャープ = sharp; ウイング = wing. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 正午, 要素, コーナー, その, キャラクター. 新しい言葉: 作る, 隣人, ウォッシュ, バット, むしろ, 群衆, トウモロコシ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 正午 = noon; 要素 = element; コーナー = corner; その = whose; キャラクター = character. New words: 作る = create; 隣人 = neighbor; ウォッシュ = wash; バット = bat; むしろ = rather; 群衆 = crowd; トウモロコシ = corn. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 4 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 正午, 要素, コーナー, その, キャラクター. 新しい言葉: 比較する, 詩, 文字列, 鐘, 決まる, 肉, こする. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 正午 = noon; 要素 = element; コーナー = corner; その = whose; キャラクター = character. New words: 比較する = compare; 詩 = poem; 文字列 = string; 鐘 = bell; 決まる = depend; 肉 = meat; こする = rub. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 5 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 正午, 要素, コーナー, その, キャラクター. 新しい言葉: チューブ, 有名な, ドル, ストリーム, 恐怖, 視力, 薄い. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 正午 = noon; 要素 = element; コーナー = corner; その = whose; キャラクター = character. New words: チューブ = tube; 有名な = famous; ドル = dollar; ストリーム = stream; 恐怖 = fear; 視力 = sight; 薄い = thin. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-advanced-06",
+    "level": "advanced",
+    "title": "Advanced 06: 言葉 826-860",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      826,
+      860
+    ],
+    "allowedWordRankMax": 860,
+    "newWords": [
+      826,
+      827,
+      828,
+      829,
+      830,
+      831,
+      832,
+      833,
+      834,
+      835,
+      836,
+      837,
+      838,
+      839,
+      840,
+      841,
+      842,
+      843,
+      844,
+      845,
+      846,
+      847,
+      848,
+      849,
+      850,
+      851,
+      852,
+      853,
+      854,
+      855,
+      856,
+      857,
+      858,
+      859,
+      860
+    ],
+    "reviewWords": [
+      802,
+      805,
+      808,
+      811,
+      814,
+      817,
+      820,
+      823
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 必要, 作る, バット, トウモロコシ, 文字列. 新しい言葉: 三角形, 惑星, 急ぐ, チーフ, コロニー, クロック, 地雷. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 必要 = necessary; 作る = create; バット = bat; トウモロコシ = corn; 文字列 = string. New words: 三角形 = triangle; 惑星 = planet; 急ぐ = hurry; チーフ = chief; コロニー = colony; クロック = clock; 地雷 = mine. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 必要, 作る, バット, トウモロコシ, 文字列. 新しい言葉: ネクタイ, 入力する, 主要な, 新鮮な, 検索, 送信, 黄色. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 必要 = necessary; 作る = create; バット = bat; トウモロコシ = corn; 文字列 = string. New words: ネクタイ = tie; 入力する = enter; 主要な = major; 新鮮な = fresh; 検索 = search; 送信 = send; 黄色 = yellow. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 必要, 作る, バット, トウモロコシ, 文字列. 新しい言葉: 銃, 許可する, 印刷, 死んだ, スポット, 砂漠, スーツ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 必要 = necessary; 作る = create; バット = bat; トウモロコシ = corn; 文字列 = string. New words: 銃 = gun; 許可する = allow; 印刷 = print; 死んだ = dead; スポット = spot; 砂漠 = desert; スーツ = suit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 4 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 必要, 作る, バット, トウモロコシ, 文字列. 新しい言葉: 現在の, リフト, ローズ, 届く, マスター, トラック, 親. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 必要 = necessary; 作る = create; バット = bat; トウモロコシ = corn; 文字列 = string. New words: 現在の = current; リフト = lift; ローズ = rose; 届く = arrive; マスター = master; トラック = track; 親 = parent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 5 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 必要, 作る, バット, トウモロコシ, 文字列. 新しい言葉: 海岸, 分裂, シート, 物質, 好む, 接続する, ポスト. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 必要 = necessary; 作る = create; バット = bat; トウモロコシ = corn; 文字列 = string. New words: 海岸 = shore; 分裂 = division; シート = sheet; 物質 = substance; 好む = favor; 接続する = connect; ポスト = post. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-advanced-07",
+    "level": "advanced",
+    "title": "Advanced 07: 言葉 861-895",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      861,
+      895
+    ],
+    "allowedWordRankMax": 895,
+    "newWords": [
+      861,
+      862,
+      863,
+      864,
+      865,
+      866,
+      867,
+      868,
+      869,
+      870,
+      871,
+      872,
+      873,
+      874,
+      875,
+      876,
+      877,
+      878,
+      879,
+      880,
+      881,
+      882,
+      883,
+      884,
+      885,
+      886,
+      887,
+      888,
+      889,
+      890,
+      891,
+      892,
+      893,
+      894,
+      895
+    ],
+    "reviewWords": [
+      837,
+      840,
+      843,
+      846,
+      849,
+      852,
+      855,
+      858
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 検索, 銃, 死んだ, スーツ, ローズ. 新しい言葉: 過ごす, 和音, 脂肪, うれしい, オリジナル, シェア, 駅. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 検索 = search; 銃 = gun; 死んだ = dead; スーツ = suit; ローズ = rose. New words: 過ごす = spend; 和音 = chord; 脂肪 = fat; うれしい = glad; オリジナル = original; シェア = share; 駅 = station. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 検索, 銃, 死んだ, スーツ, ローズ. 新しい言葉: お父さん, パン, 充電, 適切な, バー, 申し出, セグメント. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 検索 = search; 銃 = gun; 死んだ = dead; スーツ = suit; ローズ = rose. New words: お父さん = dad; パン = bread; 充電 = charge; 適切な = proper; バー = bar; 申し出 = offer; セグメント = segment. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 検索, 銃, 死んだ, スーツ, ローズ. 新しい言葉: スレーブ, アヒル, インスタント, 市場, 度, 投入する, ひよこ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 検索 = search; 銃 = gun; 死んだ = dead; スーツ = suit; ローズ = rose. New words: スレーブ = slave; アヒル = duck; インスタント = instant; 市場 = market; 度 = degree; 投入する = populate; ひよこ = chick. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 4 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 検索, 銃, 死んだ, スーツ, ローズ. 新しい言葉: かわいい, 敵, 返事, ドリンク, 起こる, サポート, スピーチ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 検索 = search; 銃 = gun; 死んだ = dead; スーツ = suit; ローズ = rose. New words: かわいい = dear; 敵 = enemy; 返事 = reply; ドリンク = drink; 起こる = occur; サポート = support; スピーチ = speech. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 5 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 検索, 銃, 死んだ, スーツ, ローズ. 新しい言葉: 自然, レンジ, スチーム, モーション, パス, 液体, ログ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 検索 = search; 銃 = gun; 死んだ = dead; スーツ = suit; ローズ = rose. New words: 自然 = nature; レンジ = range; スチーム = steam; モーション = motion; パス = path; 液体 = liquid; ログ = log. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-advanced-08",
+    "level": "advanced",
+    "title": "Advanced 08: 言葉 896-930",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      896,
+      930
+    ],
+    "allowedWordRankMax": 930,
+    "newWords": [
+      896,
+      897,
+      898,
+      899,
+      900,
+      901,
+      902,
+      903,
+      904,
+      905,
+      906,
+      907,
+      908,
+      909,
+      910,
+      911,
+      912,
+      913,
+      914,
+      915,
+      916,
+      917,
+      918,
+      919,
+      920,
+      921,
+      922,
+      923,
+      924,
+      925,
+      926,
+      927,
+      928,
+      929,
+      930
+    ],
+    "reviewWords": [
+      872,
+      875,
+      878,
+      881,
+      884,
+      887,
+      890,
+      893
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: バー, スレーブ, 市場, ひよこ, 返事. 新しい言葉: 意味, 商, 歯牙, シェル, 首, 酸素, 砂糖. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: バー = bar; スレーブ = slave; 市場 = market; ひよこ = chick; 返事 = reply. New words: 意味 = meant; 商 = quotient; 歯牙 = teeth; シェル = shell; 首 = neck; 酸素 = oxygen; 砂糖 = sugar. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: バー, スレーブ, 市場, ひよこ, 返事. 新しい言葉: 死, かわいい, スキル, 女性たち, シーズン, ソリューション, マグネット. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: バー = bar; スレーブ = slave; 市場 = market; ひよこ = chick; 返事 = reply. New words: 死 = death; かわいい = pretty; スキル = skill; 女性たち = women; シーズン = season; ソリューション = solution; マグネット = magnet. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: バー, スレーブ, 市場, ひよこ, 返事. 新しい言葉: 銀, 感謝, ブランチ, マッチ, サフィックス, 特に, イチジク. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: バー = bar; スレーブ = slave; 市場 = market; ひよこ = chick; 返事 = reply. New words: 銀 = silver; 感謝 = thank; ブランチ = branch; マッチ = match; サフィックス = suffix; 特に = especially; イチジク = fig. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 4 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: バー, スレーブ, 市場, ひよこ, 返事. 新しい言葉: 恐れて, 巨大な, 姉妹, スチール, 話し合う, フォワード, 同じような. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: バー = bar; スレーブ = slave; 市場 = market; ひよこ = chick; 返事 = reply. New words: 恐れて = afraid; 巨大な = huge; 姉妹 = sister; スチール = steel; 話し合う = discuss; フォワード = forward; 同じような = similar. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 5 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: バー, スレーブ, 市場, ひよこ, 返事. 新しい言葉: ガイド, 経験, スコア, リンゴ, 買った, 主導, ピッチ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: バー = bar; スレーブ = slave; 市場 = market; ひよこ = chick; 返事 = reply. New words: ガイド = guide; 経験 = experience; スコア = score; リンゴ = apple; 買った = bought; 主導 = led; ピッチ = pitch. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-advanced-09",
+    "level": "advanced",
+    "title": "Advanced 09: 言葉 931-965",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      931,
+      965
+    ],
+    "allowedWordRankMax": 965,
+    "newWords": [
+      931,
+      932,
+      933,
+      934,
+      935,
+      936,
+      937,
+      938,
+      939,
+      940,
+      941,
+      942,
+      943,
+      944,
+      945,
+      946,
+      947,
+      948,
+      949,
+      950,
+      951,
+      952,
+      953,
+      954,
+      955,
+      956,
+      957,
+      958,
+      959,
+      960,
+      961,
+      962,
+      963,
+      964,
+      965
+    ],
+    "reviewWords": [
+      907,
+      910,
+      913,
+      916,
+      919,
+      922,
+      925,
+      928
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: シーズン, 銀, マッチ, イチジク, 姉妹. 新しい言葉: コート, マス, カード, バンド, ロープ, スリップ, 勝つ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: シーズン = season; 銀 = silver; マッチ = match; イチジク = fig; 姉妹 = sister. New words: コート = coat; マス = mass; カード = card; バンド = band; ロープ = rope; スリップ = slip; 勝つ = win. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: シーズン, 銀, マッチ, イチジク, 姉妹. 新しい言葉: 夢, 夕べ, 条件, フィード, ツール, 合計, 基本. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: シーズン = season; 銀 = silver; マッチ = match; イチジク = fig; 姉妹 = sister. New words: 夢 = dream; 夕べ = evening; 条件 = condition; フィード = feed; ツール = tool; 合計 = total; 基本 = basic. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: シーズン, 銀, マッチ, イチジク, 姉妹. 新しい言葉: 匂い, 谷, も, ダブル, 座席, 続ける, ブロック. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: シーズン = season; 銀 = silver; マッチ = match; イチジク = fig; 姉妹 = sister. New words: 匂い = smell; 谷 = valley; も = nor; ダブル = double; 座席 = seat; 続ける = continue; ブロック = block. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 4 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: シーズン, 銀, マッチ, イチジク, 姉妹. 新しい言葉: チャート, 帽子, 売る, 成功, 会社, 引く, イベント. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: シーズン = season; 銀 = silver; マッチ = match; イチジク = fig; 姉妹 = sister. New words: チャート = chart; 帽子 = hat; 売る = sell; 成功 = success; 会社 = company; 引く = subtract; イベント = event. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 5 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: シーズン, 銀, マッチ, イチジク, 姉妹. 新しい言葉: 特定の, 契約, 泳ぐ, 言葉, 反対, 妻, 靴. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: シーズン = season; 銀 = silver; マッチ = match; イチジク = fig; 姉妹 = sister. New words: 特定の = particular; 契約 = deal; 泳ぐ = swim; 言葉 = term; 反対 = opposite; 妻 = wife; 靴 = shoe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "japanese-advanced-10",
+    "level": "advanced",
+    "title": "Advanced 10: 言葉 966-1000",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      966,
+      1000
+    ],
+    "allowedWordRankMax": 1000,
+    "newWords": [
+      966,
+      967,
+      968,
+      969,
+      970,
+      971,
+      972,
+      973,
+      974,
+      975,
+      976,
+      977,
+      978,
+      979,
+      980,
+      981,
+      982,
+      983,
+      984,
+      985,
+      986,
+      987,
+      988,
+      989,
+      990,
+      991,
+      992,
+      993,
+      994,
+      995,
+      996,
+      997,
+      998,
+      999,
+      1000
+    ],
+    "reviewWords": [
+      942,
+      945,
+      948,
+      951,
+      954,
+      957,
+      960,
+      963
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: ツール, 匂い, ダブル, ブロック, 売る. 新しい言葉: 肩, スプレッド, アレンジ, キャンプ, 発明する, 綿, ボルン. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ツール = tool; 匂い = smell; ダブル = double; ブロック = block; 売る = sell. New words: 肩 = shoulder; スプレッド = spread; アレンジ = arrange; キャンプ = camp; 発明する = invent; 綿 = cotton; ボルン = born. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: ツール, 匂い, ダブル, ブロック, 売る. 新しい言葉: 決定する, クォート, 人, トラック, ノイズ, レベル, チャンス. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ツール = tool; 匂い = smell; ダブル = double; ブロック = block; 売る = sell. New words: 決定する = determine; クォート = quart; 人 = nine; トラック = truck; ノイズ = noise; レベル = level; チャンス = chance. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: ツール, 匂い, ダブル, ブロック, 売る. 新しい言葉: 集まる, ショップ, ストレッチ, 投げる, 輝き, 財産, コラム. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ツール = tool; 匂い = smell; ダブル = double; ブロック = block; 売る = sell. New words: 集まる = gather; ショップ = shop; ストレッチ = stretch; 投げる = throw; 輝き = shine; 財産 = property; コラム = column. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 4 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: ツール, 匂い, ダブル, ブロック, 売る. 新しい言葉: 分子, 選択する, 間違った, グレー, リピート, 必要とする, 幅広い. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ツール = tool; 匂い = smell; ダブル = double; ブロック = block; 売る = sell. New words: 分子 = molecule; 選択する = select; 間違った = wrong; グレー = gray; リピート = repeat; 必要とする = require; 幅広い = broad. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 5 / 5",
+        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: ツール, 匂い, ダブル, ブロック, 売る. 新しい言葉: 準備する, 塩, 鼻, 複数, 怒り, 請求, 大陸. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ツール = tool; 匂い = smell; ダブル = double; ブロック = block; 売る = sell. New words: 準備する = prepare; 塩 = salt; 鼻 = nose; 複数 = plural; 怒り = anger; 請求 = claim; 大陸 = continent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  }
+]

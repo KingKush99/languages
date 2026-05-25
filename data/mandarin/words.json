@@ -1,0 +1,7002 @@
+[
+  {
+    "rank": 1,
+    "sourceRank": 1,
+    "word": "一",
+    "translation": "A",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 2,
+    "sourceRank": 2,
+    "word": "人",
+    "translation": "People",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 3,
+    "sourceRank": 3,
+    "word": "里",
+    "translation": "In",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 4,
+    "sourceRank": 4,
+    "word": "会",
+    "translation": "Can",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 5,
+    "sourceRank": 5,
+    "word": "没",
+    "translation": "Not",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 6,
+    "sourceRank": 6,
+    "word": "她",
+    "translation": "She",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 7,
+    "sourceRank": 7,
+    "word": "吗",
+    "translation": "Do",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 8,
+    "sourceRank": 8,
+    "word": "去",
+    "translation": "Go",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 9,
+    "sourceRank": 9,
+    "word": "也",
+    "translation": "Also",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 10,
+    "sourceRank": 10,
+    "word": "有",
+    "translation": "Have",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 11,
+    "sourceRank": 11,
+    "word": "这",
+    "translation": "This",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 12,
+    "sourceRank": 12,
+    "word": "那",
+    "translation": "That",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 13,
+    "sourceRank": 13,
+    "word": "不",
+    "translation": "Not",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 14,
+    "sourceRank": 14,
+    "word": "什",
+    "translation": "Even",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 15,
+    "sourceRank": 15,
+    "word": "个",
+    "translation": "A",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 16,
+    "sourceRank": 16,
+    "word": "来",
+    "translation": "Come",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 17,
+    "sourceRank": 17,
+    "word": "要",
+    "translation": "Wish",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 18,
+    "sourceRank": 18,
+    "word": "就",
+    "translation": "On",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 19,
+    "sourceRank": 19,
+    "word": "我",
+    "translation": "I",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 20,
+    "sourceRank": 20,
+    "word": "你",
+    "translation": "You",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 21,
+    "sourceRank": 21,
+    "word": "的",
+    "translation": "Of",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 22,
+    "sourceRank": 22,
+    "word": "是",
+    "translation": "Be",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 23,
+    "sourceRank": 23,
+    "word": "了",
+    "translation": "The",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 24,
+    "sourceRank": 24,
+    "word": "他",
+    "translation": "He",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 25,
+    "sourceRank": 25,
+    "word": "么",
+    "translation": "What",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 26,
+    "sourceRank": 26,
+    "word": "们",
+    "translation": "They",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 27,
+    "sourceRank": 27,
+    "word": "在",
+    "translation": "In",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 28,
+    "sourceRank": 28,
+    "word": "说",
+    "translation": "Say",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 29,
+    "sourceRank": 29,
+    "word": "为",
+    "translation": "For",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 30,
+    "sourceRank": 30,
+    "word": "好",
+    "translation": "Good",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 31,
+    "sourceRank": 31,
+    "word": "吧",
+    "translation": "It",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 32,
+    "sourceRank": 32,
+    "word": "知道",
+    "translation": "Know",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 33,
+    "sourceRank": 33,
+    "word": "我的",
+    "translation": "My",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 34,
+    "sourceRank": 34,
+    "word": "和",
+    "translation": "And",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 35,
+    "sourceRank": 35,
+    "word": "你的",
+    "translation": "Your",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 36,
+    "sourceRank": 36,
+    "word": "想",
+    "translation": "Want",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 37,
+    "sourceRank": 37,
+    "word": "只",
+    "translation": "Only",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 38,
+    "sourceRank": 38,
+    "word": "很",
+    "translation": "Very",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 39,
+    "sourceRank": 39,
+    "word": "都",
+    "translation": "Both",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 40,
+    "sourceRank": 40,
+    "word": "对",
+    "translation": "To",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 41,
+    "sourceRank": 41,
+    "word": "把",
+    "translation": "To",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 42,
+    "sourceRank": 42,
+    "word": "啊",
+    "translation": "Ah",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 43,
+    "sourceRank": 43,
+    "word": "怎",
+    "translation": "How",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 44,
+    "sourceRank": 44,
+    "word": "得",
+    "translation": "Get",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 45,
+    "sourceRank": 45,
+    "word": "还",
+    "translation": "Also",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 46,
+    "sourceRank": 46,
+    "word": "过",
+    "translation": "Cross",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 47,
+    "sourceRank": 47,
+    "word": "不是",
+    "translation": "No",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 48,
+    "sourceRank": 48,
+    "word": "到",
+    "translation": "To",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 49,
+    "sourceRank": 49,
+    "word": "样",
+    "translation": "Sample",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 50,
+    "sourceRank": 50,
+    "word": "飞",
+    "translation": "Fly",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 51,
+    "sourceRank": 51,
+    "word": "远",
+    "translation": "Far",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 52,
+    "sourceRank": 52,
+    "word": "身",
+    "translation": "Body",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 53,
+    "sourceRank": 53,
+    "word": "任何",
+    "translation": "Any",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 54,
+    "sourceRank": 54,
+    "word": "生活",
+    "translation": "Life",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 55,
+    "sourceRank": 55,
+    "word": "够",
+    "translation": "Enough",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 56,
+    "sourceRank": 56,
+    "word": "号",
+    "translation": "Number",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 57,
+    "sourceRank": 57,
+    "word": "兰",
+    "translation": "Orchid",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 58,
+    "sourceRank": 58,
+    "word": "瑞",
+    "translation": "Swiss",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 59,
+    "sourceRank": 59,
+    "word": "达",
+    "translation": "Reach",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 60,
+    "sourceRank": 60,
+    "word": "或",
+    "translation": "Or",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 61,
+    "sourceRank": 61,
+    "word": "愿",
+    "translation": "Willing",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 62,
+    "sourceRank": 62,
+    "word": "蒂",
+    "translation": "Stem",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 63,
+    "sourceRank": 63,
+    "word": "別",
+    "translation": "Do not",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 64,
+    "sourceRank": 64,
+    "word": "军",
+    "translation": "Military",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 65,
+    "sourceRank": 65,
+    "word": "正",
+    "translation": "Positive",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 66,
+    "sourceRank": 66,
+    "word": "是不是",
+    "translation": "Is not",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 67,
+    "sourceRank": 67,
+    "word": "证",
+    "translation": "Certificate",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 68,
+    "sourceRank": 68,
+    "word": "不用",
+    "translation": "Need not",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 69,
+    "sourceRank": 69,
+    "word": "三",
+    "translation": "Three",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 70,
+    "sourceRank": 70,
+    "word": "乐",
+    "translation": "Music",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 71,
+    "sourceRank": 71,
+    "word": "吉",
+    "translation": "Lucky",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 72,
+    "sourceRank": 72,
+    "word": "男人",
+    "translation": "Man",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 73,
+    "sourceRank": 73,
+    "word": "告訴",
+    "translation": "Tell",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 74,
+    "sourceRank": 74,
+    "word": "路",
+    "translation": "Road",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 75,
+    "sourceRank": 75,
+    "word": "搞",
+    "translation": "Do",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 76,
+    "sourceRank": 76,
+    "word": "可是",
+    "translation": "But",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 77,
+    "sourceRank": 77,
+    "word": "与",
+    "translation": "And",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 78,
+    "sourceRank": 78,
+    "word": "次",
+    "translation": "Secondary",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 79,
+    "sourceRank": 79,
+    "word": "狗",
+    "translation": "Dog",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 80,
+    "sourceRank": 80,
+    "word": "决",
+    "translation": "Decide",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 81,
+    "sourceRank": 81,
+    "word": "金",
+    "translation": "Gold",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 82,
+    "sourceRank": 82,
+    "word": "史",
+    "translation": "History",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 83,
+    "sourceRank": 83,
+    "word": "姆",
+    "translation": "Governess",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 84,
+    "sourceRank": 84,
+    "word": "部",
+    "translation": "Department",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 85,
+    "sourceRank": 85,
+    "word": "正在",
+    "translation": "Are",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 86,
+    "sourceRank": 86,
+    "word": "活",
+    "translation": "Live",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 87,
+    "sourceRank": 87,
+    "word": "刚",
+    "translation": "Just",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 88,
+    "sourceRank": 88,
+    "word": "回家",
+    "translation": "Return home",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 89,
+    "sourceRank": 89,
+    "word": "贝",
+    "translation": "Shellfish",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 90,
+    "sourceRank": 90,
+    "word": "如何",
+    "translation": "How",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 91,
+    "sourceRank": 91,
+    "word": "须",
+    "translation": "Must",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 92,
+    "sourceRank": 92,
+    "word": "战",
+    "translation": "War",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 93,
+    "sourceRank": 93,
+    "word": "不會",
+    "translation": "Will not",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 94,
+    "sourceRank": 94,
+    "word": "夫",
+    "translation": "Husband",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 95,
+    "sourceRank": 95,
+    "word": "喂",
+    "translation": "Feed",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 96,
+    "sourceRank": 96,
+    "word": "父",
+    "translation": "Father",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 97,
+    "sourceRank": 97,
+    "word": "亚",
+    "translation": "Inferior",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 98,
+    "sourceRank": 98,
+    "word": "肯定",
+    "translation": "Sure",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 99,
+    "sourceRank": 99,
+    "word": "女孩",
+    "translation": "Girl",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 100,
+    "sourceRank": 100,
+    "word": "世界",
+    "translation": "World",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 101,
+    "sourceRank": 101,
+    "word": "不要",
+    "translation": "Must not",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 102,
+    "sourceRank": 102,
+    "word": "些",
+    "translation": "Some",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 103,
+    "sourceRank": 103,
+    "word": "不知道",
+    "translation": "Do not know",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 104,
+    "sourceRank": 104,
+    "word": "不能",
+    "translation": "Can not",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 105,
+    "sourceRank": 105,
+    "word": "因",
+    "translation": "Because",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 106,
+    "sourceRank": 106,
+    "word": "觉",
+    "translation": "Feel",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 107,
+    "sourceRank": 107,
+    "word": "发",
+    "translation": "Hair",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 108,
+    "sourceRank": 108,
+    "word": "像",
+    "translation": "Image",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 109,
+    "sourceRank": 109,
+    "word": "太",
+    "translation": "Too",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 110,
+    "sourceRank": 110,
+    "word": "但是",
+    "translation": "But",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 111,
+    "sourceRank": 111,
+    "word": "多",
+    "translation": "Multi-",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 112,
+    "sourceRank": 112,
+    "word": "打",
+    "translation": "Fight",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 113,
+    "sourceRank": 113,
+    "word": "机",
+    "translation": "Machine",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 114,
+    "sourceRank": 114,
+    "word": "來",
+    "translation": "Come",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 115,
+    "sourceRank": 115,
+    "word": "好了",
+    "translation": "Well",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 116,
+    "sourceRank": 116,
+    "word": "用",
+    "translation": "Use",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 117,
+    "sourceRank": 117,
+    "word": "他的",
+    "translation": "His",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 118,
+    "sourceRank": 118,
+    "word": "诉",
+    "translation": "Appeal",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 119,
+    "sourceRank": 119,
+    "word": "德",
+    "translation": "Moral",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 120,
+    "sourceRank": 120,
+    "word": "叫",
+    "translation": "Call",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 121,
+    "sourceRank": 121,
+    "word": "什麼",
+    "translation": "What",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 122,
+    "sourceRank": 122,
+    "word": "真",
+    "translation": "SANT",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 123,
+    "sourceRank": 123,
+    "word": "干",
+    "translation": "Dry",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 124,
+    "sourceRank": 124,
+    "word": "心",
+    "translation": "Heart",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 125,
+    "sourceRank": 125,
+    "word": "走",
+    "translation": "Go",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 126,
+    "sourceRank": 126,
+    "word": "比",
+    "translation": "Ratio",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 127,
+    "sourceRank": 127,
+    "word": "死",
+    "translation": "Dead",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 128,
+    "sourceRank": 128,
+    "word": "嘿",
+    "translation": "Hey",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 129,
+    "sourceRank": 129,
+    "word": "出",
+    "translation": "Out",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 130,
+    "sourceRank": 130,
+    "word": "车",
+    "translation": "Car",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 131,
+    "sourceRank": 131,
+    "word": "一下",
+    "translation": "About",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 132,
+    "sourceRank": 132,
+    "word": "中",
+    "translation": "In",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 133,
+    "sourceRank": 133,
+    "word": "好吧",
+    "translation": "Well",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 134,
+    "sourceRank": 134,
+    "word": "需要",
+    "translation": "Need",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 135,
+    "sourceRank": 135,
+    "word": "经",
+    "translation": "After",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 136,
+    "sourceRank": 136,
+    "word": "妈",
+    "translation": "Mom",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 137,
+    "sourceRank": 137,
+    "word": "候",
+    "translation": "Wait",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 138,
+    "sourceRank": 138,
+    "word": "长",
+    "translation": "Long",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 139,
+    "sourceRank": 139,
+    "word": "而",
+    "translation": "And",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 140,
+    "sourceRank": 140,
+    "word": "错",
+    "translation": "Wrong",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 141,
+    "sourceRank": 141,
+    "word": "好的",
+    "translation": "Good",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 142,
+    "sourceRank": 142,
+    "word": "间",
+    "translation": "Between",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 143,
+    "sourceRank": 143,
+    "word": "又",
+    "translation": "And",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 144,
+    "sourceRank": 144,
+    "word": "国",
+    "translation": "Country",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 145,
+    "sourceRank": 145,
+    "word": "起",
+    "translation": "Start",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 146,
+    "sourceRank": 146,
+    "word": "动",
+    "translation": "Move",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 147,
+    "sourceRank": 147,
+    "word": "杀",
+    "translation": "Kill",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 148,
+    "sourceRank": 148,
+    "word": "于",
+    "translation": "At",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 149,
+    "sourceRank": 149,
+    "word": "种",
+    "translation": "Seed",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 150,
+    "sourceRank": 150,
+    "word": "去了",
+    "translation": "Go",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 151,
+    "sourceRank": 151,
+    "word": "担",
+    "translation": "Dan",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 152,
+    "sourceRank": 152,
+    "word": "名",
+    "translation": "Name",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 153,
+    "sourceRank": 153,
+    "word": "混蛋",
+    "translation": "Asshole",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 154,
+    "sourceRank": 154,
+    "word": "礼",
+    "translation": "Ceremony",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 155,
+    "sourceRank": 155,
+    "word": "幹",
+    "translation": "Dry",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 156,
+    "sourceRank": 156,
+    "word": "不了",
+    "translation": "Not",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 157,
+    "sourceRank": 157,
+    "word": "有些",
+    "translation": "Some",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 158,
+    "sourceRank": 158,
+    "word": "過",
+    "translation": "Cross",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 159,
+    "sourceRank": 159,
+    "word": "後",
+    "translation": "After",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 160,
+    "sourceRank": 160,
+    "word": "击",
+    "translation": "Strike",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 161,
+    "sourceRank": 161,
+    "word": "漂亮",
+    "translation": "Beautiful",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 162,
+    "sourceRank": 162,
+    "word": "神",
+    "translation": "God",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 163,
+    "sourceRank": 163,
+    "word": "多少",
+    "translation": "How much",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 164,
+    "sourceRank": 164,
+    "word": "海",
+    "translation": "Sea",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 165,
+    "sourceRank": 165,
+    "word": "每",
+    "translation": "Each",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 166,
+    "sourceRank": 166,
+    "word": "哥",
+    "translation": "Brother",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 167,
+    "sourceRank": 167,
+    "word": "教",
+    "translation": "Teach",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 168,
+    "sourceRank": 168,
+    "word": "走吧",
+    "translation": "Go",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 169,
+    "sourceRank": 169,
+    "word": "好像",
+    "translation": "Like",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 170,
+    "sourceRank": 170,
+    "word": "单",
+    "translation": "Single",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 171,
+    "sourceRank": 171,
+    "word": "公",
+    "translation": "Public",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 172,
+    "sourceRank": 172,
+    "word": "林",
+    "translation": "Forest",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 173,
+    "sourceRank": 173,
+    "word": "女",
+    "translation": "Female",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 174,
+    "sourceRank": 174,
+    "word": "忙",
+    "translation": "Busy",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 175,
+    "sourceRank": 175,
+    "word": "火",
+    "translation": "Fire",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 176,
+    "sourceRank": 176,
+    "word": "钟",
+    "translation": "Bell",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 177,
+    "sourceRank": 177,
+    "word": "家伙",
+    "translation": "Guy",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 178,
+    "sourceRank": 178,
+    "word": "科",
+    "translation": "Branch",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 179,
+    "sourceRank": 179,
+    "word": "回去",
+    "translation": "Go back",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 180,
+    "sourceRank": 180,
+    "word": "最后",
+    "translation": "Last",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 181,
+    "sourceRank": 181,
+    "word": "水",
+    "translation": "Water",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 182,
+    "sourceRank": 182,
+    "word": "不管",
+    "translation": "Regardless of",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 183,
+    "sourceRank": 183,
+    "word": "麦",
+    "translation": "Wheat",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 184,
+    "sourceRank": 184,
+    "word": "泻",
+    "translation": "Diarrhea",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 185,
+    "sourceRank": 185,
+    "word": "鬼",
+    "translation": "Ghost",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 186,
+    "sourceRank": 186,
+    "word": "還",
+    "translation": "Also",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 187,
+    "sourceRank": 187,
+    "word": "船",
+    "translation": "Ship",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 188,
+    "sourceRank": 188,
+    "word": "永",
+    "translation": "Forever",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 189,
+    "sourceRank": 189,
+    "word": "安全",
+    "translation": "Security",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 190,
+    "sourceRank": 190,
+    "word": "那個",
+    "translation": "That",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 191,
+    "sourceRank": 191,
+    "word": "爾",
+    "translation": "Seoul",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 192,
+    "sourceRank": 192,
+    "word": "這麼",
+    "translation": "So",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 193,
+    "sourceRank": 193,
+    "word": "满",
+    "translation": "Full",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 194,
+    "sourceRank": 194,
+    "word": "风",
+    "translation": "Wind",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 195,
+    "sourceRank": 195,
+    "word": "皮",
+    "translation": "Skin",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 196,
+    "sourceRank": 196,
+    "word": "威",
+    "translation": "Prestige",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 197,
+    "sourceRank": 197,
+    "word": "据",
+    "translation": "According to",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 198,
+    "sourceRank": 198,
+    "word": "鲁",
+    "translation": "Lu",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 199,
+    "sourceRank": 199,
+    "word": "转",
+    "translation": "Turn",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 200,
+    "sourceRank": 200,
+    "word": "相",
+    "translation": "Phase",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 201,
+    "sourceRank": 201,
+    "word": "地方",
+    "translation": "Local",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 202,
+    "sourceRank": 202,
+    "word": "沒有",
+    "translation": "No",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 203,
+    "sourceRank": 203,
+    "word": "有人",
+    "translation": "Some",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 204,
+    "sourceRank": 204,
+    "word": "嗨",
+    "translation": "Hi",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 205,
+    "sourceRank": 205,
+    "word": "看看",
+    "translation": "Look",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 206,
+    "sourceRank": 206,
+    "word": "自己",
+    "translation": "Oneself",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 207,
+    "sourceRank": 207,
+    "word": "一定",
+    "translation": "Certainly",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 208,
+    "sourceRank": 208,
+    "word": "事情",
+    "translation": "Thing",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 209,
+    "sourceRank": 209,
+    "word": "屑",
+    "translation": "Scrap",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 210,
+    "sourceRank": 210,
+    "word": "希望",
+    "translation": "Hope",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 211,
+    "sourceRank": 211,
+    "word": "所",
+    "translation": "The",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 212,
+    "sourceRank": 212,
+    "word": "褉",
+    "translation": "Aspx.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 213,
+    "sourceRank": 213,
+    "word": "感",
+    "translation": "Sense",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 214,
+    "sourceRank": 214,
+    "word": "气",
+    "translation": "Gas",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 215,
+    "sourceRank": 215,
+    "word": "不想",
+    "translation": "Do not want to",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 216,
+    "sourceRank": 216,
+    "word": "嘛",
+    "translation": "Well",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 217,
+    "sourceRank": 217,
+    "word": "实",
+    "translation": "Real",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 218,
+    "sourceRank": 218,
+    "word": "始",
+    "translation": "Beginning",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 219,
+    "sourceRank": 219,
+    "word": "給",
+    "translation": "To",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 220,
+    "sourceRank": 220,
+    "word": "然后",
+    "translation": "Then",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 221,
+    "sourceRank": 221,
+    "word": "個",
+    "translation": "A",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 222,
+    "sourceRank": 222,
+    "word": "相信",
+    "translation": "Believe",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 223,
+    "sourceRank": 223,
+    "word": "结",
+    "translation": "Bear",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 224,
+    "sourceRank": 224,
+    "word": "今天",
+    "translation": "Today",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 225,
+    "sourceRank": 225,
+    "word": "几",
+    "translation": "A few",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 226,
+    "sourceRank": 226,
+    "word": "题",
+    "translation": "Title",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 227,
+    "sourceRank": 227,
+    "word": "放",
+    "translation": "Put",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 228,
+    "sourceRank": 228,
+    "word": "讓",
+    "translation": "Let",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 229,
+    "sourceRank": 229,
+    "word": "确",
+    "translation": "Indeed",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 230,
+    "sourceRank": 230,
+    "word": "意思",
+    "translation": "Meaning",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 231,
+    "sourceRank": 231,
+    "word": "成",
+    "translation": "Become",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 232,
+    "sourceRank": 232,
+    "word": "所有",
+    "translation": "All",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 233,
+    "sourceRank": 233,
+    "word": "喜",
+    "translation": "Happy",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 234,
+    "sourceRank": 234,
+    "word": "對",
+    "translation": "To",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 235,
+    "sourceRank": 235,
+    "word": "之",
+    "translation": "The",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 236,
+    "sourceRank": 236,
+    "word": "一切",
+    "translation": "Everything",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 237,
+    "sourceRank": 237,
+    "word": "记",
+    "translation": "Remember",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 238,
+    "sourceRank": 238,
+    "word": "抱歉",
+    "translation": "Sorry",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 239,
+    "sourceRank": 239,
+    "word": "一直",
+    "translation": "Has been",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 240,
+    "sourceRank": 240,
+    "word": "天",
+    "translation": "Day",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 241,
+    "sourceRank": 241,
+    "word": "褌",
+    "translation": "Drawers",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 242,
+    "sourceRank": 242,
+    "word": "钱",
+    "translation": "Money",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 243,
+    "sourceRank": 243,
+    "word": "面",
+    "translation": "Surface",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 244,
+    "sourceRank": 244,
+    "word": "更",
+    "translation": "More",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 245,
+    "sourceRank": 245,
+    "word": "学",
+    "translation": "Learn",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 246,
+    "sourceRank": 246,
+    "word": "現在",
+    "translation": "Now",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 247,
+    "sourceRank": 247,
+    "word": "边",
+    "translation": "Side",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 248,
+    "sourceRank": 248,
+    "word": "你們",
+    "translation": "You",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 249,
+    "sourceRank": 249,
+    "word": "不起",
+    "translation": "Can not afford to",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 250,
+    "sourceRank": 250,
+    "word": "脑",
+    "translation": "Brain",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 251,
+    "sourceRank": 251,
+    "word": "呃",
+    "translation": "Uh",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 252,
+    "sourceRank": 252,
+    "word": "论",
+    "translation": "Theory",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 253,
+    "sourceRank": 253,
+    "word": "曼",
+    "translation": "Man",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 254,
+    "sourceRank": 254,
+    "word": "點",
+    "translation": "Point",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 255,
+    "sourceRank": 255,
+    "word": "普",
+    "translation": "General",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 256,
+    "sourceRank": 256,
+    "word": "第一",
+    "translation": "First",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 257,
+    "sourceRank": 257,
+    "word": "通",
+    "translation": "Through",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 258,
+    "sourceRank": 258,
+    "word": "棒",
+    "translation": "Stick",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 259,
+    "sourceRank": 259,
+    "word": "线",
+    "translation": "Line",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 260,
+    "sourceRank": 260,
+    "word": "很高",
+    "translation": "High",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 261,
+    "sourceRank": 261,
+    "word": "买",
+    "translation": "Buy",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 262,
+    "sourceRank": 262,
+    "word": "求",
+    "translation": "Request",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 263,
+    "sourceRank": 263,
+    "word": "束",
+    "translation": "Bundle",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 264,
+    "sourceRank": 264,
+    "word": "哇",
+    "translation": "Wow",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 265,
+    "sourceRank": 265,
+    "word": "指",
+    "translation": "Finger",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 266,
+    "sourceRank": 266,
+    "word": "张",
+    "translation": "Zhang",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 267,
+    "sourceRank": 267,
+    "word": "文",
+    "translation": "Culture",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 268,
+    "sourceRank": 268,
+    "word": "锌",
+    "translation": "Zinc",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 269,
+    "sourceRank": 269,
+    "word": "重",
+    "translation": "Weight",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 270,
+    "sourceRank": 270,
+    "word": "菲",
+    "translation": "Philippines",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 271,
+    "sourceRank": 271,
+    "word": "目",
+    "translation": "Eye",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 272,
+    "sourceRank": 272,
+    "word": "根本",
+    "translation": "Fundamental",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 273,
+    "sourceRank": 273,
+    "word": "联",
+    "translation": "Join",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 274,
+    "sourceRank": 274,
+    "word": "丹",
+    "translation": "Red",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 275,
+    "sourceRank": 275,
+    "word": "愛",
+    "translation": "Love",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 276,
+    "sourceRank": 276,
+    "word": "不到",
+    "translation": "Less than",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 277,
+    "sourceRank": 277,
+    "word": "這些",
+    "translation": "These",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 278,
+    "sourceRank": 278,
+    "word": "自己的",
+    "translation": "Own",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 279,
+    "sourceRank": 279,
+    "word": "笑",
+    "translation": "Laugh",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 280,
+    "sourceRank": 280,
+    "word": "闭",
+    "translation": "Close",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 281,
+    "sourceRank": 281,
+    "word": "基",
+    "translation": "Base",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 282,
+    "sourceRank": 282,
+    "word": "唯一",
+    "translation": "Unique",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 283,
+    "sourceRank": 283,
+    "word": "要是",
+    "translation": "If",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 284,
+    "sourceRank": 284,
+    "word": "提",
+    "translation": "Mention",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 285,
+    "sourceRank": 285,
+    "word": "调",
+    "translation": "Tune",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 286,
+    "sourceRank": 286,
+    "word": "丽",
+    "translation": "Korea",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 287,
+    "sourceRank": 287,
+    "word": "女士",
+    "translation": "Ms.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 288,
+    "sourceRank": 288,
+    "word": "校",
+    "translation": "School",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 289,
+    "sourceRank": 289,
+    "word": "公司",
+    "translation": "Company",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 290,
+    "sourceRank": 290,
+    "word": "况",
+    "translation": "Condition",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 291,
+    "sourceRank": 291,
+    "word": "烦",
+    "translation": "Bother",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 292,
+    "sourceRank": 292,
+    "word": "停",
+    "translation": "Stop",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 293,
+    "sourceRank": 293,
+    "word": "英",
+    "translation": "Britain",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 294,
+    "sourceRank": 294,
+    "word": "警",
+    "translation": "Police",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 295,
+    "sourceRank": 295,
+    "word": "险",
+    "translation": "Risk",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 296,
+    "sourceRank": 296,
+    "word": "東西",
+    "translation": "Thing",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 297,
+    "sourceRank": 297,
+    "word": "不可能",
+    "translation": "Impossible",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 298,
+    "sourceRank": 298,
+    "word": "坐",
+    "translation": "Sit",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 299,
+    "sourceRank": 299,
+    "word": "区",
+    "translation": "Area",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 300,
+    "sourceRank": 300,
+    "word": "果",
+    "translation": "Fruit",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 301,
+    "sourceRank": 301,
+    "word": "伙",
+    "translation": "Partner",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 302,
+    "sourceRank": 302,
+    "word": "哈",
+    "translation": "Ha",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 303,
+    "sourceRank": 303,
+    "word": "罗",
+    "translation": "Luo",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 304,
+    "sourceRank": 304,
+    "word": "难",
+    "translation": "Difficult",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 305,
+    "sourceRank": 305,
+    "word": "两",
+    "translation": "Both",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 306,
+    "sourceRank": 306,
+    "word": "一些",
+    "translation": "Some",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 307,
+    "sourceRank": 307,
+    "word": "這樣",
+    "translation": "So",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 308,
+    "sourceRank": 308,
+    "word": "自",
+    "translation": "From",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 309,
+    "sourceRank": 309,
+    "word": "女人",
+    "translation": "Woman",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 310,
+    "sourceRank": 310,
+    "word": "向",
+    "translation": "To",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 311,
+    "sourceRank": 311,
+    "word": "最好",
+    "translation": "The best",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 312,
+    "sourceRank": 312,
+    "word": "走了",
+    "translation": "Go",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 313,
+    "sourceRank": 313,
+    "word": "褬",
+    "translation": "Sang",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 314,
+    "sourceRank": 314,
+    "word": "胁",
+    "translation": "Threaten",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 315,
+    "sourceRank": 315,
+    "word": "明",
+    "translation": "Next",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 316,
+    "sourceRank": 316,
+    "word": "理",
+    "translation": "Reason",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 317,
+    "sourceRank": 317,
+    "word": "加",
+    "translation": "Plus",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 318,
+    "sourceRank": 318,
+    "word": "枪",
+    "translation": "Gun",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 319,
+    "sourceRank": 319,
+    "word": "万",
+    "translation": "Ten thousand",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 320,
+    "sourceRank": 320,
+    "word": "员",
+    "translation": "Member",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 321,
+    "sourceRank": 321,
+    "word": "妳",
+    "translation": "You",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 322,
+    "sourceRank": 322,
+    "word": "玩",
+    "translation": "Play",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 323,
+    "sourceRank": 323,
+    "word": "分",
+    "translation": "Minute",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 324,
+    "sourceRank": 324,
+    "word": "作",
+    "translation": "Make",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 325,
+    "sourceRank": 325,
+    "word": "巴",
+    "translation": "Pakistan",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 326,
+    "sourceRank": 326,
+    "word": "而且",
+    "translation": "And",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 327,
+    "sourceRank": 327,
+    "word": "物",
+    "translation": "Matter",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 328,
+    "sourceRank": 328,
+    "word": "伤",
+    "translation": "Hurt",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 329,
+    "sourceRank": 329,
+    "word": "官",
+    "translation": "Official",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 330,
+    "sourceRank": 330,
+    "word": "道",
+    "translation": "Road",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 331,
+    "sourceRank": 331,
+    "word": "出去",
+    "translation": "Out",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 332,
+    "sourceRank": 332,
+    "word": "力",
+    "translation": "Force",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 333,
+    "sourceRank": 333,
+    "word": "总",
+    "translation": "Total",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 334,
+    "sourceRank": 334,
+    "word": "者",
+    "translation": "Person",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 335,
+    "sourceRank": 335,
+    "word": "先",
+    "translation": "First",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 336,
+    "sourceRank": 336,
+    "word": "最",
+    "translation": "Most",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 337,
+    "sourceRank": 337,
+    "word": "很多",
+    "translation": "Many",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 338,
+    "sourceRank": 338,
+    "word": "医",
+    "translation": "Treatment",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 339,
+    "sourceRank": 339,
+    "word": "一次",
+    "translation": "Once",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 340,
+    "sourceRank": 340,
+    "word": "报",
+    "translation": "Report",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 341,
+    "sourceRank": 341,
+    "word": "名字",
+    "translation": "Name",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 342,
+    "sourceRank": 342,
+    "word": "将",
+    "translation": "Will",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 343,
+    "sourceRank": 343,
+    "word": "迪",
+    "translation": "Di",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 344,
+    "sourceRank": 344,
+    "word": "到了",
+    "translation": "To",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 345,
+    "sourceRank": 345,
+    "word": "解",
+    "translation": "Solution",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 346,
+    "sourceRank": 346,
+    "word": "新",
+    "translation": "New",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 347,
+    "sourceRank": 347,
+    "word": "队",
+    "translation": "Team",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 348,
+    "sourceRank": 348,
+    "word": "识",
+    "translation": "Knowledge",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 349,
+    "sourceRank": 349,
+    "word": "死了",
+    "translation": "Dead",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 350,
+    "sourceRank": 350,
+    "word": "眼",
+    "translation": "Eye",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 351,
+    "sourceRank": 351,
+    "word": "媽的",
+    "translation": "Damn",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 352,
+    "sourceRank": 352,
+    "word": "第一次",
+    "translation": "First",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 353,
+    "sourceRank": 353,
+    "word": "離開",
+    "translation": "Leave",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 354,
+    "sourceRank": 354,
+    "word": "忘",
+    "translation": "Forget",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 355,
+    "sourceRank": 355,
+    "word": "我自己",
+    "translation": "Myself",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 356,
+    "sourceRank": 356,
+    "word": "谐",
+    "translation": "Harmonious",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 357,
+    "sourceRank": 357,
+    "word": "严",
+    "translation": "Strict",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 358,
+    "sourceRank": 358,
+    "word": "且",
+    "translation": "And",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 359,
+    "sourceRank": 359,
+    "word": "帶",
+    "translation": "Band",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 360,
+    "sourceRank": 360,
+    "word": "赶",
+    "translation": "Rush",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 361,
+    "sourceRank": 361,
+    "word": "太棒",
+    "translation": "Great",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 362,
+    "sourceRank": 362,
+    "word": "佛",
+    "translation": "Buddha",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 363,
+    "sourceRank": 363,
+    "word": "直",
+    "translation": "Straight",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 364,
+    "sourceRank": 364,
+    "word": "認為",
+    "translation": "Think",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 365,
+    "sourceRank": 365,
+    "word": "老婆",
+    "translation": "Wife",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 366,
+    "sourceRank": 366,
+    "word": "索",
+    "translation": "Search",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 367,
+    "sourceRank": 367,
+    "word": "除了",
+    "translation": "In addition to",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 368,
+    "sourceRank": 368,
+    "word": "承",
+    "translation": "By Order of the",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 369,
+    "sourceRank": 369,
+    "word": "泰",
+    "translation": "Thai",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 370,
+    "sourceRank": 370,
+    "word": "建",
+    "translation": "Build",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 371,
+    "sourceRank": 371,
+    "word": "欧",
+    "translation": "Europe",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 372,
+    "sourceRank": 372,
+    "word": "然後",
+    "translation": "Then",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 373,
+    "sourceRank": 373,
+    "word": "级",
+    "translation": "Level",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 374,
+    "sourceRank": 374,
+    "word": "昨晚",
+    "translation": "Last night",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 375,
+    "sourceRank": 375,
+    "word": "石",
+    "translation": "Stone",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 376,
+    "sourceRank": 376,
+    "word": "有了",
+    "translation": "With",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 377,
+    "sourceRank": 377,
+    "word": "都有",
+    "translation": "Have",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 378,
+    "sourceRank": 378,
+    "word": "磲",
+    "translation": "Clams",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 379,
+    "sourceRank": 379,
+    "word": "差",
+    "translation": "Poor",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 380,
+    "sourceRank": 380,
+    "word": "思",
+    "translation": "Think",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 381,
+    "sourceRank": 381,
+    "word": "啥",
+    "translation": "What",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 382,
+    "sourceRank": 382,
+    "word": "過來",
+    "translation": "Come",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 383,
+    "sourceRank": 383,
+    "word": "努力",
+    "translation": "Strive",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 384,
+    "sourceRank": 384,
+    "word": "丈夫",
+    "translation": "Husband",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 385,
+    "sourceRank": 385,
+    "word": "任何人",
+    "translation": "Anyone",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 386,
+    "sourceRank": 386,
+    "word": "城市",
+    "translation": "City",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 387,
+    "sourceRank": 387,
+    "word": "死亡",
+    "translation": "Death",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 388,
+    "sourceRank": 388,
+    "word": "全部",
+    "translation": "Whole",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 389,
+    "sourceRank": 389,
+    "word": "组",
+    "translation": "Group",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 390,
+    "sourceRank": 390,
+    "word": "i",
+    "translation": "i",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 391,
+    "sourceRank": 391,
+    "word": "也許",
+    "translation": "Perhaps",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 392,
+    "sourceRank": 392,
+    "word": "最近",
+    "translation": "Recently",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 393,
+    "sourceRank": 393,
+    "word": "倒",
+    "translation": "Inverted",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 394,
+    "sourceRank": 394,
+    "word": "领",
+    "translation": "Collar",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 395,
+    "sourceRank": 395,
+    "word": "顾",
+    "translation": "Gu",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 396,
+    "sourceRank": 396,
+    "word": "市",
+    "translation": "City",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 397,
+    "sourceRank": 397,
+    "word": "六",
+    "translation": "Six",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 398,
+    "sourceRank": 398,
+    "word": "行了",
+    "translation": "The line",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 399,
+    "sourceRank": 399,
+    "word": "滚",
+    "translation": "Roll",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 400,
+    "sourceRank": 400,
+    "word": "好嗎",
+    "translation": "Okay",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 401,
+    "sourceRank": 401,
+    "word": "师",
+    "translation": "Division",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 402,
+    "sourceRank": 402,
+    "word": "高",
+    "translation": "High",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 403,
+    "sourceRank": 403,
+    "word": "莉",
+    "translation": "Li",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 404,
+    "sourceRank": 404,
+    "word": "坏",
+    "translation": "Bad",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 405,
+    "sourceRank": 405,
+    "word": "电",
+    "translation": "Electricity",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 406,
+    "sourceRank": 406,
+    "word": "警察",
+    "translation": "Police",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 407,
+    "sourceRank": 407,
+    "word": "件",
+    "translation": "Item",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 408,
+    "sourceRank": 408,
+    "word": "誰",
+    "translation": "Who",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 409,
+    "sourceRank": 409,
+    "word": "兄弟",
+    "translation": "Brothers",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 410,
+    "sourceRank": 410,
+    "word": "之前",
+    "translation": "Before",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 411,
+    "sourceRank": 411,
+    "word": "谈",
+    "translation": "Talk",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 412,
+    "sourceRank": 412,
+    "word": "送",
+    "translation": "Send",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 413,
+    "sourceRank": 413,
+    "word": "森",
+    "translation": "Forest",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 414,
+    "sourceRank": 414,
+    "word": "伊",
+    "translation": "He",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 415,
+    "sourceRank": 415,
+    "word": "以前",
+    "translation": "Previous",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 416,
+    "sourceRank": 416,
+    "word": "房",
+    "translation": "Room",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 417,
+    "sourceRank": 417,
+    "word": "婚",
+    "translation": "Marriage",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 418,
+    "sourceRank": 418,
+    "word": "喝",
+    "translation": "Drink",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 419,
+    "sourceRank": 419,
+    "word": "怎麼",
+    "translation": "How",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 420,
+    "sourceRank": 420,
+    "word": "今晚",
+    "translation": "Tonight",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 421,
+    "sourceRank": 421,
+    "word": "兴",
+    "translation": "Interest",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 422,
+    "sourceRank": 422,
+    "word": "疯",
+    "translation": "Crazy",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 423,
+    "sourceRank": 423,
+    "word": "因為",
+    "translation": "Because",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 424,
+    "sourceRank": 424,
+    "word": "住",
+    "translation": "Live",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 425,
+    "sourceRank": 425,
+    "word": "内",
+    "translation": "Within",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 426,
+    "sourceRank": 426,
+    "word": "轻",
+    "translation": "Light",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 427,
+    "sourceRank": 427,
+    "word": "约",
+    "translation": "Approximately",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 428,
+    "sourceRank": 428,
+    "word": "声",
+    "translation": "Sound",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 429,
+    "sourceRank": 429,
+    "word": "或者",
+    "translation": "Or",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 430,
+    "sourceRank": 430,
+    "word": "不行",
+    "translation": "Not work",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 431,
+    "sourceRank": 431,
+    "word": "到底",
+    "translation": "In the end",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 432,
+    "sourceRank": 432,
+    "word": "雷",
+    "translation": "Mine",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 433,
+    "sourceRank": 433,
+    "word": "维",
+    "translation": "Dimension",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 434,
+    "sourceRank": 434,
+    "word": "条",
+    "translation": "Article",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 435,
+    "sourceRank": 435,
+    "word": "明天",
+    "translation": "Tomorrow",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 436,
+    "sourceRank": 436,
+    "word": "不好",
+    "translation": "Bad",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 437,
+    "sourceRank": 437,
+    "word": "已經",
+    "translation": "Already",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 438,
+    "sourceRank": 438,
+    "word": "天啊",
+    "translation": "God",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 439,
+    "sourceRank": 439,
+    "word": "洛",
+    "translation": "Rockwell",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 440,
+    "sourceRank": 440,
+    "word": "护",
+    "translation": "Protect",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 441,
+    "sourceRank": 441,
+    "word": "塔",
+    "translation": "Tower",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 442,
+    "sourceRank": 442,
+    "word": "运",
+    "translation": "Transport",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 443,
+    "sourceRank": 443,
+    "word": "接",
+    "translation": "Meet",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 444,
+    "sourceRank": 444,
+    "word": "球",
+    "translation": "Ball",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 445,
+    "sourceRank": 445,
+    "word": "得到",
+    "translation": "Get",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 446,
+    "sourceRank": 446,
+    "word": "穿",
+    "translation": "Wear",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 447,
+    "sourceRank": 447,
+    "word": "音",
+    "translation": "Sound",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 448,
+    "sourceRank": 448,
+    "word": "從",
+    "translation": "From",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 449,
+    "sourceRank": 449,
+    "word": "為",
+    "translation": "For",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 450,
+    "sourceRank": 450,
+    "word": "生",
+    "translation": "Raw",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 451,
+    "sourceRank": 451,
+    "word": "回",
+    "translation": "Return",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 452,
+    "sourceRank": 452,
+    "word": "可",
+    "translation": "Can",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 453,
+    "sourceRank": 453,
+    "word": "东",
+    "translation": "East",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 454,
+    "sourceRank": 454,
+    "word": "尔",
+    "translation": "Seoul",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 455,
+    "sourceRank": 455,
+    "word": "欢",
+    "translation": "Happy",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 456,
+    "sourceRank": 456,
+    "word": "很好",
+    "translation": "Well",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 457,
+    "sourceRank": 457,
+    "word": "他們",
+    "translation": "They",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 458,
+    "sourceRank": 458,
+    "word": "进",
+    "translation": "Enter",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 459,
+    "sourceRank": 459,
+    "word": "地",
+    "translation": "Ground",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 460,
+    "sourceRank": 460,
+    "word": "孩子",
+    "translation": "Children",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 461,
+    "sourceRank": 461,
+    "word": "帮",
+    "translation": "Help",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 462,
+    "sourceRank": 462,
+    "word": "离",
+    "translation": "From",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 463,
+    "sourceRank": 463,
+    "word": "找",
+    "translation": "Look for",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 464,
+    "sourceRank": 464,
+    "word": "尼",
+    "translation": "Nigeria",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 465,
+    "sourceRank": 465,
+    "word": "从",
+    "translation": "From",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 466,
+    "sourceRank": 466,
+    "word": "下",
+    "translation": "Under",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 467,
+    "sourceRank": 467,
+    "word": "马",
+    "translation": "Horse",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 468,
+    "sourceRank": 468,
+    "word": "以",
+    "translation": "With",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 469,
+    "sourceRank": 469,
+    "word": "利",
+    "translation": "Profit",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 470,
+    "sourceRank": 470,
+    "word": "所以",
+    "translation": "So",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 471,
+    "sourceRank": 471,
+    "word": "关",
+    "translation": "Close",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 472,
+    "sourceRank": 472,
+    "word": "哪",
+    "translation": "Which",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 473,
+    "sourceRank": 473,
+    "word": "懈",
+    "translation": "Negligent",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 474,
+    "sourceRank": 474,
+    "word": "行",
+    "translation": "Row",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 475,
+    "sourceRank": 475,
+    "word": "家",
+    "translation": "Home",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 476,
+    "sourceRank": 476,
+    "word": "拉",
+    "translation": "Pull",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 477,
+    "sourceRank": 477,
+    "word": "才",
+    "translation": "Only",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 478,
+    "sourceRank": 478,
+    "word": "看到",
+    "translation": "See",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 479,
+    "sourceRank": 479,
+    "word": "說",
+    "translation": "Say",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 480,
+    "sourceRank": 480,
+    "word": "手",
+    "translation": "Hand",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 481,
+    "sourceRank": 481,
+    "word": "法",
+    "translation": "Law",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 482,
+    "sourceRank": 482,
+    "word": "噢",
+    "translation": "Oh",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 483,
+    "sourceRank": 483,
+    "word": "谁",
+    "translation": "Who",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 484,
+    "sourceRank": 484,
+    "word": "头",
+    "translation": "Head",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 485,
+    "sourceRank": 485,
+    "word": "无",
+    "translation": "No",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 486,
+    "sourceRank": 486,
+    "word": "嗯",
+    "translation": "Ah",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 487,
+    "sourceRank": 487,
+    "word": "工作",
+    "translation": "Work",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 488,
+    "sourceRank": 488,
+    "word": "可能",
+    "translation": "May",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 489,
+    "sourceRank": 489,
+    "word": "薪",
+    "translation": "Salary",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 490,
+    "sourceRank": 490,
+    "word": "朋友",
+    "translation": "Friend",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 491,
+    "sourceRank": 491,
+    "word": "请",
+    "translation": "Please",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 492,
+    "sourceRank": 492,
+    "word": "许",
+    "translation": "Promise",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 493,
+    "sourceRank": 493,
+    "word": "年",
+    "translation": "Years",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 494,
+    "sourceRank": 494,
+    "word": "那些",
+    "translation": "Those",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 495,
+    "sourceRank": 495,
+    "word": "一個",
+    "translation": "A",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 496,
+    "sourceRank": 496,
+    "word": "一起",
+    "translation": "Together",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 497,
+    "sourceRank": 497,
+    "word": "然",
+    "translation": "However",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 498,
+    "sourceRank": 498,
+    "word": "吃",
+    "translation": "Eat",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 499,
+    "sourceRank": 499,
+    "word": "写",
+    "translation": "Write",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 500,
+    "sourceRank": 500,
+    "word": "带",
+    "translation": "Band",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 501,
+    "sourceRank": 501,
+    "word": "我喜",
+    "translation": "I am pleased to",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 502,
+    "sourceRank": 502,
+    "word": "弗",
+    "translation": "Eph.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 503,
+    "sourceRank": 503,
+    "word": "尽",
+    "translation": "Exhausted",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 504,
+    "sourceRank": 504,
+    "word": "耶",
+    "translation": "Yeah",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 505,
+    "sourceRank": 505,
+    "word": "喔",
+    "translation": "Oh",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 506,
+    "sourceRank": 506,
+    "word": "褍",
+    "translation": "Tuan",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 507,
+    "sourceRank": 507,
+    "word": "掉",
+    "translation": "Fall",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 508,
+    "sourceRank": 508,
+    "word": "书",
+    "translation": "Book",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 509,
+    "sourceRank": 509,
+    "word": "其他",
+    "translation": "Other",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 510,
+    "sourceRank": 510,
+    "word": "派",
+    "translation": "Send",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 511,
+    "sourceRank": 511,
+    "word": "士",
+    "translation": "Scholar",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 512,
+    "sourceRank": 512,
+    "word": "器",
+    "translation": "Implement",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 513,
+    "sourceRank": 513,
+    "word": "松",
+    "translation": "Loose",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 514,
+    "sourceRank": 514,
+    "word": "数",
+    "translation": "Number",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 515,
+    "sourceRank": 515,
+    "word": "光",
+    "translation": "Light",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 516,
+    "sourceRank": 516,
+    "word": "其",
+    "translation": "Its",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 517,
+    "sourceRank": 517,
+    "word": "想我",
+    "translation": "Think I",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 518,
+    "sourceRank": 518,
+    "word": "极",
+    "translation": "Pole",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 519,
+    "sourceRank": 519,
+    "word": "合",
+    "translation": "Close",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 520,
+    "sourceRank": 520,
+    "word": "完全",
+    "translation": "Entirely",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 521,
+    "sourceRank": 521,
+    "word": "做了",
+    "translation": "Done",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 522,
+    "sourceRank": 522,
+    "word": "影",
+    "translation": "Shadow",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 523,
+    "sourceRank": 523,
+    "word": "室",
+    "translation": "Room",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 524,
+    "sourceRank": 524,
+    "word": "受",
+    "translation": "Be subject",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 525,
+    "sourceRank": 525,
+    "word": "奇",
+    "translation": "Odd",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 526,
+    "sourceRank": 526,
+    "word": "试",
+    "translation": "Test",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 527,
+    "sourceRank": 527,
+    "word": "装",
+    "translation": "Dress",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 528,
+    "sourceRank": 528,
+    "word": "晚上",
+    "translation": "At night",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 529,
+    "sourceRank": 529,
+    "word": "恶",
+    "translation": "Evil",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 530,
+    "sourceRank": 530,
+    "word": "应",
+    "translation": "Should",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 531,
+    "sourceRank": 531,
+    "word": "小姐",
+    "translation": "Miss",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 532,
+    "sourceRank": 532,
+    "word": "整",
+    "translation": "Whole",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 533,
+    "sourceRank": 533,
+    "word": "强",
+    "translation": "Strength",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 534,
+    "sourceRank": 534,
+    "word": "业",
+    "translation": "Industry",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 535,
+    "sourceRank": 535,
+    "word": "类",
+    "translation": "Class",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 536,
+    "sourceRank": 536,
+    "word": "复",
+    "translation": "Complex",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 537,
+    "sourceRank": 537,
+    "word": "奥",
+    "translation": "Austrian",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 538,
+    "sourceRank": 538,
+    "word": "梦",
+    "translation": "Dream",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 539,
+    "sourceRank": 539,
+    "word": "曾",
+    "translation": "Once",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 540,
+    "sourceRank": 540,
+    "word": "嘴",
+    "translation": "Mouth",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 541,
+    "sourceRank": 541,
+    "word": "认",
+    "translation": "Recognize",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 542,
+    "sourceRank": 542,
+    "word": "如此",
+    "translation": "So",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 543,
+    "sourceRank": 543,
+    "word": "爸",
+    "translation": "Dad",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 544,
+    "sourceRank": 544,
+    "word": "照",
+    "translation": "Photo",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 545,
+    "sourceRank": 545,
+    "word": "杰",
+    "translation": "Outstanding",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 546,
+    "sourceRank": 546,
+    "word": "為什麼",
+    "translation": "Why",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 547,
+    "sourceRank": 547,
+    "word": "入",
+    "translation": "Enter",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 548,
+    "sourceRank": 548,
+    "word": "睡",
+    "translation": "Sleep",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 549,
+    "sourceRank": 549,
+    "word": "都不",
+    "translation": "Not",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 550,
+    "sourceRank": 550,
+    "word": "服",
+    "translation": "Clothes",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 551,
+    "sourceRank": 551,
+    "word": "节",
+    "translation": "Festival",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 552,
+    "sourceRank": 552,
+    "word": "顿",
+    "translation": "Dayton",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 553,
+    "sourceRank": 553,
+    "word": "了解",
+    "translation": "Understand",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 554,
+    "sourceRank": 554,
+    "word": "根",
+    "translation": "Root",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 555,
+    "sourceRank": 555,
+    "word": "蛋",
+    "translation": "Egg",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 556,
+    "sourceRank": 556,
+    "word": "紧",
+    "translation": "Tight",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 557,
+    "sourceRank": 557,
+    "word": "麻",
+    "translation": "Hemp",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 558,
+    "sourceRank": 558,
+    "word": "很快",
+    "translation": "Quickly",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 559,
+    "sourceRank": 559,
+    "word": "游",
+    "translation": "Tour",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 560,
+    "sourceRank": 560,
+    "word": "忘了",
+    "translation": "Forget",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 561,
+    "sourceRank": 561,
+    "word": "戴",
+    "translation": "Wear",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 562,
+    "sourceRank": 562,
+    "word": "莎",
+    "translation": "Shakespeare",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 563,
+    "sourceRank": 563,
+    "word": "故事",
+    "translation": "Story",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 564,
+    "sourceRank": 564,
+    "word": "视",
+    "translation": "Regard",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 565,
+    "sourceRank": 565,
+    "word": "真正",
+    "translation": "Real",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 566,
+    "sourceRank": 566,
+    "word": "蟹",
+    "translation": "Crab",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 567,
+    "sourceRank": 567,
+    "word": "费",
+    "translation": "Fee",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 568,
+    "sourceRank": 568,
+    "word": "靠",
+    "translation": "By",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 569,
+    "sourceRank": 569,
+    "word": "全",
+    "translation": "Whole",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 570,
+    "sourceRank": 570,
+    "word": "反",
+    "translation": "Anti-",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 571,
+    "sourceRank": 571,
+    "word": "字",
+    "translation": "Word",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 572,
+    "sourceRank": 572,
+    "word": "度",
+    "translation": "Degree",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 573,
+    "sourceRank": 573,
+    "word": "甚至",
+    "translation": "Even",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 574,
+    "sourceRank": 574,
+    "word": "局",
+    "translation": "Bureau",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 575,
+    "sourceRank": 575,
+    "word": "莫",
+    "translation": "Mo",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 576,
+    "sourceRank": 576,
+    "word": "命",
+    "translation": "Life",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 577,
+    "sourceRank": 577,
+    "word": "语",
+    "translation": "Language",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 578,
+    "sourceRank": 578,
+    "word": "性",
+    "translation": "Sex",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 579,
+    "sourceRank": 579,
+    "word": "常",
+    "translation": "Often",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 580,
+    "sourceRank": 580,
+    "word": "莱",
+    "translation": "Levin",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 581,
+    "sourceRank": 581,
+    "word": "之后",
+    "translation": "After",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 582,
+    "sourceRank": 582,
+    "word": "可不",
+    "translation": "From time to",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 583,
+    "sourceRank": 583,
+    "word": "母",
+    "translation": "Mother",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 584,
+    "sourceRank": 584,
+    "word": "留下",
+    "translation": "Stay",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 585,
+    "sourceRank": 585,
+    "word": "外",
+    "translation": "Outside",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 586,
+    "sourceRank": 586,
+    "word": "當",
+    "translation": "When the",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 587,
+    "sourceRank": 587,
+    "word": "此",
+    "translation": "This",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 588,
+    "sourceRank": 588,
+    "word": "惊",
+    "translation": "Shock",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 589,
+    "sourceRank": 589,
+    "word": "伯",
+    "translation": "Bo",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 590,
+    "sourceRank": 590,
+    "word": "口",
+    "translation": "Mouth",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 591,
+    "sourceRank": 591,
+    "word": "喜歡",
+    "translation": "Like",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 592,
+    "sourceRank": 592,
+    "word": "the",
+    "translation": "the",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 593,
+    "sourceRank": 593,
+    "word": "在做",
+    "translation": "Doing",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 594,
+    "sourceRank": 594,
+    "word": "那麼",
+    "translation": "Then",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 595,
+    "sourceRank": 595,
+    "word": "請",
+    "translation": "Please",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 596,
+    "sourceRank": 596,
+    "word": "五",
+    "translation": "Five",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 597,
+    "sourceRank": 597,
+    "word": "标",
+    "translation": "Mark",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 598,
+    "sourceRank": 598,
+    "word": "画",
+    "translation": "Painting",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 599,
+    "sourceRank": 599,
+    "word": "身上",
+    "translation": "Body",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 600,
+    "sourceRank": 600,
+    "word": "以后",
+    "translation": "After",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 601,
+    "sourceRank": 601,
+    "word": "主",
+    "translation": "Main",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 602,
+    "sourceRank": 602,
+    "word": "謝謝",
+    "translation": "Thank you",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 603,
+    "sourceRank": 603,
+    "word": "應該",
+    "translation": "Should",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 604,
+    "sourceRank": 604,
+    "word": "静",
+    "translation": "Quiet",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 605,
+    "sourceRank": 605,
+    "word": "弹",
+    "translation": "Bomb",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 606,
+    "sourceRank": 606,
+    "word": "改",
+    "translation": "Change",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 607,
+    "sourceRank": 607,
+    "word": "酒",
+    "translation": "Wine",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 608,
+    "sourceRank": 608,
+    "word": "伦",
+    "translation": "Lun",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 609,
+    "sourceRank": 609,
+    "word": "裏",
+    "translation": "In",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 610,
+    "sourceRank": 610,
+    "word": "花",
+    "translation": "Flower",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 611,
+    "sourceRank": 611,
+    "word": "续",
+    "translation": "Continue",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 612,
+    "sourceRank": 612,
+    "word": "天哪",
+    "translation": "Gosh",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 613,
+    "sourceRank": 613,
+    "word": "這裡",
+    "translation": "Here",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 614,
+    "sourceRank": 614,
+    "word": "房子",
+    "translation": "House",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 615,
+    "sourceRank": 615,
+    "word": "何",
+    "translation": "What",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 616,
+    "sourceRank": 616,
+    "word": "由",
+    "translation": "By",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 617,
+    "sourceRank": 617,
+    "word": "药",
+    "translation": "Drug",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 618,
+    "sourceRank": 618,
+    "word": "同",
+    "translation": "With",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 619,
+    "sourceRank": 619,
+    "word": "早上",
+    "translation": "Morning",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 620,
+    "sourceRank": 620,
+    "word": "波",
+    "translation": "Wave",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 621,
+    "sourceRank": 621,
+    "word": "弄",
+    "translation": "Get",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 622,
+    "sourceRank": 622,
+    "word": "务",
+    "translation": "Business",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 623,
+    "sourceRank": 623,
+    "word": "原",
+    "translation": "Original",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 624,
+    "sourceRank": 624,
+    "word": "失",
+    "translation": "Lose",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 625,
+    "sourceRank": 625,
+    "word": "考",
+    "translation": "Test",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 626,
+    "sourceRank": 626,
+    "word": "岁",
+    "translation": "Years",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 627,
+    "sourceRank": 627,
+    "word": "统",
+    "translation": "Collectively",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 628,
+    "sourceRank": 628,
+    "word": "斜",
+    "translation": "Oblique",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 629,
+    "sourceRank": 629,
+    "word": "拜托",
+    "translation": "Please",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 630,
+    "sourceRank": 630,
+    "word": "跑",
+    "translation": "Run",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 631,
+    "sourceRank": 631,
+    "word": "不在",
+    "translation": "Absence",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 632,
+    "sourceRank": 632,
+    "word": "害",
+    "translation": "Harm",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 633,
+    "sourceRank": 633,
+    "word": "麽",
+    "translation": "What",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 634,
+    "sourceRank": 634,
+    "word": "日",
+    "translation": "Day",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 635,
+    "sourceRank": 635,
+    "word": "妮",
+    "translation": "Ni",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 636,
+    "sourceRank": 636,
+    "word": "凯",
+    "translation": "Triumphant",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 637,
+    "sourceRank": 637,
+    "word": "衣服",
+    "translation": "Clothes",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 638,
+    "sourceRank": 638,
+    "word": "治",
+    "translation": "Rule",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 639,
+    "sourceRank": 639,
+    "word": "便",
+    "translation": "Then",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 640,
+    "sourceRank": 640,
+    "word": "客",
+    "translation": "Passenger",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 641,
+    "sourceRank": 641,
+    "word": "议",
+    "translation": "Discuss",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 642,
+    "sourceRank": 642,
+    "word": "好好",
+    "translation": "Good",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 643,
+    "sourceRank": 643,
+    "word": "們",
+    "translation": "They",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 644,
+    "sourceRank": 644,
+    "word": "覺得",
+    "translation": "Feel",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 645,
+    "sourceRank": 645,
+    "word": "谢谢",
+    "translation": "Thank you",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 646,
+    "sourceRank": 646,
+    "word": "托",
+    "translation": "Entrust",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 647,
+    "sourceRank": 647,
+    "word": "赛",
+    "translation": "Game",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 648,
+    "sourceRank": 648,
+    "word": "任",
+    "translation": "Office",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 649,
+    "sourceRank": 649,
+    "word": "色",
+    "translation": "Color",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 650,
+    "sourceRank": 650,
+    "word": "独",
+    "translation": "Independent",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 651,
+    "sourceRank": 651,
+    "word": "眼睛",
+    "translation": "Eye",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 652,
+    "sourceRank": 652,
+    "word": "黑",
+    "translation": "Black",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 653,
+    "sourceRank": 653,
+    "word": "华",
+    "translation": "China",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 654,
+    "sourceRank": 654,
+    "word": "放在",
+    "translation": "On the",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 655,
+    "sourceRank": 655,
+    "word": "城",
+    "translation": "City",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 656,
+    "sourceRank": 656,
+    "word": "的時候",
+    "translation": "When",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 657,
+    "sourceRank": 657,
+    "word": "站",
+    "translation": "Station",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 658,
+    "sourceRank": 658,
+    "word": "小孩",
+    "translation": "Child",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 659,
+    "sourceRank": 659,
+    "word": "住在",
+    "translation": "Lives in",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 660,
+    "sourceRank": 660,
+    "word": "咖啡",
+    "translation": "Coffee",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 661,
+    "sourceRank": 661,
+    "word": "换",
+    "translation": "Change",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 662,
+    "sourceRank": 662,
+    "word": "才是",
+    "translation": "Is",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 663,
+    "sourceRank": 663,
+    "word": "褕",
+    "translation": "Yu",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 664,
+    "sourceRank": 664,
+    "word": "周",
+    "translation": "Week",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 665,
+    "sourceRank": 665,
+    "word": "控制",
+    "translation": "Control",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 666,
+    "sourceRank": 666,
+    "word": "言",
+    "translation": "Speech",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 667,
+    "sourceRank": 667,
+    "word": "敢",
+    "translation": "Dare",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 668,
+    "sourceRank": 668,
+    "word": "赢",
+    "translation": "Win",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 669,
+    "sourceRank": 669,
+    "word": "半",
+    "translation": "Half",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 670,
+    "sourceRank": 670,
+    "word": "白",
+    "translation": "White",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 671,
+    "sourceRank": 671,
+    "word": "释",
+    "translation": "Release",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 672,
+    "sourceRank": 672,
+    "word": "能不能",
+    "translation": "Can",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 673,
+    "sourceRank": 673,
+    "word": "生了",
+    "translation": "Health",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 674,
+    "sourceRank": 674,
+    "word": "而已",
+    "translation": "Nothing more",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 675,
+    "sourceRank": 675,
+    "word": "图",
+    "translation": "Map",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 676,
+    "sourceRank": 676,
+    "word": "該",
+    "translation": "That",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 677,
+    "sourceRank": 677,
+    "word": "怪",
+    "translation": "Strange",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 678,
+    "sourceRank": 678,
+    "word": "字幕",
+    "translation": "Subtitle",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 679,
+    "sourceRank": 679,
+    "word": "對不起",
+    "translation": "I am sorry",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 680,
+    "sourceRank": 680,
+    "word": "去看",
+    "translation": "To see",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 681,
+    "sourceRank": 681,
+    "word": "像是",
+    "translation": "Like",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 682,
+    "sourceRank": 682,
+    "word": "保持",
+    "translation": "Keeping",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 683,
+    "sourceRank": 683,
+    "word": "替",
+    "translation": "For",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 684,
+    "sourceRank": 684,
+    "word": "拜",
+    "translation": "Worship",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 685,
+    "sourceRank": 685,
+    "word": "一件",
+    "translation": "A",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 686,
+    "sourceRank": 686,
+    "word": "錢",
+    "translation": "Money",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 687,
+    "sourceRank": 687,
+    "word": "想知道",
+    "translation": "Want to know",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 688,
+    "sourceRank": 688,
+    "word": "時",
+    "translation": "Time",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 689,
+    "sourceRank": 689,
+    "word": "讲",
+    "translation": "Speak",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 690,
+    "sourceRank": 690,
+    "word": "新的",
+    "translation": "New",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 691,
+    "sourceRank": 691,
+    "word": "希",
+    "translation": "Hope",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 692,
+    "sourceRank": 692,
+    "word": "炸",
+    "translation": "Fry",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 693,
+    "sourceRank": 693,
+    "word": "择",
+    "translation": "Choose",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 694,
+    "sourceRank": 694,
+    "word": "知",
+    "translation": "Know",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 695,
+    "sourceRank": 695,
+    "word": "說的",
+    "translation": "Said",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 696,
+    "sourceRank": 696,
+    "word": "码",
+    "translation": "Code",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 697,
+    "sourceRank": 697,
+    "word": "戏",
+    "translation": "Play",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 698,
+    "sourceRank": 698,
+    "word": "塞",
+    "translation": "Stopper",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 699,
+    "sourceRank": 699,
+    "word": "碰",
+    "translation": "Touch",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 700,
+    "sourceRank": 700,
+    "word": "放下",
+    "translation": "Put down",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 701,
+    "sourceRank": 701,
+    "word": "一樣",
+    "translation": "Equally",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 702,
+    "sourceRank": 702,
+    "word": "害怕",
+    "translation": "Be afraid",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 703,
+    "sourceRank": 703,
+    "word": "杰克",
+    "translation": "Jack",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 704,
+    "sourceRank": 704,
+    "word": "迎",
+    "translation": "Welcome",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 705,
+    "sourceRank": 705,
+    "word": "绝",
+    "translation": "Absolutely",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 706,
+    "sourceRank": 706,
+    "word": "開始",
+    "translation": "Start",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 707,
+    "sourceRank": 707,
+    "word": "生命",
+    "translation": "Life",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 708,
+    "sourceRank": 708,
+    "word": "王",
+    "translation": "King",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 709,
+    "sourceRank": 709,
+    "word": "助",
+    "translation": "Help",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 710,
+    "sourceRank": 710,
+    "word": "乔",
+    "translation": "Joe",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 711,
+    "sourceRank": 711,
+    "word": "义",
+    "translation": "Justice",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 712,
+    "sourceRank": 712,
+    "word": "回到",
+    "translation": "Back to",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 713,
+    "sourceRank": 713,
+    "word": "救",
+    "translation": "Save",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 714,
+    "sourceRank": 714,
+    "word": "清楚",
+    "translation": "Clear",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 715,
+    "sourceRank": 715,
+    "word": "冷",
+    "translation": "Cold",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 716,
+    "sourceRank": 716,
+    "word": "原因",
+    "translation": "Reason",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 717,
+    "sourceRank": 717,
+    "word": "却",
+    "translation": "But",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 718,
+    "sourceRank": 718,
+    "word": "付",
+    "translation": "Pay",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 719,
+    "sourceRank": 719,
+    "word": "管",
+    "translation": "Tube",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 720,
+    "sourceRank": 720,
+    "word": "狂",
+    "translation": "Mad",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 721,
+    "sourceRank": 721,
+    "word": "早",
+    "translation": "Early",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 722,
+    "sourceRank": 722,
+    "word": "一天",
+    "translation": "One day",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 723,
+    "sourceRank": 723,
+    "word": "超",
+    "translation": "Exceed",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 724,
+    "sourceRank": 724,
+    "word": "怀",
+    "translation": "Bosom",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 725,
+    "sourceRank": 725,
+    "word": "使",
+    "translation": "Make",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 726,
+    "sourceRank": 726,
+    "word": "断",
+    "translation": "Break",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 727,
+    "sourceRank": 727,
+    "word": "演",
+    "translation": "Play",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 728,
+    "sourceRank": 728,
+    "word": "外面",
+    "translation": "Outside",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 729,
+    "sourceRank": 729,
+    "word": "四",
+    "translation": "Four",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 730,
+    "sourceRank": 730,
+    "word": "楼",
+    "translation": "Floor",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 731,
+    "sourceRank": 731,
+    "word": "另一",
+    "translation": "Another",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 732,
+    "sourceRank": 732,
+    "word": "玩笑",
+    "translation": "Joke",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 733,
+    "sourceRank": 733,
+    "word": "好啊",
+    "translation": "Well",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 734,
+    "sourceRank": 734,
+    "word": "裡",
+    "translation": "In",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 735,
+    "sourceRank": 735,
+    "word": "院",
+    "translation": "Hospital",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 736,
+    "sourceRank": 736,
+    "word": "空",
+    "translation": "Air",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 737,
+    "sourceRank": 737,
+    "word": "娜",
+    "translation": "Na",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 738,
+    "sourceRank": 738,
+    "word": "將",
+    "translation": "Will",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 739,
+    "sourceRank": 739,
+    "word": "下去",
+    "translation": "Go on",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 740,
+    "sourceRank": 740,
+    "word": "传",
+    "translation": "Pass",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 741,
+    "sourceRank": 741,
+    "word": "時間",
+    "translation": "Time",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 742,
+    "sourceRank": 742,
+    "word": "感到",
+    "translation": "Feel",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 743,
+    "sourceRank": 743,
+    "word": "懂",
+    "translation": "Understand",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 744,
+    "sourceRank": 744,
+    "word": "血",
+    "translation": "Blood",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 745,
+    "sourceRank": 745,
+    "word": "失去",
+    "translation": "Lose",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 746,
+    "sourceRank": 746,
+    "word": "终",
+    "translation": "End",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 747,
+    "sourceRank": 747,
+    "word": "還是",
+    "translation": "Or",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 748,
+    "sourceRank": 748,
+    "word": "价",
+    "translation": "Price",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 749,
+    "sourceRank": 749,
+    "word": "包",
+    "translation": "Package",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 750,
+    "sourceRank": 750,
+    "word": "等",
+    "translation": "Wait",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 751,
+    "sourceRank": 751,
+    "word": "变",
+    "translation": "Change",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 752,
+    "sourceRank": 752,
+    "word": "准",
+    "translation": "Quasi-",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 753,
+    "sourceRank": 753,
+    "word": "查",
+    "translation": "Check",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 754,
+    "sourceRank": 754,
+    "word": "阿",
+    "translation": "A",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 755,
+    "sourceRank": 755,
+    "word": "卡",
+    "translation": "Card",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 756,
+    "sourceRank": 756,
+    "word": "這個",
+    "translation": "This",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 757,
+    "sourceRank": 757,
+    "word": "在哪",
+    "translation": "Where",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 758,
+    "sourceRank": 758,
+    "word": "定",
+    "translation": "Fixed",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 759,
+    "sourceRank": 759,
+    "word": "处",
+    "translation": "Place",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 760,
+    "sourceRank": 760,
+    "word": "真是",
+    "translation": "Really",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 761,
+    "sourceRank": 761,
+    "word": "保",
+    "translation": "Insurance",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 762,
+    "sourceRank": 762,
+    "word": "想要",
+    "translation": "Want",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 763,
+    "sourceRank": 763,
+    "word": "安",
+    "translation": "Safe",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 764,
+    "sourceRank": 764,
+    "word": "并",
+    "translation": "And",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 765,
+    "sourceRank": 765,
+    "word": "拿",
+    "translation": "Take",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 766,
+    "sourceRank": 766,
+    "word": "情",
+    "translation": "Love",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 767,
+    "sourceRank": 767,
+    "word": "爸爸",
+    "translation": "Father",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 768,
+    "sourceRank": 768,
+    "word": "褋",
+    "translation": "Die",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 769,
+    "sourceRank": 769,
+    "word": "您",
+    "translation": "You",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 770,
+    "sourceRank": 770,
+    "word": "美",
+    "translation": "U.S.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 771,
+    "sourceRank": 771,
+    "word": "非常",
+    "translation": "Very",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 772,
+    "sourceRank": 772,
+    "word": "办",
+    "translation": "Do",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 773,
+    "sourceRank": 773,
+    "word": "前",
+    "translation": "Ago",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 774,
+    "sourceRank": 774,
+    "word": "格",
+    "translation": "Grid",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 775,
+    "sourceRank": 775,
+    "word": "场",
+    "translation": "Field",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 776,
+    "sourceRank": 776,
+    "word": "体",
+    "translation": "Body",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 777,
+    "sourceRank": 777,
+    "word": "大家",
+    "translation": "Everyone",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 778,
+    "sourceRank": 778,
+    "word": "呀",
+    "translation": "Yeah",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 779,
+    "sourceRank": 779,
+    "word": "系",
+    "translation": "System",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 780,
+    "sourceRank": 780,
+    "word": "后",
+    "translation": "After",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 781,
+    "sourceRank": 781,
+    "word": "亲",
+    "translation": "Parent",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 782,
+    "sourceRank": 782,
+    "word": "明白",
+    "translation": "Understand",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 783,
+    "sourceRank": 783,
+    "word": "备",
+    "translation": "Equipment",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 784,
+    "sourceRank": 784,
+    "word": "布",
+    "translation": "Cloth",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 785,
+    "sourceRank": 785,
+    "word": "计",
+    "translation": "Meter",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 786,
+    "sourceRank": 786,
+    "word": "恩",
+    "translation": "Grace",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 787,
+    "sourceRank": 787,
+    "word": "找到",
+    "translation": "Find",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 788,
+    "sourceRank": 788,
+    "word": "她的",
+    "translation": "Her",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 789,
+    "sourceRank": 789,
+    "word": "老",
+    "translation": "Old",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 790,
+    "sourceRank": 790,
+    "word": "艾",
+    "translation": "Ai",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 791,
+    "sourceRank": 791,
+    "word": "意",
+    "translation": "Meaning",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 792,
+    "sourceRank": 792,
+    "word": "门",
+    "translation": "Door",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 793,
+    "sourceRank": 793,
+    "word": "啦",
+    "translation": "La",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 794,
+    "sourceRank": 794,
+    "word": "米",
+    "translation": "Meter",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 795,
+    "sourceRank": 795,
+    "word": "本",
+    "translation": "This",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 796,
+    "sourceRank": 796,
+    "word": "问",
+    "translation": "Ask",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 797,
+    "sourceRank": 797,
+    "word": "上帝",
+    "translation": "God",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 798,
+    "sourceRank": 798,
+    "word": "必",
+    "translation": "Must",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 799,
+    "sourceRank": 799,
+    "word": "沒",
+    "translation": "Not",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 800,
+    "sourceRank": 800,
+    "word": "等等",
+    "translation": "Etc.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 801,
+    "sourceRank": 801,
+    "word": "不過",
+    "translation": "But",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 802,
+    "sourceRank": 802,
+    "word": "猜",
+    "translation": "Guess",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 803,
+    "sourceRank": 803,
+    "word": "福",
+    "translation": "Blessing",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 804,
+    "sourceRank": 804,
+    "word": "打算",
+    "translation": "Plan",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 805,
+    "sourceRank": 805,
+    "word": "适",
+    "translation": "Suitable",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 806,
+    "sourceRank": 806,
+    "word": "危",
+    "translation": "Danger",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 807,
+    "sourceRank": 807,
+    "word": "连",
+    "translation": "Even",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 808,
+    "sourceRank": 808,
+    "word": "怕",
+    "translation": "Fear",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 809,
+    "sourceRank": 809,
+    "word": "化",
+    "translation": "Of",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 810,
+    "sourceRank": 810,
+    "word": "不需要",
+    "translation": "Do not need to",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 811,
+    "sourceRank": 811,
+    "word": "争",
+    "translation": "Fight",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 812,
+    "sourceRank": 812,
+    "word": "则",
+    "translation": "Then",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 813,
+    "sourceRank": 813,
+    "word": "狱",
+    "translation": "Prison",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 814,
+    "sourceRank": 814,
+    "word": "越",
+    "translation": "More",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 815,
+    "sourceRank": 815,
+    "word": "小子",
+    "translation": "Brat",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 816,
+    "sourceRank": 816,
+    "word": "有趣",
+    "translation": "Interesting",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 817,
+    "sourceRank": 817,
+    "word": "喜歡",
+    "translation": "Like",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 818,
+    "sourceRank": 818,
+    "word": "the",
+    "translation": "the",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 819,
+    "sourceRank": 819,
+    "word": "在做",
+    "translation": "Doing",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 820,
+    "sourceRank": 820,
+    "word": "那麼",
+    "translation": "Then",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 821,
+    "sourceRank": 821,
+    "word": "請",
+    "translation": "Please",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 822,
+    "sourceRank": 822,
+    "word": "五",
+    "translation": "Five",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 823,
+    "sourceRank": 823,
+    "word": "标",
+    "translation": "Mark",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 824,
+    "sourceRank": 824,
+    "word": "画",
+    "translation": "Painting",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 825,
+    "sourceRank": 825,
+    "word": "身上",
+    "translation": "Body",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 826,
+    "sourceRank": 826,
+    "word": "以后",
+    "translation": "After",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 827,
+    "sourceRank": 827,
+    "word": "至少",
+    "translation": "At least",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 828,
+    "sourceRank": 828,
+    "word": "亞",
+    "translation": "Inferior",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 829,
+    "sourceRank": 829,
+    "word": "脱",
+    "translation": "Take off",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 830,
+    "sourceRank": 830,
+    "word": "消息",
+    "translation": "News",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 831,
+    "sourceRank": 831,
+    "word": "不喜",
+    "translation": "Do not like",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 832,
+    "sourceRank": 832,
+    "word": "块",
+    "translation": "Block",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 833,
+    "sourceRank": 833,
+    "word": "快走",
+    "translation": "Brisk walking",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 834,
+    "sourceRank": 834,
+    "word": "著",
+    "translation": "With",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 835,
+    "sourceRank": 835,
+    "word": "各位",
+    "translation": "Everybody",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 836,
+    "sourceRank": 836,
+    "word": "算",
+    "translation": "Count",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 837,
+    "sourceRank": 837,
+    "word": "問題",
+    "translation": "Problem",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 838,
+    "sourceRank": 838,
+    "word": "沒事",
+    "translation": "All right",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 839,
+    "sourceRank": 839,
+    "word": "导",
+    "translation": "Guide",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 840,
+    "sourceRank": 840,
+    "word": "州",
+    "translation": "State",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 841,
+    "sourceRank": 841,
+    "word": "老兄",
+    "translation": "Brother",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 842,
+    "sourceRank": 842,
+    "word": "抓",
+    "translation": "Catch",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 843,
+    "sourceRank": 843,
+    "word": "代",
+    "translation": "On behalf of",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 844,
+    "sourceRank": 844,
+    "word": "蒙",
+    "translation": "Mongolian",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 845,
+    "sourceRank": 845,
+    "word": "抓住",
+    "translation": "Catch",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 846,
+    "sourceRank": 846,
+    "word": "山",
+    "translation": "Mountain",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 847,
+    "sourceRank": 847,
+    "word": "拍",
+    "translation": "Beat",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 848,
+    "sourceRank": 848,
+    "word": "沙",
+    "translation": "Sand",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 849,
+    "sourceRank": 849,
+    "word": "妻子",
+    "translation": "Wife",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 850,
+    "sourceRank": 850,
+    "word": "脸",
+    "translation": "Face",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 851,
+    "sourceRank": 851,
+    "word": "责",
+    "translation": "Responsibility",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 852,
+    "sourceRank": 852,
+    "word": "你自己",
+    "translation": "Yourself",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 853,
+    "sourceRank": 853,
+    "word": "回來",
+    "translation": "Come back",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 854,
+    "sourceRank": 854,
+    "word": "歌",
+    "translation": "Song",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 855,
+    "sourceRank": 855,
+    "word": "星",
+    "translation": "Star",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 856,
+    "sourceRank": 856,
+    "word": "权",
+    "translation": "Right",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 857,
+    "sourceRank": 857,
+    "word": "术",
+    "translation": "Technique",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 858,
+    "sourceRank": 858,
+    "word": "显",
+    "translation": "Show",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 859,
+    "sourceRank": 859,
+    "word": "幸",
+    "translation": "Fortunately",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 860,
+    "sourceRank": 860,
+    "word": "交",
+    "translation": "Cross",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 861,
+    "sourceRank": 861,
+    "word": "不同",
+    "translation": "Different",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 862,
+    "sourceRank": 862,
+    "word": "聪",
+    "translation": "Clever",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 863,
+    "sourceRank": 863,
+    "word": "随",
+    "translation": "Follow",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 864,
+    "sourceRank": 864,
+    "word": "登",
+    "translation": "Ascend",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 865,
+    "sourceRank": 865,
+    "word": "班",
+    "translation": "Class",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 866,
+    "sourceRank": 866,
+    "word": "二",
+    "translation": "Two",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 867,
+    "sourceRank": 867,
+    "word": "录",
+    "translation": "Record",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 868,
+    "sourceRank": 868,
+    "word": "武器",
+    "translation": "Weapon",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 869,
+    "sourceRank": 869,
+    "word": "热",
+    "translation": "Hot",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 870,
+    "sourceRank": 870,
+    "word": "才能",
+    "translation": "Ability",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 871,
+    "sourceRank": 871,
+    "word": "當然",
+    "translation": "Of course",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 872,
+    "sourceRank": 872,
+    "word": "晚",
+    "translation": "Night",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 873,
+    "sourceRank": 873,
+    "word": "晚安",
+    "translation": "Good night",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 874,
+    "sourceRank": 874,
+    "word": "成功",
+    "translation": "Success",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 875,
+    "sourceRank": 875,
+    "word": "未",
+    "translation": "Not",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 876,
+    "sourceRank": 876,
+    "word": "参",
+    "translation": "Participate",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 877,
+    "sourceRank": 877,
+    "word": "瓦",
+    "translation": "Tile",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 878,
+    "sourceRank": 878,
+    "word": "饭",
+    "translation": "Rice",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 879,
+    "sourceRank": 879,
+    "word": "殺",
+    "translation": "Kill",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 880,
+    "sourceRank": 880,
+    "word": "帕",
+    "translation": "Handkerchief",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 881,
+    "sourceRank": 881,
+    "word": "待",
+    "translation": "To be",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 882,
+    "sourceRank": 882,
+    "word": "是否",
+    "translation": "Whether",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 883,
+    "sourceRank": 883,
+    "word": "勒",
+    "translation": "Le",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 884,
+    "sourceRank": 884,
+    "word": "射",
+    "translation": "Shoot",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 885,
+    "sourceRank": 885,
+    "word": "表",
+    "translation": "Table",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 886,
+    "sourceRank": 886,
+    "word": "卫",
+    "translation": "Guard",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 887,
+    "sourceRank": 887,
+    "word": "太太",
+    "translation": "Wife",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 888,
+    "sourceRank": 888,
+    "word": "接受",
+    "translation": "Accepted",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 889,
+    "sourceRank": 889,
+    "word": "跳",
+    "translation": "Jump",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 890,
+    "sourceRank": 890,
+    "word": "象",
+    "translation": "Elephant",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 891,
+    "sourceRank": 891,
+    "word": "灵",
+    "translation": "Spirit",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 892,
+    "sourceRank": 892,
+    "word": "真不",
+    "translation": "I really do not",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 893,
+    "sourceRank": 893,
+    "word": "破",
+    "translation": "Break",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 894,
+    "sourceRank": 894,
+    "word": "夫人",
+    "translation": "Mrs.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 895,
+    "sourceRank": 895,
+    "word": "操",
+    "translation": "Exercise",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 896,
+    "sourceRank": 896,
+    "word": "诺",
+    "translation": "Promise",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 897,
+    "sourceRank": 897,
+    "word": "萨",
+    "translation": "Bodhisattva",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 898,
+    "sourceRank": 898,
+    "word": "卖",
+    "translation": "Sell",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 899,
+    "sourceRank": 899,
+    "word": "选",
+    "translation": "Selected",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 900,
+    "sourceRank": 900,
+    "word": "注意",
+    "translation": "Note",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 901,
+    "sourceRank": 901,
+    "word": "历",
+    "translation": "Calendar",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 902,
+    "sourceRank": 902,
+    "word": "脚",
+    "translation": "Foot",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 903,
+    "sourceRank": 903,
+    "word": "丝",
+    "translation": "Wire",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 904,
+    "sourceRank": 904,
+    "word": "少",
+    "translation": "Less",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 905,
+    "sourceRank": 905,
+    "word": "工",
+    "translation": "Work",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 906,
+    "sourceRank": 906,
+    "word": "密",
+    "translation": "Close",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 907,
+    "sourceRank": 907,
+    "word": "鱼",
+    "translation": "Fish",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 908,
+    "sourceRank": 908,
+    "word": "验",
+    "translation": "Test",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 909,
+    "sourceRank": 909,
+    "word": "不再",
+    "translation": "No longer",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 910,
+    "sourceRank": 910,
+    "word": "检",
+    "translation": "Check",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 911,
+    "sourceRank": 911,
+    "word": "骗",
+    "translation": "Cheat",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 912,
+    "sourceRank": 912,
+    "word": "必須",
+    "translation": "Must",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 913,
+    "sourceRank": 913,
+    "word": "a",
+    "translation": "a",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 914,
+    "sourceRank": 914,
+    "word": "自由",
+    "translation": "Free",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 915,
+    "sourceRank": 915,
+    "word": "杯",
+    "translation": "Cup",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 916,
+    "sourceRank": 916,
+    "word": "馆",
+    "translation": "Shop",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 917,
+    "sourceRank": 917,
+    "word": "完",
+    "translation": "Complete",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 918,
+    "sourceRank": 918,
+    "word": "追",
+    "translation": "Chase",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 919,
+    "sourceRank": 919,
+    "word": "际",
+    "translation": "Occasion",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 920,
+    "sourceRank": 920,
+    "word": "产",
+    "translation": "Yield",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 921,
+    "sourceRank": 921,
+    "word": "想到",
+    "translation": "Think",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 922,
+    "sourceRank": 922,
+    "word": "收",
+    "translation": "Income",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 923,
+    "sourceRank": 923,
+    "word": "探",
+    "translation": "Explore",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 924,
+    "sourceRank": 924,
+    "word": "直到",
+    "translation": "Until",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 925,
+    "sourceRank": 925,
+    "word": "酷",
+    "translation": "Cool",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 926,
+    "sourceRank": 926,
+    "word": "乱",
+    "translation": "Random",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 927,
+    "sourceRank": 927,
+    "word": "资",
+    "translation": "Capital",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 928,
+    "sourceRank": 928,
+    "word": "毁",
+    "translation": "Ruin",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 929,
+    "sourceRank": 929,
+    "word": "要求",
+    "translation": "Claim",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 930,
+    "sourceRank": 930,
+    "word": "急",
+    "translation": "Urgent",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 931,
+    "sourceRank": 931,
+    "word": "玛",
+    "translation": "Mary",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 932,
+    "sourceRank": 932,
+    "word": "方",
+    "translation": "Square",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 933,
+    "sourceRank": 933,
+    "word": "完成",
+    "translation": "Complete",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 934,
+    "sourceRank": 934,
+    "word": "照片",
+    "translation": "Photo",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 935,
+    "sourceRank": 935,
+    "word": "收到",
+    "translation": "Receive",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 936,
+    "sourceRank": 936,
+    "word": "所有人",
+    "translation": "Everyone",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 937,
+    "sourceRank": 937,
+    "word": "博士",
+    "translation": "Doctor",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 938,
+    "sourceRank": 938,
+    "word": "媽媽",
+    "translation": "Mom",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 939,
+    "sourceRank": 939,
+    "word": "you",
+    "translation": "you",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 940,
+    "sourceRank": 940,
+    "word": "父母",
+    "translation": "Parents",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 941,
+    "sourceRank": 941,
+    "word": "奇怪",
+    "translation": "Strange",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 942,
+    "sourceRank": 942,
+    "word": "男孩",
+    "translation": "Boy",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 943,
+    "sourceRank": 943,
+    "word": "攻",
+    "translation": "Attack",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 944,
+    "sourceRank": 944,
+    "word": "店",
+    "translation": "Shop",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 945,
+    "sourceRank": 945,
+    "word": "埃",
+    "translation": "Angstrom",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 946,
+    "sourceRank": 946,
+    "word": "多久",
+    "translation": "How long",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 947,
+    "sourceRank": 947,
+    "word": "红",
+    "translation": "Red",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 948,
+    "sourceRank": 948,
+    "word": "太多",
+    "translation": "Too",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 949,
+    "sourceRank": 949,
+    "word": "咱",
+    "translation": "We",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 950,
+    "sourceRank": 950,
+    "word": "能",
+    "translation": "Can",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 951,
+    "sourceRank": 951,
+    "word": "事",
+    "translation": "Thing",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 952,
+    "sourceRank": 952,
+    "word": "看",
+    "translation": "See",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 953,
+    "sourceRank": 953,
+    "word": "我們",
+    "translation": "We",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 954,
+    "sourceRank": 954,
+    "word": "上",
+    "translation": "On",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 955,
+    "sourceRank": 955,
+    "word": "给",
+    "translation": "To",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 956,
+    "sourceRank": 956,
+    "word": "可以",
+    "translation": "Can",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 957,
+    "sourceRank": 957,
+    "word": "现",
+    "translation": "Present",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 958,
+    "sourceRank": 958,
+    "word": "斯",
+    "translation": "Sri Lanka",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 959,
+    "sourceRank": 959,
+    "word": "做",
+    "translation": "Do",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 960,
+    "sourceRank": 960,
+    "word": "儿",
+    "translation": "Child",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 961,
+    "sourceRank": 961,
+    "word": "时",
+    "translation": "Time",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 962,
+    "sourceRank": 962,
+    "word": "点",
+    "translation": "Point",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 963,
+    "sourceRank": 963,
+    "word": "开",
+    "translation": "Open",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 964,
+    "sourceRank": 964,
+    "word": "让",
+    "translation": "Let",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 965,
+    "sourceRank": 965,
+    "word": "就是",
+    "translation": "Is",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 966,
+    "sourceRank": 966,
+    "word": "但",
+    "translation": "But",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 967,
+    "sourceRank": 967,
+    "word": "呢",
+    "translation": "It",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 968,
+    "sourceRank": 968,
+    "word": "着",
+    "translation": "With",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 969,
+    "sourceRank": 969,
+    "word": "它",
+    "translation": "It",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 970,
+    "sourceRank": 970,
+    "word": "這",
+    "translation": "This",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 971,
+    "sourceRank": 971,
+    "word": "如果",
+    "translation": "If",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 972,
+    "sourceRank": 972,
+    "word": "跟",
+    "translation": "With",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 973,
+    "sourceRank": 973,
+    "word": "邪",
+    "translation": "Evil",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 974,
+    "sourceRank": 974,
+    "word": "听",
+    "translation": "Listen",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 975,
+    "sourceRank": 975,
+    "word": "克",
+    "translation": "Gram",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 976,
+    "sourceRank": 976,
+    "word": "再",
+    "translation": "Again",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 977,
+    "sourceRank": 977,
+    "word": "快",
+    "translation": "Fast",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 978,
+    "sourceRank": 978,
+    "word": "嗎",
+    "translation": "Do",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 979,
+    "sourceRank": 979,
+    "word": "被",
+    "translation": "Be",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 980,
+    "sourceRank": 980,
+    "word": "是的",
+    "translation": "Yes",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 981,
+    "sourceRank": 981,
+    "word": "大",
+    "translation": "Large",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 982,
+    "sourceRank": 982,
+    "word": "先生",
+    "translation": "Mr.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 983,
+    "sourceRank": 983,
+    "word": "别",
+    "translation": "Do not",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 984,
+    "sourceRank": 984,
+    "word": "告",
+    "translation": "Tell",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 985,
+    "sourceRank": 985,
+    "word": "真的",
+    "translation": "Really",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 986,
+    "sourceRank": 986,
+    "word": "谢",
+    "translation": "Thank",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 987,
+    "sourceRank": 987,
+    "word": "哦",
+    "translation": "Oh",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 988,
+    "sourceRank": 988,
+    "word": "话",
+    "translation": "Words",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 989,
+    "sourceRank": 989,
+    "word": "械",
+    "translation": "Instrument",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 990,
+    "sourceRank": 990,
+    "word": "见",
+    "translation": "See",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 991,
+    "sourceRank": 991,
+    "word": "当",
+    "translation": "When the",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 992,
+    "sourceRank": 992,
+    "word": "芯",
+    "translation": "Core",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 993,
+    "sourceRank": 993,
+    "word": "该",
+    "translation": "That",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 994,
+    "sourceRank": 994,
+    "word": "西",
+    "translation": "Western",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 995,
+    "sourceRank": 995,
+    "word": "子",
+    "translation": "Child",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 996,
+    "sourceRank": 996,
+    "word": "已",
+    "translation": "Already",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 997,
+    "sourceRank": 997,
+    "word": "會",
+    "translation": "Can",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 998,
+    "sourceRank": 998,
+    "word": "小",
+    "translation": "Small",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 999,
+    "sourceRank": 999,
+    "word": "爱",
+    "translation": "Love",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 1000,
+    "sourceRank": 1000,
+    "word": "特",
+    "translation": "Special",
+    "partOfSpeech": "noun"
+  }
+]

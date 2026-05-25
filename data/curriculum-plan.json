@@ -1,0 +1,42 @@
+[
+  {
+    "level": "beginner",
+    "stories": 12,
+    "pagesPerStory": 1,
+    "wordRange": [
+      1,
+      100
+    ],
+    "targetNewWords": 100
+  },
+  {
+    "level": "elementary",
+    "stories": 14,
+    "pagesPerStory": 2,
+    "wordRange": [
+      101,
+      320
+    ],
+    "targetNewWords": 220
+  },
+  {
+    "level": "intermediate",
+    "stories": 14,
+    "pagesPerStory": 3,
+    "wordRange": [
+      321,
+      650
+    ],
+    "targetNewWords": 330
+  },
+  {
+    "level": "advanced",
+    "stories": 10,
+    "pagesPerStory": 5,
+    "wordRange": [
+      651,
+      1000
+    ],
+    "targetNewWords": 350
+  }
+]

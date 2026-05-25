@@ -1,0 +1,2948 @@
+[
+  {
+    "id": "russian-beginner-01",
+    "level": "beginner",
+    "title": "Beginner 01: Слова 1-9",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      1,
+      9
+    ],
+    "allowedWordRankMax": 9,
+    "newWords": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "reviewWords": [],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "Сегодня ученик читает простую страницу. Новые слова: как, Я, его, что, он, было, для, на, являются. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "Today the learner reads a short page. New words: как = as; Я = I; его = his; что = that; он = he; было = was; для = for; на = on; являются = are. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-beginner-02",
+    "level": "beginner",
+    "title": "Beginner 02: Слова 10-18",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      10,
+      18
+    ],
+    "allowedWordRankMax": 18,
+    "newWords": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "reviewWords": [
+      1,
+      3,
+      5,
+      7,
+      9
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "Сегодня ученик читает простую страницу. Слова для повторения: как, его, он, для, являются. Новые слова: с, они, быть, в, один, иметь, это, от, по. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "Today the learner reads a short page. Review words: как = as; его = his; он = he; для = for; являются = are. New words: с = with; они = they; быть = be; в = at; один = one; иметь = have; это = this; от = from; по = by. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-beginner-03",
+    "level": "beginner",
+    "title": "Beginner 03: Слова 19-27",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      19,
+      27
+    ],
+    "allowedWordRankMax": 27,
+    "newWords": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "reviewWords": [
+      1,
+      4,
+      7,
+      10,
+      13,
+      16
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "Сегодня ученик читает простую страницу. Слова для повторения: как, что, для, с, в. Новые слова: горячий, слово, но, что, некоторые, является, это, вы, или. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "Today the learner reads a short page. Review words: как = as; что = that; для = for; с = with; в = at. New words: горячий = hot; слово = word; но = but; что = what; некоторые = some; является = is; это = it; вы = you; или = or. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-beginner-04",
+    "level": "beginner",
+    "title": "Beginner 04: Слова 28-36",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      28,
+      36
+    ],
+    "allowedWordRankMax": 36,
+    "newWords": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "reviewWords": [
+      4,
+      7,
+      10,
+      13,
+      16,
+      19,
+      22,
+      25
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "Сегодня ученик читает простую страницу. Слова для повторения: что, для, с, в, это. Новые слова: было, площадь, из, гора, и, основной, взял, мы, может. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "Today the learner reads a short page. Review words: что = that; для = for; с = with; в = at; это = this. New words: было = had; площадь = the; из = of; гора = to; и = and; основной = a; взял = in; мы = we; может = can. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-beginner-05",
+    "level": "beginner",
+    "title": "Beginner 05: Слова 37-44",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      37,
+      44
+    ],
+    "allowedWordRankMax": 44,
+    "newWords": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "reviewWords": [
+      13,
+      16,
+      19,
+      22,
+      25,
+      28,
+      31,
+      34
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "Сегодня ученик читает простую страницу. Слова для повторения: в, это, горячий, что, это. Новые слова: из, другой, были, который, сделать, их, время, если. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "Today the learner reads a short page. Review words: в = at; это = this; горячий = hot; что = what; это = it. New words: из = out; другой = other; были = were; который = which; сделать = do; их = their; время = time; если = if. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-beginner-06",
+    "level": "beginner",
+    "title": "Beginner 06: Слова 45-52",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      45,
+      52
+    ],
+    "allowedWordRankMax": 52,
+    "newWords": [
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "reviewWords": [
+      21,
+      24,
+      27,
+      30,
+      33,
+      36,
+      39,
+      42
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "Сегодня ученик читает простую страницу. Слова для повторения: но, является, или, из, основной. Новые слова: будет, как, указанный, назад, каждый, сказать, делает, набор. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "Today the learner reads a short page. Review words: но = but; является = is; или = or; из = of; основной = a. New words: будет = will; как = how; указанный = said; назад = an; каждый = each; сказать = tell; делает = does; набор = set. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-beginner-07",
+    "level": "beginner",
+    "title": "Beginner 07: Слова 53-60",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      53,
+      60
+    ],
+    "allowedWordRankMax": 60,
+    "newWords": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "reviewWords": [
+      29,
+      32,
+      35,
+      38,
+      41,
+      44,
+      47,
+      50
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "Сегодня ученик читает простую страницу. Слова для повторения: площадь, и, мы, другой, сделать. Новые слова: три, хочу, воздух, хорошо, также, играть, небольшой, конец. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "Today the learner reads a short page. Review words: площадь = the; и = and; мы = we; другой = other; сделать = do. New words: три = three; хочу = want; воздух = air; хорошо = well; также = also; играть = play; небольшой = small; конец = end. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-beginner-08",
+    "level": "beginner",
+    "title": "Beginner 08: Слова 61-68",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      61,
+      68
+    ],
+    "allowedWordRankMax": 68,
+    "newWords": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "reviewWords": [
+      37,
+      40,
+      43,
+      46,
+      49,
+      52,
+      55,
+      58
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "Сегодня ученик читает простую страницу. Слова для повторения: из, который, время, как, каждый. Новые слова: положить, домой, читать, рука, порт, большой, заклинание, добавлять. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "Today the learner reads a short page. Review words: из = out; который = which; время = time; как = how; каждый = each. New words: положить = put; домой = home; читать = read; рука = hand; порт = port; большой = large; заклинание = spell; добавлять = add. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-beginner-09",
+    "level": "beginner",
+    "title": "Beginner 09: Слова 69-76",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      69,
+      76
+    ],
+    "allowedWordRankMax": 76,
+    "newWords": [
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76
+    ],
+    "reviewWords": [
+      45,
+      48,
+      51,
+      54,
+      57,
+      60,
+      63,
+      66
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "Сегодня ученик читает простую страницу. Слова для повторения: будет, назад, делает, хочу, также. Новые слова: даже, земля, здесь, должны, большой, высокий, такие, следовать. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "Today the learner reads a short page. Review words: будет = will; назад = an; делает = does; хочу = want; также = also. New words: даже = even; земля = land; здесь = here; должны = must; большой = big; высокий = high; такие = such; следовать = follow. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-beginner-10",
+    "level": "beginner",
+    "title": "Beginner 10: Слова 77-84",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      77,
+      84
+    ],
+    "allowedWordRankMax": 84,
+    "newWords": [
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "reviewWords": [
+      53,
+      56,
+      59,
+      62,
+      65,
+      68,
+      71,
+      74
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "Сегодня ученик читает простую страницу. Слова для повторения: три, хорошо, небольшой, домой, порт. Новые слова: акт, почему, спросите, люди, изменение, пошел, свет, вид. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "Today the learner reads a short page. Review words: три = three; хорошо = well; небольшой = small; домой = home; порт = port. New words: акт = act; почему = why; спросите = ask; люди = men; изменение = change; пошел = went; свет = light; вид = kind. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-beginner-11",
+    "level": "beginner",
+    "title": "Beginner 11: Слова 85-92",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      85,
+      92
+    ],
+    "allowedWordRankMax": 92,
+    "newWords": [
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "reviewWords": [
+      61,
+      64,
+      67,
+      70,
+      73,
+      76,
+      79,
+      82
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "Сегодня ученик читает простую страницу. Слова для повторения: положить, рука, заклинание, земля, большой. Новые слова: от, нуждаться, дом, картинка, пытаться, нам, снова, животных. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "Today the learner reads a short page. Review words: положить = put; рука = hand; заклинание = spell; земля = land; большой = big. New words: от = off; нуждаться = need; дом = house; картинка = picture; пытаться = try; нам = us; снова = again; животных = animal. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-beginner-12",
+    "level": "beginner",
+    "title": "Beginner 12: Слова 93-100",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      93,
+      100
+    ],
+    "allowedWordRankMax": 100,
+    "newWords": [
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "reviewWords": [
+      69,
+      72,
+      75,
+      78,
+      81,
+      84,
+      87,
+      90
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "Сегодня ученик читает простую страницу. Слова для повторения: даже, должны, такие, почему, изменение. Новые слова: точка, мать, мир, около, строить, самостоятельно, земля, отец. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "Today the learner reads a short page. Review words: даже = even; должны = must; такие = such; почему = why; изменение = change. New words: точка = point; мать = mother; мир = world; около = near; строить = build; самостоятельно = self; земля = earth; отец = father. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-elementary-01",
+    "level": "elementary",
+    "title": "Elementary 01: Слова 101-116",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      101,
+      116
+    ],
+    "allowedWordRankMax": 116,
+    "newWords": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116
+    ],
+    "reviewWords": [
+      77,
+      80,
+      83,
+      86,
+      89,
+      92,
+      95,
+      98
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: акт, люди, свет, нуждаться, пытаться. Новые слова: любой, новый, работа, часть, принимать, получать, место, сделал. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: акт = act; люди = men; свет = light; нуждаться = need; пытаться = try. New words: любой = any; новый = new; работа = work; часть = part; принимать = take; получать = get; место = place; сделал = made. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Страница 2",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: акт, люди, свет, нуждаться, пытаться. Новые слова: жить, где, после, назад, немного, только, круглый, человек. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: акт = act; люди = men; свет = light; нуждаться = need; пытаться = try. New words: жить = live; где = where; после = after; назад = back; немного = little; только = only; круглый = round; человек = man. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-elementary-02",
+    "level": "elementary",
+    "title": "Elementary 02: Слова 117-132",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      117,
+      132
+    ],
+    "allowedWordRankMax": 132,
+    "newWords": [
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132
+    ],
+    "reviewWords": [
+      93,
+      96,
+      99,
+      102,
+      105,
+      108,
+      111,
+      114
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: точка, около, земля, новый, принимать. Новые слова: год, пришел, шоу, каждый, хорошее, меня, давать, наш. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: точка = point; около = near; земля = earth; новый = new; принимать = take. New words: год = year; пришел = came; шоу = show; каждый = every; хорошее = good; меня = me; давать = give; наш = our. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Страница 2",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: точка, около, земля, новый, принимать. Новые слова: под, название, очень, через, просто, форма, приговор, большой. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: точка = point; около = near; земля = earth; новый = new; принимать = take. New words: под = under; название = name; очень = very; через = through; просто = just; форма = form; приговор = sentence; большой = great. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-elementary-03",
+    "level": "elementary",
+    "title": "Elementary 03: Слова 133-148",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      133,
+      148
+    ],
+    "allowedWordRankMax": 148,
+    "newWords": [
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148
+    ],
+    "reviewWords": [
+      109,
+      112,
+      115,
+      118,
+      121,
+      124,
+      127,
+      130
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: жить, назад, круглый, пришел, хорошее. Новые слова: думать, сказать, помощь, низкий, линия, отличаются, поворот, причиной. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: жить = live; назад = back; круглый = round; пришел = came; хорошее = good. New words: думать = think; сказать = say; помощь = help; низкий = low; линия = line; отличаются = differ; поворот = turn; причиной = cause. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Страница 2",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: жить, назад, круглый, пришел, хорошее. Новые слова: много, означать, до, движение, право, мальчик, старый, слишком. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: жить = live; назад = back; круглый = round; пришел = came; хорошее = good. New words: много = much; означать = mean; до = before; движение = move; право = right; мальчик = boy; старый = old; слишком = too. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-elementary-04",
+    "level": "elementary",
+    "title": "Elementary 04: Слова 149-164",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      149,
+      164
+    ],
+    "allowedWordRankMax": 164,
+    "newWords": [
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164
+    ],
+    "reviewWords": [
+      125,
+      128,
+      131,
+      134,
+      137,
+      140,
+      143,
+      146
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: под, через, приговор, сказать, линия. Новые слова: же, она, все, там, когда, вверх, использование, ваш. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: под = under; через = through; приговор = sentence; сказать = say; линия = line. New words: же = same; она = she; все = all; там = there; когда = when; вверх = up; использование = use; ваш = your. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Страница 2",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: под, через, приговор, сказать, линия. Новые слова: способ, о, многие, затем, их, запись, бы, подобно. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: под = under; через = through; приговор = sentence; сказать = say; линия = line. New words: способ = way; о = about; многие = many; затем = then; их = them; запись = write; бы = would; подобно = like. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-elementary-05",
+    "level": "elementary",
+    "title": "Elementary 05: Слова 165-180",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      165,
+      180
+    ],
+    "allowedWordRankMax": 180,
+    "newWords": [
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180
+    ],
+    "reviewWords": [
+      141,
+      144,
+      147,
+      150,
+      153,
+      156,
+      159,
+      162
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: много, движение, старый, она, когда. Новые слова: так, эти, ее, долго, сделать, вещь, посмотреть, его. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: много = much; движение = move; старый = old; она = she; когда = when. New words: так = so; эти = these; ее = her; долго = long; сделать = make; вещь = thing; посмотреть = see; его = him. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Страница 2",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: много, движение, старый, она, когда. Новые слова: два, имеет, искать, еще, день, мог, идти, приходят. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: много = much; движение = move; старый = old; она = she; когда = when. New words: два = two; имеет = has; искать = look; еще = more; день = day; мог = could; идти = go; приходят = come. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-elementary-06",
+    "level": "elementary",
+    "title": "Elementary 06: Слова 181-196",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      181,
+      196
+    ],
+    "allowedWordRankMax": 196,
+    "newWords": [
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196
+    ],
+    "reviewWords": [
+      157,
+      160,
+      163,
+      166,
+      169,
+      172,
+      175,
+      178
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: способ, затем, бы, эти, сделать. Новые слова: сделал, число, звук, нет, наиболее, люди, мой, над. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: способ = way; затем = then; бы = would; эти = these; сделать = make. New words: сделал = did; число = number; звук = sound; нет = no; наиболее = most; люди = people; мой = my; над = over. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Страница 2",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: способ, затем, бы, эти, сделать. Новые слова: знать, вода, чем, вызов, первый, кто, может, вниз. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: способ = way; затем = then; бы = would; эти = these; сделать = make. New words: знать = know; вода = water; чем = than; вызов = call; первый = first; кто = who; может = may; вниз = down. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-elementary-07",
+    "level": "elementary",
+    "title": "Elementary 07: Слова 197-212",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      197,
+      212
+    ],
+    "allowedWordRankMax": 212,
+    "newWords": [
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212
+    ],
+    "reviewWords": [
+      173,
+      176,
+      179,
+      182,
+      185,
+      188,
+      191,
+      194
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: два, еще, идти, число, наиболее. Новые слова: сторона, был, сейчас, находить, руководитель, стоять, самостоятельно, страница. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: два = two; еще = more; идти = go; число = number; наиболее = most. New words: сторона = side; был = been; сейчас = now; находить = find; руководитель = head; стоять = stand; самостоятельно = own; страница = page. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Страница 2",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: два, еще, идти, число, наиболее. Новые слова: должны, страна, найдено, ответ, школа, расти, исследование, еще. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: два = two; еще = more; идти = go; число = number; наиболее = most. New words: должны = should; страна = country; найдено = found; ответ = answer; школа = school; расти = grow; исследование = study; еще = still. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-elementary-08",
+    "level": "elementary",
+    "title": "Elementary 08: Слова 213-228",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      213,
+      228
+    ],
+    "allowedWordRankMax": 228,
+    "newWords": [
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228
+    ],
+    "reviewWords": [
+      189,
+      192,
+      195,
+      198,
+      201,
+      204,
+      207,
+      210
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: знать, вызов, может, был, руководитель. Новые слова: учиться, завод, крышка, еда, солнце, четыре, между, состояние. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: знать = know; вызов = call; может = may; был = been; руководитель = head. New words: учиться = learn; завод = plant; крышка = cover; еда = food; солнце = sun; четыре = four; между = between; состояние = state. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Страница 2",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: знать, вызов, может, был, руководитель. Новые слова: держать, глаз, никогда не, Последнее, позволять, мысль, город, дерево. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: знать = know; вызов = call; может = may; был = been; руководитель = head. New words: держать = keep; глаз = eye; никогда не = never; Последнее = last; позволять = let; мысль = thought; город = city; дерево = tree. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-elementary-09",
+    "level": "elementary",
+    "title": "Elementary 09: Слова 229-244",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      229,
+      244
+    ],
+    "allowedWordRankMax": 244,
+    "newWords": [
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244
+    ],
+    "reviewWords": [
+      205,
+      208,
+      211,
+      214,
+      217,
+      220,
+      223,
+      226
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: должны, ответ, исследование, завод, солнце. Новые слова: пересекают, ферма, трудно, начало, мощи, история, пила, далеко. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: должны = should; ответ = answer; исследование = study; завод = plant; солнце = sun. New words: пересекают = cross; ферма = farm; трудно = hard; начало = start; мощи = might; история = story; пила = saw; далеко = far. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Страница 2",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: должны, ответ, исследование, завод, солнце. Новые слова: море, привлечь, слева, поздно, запустить, не, в то время как, нажмите. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: должны = should; ответ = answer; исследование = study; завод = plant; солнце = sun. New words: море = sea; привлечь = draw; слева = left; поздно = late; запустить = run; не = don’t; в то время как = while; нажмите = press. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-elementary-10",
+    "level": "elementary",
+    "title": "Elementary 10: Слова 245-260",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      245,
+      260
+    ],
+    "allowedWordRankMax": 260,
+    "newWords": [
+      245,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260
+    ],
+    "reviewWords": [
+      221,
+      224,
+      227,
+      230,
+      233,
+      236,
+      239,
+      242
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: держать, Последнее, город, ферма, мощи. Новые слова: близко, ночь, реальный, жизнь, несколько, к северу, книга, нести. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: держать = keep; Последнее = last; город = city; ферма = farm; мощи = might. New words: близко = close; ночь = night; реальный = real; жизнь = life; несколько = few; к северу = north; книга = book; нести = carry. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Страница 2",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: держать, Последнее, город, ферма, мощи. Новые слова: взял, наука, есть, номер, друг, начал, идея, рыба. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: держать = keep; Последнее = last; город = city; ферма = farm; мощи = might. New words: взял = took; наука = science; есть = eat; номер = room; друг = friend; начал = began; идея = idea; рыба = fish. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-elementary-11",
+    "level": "elementary",
+    "title": "Elementary 11: Слова 261-275",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      261,
+      275
+    ],
+    "allowedWordRankMax": 275,
+    "newWords": [
+      261,
+      262,
+      263,
+      264,
+      265,
+      266,
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274,
+      275
+    ],
+    "reviewWords": [
+      237,
+      240,
+      243,
+      246,
+      249,
+      252,
+      255,
+      258
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: море, поздно, в то время как, ночь, несколько. Новые слова: гора, остановить, раз, база, слышать, лошадь, вырезать, уверен. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: море = sea; поздно = late; в то время как = while; ночь = night; несколько = few. New words: гора = mountain; остановить = stop; раз = once; база = base; слышать = hear; лошадь = horse; вырезать = cut; уверен = sure. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Страница 2",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: море, поздно, в то время как, ночь, несколько. Новые слова: смотреть, цвет, лицо, дерево, основной, открыт, кажется. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: море = sea; поздно = late; в то время как = while; ночь = night; несколько = few. New words: смотреть = watch; цвет = color; лицо = face; дерево = wood; основной = main; открыт = open; кажется = seem. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-elementary-12",
+    "level": "elementary",
+    "title": "Elementary 12: Слова 276-290",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      276,
+      290
+    ],
+    "allowedWordRankMax": 290,
+    "newWords": [
+      276,
+      277,
+      278,
+      279,
+      280,
+      281,
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      288,
+      289,
+      290
+    ],
+    "reviewWords": [
+      252,
+      255,
+      258,
+      261,
+      264,
+      267,
+      270,
+      273
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: нести, есть, начал, гора, база. Новые слова: вместе, следующий, белый, дети, начать, получил, ходить, пример. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: нести = carry; есть = eat; начал = began; гора = mountain; база = base. New words: вместе = together; следующий = next; белый = white; дети = children; начать = begin; получил = got; ходить = walk; пример = example. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Страница 2",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: нести, есть, начал, гора, база. Новые слова: легкость, бумага, группа, всегда, музыка, тех,, как. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: нести = carry; есть = eat; начал = began; гора = mountain; база = base. New words: легкость = ease; бумага = paper; группа = group; всегда = always; музыка = music; тех, = those; как = both. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-elementary-13",
+    "level": "elementary",
+    "title": "Elementary 13: Слова 291-305",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      291,
+      305
+    ],
+    "allowedWordRankMax": 305,
+    "newWords": [
+      291,
+      292,
+      293,
+      294,
+      295,
+      296,
+      297,
+      298,
+      299,
+      300,
+      301,
+      302,
+      303,
+      304,
+      305
+    ],
+    "reviewWords": [
+      267,
+      270,
+      273,
+      276,
+      279,
+      282,
+      285,
+      288
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: вырезать, цвет, основной, вместе, дети. Новые слова: знак, часто, письмо, до, км, река, автомобиль, футов. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: вырезать = cut; цвет = color; основной = main; вместе = together; дети = children. New words: знак = mark; часто = often; письмо = letter; до = until; км = mile; река = river; автомобиль = car; футов = feet. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Страница 2",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: вырезать, цвет, основной, вместе, дети. Новые слова: уход, Второй, достаточно, равнина, девушка, обычно, молодой. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: вырезать = cut; цвет = color; основной = main; вместе = together; дети = children. New words: уход = care; Второй = second; достаточно = enough; равнина = plain; девушка = girl; обычно = usual; молодой = young. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-elementary-14",
+    "level": "elementary",
+    "title": "Elementary 14: Слова 306-320",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      306,
+      320
+    ],
+    "allowedWordRankMax": 320,
+    "newWords": [
+      306,
+      307,
+      308,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320
+    ],
+    "reviewWords": [
+      282,
+      285,
+      288,
+      291,
+      294,
+      297,
+      300,
+      303
+    ],
+    "sections": [
+      {
+        "heading": "Страница 1",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: ходить, бумага, музыка, знак, до. Новые слова: готовый, выше, когда-либо, красный, список, хотя, чувствовать, разговор. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: ходить = walk; бумага = paper; музыка = music; знак = mark; до = until. New words: готовый = ready; выше = above; когда-либо = ever; красный = red; список = list; хотя = though; чувствовать = feel; разговор = talk. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Страница 2",
+        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: ходить, бумага, музыка, знак, до. Новые слова: птица, скоро, тело, собака, семья, прямой, представляют. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: ходить = walk; бумага = paper; музыка = music; знак = mark; до = until. New words: птица = bird; скоро = soon; тело = body; собака = dog; семья = family; прямой = direct; представляют = pose. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-intermediate-01",
+    "level": "intermediate",
+    "title": "Intermediate 01: Слова 321-344",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      321,
+      344
+    ],
+    "allowedWordRankMax": 344,
+    "newWords": [
+      321,
+      322,
+      323,
+      324,
+      325,
+      326,
+      327,
+      328,
+      329,
+      330,
+      331,
+      332,
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340,
+      341,
+      342,
+      343,
+      344
+    ],
+    "reviewWords": [
+      297,
+      300,
+      303,
+      306,
+      309,
+      312,
+      315,
+      318
+    ],
+    "sections": [
+      {
+        "heading": "Глава 1 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: автомобиль, Второй, девушка, готовый, красный. Новые слова: оставить, песня, измерять, дверь, продукт, черный, короткая, цифра. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: автомобиль = car; Второй = second; девушка = girl; готовый = ready; красный = red. New words: оставить = leave; песня = song; измерять = measure; дверь = door; продукт = product; черный = black; короткая = short; цифра = numeral. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 2 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: автомобиль, Второй, девушка, готовый, красный. Новые слова: класс, ветер, вопрос, произойдет, полная, корабль, площадь, половина. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: автомобиль = car; Второй = second; девушка = girl; готовый = ready; красный = red. New words: класс = class; ветер = wind; вопрос = question; произойдет = happen; полная = complete; корабль = ship; площадь = area; половина = half. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 3 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: автомобиль, Второй, девушка, готовый, красный. Новые слова: рок, порядок, огонь, юг, проблема, кусок, сказал, знал. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: автомобиль = car; Второй = second; девушка = girl; готовый = ready; красный = red. New words: рок = rock; порядок = order; огонь = fire; юг = south; проблема = problem; кусок = piece; сказал = told; знал = knew. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-intermediate-02",
+    "level": "intermediate",
+    "title": "Intermediate 02: Слова 345-368",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      345,
+      368
+    ],
+    "allowedWordRankMax": 368,
+    "newWords": [
+      345,
+      346,
+      347,
+      348,
+      349,
+      350,
+      351,
+      352,
+      353,
+      354,
+      355,
+      356,
+      357,
+      358,
+      359,
+      360,
+      361,
+      362,
+      363,
+      364,
+      365,
+      366,
+      367,
+      368
+    ],
+    "reviewWords": [
+      321,
+      324,
+      327,
+      330,
+      333,
+      336,
+      339,
+      342
+    ],
+    "sections": [
+      {
+        "heading": "Глава 1 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: оставить, дверь, короткая, ветер, полная. Новые слова: проходить, с, топ, весь, король, улица, дюйм, умножить. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: оставить = leave; дверь = door; короткая = short; ветер = wind; полная = complete. New words: проходить = pass; с = since; топ = top; весь = whole; король = king; улица = street; дюйм = inch; умножить = multiply. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 2 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: оставить, дверь, короткая, ветер, полная. Новые слова: ничего, курс, оставаться, колеса, полный, сила, синий, объект. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: оставить = leave; дверь = door; короткая = short; ветер = wind; полная = complete. New words: ничего = nothing; курс = course; оставаться = stay; колеса = wheel; полный = full; сила = force; синий = blue; объект = object. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 3 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: оставить, дверь, короткая, ветер, полная. Новые слова: решать, поверхность, глубоко, луна, остров, фут, система, занято. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: оставить = leave; дверь = door; короткая = short; ветер = wind; полная = complete. New words: решать = decide; поверхность = surface; глубоко = deep; луна = moon; остров = island; фут = foot; система = system; занято = busy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-intermediate-03",
+    "level": "intermediate",
+    "title": "Intermediate 03: Слова 369-392",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      369,
+      392
+    ],
+    "allowedWordRankMax": 392,
+    "newWords": [
+      369,
+      370,
+      371,
+      372,
+      373,
+      374,
+      375,
+      376,
+      377,
+      378,
+      379,
+      380,
+      381,
+      382,
+      383,
+      384,
+      385,
+      386,
+      387,
+      388,
+      389,
+      390,
+      391,
+      392
+    ],
+    "reviewWords": [
+      345,
+      348,
+      351,
+      354,
+      357,
+      360,
+      363,
+      366
+    ],
+    "sections": [
+      {
+        "heading": "Глава 1 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: проходить, весь, дюйм, курс, полный. Новые слова: тест, запись, лодка, общая, золото, возможно, самолет, вместо него. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: проходить = pass; весь = whole; дюйм = inch; курс = course; полный = full. New words: тест = test; запись = record; лодка = boat; общая = common; золото = gold; возможно = possible; самолет = plane; вместо него = stead. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 2 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: проходить, весь, дюйм, курс, полный. Новые слова: сухой, Интересно, смех, тыс, назад, побежал, проверять, игра. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: проходить = pass; весь = whole; дюйм = inch; курс = course; полный = full. New words: сухой = dry; Интересно = wonder; смех = laugh; тыс = thousand; назад = ago; побежал = ran; проверять = check; игра = game. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 3 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: проходить, весь, дюйм, курс, полный. Новые слова: форма, приравнять, горячий, мисс, принес, тепло, снег, шина. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: проходить = pass; весь = whole; дюйм = inch; курс = course; полный = full. New words: форма = shape; приравнять = equate; горячий = hot; мисс = miss; принес = brought; тепло = heat; снег = snow; шина = tire. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-intermediate-04",
+    "level": "intermediate",
+    "title": "Intermediate 04: Слова 393-416",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      393,
+      416
+    ],
+    "allowedWordRankMax": 416,
+    "newWords": [
+      393,
+      394,
+      395,
+      396,
+      397,
+      398,
+      399,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405,
+      406,
+      407,
+      408,
+      409,
+      410,
+      411,
+      412,
+      413,
+      414,
+      415,
+      416
+    ],
+    "reviewWords": [
+      369,
+      372,
+      375,
+      378,
+      381,
+      384,
+      387,
+      390
+    ],
+    "sections": [
+      {
+        "heading": "Глава 1 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: тест, общая, самолет, Интересно, назад. Новые слова: приносить, да, удаленная, заполнить, восток, краска, язык, среди. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: тест = test; общая = common; самолет = plane; Интересно = wonder; назад = ago. New words: приносить = bring; да = yes; удаленная = distant; заполнить = fill; восток = east; краска = paint; язык = language; среди = among. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 2 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: тест, общая, самолет, Интересно, назад. Новые слова: блок, мощность, город, отлично, уверен, летать, падать, привести. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: тест = test; общая = common; самолет = plane; Интересно = wonder; назад = ago. New words: блок = unit; мощность = power; город = town; отлично = fine; уверен = certain; летать = fly; падать = fall; привести = lead. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 3 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: тест, общая, самолет, Интересно, назад. Новые слова: крик, темно, машина, примечание, ждать, план, фигура, звезда. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: тест = test; общая = common; самолет = plane; Интересно = wonder; назад = ago. New words: крик = cry; темно = dark; машина = machine; примечание = note; ждать = wait; план = plan; фигура = figure; звезда = star. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-intermediate-05",
+    "level": "intermediate",
+    "title": "Intermediate 05: Слова 417-440",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      417,
+      440
+    ],
+    "allowedWordRankMax": 440,
+    "newWords": [
+      417,
+      418,
+      419,
+      420,
+      421,
+      422,
+      423,
+      424,
+      425,
+      426,
+      427,
+      428,
+      429,
+      430,
+      431,
+      432,
+      433,
+      434,
+      435,
+      436,
+      437,
+      438,
+      439,
+      440
+    ],
+    "reviewWords": [
+      393,
+      396,
+      399,
+      402,
+      405,
+      408,
+      411,
+      414
+    ],
+    "sections": [
+      {
+        "heading": "Глава 1 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: приносить, заполнить, язык, мощность, уверен. Новые слова: коробка, существительное, поле, остальные, верный, состоянии, фунт, сделано. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: приносить = bring; заполнить = fill; язык = language; мощность = power; уверен = certain. New words: коробка = box; существительное = noun; поле = field; остальные = rest; верный = correct; состоянии = able; фунт = pound; сделано = done. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 2 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: приносить, заполнить, язык, мощность, уверен. Новые слова: красота, привод, стоял, содержать, передние, учить, неделя, окончательный. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: приносить = bring; заполнить = fill; язык = language; мощность = power; уверен = certain. New words: красота = beauty; привод = drive; стоял = stood; содержать = contain; передние = front; учить = teach; неделя = week; окончательный = final. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 3 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: приносить, заполнить, язык, мощность, уверен. Новые слова: дал, зеленый, ой, быстро, развивать, океан, теплый, бесплатно. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: приносить = bring; заполнить = fill; язык = language; мощность = power; уверен = certain. New words: дал = gave; зеленый = green; ой = oh; быстро = quick; развивать = develop; океан = ocean; теплый = warm; бесплатно = free. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-intermediate-06",
+    "level": "intermediate",
+    "title": "Intermediate 06: Слова 441-464",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      441,
+      464
+    ],
+    "allowedWordRankMax": 464,
+    "newWords": [
+      441,
+      442,
+      443,
+      444,
+      445,
+      446,
+      447,
+      448,
+      449,
+      450,
+      451,
+      452,
+      453,
+      454,
+      455,
+      456,
+      457,
+      458,
+      459,
+      460,
+      461,
+      462,
+      463,
+      464
+    ],
+    "reviewWords": [
+      417,
+      420,
+      423,
+      426,
+      429,
+      432,
+      435,
+      438
+    ],
+    "sections": [
+      {
+        "heading": "Глава 1 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: коробка, остальные, фунт, привод, передние. Новые слова: минут, сильный, специальный, ум, за, ясно, хвост, производить. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: коробка = box; остальные = rest; фунт = pound; привод = drive; передние = front. New words: минут = minute; сильный = strong; специальный = special; ум = mind; за = behind; ясно = clear; хвост = tail; производить = produce. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 2 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: коробка, остальные, фунт, привод, передние. Новые слова: факт, пространство, слышал, лучше, час, лучше, правда, во. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: коробка = box; остальные = rest; фунт = pound; привод = drive; передние = front. New words: факт = fact; пространство = space; слышал = heard; лучше = best; час = hour; лучше = better; правда = true; во = during. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 3 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: коробка, остальные, фунт, привод, передние. Новые слова: сто, пять, запомнить, шаг, рано, удерживайте, запад, земля. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: коробка = box; остальные = rest; фунт = pound; привод = drive; передние = front. New words: сто = hundred; пять = five; запомнить = remember; шаг = step; рано = early; удерживайте = hold; запад = west; земля = ground. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-intermediate-07",
+    "level": "intermediate",
+    "title": "Intermediate 07: Слова 465-488",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      465,
+      488
+    ],
+    "allowedWordRankMax": 488,
+    "newWords": [
+      465,
+      466,
+      467,
+      468,
+      469,
+      470,
+      471,
+      472,
+      473,
+      474,
+      475,
+      476,
+      477,
+      478,
+      479,
+      480,
+      481,
+      482,
+      483,
+      484,
+      485,
+      486,
+      487,
+      488
+    ],
+    "reviewWords": [
+      441,
+      444,
+      447,
+      450,
+      453,
+      456,
+      459,
+      462
+    ],
+    "sections": [
+      {
+        "heading": "Глава 1 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: минут, ум, хвост, пространство, час. Новые слова: интерес, достичь, быстро, глагол, петь, слушать, шесть, стол. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: минут = minute; ум = mind; хвост = tail; пространство = space; час = hour. New words: интерес = interest; достичь = reach; быстро = fast; глагол = verb; петь = sing; слушать = listen; шесть = six; стол = table. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 2 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: минут, ум, хвост, пространство, час. Новые слова: поездки, меньше, утро, десять, простой, несколько, гласный, к. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: минут = minute; ум = mind; хвост = tail; пространство = space; час = hour. New words: поездки = travel; меньше = less; утро = morning; десять = ten; простой = simple; несколько = several; гласный = vowel; к = toward. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 3 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: минут, ум, хвост, пространство, час. Новые слова: война, заложить, против, шаблон, медленно, центр, любовь, человек. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: минут = minute; ум = mind; хвост = tail; пространство = space; час = hour. New words: война = war; заложить = lay; против = against; шаблон = pattern; медленно = slow; центр = center; любовь = love; человек = person. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-intermediate-08",
+    "level": "intermediate",
+    "title": "Intermediate 08: Слова 489-512",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      489,
+      512
+    ],
+    "allowedWordRankMax": 512,
+    "newWords": [
+      489,
+      490,
+      491,
+      492,
+      493,
+      494,
+      495,
+      496,
+      497,
+      498,
+      499,
+      500,
+      501,
+      502,
+      503,
+      504,
+      505,
+      506,
+      507,
+      508,
+      509,
+      510,
+      511,
+      512
+    ],
+    "reviewWords": [
+      465,
+      468,
+      471,
+      474,
+      477,
+      480,
+      483,
+      486
+    ],
+    "sections": [
+      {
+        "heading": "Глава 1 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: интерес, глагол, шесть, меньше, простой. Новые слова: деньги, служить, появляются, дорога, карта, дождь, правило, управлять. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: интерес = interest; глагол = verb; шесть = six; меньше = less; простой = simple. New words: деньги = money; служить = serve; появляются = appear; дорога = road; карта = map; дождь = rain; правило = rule; управлять = govern. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 2 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: интерес, глагол, шесть, меньше, простой. Новые слова: тянуть, холодный, уведомление, голос, энергия, охота, вероятный, кровать. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: интерес = interest; глагол = verb; шесть = six; меньше = less; простой = simple. New words: тянуть = pull; холодный = cold; уведомление = notice; голос = voice; энергия = energy; охота = hunt; вероятный = probable; кровать = bed. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 3 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: интерес, глагол, шесть, меньше, простой. Новые слова: брат, яйцо, поездка, клеток, верить, возможно,, выбрать, внезапный. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: интерес = interest; глагол = verb; шесть = six; меньше = less; простой = simple. New words: брат = brother; яйцо = egg; поездка = ride; клеток = cell; верить = believe; возможно, = perhaps; выбрать = pick; внезапный = sudden. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-intermediate-09",
+    "level": "intermediate",
+    "title": "Intermediate 09: Слова 513-535",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      513,
+      535
+    ],
+    "allowedWordRankMax": 535,
+    "newWords": [
+      513,
+      514,
+      515,
+      516,
+      517,
+      518,
+      519,
+      520,
+      521,
+      522,
+      523,
+      524,
+      525,
+      526,
+      527,
+      528,
+      529,
+      530,
+      531,
+      532,
+      533,
+      534,
+      535
+    ],
+    "reviewWords": [
+      489,
+      492,
+      495,
+      498,
+      501,
+      504,
+      507,
+      510
+    ],
+    "sections": [
+      {
+        "heading": "Глава 1 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: деньги, дорога, правило, холодный, энергия. Новые слова: считать, Квадратный, причина, длина, представлять, искусство, Заголовок, область. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: деньги = money; дорога = road; правило = rule; холодный = cold; энергия = energy. New words: считать = count; Квадратный = square; причина = reason; длина = length; представлять = represent; искусство = art; Заголовок = subject; область = region. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 2 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: деньги, дорога, правило, холодный, энергия. Новые слова: размер, меняться, урегулировать, говорить, вес, общий, лед, дело. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: деньги = money; дорога = road; правило = rule; холодный = cold; энергия = energy. New words: размер = size; меняться = vary; урегулировать = settle; говорить = speak; вес = weight; общий = general; лед = ice; дело = matter. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 3 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: деньги, дорога, правило, холодный, энергия. Новые слова: круг, пара, включают, разделяй, слог, чувствовал, великий. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: деньги = money; дорога = road; правило = rule; холодный = cold; энергия = energy. New words: круг = circle; пара = pair; включают = include; разделяй = divide; слог = syllable; чувствовал = felt; великий = grand. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-intermediate-10",
+    "level": "intermediate",
+    "title": "Intermediate 10: Слова 536-558",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      536,
+      558
+    ],
+    "allowedWordRankMax": 558,
+    "newWords": [
+      536,
+      537,
+      538,
+      539,
+      540,
+      541,
+      542,
+      543,
+      544,
+      545,
+      546,
+      547,
+      548,
+      549,
+      550,
+      551,
+      552,
+      553,
+      554,
+      555,
+      556,
+      557,
+      558
+    ],
+    "reviewWords": [
+      512,
+      515,
+      518,
+      521,
+      524,
+      527,
+      530,
+      533
+    ],
+    "sections": [
+      {
+        "heading": "Глава 1 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: внезапный, причина, искусство, размер, говорить. Новые слова: мяч, еще, волна, падение, сердце, утра, присутствует, тяжелый. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: внезапный = sudden; причина = reason; искусство = art; размер = size; говорить = speak. New words: мяч = ball; еще = yet; волна = wave; падение = drop; сердце = heart; утра = am; присутствует = present; тяжелый = heavy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 2 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: внезапный, причина, искусство, размер, говорить. Новые слова: танец, двигатель, положение, рука, широкий, парус, материал, доля. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: внезапный = sudden; причина = reason; искусство = art; размер = size; говорить = speak. New words: танец = dance; двигатель = engine; положение = position; рука = arm; широкий = wide; парус = sail; материал = material; доля = fraction. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 3 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: внезапный, причина, искусство, размер, говорить. Новые слова: лес, сидеть, гонка, окно, магазин, лето, поезд. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: внезапный = sudden; причина = reason; искусство = art; размер = size; говорить = speak. New words: лес = forest; сидеть = sit; гонка = race; окно = window; магазин = store; лето = summer; поезд = train. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-intermediate-11",
+    "level": "intermediate",
+    "title": "Intermediate 11: Слова 559-581",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      559,
+      581
+    ],
+    "allowedWordRankMax": 581,
+    "newWords": [
+      559,
+      560,
+      561,
+      562,
+      563,
+      564,
+      565,
+      566,
+      567,
+      568,
+      569,
+      570,
+      571,
+      572,
+      573,
+      574,
+      575,
+      576,
+      577,
+      578,
+      579,
+      580,
+      581
+    ],
+    "reviewWords": [
+      535,
+      538,
+      541,
+      544,
+      547,
+      550,
+      553,
+      556
+    ],
+    "sections": [
+      {
+        "heading": "Глава 1 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: великий, волна, утра, танец, рука. Новые слова: сон, доказывать, одинокий, нога, упражнение, стена, улов, крепление. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: великий = grand; волна = wave; утра = am; танец = dance; рука = arm. New words: сон = sleep; доказывать = prove; одинокий = lone; нога = leg; упражнение = exercise; стена = wall; улов = catch; крепление = mount. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 2 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: великий, волна, утра, танец, рука. Новые слова: хотите, небо, доска, радость, зима, Сб, написанный, дикий. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: великий = grand; волна = wave; утра = am; танец = dance; рука = arm. New words: хотите = wish; небо = sky; доска = board; радость = joy; зима = winter; Сб = sat; написанный = written; дикий = wild. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 3 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: великий, волна, утра, танец, рука. Новые слова: инструмент, хранится, стекло, трава, корова, работа, край. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: великий = grand; волна = wave; утра = am; танец = dance; рука = arm. New words: инструмент = instrument; хранится = kept; стекло = glass; трава = grass; корова = cow; работа = job; край = edge. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-intermediate-12",
+    "level": "intermediate",
+    "title": "Intermediate 12: Слова 582-604",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      582,
+      604
+    ],
+    "allowedWordRankMax": 604,
+    "newWords": [
+      582,
+      583,
+      584,
+      585,
+      586,
+      587,
+      588,
+      589,
+      590,
+      591,
+      592,
+      593,
+      594,
+      595,
+      596,
+      597,
+      598,
+      599,
+      600,
+      601,
+      602,
+      603,
+      604
+    ],
+    "reviewWords": [
+      558,
+      561,
+      564,
+      567,
+      570,
+      573,
+      576,
+      579
+    ],
+    "sections": [
+      {
+        "heading": "Глава 1 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: поезд, одинокий, стена, хотите, радость. Новые слова: знак, визит, мимо, мягкая, весело, яркий, газа, погода. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: поезд = train; одинокий = lone; стена = wall; хотите = wish; радость = joy. New words: знак = sign; визит = visit; мимо = past; мягкая = soft; весело = fun; яркий = bright; газа = gas; погода = weather. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 2 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: поезд, одинокий, стена, хотите, радость. Новые слова: месяц, миллион, нести, отделка, счастливы, надеюсь, цветок, одевать. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: поезд = train; одинокий = lone; стена = wall; хотите = wish; радость = joy. New words: месяц = month; миллион = million; нести = bear; отделка = finish; счастливы = happy; надеюсь = hope; цветок = flower; одевать = clothe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 3 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: поезд, одинокий, стена, хотите, радость. Новые слова: странный, ушел, торговля, мелодия, поездка, офис, получать. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: поезд = train; одинокий = lone; стена = wall; хотите = wish; радость = joy. New words: странный = strange; ушел = gone; торговля = trade; мелодия = melody; поездка = trip; офис = office; получать = receive. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-intermediate-13",
+    "level": "intermediate",
+    "title": "Intermediate 13: Слова 605-627",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      605,
+      627
+    ],
+    "allowedWordRankMax": 627,
+    "newWords": [
+      605,
+      606,
+      607,
+      608,
+      609,
+      610,
+      611,
+      612,
+      613,
+      614,
+      615,
+      616,
+      617,
+      618,
+      619,
+      620,
+      621,
+      622,
+      623,
+      624,
+      625,
+      626,
+      627
+    ],
+    "reviewWords": [
+      581,
+      584,
+      587,
+      590,
+      593,
+      596,
+      599,
+      602
+    ],
+    "sections": [
+      {
+        "heading": "Глава 1 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: край, мимо, яркий, месяц, отделка. Новые слова: строка, рот, точный, символ, умереть, мере, беда, крик. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: край = edge; мимо = past; яркий = bright; месяц = month; отделка = finish. New words: строка = row; рот = mouth; точный = exact; символ = symbol; умереть = die; мере = least; беда = trouble; крик = shout. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 2 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: край, мимо, яркий, месяц, отделка. Новые слова: кроме, писал, семян, тон, присоединиться, предложить, чистый, перерыв. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: край = edge; мимо = past; яркий = bright; месяц = month; отделка = finish. New words: кроме = except; писал = wrote; семян = seed; тон = tone; присоединиться = join; предложить = suggest; чистый = clean; перерыв = break. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 3 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: край, мимо, яркий, месяц, отделка. Новые слова: леди, двор, подниматься, плохо, удар, масло, кровь. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: край = edge; мимо = past; яркий = bright; месяц = month; отделка = finish. New words: леди = lady; двор = yard; подниматься = rise; плохо = bad; удар = blow; масло = oil; кровь = blood. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-intermediate-14",
+    "level": "intermediate",
+    "title": "Intermediate 14: Слова 628-650",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      628,
+      650
+    ],
+    "allowedWordRankMax": 650,
+    "newWords": [
+      628,
+      629,
+      630,
+      631,
+      632,
+      633,
+      634,
+      635,
+      636,
+      637,
+      638,
+      639,
+      640,
+      641,
+      642,
+      643,
+      644,
+      645,
+      646,
+      647,
+      648,
+      649,
+      650
+    ],
+    "reviewWords": [
+      604,
+      607,
+      610,
+      613,
+      616,
+      619,
+      622,
+      625
+    ],
+    "sections": [
+      {
+        "heading": "Глава 1 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: получать, точный, мере, кроме, тон. Новые слова: коснуться, выросла, цент, смешивать, команда, провод, Стоимость, потерянный. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: получать = receive; точный = exact; мере = least; кроме = except; тон = tone. New words: коснуться = touch; выросла = grew; цент = cent; смешивать = mix; команда = team; провод = wire; Стоимость = cost; потерянный = lost. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 2 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: получать, точный, мере, кроме, тон. Новые слова: коричневый, носить, сад, равный, отправлено, выбирать, упал, соответствовать. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: получать = receive; точный = exact; мере = least; кроме = except; тон = tone. New words: коричневый = brown; носить = wear; сад = garden; равный = equal; отправлено = sent; выбирать = choose; упал = fell; соответствовать = fit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 3 / 3",
+        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: получать, точный, мере, кроме, тон. Новые слова: течь, ярмарка, банк, собирать, сохранить, контроль, десятичной. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: получать = receive; точный = exact; мере = least; кроме = except; тон = tone. New words: течь = flow; ярмарка = fair; банк = bank; собирать = collect; сохранить = save; контроль = control; десятичной = decimal. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-advanced-01",
+    "level": "advanced",
+    "title": "Advanced 01: Слова 651-685",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      651,
+      685
+    ],
+    "allowedWordRankMax": 685,
+    "newWords": [
+      651,
+      652,
+      653,
+      654,
+      655,
+      656,
+      657,
+      658,
+      659,
+      660,
+      661,
+      662,
+      663,
+      664,
+      665,
+      666,
+      667,
+      668,
+      669,
+      670,
+      671,
+      672,
+      673,
+      674,
+      675,
+      676,
+      677,
+      678,
+      679,
+      680,
+      681,
+      682,
+      683,
+      684,
+      685
+    ],
+    "reviewWords": [
+      627,
+      630,
+      633,
+      636,
+      639,
+      642,
+      645,
+      648
+    ],
+    "sections": [
+      {
+        "heading": "Глава 1 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: кровь, цент, провод, коричневый, равный. Новые слова: ухо, еще, вполне, сломал, дело, средний, убивать. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: кровь = blood; цент = cent; провод = wire; коричневый = brown; равный = equal. New words: ухо = ear; еще = else; вполне = quite; сломал = broke; дело = case; средний = middle; убивать = kill. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 2 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: кровь, цент, провод, коричневый, равный. Новые слова: сын, озеро, момент, шкала, громко, весна, наблюдать. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: кровь = blood; цент = cent; провод = wire; коричневый = brown; равный = equal. New words: сын = son; озеро = lake; момент = moment; шкала = scale; громко = loud; весна = spring; наблюдать = observe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 3 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: кровь, цент, провод, коричневый, равный. Новые слова: ребенок, прямо, согласный, нация, словарь, молоко, скорость. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: кровь = blood; цент = cent; провод = wire; коричневый = brown; равный = equal. New words: ребенок = child; прямо = straight; согласный = consonant; нация = nation; словарь = dictionary; молоко = milk; скорость = speed. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 4 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: кровь, цент, провод, коричневый, равный. Новые слова: метод, орган, платить, возраст, раздел, платье, облако. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: кровь = blood; цент = cent; провод = wire; коричневый = brown; равный = equal. New words: метод = method; орган = organ; платить = pay; возраст = age; раздел = section; платье = dress; облако = cloud. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 5 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: кровь, цент, провод, коричневый, равный. Новые слова: сюрприз, тихо, камень, крошечный, подъем, круто, дизайн. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: кровь = blood; цент = cent; провод = wire; коричневый = brown; равный = equal. New words: сюрприз = surprise; тихо = quiet; камень = stone; крошечный = tiny; подъем = climb; круто = cool; дизайн = design. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-advanced-02",
+    "level": "advanced",
+    "title": "Advanced 02: Слова 686-720",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      686,
+      720
+    ],
+    "allowedWordRankMax": 720,
+    "newWords": [
+      686,
+      687,
+      688,
+      689,
+      690,
+      691,
+      692,
+      693,
+      694,
+      695,
+      696,
+      697,
+      698,
+      699,
+      700,
+      701,
+      702,
+      703,
+      704,
+      705,
+      706,
+      707,
+      708,
+      709,
+      710,
+      711,
+      712,
+      713,
+      714,
+      715,
+      716,
+      717,
+      718,
+      719,
+      720
+    ],
+    "reviewWords": [
+      662,
+      665,
+      668,
+      671,
+      674,
+      677,
+      680,
+      683
+    ],
+    "sections": [
+      {
+        "heading": "Глава 1 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: громко, ребенок, нация, скорость, платить. Новые слова: бедный, много, эксперимент, снизу, ключ, железо, один. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: громко = loud; ребенок = child; нация = nation; скорость = speed; платить = pay. New words: бедный = poor; много = lot; эксперимент = experiment; снизу = bottom; ключ = key; железо = iron; один = single. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 2 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: громко, ребенок, нация, скорость, платить. Новые слова: палка, плоским, двадцать, кожа, улыбка, складка, отверстие. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: громко = loud; ребенок = child; нация = nation; скорость = speed; платить = pay. New words: палка = stick; плоским = flat; двадцать = twenty; кожа = skin; улыбка = smile; складка = crease; отверстие = hole. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 3 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: громко, ребенок, нация, скорость, платить. Новые слова: прыжок, ребенок, восемь, деревня, Знакомства, корень, купить. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: громко = loud; ребенок = child; нация = nation; скорость = speed; платить = pay. New words: прыжок = jump; ребенок = baby; восемь = eight; деревня = village; Знакомства = meet; корень = root; купить = buy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 4 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: громко, ребенок, нация, скорость, платить. Новые слова: поднимать, решить, металла, ли, толчок, семь, пункт. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: громко = loud; ребенок = child; нация = nation; скорость = speed; платить = pay. New words: поднимать = raise; решить = solve; металла = metal; ли = whether; толчок = push; семь = seven; пункт = paragraph. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 5 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: громко, ребенок, нация, скорость, платить. Новые слова: третий, должен, ручные, волосы, описывать, повар, этаж. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: громко = loud; ребенок = child; нация = nation; скорость = speed; платить = pay. New words: третий = third; должен = shall; ручные = held; волосы = hair; описывать = describe; повар = cook; этаж = floor. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-advanced-03",
+    "level": "advanced",
+    "title": "Advanced 03: Слова 721-755",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      721,
+      755
+    ],
+    "allowedWordRankMax": 755,
+    "newWords": [
+      721,
+      722,
+      723,
+      724,
+      725,
+      726,
+      727,
+      728,
+      729,
+      730,
+      731,
+      732,
+      733,
+      734,
+      735,
+      736,
+      737,
+      738,
+      739,
+      740,
+      741,
+      742,
+      743,
+      744,
+      745,
+      746,
+      747,
+      748,
+      749,
+      750,
+      751,
+      752,
+      753,
+      754,
+      755
+    ],
+    "reviewWords": [
+      697,
+      700,
+      703,
+      706,
+      709,
+      712,
+      715,
+      718
+    ],
+    "sections": [
+      {
+        "heading": "Глава 1 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: улыбка, прыжок, деревня, купить, металла. Новые слова: или, результат, сжечь, холм, сейф, кошка, век. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: улыбка = smile; прыжок = jump; деревня = village; купить = buy; металла = metal. New words: или = either; результат = result; сжечь = burn; холм = hill; сейф = safe; кошка = cat; век = century. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 2 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: улыбка, прыжок, деревня, купить, металла. Новые слова: рассматривать, Тип, закон, немного, побережье, копия, фраза. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: улыбка = smile; прыжок = jump; деревня = village; купить = buy; металла = metal. New words: рассматривать = consider; Тип = type; закон = law; немного = bit; побережье = coast; копия = copy; фраза = phrase. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 3 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: улыбка, прыжок, деревня, купить, металла. Новые слова: тихий, высокий, песок, почвы, рулон, температура, палец. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: улыбка = smile; прыжок = jump; деревня = village; купить = buy; металла = metal. New words: тихий = silent; высокий = tall; песок = sand; почвы = soil; рулон = roll; температура = temperature; палец = finger. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 4 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: улыбка, прыжок, деревня, купить, металла. Новые слова: промышленность, значение, борьба, ложь, бить, возбуждать, естественный. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: улыбка = smile; прыжок = jump; деревня = village; купить = buy; металла = metal. New words: промышленность = industry; значение = value; борьба = fight; ложь = lie; бить = beat; возбуждать = excite; естественный = natural. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 5 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: улыбка, прыжок, деревня, купить, металла. Новые слова: вид, смысл, капитал, не будет, стул, опасность, фрукты. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: улыбка = smile; прыжок = jump; деревня = village; купить = buy; металла = metal. New words: вид = view; смысл = sense; капитал = capital; не будет = won’t; стул = chair; опасность = danger; фрукты = fruit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-advanced-04",
+    "level": "advanced",
+    "title": "Advanced 04: Слова 756-790",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      756,
+      790
+    ],
+    "allowedWordRankMax": 790,
+    "newWords": [
+      756,
+      757,
+      758,
+      759,
+      760,
+      761,
+      762,
+      763,
+      764,
+      765,
+      766,
+      767,
+      768,
+      769,
+      770,
+      771,
+      772,
+      773,
+      774,
+      775,
+      776,
+      777,
+      778,
+      779,
+      780,
+      781,
+      782,
+      783,
+      784,
+      785,
+      786,
+      787,
+      788,
+      789,
+      790
+    ],
+    "reviewWords": [
+      732,
+      735,
+      738,
+      741,
+      744,
+      747,
+      750,
+      753
+    ],
+    "sections": [
+      {
+        "heading": "Глава 1 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: побережье, тихий, почвы, палец, борьба. Новые слова: богатые, толщиной, солдат, процесс, работать, практика, отдельный. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: побережье = coast; тихий = silent; почвы = soil; палец = finger; борьба = fight. New words: богатые = rich; толщиной = thick; солдат = soldier; процесс = process; работать = operate; практика = practice; отдельный = separate. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 2 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: побережье, тихий, почвы, палец, борьба. Новые слова: трудный, врач, пожалуйста, защищать, полдень, урожай, современный. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: побережье = coast; тихий = silent; почвы = soil; палец = finger; борьба = fight. New words: трудный = difficult; врач = doctor; пожалуйста = please; защищать = protect; полдень = noon; урожай = crop; современный = modern. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 3 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: побережье, тихий, почвы, палец, борьба. Новые слова: элемент, хит, студент, угол, партия, поставка, чьи. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: побережье = coast; тихий = silent; почвы = soil; палец = finger; борьба = fight. New words: элемент = element; хит = hit; студент = student; угол = corner; партия = party; поставка = supply; чьи = whose. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 4 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: побережье, тихий, почвы, палец, борьба. Новые слова: разместить, кольцо, характер, насекомое, пойманный, период, указывать. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: побережье = coast; тихий = silent; почвы = soil; палец = finger; борьба = fight. New words: разместить = locate; кольцо = ring; характер = character; насекомое = insect; пойманный = caught; период = period; указывать = indicate. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 5 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: побережье, тихий, почвы, палец, борьба. Новые слова: радио, говорил, атом, человек, история, эффект, электрический. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: побережье = coast; тихий = silent; почвы = soil; палец = finger; борьба = fight. New words: радио = radio; говорил = spoke; атом = atom; человек = human; история = history; эффект = effect; электрический = electric. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-advanced-05",
+    "level": "advanced",
+    "title": "Advanced 05: Слова 791-825",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      791,
+      825
+    ],
+    "allowedWordRankMax": 825,
+    "newWords": [
+      791,
+      792,
+      793,
+      794,
+      795,
+      796,
+      797,
+      798,
+      799,
+      800,
+      801,
+      802,
+      803,
+      804,
+      805,
+      806,
+      807,
+      808,
+      809,
+      810,
+      811,
+      812,
+      813,
+      814,
+      815,
+      816,
+      817,
+      818,
+      819,
+      820,
+      821,
+      822,
+      823,
+      824,
+      825
+    ],
+    "reviewWords": [
+      767,
+      770,
+      773,
+      776,
+      779,
+      782,
+      785,
+      788
+    ],
+    "sections": [
+      {
+        "heading": "Глава 1 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: полдень, элемент, угол, чьи, характер. Новые слова: ожидать, кость, железнодорожные, вообразить, обеспечить, соглашаться, таким образом. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: полдень = noon; элемент = element; угол = corner; чьи = whose; характер = character. New words: ожидать = expect; кость = bone; железнодорожные = rail; вообразить = imagine; обеспечить = provide; соглашаться = agree; таким образом = thus. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 2 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: полдень, элемент, угол, чьи, характер. Новые слова: нежный, женщина, капитан, догадываться, необходимо, резкое, крыло. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: полдень = noon; элемент = element; угол = corner; чьи = whose; характер = character. New words: нежный = gentle; женщина = woman; капитан = captain; догадываться = guess; необходимо = necessary; резкое = sharp; крыло = wing. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 3 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: полдень, элемент, угол, чьи, характер. Новые слова: создавать, сосед, стирка, летучая мышь, а, толпа, кукуруза. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: полдень = noon; элемент = element; угол = corner; чьи = whose; характер = character. New words: создавать = create; сосед = neighbor; стирка = wash; летучая мышь = bat; а = rather; толпа = crowd; кукуруза = corn. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 4 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: полдень, элемент, угол, чьи, характер. Новые слова: сравнить, стихотворение, строка, колокол, зависеть, мясо, руб. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: полдень = noon; элемент = element; угол = corner; чьи = whose; характер = character. New words: сравнить = compare; стихотворение = poem; строка = string; колокол = bell; зависеть = depend; мясо = meat; руб = rub. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 5 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: полдень, элемент, угол, чьи, характер. Новые слова: трубка, известный, доллар, поток, страх, зрение, тонкий. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: полдень = noon; элемент = element; угол = corner; чьи = whose; характер = character. New words: трубка = tube; известный = famous; доллар = dollar; поток = stream; страх = fear; зрение = sight; тонкий = thin. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-advanced-06",
+    "level": "advanced",
+    "title": "Advanced 06: Слова 826-860",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      826,
+      860
+    ],
+    "allowedWordRankMax": 860,
+    "newWords": [
+      826,
+      827,
+      828,
+      829,
+      830,
+      831,
+      832,
+      833,
+      834,
+      835,
+      836,
+      837,
+      838,
+      839,
+      840,
+      841,
+      842,
+      843,
+      844,
+      845,
+      846,
+      847,
+      848,
+      849,
+      850,
+      851,
+      852,
+      853,
+      854,
+      855,
+      856,
+      857,
+      858,
+      859,
+      860
+    ],
+    "reviewWords": [
+      802,
+      805,
+      808,
+      811,
+      814,
+      817,
+      820,
+      823
+    ],
+    "sections": [
+      {
+        "heading": "Глава 1 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: необходимо, создавать, летучая мышь, кукуруза, строка. Новые слова: треугольник, планета, спешить, главный, колония, часы, шахта. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: необходимо = necessary; создавать = create; летучая мышь = bat; кукуруза = corn; строка = string. New words: треугольник = triangle; планета = planet; спешить = hurry; главный = chief; колония = colony; часы = clock; шахта = mine. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 2 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: необходимо, создавать, летучая мышь, кукуруза, строка. Новые слова: связать, введите, основным, свежий, поиск, отправить, желтый. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: необходимо = necessary; создавать = create; летучая мышь = bat; кукуруза = corn; строка = string. New words: связать = tie; введите = enter; основным = major; свежий = fresh; поиск = search; отправить = send; желтый = yellow. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 3 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: необходимо, создавать, летучая мышь, кукуруза, строка. Новые слова: пистолет, позволять, печать, мертвый, место, пустыня, костюм. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: необходимо = necessary; создавать = create; летучая мышь = bat; кукуруза = corn; строка = string. New words: пистолет = gun; позволять = allow; печать = print; мертвый = dead; место = spot; пустыня = desert; костюм = suit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 4 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: необходимо, создавать, летучая мышь, кукуруза, строка. Новые слова: ток, лифт, выросла, приходим, мастер, трек, родитель. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: необходимо = necessary; создавать = create; летучая мышь = bat; кукуруза = corn; строка = string. New words: ток = current; лифт = lift; выросла = rose; приходим = arrive; мастер = master; трек = track; родитель = parent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 5 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: необходимо, создавать, летучая мышь, кукуруза, строка. Новые слова: берег, деление, лист, вещество, пользу, подключать, пост. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: необходимо = necessary; создавать = create; летучая мышь = bat; кукуруза = corn; строка = string. New words: берег = shore; деление = division; лист = sheet; вещество = substance; пользу = favor; подключать = connect; пост = post. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-advanced-07",
+    "level": "advanced",
+    "title": "Advanced 07: Слова 861-895",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      861,
+      895
+    ],
+    "allowedWordRankMax": 895,
+    "newWords": [
+      861,
+      862,
+      863,
+      864,
+      865,
+      866,
+      867,
+      868,
+      869,
+      870,
+      871,
+      872,
+      873,
+      874,
+      875,
+      876,
+      877,
+      878,
+      879,
+      880,
+      881,
+      882,
+      883,
+      884,
+      885,
+      886,
+      887,
+      888,
+      889,
+      890,
+      891,
+      892,
+      893,
+      894,
+      895
+    ],
+    "reviewWords": [
+      837,
+      840,
+      843,
+      846,
+      849,
+      852,
+      855,
+      858
+    ],
+    "sections": [
+      {
+        "heading": "Глава 1 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: поиск, пистолет, мертвый, костюм, выросла. Новые слова: провести, аккорд, жира, довольный, оригинальный, доля, станция. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: поиск = search; пистолет = gun; мертвый = dead; костюм = suit; выросла = rose. New words: провести = spend; аккорд = chord; жира = fat; довольный = glad; оригинальный = original; доля = share; станция = station. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 2 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: поиск, пистолет, мертвый, костюм, выросла. Новые слова: папа, хлеб, взимать, собственно, бар, предложение, сегмент. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: поиск = search; пистолет = gun; мертвый = dead; костюм = suit; выросла = rose. New words: папа = dad; хлеб = bread; взимать = charge; собственно = proper; бар = bar; предложение = offer; сегмент = segment. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 3 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: поиск, пистолет, мертвый, костюм, выросла. Новые слова: раб, утка, растворимый, рынок, степень, заселять, цыпленок. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: поиск = search; пистолет = gun; мертвый = dead; костюм = suit; выросла = rose. New words: раб = slave; утка = duck; растворимый = instant; рынок = market; степень = degree; заселять = populate; цыпленок = chick. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 4 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: поиск, пистолет, мертвый, костюм, выросла. Новые слова: дорогой, враг, ответ, напиток, происходить, поддержка, речь. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: поиск = search; пистолет = gun; мертвый = dead; костюм = suit; выросла = rose. New words: дорогой = dear; враг = enemy; ответ = reply; напиток = drink; происходить = occur; поддержка = support; речь = speech. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 5 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: поиск, пистолет, мертвый, костюм, выросла. Новые слова: природа, диапазон, пара, движение, путь, жидкости, войти. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: поиск = search; пистолет = gun; мертвый = dead; костюм = suit; выросла = rose. New words: природа = nature; диапазон = range; пара = steam; движение = motion; путь = path; жидкости = liquid; войти = log. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-advanced-08",
+    "level": "advanced",
+    "title": "Advanced 08: Слова 896-930",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      896,
+      930
+    ],
+    "allowedWordRankMax": 930,
+    "newWords": [
+      896,
+      897,
+      898,
+      899,
+      900,
+      901,
+      902,
+      903,
+      904,
+      905,
+      906,
+      907,
+      908,
+      909,
+      910,
+      911,
+      912,
+      913,
+      914,
+      915,
+      916,
+      917,
+      918,
+      919,
+      920,
+      921,
+      922,
+      923,
+      924,
+      925,
+      926,
+      927,
+      928,
+      929,
+      930
+    ],
+    "reviewWords": [
+      872,
+      875,
+      878,
+      881,
+      884,
+      887,
+      890,
+      893
+    ],
+    "sections": [
+      {
+        "heading": "Глава 1 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: бар, раб, рынок, цыпленок, ответ. Новые слова: означало, фактор, зубы, оболочка, шея, кислорода, сахар. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: бар = bar; раб = slave; рынок = market; цыпленок = chick; ответ = reply. New words: означало = meant; фактор = quotient; зубы = teeth; оболочка = shell; шея = neck; кислорода = oxygen; сахар = sugar. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 2 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: бар, раб, рынок, цыпленок, ответ. Новые слова: смерть, довольно, умение, женщины, сезон, решение, магнит. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: бар = bar; раб = slave; рынок = market; цыпленок = chick; ответ = reply. New words: смерть = death; довольно = pretty; умение = skill; женщины = women; сезон = season; решение = solution; магнит = magnet. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 3 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: бар, раб, рынок, цыпленок, ответ. Новые слова: серебро, спасибо, филиал, матч, суффикс, особенно, рис. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: бар = bar; раб = slave; рынок = market; цыпленок = chick; ответ = reply. New words: серебро = silver; спасибо = thank; филиал = branch; матч = match; суффикс = suffix; особенно = especially; рис = fig. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 4 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: бар, раб, рынок, цыпленок, ответ. Новые слова: боится, огромный, сестра, сталь, обсуждать, вперед, похожи. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: бар = bar; раб = slave; рынок = market; цыпленок = chick; ответ = reply. New words: боится = afraid; огромный = huge; сестра = sister; сталь = steel; обсуждать = discuss; вперед = forward; похожи = similar. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 5 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: бар, раб, рынок, цыпленок, ответ. Новые слова: направлять, опыт, счет, яблоко, купленный, привело, шаг. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: бар = bar; раб = slave; рынок = market; цыпленок = chick; ответ = reply. New words: направлять = guide; опыт = experience; счет = score; яблоко = apple; купленный = bought; привело = led; шаг = pitch. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-advanced-09",
+    "level": "advanced",
+    "title": "Advanced 09: Слова 931-965",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      931,
+      965
+    ],
+    "allowedWordRankMax": 965,
+    "newWords": [
+      931,
+      932,
+      933,
+      934,
+      935,
+      936,
+      937,
+      938,
+      939,
+      940,
+      941,
+      942,
+      943,
+      944,
+      945,
+      946,
+      947,
+      948,
+      949,
+      950,
+      951,
+      952,
+      953,
+      954,
+      955,
+      956,
+      957,
+      958,
+      959,
+      960,
+      961,
+      962,
+      963,
+      964,
+      965
+    ],
+    "reviewWords": [
+      907,
+      910,
+      913,
+      916,
+      919,
+      922,
+      925,
+      928
+    ],
+    "sections": [
+      {
+        "heading": "Глава 1 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: сезон, серебро, матч, рис, сестра. Новые слова: пальто, масса, карта, полоса, веревка, скольжение, выиграть. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: сезон = season; серебро = silver; матч = match; рис = fig; сестра = sister. New words: пальто = coat; масса = mass; карта = card; полоса = band; веревка = rope; скольжение = slip; выиграть = win. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 2 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: сезон, серебро, матч, рис, сестра. Новые слова: мечтать, вечер, состояние, корма, инструмент, общий, основной. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: сезон = season; серебро = silver; матч = match; рис = fig; сестра = sister. New words: мечтать = dream; вечер = evening; состояние = condition; корма = feed; инструмент = tool; общий = total; основной = basic. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 3 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: сезон, серебро, матч, рис, сестра. Новые слова: запах, долина, ни, двойной, сиденья, продолжать, блок. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: сезон = season; серебро = silver; матч = match; рис = fig; сестра = sister. New words: запах = smell; долина = valley; ни = nor; двойной = double; сиденья = seat; продолжать = continue; блок = block. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 4 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: сезон, серебро, матч, рис, сестра. Новые слова: диаграмма, шляпа, продать, успех, компания, вычитать, мероприятие. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: сезон = season; серебро = silver; матч = match; рис = fig; сестра = sister. New words: диаграмма = chart; шляпа = hat; продать = sell; успех = success; компания = company; вычитать = subtract; мероприятие = event. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 5 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: сезон, серебро, матч, рис, сестра. Новые слова: частности, сделка, плавать, термин, напротив, жена, обуви. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: сезон = season; серебро = silver; матч = match; рис = fig; сестра = sister. New words: частности = particular; сделка = deal; плавать = swim; термин = term; напротив = opposite; жена = wife; обуви = shoe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "russian-advanced-10",
+    "level": "advanced",
+    "title": "Advanced 10: Слова 966-1000",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      966,
+      1000
+    ],
+    "allowedWordRankMax": 1000,
+    "newWords": [
+      966,
+      967,
+      968,
+      969,
+      970,
+      971,
+      972,
+      973,
+      974,
+      975,
+      976,
+      977,
+      978,
+      979,
+      980,
+      981,
+      982,
+      983,
+      984,
+      985,
+      986,
+      987,
+      988,
+      989,
+      990,
+      991,
+      992,
+      993,
+      994,
+      995,
+      996,
+      997,
+      998,
+      999,
+      1000
+    ],
+    "reviewWords": [
+      942,
+      945,
+      948,
+      951,
+      954,
+      957,
+      960,
+      963
+    ],
+    "sections": [
+      {
+        "heading": "Глава 1 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: инструмент, запах, двойной, блок, продать. Новые слова: плечо, распространение, организовать, лагерь, изобретать, хлопок, родившийся. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: инструмент = tool; запах = smell; двойной = double; блок = block; продать = sell. New words: плечо = shoulder; распространение = spread; организовать = arrange; лагерь = camp; изобретать = invent; хлопок = cotton; родившийся = born. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 2 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: инструмент, запах, двойной, блок, продать. Новые слова: определять, кварта, девять, грузовик, шум, уровень, шанс. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: инструмент = tool; запах = smell; двойной = double; блок = block; продать = sell. New words: определять = determine; кварта = quart; девять = nine; грузовик = truck; шум = noise; уровень = level; шанс = chance. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 3 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: инструмент, запах, двойной, блок, продать. Новые слова: собирать, магазин, протяжение, бросать, блеск, имущество, колонка. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: инструмент = tool; запах = smell; двойной = double; блок = block; продать = sell. New words: собирать = gather; магазин = shop; протяжение = stretch; бросать = throw; блеск = shine; имущество = property; колонка = column. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 4 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: инструмент, запах, двойной, блок, продать. Новые слова: молекула, выбирать, неправильно, серый, повторение, требовать, широкий. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: инструмент = tool; запах = smell; двойной = double; блок = block; продать = sell. New words: молекула = molecule; выбирать = select; неправильно = wrong; серый = gray; повторение = repeat; требовать = require; широкий = broad. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "Глава 5 / 5",
+        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: инструмент, запах, двойной, блок, продать. Новые слова: подготовить, соль, нос, множественное, гнев, претензии, континент. Он читает вслух, слушает себя и записывает слова в тетрадь.",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: инструмент = tool; запах = smell; двойной = double; блок = block; продать = sell. New words: подготовить = prepare; соль = salt; нос = nose; множественное = plural; гнев = anger; претензии = claim; континент = continent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  }
+]

@@ -1,0 +1,7002 @@
+[
+  {
+    "rank": 1,
+    "sourceRank": 1,
+    "word": "كما",
+    "translation": "as",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 2,
+    "sourceRank": 2,
+    "word": "أنا",
+    "translation": "I",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 3,
+    "sourceRank": 3,
+    "word": "له",
+    "translation": "his",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 4,
+    "sourceRank": 4,
+    "word": "أن",
+    "translation": "that",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 5,
+    "sourceRank": 5,
+    "word": "هو",
+    "translation": "he",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 6,
+    "sourceRank": 6,
+    "word": "كان",
+    "translation": "was",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 7,
+    "sourceRank": 7,
+    "word": "إلى",
+    "translation": "for",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 8,
+    "sourceRank": 8,
+    "word": "في",
+    "translation": "on",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 9,
+    "sourceRank": 9,
+    "word": "هي",
+    "translation": "are",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 10,
+    "sourceRank": 10,
+    "word": "مع",
+    "translation": "with",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 11,
+    "sourceRank": 11,
+    "word": "هم",
+    "translation": "they",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 12,
+    "sourceRank": 12,
+    "word": "يكون",
+    "translation": "be",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 13,
+    "sourceRank": 13,
+    "word": "في",
+    "translation": "at",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 14,
+    "sourceRank": 14,
+    "word": "واحد",
+    "translation": "one",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 15,
+    "sourceRank": 15,
+    "word": "ديك",
+    "translation": "have",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 16,
+    "sourceRank": 16,
+    "word": "هذا",
+    "translation": "this",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 17,
+    "sourceRank": 17,
+    "word": "من",
+    "translation": "from",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 18,
+    "sourceRank": 18,
+    "word": "بواسطة",
+    "translation": "by",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 19,
+    "sourceRank": 19,
+    "word": "حار",
+    "translation": "hot",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 20,
+    "sourceRank": 20,
+    "word": "كلمة",
+    "translation": "word",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 21,
+    "sourceRank": 21,
+    "word": "لكن",
+    "translation": "but",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 22,
+    "sourceRank": 22,
+    "word": "ما",
+    "translation": "what",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 23,
+    "sourceRank": 23,
+    "word": "بعض",
+    "translation": "some",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 24,
+    "sourceRank": 24,
+    "word": "هو",
+    "translation": "is",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 25,
+    "sourceRank": 25,
+    "word": "هو",
+    "translation": "it",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 26,
+    "sourceRank": 26,
+    "word": "أنت",
+    "translation": "you",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 27,
+    "sourceRank": 27,
+    "word": "أو",
+    "translation": "or",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 28,
+    "sourceRank": 28,
+    "word": "كان",
+    "translation": "had",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 29,
+    "sourceRank": 29,
+    "word": "و",
+    "translation": "the",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 30,
+    "sourceRank": 30,
+    "word": "من",
+    "translation": "of",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 31,
+    "sourceRank": 31,
+    "word": "إلى",
+    "translation": "to",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 32,
+    "sourceRank": 32,
+    "word": "و",
+    "translation": "and",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 33,
+    "sourceRank": 33,
+    "word": "و",
+    "translation": "a",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 34,
+    "sourceRank": 34,
+    "word": "في",
+    "translation": "in",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 35,
+    "sourceRank": 35,
+    "word": "نحن",
+    "translation": "we",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 36,
+    "sourceRank": 36,
+    "word": "علبة",
+    "translation": "can",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 37,
+    "sourceRank": 37,
+    "word": "خارج",
+    "translation": "out",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 38,
+    "sourceRank": 38,
+    "word": "البعض",
+    "translation": "other",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 39,
+    "sourceRank": 39,
+    "word": "و",
+    "translation": "were",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 40,
+    "sourceRank": 40,
+    "word": "التي",
+    "translation": "which",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 41,
+    "sourceRank": 41,
+    "word": "القيام",
+    "translation": "do",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 42,
+    "sourceRank": 42,
+    "word": "من",
+    "translation": "their",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 43,
+    "sourceRank": 43,
+    "word": "الوقت",
+    "translation": "time",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 44,
+    "sourceRank": 44,
+    "word": "إذا",
+    "translation": "if",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 45,
+    "sourceRank": 45,
+    "word": "سوف",
+    "translation": "will",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 46,
+    "sourceRank": 46,
+    "word": "كيف",
+    "translation": "how",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 47,
+    "sourceRank": 47,
+    "word": "قال",
+    "translation": "said",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 48,
+    "sourceRank": 48,
+    "word": "و",
+    "translation": "an",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 49,
+    "sourceRank": 49,
+    "word": "كل",
+    "translation": "each",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 50,
+    "sourceRank": 50,
+    "word": "أقول",
+    "translation": "tell",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 51,
+    "sourceRank": 51,
+    "word": "لا",
+    "translation": "does",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 52,
+    "sourceRank": 52,
+    "word": "مجموعة",
+    "translation": "set",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 53,
+    "sourceRank": 53,
+    "word": "ثلاثة",
+    "translation": "three",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 54,
+    "sourceRank": 54,
+    "word": "تريد",
+    "translation": "want",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 55,
+    "sourceRank": 55,
+    "word": "هواء",
+    "translation": "air",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 56,
+    "sourceRank": 56,
+    "word": "جيد",
+    "translation": "well",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 57,
+    "sourceRank": 57,
+    "word": "أيضا",
+    "translation": "also",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 58,
+    "sourceRank": 58,
+    "word": "لعب",
+    "translation": "play",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 59,
+    "sourceRank": 59,
+    "word": "صغير",
+    "translation": "small",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 60,
+    "sourceRank": 60,
+    "word": "نهاية",
+    "translation": "end",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 61,
+    "sourceRank": 61,
+    "word": "وضع",
+    "translation": "put",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 62,
+    "sourceRank": 62,
+    "word": "المنزل",
+    "translation": "home",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 63,
+    "sourceRank": 63,
+    "word": "قرأ",
+    "translation": "read",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 64,
+    "sourceRank": 64,
+    "word": "يد",
+    "translation": "hand",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 65,
+    "sourceRank": 65,
+    "word": "ميناء",
+    "translation": "port",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 66,
+    "sourceRank": 66,
+    "word": "كبير",
+    "translation": "large",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 67,
+    "sourceRank": 67,
+    "word": "تهجى",
+    "translation": "spell",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 68,
+    "sourceRank": 68,
+    "word": "إضافة",
+    "translation": "add",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 69,
+    "sourceRank": 69,
+    "word": "حتى",
+    "translation": "even",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 70,
+    "sourceRank": 70,
+    "word": "الأرض",
+    "translation": "land",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 71,
+    "sourceRank": 71,
+    "word": "هنا",
+    "translation": "here",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 72,
+    "sourceRank": 72,
+    "word": "يجب",
+    "translation": "must",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 73,
+    "sourceRank": 73,
+    "word": "كبير",
+    "translation": "big",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 74,
+    "sourceRank": 74,
+    "word": "ارتفاع",
+    "translation": "high",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 75,
+    "sourceRank": 75,
+    "word": "مثل",
+    "translation": "such",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 76,
+    "sourceRank": 76,
+    "word": "تابع",
+    "translation": "follow",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 77,
+    "sourceRank": 77,
+    "word": "فعل",
+    "translation": "act",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 78,
+    "sourceRank": 78,
+    "word": "لماذا",
+    "translation": "why",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 79,
+    "sourceRank": 79,
+    "word": "تطلب",
+    "translation": "ask",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 80,
+    "sourceRank": 80,
+    "word": "الرجال",
+    "translation": "men",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 81,
+    "sourceRank": 81,
+    "word": "تغيير",
+    "translation": "change",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 82,
+    "sourceRank": 82,
+    "word": "ذهب",
+    "translation": "went",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 83,
+    "sourceRank": 83,
+    "word": "ضوء",
+    "translation": "light",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 84,
+    "sourceRank": 84,
+    "word": "نوع",
+    "translation": "kind",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 85,
+    "sourceRank": 85,
+    "word": "بعيدا",
+    "translation": "off",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 86,
+    "sourceRank": 86,
+    "word": "تحتاج",
+    "translation": "need",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 87,
+    "sourceRank": 87,
+    "word": "منزل",
+    "translation": "house",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 88,
+    "sourceRank": 88,
+    "word": "صور",
+    "translation": "picture",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 89,
+    "sourceRank": 89,
+    "word": "محاولة",
+    "translation": "try",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 90,
+    "sourceRank": 90,
+    "word": "لنا",
+    "translation": "us",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 91,
+    "sourceRank": 91,
+    "word": "مرة أخرى",
+    "translation": "again",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 92,
+    "sourceRank": 92,
+    "word": "الحيوان",
+    "translation": "animal",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 93,
+    "sourceRank": 93,
+    "word": "نقطة",
+    "translation": "point",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 94,
+    "sourceRank": 94,
+    "word": "أم",
+    "translation": "mother",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 95,
+    "sourceRank": 95,
+    "word": "العالم",
+    "translation": "world",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 96,
+    "sourceRank": 96,
+    "word": "قرب",
+    "translation": "near",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 97,
+    "sourceRank": 97,
+    "word": "بناء",
+    "translation": "build",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 98,
+    "sourceRank": 98,
+    "word": "النفس",
+    "translation": "self",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 99,
+    "sourceRank": 99,
+    "word": "أرض",
+    "translation": "earth",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 100,
+    "sourceRank": 100,
+    "word": "الأب",
+    "translation": "father",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 101,
+    "sourceRank": 101,
+    "word": "أي",
+    "translation": "any",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 102,
+    "sourceRank": 102,
+    "word": "جديدة",
+    "translation": "new",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 103,
+    "sourceRank": 103,
+    "word": "العمل",
+    "translation": "work",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 104,
+    "sourceRank": 104,
+    "word": "جزء",
+    "translation": "part",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 105,
+    "sourceRank": 105,
+    "word": "أخذ",
+    "translation": "take",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 106,
+    "sourceRank": 106,
+    "word": "الحصول على",
+    "translation": "get",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 107,
+    "sourceRank": 107,
+    "word": "مكان",
+    "translation": "place",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 108,
+    "sourceRank": 108,
+    "word": "مصنوع",
+    "translation": "made",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 109,
+    "sourceRank": 109,
+    "word": "حي",
+    "translation": "live",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 110,
+    "sourceRank": 110,
+    "word": "حيث",
+    "translation": "where",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 111,
+    "sourceRank": 111,
+    "word": "بعد",
+    "translation": "after",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 112,
+    "sourceRank": 112,
+    "word": "ظهر",
+    "translation": "back",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 113,
+    "sourceRank": 113,
+    "word": "القليل",
+    "translation": "little",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 114,
+    "sourceRank": 114,
+    "word": "فقط",
+    "translation": "only",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 115,
+    "sourceRank": 115,
+    "word": "جولة",
+    "translation": "round",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 116,
+    "sourceRank": 116,
+    "word": "رجل",
+    "translation": "man",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 117,
+    "sourceRank": 117,
+    "word": "عام",
+    "translation": "year",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 118,
+    "sourceRank": 118,
+    "word": "جاء",
+    "translation": "came",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 119,
+    "sourceRank": 119,
+    "word": "المعرض",
+    "translation": "show",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 120,
+    "sourceRank": 120,
+    "word": "كل",
+    "translation": "every",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 121,
+    "sourceRank": 121,
+    "word": "جيد",
+    "translation": "good",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 122,
+    "sourceRank": 122,
+    "word": "أنا",
+    "translation": "me",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 123,
+    "sourceRank": 123,
+    "word": "منح",
+    "translation": "give",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 124,
+    "sourceRank": 124,
+    "word": "لدينا",
+    "translation": "our",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 125,
+    "sourceRank": 125,
+    "word": "تحت",
+    "translation": "under",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 126,
+    "sourceRank": 126,
+    "word": "اسم",
+    "translation": "name",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 127,
+    "sourceRank": 127,
+    "word": "جدا",
+    "translation": "very",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 128,
+    "sourceRank": 128,
+    "word": "من خلال",
+    "translation": "through",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 129,
+    "sourceRank": 129,
+    "word": "فقط",
+    "translation": "just",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 130,
+    "sourceRank": 130,
+    "word": "شكل",
+    "translation": "form",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 131,
+    "sourceRank": 131,
+    "word": "عقوبة",
+    "translation": "sentence",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 132,
+    "sourceRank": 132,
+    "word": "عظيم",
+    "translation": "great",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 133,
+    "sourceRank": 133,
+    "word": "اعتقد",
+    "translation": "think",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 134,
+    "sourceRank": 134,
+    "word": "قول",
+    "translation": "say",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 135,
+    "sourceRank": 135,
+    "word": "مساعدة",
+    "translation": "help",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 136,
+    "sourceRank": 136,
+    "word": "منخفض",
+    "translation": "low",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 137,
+    "sourceRank": 137,
+    "word": "خط",
+    "translation": "line",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 138,
+    "sourceRank": 138,
+    "word": "اختلف",
+    "translation": "differ",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 139,
+    "sourceRank": 139,
+    "word": "منعطف",
+    "translation": "turn",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 140,
+    "sourceRank": 140,
+    "word": "السبب",
+    "translation": "cause",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 141,
+    "sourceRank": 141,
+    "word": "كثيرا",
+    "translation": "much",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 142,
+    "sourceRank": 142,
+    "word": "متوسط",
+    "translation": "mean",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 143,
+    "sourceRank": 143,
+    "word": "قبل",
+    "translation": "before",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 144,
+    "sourceRank": 144,
+    "word": "خطوة",
+    "translation": "move",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 145,
+    "sourceRank": 145,
+    "word": "الحق",
+    "translation": "right",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 146,
+    "sourceRank": 146,
+    "word": "صبي",
+    "translation": "boy",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 147,
+    "sourceRank": 147,
+    "word": "قديم",
+    "translation": "old",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 148,
+    "sourceRank": 148,
+    "word": "أيضا",
+    "translation": "too",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 149,
+    "sourceRank": 149,
+    "word": "نفسه",
+    "translation": "same",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 150,
+    "sourceRank": 150,
+    "word": "هي",
+    "translation": "she",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 151,
+    "sourceRank": 151,
+    "word": "كل",
+    "translation": "all",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 152,
+    "sourceRank": 152,
+    "word": "هناك",
+    "translation": "there",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 153,
+    "sourceRank": 153,
+    "word": "عندما",
+    "translation": "when",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 154,
+    "sourceRank": 154,
+    "word": "فوق",
+    "translation": "up",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 155,
+    "sourceRank": 155,
+    "word": "استخدام",
+    "translation": "use",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 156,
+    "sourceRank": 156,
+    "word": "ك",
+    "translation": "your",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 157,
+    "sourceRank": 157,
+    "word": "طريق",
+    "translation": "way",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 158,
+    "sourceRank": 158,
+    "word": "حول",
+    "translation": "about",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 159,
+    "sourceRank": 159,
+    "word": "كثير",
+    "translation": "many",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 160,
+    "sourceRank": 160,
+    "word": "ثم",
+    "translation": "then",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 161,
+    "sourceRank": 161,
+    "word": "هم",
+    "translation": "them",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 162,
+    "sourceRank": 162,
+    "word": "إرسال",
+    "translation": "write",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 163,
+    "sourceRank": 163,
+    "word": "أراد",
+    "translation": "would",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 164,
+    "sourceRank": 164,
+    "word": "مثل",
+    "translation": "like",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 165,
+    "sourceRank": 165,
+    "word": "هكذا",
+    "translation": "so",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 166,
+    "sourceRank": 166,
+    "word": "هؤلاء",
+    "translation": "these",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 167,
+    "sourceRank": 167,
+    "word": "لها",
+    "translation": "her",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 168,
+    "sourceRank": 168,
+    "word": "طويل",
+    "translation": "long",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 169,
+    "sourceRank": 169,
+    "word": "جعل",
+    "translation": "make",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 170,
+    "sourceRank": 170,
+    "word": "شيء",
+    "translation": "thing",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 171,
+    "sourceRank": 171,
+    "word": "شاهد",
+    "translation": "see",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 172,
+    "sourceRank": 172,
+    "word": "له",
+    "translation": "him",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 173,
+    "sourceRank": 173,
+    "word": "اثنين",
+    "translation": "two",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 174,
+    "sourceRank": 174,
+    "word": "لديه",
+    "translation": "has",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 175,
+    "sourceRank": 175,
+    "word": "بحث",
+    "translation": "look",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 176,
+    "sourceRank": 176,
+    "word": "أكثر",
+    "translation": "more",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 177,
+    "sourceRank": 177,
+    "word": "يوم",
+    "translation": "day",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 178,
+    "sourceRank": 178,
+    "word": "يمكن",
+    "translation": "could",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 179,
+    "sourceRank": 179,
+    "word": "تذهب",
+    "translation": "go",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 180,
+    "sourceRank": 180,
+    "word": "جاء",
+    "translation": "come",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 181,
+    "sourceRank": 181,
+    "word": "لم",
+    "translation": "did",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 182,
+    "sourceRank": 182,
+    "word": "عدد",
+    "translation": "number",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 183,
+    "sourceRank": 183,
+    "word": "صوت",
+    "translation": "sound",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 184,
+    "sourceRank": 184,
+    "word": "لا",
+    "translation": "no",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 185,
+    "sourceRank": 185,
+    "word": "أكثر",
+    "translation": "most",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 186,
+    "sourceRank": 186,
+    "word": "الناس",
+    "translation": "people",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 187,
+    "sourceRank": 187,
+    "word": "لي",
+    "translation": "my",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 188,
+    "sourceRank": 188,
+    "word": "على",
+    "translation": "over",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 189,
+    "sourceRank": 189,
+    "word": "تعرف",
+    "translation": "know",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 190,
+    "sourceRank": 190,
+    "word": "ماء",
+    "translation": "water",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 191,
+    "sourceRank": 191,
+    "word": "من",
+    "translation": "than",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 192,
+    "sourceRank": 192,
+    "word": "دعوة",
+    "translation": "call",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 193,
+    "sourceRank": 193,
+    "word": "الأول",
+    "translation": "first",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 194,
+    "sourceRank": 194,
+    "word": "الذي",
+    "translation": "who",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "rank": 195,
+    "sourceRank": 195,
+    "word": "قد",
+    "translation": "may",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 196,
+    "sourceRank": 196,
+    "word": "إلى",
+    "translation": "down",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 197,
+    "sourceRank": 197,
+    "word": "الجانب",
+    "translation": "side",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 198,
+    "sourceRank": 198,
+    "word": "كان",
+    "translation": "been",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 199,
+    "sourceRank": 199,
+    "word": "الآن",
+    "translation": "now",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 200,
+    "sourceRank": 200,
+    "word": "اكتشاف",
+    "translation": "find",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 201,
+    "sourceRank": 201,
+    "word": "رئيس",
+    "translation": "head",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 202,
+    "sourceRank": 202,
+    "word": "الوقوف",
+    "translation": "stand",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 203,
+    "sourceRank": 203,
+    "word": "الخاصة",
+    "translation": "own",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 204,
+    "sourceRank": 204,
+    "word": "الصفحة",
+    "translation": "page",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 205,
+    "sourceRank": 205,
+    "word": "ينبغي",
+    "translation": "should",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 206,
+    "sourceRank": 206,
+    "word": "بلد",
+    "translation": "country",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 207,
+    "sourceRank": 207,
+    "word": "أسس",
+    "translation": "found",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 208,
+    "sourceRank": 208,
+    "word": "الجواب",
+    "translation": "answer",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 209,
+    "sourceRank": 209,
+    "word": "المدرسة",
+    "translation": "school",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 210,
+    "sourceRank": 210,
+    "word": "تنمو",
+    "translation": "grow",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 211,
+    "sourceRank": 211,
+    "word": "دراسة",
+    "translation": "study",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 212,
+    "sourceRank": 212,
+    "word": "لا يزال",
+    "translation": "still",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 213,
+    "sourceRank": 213,
+    "word": "تعلم",
+    "translation": "learn",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 214,
+    "sourceRank": 214,
+    "word": "مصنع",
+    "translation": "plant",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 215,
+    "sourceRank": 215,
+    "word": "غطاء",
+    "translation": "cover",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 216,
+    "sourceRank": 216,
+    "word": "غذاء",
+    "translation": "food",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 217,
+    "sourceRank": 217,
+    "word": "شمس",
+    "translation": "sun",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 218,
+    "sourceRank": 218,
+    "word": "أربعة",
+    "translation": "four",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 219,
+    "sourceRank": 219,
+    "word": "بين",
+    "translation": "between",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "rank": 220,
+    "sourceRank": 220,
+    "word": "دولة",
+    "translation": "state",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 221,
+    "sourceRank": 221,
+    "word": "احتفظ",
+    "translation": "keep",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 222,
+    "sourceRank": 222,
+    "word": "العين",
+    "translation": "eye",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 223,
+    "sourceRank": 223,
+    "word": "أبدا",
+    "translation": "never",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 224,
+    "sourceRank": 224,
+    "word": "آخر",
+    "translation": "last",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 225,
+    "sourceRank": 225,
+    "word": "سمح",
+    "translation": "let",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 226,
+    "sourceRank": 226,
+    "word": "يعتقد",
+    "translation": "thought",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 227,
+    "sourceRank": 227,
+    "word": "المدينة",
+    "translation": "city",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 228,
+    "sourceRank": 228,
+    "word": "شجرة",
+    "translation": "tree",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 229,
+    "sourceRank": 229,
+    "word": "عبور",
+    "translation": "cross",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 230,
+    "sourceRank": 230,
+    "word": "مزرعة",
+    "translation": "farm",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 231,
+    "sourceRank": 231,
+    "word": "شاق",
+    "translation": "hard",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 232,
+    "sourceRank": 232,
+    "word": "بداية",
+    "translation": "start",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 233,
+    "sourceRank": 233,
+    "word": "قد",
+    "translation": "might",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 234,
+    "sourceRank": 234,
+    "word": "قصة",
+    "translation": "story",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 235,
+    "sourceRank": 235,
+    "word": "منشار",
+    "translation": "saw",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 236,
+    "sourceRank": 236,
+    "word": "الآن",
+    "translation": "far",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 237,
+    "sourceRank": 237,
+    "word": "بحر",
+    "translation": "sea",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 238,
+    "sourceRank": 238,
+    "word": "رسم",
+    "translation": "draw",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 239,
+    "sourceRank": 239,
+    "word": "غادر",
+    "translation": "left",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 240,
+    "sourceRank": 240,
+    "word": "متأخر",
+    "translation": "late",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 241,
+    "sourceRank": 241,
+    "word": "تشغيل",
+    "translation": "run",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 242,
+    "sourceRank": 242,
+    "word": "لا",
+    "translation": "don’t",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 243,
+    "sourceRank": 243,
+    "word": "في حين",
+    "translation": "while",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "rank": 244,
+    "sourceRank": 244,
+    "word": "الصحافة",
+    "translation": "press",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 245,
+    "sourceRank": 245,
+    "word": "قريب",
+    "translation": "close",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 246,
+    "sourceRank": 246,
+    "word": "الليل",
+    "translation": "night",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 247,
+    "sourceRank": 247,
+    "word": "حقيقية",
+    "translation": "real",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 248,
+    "sourceRank": 248,
+    "word": "حياة",
+    "translation": "life",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 249,
+    "sourceRank": 249,
+    "word": "قليل",
+    "translation": "few",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 250,
+    "sourceRank": 250,
+    "word": "شمال",
+    "translation": "north",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 251,
+    "sourceRank": 251,
+    "word": "كتاب",
+    "translation": "book",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 252,
+    "sourceRank": 252,
+    "word": "حمل",
+    "translation": "carry",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 253,
+    "sourceRank": 253,
+    "word": "استغرق",
+    "translation": "took",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 254,
+    "sourceRank": 254,
+    "word": "علم",
+    "translation": "science",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 255,
+    "sourceRank": 255,
+    "word": "أكل",
+    "translation": "eat",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 256,
+    "sourceRank": 256,
+    "word": "غرفة",
+    "translation": "room",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 257,
+    "sourceRank": 257,
+    "word": "صديق",
+    "translation": "friend",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 258,
+    "sourceRank": 258,
+    "word": "بدأ",
+    "translation": "began",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 259,
+    "sourceRank": 259,
+    "word": "فكرة",
+    "translation": "idea",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 260,
+    "sourceRank": 260,
+    "word": "سمك",
+    "translation": "fish",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 261,
+    "sourceRank": 261,
+    "word": "الجبل",
+    "translation": "mountain",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 262,
+    "sourceRank": 262,
+    "word": "توقف",
+    "translation": "stop",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 263,
+    "sourceRank": 263,
+    "word": "مرة واحدة",
+    "translation": "once",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 264,
+    "sourceRank": 264,
+    "word": "قاعدة",
+    "translation": "base",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 265,
+    "sourceRank": 265,
+    "word": "سمع",
+    "translation": "hear",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 266,
+    "sourceRank": 266,
+    "word": "الحصان",
+    "translation": "horse",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 267,
+    "sourceRank": 267,
+    "word": "قطع",
+    "translation": "cut",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 268,
+    "sourceRank": 268,
+    "word": "بالتأكيد",
+    "translation": "sure",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 269,
+    "sourceRank": 269,
+    "word": "راقب",
+    "translation": "watch",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 270,
+    "sourceRank": 270,
+    "word": "لون",
+    "translation": "color",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 271,
+    "sourceRank": 271,
+    "word": "وجه",
+    "translation": "face",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 272,
+    "sourceRank": 272,
+    "word": "الخشب",
+    "translation": "wood",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 273,
+    "sourceRank": 273,
+    "word": "رئيسي",
+    "translation": "main",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 274,
+    "sourceRank": 274,
+    "word": "مفتوحة",
+    "translation": "open",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 275,
+    "sourceRank": 275,
+    "word": "يبدو",
+    "translation": "seem",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 276,
+    "sourceRank": 276,
+    "word": "معا",
+    "translation": "together",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 277,
+    "sourceRank": 277,
+    "word": "المقبل",
+    "translation": "next",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 278,
+    "sourceRank": 278,
+    "word": "أبيض",
+    "translation": "white",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 279,
+    "sourceRank": 279,
+    "word": "الأطفال",
+    "translation": "children",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 280,
+    "sourceRank": 280,
+    "word": "بدأ",
+    "translation": "begin",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 281,
+    "sourceRank": 281,
+    "word": "حصلت",
+    "translation": "got",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 282,
+    "sourceRank": 282,
+    "word": "سير",
+    "translation": "walk",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 283,
+    "sourceRank": 283,
+    "word": "مثال",
+    "translation": "example",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 284,
+    "sourceRank": 284,
+    "word": "سهولة",
+    "translation": "ease",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 285,
+    "sourceRank": 285,
+    "word": "ورق",
+    "translation": "paper",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 286,
+    "sourceRank": 286,
+    "word": "مجموعة",
+    "translation": "group",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 287,
+    "sourceRank": 287,
+    "word": "دائما",
+    "translation": "always",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 288,
+    "sourceRank": 288,
+    "word": "الموسيقى",
+    "translation": "music",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 289,
+    "sourceRank": 289,
+    "word": "تلك",
+    "translation": "those",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 290,
+    "sourceRank": 290,
+    "word": "كلا",
+    "translation": "both",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 291,
+    "sourceRank": 291,
+    "word": "علامة",
+    "translation": "mark",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 292,
+    "sourceRank": 292,
+    "word": "غالبا",
+    "translation": "often",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "rank": 293,
+    "sourceRank": 293,
+    "word": "الرسالة",
+    "translation": "letter",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 294,
+    "sourceRank": 294,
+    "word": "حتى",
+    "translation": "until",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 295,
+    "sourceRank": 295,
+    "word": "ميل",
+    "translation": "mile",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 296,
+    "sourceRank": 296,
+    "word": "النهر",
+    "translation": "river",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 297,
+    "sourceRank": 297,
+    "word": "سيارة",
+    "translation": "car",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 298,
+    "sourceRank": 298,
+    "word": "قدم",
+    "translation": "feet",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 299,
+    "sourceRank": 299,
+    "word": "الرعاية",
+    "translation": "care",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 300,
+    "sourceRank": 300,
+    "word": "ثان",
+    "translation": "second",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 301,
+    "sourceRank": 301,
+    "word": "بما فيه الكفاية",
+    "translation": "enough",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 302,
+    "sourceRank": 302,
+    "word": "سهل",
+    "translation": "plain",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 303,
+    "sourceRank": 303,
+    "word": "فتاة",
+    "translation": "girl",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 304,
+    "sourceRank": 304,
+    "word": "معتاد",
+    "translation": "usual",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 305,
+    "sourceRank": 305,
+    "word": "الشباب",
+    "translation": "young",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 306,
+    "sourceRank": 306,
+    "word": "جاهزة",
+    "translation": "ready",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 307,
+    "sourceRank": 307,
+    "word": "فوق",
+    "translation": "above",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 308,
+    "sourceRank": 308,
+    "word": "أبدا",
+    "translation": "ever",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 309,
+    "sourceRank": 309,
+    "word": "أحمر",
+    "translation": "red",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 310,
+    "sourceRank": 310,
+    "word": "قائمة",
+    "translation": "list",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 311,
+    "sourceRank": 311,
+    "word": "على الرغم من",
+    "translation": "though",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 312,
+    "sourceRank": 312,
+    "word": "إحساس",
+    "translation": "feel",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 313,
+    "sourceRank": 313,
+    "word": "الحديث",
+    "translation": "talk",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 314,
+    "sourceRank": 314,
+    "word": "طائر",
+    "translation": "bird",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 315,
+    "sourceRank": 315,
+    "word": "قريبا",
+    "translation": "soon",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 316,
+    "sourceRank": 316,
+    "word": "هيئة",
+    "translation": "body",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 317,
+    "sourceRank": 317,
+    "word": "الكلب",
+    "translation": "dog",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 318,
+    "sourceRank": 318,
+    "word": "عائلة",
+    "translation": "family",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 319,
+    "sourceRank": 319,
+    "word": "مباشر",
+    "translation": "direct",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 320,
+    "sourceRank": 320,
+    "word": "أربك",
+    "translation": "pose",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 321,
+    "sourceRank": 321,
+    "word": "ترك",
+    "translation": "leave",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 322,
+    "sourceRank": 322,
+    "word": "أغنية",
+    "translation": "song",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 323,
+    "sourceRank": 323,
+    "word": "قياس",
+    "translation": "measure",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 324,
+    "sourceRank": 324,
+    "word": "باب",
+    "translation": "door",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 325,
+    "sourceRank": 325,
+    "word": "نتاج",
+    "translation": "product",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 326,
+    "sourceRank": 326,
+    "word": "أسود",
+    "translation": "black",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 327,
+    "sourceRank": 327,
+    "word": "قصير",
+    "translation": "short",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 328,
+    "sourceRank": 328,
+    "word": "الأرقام",
+    "translation": "numeral",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 329,
+    "sourceRank": 329,
+    "word": "الفئة",
+    "translation": "class",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 330,
+    "sourceRank": 330,
+    "word": "الرياح",
+    "translation": "wind",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 331,
+    "sourceRank": 331,
+    "word": "السؤال",
+    "translation": "question",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 332,
+    "sourceRank": 332,
+    "word": "يحدث",
+    "translation": "happen",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 333,
+    "sourceRank": 333,
+    "word": "كاملة",
+    "translation": "complete",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 334,
+    "sourceRank": 334,
+    "word": "سفينة",
+    "translation": "ship",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 335,
+    "sourceRank": 335,
+    "word": "منطقة",
+    "translation": "area",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 336,
+    "sourceRank": 336,
+    "word": "نصف",
+    "translation": "half",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 337,
+    "sourceRank": 337,
+    "word": "صخرة",
+    "translation": "rock",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 338,
+    "sourceRank": 338,
+    "word": "النظام",
+    "translation": "order",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 339,
+    "sourceRank": 339,
+    "word": "النار",
+    "translation": "fire",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 340,
+    "sourceRank": 340,
+    "word": "الجنوب",
+    "translation": "south",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 341,
+    "sourceRank": 341,
+    "word": "مشكلة",
+    "translation": "problem",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 342,
+    "sourceRank": 342,
+    "word": "قطعة",
+    "translation": "piece",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 343,
+    "sourceRank": 343,
+    "word": "قال",
+    "translation": "told",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 344,
+    "sourceRank": 344,
+    "word": "عرف",
+    "translation": "knew",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 345,
+    "sourceRank": 345,
+    "word": "تمر",
+    "translation": "pass",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 346,
+    "sourceRank": 346,
+    "word": "منذ",
+    "translation": "since",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 347,
+    "sourceRank": 347,
+    "word": "أعلى",
+    "translation": "top",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 348,
+    "sourceRank": 348,
+    "word": "ككل",
+    "translation": "whole",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 349,
+    "sourceRank": 349,
+    "word": "ملك",
+    "translation": "king",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 350,
+    "sourceRank": 350,
+    "word": "شارع",
+    "translation": "street",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 351,
+    "sourceRank": 351,
+    "word": "بوصة",
+    "translation": "inch",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 352,
+    "sourceRank": 352,
+    "word": "مضاعفة",
+    "translation": "multiply",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 353,
+    "sourceRank": 353,
+    "word": "لا شيء",
+    "translation": "nothing",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 354,
+    "sourceRank": 354,
+    "word": "بالطبع",
+    "translation": "course",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 355,
+    "sourceRank": 355,
+    "word": "إقامة",
+    "translation": "stay",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 356,
+    "sourceRank": 356,
+    "word": "عجلة",
+    "translation": "wheel",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 357,
+    "sourceRank": 357,
+    "word": "كامل",
+    "translation": "full",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 358,
+    "sourceRank": 358,
+    "word": "قوة",
+    "translation": "force",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 359,
+    "sourceRank": 359,
+    "word": "الأزرق",
+    "translation": "blue",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 360,
+    "sourceRank": 360,
+    "word": "موضوع",
+    "translation": "object",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 361,
+    "sourceRank": 361,
+    "word": "تقرر",
+    "translation": "decide",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 362,
+    "sourceRank": 362,
+    "word": "سطح",
+    "translation": "surface",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 363,
+    "sourceRank": 363,
+    "word": "عميق",
+    "translation": "deep",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 364,
+    "sourceRank": 364,
+    "word": "ضوء القمر",
+    "translation": "moon",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 365,
+    "sourceRank": 365,
+    "word": "الجزيرة",
+    "translation": "island",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 366,
+    "sourceRank": 366,
+    "word": "القدم",
+    "translation": "foot",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 367,
+    "sourceRank": 367,
+    "word": "نظام",
+    "translation": "system",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 368,
+    "sourceRank": 368,
+    "word": "مشغول",
+    "translation": "busy",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 369,
+    "sourceRank": 369,
+    "word": "اختبار",
+    "translation": "test",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 370,
+    "sourceRank": 370,
+    "word": "سجل",
+    "translation": "record",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 371,
+    "sourceRank": 371,
+    "word": "قارب",
+    "translation": "boat",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 372,
+    "sourceRank": 372,
+    "word": "مشترك",
+    "translation": "common",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 373,
+    "sourceRank": 373,
+    "word": "الذهب",
+    "translation": "gold",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 374,
+    "sourceRank": 374,
+    "word": "ممكن",
+    "translation": "possible",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 375,
+    "sourceRank": 375,
+    "word": "طائرة",
+    "translation": "plane",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 376,
+    "sourceRank": 376,
+    "word": "بدلا",
+    "translation": "stead",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 377,
+    "sourceRank": 377,
+    "word": "جاف",
+    "translation": "dry",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 378,
+    "sourceRank": 378,
+    "word": "عجب",
+    "translation": "wonder",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 379,
+    "sourceRank": 379,
+    "word": "الضحك",
+    "translation": "laugh",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 380,
+    "sourceRank": 380,
+    "word": "ألف",
+    "translation": "thousand",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 381,
+    "sourceRank": 381,
+    "word": "منذ",
+    "translation": "ago",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 382,
+    "sourceRank": 382,
+    "word": "ركض",
+    "translation": "ran",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 383,
+    "sourceRank": 383,
+    "word": "تحقق",
+    "translation": "check",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 384,
+    "sourceRank": 384,
+    "word": "لعبة",
+    "translation": "game",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 385,
+    "sourceRank": 385,
+    "word": "شكل",
+    "translation": "shape",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 386,
+    "sourceRank": 386,
+    "word": "مساواة",
+    "translation": "equate",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 387,
+    "sourceRank": 387,
+    "word": "حار",
+    "translation": "hot",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 388,
+    "sourceRank": 388,
+    "word": "ملكة جمال",
+    "translation": "miss",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 389,
+    "sourceRank": 389,
+    "word": "جلبت",
+    "translation": "brought",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 390,
+    "sourceRank": 390,
+    "word": "حرارة",
+    "translation": "heat",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 391,
+    "sourceRank": 391,
+    "word": "ثلج",
+    "translation": "snow",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 392,
+    "sourceRank": 392,
+    "word": "إطار العجلة",
+    "translation": "tire",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 393,
+    "sourceRank": 393,
+    "word": "جلب",
+    "translation": "bring",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 394,
+    "sourceRank": 394,
+    "word": "نعم",
+    "translation": "yes",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 395,
+    "sourceRank": 395,
+    "word": "بعيد",
+    "translation": "distant",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 396,
+    "sourceRank": 396,
+    "word": "شغل",
+    "translation": "fill",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 397,
+    "sourceRank": 397,
+    "word": "الشرق",
+    "translation": "east",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 398,
+    "sourceRank": 398,
+    "word": "الطلاء",
+    "translation": "paint",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 399,
+    "sourceRank": 399,
+    "word": "اللغة",
+    "translation": "language",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 400,
+    "sourceRank": 400,
+    "word": "بين",
+    "translation": "among",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 401,
+    "sourceRank": 401,
+    "word": "وحدة",
+    "translation": "unit",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 402,
+    "sourceRank": 402,
+    "word": "قوة",
+    "translation": "power",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 403,
+    "sourceRank": 403,
+    "word": "مدينة",
+    "translation": "town",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 404,
+    "sourceRank": 404,
+    "word": "غرامة",
+    "translation": "fine",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 405,
+    "sourceRank": 405,
+    "word": "معين",
+    "translation": "certain",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 406,
+    "sourceRank": 406,
+    "word": "يطير",
+    "translation": "fly",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 407,
+    "sourceRank": 407,
+    "word": "سقط",
+    "translation": "fall",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 408,
+    "sourceRank": 408,
+    "word": "قيادة",
+    "translation": "lead",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 409,
+    "sourceRank": 409,
+    "word": "صرخة",
+    "translation": "cry",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 410,
+    "sourceRank": 410,
+    "word": "مظلم",
+    "translation": "dark",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 411,
+    "sourceRank": 411,
+    "word": "آلة",
+    "translation": "machine",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 412,
+    "sourceRank": 412,
+    "word": "مذكرة",
+    "translation": "note",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 413,
+    "sourceRank": 413,
+    "word": "انتظر",
+    "translation": "wait",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 414,
+    "sourceRank": 414,
+    "word": "خطة",
+    "translation": "plan",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 415,
+    "sourceRank": 415,
+    "word": "الرقم",
+    "translation": "figure",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 416,
+    "sourceRank": 416,
+    "word": "نجمة",
+    "translation": "star",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 417,
+    "sourceRank": 417,
+    "word": "صندوق",
+    "translation": "box",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 418,
+    "sourceRank": 418,
+    "word": "إسم",
+    "translation": "noun",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 419,
+    "sourceRank": 419,
+    "word": "الحقل",
+    "translation": "field",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 420,
+    "sourceRank": 420,
+    "word": "بقية",
+    "translation": "rest",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 421,
+    "sourceRank": 421,
+    "word": "صحيح",
+    "translation": "correct",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 422,
+    "sourceRank": 422,
+    "word": "قادرة",
+    "translation": "able",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 423,
+    "sourceRank": 423,
+    "word": "الجنيه",
+    "translation": "pound",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 424,
+    "sourceRank": 424,
+    "word": "منجز",
+    "translation": "done",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 425,
+    "sourceRank": 425,
+    "word": "الجمال",
+    "translation": "beauty",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 426,
+    "sourceRank": 426,
+    "word": "محرك",
+    "translation": "drive",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 427,
+    "sourceRank": 427,
+    "word": "وقفت",
+    "translation": "stood",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 428,
+    "sourceRank": 428,
+    "word": "تحتوي على",
+    "translation": "contain",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 429,
+    "sourceRank": 429,
+    "word": "الجبهة",
+    "translation": "front",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 430,
+    "sourceRank": 430,
+    "word": "تعليم",
+    "translation": "teach",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 431,
+    "sourceRank": 431,
+    "word": "أسبوع",
+    "translation": "week",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 432,
+    "sourceRank": 432,
+    "word": "نهائي",
+    "translation": "final",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 433,
+    "sourceRank": 433,
+    "word": "أعطى",
+    "translation": "gave",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 434,
+    "sourceRank": 434,
+    "word": "الأخضر",
+    "translation": "green",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 435,
+    "sourceRank": 435,
+    "word": "يا",
+    "translation": "oh",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 436,
+    "sourceRank": 436,
+    "word": "سريع",
+    "translation": "quick",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 437,
+    "sourceRank": 437,
+    "word": "تطوير",
+    "translation": "develop",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 438,
+    "sourceRank": 438,
+    "word": "المحيط",
+    "translation": "ocean",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 439,
+    "sourceRank": 439,
+    "word": "الحارة",
+    "translation": "warm",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 440,
+    "sourceRank": 440,
+    "word": "حر",
+    "translation": "free",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 441,
+    "sourceRank": 441,
+    "word": "دقيقة",
+    "translation": "minute",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 442,
+    "sourceRank": 442,
+    "word": "قوي",
+    "translation": "strong",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 443,
+    "sourceRank": 443,
+    "word": "خاص",
+    "translation": "special",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 444,
+    "sourceRank": 444,
+    "word": "عقل",
+    "translation": "mind",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 445,
+    "sourceRank": 445,
+    "word": "خلف",
+    "translation": "behind",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 446,
+    "sourceRank": 446,
+    "word": "واضح",
+    "translation": "clear",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 447,
+    "sourceRank": 447,
+    "word": "ذيل",
+    "translation": "tail",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 448,
+    "sourceRank": 448,
+    "word": "إنتاج",
+    "translation": "produce",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 449,
+    "sourceRank": 449,
+    "word": "حقيقة",
+    "translation": "fact",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 450,
+    "sourceRank": 450,
+    "word": "الفضاء",
+    "translation": "space",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 451,
+    "sourceRank": 451,
+    "word": "سمعت",
+    "translation": "heard",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 452,
+    "sourceRank": 452,
+    "word": "أفضل",
+    "translation": "best",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 453,
+    "sourceRank": 453,
+    "word": "ساعة",
+    "translation": "hour",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 454,
+    "sourceRank": 454,
+    "word": "أفضل",
+    "translation": "better",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 455,
+    "sourceRank": 455,
+    "word": "صحيح",
+    "translation": "true",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 456,
+    "sourceRank": 456,
+    "word": "خلال",
+    "translation": "during",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 457,
+    "sourceRank": 457,
+    "word": "مائة",
+    "translation": "hundred",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 458,
+    "sourceRank": 458,
+    "word": "خمسة",
+    "translation": "five",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 459,
+    "sourceRank": 459,
+    "word": "تذكر",
+    "translation": "remember",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 460,
+    "sourceRank": 460,
+    "word": "خطوة",
+    "translation": "step",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 461,
+    "sourceRank": 461,
+    "word": "في وقت مبكر",
+    "translation": "early",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 462,
+    "sourceRank": 462,
+    "word": "عقد",
+    "translation": "hold",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 463,
+    "sourceRank": 463,
+    "word": "غرب",
+    "translation": "west",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 464,
+    "sourceRank": 464,
+    "word": "أرض",
+    "translation": "ground",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 465,
+    "sourceRank": 465,
+    "word": "مصلحة",
+    "translation": "interest",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 466,
+    "sourceRank": 466,
+    "word": "الوصول",
+    "translation": "reach",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 467,
+    "sourceRank": 467,
+    "word": "بسرعة",
+    "translation": "fast",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 468,
+    "sourceRank": 468,
+    "word": "الفعل",
+    "translation": "verb",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 469,
+    "sourceRank": 469,
+    "word": "الغناء",
+    "translation": "sing",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 470,
+    "sourceRank": 470,
+    "word": "استمع",
+    "translation": "listen",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 471,
+    "sourceRank": 471,
+    "word": "ستة",
+    "translation": "six",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 472,
+    "sourceRank": 472,
+    "word": "الجدول",
+    "translation": "table",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 473,
+    "sourceRank": 473,
+    "word": "السفر",
+    "translation": "travel",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 474,
+    "sourceRank": 474,
+    "word": "أقل",
+    "translation": "less",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 475,
+    "sourceRank": 475,
+    "word": "الصباح",
+    "translation": "morning",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 476,
+    "sourceRank": 476,
+    "word": "عشرة",
+    "translation": "ten",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 477,
+    "sourceRank": 477,
+    "word": "بسيطة",
+    "translation": "simple",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 478,
+    "sourceRank": 478,
+    "word": "عدة",
+    "translation": "several",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 479,
+    "sourceRank": 479,
+    "word": "حرف لين",
+    "translation": "vowel",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 480,
+    "sourceRank": 480,
+    "word": "نحو",
+    "translation": "toward",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 481,
+    "sourceRank": 481,
+    "word": "حرب",
+    "translation": "war",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 482,
+    "sourceRank": 482,
+    "word": "وضع",
+    "translation": "lay",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 483,
+    "sourceRank": 483,
+    "word": "ضد",
+    "translation": "against",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 484,
+    "sourceRank": 484,
+    "word": "نمط",
+    "translation": "pattern",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 485,
+    "sourceRank": 485,
+    "word": "بطيئة",
+    "translation": "slow",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 486,
+    "sourceRank": 486,
+    "word": "مركز",
+    "translation": "center",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 487,
+    "sourceRank": 487,
+    "word": "الحب",
+    "translation": "love",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 488,
+    "sourceRank": 488,
+    "word": "شخص",
+    "translation": "person",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 489,
+    "sourceRank": 489,
+    "word": "المال",
+    "translation": "money",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 490,
+    "sourceRank": 490,
+    "word": "خدمة",
+    "translation": "serve",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 491,
+    "sourceRank": 491,
+    "word": "تظهر",
+    "translation": "appear",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 492,
+    "sourceRank": 492,
+    "word": "طريق",
+    "translation": "road",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 493,
+    "sourceRank": 493,
+    "word": "خريطة",
+    "translation": "map",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 494,
+    "sourceRank": 494,
+    "word": "مطر",
+    "translation": "rain",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 495,
+    "sourceRank": 495,
+    "word": "حكم",
+    "translation": "rule",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 496,
+    "sourceRank": 496,
+    "word": "الحكم",
+    "translation": "govern",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 497,
+    "sourceRank": 497,
+    "word": "سحب",
+    "translation": "pull",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 498,
+    "sourceRank": 498,
+    "word": "بارد",
+    "translation": "cold",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 499,
+    "sourceRank": 499,
+    "word": "إشعار",
+    "translation": "notice",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 500,
+    "sourceRank": 500,
+    "word": "صوت",
+    "translation": "voice",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 501,
+    "sourceRank": 501,
+    "word": "الطاقة",
+    "translation": "energy",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 502,
+    "sourceRank": 502,
+    "word": "مطاردة",
+    "translation": "hunt",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 503,
+    "sourceRank": 503,
+    "word": "محتمل",
+    "translation": "probable",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 504,
+    "sourceRank": 504,
+    "word": "قاع",
+    "translation": "bed",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 505,
+    "sourceRank": 505,
+    "word": "شقيق",
+    "translation": "brother",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 506,
+    "sourceRank": 506,
+    "word": "البيض",
+    "translation": "egg",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 507,
+    "sourceRank": 507,
+    "word": "ركوب",
+    "translation": "ride",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 508,
+    "sourceRank": 508,
+    "word": "خلية",
+    "translation": "cell",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 509,
+    "sourceRank": 509,
+    "word": "اعتقد",
+    "translation": "believe",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 510,
+    "sourceRank": 510,
+    "word": "ربما",
+    "translation": "perhaps",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 511,
+    "sourceRank": 511,
+    "word": "اختيار",
+    "translation": "pick",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 512,
+    "sourceRank": 512,
+    "word": "مفاجئ",
+    "translation": "sudden",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 513,
+    "sourceRank": 513,
+    "word": "عد",
+    "translation": "count",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 514,
+    "sourceRank": 514,
+    "word": "مربع",
+    "translation": "square",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 515,
+    "sourceRank": 515,
+    "word": "سبب",
+    "translation": "reason",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 516,
+    "sourceRank": 516,
+    "word": "طول",
+    "translation": "length",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 517,
+    "sourceRank": 517,
+    "word": "تمثيل",
+    "translation": "represent",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 518,
+    "sourceRank": 518,
+    "word": "فن",
+    "translation": "art",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 519,
+    "sourceRank": 519,
+    "word": "الموضوع",
+    "translation": "subject",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 520,
+    "sourceRank": 520,
+    "word": "منطقة",
+    "translation": "region",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 521,
+    "sourceRank": 521,
+    "word": "حجم",
+    "translation": "size",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 522,
+    "sourceRank": 522,
+    "word": "تختلف",
+    "translation": "vary",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 523,
+    "sourceRank": 523,
+    "word": "حل",
+    "translation": "settle",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 524,
+    "sourceRank": 524,
+    "word": "الكلام",
+    "translation": "speak",
+    "partOfSpeech": "verb"
+  },
+  {
+    "rank": 525,
+    "sourceRank": 525,
+    "word": "الوزن",
+    "translation": "weight",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 526,
+    "sourceRank": 526,
+    "word": "عام",
+    "translation": "general",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 527,
+    "sourceRank": 527,
+    "word": "الجليد",
+    "translation": "ice",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 528,
+    "sourceRank": 528,
+    "word": "مسألة",
+    "translation": "matter",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 529,
+    "sourceRank": 529,
+    "word": "دائرة",
+    "translation": "circle",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 530,
+    "sourceRank": 530,
+    "word": "زوج",
+    "translation": "pair",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 531,
+    "sourceRank": 531,
+    "word": "تضمن",
+    "translation": "include",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 532,
+    "sourceRank": 532,
+    "word": "الفجوة",
+    "translation": "divide",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 533,
+    "sourceRank": 533,
+    "word": "مقطع لفظي",
+    "translation": "syllable",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 534,
+    "sourceRank": 534,
+    "word": "شعر",
+    "translation": "felt",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 535,
+    "sourceRank": 535,
+    "word": "الكبرى",
+    "translation": "grand",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 536,
+    "sourceRank": 536,
+    "word": "كرة",
+    "translation": "ball",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 537,
+    "sourceRank": 537,
+    "word": "بعد",
+    "translation": "yet",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 538,
+    "sourceRank": 538,
+    "word": "موجة",
+    "translation": "wave",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 539,
+    "sourceRank": 539,
+    "word": "إسقاط",
+    "translation": "drop",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 540,
+    "sourceRank": 540,
+    "word": "قلب",
+    "translation": "heart",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 541,
+    "sourceRank": 541,
+    "word": "صباحا",
+    "translation": "am",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 542,
+    "sourceRank": 542,
+    "word": "الحاضر",
+    "translation": "present",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 543,
+    "sourceRank": 543,
+    "word": "ثقيلة",
+    "translation": "heavy",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 544,
+    "sourceRank": 544,
+    "word": "رقص",
+    "translation": "dance",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 545,
+    "sourceRank": 545,
+    "word": "محرك",
+    "translation": "engine",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 546,
+    "sourceRank": 546,
+    "word": "موقف",
+    "translation": "position",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 547,
+    "sourceRank": 547,
+    "word": "الذراع",
+    "translation": "arm",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 548,
+    "sourceRank": 548,
+    "word": "واسع",
+    "translation": "wide",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 549,
+    "sourceRank": 549,
+    "word": "الشراع",
+    "translation": "sail",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 550,
+    "sourceRank": 550,
+    "word": "مادة",
+    "translation": "material",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 551,
+    "sourceRank": 551,
+    "word": "جزء",
+    "translation": "fraction",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 552,
+    "sourceRank": 552,
+    "word": "الغابات",
+    "translation": "forest",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 553,
+    "sourceRank": 553,
+    "word": "الجلوس",
+    "translation": "sit",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 554,
+    "sourceRank": 554,
+    "word": "سباق",
+    "translation": "race",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 555,
+    "sourceRank": 555,
+    "word": "نافذة",
+    "translation": "window",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 556,
+    "sourceRank": 556,
+    "word": "متجر",
+    "translation": "store",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 557,
+    "sourceRank": 557,
+    "word": "الصيف",
+    "translation": "summer",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 558,
+    "sourceRank": 558,
+    "word": "قطار",
+    "translation": "train",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 559,
+    "sourceRank": 559,
+    "word": "نوم",
+    "translation": "sleep",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 560,
+    "sourceRank": 560,
+    "word": "إثبات",
+    "translation": "prove",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 561,
+    "sourceRank": 561,
+    "word": "وحيد",
+    "translation": "lone",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 562,
+    "sourceRank": 562,
+    "word": "الساق",
+    "translation": "leg",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 563,
+    "sourceRank": 563,
+    "word": "ممارسة",
+    "translation": "exercise",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 564,
+    "sourceRank": 564,
+    "word": "جدار",
+    "translation": "wall",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 565,
+    "sourceRank": 565,
+    "word": "مزلاج",
+    "translation": "catch",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 566,
+    "sourceRank": 566,
+    "word": "جبل",
+    "translation": "mount",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 567,
+    "sourceRank": 567,
+    "word": "رغب",
+    "translation": "wish",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 568,
+    "sourceRank": 568,
+    "word": "سماء",
+    "translation": "sky",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 569,
+    "sourceRank": 569,
+    "word": "مجلس الإدارة",
+    "translation": "board",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 570,
+    "sourceRank": 570,
+    "word": "الفرح",
+    "translation": "joy",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 571,
+    "sourceRank": 571,
+    "word": "شتاء",
+    "translation": "winter",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 572,
+    "sourceRank": 572,
+    "word": "السبت",
+    "translation": "sat",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 573,
+    "sourceRank": 573,
+    "word": "مكتوبة",
+    "translation": "written",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 574,
+    "sourceRank": 574,
+    "word": "بري",
+    "translation": "wild",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 575,
+    "sourceRank": 575,
+    "word": "أداة",
+    "translation": "instrument",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 576,
+    "sourceRank": 576,
+    "word": "أبقى",
+    "translation": "kept",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 577,
+    "sourceRank": 577,
+    "word": "زجاج",
+    "translation": "glass",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 578,
+    "sourceRank": 578,
+    "word": "العشب",
+    "translation": "grass",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 579,
+    "sourceRank": 579,
+    "word": "بقرة",
+    "translation": "cow",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 580,
+    "sourceRank": 580,
+    "word": "العمل",
+    "translation": "job",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 581,
+    "sourceRank": 581,
+    "word": "حافة",
+    "translation": "edge",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 582,
+    "sourceRank": 582,
+    "word": "علامة",
+    "translation": "sign",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 583,
+    "sourceRank": 583,
+    "word": "زيارة",
+    "translation": "visit",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 584,
+    "sourceRank": 584,
+    "word": "الماضي",
+    "translation": "past",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 585,
+    "sourceRank": 585,
+    "word": "لينة",
+    "translation": "soft",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 586,
+    "sourceRank": 586,
+    "word": "مرح",
+    "translation": "fun",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 587,
+    "sourceRank": 587,
+    "word": "مشرق",
+    "translation": "bright",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 588,
+    "sourceRank": 588,
+    "word": "الغاز",
+    "translation": "gas",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 589,
+    "sourceRank": 589,
+    "word": "الطقس",
+    "translation": "weather",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 590,
+    "sourceRank": 590,
+    "word": "شهر",
+    "translation": "month",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 591,
+    "sourceRank": 591,
+    "word": "مليون",
+    "translation": "million",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 592,
+    "sourceRank": 592,
+    "word": "تحمل",
+    "translation": "bear",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 593,
+    "sourceRank": 593,
+    "word": "نهاية",
+    "translation": "finish",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 594,
+    "sourceRank": 594,
+    "word": "سعيدة",
+    "translation": "happy",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 595,
+    "sourceRank": 595,
+    "word": "نأمل",
+    "translation": "hope",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 596,
+    "sourceRank": 596,
+    "word": "زهرة",
+    "translation": "flower",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 597,
+    "sourceRank": 597,
+    "word": "كسا",
+    "translation": "clothe",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 598,
+    "sourceRank": 598,
+    "word": "غريب",
+    "translation": "strange",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 599,
+    "sourceRank": 599,
+    "word": "ذهب",
+    "translation": "gone",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 600,
+    "sourceRank": 600,
+    "word": "تجارة",
+    "translation": "trade",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 601,
+    "sourceRank": 601,
+    "word": "لحن",
+    "translation": "melody",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 602,
+    "sourceRank": 602,
+    "word": "رحلة",
+    "translation": "trip",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 603,
+    "sourceRank": 603,
+    "word": "مكتب",
+    "translation": "office",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 604,
+    "sourceRank": 604,
+    "word": "تلقي",
+    "translation": "receive",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 605,
+    "sourceRank": 605,
+    "word": "الصف",
+    "translation": "row",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 606,
+    "sourceRank": 606,
+    "word": "فم",
+    "translation": "mouth",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 607,
+    "sourceRank": 607,
+    "word": "بالضبط",
+    "translation": "exact",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 608,
+    "sourceRank": 608,
+    "word": "رمز",
+    "translation": "symbol",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 609,
+    "sourceRank": 609,
+    "word": "مات",
+    "translation": "die",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 610,
+    "sourceRank": 610,
+    "word": "الأقل",
+    "translation": "least",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 611,
+    "sourceRank": 611,
+    "word": "مشكلة",
+    "translation": "trouble",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 612,
+    "sourceRank": 612,
+    "word": "صيحة",
+    "translation": "shout",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 613,
+    "sourceRank": 613,
+    "word": "إلا",
+    "translation": "except",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 614,
+    "sourceRank": 614,
+    "word": "كتب",
+    "translation": "wrote",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 615,
+    "sourceRank": 615,
+    "word": "بذرة",
+    "translation": "seed",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 616,
+    "sourceRank": 616,
+    "word": "نغمة",
+    "translation": "tone",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 617,
+    "sourceRank": 617,
+    "word": "انضمام",
+    "translation": "join",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 618,
+    "sourceRank": 618,
+    "word": "اقترح",
+    "translation": "suggest",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 619,
+    "sourceRank": 619,
+    "word": "نظيف",
+    "translation": "clean",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 620,
+    "sourceRank": 620,
+    "word": "استراحة",
+    "translation": "break",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 621,
+    "sourceRank": 621,
+    "word": "سيدة",
+    "translation": "lady",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 622,
+    "sourceRank": 622,
+    "word": "ساحة",
+    "translation": "yard",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 623,
+    "sourceRank": 623,
+    "word": "الارتفاع",
+    "translation": "rise",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 624,
+    "sourceRank": 624,
+    "word": "سيئة",
+    "translation": "bad",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "rank": 625,
+    "sourceRank": 625,
+    "word": "ضربة",
+    "translation": "blow",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 626,
+    "sourceRank": 626,
+    "word": "زيت",
+    "translation": "oil",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 627,
+    "sourceRank": 627,
+    "word": "الدم",
+    "translation": "blood",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 628,
+    "sourceRank": 628,
+    "word": "لمس",
+    "translation": "touch",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 629,
+    "sourceRank": 629,
+    "word": "نما",
+    "translation": "grew",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 630,
+    "sourceRank": 630,
+    "word": "المائة",
+    "translation": "cent",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 631,
+    "sourceRank": 631,
+    "word": "مزيج",
+    "translation": "mix",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 632,
+    "sourceRank": 632,
+    "word": "فريق",
+    "translation": "team",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 633,
+    "sourceRank": 633,
+    "word": "سلك",
+    "translation": "wire",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 634,
+    "sourceRank": 634,
+    "word": "التكلفة",
+    "translation": "cost",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 635,
+    "sourceRank": 635,
+    "word": "فقدت",
+    "translation": "lost",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 636,
+    "sourceRank": 636,
+    "word": "أسمر",
+    "translation": "brown",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 637,
+    "sourceRank": 637,
+    "word": "ارتداء",
+    "translation": "wear",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 638,
+    "sourceRank": 638,
+    "word": "حديقة",
+    "translation": "garden",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 639,
+    "sourceRank": 639,
+    "word": "متساو",
+    "translation": "equal",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 640,
+    "sourceRank": 640,
+    "word": "أرسلت",
+    "translation": "sent",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 641,
+    "sourceRank": 641,
+    "word": "اختيار",
+    "translation": "choose",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 642,
+    "sourceRank": 642,
+    "word": "سقط",
+    "translation": "fell",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 643,
+    "sourceRank": 643,
+    "word": "تناسب",
+    "translation": "fit",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 644,
+    "sourceRank": 644,
+    "word": "تدفق",
+    "translation": "flow",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 645,
+    "sourceRank": 645,
+    "word": "عادل",
+    "translation": "fair",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 646,
+    "sourceRank": 646,
+    "word": "البنك",
+    "translation": "bank",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 647,
+    "sourceRank": 647,
+    "word": "جمع",
+    "translation": "collect",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 648,
+    "sourceRank": 648,
+    "word": "حفظ",
+    "translation": "save",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 649,
+    "sourceRank": 649,
+    "word": "السيطرة",
+    "translation": "control",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 650,
+    "sourceRank": 650,
+    "word": "العشري",
+    "translation": "decimal",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 651,
+    "sourceRank": 651,
+    "word": "إذن",
+    "translation": "ear",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 652,
+    "sourceRank": 652,
+    "word": "آخر",
+    "translation": "else",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 653,
+    "sourceRank": 653,
+    "word": "تماما",
+    "translation": "quite",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 654,
+    "sourceRank": 654,
+    "word": "حطم",
+    "translation": "broke",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 655,
+    "sourceRank": 655,
+    "word": "حالة",
+    "translation": "case",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 656,
+    "sourceRank": 656,
+    "word": "وسط",
+    "translation": "middle",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 657,
+    "sourceRank": 657,
+    "word": "قتل",
+    "translation": "kill",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 658,
+    "sourceRank": 658,
+    "word": "ابن",
+    "translation": "son",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 659,
+    "sourceRank": 659,
+    "word": "بحيرة",
+    "translation": "lake",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 660,
+    "sourceRank": 660,
+    "word": "لحظة",
+    "translation": "moment",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 661,
+    "sourceRank": 661,
+    "word": "على نطاق و",
+    "translation": "scale",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 662,
+    "sourceRank": 662,
+    "word": "بصوت عال",
+    "translation": "loud",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 663,
+    "sourceRank": 663,
+    "word": "الربيع",
+    "translation": "spring",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 664,
+    "sourceRank": 664,
+    "word": "رصد",
+    "translation": "observe",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 665,
+    "sourceRank": 665,
+    "word": "طفل",
+    "translation": "child",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 666,
+    "sourceRank": 666,
+    "word": "مباشرة",
+    "translation": "straight",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 667,
+    "sourceRank": 667,
+    "word": "متوافق",
+    "translation": "consonant",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 668,
+    "sourceRank": 668,
+    "word": "الأمة",
+    "translation": "nation",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 669,
+    "sourceRank": 669,
+    "word": "قاموس",
+    "translation": "dictionary",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 670,
+    "sourceRank": 670,
+    "word": "حليب",
+    "translation": "milk",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 671,
+    "sourceRank": 671,
+    "word": "السرعة",
+    "translation": "speed",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 672,
+    "sourceRank": 672,
+    "word": "طريقة",
+    "translation": "method",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 673,
+    "sourceRank": 673,
+    "word": "عضو",
+    "translation": "organ",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 674,
+    "sourceRank": 674,
+    "word": "دفع",
+    "translation": "pay",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 675,
+    "sourceRank": 675,
+    "word": "العمر",
+    "translation": "age",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 676,
+    "sourceRank": 676,
+    "word": "القسم",
+    "translation": "section",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 677,
+    "sourceRank": 677,
+    "word": "فستان",
+    "translation": "dress",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 678,
+    "sourceRank": 678,
+    "word": "سحابة",
+    "translation": "cloud",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 679,
+    "sourceRank": 679,
+    "word": "مفاجأة",
+    "translation": "surprise",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 680,
+    "sourceRank": 680,
+    "word": "هادئ",
+    "translation": "quiet",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 681,
+    "sourceRank": 681,
+    "word": "حجر",
+    "translation": "stone",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 682,
+    "sourceRank": 682,
+    "word": "صغير",
+    "translation": "tiny",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 683,
+    "sourceRank": 683,
+    "word": "تسلق",
+    "translation": "climb",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 684,
+    "sourceRank": 684,
+    "word": "بارد",
+    "translation": "cool",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 685,
+    "sourceRank": 685,
+    "word": "تصميم",
+    "translation": "design",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 686,
+    "sourceRank": 686,
+    "word": "فقير",
+    "translation": "poor",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 687,
+    "sourceRank": 687,
+    "word": "الكثير",
+    "translation": "lot",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 688,
+    "sourceRank": 688,
+    "word": "تجربة",
+    "translation": "experiment",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 689,
+    "sourceRank": 689,
+    "word": "أسفل",
+    "translation": "bottom",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 690,
+    "sourceRank": 690,
+    "word": "مفتاح",
+    "translation": "key",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 691,
+    "sourceRank": 691,
+    "word": "حديد",
+    "translation": "iron",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 692,
+    "sourceRank": 692,
+    "word": "احد",
+    "translation": "single",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 693,
+    "sourceRank": 693,
+    "word": "عصا",
+    "translation": "stick",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 694,
+    "sourceRank": 694,
+    "word": "شقة",
+    "translation": "flat",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 695,
+    "sourceRank": 695,
+    "word": "عشرون",
+    "translation": "twenty",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 696,
+    "sourceRank": 696,
+    "word": "الجلد",
+    "translation": "skin",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 697,
+    "sourceRank": 697,
+    "word": "الابتسامة",
+    "translation": "smile",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 698,
+    "sourceRank": 698,
+    "word": "تجعد",
+    "translation": "crease",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 699,
+    "sourceRank": 699,
+    "word": "حفرة",
+    "translation": "hole",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 700,
+    "sourceRank": 700,
+    "word": "القفزة",
+    "translation": "jump",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 701,
+    "sourceRank": 701,
+    "word": "طفل",
+    "translation": "baby",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 702,
+    "sourceRank": 702,
+    "word": "ثمانية",
+    "translation": "eight",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 703,
+    "sourceRank": 703,
+    "word": "قرية",
+    "translation": "village",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 704,
+    "sourceRank": 704,
+    "word": "تلبية",
+    "translation": "meet",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 705,
+    "sourceRank": 705,
+    "word": "الجذر",
+    "translation": "root",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 706,
+    "sourceRank": 706,
+    "word": "شراء",
+    "translation": "buy",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 707,
+    "sourceRank": 707,
+    "word": "رفع",
+    "translation": "raise",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 708,
+    "sourceRank": 708,
+    "word": "حل",
+    "translation": "solve",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 709,
+    "sourceRank": 709,
+    "word": "المعادن",
+    "translation": "metal",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 710,
+    "sourceRank": 710,
+    "word": "سواء",
+    "translation": "whether",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 711,
+    "sourceRank": 711,
+    "word": "دفع",
+    "translation": "push",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 712,
+    "sourceRank": 712,
+    "word": "سبعة",
+    "translation": "seven",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 713,
+    "sourceRank": 713,
+    "word": "فقرة",
+    "translation": "paragraph",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 714,
+    "sourceRank": 714,
+    "word": "الثالث",
+    "translation": "third",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 715,
+    "sourceRank": 715,
+    "word": "يجب",
+    "translation": "shall",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 716,
+    "sourceRank": 716,
+    "word": "عقدت",
+    "translation": "held",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 717,
+    "sourceRank": 717,
+    "word": "الشعر",
+    "translation": "hair",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 718,
+    "sourceRank": 718,
+    "word": "وصف",
+    "translation": "describe",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 719,
+    "sourceRank": 719,
+    "word": "طبخ",
+    "translation": "cook",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 720,
+    "sourceRank": 720,
+    "word": "الطابق",
+    "translation": "floor",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 721,
+    "sourceRank": 721,
+    "word": "كل",
+    "translation": "either",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 722,
+    "sourceRank": 722,
+    "word": "نتيجة",
+    "translation": "result",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 723,
+    "sourceRank": 723,
+    "word": "حرق",
+    "translation": "burn",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 724,
+    "sourceRank": 724,
+    "word": "التل",
+    "translation": "hill",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 725,
+    "sourceRank": 725,
+    "word": "آمنة",
+    "translation": "safe",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 726,
+    "sourceRank": 726,
+    "word": "القط",
+    "translation": "cat",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 727,
+    "sourceRank": 727,
+    "word": "القرن",
+    "translation": "century",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 728,
+    "sourceRank": 728,
+    "word": "النظر",
+    "translation": "consider",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 729,
+    "sourceRank": 729,
+    "word": "نوع",
+    "translation": "type",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 730,
+    "sourceRank": 730,
+    "word": "القانون",
+    "translation": "law",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 731,
+    "sourceRank": 731,
+    "word": "لقمة",
+    "translation": "bit",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 732,
+    "sourceRank": 732,
+    "word": "الساحل",
+    "translation": "coast",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 733,
+    "sourceRank": 733,
+    "word": "نسخة",
+    "translation": "copy",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 734,
+    "sourceRank": 734,
+    "word": "العبارة",
+    "translation": "phrase",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 735,
+    "sourceRank": 735,
+    "word": "الصمت",
+    "translation": "silent",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 736,
+    "sourceRank": 736,
+    "word": "طويل",
+    "translation": "tall",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 737,
+    "sourceRank": 737,
+    "word": "رمل",
+    "translation": "sand",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 738,
+    "sourceRank": 738,
+    "word": "التربة",
+    "translation": "soil",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 739,
+    "sourceRank": 739,
+    "word": "لفة",
+    "translation": "roll",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 740,
+    "sourceRank": 740,
+    "word": "درجة الحرارة",
+    "translation": "temperature",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 741,
+    "sourceRank": 741,
+    "word": "إصبع",
+    "translation": "finger",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 742,
+    "sourceRank": 742,
+    "word": "صناعة",
+    "translation": "industry",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 743,
+    "sourceRank": 743,
+    "word": "قيمة",
+    "translation": "value",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 744,
+    "sourceRank": 744,
+    "word": "المعركة",
+    "translation": "fight",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 745,
+    "sourceRank": 745,
+    "word": "كذبة",
+    "translation": "lie",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 746,
+    "sourceRank": 746,
+    "word": "فوز",
+    "translation": "beat",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 747,
+    "sourceRank": 747,
+    "word": "أثار",
+    "translation": "excite",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 748,
+    "sourceRank": 748,
+    "word": "طبيعي",
+    "translation": "natural",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 749,
+    "sourceRank": 749,
+    "word": "رأي",
+    "translation": "view",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 750,
+    "sourceRank": 750,
+    "word": "المعنى",
+    "translation": "sense",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 751,
+    "sourceRank": 751,
+    "word": "العاصمة",
+    "translation": "capital",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 752,
+    "sourceRank": 752,
+    "word": "سوف لا",
+    "translation": "won’t",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 753,
+    "sourceRank": 753,
+    "word": "كرسي",
+    "translation": "chair",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 754,
+    "sourceRank": 754,
+    "word": "خطر",
+    "translation": "danger",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 755,
+    "sourceRank": 755,
+    "word": "الفاكهة",
+    "translation": "fruit",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 756,
+    "sourceRank": 756,
+    "word": "غني",
+    "translation": "rich",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 757,
+    "sourceRank": 757,
+    "word": "سميك",
+    "translation": "thick",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 758,
+    "sourceRank": 758,
+    "word": "جندي",
+    "translation": "soldier",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 759,
+    "sourceRank": 759,
+    "word": "عملية",
+    "translation": "process",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 760,
+    "sourceRank": 760,
+    "word": "العمل",
+    "translation": "operate",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 761,
+    "sourceRank": 761,
+    "word": "ممارسة",
+    "translation": "practice",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 762,
+    "sourceRank": 762,
+    "word": "منفصلة",
+    "translation": "separate",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 763,
+    "sourceRank": 763,
+    "word": "الصعب",
+    "translation": "difficult",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 764,
+    "sourceRank": 764,
+    "word": "الطبيب",
+    "translation": "doctor",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 765,
+    "sourceRank": 765,
+    "word": "الرجاء",
+    "translation": "please",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 766,
+    "sourceRank": 766,
+    "word": "حماية",
+    "translation": "protect",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 767,
+    "sourceRank": 767,
+    "word": "ظهرا",
+    "translation": "noon",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 768,
+    "sourceRank": 768,
+    "word": "محصول",
+    "translation": "crop",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 769,
+    "sourceRank": 769,
+    "word": "الحديث",
+    "translation": "modern",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 770,
+    "sourceRank": 770,
+    "word": "عنصر",
+    "translation": "element",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 771,
+    "sourceRank": 771,
+    "word": "ضرب",
+    "translation": "hit",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 772,
+    "sourceRank": 772,
+    "word": "طالب",
+    "translation": "student",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 773,
+    "sourceRank": 773,
+    "word": "ركن",
+    "translation": "corner",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 774,
+    "sourceRank": 774,
+    "word": "حزب",
+    "translation": "party",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 775,
+    "sourceRank": 775,
+    "word": "تزويد",
+    "translation": "supply",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 776,
+    "sourceRank": 776,
+    "word": "الذي",
+    "translation": "whose",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 777,
+    "sourceRank": 777,
+    "word": "حدد",
+    "translation": "locate",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 778,
+    "sourceRank": 778,
+    "word": "عصابة",
+    "translation": "ring",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 779,
+    "sourceRank": 779,
+    "word": "حرف",
+    "translation": "character",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 780,
+    "sourceRank": 780,
+    "word": "الحشرة",
+    "translation": "insect",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 781,
+    "sourceRank": 781,
+    "word": "اشتعلت",
+    "translation": "caught",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 782,
+    "sourceRank": 782,
+    "word": "فترة",
+    "translation": "period",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 783,
+    "sourceRank": 783,
+    "word": "تشير",
+    "translation": "indicate",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 784,
+    "sourceRank": 784,
+    "word": "راديو",
+    "translation": "radio",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 785,
+    "sourceRank": 785,
+    "word": "وتحدث",
+    "translation": "spoke",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 786,
+    "sourceRank": 786,
+    "word": "ذرة",
+    "translation": "atom",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 787,
+    "sourceRank": 787,
+    "word": "بشري",
+    "translation": "human",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 788,
+    "sourceRank": 788,
+    "word": "التاريخ",
+    "translation": "history",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 789,
+    "sourceRank": 789,
+    "word": "تأثير",
+    "translation": "effect",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 790,
+    "sourceRank": 790,
+    "word": "كهربائي",
+    "translation": "electric",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 791,
+    "sourceRank": 791,
+    "word": "توقع",
+    "translation": "expect",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 792,
+    "sourceRank": 792,
+    "word": "العظام",
+    "translation": "bone",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 793,
+    "sourceRank": 793,
+    "word": "سكة حديدية",
+    "translation": "rail",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 794,
+    "sourceRank": 794,
+    "word": "تخيل",
+    "translation": "imagine",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 795,
+    "sourceRank": 795,
+    "word": "توفير",
+    "translation": "provide",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 796,
+    "sourceRank": 796,
+    "word": "توافق",
+    "translation": "agree",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 797,
+    "sourceRank": 797,
+    "word": "وبالتالي",
+    "translation": "thus",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 798,
+    "sourceRank": 798,
+    "word": "لطيف",
+    "translation": "gentle",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 799,
+    "sourceRank": 799,
+    "word": "امرأة",
+    "translation": "woman",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 800,
+    "sourceRank": 800,
+    "word": "نقيب",
+    "translation": "captain",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 801,
+    "sourceRank": 801,
+    "word": "تخمين",
+    "translation": "guess",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 802,
+    "sourceRank": 802,
+    "word": "الضرورة",
+    "translation": "necessary",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 803,
+    "sourceRank": 803,
+    "word": "حاد",
+    "translation": "sharp",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 804,
+    "sourceRank": 804,
+    "word": "جناح",
+    "translation": "wing",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 805,
+    "sourceRank": 805,
+    "word": "خلق",
+    "translation": "create",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 806,
+    "sourceRank": 806,
+    "word": "الجيران",
+    "translation": "neighbor",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 807,
+    "sourceRank": 807,
+    "word": "غسل",
+    "translation": "wash",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 808,
+    "sourceRank": 808,
+    "word": "خفاش",
+    "translation": "bat",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 809,
+    "sourceRank": 809,
+    "word": "بالأحرى",
+    "translation": "rather",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 810,
+    "sourceRank": 810,
+    "word": "الحشد",
+    "translation": "crowd",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 811,
+    "sourceRank": 811,
+    "word": "الذرة",
+    "translation": "corn",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 812,
+    "sourceRank": 812,
+    "word": "مقارنة",
+    "translation": "compare",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 813,
+    "sourceRank": 813,
+    "word": "قصيدة",
+    "translation": "poem",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 814,
+    "sourceRank": 814,
+    "word": "سلسلة",
+    "translation": "string",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 815,
+    "sourceRank": 815,
+    "word": "جرس",
+    "translation": "bell",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 816,
+    "sourceRank": 816,
+    "word": "تعتمد",
+    "translation": "depend",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 817,
+    "sourceRank": 817,
+    "word": "اللحوم",
+    "translation": "meat",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 818,
+    "sourceRank": 818,
+    "word": "فرك",
+    "translation": "rub",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 819,
+    "sourceRank": 819,
+    "word": "أنبوب",
+    "translation": "tube",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 820,
+    "sourceRank": 820,
+    "word": "الشهيرة",
+    "translation": "famous",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 821,
+    "sourceRank": 921,
+    "word": "الدولار",
+    "translation": "dollar",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 822,
+    "sourceRank": 822,
+    "word": "تيار",
+    "translation": "stream",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 823,
+    "sourceRank": 823,
+    "word": "خوف",
+    "translation": "fear",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 824,
+    "sourceRank": 284,
+    "word": "مشهد",
+    "translation": "sight",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 825,
+    "sourceRank": 825,
+    "word": "رقيق",
+    "translation": "thin",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 826,
+    "sourceRank": 826,
+    "word": "مثلث",
+    "translation": "triangle",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 827,
+    "sourceRank": 827,
+    "word": "كوكب",
+    "translation": "planet",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 828,
+    "sourceRank": 828,
+    "word": "عجل",
+    "translation": "hurry",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 829,
+    "sourceRank": 829,
+    "word": "رئيس",
+    "translation": "chief",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 830,
+    "sourceRank": 830,
+    "word": "مستعمرة",
+    "translation": "colony",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 831,
+    "sourceRank": 831,
+    "word": "على مدار الساعة",
+    "translation": "clock",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 832,
+    "sourceRank": 832,
+    "word": "منجم",
+    "translation": "mine",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 833,
+    "sourceRank": 833,
+    "word": "ربطة عنق",
+    "translation": "tie",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 834,
+    "sourceRank": 834,
+    "word": "دخول",
+    "translation": "enter",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 835,
+    "sourceRank": 835,
+    "word": "الرئيسية",
+    "translation": "major",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 836,
+    "sourceRank": 836,
+    "word": "جديدة",
+    "translation": "fresh",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 837,
+    "sourceRank": 837,
+    "word": "البحث",
+    "translation": "search",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 838,
+    "sourceRank": 838,
+    "word": "إرسال",
+    "translation": "send",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 839,
+    "sourceRank": 839,
+    "word": "الأصفر",
+    "translation": "yellow",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 840,
+    "sourceRank": 840,
+    "word": "بندقية",
+    "translation": "gun",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 841,
+    "sourceRank": 841,
+    "word": "السماح",
+    "translation": "allow",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 842,
+    "sourceRank": 842,
+    "word": "طباعة",
+    "translation": "print",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 843,
+    "sourceRank": 843,
+    "word": "ميت",
+    "translation": "dead",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 844,
+    "sourceRank": 844,
+    "word": "بقعة",
+    "translation": "spot",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 845,
+    "sourceRank": 845,
+    "word": "صحراء",
+    "translation": "desert",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 846,
+    "sourceRank": 846,
+    "word": "دعوى",
+    "translation": "suit",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 847,
+    "sourceRank": 847,
+    "word": "التيار",
+    "translation": "current",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 848,
+    "sourceRank": 848,
+    "word": "رفع",
+    "translation": "lift",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 849,
+    "sourceRank": 840,
+    "word": "ارتفع",
+    "translation": "rose",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 850,
+    "sourceRank": 850,
+    "word": "وصول",
+    "translation": "arrive",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 851,
+    "sourceRank": 851,
+    "word": "سيد",
+    "translation": "master",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 852,
+    "sourceRank": 852,
+    "word": "المسار",
+    "translation": "track",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 853,
+    "sourceRank": 853,
+    "word": "الأم",
+    "translation": "parent",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 854,
+    "sourceRank": 854,
+    "word": "الشاطئ",
+    "translation": "shore",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 855,
+    "sourceRank": 855,
+    "word": "تقسيم",
+    "translation": "division",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 856,
+    "sourceRank": 856,
+    "word": "ورقة",
+    "translation": "sheet",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 857,
+    "sourceRank": 857,
+    "word": "مادة",
+    "translation": "substance",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 858,
+    "sourceRank": 858,
+    "word": "صالح",
+    "translation": "favor",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 859,
+    "sourceRank": 859,
+    "word": "اتصال",
+    "translation": "connect",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 860,
+    "sourceRank": 860,
+    "word": "آخر",
+    "translation": "post",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 861,
+    "sourceRank": 861,
+    "word": "أنفق",
+    "translation": "spend",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 862,
+    "sourceRank": 862,
+    "word": "وتر",
+    "translation": "chord",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 863,
+    "sourceRank": 863,
+    "word": "دهن",
+    "translation": "fat",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 864,
+    "sourceRank": 864,
+    "word": "سعيد",
+    "translation": "glad",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 865,
+    "sourceRank": 865,
+    "word": "الأصلي",
+    "translation": "original",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 866,
+    "sourceRank": 866,
+    "word": "حصة",
+    "translation": "share",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 867,
+    "sourceRank": 867,
+    "word": "محطة",
+    "translation": "station",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 868,
+    "sourceRank": 868,
+    "word": "أب",
+    "translation": "dad",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 869,
+    "sourceRank": 869,
+    "word": "الخبز",
+    "translation": "bread",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 870,
+    "sourceRank": 870,
+    "word": "تهمة",
+    "translation": "charge",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 871,
+    "sourceRank": 871,
+    "word": "السليم",
+    "translation": "proper",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 872,
+    "sourceRank": 872,
+    "word": "شريط",
+    "translation": "bar",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 873,
+    "sourceRank": 873,
+    "word": "العرض",
+    "translation": "offer",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 874,
+    "sourceRank": 874,
+    "word": "قطاع",
+    "translation": "segment",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 875,
+    "sourceRank": 875,
+    "word": "الرقيق",
+    "translation": "slave",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 876,
+    "sourceRank": 876,
+    "word": "بط",
+    "translation": "duck",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 877,
+    "sourceRank": 877,
+    "word": "لحظة",
+    "translation": "instant",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 878,
+    "sourceRank": 878,
+    "word": "سوق",
+    "translation": "market",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 879,
+    "sourceRank": 879,
+    "word": "درجة",
+    "translation": "degree",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 880,
+    "sourceRank": 880,
+    "word": "أهل",
+    "translation": "populate",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 881,
+    "sourceRank": 881,
+    "word": "كتكوت",
+    "translation": "chick",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 882,
+    "sourceRank": 882,
+    "word": "عزيزتي",
+    "translation": "dear",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 883,
+    "sourceRank": 883,
+    "word": "العدو",
+    "translation": "enemy",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 884,
+    "sourceRank": 884,
+    "word": "الرد",
+    "translation": "reply",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 885,
+    "sourceRank": 885,
+    "word": "شراب",
+    "translation": "drink",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 886,
+    "sourceRank": 886,
+    "word": "تحدث",
+    "translation": "occur",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 887,
+    "sourceRank": 887,
+    "word": "دعم",
+    "translation": "support",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 888,
+    "sourceRank": 888,
+    "word": "خطاب",
+    "translation": "speech",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 889,
+    "sourceRank": 889,
+    "word": "الطبيعة",
+    "translation": "nature",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 890,
+    "sourceRank": 890,
+    "word": "مجموعة",
+    "translation": "range",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 891,
+    "sourceRank": 891,
+    "word": "البخار",
+    "translation": "steam",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 892,
+    "sourceRank": 892,
+    "word": "الحركة",
+    "translation": "motion",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 893,
+    "sourceRank": 893,
+    "word": "مسار",
+    "translation": "path",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 894,
+    "sourceRank": 894,
+    "word": "السائل",
+    "translation": "liquid",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 895,
+    "sourceRank": 895,
+    "word": "تسجيل",
+    "translation": "log",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 896,
+    "sourceRank": 896,
+    "word": "مقصود",
+    "translation": "meant",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 897,
+    "sourceRank": 897,
+    "word": "حاصل",
+    "translation": "quotient",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 898,
+    "sourceRank": 898,
+    "word": "أسنان",
+    "translation": "teeth",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 899,
+    "sourceRank": 899,
+    "word": "قذيفة",
+    "translation": "shell",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 900,
+    "sourceRank": 900,
+    "word": "الرقبة",
+    "translation": "neck",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 901,
+    "sourceRank": 901,
+    "word": "الأكسجين",
+    "translation": "oxygen",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 902,
+    "sourceRank": 902,
+    "word": "السكر",
+    "translation": "sugar",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 903,
+    "sourceRank": 903,
+    "word": "الموت",
+    "translation": "death",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 904,
+    "sourceRank": 904,
+    "word": "جميل",
+    "translation": "pretty",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 905,
+    "sourceRank": 905,
+    "word": "مهارة",
+    "translation": "skill",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 906,
+    "sourceRank": 906,
+    "word": "النساء",
+    "translation": "women",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 907,
+    "sourceRank": 907,
+    "word": "الموسم",
+    "translation": "season",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 908,
+    "sourceRank": 908,
+    "word": "حل",
+    "translation": "solution",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 909,
+    "sourceRank": 909,
+    "word": "مغناطيس",
+    "translation": "magnet",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 910,
+    "sourceRank": 910,
+    "word": "فضة",
+    "translation": "silver",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 911,
+    "sourceRank": 911,
+    "word": "شكرا",
+    "translation": "thank",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 912,
+    "sourceRank": 912,
+    "word": "فرع",
+    "translation": "branch",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 913,
+    "sourceRank": 913,
+    "word": "مباراة",
+    "translation": "match",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 914,
+    "sourceRank": 914,
+    "word": "لاحقة",
+    "translation": "suffix",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 915,
+    "sourceRank": 915,
+    "word": "خاصة",
+    "translation": "especially",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 916,
+    "sourceRank": 916,
+    "word": "تين",
+    "translation": "fig",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 917,
+    "sourceRank": 917,
+    "word": "خائف",
+    "translation": "afraid",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 918,
+    "sourceRank": 918,
+    "word": "ضخم",
+    "translation": "huge",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 919,
+    "sourceRank": 919,
+    "word": "شقيقة",
+    "translation": "sister",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 920,
+    "sourceRank": 920,
+    "word": "الصلب",
+    "translation": "steel",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 921,
+    "sourceRank": 921,
+    "word": "بحث",
+    "translation": "discuss",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 922,
+    "sourceRank": 922,
+    "word": "إلى الأمام",
+    "translation": "forward",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 923,
+    "sourceRank": 923,
+    "word": "مماثل",
+    "translation": "similar",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 924,
+    "sourceRank": 924,
+    "word": "توجيه",
+    "translation": "guide",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 925,
+    "sourceRank": 925,
+    "word": "التجربة",
+    "translation": "experience",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 926,
+    "sourceRank": 926,
+    "word": "النتيجة",
+    "translation": "score",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 927,
+    "sourceRank": 927,
+    "word": "تفاحة",
+    "translation": "apple",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 928,
+    "sourceRank": 928,
+    "word": "اشترى",
+    "translation": "bought",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 929,
+    "sourceRank": 929,
+    "word": "أدى",
+    "translation": "led",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 930,
+    "sourceRank": 930,
+    "word": "رمية",
+    "translation": "pitch",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 931,
+    "sourceRank": 931,
+    "word": "معطف",
+    "translation": "coat",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 932,
+    "sourceRank": 932,
+    "word": "كتلة",
+    "translation": "mass",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 933,
+    "sourceRank": 933,
+    "word": "بطاقة",
+    "translation": "card",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 934,
+    "sourceRank": 934,
+    "word": "فرقة",
+    "translation": "band",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 935,
+    "sourceRank": 935,
+    "word": "حبل",
+    "translation": "rope",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 936,
+    "sourceRank": 936,
+    "word": "انزلاق",
+    "translation": "slip",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 937,
+    "sourceRank": 937,
+    "word": "الفوز",
+    "translation": "win",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 938,
+    "sourceRank": 938,
+    "word": "حلم",
+    "translation": "dream",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 939,
+    "sourceRank": 939,
+    "word": "مساء",
+    "translation": "evening",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 940,
+    "sourceRank": 940,
+    "word": "حالة",
+    "translation": "condition",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 941,
+    "sourceRank": 941,
+    "word": "علف",
+    "translation": "feed",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 942,
+    "sourceRank": 942,
+    "word": "أداة",
+    "translation": "tool",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 943,
+    "sourceRank": 943,
+    "word": "الكل",
+    "translation": "total",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 944,
+    "sourceRank": 944,
+    "word": "الأساسية",
+    "translation": "basic",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 945,
+    "sourceRank": 945,
+    "word": "رائحة",
+    "translation": "smell",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 946,
+    "sourceRank": 946,
+    "word": "الوادي",
+    "translation": "valley",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 947,
+    "sourceRank": 947,
+    "word": "ولا",
+    "translation": "nor",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 948,
+    "sourceRank": 948,
+    "word": "ضعف",
+    "translation": "double",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 949,
+    "sourceRank": 949,
+    "word": "مقعد",
+    "translation": "seat",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 950,
+    "sourceRank": 950,
+    "word": "تواصل",
+    "translation": "continue",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 951,
+    "sourceRank": 951,
+    "word": "كتلة",
+    "translation": "block",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 952,
+    "sourceRank": 952,
+    "word": "جدول",
+    "translation": "chart",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 953,
+    "sourceRank": 953,
+    "word": "قبعة",
+    "translation": "hat",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 954,
+    "sourceRank": 954,
+    "word": "بيع",
+    "translation": "sell",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 955,
+    "sourceRank": 955,
+    "word": "نجاح",
+    "translation": "success",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 956,
+    "sourceRank": 956,
+    "word": "شركة",
+    "translation": "company",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 957,
+    "sourceRank": 957,
+    "word": "طرح",
+    "translation": "subtract",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 958,
+    "sourceRank": 958,
+    "word": "حدث",
+    "translation": "event",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 959,
+    "sourceRank": 959,
+    "word": "خاصة",
+    "translation": "particular",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 960,
+    "sourceRank": 960,
+    "word": "صفقة",
+    "translation": "deal",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 961,
+    "sourceRank": 961,
+    "word": "السباحة",
+    "translation": "swim",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 962,
+    "sourceRank": 962,
+    "word": "مصطلح",
+    "translation": "term",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 963,
+    "sourceRank": 963,
+    "word": "العكس",
+    "translation": "opposite",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 964,
+    "sourceRank": 964,
+    "word": "زوجة",
+    "translation": "wife",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 965,
+    "sourceRank": 965,
+    "word": "حذاء",
+    "translation": "shoe",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 966,
+    "sourceRank": 966,
+    "word": "الكتف",
+    "translation": "shoulder",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 967,
+    "sourceRank": 967,
+    "word": "انتشار",
+    "translation": "spread",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 968,
+    "sourceRank": 968,
+    "word": "رتب",
+    "translation": "arrange",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 969,
+    "sourceRank": 969,
+    "word": "مخيم",
+    "translation": "camp",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 970,
+    "sourceRank": 970,
+    "word": "اختراع",
+    "translation": "invent",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 971,
+    "sourceRank": 971,
+    "word": "قطن",
+    "translation": "cotton",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 972,
+    "sourceRank": 972,
+    "word": "الولادة",
+    "translation": "born",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 973,
+    "sourceRank": 973,
+    "word": "حدد",
+    "translation": "determine",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 974,
+    "sourceRank": 974,
+    "word": "رابعا",
+    "translation": "quart",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 975,
+    "sourceRank": 975,
+    "word": "تسعة",
+    "translation": "nine",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 976,
+    "sourceRank": 976,
+    "word": "شاحنة",
+    "translation": "truck",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 977,
+    "sourceRank": 977,
+    "word": "الضوضاء",
+    "translation": "noise",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 978,
+    "sourceRank": 978,
+    "word": "مستوى",
+    "translation": "level",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 979,
+    "sourceRank": 979,
+    "word": "فرصة",
+    "translation": "chance",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 980,
+    "sourceRank": 980,
+    "word": "جمع",
+    "translation": "gather",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 981,
+    "sourceRank": 981,
+    "word": "متجر",
+    "translation": "shop",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 982,
+    "sourceRank": 982,
+    "word": "امتداد",
+    "translation": "stretch",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 983,
+    "sourceRank": 983,
+    "word": "رمي",
+    "translation": "throw",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 984,
+    "sourceRank": 984,
+    "word": "تألق",
+    "translation": "shine",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 985,
+    "sourceRank": 985,
+    "word": "الملكية",
+    "translation": "property",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 986,
+    "sourceRank": 986,
+    "word": "عمود",
+    "translation": "column",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 987,
+    "sourceRank": 987,
+    "word": "جزيء",
+    "translation": "molecule",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 988,
+    "sourceRank": 988,
+    "word": "اختر",
+    "translation": "select",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 989,
+    "sourceRank": 989,
+    "word": "خاطئ",
+    "translation": "wrong",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 990,
+    "sourceRank": 990,
+    "word": "رمادي",
+    "translation": "gray",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 991,
+    "sourceRank": 991,
+    "word": "كرر",
+    "translation": "repeat",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 992,
+    "sourceRank": 992,
+    "word": "تتطلب",
+    "translation": "require",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 993,
+    "sourceRank": 993,
+    "word": "واسع",
+    "translation": "broad",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 994,
+    "sourceRank": 994,
+    "word": "إعداد",
+    "translation": "prepare",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 995,
+    "sourceRank": 995,
+    "word": "ملح",
+    "translation": "salt",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 996,
+    "sourceRank": 996,
+    "word": "الأنف",
+    "translation": "nose",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 997,
+    "sourceRank": 997,
+    "word": "الجمع",
+    "translation": "plural",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 998,
+    "sourceRank": 998,
+    "word": "غضب",
+    "translation": "anger",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 999,
+    "sourceRank": 999,
+    "word": "مطالبة",
+    "translation": "claim",
+    "partOfSpeech": "noun"
+  },
+  {
+    "rank": 1000,
+    "sourceRank": 1000,
+    "word": "القارة",
+    "translation": "continent",
+    "partOfSpeech": "noun"
+  }
+]

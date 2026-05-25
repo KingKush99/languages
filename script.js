@@ -2164,13 +2164,35 @@ function enhanceArabicStory(story, index) {
 
 const arabicStories = generatedArStories.map(enhanceArabicStory);
 
+function getCurriculumLanguage(language) {
+  return window.LANGUAGE_CURRICULUM?.languages?.[language] || null;
+}
+
+function getCurriculumWords(language, fallback) {
+  const words = getCurriculumLanguage(language)?.words;
+  if (!Array.isArray(words) || !words.length) return fallback();
+  return words.map((item) => ({
+    rank: Number(item.rank),
+    sourceRank: item.sourceRank,
+    word: item.word,
+    translation: item.translation,
+    partOfSpeech: item.partOfSpeech || ""
+  }));
+}
+
+function getCurriculumStories(language, fallback) {
+  const stories = getCurriculumLanguage(language)?.stories;
+  if (!Array.isArray(stories) || !stories.length) return fallback;
+  return stories;
+}
+
 const initialLanguage = localStorage.getItem("nova_target_language") || "russian";
 const languageDatasets = {
-  russian: { label: "Russian", title: "Russian Reading", words: () => parseWords(rawRussianWords), paragraphs, stories: russianStories, speechLang: "ru-RU" },
-  japanese: { label: "Japanese", title: "Japanese Reading", words: buildJapaneseWords, paragraphs: japaneseParagraphs, stories: japaneseStories, speechLang: "ja-JP" },
-  mandarin: { label: "Mandarin", title: "Mandarin Reading", words: buildMandarinWords, paragraphs: mandarinParagraphs, stories: mandarinStories, speechLang: "zh-CN" },
-  hindi: { label: "Hindi", title: "Hindi Reading", words: buildHindiWords, paragraphs: hindiParagraphs, stories: hindiStories, speechLang: "hi-IN" },
-  arabic: { label: "Arabic", title: "Arabic Reading", words: buildArabicWords, paragraphs: arabicParagraphs, stories: arabicStories, speechLang: "ar-SA" }
+  russian: { label: "Russian", title: "Russian Reading", words: () => getCurriculumWords("russian", () => parseWords(rawRussianWords)), paragraphs, stories: getCurriculumStories("russian", russianStories), speechLang: "ru-RU" },
+  japanese: { label: "Japanese", title: "Japanese Reading", words: () => getCurriculumWords("japanese", buildJapaneseWords), paragraphs: japaneseParagraphs, stories: getCurriculumStories("japanese", japaneseStories), speechLang: "ja-JP" },
+  mandarin: { label: "Mandarin", title: "Mandarin Reading", words: () => getCurriculumWords("mandarin", buildMandarinWords), paragraphs: mandarinParagraphs, stories: getCurriculumStories("mandarin", mandarinStories), speechLang: "zh-CN" },
+  hindi: { label: "Hindi", title: "Hindi Reading", words: () => getCurriculumWords("hindi", buildHindiWords), paragraphs: hindiParagraphs, stories: getCurriculumStories("hindi", hindiStories), speechLang: "hi-IN" },
+  arabic: { label: "Arabic", title: "Arabic Reading", words: () => getCurriculumWords("arabic", buildArabicWords), paragraphs: arabicParagraphs, stories: getCurriculumStories("arabic", arabicStories), speechLang: "ar-SA" }
 };
 let activeParagraphs = languageDatasets[initialLanguage]?.paragraphs || paragraphs;
 let storyLibrary = languageDatasets[initialLanguage]?.stories || russianStories;
@@ -2591,7 +2613,7 @@ function markTextAsLearned(text) {
     learned.push({ rank: item.rank, word: item.word, translation: item.translation });
     existing.add(key);
   });
-  appState.learnedWords = learned.slice(-500);
+  appState.learnedWords = learned.slice(-1000);
   localStorage.setItem(`nova_learned_words_${appState.targetLanguage}`, JSON.stringify(appState.learnedWords));
 }
 

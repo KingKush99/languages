@@ -1,0 +1,2948 @@
+[
+  {
+    "id": "mandarin-beginner-01",
+    "level": "beginner",
+    "title": "Beginner 01: 词语 1-9",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      1,
+      9
+    ],
+    "allowedWordRankMax": 9,
+    "newWords": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "reviewWords": [],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "今天，学习者读一个短页面。 新词语: 一, 人, 里, 会, 没, 她, 吗, 去, 也. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "Today the learner reads a short page. New words: 一 = A; 人 = People; 里 = In; 会 = Can; 没 = Not; 她 = She; 吗 = Do; 去 = Go; 也 = Also. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-beginner-02",
+    "level": "beginner",
+    "title": "Beginner 02: 词语 10-18",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      10,
+      18
+    ],
+    "allowedWordRankMax": 18,
+    "newWords": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "reviewWords": [
+      1,
+      3,
+      5,
+      7,
+      9
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "今天，学习者读一个短页面。 复习词语: 一, 里, 没, 吗, 也. 新词语: 有, 这, 那, 不, 什, 个, 来, 要, 就. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "Today the learner reads a short page. Review words: 一 = A; 里 = In; 没 = Not; 吗 = Do; 也 = Also. New words: 有 = Have; 这 = This; 那 = That; 不 = Not; 什 = Even; 个 = A; 来 = Come; 要 = Wish; 就 = On. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-beginner-03",
+    "level": "beginner",
+    "title": "Beginner 03: 词语 19-27",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      19,
+      27
+    ],
+    "allowedWordRankMax": 27,
+    "newWords": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "reviewWords": [
+      1,
+      4,
+      7,
+      10,
+      13,
+      16
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "今天，学习者读一个短页面。 复习词语: 一, 会, 吗, 有, 不. 新词语: 我, 你, 的, 是, 了, 他, 么, 们, 在. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "Today the learner reads a short page. Review words: 一 = A; 会 = Can; 吗 = Do; 有 = Have; 不 = Not. New words: 我 = I; 你 = You; 的 = Of; 是 = Be; 了 = The; 他 = He; 么 = What; 们 = They; 在 = In. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-beginner-04",
+    "level": "beginner",
+    "title": "Beginner 04: 词语 28-36",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      28,
+      36
+    ],
+    "allowedWordRankMax": 36,
+    "newWords": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "reviewWords": [
+      4,
+      7,
+      10,
+      13,
+      16,
+      19,
+      22,
+      25
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "今天，学习者读一个短页面。 复习词语: 会, 吗, 有, 不, 来. 新词语: 说, 为, 好, 吧, 知道, 我的, 和, 你的, 想. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "Today the learner reads a short page. Review words: 会 = Can; 吗 = Do; 有 = Have; 不 = Not; 来 = Come. New words: 说 = Say; 为 = For; 好 = Good; 吧 = It; 知道 = Know; 我的 = My; 和 = And; 你的 = Your; 想 = Want. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-beginner-05",
+    "level": "beginner",
+    "title": "Beginner 05: 词语 37-44",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      37,
+      44
+    ],
+    "allowedWordRankMax": 44,
+    "newWords": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "reviewWords": [
+      13,
+      16,
+      19,
+      22,
+      25,
+      28,
+      31,
+      34
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "今天，学习者读一个短页面。 复习词语: 不, 来, 我, 是, 么. 新词语: 只, 很, 都, 对, 把, 啊, 怎, 得. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "Today the learner reads a short page. Review words: 不 = Not; 来 = Come; 我 = I; 是 = Be; 么 = What. New words: 只 = Only; 很 = Very; 都 = Both; 对 = To; 把 = To; 啊 = Ah; 怎 = How; 得 = Get. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-beginner-06",
+    "level": "beginner",
+    "title": "Beginner 06: 词语 45-52",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      45,
+      52
+    ],
+    "allowedWordRankMax": 52,
+    "newWords": [
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "reviewWords": [
+      21,
+      24,
+      27,
+      30,
+      33,
+      36,
+      39,
+      42
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "今天，学习者读一个短页面。 复习词语: 的, 他, 在, 好, 我的. 新词语: 还, 过, 不是, 到, 样, 飞, 远, 身. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "Today the learner reads a short page. Review words: 的 = Of; 他 = He; 在 = In; 好 = Good; 我的 = My. New words: 还 = Also; 过 = Cross; 不是 = No; 到 = To; 样 = Sample; 飞 = Fly; 远 = Far; 身 = Body. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-beginner-07",
+    "level": "beginner",
+    "title": "Beginner 07: 词语 53-60",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      53,
+      60
+    ],
+    "allowedWordRankMax": 60,
+    "newWords": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "reviewWords": [
+      29,
+      32,
+      35,
+      38,
+      41,
+      44,
+      47,
+      50
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "今天，学习者读一个短页面。 复习词语: 为, 知道, 你的, 很, 把. 新词语: 任何, 生活, 够, 号, 兰, 瑞, 达, 或. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "Today the learner reads a short page. Review words: 为 = For; 知道 = Know; 你的 = Your; 很 = Very; 把 = To. New words: 任何 = Any; 生活 = Life; 够 = Enough; 号 = Number; 兰 = Orchid; 瑞 = Swiss; 达 = Reach; 或 = Or. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-beginner-08",
+    "level": "beginner",
+    "title": "Beginner 08: 词语 61-68",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      61,
+      68
+    ],
+    "allowedWordRankMax": 68,
+    "newWords": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "reviewWords": [
+      37,
+      40,
+      43,
+      46,
+      49,
+      52,
+      55,
+      58
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "今天，学习者读一个短页面。 复习词语: 只, 对, 怎, 过, 样. 新词语: 愿, 蒂, 別, 军, 正, 是不是, 证, 不用. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "Today the learner reads a short page. Review words: 只 = Only; 对 = To; 怎 = How; 过 = Cross; 样 = Sample. New words: 愿 = Willing; 蒂 = Stem; 別 = Do not; 军 = Military; 正 = Positive; 是不是 = Is not; 证 = Certificate; 不用 = Need not. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-beginner-09",
+    "level": "beginner",
+    "title": "Beginner 09: 词语 69-76",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      69,
+      76
+    ],
+    "allowedWordRankMax": 76,
+    "newWords": [
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76
+    ],
+    "reviewWords": [
+      45,
+      48,
+      51,
+      54,
+      57,
+      60,
+      63,
+      66
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "今天，学习者读一个短页面。 复习词语: 还, 到, 远, 生活, 兰. 新词语: 三, 乐, 吉, 男人, 告訴, 路, 搞, 可是. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "Today the learner reads a short page. Review words: 还 = Also; 到 = To; 远 = Far; 生活 = Life; 兰 = Orchid. New words: 三 = Three; 乐 = Music; 吉 = Lucky; 男人 = Man; 告訴 = Tell; 路 = Road; 搞 = Do; 可是 = But. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-beginner-10",
+    "level": "beginner",
+    "title": "Beginner 10: 词语 77-84",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      77,
+      84
+    ],
+    "allowedWordRankMax": 84,
+    "newWords": [
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "reviewWords": [
+      53,
+      56,
+      59,
+      62,
+      65,
+      68,
+      71,
+      74
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "今天，学习者读一个短页面。 复习词语: 任何, 号, 达, 蒂, 正. 新词语: 与, 次, 狗, 决, 金, 史, 姆, 部. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "Today the learner reads a short page. Review words: 任何 = Any; 号 = Number; 达 = Reach; 蒂 = Stem; 正 = Positive. New words: 与 = And; 次 = Secondary; 狗 = Dog; 决 = Decide; 金 = Gold; 史 = History; 姆 = Governess; 部 = Department. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-beginner-11",
+    "level": "beginner",
+    "title": "Beginner 11: 词语 85-92",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      85,
+      92
+    ],
+    "allowedWordRankMax": 92,
+    "newWords": [
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "reviewWords": [
+      61,
+      64,
+      67,
+      70,
+      73,
+      76,
+      79,
+      82
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "今天，学习者读一个短页面。 复习词语: 愿, 军, 证, 乐, 告訴. 新词语: 正在, 活, 刚, 回家, 贝, 如何, 须, 战. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "Today the learner reads a short page. Review words: 愿 = Willing; 军 = Military; 证 = Certificate; 乐 = Music; 告訴 = Tell. New words: 正在 = Are; 活 = Live; 刚 = Just; 回家 = Return home; 贝 = Shellfish; 如何 = How; 须 = Must; 战 = War. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-beginner-12",
+    "level": "beginner",
+    "title": "Beginner 12: 词语 93-100",
+    "difficulty": "Beginner page",
+    "band": 1,
+    "wordRange": [
+      93,
+      100
+    ],
+    "allowedWordRankMax": 100,
+    "newWords": [
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "reviewWords": [
+      69,
+      72,
+      75,
+      78,
+      81,
+      84,
+      87,
+      90
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "今天，学习者读一个短页面。 复习词语: 三, 男人, 搞, 次, 金. 新词语: 不會, 夫, 喂, 父, 亚, 肯定, 女孩, 世界. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "Today the learner reads a short page. Review words: 三 = Three; 男人 = Man; 搞 = Do; 次 = Secondary; 金 = Gold. New words: 不會 = Will not; 夫 = Husband; 喂 = Feed; 父 = Father; 亚 = Inferior; 肯定 = Sure; 女孩 = Girl; 世界 = World. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-elementary-01",
+    "level": "elementary",
+    "title": "Elementary 01: 词语 101-116",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      101,
+      116
+    ],
+    "allowedWordRankMax": 116,
+    "newWords": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116
+    ],
+    "reviewWords": [
+      77,
+      80,
+      83,
+      86,
+      89,
+      92,
+      95,
+      98
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 与, 决, 姆, 活, 贝. 新词语: 不要, 些, 不知道, 不能, 因, 觉, 发, 像. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 与 = And; 决 = Decide; 姆 = Governess; 活 = Live; 贝 = Shellfish. New words: 不要 = Must not; 些 = Some; 不知道 = Do not know; 不能 = Can not; 因 = Because; 觉 = Feel; 发 = Hair; 像 = Image. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "第 2",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 与, 决, 姆, 活, 贝. 新词语: 太, 但是, 多, 打, 机, 來, 好了, 用. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 与 = And; 决 = Decide; 姆 = Governess; 活 = Live; 贝 = Shellfish. New words: 太 = Too; 但是 = But; 多 = Multi-; 打 = Fight; 机 = Machine; 來 = Come; 好了 = Well; 用 = Use. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-elementary-02",
+    "level": "elementary",
+    "title": "Elementary 02: 词语 117-132",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      117,
+      132
+    ],
+    "allowedWordRankMax": 132,
+    "newWords": [
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132
+    ],
+    "reviewWords": [
+      93,
+      96,
+      99,
+      102,
+      105,
+      108,
+      111,
+      114
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 不會, 父, 女孩, 些, 因. 新词语: 他的, 诉, 德, 叫, 什麼, 真, 干, 心. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 不會 = Will not; 父 = Father; 女孩 = Girl; 些 = Some; 因 = Because. New words: 他的 = His; 诉 = Appeal; 德 = Moral; 叫 = Call; 什麼 = What; 真 = SANT; 干 = Dry; 心 = Heart. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "第 2",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 不會, 父, 女孩, 些, 因. 新词语: 走, 比, 死, 嘿, 出, 车, 一下, 中. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 不會 = Will not; 父 = Father; 女孩 = Girl; 些 = Some; 因 = Because. New words: 走 = Go; 比 = Ratio; 死 = Dead; 嘿 = Hey; 出 = Out; 车 = Car; 一下 = About; 中 = In. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-elementary-03",
+    "level": "elementary",
+    "title": "Elementary 03: 词语 133-148",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      133,
+      148
+    ],
+    "allowedWordRankMax": 148,
+    "newWords": [
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148
+    ],
+    "reviewWords": [
+      109,
+      112,
+      115,
+      118,
+      121,
+      124,
+      127,
+      130
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 太, 打, 好了, 诉, 什麼. 新词语: 好吧, 需要, 经, 妈, 候, 长, 而, 错. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 太 = Too; 打 = Fight; 好了 = Well; 诉 = Appeal; 什麼 = What. New words: 好吧 = Well; 需要 = Need; 经 = After; 妈 = Mom; 候 = Wait; 长 = Long; 而 = And; 错 = Wrong. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "第 2",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 太, 打, 好了, 诉, 什麼. 新词语: 好的, 间, 又, 国, 起, 动, 杀, 于. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 太 = Too; 打 = Fight; 好了 = Well; 诉 = Appeal; 什麼 = What. New words: 好的 = Good; 间 = Between; 又 = And; 国 = Country; 起 = Start; 动 = Move; 杀 = Kill; 于 = At. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-elementary-04",
+    "level": "elementary",
+    "title": "Elementary 04: 词语 149-164",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      149,
+      164
+    ],
+    "allowedWordRankMax": 164,
+    "newWords": [
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164
+    ],
+    "reviewWords": [
+      125,
+      128,
+      131,
+      134,
+      137,
+      140,
+      143,
+      146
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 走, 嘿, 一下, 需要, 候. 新词语: 种, 去了, 担, 名, 混蛋, 礼, 幹, 不了. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 走 = Go; 嘿 = Hey; 一下 = About; 需要 = Need; 候 = Wait. New words: 种 = Seed; 去了 = Go; 担 = Dan; 名 = Name; 混蛋 = Asshole; 礼 = Ceremony; 幹 = Dry; 不了 = Not. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "第 2",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 走, 嘿, 一下, 需要, 候. 新词语: 有些, 過, 後, 击, 漂亮, 神, 多少, 海. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 走 = Go; 嘿 = Hey; 一下 = About; 需要 = Need; 候 = Wait. New words: 有些 = Some; 過 = Cross; 後 = After; 击 = Strike; 漂亮 = Beautiful; 神 = God; 多少 = How much; 海 = Sea. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-elementary-05",
+    "level": "elementary",
+    "title": "Elementary 05: 词语 165-180",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      165,
+      180
+    ],
+    "allowedWordRankMax": 180,
+    "newWords": [
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180
+    ],
+    "reviewWords": [
+      141,
+      144,
+      147,
+      150,
+      153,
+      156,
+      159,
+      162
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 好的, 国, 杀, 去了, 混蛋. 新词语: 每, 哥, 教, 走吧, 好像, 单, 公, 林. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 好的 = Good; 国 = Country; 杀 = Kill; 去了 = Go; 混蛋 = Asshole. New words: 每 = Each; 哥 = Brother; 教 = Teach; 走吧 = Go; 好像 = Like; 单 = Single; 公 = Public; 林 = Forest. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "第 2",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 好的, 国, 杀, 去了, 混蛋. 新词语: 女, 忙, 火, 钟, 家伙, 科, 回去, 最后. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 好的 = Good; 国 = Country; 杀 = Kill; 去了 = Go; 混蛋 = Asshole. New words: 女 = Female; 忙 = Busy; 火 = Fire; 钟 = Bell; 家伙 = Guy; 科 = Branch; 回去 = Go back; 最后 = Last. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-elementary-06",
+    "level": "elementary",
+    "title": "Elementary 06: 词语 181-196",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      181,
+      196
+    ],
+    "allowedWordRankMax": 196,
+    "newWords": [
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196
+    ],
+    "reviewWords": [
+      157,
+      160,
+      163,
+      166,
+      169,
+      172,
+      175,
+      178
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 有些, 击, 多少, 哥, 好像. 新词语: 水, 不管, 麦, 泻, 鬼, 還, 船, 永. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 有些 = Some; 击 = Strike; 多少 = How much; 哥 = Brother; 好像 = Like. New words: 水 = Water; 不管 = Regardless of; 麦 = Wheat; 泻 = Diarrhea; 鬼 = Ghost; 還 = Also; 船 = Ship; 永 = Forever. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "第 2",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 有些, 击, 多少, 哥, 好像. 新词语: 安全, 那個, 爾, 這麼, 满, 风, 皮, 威. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 有些 = Some; 击 = Strike; 多少 = How much; 哥 = Brother; 好像 = Like. New words: 安全 = Security; 那個 = That; 爾 = Seoul; 這麼 = So; 满 = Full; 风 = Wind; 皮 = Skin; 威 = Prestige. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-elementary-07",
+    "level": "elementary",
+    "title": "Elementary 07: 词语 197-212",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      197,
+      212
+    ],
+    "allowedWordRankMax": 212,
+    "newWords": [
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212
+    ],
+    "reviewWords": [
+      173,
+      176,
+      179,
+      182,
+      185,
+      188,
+      191,
+      194
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 女, 钟, 回去, 不管, 鬼. 新词语: 据, 鲁, 转, 相, 地方, 沒有, 有人, 嗨. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 女 = Female; 钟 = Bell; 回去 = Go back; 不管 = Regardless of; 鬼 = Ghost. New words: 据 = According to; 鲁 = Lu; 转 = Turn; 相 = Phase; 地方 = Local; 沒有 = No; 有人 = Some; 嗨 = Hi. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "第 2",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 女, 钟, 回去, 不管, 鬼. 新词语: 看看, 自己, 一定, 事情, 屑, 希望, 所, 褉. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 女 = Female; 钟 = Bell; 回去 = Go back; 不管 = Regardless of; 鬼 = Ghost. New words: 看看 = Look; 自己 = Oneself; 一定 = Certainly; 事情 = Thing; 屑 = Scrap; 希望 = Hope; 所 = The; 褉 = Aspx.. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-elementary-08",
+    "level": "elementary",
+    "title": "Elementary 08: 词语 213-228",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      213,
+      228
+    ],
+    "allowedWordRankMax": 228,
+    "newWords": [
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228
+    ],
+    "reviewWords": [
+      189,
+      192,
+      195,
+      198,
+      201,
+      204,
+      207,
+      210
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 安全, 這麼, 皮, 鲁, 地方. 新词语: 感, 气, 不想, 嘛, 实, 始, 給, 然后. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 安全 = Security; 這麼 = So; 皮 = Skin; 鲁 = Lu; 地方 = Local. New words: 感 = Sense; 气 = Gas; 不想 = Do not want to; 嘛 = Well; 实 = Real; 始 = Beginning; 給 = To; 然后 = Then. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "第 2",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 安全, 這麼, 皮, 鲁, 地方. 新词语: 個, 相信, 结, 今天, 几, 题, 放, 讓. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 安全 = Security; 這麼 = So; 皮 = Skin; 鲁 = Lu; 地方 = Local. New words: 個 = A; 相信 = Believe; 结 = Bear; 今天 = Today; 几 = A few; 题 = Title; 放 = Put; 讓 = Let. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-elementary-09",
+    "level": "elementary",
+    "title": "Elementary 09: 词语 229-244",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      229,
+      244
+    ],
+    "allowedWordRankMax": 244,
+    "newWords": [
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244
+    ],
+    "reviewWords": [
+      205,
+      208,
+      211,
+      214,
+      217,
+      220,
+      223,
+      226
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 看看, 事情, 所, 气, 实. 新词语: 确, 意思, 成, 所有, 喜, 對, 之, 一切. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 看看 = Look; 事情 = Thing; 所 = The; 气 = Gas; 实 = Real. New words: 确 = Indeed; 意思 = Meaning; 成 = Become; 所有 = All; 喜 = Happy; 對 = To; 之 = The; 一切 = Everything. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "第 2",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 看看, 事情, 所, 气, 实. 新词语: 记, 抱歉, 一直, 天, 褌, 钱, 面, 更. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 看看 = Look; 事情 = Thing; 所 = The; 气 = Gas; 实 = Real. New words: 记 = Remember; 抱歉 = Sorry; 一直 = Has been; 天 = Day; 褌 = Drawers; 钱 = Money; 面 = Surface; 更 = More. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-elementary-10",
+    "level": "elementary",
+    "title": "Elementary 10: 词语 245-260",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      245,
+      260
+    ],
+    "allowedWordRankMax": 260,
+    "newWords": [
+      245,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260
+    ],
+    "reviewWords": [
+      221,
+      224,
+      227,
+      230,
+      233,
+      236,
+      239,
+      242
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 個, 今天, 放, 意思, 喜. 新词语: 学, 現在, 边, 你們, 不起, 脑, 呃, 论. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 個 = A; 今天 = Today; 放 = Put; 意思 = Meaning; 喜 = Happy. New words: 学 = Learn; 現在 = Now; 边 = Side; 你們 = You; 不起 = Can not afford to; 脑 = Brain; 呃 = Uh; 论 = Theory. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "第 2",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 個, 今天, 放, 意思, 喜. 新词语: 曼, 點, 普, 第一, 通, 棒, 线, 很高. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 個 = A; 今天 = Today; 放 = Put; 意思 = Meaning; 喜 = Happy. New words: 曼 = Man; 點 = Point; 普 = General; 第一 = First; 通 = Through; 棒 = Stick; 线 = Line; 很高 = High. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-elementary-11",
+    "level": "elementary",
+    "title": "Elementary 11: 词语 261-275",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      261,
+      275
+    ],
+    "allowedWordRankMax": 275,
+    "newWords": [
+      261,
+      262,
+      263,
+      264,
+      265,
+      266,
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274,
+      275
+    ],
+    "reviewWords": [
+      237,
+      240,
+      243,
+      246,
+      249,
+      252,
+      255,
+      258
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 记, 天, 面, 現在, 不起. 新词语: 买, 求, 束, 哇, 指, 张, 文, 锌. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 记 = Remember; 天 = Day; 面 = Surface; 現在 = Now; 不起 = Can not afford to. New words: 买 = Buy; 求 = Request; 束 = Bundle; 哇 = Wow; 指 = Finger; 张 = Zhang; 文 = Culture; 锌 = Zinc. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "第 2",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 记, 天, 面, 現在, 不起. 新词语: 重, 菲, 目, 根本, 联, 丹, 愛. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 记 = Remember; 天 = Day; 面 = Surface; 現在 = Now; 不起 = Can not afford to. New words: 重 = Weight; 菲 = Philippines; 目 = Eye; 根本 = Fundamental; 联 = Join; 丹 = Red; 愛 = Love. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-elementary-12",
+    "level": "elementary",
+    "title": "Elementary 12: 词语 276-290",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      276,
+      290
+    ],
+    "allowedWordRankMax": 290,
+    "newWords": [
+      276,
+      277,
+      278,
+      279,
+      280,
+      281,
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      288,
+      289,
+      290
+    ],
+    "reviewWords": [
+      252,
+      255,
+      258,
+      261,
+      264,
+      267,
+      270,
+      273
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 论, 普, 棒, 买, 哇. 新词语: 不到, 這些, 自己的, 笑, 闭, 基, 唯一, 要是. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 论 = Theory; 普 = General; 棒 = Stick; 买 = Buy; 哇 = Wow. New words: 不到 = Less than; 這些 = These; 自己的 = Own; 笑 = Laugh; 闭 = Close; 基 = Base; 唯一 = Unique; 要是 = If. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "第 2",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 论, 普, 棒, 买, 哇. 新词语: 提, 调, 丽, 女士, 校, 公司, 况. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 论 = Theory; 普 = General; 棒 = Stick; 买 = Buy; 哇 = Wow. New words: 提 = Mention; 调 = Tune; 丽 = Korea; 女士 = Ms.; 校 = School; 公司 = Company; 况 = Condition. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-elementary-13",
+    "level": "elementary",
+    "title": "Elementary 13: 词语 291-305",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      291,
+      305
+    ],
+    "allowedWordRankMax": 305,
+    "newWords": [
+      291,
+      292,
+      293,
+      294,
+      295,
+      296,
+      297,
+      298,
+      299,
+      300,
+      301,
+      302,
+      303,
+      304,
+      305
+    ],
+    "reviewWords": [
+      267,
+      270,
+      273,
+      276,
+      279,
+      282,
+      285,
+      288
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 文, 菲, 联, 不到, 笑. 新词语: 烦, 停, 英, 警, 险, 東西, 不可能, 坐. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 文 = Culture; 菲 = Philippines; 联 = Join; 不到 = Less than; 笑 = Laugh. New words: 烦 = Bother; 停 = Stop; 英 = Britain; 警 = Police; 险 = Risk; 東西 = Thing; 不可能 = Impossible; 坐 = Sit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "第 2",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 文, 菲, 联, 不到, 笑. 新词语: 区, 果, 伙, 哈, 罗, 难, 两. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 文 = Culture; 菲 = Philippines; 联 = Join; 不到 = Less than; 笑 = Laugh. New words: 区 = Area; 果 = Fruit; 伙 = Partner; 哈 = Ha; 罗 = Luo; 难 = Difficult; 两 = Both. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-elementary-14",
+    "level": "elementary",
+    "title": "Elementary 14: 词语 306-320",
+    "difficulty": "Elementary pages",
+    "band": 2,
+    "wordRange": [
+      306,
+      320
+    ],
+    "allowedWordRankMax": 320,
+    "newWords": [
+      306,
+      307,
+      308,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320
+    ],
+    "reviewWords": [
+      282,
+      285,
+      288,
+      291,
+      294,
+      297,
+      300,
+      303
+    ],
+    "sections": [
+      {
+        "heading": "第 1",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 唯一, 调, 校, 烦, 警. 新词语: 一些, 這樣, 自, 女人, 向, 最好, 走了, 褬. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 唯一 = Unique; 调 = Tune; 校 = School; 烦 = Bother; 警 = Police. New words: 一些 = Some; 這樣 = So; 自 = From; 女人 = Woman; 向 = To; 最好 = The best; 走了 = Go; 褬 = Sang. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "第 2",
+        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 唯一, 调, 校, 烦, 警. 新词语: 胁, 明, 理, 加, 枪, 万, 员. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this story, the learner reviews known words and adds new ones. Review words: 唯一 = Unique; 调 = Tune; 校 = School; 烦 = Bother; 警 = Police. New words: 胁 = Threaten; 明 = Next; 理 = Reason; 加 = Plus; 枪 = Gun; 万 = Ten thousand; 员 = Member. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-intermediate-01",
+    "level": "intermediate",
+    "title": "Intermediate 01: 词语 321-344",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      321,
+      344
+    ],
+    "allowedWordRankMax": 344,
+    "newWords": [
+      321,
+      322,
+      323,
+      324,
+      325,
+      326,
+      327,
+      328,
+      329,
+      330,
+      331,
+      332,
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340,
+      341,
+      342,
+      343,
+      344
+    ],
+    "reviewWords": [
+      297,
+      300,
+      303,
+      306,
+      309,
+      312,
+      315,
+      318
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 不可能, 果, 罗, 一些, 女人. 新词语: 妳, 玩, 分, 作, 巴, 而且, 物, 伤. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 不可能 = Impossible; 果 = Fruit; 罗 = Luo; 一些 = Some; 女人 = Woman. New words: 妳 = You; 玩 = Play; 分 = Minute; 作 = Make; 巴 = Pakistan; 而且 = And; 物 = Matter; 伤 = Hurt. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 不可能, 果, 罗, 一些, 女人. 新词语: 官, 道, 出去, 力, 总, 者, 先, 最. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 不可能 = Impossible; 果 = Fruit; 罗 = Luo; 一些 = Some; 女人 = Woman. New words: 官 = Official; 道 = Road; 出去 = Out; 力 = Force; 总 = Total; 者 = Person; 先 = First; 最 = Most. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 不可能, 果, 罗, 一些, 女人. 新词语: 很多, 医, 一次, 报, 名字, 将, 迪, 到了. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 不可能 = Impossible; 果 = Fruit; 罗 = Luo; 一些 = Some; 女人 = Woman. New words: 很多 = Many; 医 = Treatment; 一次 = Once; 报 = Report; 名字 = Name; 将 = Will; 迪 = Di; 到了 = To. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-intermediate-02",
+    "level": "intermediate",
+    "title": "Intermediate 02: 词语 345-368",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      345,
+      368
+    ],
+    "allowedWordRankMax": 368,
+    "newWords": [
+      345,
+      346,
+      347,
+      348,
+      349,
+      350,
+      351,
+      352,
+      353,
+      354,
+      355,
+      356,
+      357,
+      358,
+      359,
+      360,
+      361,
+      362,
+      363,
+      364,
+      365,
+      366,
+      367,
+      368
+    ],
+    "reviewWords": [
+      321,
+      324,
+      327,
+      330,
+      333,
+      336,
+      339,
+      342
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 妳, 作, 物, 道, 总. 新词语: 解, 新, 队, 识, 死了, 眼, 媽的, 第一次. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 妳 = You; 作 = Make; 物 = Matter; 道 = Road; 总 = Total. New words: 解 = Solution; 新 = New; 队 = Team; 识 = Knowledge; 死了 = Dead; 眼 = Eye; 媽的 = Damn; 第一次 = First. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 妳, 作, 物, 道, 总. 新词语: 離開, 忘, 我自己, 谐, 严, 且, 帶, 赶. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 妳 = You; 作 = Make; 物 = Matter; 道 = Road; 总 = Total. New words: 離開 = Leave; 忘 = Forget; 我自己 = Myself; 谐 = Harmonious; 严 = Strict; 且 = And; 帶 = Band; 赶 = Rush. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 妳, 作, 物, 道, 总. 新词语: 太棒, 佛, 直, 認為, 老婆, 索, 除了, 承. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 妳 = You; 作 = Make; 物 = Matter; 道 = Road; 总 = Total. New words: 太棒 = Great; 佛 = Buddha; 直 = Straight; 認為 = Think; 老婆 = Wife; 索 = Search; 除了 = In addition to; 承 = By Order of the. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-intermediate-03",
+    "level": "intermediate",
+    "title": "Intermediate 03: 词语 369-392",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      369,
+      392
+    ],
+    "allowedWordRankMax": 392,
+    "newWords": [
+      369,
+      370,
+      371,
+      372,
+      373,
+      374,
+      375,
+      376,
+      377,
+      378,
+      379,
+      380,
+      381,
+      382,
+      383,
+      384,
+      385,
+      386,
+      387,
+      388,
+      389,
+      390,
+      391,
+      392
+    ],
+    "reviewWords": [
+      345,
+      348,
+      351,
+      354,
+      357,
+      360,
+      363,
+      366
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 解, 识, 媽的, 忘, 严. 新词语: 泰, 建, 欧, 然後, 级, 昨晚, 石, 有了. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 解 = Solution; 识 = Knowledge; 媽的 = Damn; 忘 = Forget; 严 = Strict. New words: 泰 = Thai; 建 = Build; 欧 = Europe; 然後 = Then; 级 = Level; 昨晚 = Last night; 石 = Stone; 有了 = With. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 解, 识, 媽的, 忘, 严. 新词语: 都有, 磲, 差, 思, 啥, 過來, 努力, 丈夫. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 解 = Solution; 识 = Knowledge; 媽的 = Damn; 忘 = Forget; 严 = Strict. New words: 都有 = Have; 磲 = Clams; 差 = Poor; 思 = Think; 啥 = What; 過來 = Come; 努力 = Strive; 丈夫 = Husband. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 解, 识, 媽的, 忘, 严. 新词语: 任何人, 城市, 死亡, 全部, 组, i, 也許, 最近. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 解 = Solution; 识 = Knowledge; 媽的 = Damn; 忘 = Forget; 严 = Strict. New words: 任何人 = Anyone; 城市 = City; 死亡 = Death; 全部 = Whole; 组 = Group; i = i; 也許 = Perhaps; 最近 = Recently. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-intermediate-04",
+    "level": "intermediate",
+    "title": "Intermediate 04: 词语 393-416",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      393,
+      416
+    ],
+    "allowedWordRankMax": 416,
+    "newWords": [
+      393,
+      394,
+      395,
+      396,
+      397,
+      398,
+      399,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405,
+      406,
+      407,
+      408,
+      409,
+      410,
+      411,
+      412,
+      413,
+      414,
+      415,
+      416
+    ],
+    "reviewWords": [
+      369,
+      372,
+      375,
+      378,
+      381,
+      384,
+      387,
+      390
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 泰, 然後, 石, 磲, 啥. 新词语: 倒, 领, 顾, 市, 六, 行了, 滚, 好嗎. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 泰 = Thai; 然後 = Then; 石 = Stone; 磲 = Clams; 啥 = What. New words: 倒 = Inverted; 领 = Collar; 顾 = Gu; 市 = City; 六 = Six; 行了 = The line; 滚 = Roll; 好嗎 = Okay. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 泰, 然後, 石, 磲, 啥. 新词语: 师, 高, 莉, 坏, 电, 警察, 件, 誰. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 泰 = Thai; 然後 = Then; 石 = Stone; 磲 = Clams; 啥 = What. New words: 师 = Division; 高 = High; 莉 = Li; 坏 = Bad; 电 = Electricity; 警察 = Police; 件 = Item; 誰 = Who. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 泰, 然後, 石, 磲, 啥. 新词语: 兄弟, 之前, 谈, 送, 森, 伊, 以前, 房. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 泰 = Thai; 然後 = Then; 石 = Stone; 磲 = Clams; 啥 = What. New words: 兄弟 = Brothers; 之前 = Before; 谈 = Talk; 送 = Send; 森 = Forest; 伊 = He; 以前 = Previous; 房 = Room. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-intermediate-05",
+    "level": "intermediate",
+    "title": "Intermediate 05: 词语 417-440",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      417,
+      440
+    ],
+    "allowedWordRankMax": 440,
+    "newWords": [
+      417,
+      418,
+      419,
+      420,
+      421,
+      422,
+      423,
+      424,
+      425,
+      426,
+      427,
+      428,
+      429,
+      430,
+      431,
+      432,
+      433,
+      434,
+      435,
+      436,
+      437,
+      438,
+      439,
+      440
+    ],
+    "reviewWords": [
+      393,
+      396,
+      399,
+      402,
+      405,
+      408,
+      411,
+      414
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 倒, 市, 滚, 高, 电. 新词语: 婚, 喝, 怎麼, 今晚, 兴, 疯, 因為, 住. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 倒 = Inverted; 市 = City; 滚 = Roll; 高 = High; 电 = Electricity. New words: 婚 = Marriage; 喝 = Drink; 怎麼 = How; 今晚 = Tonight; 兴 = Interest; 疯 = Crazy; 因為 = Because; 住 = Live. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 倒, 市, 滚, 高, 电. 新词语: 内, 轻, 约, 声, 或者, 不行, 到底, 雷. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 倒 = Inverted; 市 = City; 滚 = Roll; 高 = High; 电 = Electricity. New words: 内 = Within; 轻 = Light; 约 = Approximately; 声 = Sound; 或者 = Or; 不行 = Not work; 到底 = In the end; 雷 = Mine. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 倒, 市, 滚, 高, 电. 新词语: 维, 条, 明天, 不好, 已經, 天啊, 洛, 护. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 倒 = Inverted; 市 = City; 滚 = Roll; 高 = High; 电 = Electricity. New words: 维 = Dimension; 条 = Article; 明天 = Tomorrow; 不好 = Bad; 已經 = Already; 天啊 = God; 洛 = Rockwell; 护 = Protect. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-intermediate-06",
+    "level": "intermediate",
+    "title": "Intermediate 06: 词语 441-464",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      441,
+      464
+    ],
+    "allowedWordRankMax": 464,
+    "newWords": [
+      441,
+      442,
+      443,
+      444,
+      445,
+      446,
+      447,
+      448,
+      449,
+      450,
+      451,
+      452,
+      453,
+      454,
+      455,
+      456,
+      457,
+      458,
+      459,
+      460,
+      461,
+      462,
+      463,
+      464
+    ],
+    "reviewWords": [
+      417,
+      420,
+      423,
+      426,
+      429,
+      432,
+      435,
+      438
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 婚, 今晚, 因為, 轻, 或者. 新词语: 塔, 运, 接, 球, 得到, 穿, 音, 從. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 婚 = Marriage; 今晚 = Tonight; 因為 = Because; 轻 = Light; 或者 = Or. New words: 塔 = Tower; 运 = Transport; 接 = Meet; 球 = Ball; 得到 = Get; 穿 = Wear; 音 = Sound; 從 = From. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 婚, 今晚, 因為, 轻, 或者. 新词语: 為, 生, 回, 可, 东, 尔, 欢, 很好. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 婚 = Marriage; 今晚 = Tonight; 因為 = Because; 轻 = Light; 或者 = Or. New words: 為 = For; 生 = Raw; 回 = Return; 可 = Can; 东 = East; 尔 = Seoul; 欢 = Happy; 很好 = Well. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 婚, 今晚, 因為, 轻, 或者. 新词语: 他們, 进, 地, 孩子, 帮, 离, 找, 尼. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 婚 = Marriage; 今晚 = Tonight; 因為 = Because; 轻 = Light; 或者 = Or. New words: 他們 = They; 进 = Enter; 地 = Ground; 孩子 = Children; 帮 = Help; 离 = From; 找 = Look for; 尼 = Nigeria. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-intermediate-07",
+    "level": "intermediate",
+    "title": "Intermediate 07: 词语 465-488",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      465,
+      488
+    ],
+    "allowedWordRankMax": 488,
+    "newWords": [
+      465,
+      466,
+      467,
+      468,
+      469,
+      470,
+      471,
+      472,
+      473,
+      474,
+      475,
+      476,
+      477,
+      478,
+      479,
+      480,
+      481,
+      482,
+      483,
+      484,
+      485,
+      486,
+      487,
+      488
+    ],
+    "reviewWords": [
+      441,
+      444,
+      447,
+      450,
+      453,
+      456,
+      459,
+      462
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 塔, 球, 音, 生, 东. 新词语: 从, 下, 马, 以, 利, 所以, 关, 哪. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 塔 = Tower; 球 = Ball; 音 = Sound; 生 = Raw; 东 = East. New words: 从 = From; 下 = Under; 马 = Horse; 以 = With; 利 = Profit; 所以 = So; 关 = Close; 哪 = Which. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 塔, 球, 音, 生, 东. 新词语: 懈, 行, 家, 拉, 才, 看到, 說, 手. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 塔 = Tower; 球 = Ball; 音 = Sound; 生 = Raw; 东 = East. New words: 懈 = Negligent; 行 = Row; 家 = Home; 拉 = Pull; 才 = Only; 看到 = See; 說 = Say; 手 = Hand. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 塔, 球, 音, 生, 东. 新词语: 法, 噢, 谁, 头, 无, 嗯, 工作, 可能. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 塔 = Tower; 球 = Ball; 音 = Sound; 生 = Raw; 东 = East. New words: 法 = Law; 噢 = Oh; 谁 = Who; 头 = Head; 无 = No; 嗯 = Ah; 工作 = Work; 可能 = May. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-intermediate-08",
+    "level": "intermediate",
+    "title": "Intermediate 08: 词语 489-512",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      489,
+      512
+    ],
+    "allowedWordRankMax": 512,
+    "newWords": [
+      489,
+      490,
+      491,
+      492,
+      493,
+      494,
+      495,
+      496,
+      497,
+      498,
+      499,
+      500,
+      501,
+      502,
+      503,
+      504,
+      505,
+      506,
+      507,
+      508,
+      509,
+      510,
+      511,
+      512
+    ],
+    "reviewWords": [
+      465,
+      468,
+      471,
+      474,
+      477,
+      480,
+      483,
+      486
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 从, 以, 关, 行, 才. 新词语: 薪, 朋友, 请, 许, 年, 那些, 一個, 一起. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 从 = From; 以 = With; 关 = Close; 行 = Row; 才 = Only. New words: 薪 = Salary; 朋友 = Friend; 请 = Please; 许 = Promise; 年 = Years; 那些 = Those; 一個 = A; 一起 = Together. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 从, 以, 关, 行, 才. 新词语: 然, 吃, 写, 带, 我喜, 弗, 尽, 耶. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 从 = From; 以 = With; 关 = Close; 行 = Row; 才 = Only. New words: 然 = However; 吃 = Eat; 写 = Write; 带 = Band; 我喜 = I am pleased to; 弗 = Eph.; 尽 = Exhausted; 耶 = Yeah. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 从, 以, 关, 行, 才. 新词语: 喔, 褍, 掉, 书, 其他, 派, 士, 器. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 从 = From; 以 = With; 关 = Close; 行 = Row; 才 = Only. New words: 喔 = Oh; 褍 = Tuan; 掉 = Fall; 书 = Book; 其他 = Other; 派 = Send; 士 = Scholar; 器 = Implement. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-intermediate-09",
+    "level": "intermediate",
+    "title": "Intermediate 09: 词语 513-535",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      513,
+      535
+    ],
+    "allowedWordRankMax": 535,
+    "newWords": [
+      513,
+      514,
+      515,
+      516,
+      517,
+      518,
+      519,
+      520,
+      521,
+      522,
+      523,
+      524,
+      525,
+      526,
+      527,
+      528,
+      529,
+      530,
+      531,
+      532,
+      533,
+      534,
+      535
+    ],
+    "reviewWords": [
+      489,
+      492,
+      495,
+      498,
+      501,
+      504,
+      507,
+      510
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 薪, 许, 一個, 吃, 我喜. 新词语: 松, 数, 光, 其, 想我, 极, 合, 完全. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 薪 = Salary; 许 = Promise; 一個 = A; 吃 = Eat; 我喜 = I am pleased to. New words: 松 = Loose; 数 = Number; 光 = Light; 其 = Its; 想我 = Think I; 极 = Pole; 合 = Close; 完全 = Entirely. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 薪, 许, 一個, 吃, 我喜. 新词语: 做了, 影, 室, 受, 奇, 试, 装, 晚上. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 薪 = Salary; 许 = Promise; 一個 = A; 吃 = Eat; 我喜 = I am pleased to. New words: 做了 = Done; 影 = Shadow; 室 = Room; 受 = Be subject; 奇 = Odd; 试 = Test; 装 = Dress; 晚上 = At night. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 薪, 许, 一個, 吃, 我喜. 新词语: 恶, 应, 小姐, 整, 强, 业, 类. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 薪 = Salary; 许 = Promise; 一個 = A; 吃 = Eat; 我喜 = I am pleased to. New words: 恶 = Evil; 应 = Should; 小姐 = Miss; 整 = Whole; 强 = Strength; 业 = Industry; 类 = Class. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-intermediate-10",
+    "level": "intermediate",
+    "title": "Intermediate 10: 词语 536-558",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      536,
+      558
+    ],
+    "allowedWordRankMax": 558,
+    "newWords": [
+      536,
+      537,
+      538,
+      539,
+      540,
+      541,
+      542,
+      543,
+      544,
+      545,
+      546,
+      547,
+      548,
+      549,
+      550,
+      551,
+      552,
+      553,
+      554,
+      555,
+      556,
+      557,
+      558
+    ],
+    "reviewWords": [
+      512,
+      515,
+      518,
+      521,
+      524,
+      527,
+      530,
+      533
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 器, 光, 极, 做了, 受. 新词语: 复, 奥, 梦, 曾, 嘴, 认, 如此, 爸. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 器 = Implement; 光 = Light; 极 = Pole; 做了 = Done; 受 = Be subject. New words: 复 = Complex; 奥 = Austrian; 梦 = Dream; 曾 = Once; 嘴 = Mouth; 认 = Recognize; 如此 = So; 爸 = Dad. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 器, 光, 极, 做了, 受. 新词语: 照, 杰, 為什麼, 入, 睡, 都不, 服, 节. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 器 = Implement; 光 = Light; 极 = Pole; 做了 = Done; 受 = Be subject. New words: 照 = Photo; 杰 = Outstanding; 為什麼 = Why; 入 = Enter; 睡 = Sleep; 都不 = Not; 服 = Clothes; 节 = Festival. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 器, 光, 极, 做了, 受. 新词语: 顿, 了解, 根, 蛋, 紧, 麻, 很快. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 器 = Implement; 光 = Light; 极 = Pole; 做了 = Done; 受 = Be subject. New words: 顿 = Dayton; 了解 = Understand; 根 = Root; 蛋 = Egg; 紧 = Tight; 麻 = Hemp; 很快 = Quickly. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-intermediate-11",
+    "level": "intermediate",
+    "title": "Intermediate 11: 词语 559-581",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      559,
+      581
+    ],
+    "allowedWordRankMax": 581,
+    "newWords": [
+      559,
+      560,
+      561,
+      562,
+      563,
+      564,
+      565,
+      566,
+      567,
+      568,
+      569,
+      570,
+      571,
+      572,
+      573,
+      574,
+      575,
+      576,
+      577,
+      578,
+      579,
+      580,
+      581
+    ],
+    "reviewWords": [
+      535,
+      538,
+      541,
+      544,
+      547,
+      550,
+      553,
+      556
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 类, 梦, 认, 照, 入. 新词语: 游, 忘了, 戴, 莎, 故事, 视, 真正, 蟹. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 类 = Class; 梦 = Dream; 认 = Recognize; 照 = Photo; 入 = Enter. New words: 游 = Tour; 忘了 = Forget; 戴 = Wear; 莎 = Shakespeare; 故事 = Story; 视 = Regard; 真正 = Real; 蟹 = Crab. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 类, 梦, 认, 照, 入. 新词语: 费, 靠, 全, 反, 字, 度, 甚至, 局. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 类 = Class; 梦 = Dream; 认 = Recognize; 照 = Photo; 入 = Enter. New words: 费 = Fee; 靠 = By; 全 = Whole; 反 = Anti-; 字 = Word; 度 = Degree; 甚至 = Even; 局 = Bureau. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 类, 梦, 认, 照, 入. 新词语: 莫, 命, 语, 性, 常, 莱, 之后. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 类 = Class; 梦 = Dream; 认 = Recognize; 照 = Photo; 入 = Enter. New words: 莫 = Mo; 命 = Life; 语 = Language; 性 = Sex; 常 = Often; 莱 = Levin; 之后 = After. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-intermediate-12",
+    "level": "intermediate",
+    "title": "Intermediate 12: 词语 582-604",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      582,
+      604
+    ],
+    "allowedWordRankMax": 604,
+    "newWords": [
+      582,
+      583,
+      584,
+      585,
+      586,
+      587,
+      588,
+      589,
+      590,
+      591,
+      592,
+      593,
+      594,
+      595,
+      596,
+      597,
+      598,
+      599,
+      600,
+      601,
+      602,
+      603,
+      604
+    ],
+    "reviewWords": [
+      558,
+      561,
+      564,
+      567,
+      570,
+      573,
+      576,
+      579
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 很快, 戴, 视, 费, 反. 新词语: 可不, 母, 留下, 外, 當, 此, 惊, 伯. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 很快 = Quickly; 戴 = Wear; 视 = Regard; 费 = Fee; 反 = Anti-. New words: 可不 = From time to; 母 = Mother; 留下 = Stay; 外 = Outside; 當 = When the; 此 = This; 惊 = Shock; 伯 = Bo. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 很快, 戴, 视, 费, 反. 新词语: 口, 喜歡, the, 在做, 那麼, 請, 五, 标. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 很快 = Quickly; 戴 = Wear; 视 = Regard; 费 = Fee; 反 = Anti-. New words: 口 = Mouth; 喜歡 = Like; the = the; 在做 = Doing; 那麼 = Then; 請 = Please; 五 = Five; 标 = Mark. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 很快, 戴, 视, 费, 反. 新词语: 画, 身上, 以后, 主, 謝謝, 應該, 静. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 很快 = Quickly; 戴 = Wear; 视 = Regard; 费 = Fee; 反 = Anti-. New words: 画 = Painting; 身上 = Body; 以后 = After; 主 = Main; 謝謝 = Thank you; 應該 = Should; 静 = Quiet. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-intermediate-13",
+    "level": "intermediate",
+    "title": "Intermediate 13: 词语 605-627",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      605,
+      627
+    ],
+    "allowedWordRankMax": 627,
+    "newWords": [
+      605,
+      606,
+      607,
+      608,
+      609,
+      610,
+      611,
+      612,
+      613,
+      614,
+      615,
+      616,
+      617,
+      618,
+      619,
+      620,
+      621,
+      622,
+      623,
+      624,
+      625,
+      626,
+      627
+    ],
+    "reviewWords": [
+      581,
+      584,
+      587,
+      590,
+      593,
+      596,
+      599,
+      602
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 之后, 留下, 此, 口, 在做. 新词语: 弹, 改, 酒, 伦, 裏, 花, 续, 天哪. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 之后 = After; 留下 = Stay; 此 = This; 口 = Mouth; 在做 = Doing. New words: 弹 = Bomb; 改 = Change; 酒 = Wine; 伦 = Lun; 裏 = In; 花 = Flower; 续 = Continue; 天哪 = Gosh. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 之后, 留下, 此, 口, 在做. 新词语: 這裡, 房子, 何, 由, 药, 同, 早上, 波. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 之后 = After; 留下 = Stay; 此 = This; 口 = Mouth; 在做 = Doing. New words: 這裡 = Here; 房子 = House; 何 = What; 由 = By; 药 = Drug; 同 = With; 早上 = Morning; 波 = Wave. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 之后, 留下, 此, 口, 在做. 新词语: 弄, 务, 原, 失, 考, 岁, 统. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 之后 = After; 留下 = Stay; 此 = This; 口 = Mouth; 在做 = Doing. New words: 弄 = Get; 务 = Business; 原 = Original; 失 = Lose; 考 = Test; 岁 = Years; 统 = Collectively. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-intermediate-14",
+    "level": "intermediate",
+    "title": "Intermediate 14: 词语 628-650",
+    "difficulty": "Intermediate chapters",
+    "band": 3,
+    "wordRange": [
+      628,
+      650
+    ],
+    "allowedWordRankMax": 650,
+    "newWords": [
+      628,
+      629,
+      630,
+      631,
+      632,
+      633,
+      634,
+      635,
+      636,
+      637,
+      638,
+      639,
+      640,
+      641,
+      642,
+      643,
+      644,
+      645,
+      646,
+      647,
+      648,
+      649,
+      650
+    ],
+    "reviewWords": [
+      604,
+      607,
+      610,
+      613,
+      616,
+      619,
+      622,
+      625
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 静, 酒, 花, 這裡, 由. 新词语: 斜, 拜托, 跑, 不在, 害, 麽, 日, 妮. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 静 = Quiet; 酒 = Wine; 花 = Flower; 這裡 = Here; 由 = By. New words: 斜 = Oblique; 拜托 = Please; 跑 = Run; 不在 = Absence; 害 = Harm; 麽 = What; 日 = Day; 妮 = Ni. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 静, 酒, 花, 這裡, 由. 新词语: 凯, 衣服, 治, 便, 客, 议, 好好, 們. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 静 = Quiet; 酒 = Wine; 花 = Flower; 這裡 = Here; 由 = By. New words: 凯 = Triumphant; 衣服 = Clothes; 治 = Rule; 便 = Then; 客 = Passenger; 议 = Discuss; 好好 = Good; 們 = They. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 3",
+        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 静, 酒, 花, 這裡, 由. 新词语: 覺得, 谢谢, 托, 赛, 任, 色, 独. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 静 = Quiet; 酒 = Wine; 花 = Flower; 這裡 = Here; 由 = By. New words: 覺得 = Feel; 谢谢 = Thank you; 托 = Entrust; 赛 = Game; 任 = Office; 色 = Color; 独 = Independent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-advanced-01",
+    "level": "advanced",
+    "title": "Advanced 01: 词语 651-685",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      651,
+      685
+    ],
+    "allowedWordRankMax": 685,
+    "newWords": [
+      651,
+      652,
+      653,
+      654,
+      655,
+      656,
+      657,
+      658,
+      659,
+      660,
+      661,
+      662,
+      663,
+      664,
+      665,
+      666,
+      667,
+      668,
+      669,
+      670,
+      671,
+      672,
+      673,
+      674,
+      675,
+      676,
+      677,
+      678,
+      679,
+      680,
+      681,
+      682,
+      683,
+      684,
+      685
+    ],
+    "reviewWords": [
+      627,
+      630,
+      633,
+      636,
+      639,
+      642,
+      645,
+      648
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 统, 跑, 麽, 凯, 便. 新词语: 眼睛, 黑, 华, 放在, 城, 的時候, 站. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 统 = Collectively; 跑 = Run; 麽 = What; 凯 = Triumphant; 便 = Then. New words: 眼睛 = Eye; 黑 = Black; 华 = China; 放在 = On the; 城 = City; 的時候 = When; 站 = Station. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 统, 跑, 麽, 凯, 便. 新词语: 小孩, 住在, 咖啡, 换, 才是, 褕, 周. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 统 = Collectively; 跑 = Run; 麽 = What; 凯 = Triumphant; 便 = Then. New words: 小孩 = Child; 住在 = Lives in; 咖啡 = Coffee; 换 = Change; 才是 = Is; 褕 = Yu; 周 = Week. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 统, 跑, 麽, 凯, 便. 新词语: 控制, 言, 敢, 赢, 半, 白, 释. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 统 = Collectively; 跑 = Run; 麽 = What; 凯 = Triumphant; 便 = Then. New words: 控制 = Control; 言 = Speech; 敢 = Dare; 赢 = Win; 半 = Half; 白 = White; 释 = Release. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 4 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 统, 跑, 麽, 凯, 便. 新词语: 能不能, 生了, 而已, 图, 該, 怪, 字幕. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 统 = Collectively; 跑 = Run; 麽 = What; 凯 = Triumphant; 便 = Then. New words: 能不能 = Can; 生了 = Health; 而已 = Nothing more; 图 = Map; 該 = That; 怪 = Strange; 字幕 = Subtitle. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 5 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 统, 跑, 麽, 凯, 便. 新词语: 對不起, 去看, 像是, 保持, 替, 拜, 一件. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 统 = Collectively; 跑 = Run; 麽 = What; 凯 = Triumphant; 便 = Then. New words: 對不起 = I am sorry; 去看 = To see; 像是 = Like; 保持 = Keeping; 替 = For; 拜 = Worship; 一件 = A. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-advanced-02",
+    "level": "advanced",
+    "title": "Advanced 02: 词语 686-720",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      686,
+      720
+    ],
+    "allowedWordRankMax": 720,
+    "newWords": [
+      686,
+      687,
+      688,
+      689,
+      690,
+      691,
+      692,
+      693,
+      694,
+      695,
+      696,
+      697,
+      698,
+      699,
+      700,
+      701,
+      702,
+      703,
+      704,
+      705,
+      706,
+      707,
+      708,
+      709,
+      710,
+      711,
+      712,
+      713,
+      714,
+      715,
+      716,
+      717,
+      718,
+      719,
+      720
+    ],
+    "reviewWords": [
+      662,
+      665,
+      668,
+      671,
+      674,
+      677,
+      680,
+      683
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 才是, 控制, 赢, 释, 而已. 新词语: 錢, 想知道, 時, 讲, 新的, 希, 炸. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 才是 = Is; 控制 = Control; 赢 = Win; 释 = Release; 而已 = Nothing more. New words: 錢 = Money; 想知道 = Want to know; 時 = Time; 讲 = Speak; 新的 = New; 希 = Hope; 炸 = Fry. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 才是, 控制, 赢, 释, 而已. 新词语: 择, 知, 說的, 码, 戏, 塞, 碰. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 才是 = Is; 控制 = Control; 赢 = Win; 释 = Release; 而已 = Nothing more. New words: 择 = Choose; 知 = Know; 說的 = Said; 码 = Code; 戏 = Play; 塞 = Stopper; 碰 = Touch. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 才是, 控制, 赢, 释, 而已. 新词语: 放下, 一樣, 害怕, 杰克, 迎, 绝, 開始. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 才是 = Is; 控制 = Control; 赢 = Win; 释 = Release; 而已 = Nothing more. New words: 放下 = Put down; 一樣 = Equally; 害怕 = Be afraid; 杰克 = Jack; 迎 = Welcome; 绝 = Absolutely; 開始 = Start. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 4 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 才是, 控制, 赢, 释, 而已. 新词语: 生命, 王, 助, 乔, 义, 回到, 救. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 才是 = Is; 控制 = Control; 赢 = Win; 释 = Release; 而已 = Nothing more. New words: 生命 = Life; 王 = King; 助 = Help; 乔 = Joe; 义 = Justice; 回到 = Back to; 救 = Save. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 5 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 才是, 控制, 赢, 释, 而已. 新词语: 清楚, 冷, 原因, 却, 付, 管, 狂. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 才是 = Is; 控制 = Control; 赢 = Win; 释 = Release; 而已 = Nothing more. New words: 清楚 = Clear; 冷 = Cold; 原因 = Reason; 却 = But; 付 = Pay; 管 = Tube; 狂 = Mad. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-advanced-03",
+    "level": "advanced",
+    "title": "Advanced 03: 词语 721-755",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      721,
+      755
+    ],
+    "allowedWordRankMax": 755,
+    "newWords": [
+      721,
+      722,
+      723,
+      724,
+      725,
+      726,
+      727,
+      728,
+      729,
+      730,
+      731,
+      732,
+      733,
+      734,
+      735,
+      736,
+      737,
+      738,
+      739,
+      740,
+      741,
+      742,
+      743,
+      744,
+      745,
+      746,
+      747,
+      748,
+      749,
+      750,
+      751,
+      752,
+      753,
+      754,
+      755
+    ],
+    "reviewWords": [
+      697,
+      700,
+      703,
+      706,
+      709,
+      712,
+      715,
+      718
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 戏, 放下, 杰克, 開始, 助. 新词语: 早, 一天, 超, 怀, 使, 断, 演. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 戏 = Play; 放下 = Put down; 杰克 = Jack; 開始 = Start; 助 = Help. New words: 早 = Early; 一天 = One day; 超 = Exceed; 怀 = Bosom; 使 = Make; 断 = Break; 演 = Play. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 戏, 放下, 杰克, 開始, 助. 新词语: 外面, 四, 楼, 另一, 玩笑, 好啊, 裡. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 戏 = Play; 放下 = Put down; 杰克 = Jack; 開始 = Start; 助 = Help. New words: 外面 = Outside; 四 = Four; 楼 = Floor; 另一 = Another; 玩笑 = Joke; 好啊 = Well; 裡 = In. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 戏, 放下, 杰克, 開始, 助. 新词语: 院, 空, 娜, 將, 下去, 传, 時間. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 戏 = Play; 放下 = Put down; 杰克 = Jack; 開始 = Start; 助 = Help. New words: 院 = Hospital; 空 = Air; 娜 = Na; 將 = Will; 下去 = Go on; 传 = Pass; 時間 = Time. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 4 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 戏, 放下, 杰克, 開始, 助. 新词语: 感到, 懂, 血, 失去, 终, 還是, 价. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 戏 = Play; 放下 = Put down; 杰克 = Jack; 開始 = Start; 助 = Help. New words: 感到 = Feel; 懂 = Understand; 血 = Blood; 失去 = Lose; 终 = End; 還是 = Or; 价 = Price. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 5 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 戏, 放下, 杰克, 開始, 助. 新词语: 包, 等, 变, 准, 查, 阿, 卡. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 戏 = Play; 放下 = Put down; 杰克 = Jack; 開始 = Start; 助 = Help. New words: 包 = Package; 等 = Wait; 变 = Change; 准 = Quasi-; 查 = Check; 阿 = A; 卡 = Card. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-advanced-04",
+    "level": "advanced",
+    "title": "Advanced 04: 词语 756-790",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      756,
+      790
+    ],
+    "allowedWordRankMax": 790,
+    "newWords": [
+      756,
+      757,
+      758,
+      759,
+      760,
+      761,
+      762,
+      763,
+      764,
+      765,
+      766,
+      767,
+      768,
+      769,
+      770,
+      771,
+      772,
+      773,
+      774,
+      775,
+      776,
+      777,
+      778,
+      779,
+      780,
+      781,
+      782,
+      783,
+      784,
+      785,
+      786,
+      787,
+      788,
+      789,
+      790
+    ],
+    "reviewWords": [
+      732,
+      735,
+      738,
+      741,
+      744,
+      747,
+      750,
+      753
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 玩笑, 院, 將, 時間, 血. 新词语: 這個, 在哪, 定, 处, 真是, 保, 想要. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 玩笑 = Joke; 院 = Hospital; 將 = Will; 時間 = Time; 血 = Blood. New words: 這個 = This; 在哪 = Where; 定 = Fixed; 处 = Place; 真是 = Really; 保 = Insurance; 想要 = Want. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 玩笑, 院, 將, 時間, 血. 新词语: 安, 并, 拿, 情, 爸爸, 褋, 您. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 玩笑 = Joke; 院 = Hospital; 將 = Will; 時間 = Time; 血 = Blood. New words: 安 = Safe; 并 = And; 拿 = Take; 情 = Love; 爸爸 = Father; 褋 = Die; 您 = You. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 玩笑, 院, 將, 時間, 血. 新词语: 美, 非常, 办, 前, 格, 场, 体. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 玩笑 = Joke; 院 = Hospital; 將 = Will; 時間 = Time; 血 = Blood. New words: 美 = U.S.; 非常 = Very; 办 = Do; 前 = Ago; 格 = Grid; 场 = Field; 体 = Body. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 4 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 玩笑, 院, 將, 時間, 血. 新词语: 大家, 呀, 系, 后, 亲, 明白, 备. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 玩笑 = Joke; 院 = Hospital; 將 = Will; 時間 = Time; 血 = Blood. New words: 大家 = Everyone; 呀 = Yeah; 系 = System; 后 = After; 亲 = Parent; 明白 = Understand; 备 = Equipment. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 5 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 玩笑, 院, 將, 時間, 血. 新词语: 布, 计, 恩, 找到, 她的, 老, 艾. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 玩笑 = Joke; 院 = Hospital; 將 = Will; 時間 = Time; 血 = Blood. New words: 布 = Cloth; 计 = Meter; 恩 = Grace; 找到 = Find; 她的 = Her; 老 = Old; 艾 = Ai. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-advanced-05",
+    "level": "advanced",
+    "title": "Advanced 05: 词语 791-825",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      791,
+      825
+    ],
+    "allowedWordRankMax": 825,
+    "newWords": [
+      791,
+      792,
+      793,
+      794,
+      795,
+      796,
+      797,
+      798,
+      799,
+      800,
+      801,
+      802,
+      803,
+      804,
+      805,
+      806,
+      807,
+      808,
+      809,
+      810,
+      811,
+      812,
+      813,
+      814,
+      815,
+      816,
+      817,
+      818,
+      819,
+      820,
+      821,
+      822,
+      823,
+      824,
+      825
+    ],
+    "reviewWords": [
+      767,
+      770,
+      773,
+      776,
+      779,
+      782,
+      785,
+      788
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 爸爸, 美, 前, 体, 系. 新词语: 意, 门, 啦, 米, 本, 问, 上帝. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 爸爸 = Father; 美 = U.S.; 前 = Ago; 体 = Body; 系 = System. New words: 意 = Meaning; 门 = Door; 啦 = La; 米 = Meter; 本 = This; 问 = Ask; 上帝 = God. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 爸爸, 美, 前, 体, 系. 新词语: 必, 沒, 等等, 不過, 猜, 福, 打算. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 爸爸 = Father; 美 = U.S.; 前 = Ago; 体 = Body; 系 = System. New words: 必 = Must; 沒 = Not; 等等 = Etc.; 不過 = But; 猜 = Guess; 福 = Blessing; 打算 = Plan. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 爸爸, 美, 前, 体, 系. 新词语: 适, 危, 连, 怕, 化, 不需要, 争. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 爸爸 = Father; 美 = U.S.; 前 = Ago; 体 = Body; 系 = System. New words: 适 = Suitable; 危 = Danger; 连 = Even; 怕 = Fear; 化 = Of; 不需要 = Do not need to; 争 = Fight. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 4 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 爸爸, 美, 前, 体, 系. 新词语: 则, 狱, 越, 小子, 有趣, 喜歡, the. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 爸爸 = Father; 美 = U.S.; 前 = Ago; 体 = Body; 系 = System. New words: 则 = Then; 狱 = Prison; 越 = More; 小子 = Brat; 有趣 = Interesting; 喜歡 = Like; the = the. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 5 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 爸爸, 美, 前, 体, 系. 新词语: 在做, 那麼, 請, 五, 标, 画, 身上. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 爸爸 = Father; 美 = U.S.; 前 = Ago; 体 = Body; 系 = System. New words: 在做 = Doing; 那麼 = Then; 請 = Please; 五 = Five; 标 = Mark; 画 = Painting; 身上 = Body. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-advanced-06",
+    "level": "advanced",
+    "title": "Advanced 06: 词语 826-860",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      826,
+      860
+    ],
+    "allowedWordRankMax": 860,
+    "newWords": [
+      826,
+      827,
+      828,
+      829,
+      830,
+      831,
+      832,
+      833,
+      834,
+      835,
+      836,
+      837,
+      838,
+      839,
+      840,
+      841,
+      842,
+      843,
+      844,
+      845,
+      846,
+      847,
+      848,
+      849,
+      850,
+      851,
+      852,
+      853,
+      854,
+      855,
+      856,
+      857,
+      858,
+      859,
+      860
+    ],
+    "reviewWords": [
+      802,
+      805,
+      808,
+      811,
+      814,
+      817,
+      820,
+      823
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 猜, 适, 怕, 争, 越. 新词语: 以后, 至少, 亞, 脱, 消息, 不喜, 块. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 猜 = Guess; 适 = Suitable; 怕 = Fear; 争 = Fight; 越 = More. New words: 以后 = After; 至少 = At least; 亞 = Inferior; 脱 = Take off; 消息 = News; 不喜 = Do not like; 块 = Block. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 猜, 适, 怕, 争, 越. 新词语: 快走, 著, 各位, 算, 問題, 沒事, 导. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 猜 = Guess; 适 = Suitable; 怕 = Fear; 争 = Fight; 越 = More. New words: 快走 = Brisk walking; 著 = With; 各位 = Everybody; 算 = Count; 問題 = Problem; 沒事 = All right; 导 = Guide. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 猜, 适, 怕, 争, 越. 新词语: 州, 老兄, 抓, 代, 蒙, 抓住, 山. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 猜 = Guess; 适 = Suitable; 怕 = Fear; 争 = Fight; 越 = More. New words: 州 = State; 老兄 = Brother; 抓 = Catch; 代 = On behalf of; 蒙 = Mongolian; 抓住 = Catch; 山 = Mountain. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 4 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 猜, 适, 怕, 争, 越. 新词语: 拍, 沙, 妻子, 脸, 责, 你自己, 回來. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 猜 = Guess; 适 = Suitable; 怕 = Fear; 争 = Fight; 越 = More. New words: 拍 = Beat; 沙 = Sand; 妻子 = Wife; 脸 = Face; 责 = Responsibility; 你自己 = Yourself; 回來 = Come back. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 5 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 猜, 适, 怕, 争, 越. 新词语: 歌, 星, 权, 术, 显, 幸, 交. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 猜 = Guess; 适 = Suitable; 怕 = Fear; 争 = Fight; 越 = More. New words: 歌 = Song; 星 = Star; 权 = Right; 术 = Technique; 显 = Show; 幸 = Fortunately; 交 = Cross. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-advanced-07",
+    "level": "advanced",
+    "title": "Advanced 07: 词语 861-895",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      861,
+      895
+    ],
+    "allowedWordRankMax": 895,
+    "newWords": [
+      861,
+      862,
+      863,
+      864,
+      865,
+      866,
+      867,
+      868,
+      869,
+      870,
+      871,
+      872,
+      873,
+      874,
+      875,
+      876,
+      877,
+      878,
+      879,
+      880,
+      881,
+      882,
+      883,
+      884,
+      885,
+      886,
+      887,
+      888,
+      889,
+      890,
+      891,
+      892,
+      893,
+      894,
+      895
+    ],
+    "reviewWords": [
+      837,
+      840,
+      843,
+      846,
+      849,
+      852,
+      855,
+      858
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 問題, 州, 代, 山, 妻子. 新词语: 不同, 聪, 随, 登, 班, 二, 录. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 問題 = Problem; 州 = State; 代 = On behalf of; 山 = Mountain; 妻子 = Wife. New words: 不同 = Different; 聪 = Clever; 随 = Follow; 登 = Ascend; 班 = Class; 二 = Two; 录 = Record. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 問題, 州, 代, 山, 妻子. 新词语: 武器, 热, 才能, 當然, 晚, 晚安, 成功. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 問題 = Problem; 州 = State; 代 = On behalf of; 山 = Mountain; 妻子 = Wife. New words: 武器 = Weapon; 热 = Hot; 才能 = Ability; 當然 = Of course; 晚 = Night; 晚安 = Good night; 成功 = Success. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 問題, 州, 代, 山, 妻子. 新词语: 未, 参, 瓦, 饭, 殺, 帕, 待. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 問題 = Problem; 州 = State; 代 = On behalf of; 山 = Mountain; 妻子 = Wife. New words: 未 = Not; 参 = Participate; 瓦 = Tile; 饭 = Rice; 殺 = Kill; 帕 = Handkerchief; 待 = To be. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 4 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 問題, 州, 代, 山, 妻子. 新词语: 是否, 勒, 射, 表, 卫, 太太, 接受. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 問題 = Problem; 州 = State; 代 = On behalf of; 山 = Mountain; 妻子 = Wife. New words: 是否 = Whether; 勒 = Le; 射 = Shoot; 表 = Table; 卫 = Guard; 太太 = Wife; 接受 = Accepted. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 5 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 問題, 州, 代, 山, 妻子. 新词语: 跳, 象, 灵, 真不, 破, 夫人, 操. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 問題 = Problem; 州 = State; 代 = On behalf of; 山 = Mountain; 妻子 = Wife. New words: 跳 = Jump; 象 = Elephant; 灵 = Spirit; 真不 = I really do not; 破 = Break; 夫人 = Mrs.; 操 = Exercise. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-advanced-08",
+    "level": "advanced",
+    "title": "Advanced 08: 词语 896-930",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      896,
+      930
+    ],
+    "allowedWordRankMax": 930,
+    "newWords": [
+      896,
+      897,
+      898,
+      899,
+      900,
+      901,
+      902,
+      903,
+      904,
+      905,
+      906,
+      907,
+      908,
+      909,
+      910,
+      911,
+      912,
+      913,
+      914,
+      915,
+      916,
+      917,
+      918,
+      919,
+      920,
+      921,
+      922,
+      923,
+      924,
+      925,
+      926,
+      927,
+      928,
+      929,
+      930
+    ],
+    "reviewWords": [
+      872,
+      875,
+      878,
+      881,
+      884,
+      887,
+      890,
+      893
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 晚, 未, 饭, 待, 射. 新词语: 诺, 萨, 卖, 选, 注意, 历, 脚. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 晚 = Night; 未 = Not; 饭 = Rice; 待 = To be; 射 = Shoot. New words: 诺 = Promise; 萨 = Bodhisattva; 卖 = Sell; 选 = Selected; 注意 = Note; 历 = Calendar; 脚 = Foot. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 晚, 未, 饭, 待, 射. 新词语: 丝, 少, 工, 密, 鱼, 验, 不再. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 晚 = Night; 未 = Not; 饭 = Rice; 待 = To be; 射 = Shoot. New words: 丝 = Wire; 少 = Less; 工 = Work; 密 = Close; 鱼 = Fish; 验 = Test; 不再 = No longer. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 晚, 未, 饭, 待, 射. 新词语: 检, 骗, 必須, a, 自由, 杯, 馆. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 晚 = Night; 未 = Not; 饭 = Rice; 待 = To be; 射 = Shoot. New words: 检 = Check; 骗 = Cheat; 必須 = Must; a = a; 自由 = Free; 杯 = Cup; 馆 = Shop. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 4 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 晚, 未, 饭, 待, 射. 新词语: 完, 追, 际, 产, 想到, 收, 探. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 晚 = Night; 未 = Not; 饭 = Rice; 待 = To be; 射 = Shoot. New words: 完 = Complete; 追 = Chase; 际 = Occasion; 产 = Yield; 想到 = Think; 收 = Income; 探 = Explore. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 5 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 晚, 未, 饭, 待, 射. 新词语: 直到, 酷, 乱, 资, 毁, 要求, 急. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 晚 = Night; 未 = Not; 饭 = Rice; 待 = To be; 射 = Shoot. New words: 直到 = Until; 酷 = Cool; 乱 = Random; 资 = Capital; 毁 = Ruin; 要求 = Claim; 急 = Urgent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-advanced-09",
+    "level": "advanced",
+    "title": "Advanced 09: 词语 931-965",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      931,
+      965
+    ],
+    "allowedWordRankMax": 965,
+    "newWords": [
+      931,
+      932,
+      933,
+      934,
+      935,
+      936,
+      937,
+      938,
+      939,
+      940,
+      941,
+      942,
+      943,
+      944,
+      945,
+      946,
+      947,
+      948,
+      949,
+      950,
+      951,
+      952,
+      953,
+      954,
+      955,
+      956,
+      957,
+      958,
+      959,
+      960,
+      961,
+      962,
+      963,
+      964,
+      965
+    ],
+    "reviewWords": [
+      907,
+      910,
+      913,
+      916,
+      919,
+      922,
+      925,
+      928
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 鱼, 检, a, 馆, 际. 新词语: 玛, 方, 完成, 照片, 收到, 所有人, 博士. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 鱼 = Fish; 检 = Check; a = a; 馆 = Shop; 际 = Occasion. New words: 玛 = Mary; 方 = Square; 完成 = Complete; 照片 = Photo; 收到 = Receive; 所有人 = Everyone; 博士 = Doctor. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 鱼, 检, a, 馆, 际. 新词语: 媽媽, you, 父母, 奇怪, 男孩, 攻, 店. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 鱼 = Fish; 检 = Check; a = a; 馆 = Shop; 际 = Occasion. New words: 媽媽 = Mom; you = you; 父母 = Parents; 奇怪 = Strange; 男孩 = Boy; 攻 = Attack; 店 = Shop. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 鱼, 检, a, 馆, 际. 新词语: 埃, 多久, 红, 太多, 咱, 能, 事. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 鱼 = Fish; 检 = Check; a = a; 馆 = Shop; 际 = Occasion. New words: 埃 = Angstrom; 多久 = How long; 红 = Red; 太多 = Too; 咱 = We; 能 = Can; 事 = Thing. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 4 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 鱼, 检, a, 馆, 际. 新词语: 看, 我們, 上, 给, 可以, 现, 斯. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 鱼 = Fish; 检 = Check; a = a; 馆 = Shop; 际 = Occasion. New words: 看 = See; 我們 = We; 上 = On; 给 = To; 可以 = Can; 现 = Present; 斯 = Sri Lanka. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 5 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 鱼, 检, a, 馆, 际. 新词语: 做, 儿, 时, 点, 开, 让, 就是. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 鱼 = Fish; 检 = Check; a = a; 馆 = Shop; 际 = Occasion. New words: 做 = Do; 儿 = Child; 时 = Time; 点 = Point; 开 = Open; 让 = Let; 就是 = Is. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "mandarin-advanced-10",
+    "level": "advanced",
+    "title": "Advanced 10: 词语 966-1000",
+    "difficulty": "Advanced chapters",
+    "band": 4,
+    "wordRange": [
+      966,
+      1000
+    ],
+    "allowedWordRankMax": 1000,
+    "newWords": [
+      966,
+      967,
+      968,
+      969,
+      970,
+      971,
+      972,
+      973,
+      974,
+      975,
+      976,
+      977,
+      978,
+      979,
+      980,
+      981,
+      982,
+      983,
+      984,
+      985,
+      986,
+      987,
+      988,
+      989,
+      990,
+      991,
+      992,
+      993,
+      994,
+      995,
+      996,
+      997,
+      998,
+      999,
+      1000
+    ],
+    "reviewWords": [
+      942,
+      945,
+      948,
+      951,
+      954,
+      957,
+      960,
+      963
+    ],
+    "sections": [
+      {
+        "heading": "章 1 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 男孩, 埃, 太多, 事, 上. 新词语: 但, 呢, 着, 它, 這, 如果, 跟. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 男孩 = Boy; 埃 = Angstrom; 太多 = Too; 事 = Thing; 上 = On. New words: 但 = But; 呢 = It; 着 = With; 它 = It; 這 = This; 如果 = If; 跟 = With. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 2 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 男孩, 埃, 太多, 事, 上. 新词语: 邪, 听, 克, 再, 快, 嗎, 被. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 男孩 = Boy; 埃 = Angstrom; 太多 = Too; 事 = Thing; 上 = On. New words: 邪 = Evil; 听 = Listen; 克 = Gram; 再 = Again; 快 = Fast; 嗎 = Do; 被 = Be. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 3 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 男孩, 埃, 太多, 事, 上. 新词语: 是的, 大, 先生, 别, 告, 真的, 谢. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 男孩 = Boy; 埃 = Angstrom; 太多 = Too; 事 = Thing; 上 = On. New words: 是的 = Yes; 大 = Large; 先生 = Mr.; 别 = Do not; 告 = Tell; 真的 = Really; 谢 = Thank. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 4 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 男孩, 埃, 太多, 事, 上. 新词语: 哦, 话, 械, 见, 当, 芯, 该. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 男孩 = Boy; 埃 = Angstrom; 太多 = Too; 事 = Thing; 上 = On. New words: 哦 = Oh; 话 = Words; 械 = Instrument; 见 = See; 当 = When the; 芯 = Core; 该 = That. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      },
+      {
+        "heading": "章 5 / 5",
+        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 男孩, 埃, 太多, 事, 上. 新词语: 西, 子, 已, 會, 小, 爱, 特. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
+        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 男孩 = Boy; 埃 = Angstrom; 太多 = Too; 事 = Thing; 上 = On. New words: 西 = Western; 子 = Child; 已 = Already; 會 = Can; 小 = Small; 爱 = Love; 特 = Special. The learner reads aloud, listens carefully, and writes the words in a notebook."
+      }
+    ]
+  }
+]
