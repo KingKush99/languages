@@ -2218,6 +2218,7 @@ const els = {
   slotResultOverlay: document.querySelector("#slotResultOverlay"),
   
   currentSongTitle: document.querySelector("#currentSongTitle"),
+  songArtwork: document.querySelector("#songArtwork"),
   songStatus: document.querySelector("#songStatus"),
   playSongBtn: document.querySelector("#playSongBtn"),
   prevSongBtn: document.querySelector("#prevSongBtn"),
@@ -3558,12 +3559,13 @@ basePrices.forEach((price, index) => {
 });
 
 async function startRealCheckout(provider, pkg) {
-  if (location.protocol === "file:" || location.hostname.includes("github.io")) {
-    alert("Real checkout needs the backend server, not static GitHub Pages. Deploy server.js with Stripe/Coinbase environment variables, then use this button.");
+  const apiBase = (window.LANGUAGE_API_BASE || localStorage.getItem("language_api_base") || "").replace(/\/$/, "");
+  if ((location.protocol === "file:" || location.hostname.includes("github.io")) && !apiBase) {
+    alert("Real checkout needs a deployed backend URL. Set window.LANGUAGE_API_BASE or localStorage.language_api_base to your payment server.");
     return;
   }
   const endpoint = provider === "crypto" ? "/api/payments/coinbase-charge" : "/api/payments/stripe-checkout";
-  const response = await fetch(endpoint, {
+  const response = await fetch(`${apiBase}${endpoint}`, {
     method: "POST",
     headers: { "content-type": "application/json" },
     body: JSON.stringify({ packageId: pkg.id })
@@ -3632,8 +3634,9 @@ function renderStore() {
 }
 
 async function loadRewardedAdConfig() {
-  if (location.protocol === "file:" || location.hostname.includes("github.io")) return null;
-  const response = await fetch("/api/ads/config");
+  const apiBase = (window.LANGUAGE_API_BASE || localStorage.getItem("language_api_base") || "").replace(/\/$/, "");
+  if ((location.protocol === "file:" || location.hostname.includes("github.io")) && !apiBase) return null;
+  const response = await fetch(`${apiBase}/api/ads/config`);
   if (!response.ok) return null;
   const config = await response.json();
   return config.enabled ? config : null;
@@ -4152,7 +4155,8 @@ els.chatAudioInput?.addEventListener("change", (event) => {
 const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
 let currentOsc = null;
 let noteInterval = null;
-const songs = [
+let currentAudio = null;
+const demoSongs = [
   { id: 1, title: "Morning Walk", album: "Language Learners Vol. 1", duration: "1:20", notes: [261.63, 293.66, 329.63, 349.23], price: 0 },
   { id: 2, title: "City Lights", album: "Language Learners Vol. 1", duration: "2:05", notes: [440.00, 493.88, 523.25, 587.33], price: 50 },
   { id: 3, title: "History's Echo", album: "Classics", duration: "3:10", notes: [220.00, 246.94, 261.63, 329.63], price: 150 },
@@ -4161,45 +4165,63 @@ const songs = [
 ];
 let activeSongIndex = 0;
 
+function getLanguageSongs() {
+  const manifest = window.languageMusicManifest || {};
+  const tracks = manifest[appState.targetLanguage] || [];
+  return tracks.length ? tracks : demoSongs;
+}
+
+function isSongUnlocked(song, index) {
+  return song.free || song.price === 0 || index < 5 || appState.unlockedSongs.includes(song.id);
+}
+
+function getActiveSongList() {
+  const list = getLanguageSongs();
+  if (activeSongIndex >= list.length) activeSongIndex = 0;
+  return list;
+}
+
 function renderSpotifyPlaylist() {
+  const songs = getActiveSongList();
   els.spotifyPlaylist.replaceChildren(...songs.map((song, i) => {
-    const isUnlocked = song.price === 0 || appState.unlockedSongs.includes(song.id);
+    const isUnlocked = isSongUnlocked(song, i);
     const tr = document.createElement("tr");
-    
-    let actionHtml = isUnlocked 
-      ? `<button class="player-btn play-row-btn" type="button" data-index="${i}">▶️</button>`
-      : `<button class="spotify-unlock-btn" type="button" data-index="${i}">Unlock (${song.price} 🪙)</button>`;
-      
+    const actionHtml = isUnlocked
+      ? `<button class="player-btn play-row-btn" type="button" data-index="${i}">Play</button>`
+      : `<button class="spotify-unlock-btn" type="button" data-index="${i}">Unlock (${song.price} coins)</button>`;
     tr.innerHTML = `
       <td>${i + 1}</td>
-      <td><strong>${song.title}</strong><br><small>${song.album}</small></td>
-      <td>${isUnlocked ? 'Unlocked' : 'Locked'}</td>
-      <td>${song.duration}</td>
+      <td><strong>${song.title}</strong><br><small>${song.artist || "Language Artist"} - ${song.album || "Language Music"}</small></td>
+      <td>${isUnlocked ? "Unlocked" : "Locked"}</td>
+      <td>${song.duration || "--"}</td>
       <td>${actionHtml}</td>
     `;
-    
-    const actionBtn = tr.querySelector("button");
-    actionBtn.addEventListener("click", () => {
-       if (isUnlocked) {
-         activeSongIndex = i;
-         updatePlayerUI();
-         if (!appState.isPlaying) togglePlay();
-       } else {
-         if (appState.coins >= song.price) {
-           updateCoins(-song.price);
-           appState.unlockedSongs.push(song.id);
-           localStorage.setItem('nova_unlocked_songs', JSON.stringify(appState.unlockedSongs));
-           renderSpotifyPlaylist();
-         } else {
-           alert("Not enough coins!");
-         }
-       }
+    tr.querySelector("button")?.addEventListener("click", () => {
+      if (isUnlocked) {
+        activeSongIndex = i;
+        updatePlayerUI();
+        if (!appState.isPlaying) togglePlay();
+        return;
+      }
+      if (appState.coins >= song.price) {
+        updateCoins(-song.price);
+        appState.unlockedSongs.push(song.id);
+        localStorage.setItem("nova_unlocked_songs", JSON.stringify(appState.unlockedSongs));
+        renderSpotifyPlaylist();
+        updatePlayerUI();
+      } else {
+        alert("Not enough coins.");
+      }
     });
     return tr;
   }));
 }
 
 function playSynthSong(song) {
+  if (currentAudio) {
+    currentAudio.pause();
+    currentAudio = null;
+  }
   if (currentOsc) {
     currentOsc.stop();
     clearInterval(noteInterval);
@@ -4221,40 +4243,85 @@ function playSynthSong(song) {
   currentOsc = { stop: () => clearInterval(noteInterval) };
 }
 
-function updatePlayerUI() {
-  const song = songs[activeSongIndex];
-  els.currentSongTitle.textContent = song.title;
-  
-  if (appState.isPlaying) {
-     if (currentOsc) currentOsc.stop();
-     playSynthSong(song);
+function playAudioSong(song) {
+  if (currentOsc) {
+    currentOsc.stop();
+    clearInterval(noteInterval);
+    currentOsc = null;
   }
-}
-
-function togglePlay() {
-  if (appState.isPlaying) {
-    if (currentOsc) currentOsc.stop();
+  if (currentAudio) currentAudio.pause();
+  currentAudio = new Audio(encodeURI(song.src));
+  currentAudio.addEventListener("ended", () => {
     appState.isPlaying = false;
-    els.playSongBtn.textContent = "▶️";
+    els.playSongBtn.textContent = "Play";
     els.songStatus.textContent = "Paused";
-  } else {
-    if (audioCtx.state === 'suspended') audioCtx.resume();
-    appState.isPlaying = true;
-    els.playSongBtn.textContent = "⏸";
-    els.songStatus.textContent = "Playing";
-    updatePlayerUI();
-  }
+  });
+  currentAudio.play().catch((error) => {
+    els.songStatus.textContent = "Could not play file";
+    console.warn("Music playback failed", error);
+  });
 }
 
 els.playSongBtn.addEventListener("click", togglePlay);
 els.nextSongBtn.addEventListener("click", () => {
+  const songs = getActiveSongList();
   activeSongIndex = (activeSongIndex + 1) % songs.length;
   updatePlayerUI();
 });
 els.prevSongBtn.addEventListener("click", () => {
+  const songs = getActiveSongList();
   activeSongIndex = (activeSongIndex - 1 + songs.length) % songs.length;
   updatePlayerUI();
 });
+
+function updatePlayerUI() {
+  const songs = getActiveSongList();
+  const song = songs[activeSongIndex] || songs[0];
+  if (!song) return;
+  if (!isSongUnlocked(song, activeSongIndex)) {
+    if (currentOsc) currentOsc.stop();
+    if (currentAudio) currentAudio.pause();
+    els.currentSongTitle.textContent = `${song.title} - locked`;
+    els.songStatus.textContent = `Unlock for ${song.price} coins`;
+    appState.isPlaying = false;
+    els.playSongBtn.textContent = "Play";
+    return;
+  }
+  els.currentSongTitle.textContent = song.title;
+  els.songStatus.textContent = appState.isPlaying ? "Playing" : "Paused";
+  if (els.songArtwork) {
+    els.songArtwork.innerHTML = song.cover ? `<img src="${encodeURI(song.cover)}" alt="${song.album || song.title} cover">` : "Note";
+  }
+  if (appState.isPlaying) {
+    if (currentOsc) currentOsc.stop();
+    if (song.src) playAudioSong(song);
+    else playSynthSong(song);
+  }
+}
+
+function togglePlay() {
+  const songs = getActiveSongList();
+  const song = songs[activeSongIndex] || songs[0];
+  if (!song) return;
+  if (appState.isPlaying) {
+    if (currentOsc) currentOsc.stop();
+    if (currentAudio) currentAudio.pause();
+    appState.isPlaying = false;
+    els.playSongBtn.textContent = "Play";
+    els.songStatus.textContent = "Paused";
+    return;
+  }
+  if (!isSongUnlocked(song, activeSongIndex)) {
+    els.songStatus.textContent = `Unlock for ${song.price} coins`;
+    return;
+  }
+  if (audioCtx.state === "suspended") audioCtx.resume();
+  appState.isPlaying = true;
+  els.playSongBtn.textContent = "Pause";
+  els.songStatus.textContent = "Playing";
+  updatePlayerUI();
+}
+
 // --- PROFILE & CHARACTER LAB ---
 const inappropriateWords = [
   "bad", "rude", "mean", "hate", "violent", "sexual", "kill", "drug", "spam", "scam",

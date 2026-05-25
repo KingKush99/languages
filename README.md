@@ -23,6 +23,7 @@ Static prototype for language-reading practice across Russian, Japanese, Mandari
 - Profile social data uses a local `SocialDataStore` layer. Followers, following, friends, and outbound message limits persist in browser storage now, and the UI is structured so the store can later be swapped for a real auth/database backend.
 - Story pages now contain collectible treasures. Standard items are available immediately; rare, legendary, and god-tier items unlock after more reading tasks and feed into the 4 x 4 collection grid.
 - The store UI is wired for real Stripe card checkout, Coinbase Commerce crypto checkout, and backend-provided AdSense configuration. It no longer grants fake purchase coins from the client.
+- The bottom music player loads language-specific tracks from `music-manifest.js`. The first five tracks per language are free; later tracks are coin unlocks.
 
 ## Run
 
@@ -45,9 +46,47 @@ node server.js
 
 Generated story images are cached in `languages/<language>/assets/story-ai/`.
 
+## Music
+
+Music is indexed through `music-manifest.js` so the app can switch playlists when the learner changes language.
+
+Recommended folders:
+
+```text
+languages/russian/music/
+languages/japanese/music/
+languages/mandarin/music/
+languages/hindi/music/
+languages/arabic/music/
+```
+
+The generator also supports the current Russian local folder at `Music/Artists/`. Put cover images in the same album folder as the song files.
+
+Regenerate the manifest after adding or moving music:
+
+```powershell
+node tools/generate-music-manifest.js
+```
+
+Large WAV libraries should not be committed directly to GitHub. For production, use compressed audio such as MP3, AAC, OGG, or WebM, or serve the files from external object storage/CDN and point the manifest at those URLs.
+
 ## Real ads and purchases
 
 Real payments and rewarded ads require `server.js` or another backend. Do not put secret keys in `index.html`, `script.js`, GitHub Pages, or browser storage.
+
+This follows the same split as a plain Express deployment: GitHub Pages can host the static app, while the backend host runs `server.js` with Stripe, Coinbase Commerce, AdSense config, webhook verification, and the coin ledger.
+
+For a GitHub Pages frontend with a separate backend, set the public backend URL in the browser:
+
+```js
+window.LANGUAGE_API_BASE = "https://your-payment-server.example.com";
+```
+
+or during testing:
+
+```js
+localStorage.setItem("language_api_base", "https://your-payment-server.example.com");
+```
 
 Backend environment variables:
 
