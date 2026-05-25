@@ -76,6 +76,8 @@ When media is hosted outside GitHub, keep the manifest paths relative and set th
 window.LANGUAGE_MEDIA_BASE = "https://your-media-bucket.example.com";
 ```
 
+For the deployed site, put that value in `config.js`. This file is public config only; do not put API secrets in it.
+
 or during testing:
 
 ```js
