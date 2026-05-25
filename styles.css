@@ -4181,3 +4181,468 @@ select, input, textarea {
     justify-self: center !important;
   }
 }
+
+/* Final responsive layout pass: keeps game-style buttons without crowding mobile. */
+.app-shell {
+  width: min(1320px, calc(100vw - 32px)) !important;
+  gap: 18px !important;
+  padding: 18px 0 132px !important;
+}
+
+.reader-panel,
+.vocab-panel {
+  border-radius: 18px !important;
+  overflow: visible;
+}
+
+.topbar {
+  align-items: flex-start !important;
+}
+
+.top-actions {
+  display: grid !important;
+  grid-template-columns: auto minmax(150px, 190px) minmax(120px, 160px);
+  align-items: end !important;
+  gap: 12px !important;
+}
+
+.view-tabs {
+  align-self: end;
+}
+
+.reader-actions {
+  flex-wrap: wrap;
+  align-items: center !important;
+  justify-content: flex-start !important;
+}
+
+.reader-actions .action-btn {
+  min-width: 138px;
+}
+
+.audio-speed-control {
+  min-height: 52px;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 0 14px;
+  border-radius: 16px;
+  background: rgba(255,255,255,0.76);
+  border: 2px solid rgba(15,23,42,0.08);
+}
+
+.stats-row div,
+.score-grid div,
+.practice-step-card,
+.reading-card,
+.vocab-panel {
+  border-color: rgba(15,23,42,0.09) !important;
+}
+
+.slots-widget {
+  right: 18px !important;
+  bottom: 96px !important;
+  width: min(360px, calc(100vw - 36px)) !important;
+  padding: 18px !important;
+  gap: 14px !important;
+  border-radius: 22px !important;
+  border: 3px solid rgba(255,255,255,0.86) !important;
+  background:
+    linear-gradient(180deg, rgba(255,255,255,0.96), rgba(240,253,250,0.94)) !important;
+  box-shadow: 0 12px 0 rgba(15,118,110,0.22), 0 24px 46px rgba(15,23,42,0.22) !important;
+}
+
+.slots-header {
+  min-height: 34px;
+  display: grid;
+  place-items: center;
+  margin: 0 42px 2px;
+  border-radius: 14px;
+  background: linear-gradient(180deg, #fef08a, #f59e0b);
+  color: #3b2204 !important;
+  box-shadow: 0 6px 0 #b45309;
+}
+
+.slots-main-area {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) 30px;
+  gap: 12px !important;
+  align-items: center !important;
+}
+
+.slots-display {
+  min-height: 74px !important;
+  border: 4px solid #111827 !important;
+  border-radius: 16px !important;
+  box-shadow: inset 0 0 0 4px rgba(255,255,255,0.65), 0 8px 0 rgba(15,23,42,0.16);
+}
+
+.slot-reel {
+  min-width: 0;
+  font-size: clamp(1.45rem, 8vw, 2.25rem);
+}
+
+.slot-lever {
+  justify-self: center;
+}
+
+.slots-controls {
+  display: grid !important;
+  grid-template-columns: 1fr auto;
+  gap: 12px !important;
+  align-items: center !important;
+}
+
+.spin-btn-3d {
+  width: 100% !important;
+  height: 58px !important;
+  border-radius: 18px !important;
+}
+
+.auto-spin-label {
+  min-height: 44px;
+  padding: 0 10px;
+  border-radius: 14px;
+  background: #eef2ff;
+  white-space: nowrap;
+}
+
+.slots-footer-controls {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px !important;
+}
+
+.slot-dropup-container {
+  width: 100% !important;
+  align-items: stretch !important;
+}
+
+.slot-dropup-container label {
+  text-align: left;
+  color: #334155 !important;
+  letter-spacing: 0;
+}
+
+.slot-dropup {
+  min-height: 42px !important;
+  border-radius: 12px !important;
+  border: 2px solid rgba(15,23,42,0.16) !important;
+  font-weight: 900;
+}
+
+.chat-window,
+.slots-widget,
+.dm-widget,
+.twitch-chat-widget {
+  max-width: calc(100vw - 24px);
+}
+
+@media (max-width: 980px) {
+  .app-shell {
+    width: min(100% - 20px, 760px) !important;
+    padding-top: 12px !important;
+  }
+
+  .topbar {
+    display: grid !important;
+    grid-template-columns: 1fr;
+    gap: 14px !important;
+  }
+
+  .top-actions {
+    width: 100%;
+    grid-template-columns: 1fr 1fr !important;
+  }
+
+  .view-tabs {
+    grid-column: 1 / -1;
+    width: 100%;
+    display: grid !important;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .tab-button {
+    width: 100%;
+  }
+
+  .stats-row {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    gap: 10px !important;
+  }
+
+  .reader-actions {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px !important;
+  }
+
+  .reader-actions .audio-speed-control {
+    grid-column: 1 / -1;
+    width: 100%;
+    justify-content: center;
+  }
+
+  .story-toolbar {
+    grid-template-columns: 1fr !important;
+  }
+
+  .book-cover {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 14px !important;
+  }
+
+  .book-spine {
+    display: none !important;
+  }
+
+  .book-page {
+    min-height: auto !important;
+    border-radius: 18px !important;
+  }
+}
+
+@media (max-width: 600px) {
+  body {
+    overflow-x: hidden;
+  }
+
+  .app-header {
+    padding: 10px 12px !important;
+  }
+
+  .app-shell {
+    width: calc(100vw - 16px) !important;
+    padding-bottom: 148px !important;
+  }
+
+  .reader-panel,
+  .vocab-panel {
+    padding: 12px !important;
+    border-radius: 16px !important;
+  }
+
+  h1 {
+    font-size: 2rem !important;
+  }
+
+  .top-actions {
+    grid-template-columns: 1fr !important;
+  }
+
+  .view-tabs {
+    grid-template-columns: 1fr 1fr !important;
+  }
+
+  .stats-row {
+    grid-template-columns: 1fr 1fr !important;
+  }
+
+  .stats-row div,
+  .score-grid div {
+    padding: 10px !important;
+  }
+
+  .stats-row strong,
+  .score-grid strong {
+    font-size: 1.15rem !important;
+  }
+
+  .reading-card {
+    padding: 14px !important;
+    border-radius: 18px !important;
+  }
+
+  .paragraph,
+  .story-content {
+    font-size: clamp(1.2rem, 5.4vw, 1.55rem) !important;
+    line-height: 1.62 !important;
+  }
+
+  .reader-actions {
+    grid-template-columns: 1fr 1fr !important;
+  }
+
+  .reader-actions .action-btn,
+  .reader-actions .audio-speed-control {
+    width: 100%;
+  }
+
+  .practice-step-card {
+    padding: 10px !important;
+  }
+
+  .book-container {
+    padding: 0 !important;
+  }
+
+  .book-page {
+    padding: 10px !important;
+  }
+
+  .story-visual .story-treasure-card {
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
+    width: auto;
+  }
+
+  .book-navigation {
+    position: static !important;
+    margin-top: 12px;
+    display: grid !important;
+    grid-template-columns: 52px minmax(0, 1fr) 52px;
+    gap: 10px;
+    align-items: center;
+  }
+
+  .book-nav-btn {
+    position: static !important;
+    transform: none !important;
+    width: 52px !important;
+    height: 52px !important;
+  }
+
+  .slots-widget {
+    left: 10px !important;
+    right: 10px !important;
+    top: 76px !important;
+    bottom: auto !important;
+    width: auto !important;
+    height: auto !important;
+    min-height: 0 !important;
+    padding: 14px !important;
+    box-sizing: border-box !important;
+  }
+
+  .slots-main-area {
+    grid-template-columns: minmax(0, 1fr) 24px;
+  }
+
+  .slots-controls,
+  .slots-footer-controls {
+    grid-template-columns: 1fr !important;
+  }
+
+  .auto-spin-label {
+    justify-content: center;
+  }
+
+  .chatbot-widget {
+    right: auto !important;
+    bottom: auto !important;
+  }
+
+  .chat-window {
+    top: 76px !important;
+    right: 10px !important;
+    width: calc(100vw - 20px) !important;
+    height: min(420px, calc(100vh - 96px)) !important;
+  }
+
+  .fab-btn.secondary,
+  #chatToggleBtn {
+    width: 44px !important;
+    height: 44px !important;
+    border-radius: 14px !important;
+    transform: none !important;
+  }
+
+  .fab-btn.left-center {
+    top: 17px !important;
+    left: 74px !important;
+    right: auto !important;
+  }
+
+  .fab-btn.right-center {
+    top: 17px !important;
+    right: 74px !important;
+    left: auto !important;
+  }
+
+  #chatToggleBtn {
+    top: 17px !important;
+    left: 126px !important;
+    bottom: auto !important;
+  }
+
+  .fab-btn.bottom-right {
+    top: 17px !important;
+    right: 126px !important;
+    bottom: auto !important;
+  }
+
+  .music-dock .spotify-now-playing {
+    grid-template-columns: 52px minmax(0, 1fr) auto !important;
+    display: grid !important;
+    gap: 10px !important;
+  }
+
+  .music-dock .player-controls,
+  .music-expand-btn {
+    grid-column: 1 / -1;
+    justify-self: center;
+  }
+}
+
+@media (max-width: 340px) {
+  .reader-actions {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* Keep utility buttons out of the reading surface on wider screens too. */
+@media (min-width: 601px) {
+  #chatToggleBtn,
+  .fab-btn.secondary {
+    top: 15px !important;
+    bottom: auto !important;
+    left: auto !important;
+    transform: none !important;
+    border-radius: 16px !important;
+    width: 52px !important;
+    height: 52px !important;
+    z-index: 120 !important;
+  }
+
+  #chatToggleBtn {
+    right: 276px !important;
+  }
+
+  .fab-btn.left-center {
+    right: 216px !important;
+  }
+
+  .fab-btn.right-center {
+    right: 156px !important;
+  }
+
+  .fab-btn.bottom-right {
+    right: 96px !important;
+  }
+
+  .chatbot-widget {
+    top: 15px !important;
+    right: 276px !important;
+    bottom: auto !important;
+    left: auto !important;
+  }
+
+  .chat-window {
+    position: fixed !important;
+    top: 82px !important;
+    right: 24px !important;
+    bottom: auto !important;
+    left: auto !important;
+    width: 360px !important;
+    height: min(520px, calc(100vh - 110px)) !important;
+  }
+
+  .slots-widget {
+    top: 82px !important;
+    right: 24px !important;
+    bottom: auto !important;
+    height: auto !important;
+  }
+}
