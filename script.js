@@ -1946,6 +1946,19 @@ const languageDatasets = {
 let activeParagraphs = languageDatasets[initialLanguage]?.paragraphs || paragraphs;
 let storyLibrary = languageDatasets[initialLanguage]?.stories || russianStories;
 
+function getMediaBaseUrl() {
+  return String(window.LANGUAGE_MEDIA_BASE || localStorage.getItem("language_media_base") || "").replace(/\/+$/, "");
+}
+
+function resolveMediaUrl(assetPath) {
+  const value = String(assetPath || "").trim();
+  if (!value) return "";
+  if (/^(https?:|data:|blob:)/i.test(value)) return value;
+  const base = getMediaBaseUrl();
+  if (!base) return value;
+  return `${base}/${value.replace(/^\/+/, "")}`;
+}
+
 const appState = {
   targetLanguage: languageDatasets[initialLanguage] ? initialLanguage : "russian",
   words: (languageDatasets[initialLanguage] || languageDatasets.russian).words(),
@@ -2625,7 +2638,7 @@ function renderStoryVisual(story) {
   const sectionImage = section?.image;
   const explicitImage = sectionImage || story.image || story.sections.find((sec) => sec.image)?.image;
   const storedImage = localStorage.getItem(`story-image:${story.id}_${appState.currentStorySectionIndex || 0}`) || localStorage.getItem(`story-image:${story.id}`);
-  els.storyImage.src = storedImage || explicitImage || fallbackStoryImage(story);
+  els.storyImage.src = storedImage || resolveMediaUrl(explicitImage) || fallbackStoryImage(story);
   els.storyImage.alt = `Illustration for ${story.title} - ${section?.heading || ""}`;
   els.storyImageCaption.textContent = `${story.title} - ${section?.heading || ""}`;
   if (storedImage) {
@@ -4253,7 +4266,7 @@ function playAudioSong(song) {
     currentOsc = null;
   }
   if (currentAudio) currentAudio.pause();
-  currentAudio = new Audio(encodeURI(song.src));
+  currentAudio = new Audio(encodeURI(resolveMediaUrl(song.src)));
   currentAudio.addEventListener("ended", () => {
     appState.isPlaying = false;
     els.playSongBtn.textContent = "Play";
@@ -4281,7 +4294,7 @@ function renderSongArtwork(song) {
     return;
   }
   const img = document.createElement("img");
-  img.src = encodeURI(song.cover);
+  img.src = encodeURI(resolveMediaUrl(song.cover));
   img.alt = `${song.album || song.title} cover`;
   img.addEventListener("error", () => {
     els.songArtwork.replaceChildren(createMusicCoverFallback(song));

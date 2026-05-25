@@ -70,6 +70,20 @@ node tools/generate-music-manifest.js
 
 Large WAV libraries should not be committed directly to GitHub. For production, use compressed audio such as MP3, AAC, OGG, or WebM, or serve the files from external object storage/CDN and point the manifest at those URLs.
 
+When media is hosted outside GitHub, keep the manifest paths relative and set the public media base URL:
+
+```js
+window.LANGUAGE_MEDIA_BASE = "https://your-media-bucket.example.com";
+```
+
+or during testing:
+
+```js
+localStorage.setItem("language_media_base", "https://your-media-bucket.example.com");
+```
+
+With that setting, a manifest path like `Music/Artists/Album/cover.png` loads from `https://your-media-bucket.example.com/Music/Artists/Album/cover.png`.
+
 ## Real ads and purchases
 
 Real payments and rewarded ads require `server.js` or another backend. Do not put secret keys in `index.html`, `script.js`, GitHub Pages, or browser storage.
