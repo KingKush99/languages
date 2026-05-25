@@ -2,7 +2,7 @@
   {
     "id": "hindi-beginner-01",
     "level": "beginner",
-    "title": "Beginner 01: शब्द 1-9",
+    "title": "Beginner 01: Morning at Home",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -22,18 +22,19 @@
       9
     ],
     "reviewWords": [],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/01-beginner-morning-at-home.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "आज विद्यार्थी एक छोटा पेज पढ़ता है। नए शब्द: जैसा, मैं, उसके, कि, वह, था, के लिए, पर, हैं. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "Today the learner reads a short page. New words: जैसा = as; मैं = I; उसके = his; कि = that; वह = he; था = was; के लिए = for; पर = on; हैं = are. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह अन्ना घर जाती है। वहाँ पास में चाय और किताब है। अन्ना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “शहर।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Anna is at home. There is tea and book nearby. Anna reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "hindi-beginner-02",
     "level": "beginner",
-    "title": "Beginner 02: शब्द 10-18",
+    "title": "Beginner 02: Tea on the Table",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -59,18 +60,19 @@
       7,
       9
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/02-beginner-tea-on-the-table.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "आज विद्यार्थी एक छोटा पेज पढ़ता है। दोहराने वाले शब्द: जैसा, उसके, वह, के लिए, हैं. नए शब्द: साथ, वे, हो, पर, एक, है, इस, से, द्वारा. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "Today the learner reads a short page. Review words: जैसा = as; उसके = his; वह = he; के लिए = for; हैं = are. New words: साथ = with; वे = they; हो = be; पर = at; एक = one; है = have; इस = this; से = from; द्वारा = by. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह लीना घर जाती है। वहाँ पास में चाय और रोटी है। लीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “मेज़।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Lena is at home. There is tea and bread nearby. Lena reads slowly and notices a new word: table. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "hindi-beginner-03",
     "level": "beginner",
-    "title": "Beginner 03: शब्द 19-27",
+    "title": "Beginner 03: The Open Window",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -97,18 +99,19 @@
       13,
       16
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/03-beginner-the-open-window.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "आज विद्यार्थी एक छोटा पेज पढ़ता है। दोहराने वाले शब्द: जैसा, कि, के लिए, साथ, पर. नए शब्द: गरम, शब्द, लेकिन, क्या, कुछ, है, यह, आप, या. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "Today the learner reads a short page. Review words: जैसा = as; कि = that; के लिए = for; साथ = with; पर = at. New words: गरम = hot; शब्द = word; लेकिन = but; क्या = what; कुछ = some; है = is; यह = it; आप = you; या = or. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह इवान घर जाता है। वहाँ पास में खिड़की और किताब है। इवान धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “पुस्तकालय।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Ivan is at home. There is window and book nearby. Ivan reads slowly and notices a new word: library. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "hindi-beginner-04",
     "level": "beginner",
-    "title": "Beginner 04: शब्द 28-36",
+    "title": "Beginner 04: Walking to the Park",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -137,18 +140,19 @@
       22,
       25
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/04-beginner-walking-to-the-park.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "आज विद्यार्थी एक छोटा पेज पढ़ता है। दोहराने वाले शब्द: कि, के लिए, साथ, पर, इस. नए शब्द: था, सीधा समकक्ष नहीं, की, तक, और, एक, में, हम, कर सकते हैं. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "Today the learner reads a short page. Review words: कि = that; के लिए = for; साथ = with; पर = at; इस = this. New words: था = had; सीधा समकक्ष नहीं = the; की = of; तक = to; और = and; एक = a; में = in; हम = we; कर सकते हैं = can. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह माशा पार्क जाती है। वहाँ पास में माँ और भाई है। माशा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “दोस्त।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Masha is in the park. There is mother and brother nearby. Masha reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "hindi-beginner-05",
     "level": "beginner",
-    "title": "Beginner 05: शब्द 37-44",
+    "title": "Beginner 05: A Quiet Street",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -176,18 +180,19 @@
       31,
       34
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/05-beginner-a-quiet-street.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "आज विद्यार्थी एक छोटा पेज पढ़ता है। दोहराने वाले शब्द: पर, इस, गरम, क्या, यह. नए शब्द: बाहर, अन्य, थे, जो, कर, उनके, समय, अगर. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "Today the learner reads a short page. Review words: पर = at; इस = this; गरम = hot; क्या = what; यह = it. New words: बाहर = out; अन्य = other; थे = were; जो = which; कर = do; उनके = their; समय = time; अगर = if. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह पावेल सड़क जाता है। वहाँ पास में घर और खिड़की है। पावेल धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “सड़क।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Pavel is on the street. There is house and window nearby. Pavel reads slowly and notices a new word: street. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "hindi-beginner-06",
     "level": "beginner",
-    "title": "Beginner 06: शब्द 45-52",
+    "title": "Beginner 06: The First Book",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -215,18 +220,19 @@
       39,
       42
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/06-beginner-the-first-book.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "आज विद्यार्थी एक छोटा पेज पढ़ता है। दोहराने वाले शब्द: लेकिन, है, या, की, एक. नए शब्द: होगा, कैसे, कहा, एक, प्रत्येक, बता, करता है, सेट. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "Today the learner reads a short page. Review words: लेकिन = but; है = is; या = or; की = of; एक = a. New words: होगा = will; कैसे = how; कहा = said; एक = an; प्रत्येक = each; बता = tell; करता है = does; सेट = set. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह ओल्गा पुस्तकालय जाती है। वहाँ पास में किताब और कार्ड है। ओल्गा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “शब्द।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Olga is in the library. There is book and card nearby. Olga reads slowly and notices a new word: word. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "hindi-beginner-07",
     "level": "beginner",
-    "title": "Beginner 07: शब्द 53-60",
+    "title": "Beginner 07: A Good Day",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -254,18 +260,19 @@
       47,
       50
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/07-beginner-a-good-day.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "आज विद्यार्थी एक छोटा पेज पढ़ता है। दोहराने वाले शब्द: सीधा समकक्ष नहीं, और, हम, अन्य, कर. नए शब्द: तीन, चाहते हैं, हवा, अच्छी तरह से, भी, खेलने, छोटे, अंत. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "Today the learner reads a short page. Review words: सीधा समकक्ष नहीं = the; और = and; हम = we; अन्य = other; कर = do. New words: तीन = three; चाहते हैं = want; हवा = air; अच्छी तरह से = well; भी = also; खेलने = play; छोटे = small; अंत = end. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह निकोलाई पार्क जाता है। वहाँ पास में सूरज और पेड़ है। निकोलाई धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “अच्छा।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Nikolay is in the park. There is sun and tree nearby. Nikolay reads slowly and notices a new word: good. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "hindi-beginner-08",
     "level": "beginner",
-    "title": "Beginner 08: शब्द 61-68",
+    "title": "Beginner 08: At School",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -293,18 +300,19 @@
       55,
       58
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/08-beginner-at-school.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "आज विद्यार्थी एक छोटा पेज पढ़ता है। दोहराने वाले शब्द: बाहर, जो, समय, कैसे, प्रत्येक. नए शब्द: डाल, घर, पढ़ा, हाथ, बंदरगाह, बड़ा, जादू, जोड़. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "Today the learner reads a short page. Review words: बाहर = out; जो = which; समय = time; कैसे = how; प्रत्येक = each. New words: डाल = put; घर = home; पढ़ा = read; हाथ = hand; बंदरगाह = port; बड़ा = large; जादू = spell; जोड़ = add. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह साशा स्कूल जाता है। वहाँ पास में डेस्क और पेंसिल है। साशा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “स्कूल।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Sasha is at school. There is desk and pencil nearby. Sasha reads slowly and notices a new word: school. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "hindi-beginner-09",
     "level": "beginner",
-    "title": "Beginner 09: शब्द 69-76",
+    "title": "Beginner 09: At the Store",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -332,18 +340,19 @@
       63,
       66
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/09-beginner-at-the-store.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "आज विद्यार्थी एक छोटा पेज पढ़ता है। दोहराने वाले शब्द: होगा, एक, करता है, चाहते हैं, भी. नए शब्द: और भी, भूमि, यहाँ, चाहिए, बड़ा, उच्च, ऐसा, का पालन करें. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "Today the learner reads a short page. Review words: होगा = will; एक = an; करता है = does; चाहते हैं = want; भी = also. New words: और भी = even; भूमि = land; यहाँ = here; चाहिए = must; बड़ा = big; उच्च = high; ऐसा = such; का पालन करें = follow. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह इरीना दुकान जाती है। वहाँ पास में बैग और खाना है। इरीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “दुकान।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Irina is in the store. There is bag and food nearby. Irina reads slowly and notices a new word: store. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "hindi-beginner-10",
     "level": "beginner",
-    "title": "Beginner 10: शब्द 77-84",
+    "title": "Beginner 10: At the Station",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -371,18 +380,19 @@
       71,
       74
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/10-beginner-at-the-station.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "आज विद्यार्थी एक छोटा पेज पढ़ता है। दोहराने वाले शब्द: तीन, अच्छी तरह से, छोटे, घर, बंदरगाह. नए शब्द: अधिनियम, क्यों, पूछना, पुरुषों, परिवर्तन, चला गया, प्रकाश, तरह. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "Today the learner reads a short page. Review words: तीन = three; अच्छी तरह से = well; छोटे = small; घर = home; बंदरगाह = port. New words: अधिनियम = act; क्यों = why; पूछना = ask; पुरुषों = men; परिवर्तन = change; चला गया = went; प्रकाश = light; तरह = kind. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह मारिया स्टेशन जाती है। वहाँ पास में चाय और टिकट है। मारिया धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “स्टेशन।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Maria is at the station. There is tea and ticket nearby. Maria reads slowly and notices a new word: station. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "hindi-beginner-11",
     "level": "beginner",
-    "title": "Beginner 11: शब्द 85-92",
+    "title": "Beginner 11: A Simple Call",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -410,18 +420,19 @@
       79,
       82
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/11-beginner-a-simple-call.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "आज विद्यार्थी एक छोटा पेज पढ़ता है। दोहराने वाले शब्द: डाल, हाथ, जादू, भूमि, बड़ा. नए शब्द: बंद, आवश्यकता, घर, तस्वीर, कोशिश, हमें, फिर, पशु. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "Today the learner reads a short page. Review words: डाल = put; हाथ = hand; जादू = spell; भूमि = land; बड़ा = big. New words: बंद = off; आवश्यकता = need; घर = house; तस्वीर = picture; कोशिश = try; हमें = us; फिर = again; पशु = animal. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह दीमा घर जाता है। वहाँ पास में फ़ोन और कॉपी है। दीमा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “दोस्त।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Dima is at home. There is phone and notebook nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "hindi-beginner-12",
     "level": "beginner",
-    "title": "Beginner 12: शब्द 93-100",
+    "title": "Beginner 12: I Know This Word",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -449,18 +460,19 @@
       87,
       90
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/12-beginner-i-know-this-word.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "आज विद्यार्थी एक छोटा पेज पढ़ता है। दोहराने वाले शब्द: और भी, चाहिए, ऐसा, क्यों, परिवर्तन. नए शब्द: बिंदु, मां, दुनिया, निकट, बनाना, आत्म, पृथ्वी, पिता. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "Today the learner reads a short page. Review words: और भी = even; चाहिए = must; ऐसा = such; क्यों = why; परिवर्तन = change. New words: बिंदु = point; मां = mother; दुनिया = world; निकट = near; बनाना = build; आत्म = self; पृथ्वी = earth; पिता = father. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह कात्या कमरे जाती है। वहाँ पास में कागज़ और किताब है। कात्या धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “जानना।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Katya is in the room. There is paper and book nearby. Katya reads slowly and notices a new word: know. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
-    "id": "hindi-elementary-01",
+    "id": "hindi-elementary-13",
     "level": "elementary",
-    "title": "Elementary 01: शब्द 101-116",
+    "title": "Elementary 13: The Library Window",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -496,23 +508,24 @@
       95,
       98
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/13-elementary-the-library-window.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: अधिनियम, पुरुषों, प्रकाश, आवश्यकता, कोशिश. नए शब्द: किसी भी, नई, काम, हिस्सा, लेना, प्राप्त, जगह, निर्मित. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: अधिनियम = act; पुरुषों = men; प्रकाश = light; आवश्यकता = need; कोशिश = try. New words: किसी भी = any; नई = new; काम = work; हिस्सा = part; लेना = take; प्राप्त = get; जगह = place; निर्मित = made. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह पावेल पुस्तकालय जाता है। वहाँ पास में खिड़की और कॉपी है। पावेल धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “शांत।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Pavel is in the library. There is window and notebook nearby. Pavel reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "पेज 2",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: अधिनियम, पुरुषों, प्रकाश, आवश्यकता, कोशिश. नए शब्द: जीना, जहां, के बाद, वापस, थोड़ा, केवल, दौर, आदमी. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: अधिनियम = act; पुरुषों = men; प्रकाश = light; आवश्यकता = need; कोशिश = try. New words: जीना = live; जहां = where; के बाद = after; वापस = back; थोड़ा = little; केवल = only; दौर = round; आदमी = man. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "पावेल अपनी कॉपी में “शांत” शब्द लिखता है। फिर पावेल “पढ़ना” के बारे में सोचता है। जगह शांत है, इसलिए पावेल वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+        "en": "Pavel writes the word quiet in a notebook. Then Pavel thinks about reading. The place is quiet, so Pavel reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "hindi-elementary-02",
+    "id": "hindi-elementary-14",
     "level": "elementary",
-    "title": "Elementary 02: शब्द 117-132",
+    "title": "Elementary 14: The Museum Visit",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -548,23 +561,24 @@
       111,
       114
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/14-elementary-the-museum-visit.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: बिंदु, निकट, पृथ्वी, नई, लेना. नए शब्द: वर्ष, आया, शो, हर, अच्छा, मुझे, दे, हमारे. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: बिंदु = point; निकट = near; पृथ्वी = earth; नई = new; लेना = take. New words: वर्ष = year; आया = came; शो = show; हर = every; अच्छा = good; मुझे = me; दे = give; हमारे = our. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह निकोलाई संग्रहालय जाता है। वहाँ पास में टिकट और तस्वीर है। निकोलाई धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “इतिहास।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Nikolay is in the museum. There is ticket and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "पेज 2",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: बिंदु, निकट, पृथ्वी, नई, लेना. नए शब्द: नीचे, नाम, बहुत, के माध्यम से, बस, फार्म, वाक्य, महान. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: बिंदु = point; निकट = near; पृथ्वी = earth; नई = new; लेना = take. New words: नीचे = under; नाम = name; बहुत = very; के माध्यम से = through; बस = just; फार्म = form; वाक्य = sentence; महान = great. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "निकोलाई अपनी कॉपी में “इतिहास” शब्द लिखता है। फिर निकोलाई “याद” के बारे में सोचता है। जगह शांत है, इसलिए निकोलाई वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+        "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about memory. The place is quiet, so Nikolay reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "hindi-elementary-03",
+    "id": "hindi-elementary-15",
     "level": "elementary",
-    "title": "Elementary 03: शब्द 133-148",
+    "title": "Elementary 15: The Cafe Notebook",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -600,23 +614,24 @@
       127,
       130
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/15-elementary-the-cafe-notebook.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: जीना, वापस, दौर, आया, अच्छा. नए शब्द: लगता है, कहना, मदद, कम, रेखा, अलग, बारी, कारण. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: जीना = live; वापस = back; दौर = round; आया = came; अच्छा = good. New words: लगता है = think; कहना = say; मदद = help; कम = low; रेखा = line; अलग = differ; बारी = turn; कारण = cause. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह ओल्गा कैफ़े जाती है। वहाँ पास में चाय और संगीत है। ओल्गा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “धुन।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Olga is in the cafe. There is tea and music nearby. Olga reads slowly and notices a new word: melody. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "पेज 2",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: जीना, वापस, दौर, आया, अच्छा. नए शब्द: ज्यादा, मतलब, पहले, चाल, सही, लड़का, पुराना, भी. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: जीना = live; वापस = back; दौर = round; आया = came; अच्छा = good. New words: ज्यादा = much; मतलब = mean; पहले = before; चाल = move; सही = right; लड़का = boy; पुराना = old; भी = too. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "ओल्गा अपनी कॉपी में “धुन” शब्द लिखती है। फिर ओल्गा “सुनना” के बारे में सोचती है। जगह शांत है, इसलिए ओल्गा वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+        "en": "Olga writes the word melody in a notebook. Then Olga thinks about listening. The place is quiet, so Olga reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "hindi-elementary-04",
+    "id": "hindi-elementary-16",
     "level": "elementary",
-    "title": "Elementary 04: शब्द 149-164",
+    "title": "Elementary 16: Rain Near the Door",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -652,23 +667,24 @@
       143,
       146
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/16-elementary-rain-near-the-door.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: नीचे, के माध्यम से, वाक्य, कहना, रेखा. नए शब्द: वही, वह, सब, वहाँ, जब, ऊपर, उपयोग, अपने. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: नीचे = under; के माध्यम से = through; वाक्य = sentence; कहना = say; रेखा = line. New words: वही = same; वह = she; सब = all; वहाँ = there; जब = when; ऊपर = up; उपयोग = use; अपने = your. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह दीमा किताबों की दुकान जाता है। वहाँ पास में दरवाज़ा और किताब है। दीमा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “रास्ता।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Dima is in the bookshop. There is door and book nearby. Dima reads slowly and notices a new word: road. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "पेज 2",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: नीचे, के माध्यम से, वाक्य, कहना, रेखा. नए शब्द: रास्ता, के बारे में, कई, तो, उन्हें, लिखना, होगा, जैसा. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: नीचे = under; के माध्यम से = through; वाक्य = sentence; कहना = say; रेखा = line. New words: रास्ता = way; के बारे में = about; कई = many; तो = then; उन्हें = them; लिखना = write; होगा = would; जैसा = like. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "दीमा अपनी कॉपी में “रास्ता” शब्द लिखता है। फिर दीमा “बारिश” के बारे में सोचता है। जगह शांत है, इसलिए दीमा वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+        "en": "Dima writes the word road in a notebook. Then Dima thinks about rain. The place is quiet, so Dima reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "hindi-elementary-05",
+    "id": "hindi-elementary-17",
     "level": "elementary",
-    "title": "Elementary 05: शब्द 165-180",
+    "title": "Elementary 17: The Letter on the Table",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -704,23 +720,24 @@
       159,
       162
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/17-elementary-the-letter-on-the-table.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: ज्यादा, चाल, पुराना, वह, जब. नए शब्द: तो, इन, उसके, लंबे समय तक, कर, बात, देखना, उसे. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: ज्यादा = much; चाल = move; पुराना = old; वह = she; जब = when. New words: तो = so; इन = these; उसके = her; लंबे समय तक = long; कर = make; बात = thing; देखना = see; उसे = him. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह साशा विश्वविद्यालय जाता है। वहाँ पास में पत्र और मेज़ है। साशा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “मुलाकात।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Sasha is at the university. There is letter and table nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "पेज 2",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: ज्यादा, चाल, पुराना, वह, जब. नए शब्द: दो, है, देखो, अधिक, दिन, सकता है, जाना, आ. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: ज्यादा = much; चाल = move; पुराना = old; वह = she; जब = when. New words: दो = two; है = has; देखो = look; अधिक = more; दिन = day; सकता है = could; जाना = go; आ = come. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "साशा अपनी कॉपी में “मुलाकात” शब्द लिखता है। फिर साशा “निमंत्रण” के बारे में सोचता है। जगह शांत है, इसलिए साशा वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+        "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about invitation. The place is quiet, so Sasha reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "hindi-elementary-06",
+    "id": "hindi-elementary-18",
     "level": "elementary",
-    "title": "Elementary 06: शब्द 181-196",
+    "title": "Elementary 18: Words in the Park",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -756,23 +773,24 @@
       175,
       178
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/18-elementary-words-in-the-park.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: रास्ता, तो, होगा, इन, कर. नए शब्द: किया, संख्या, ध्वनि, नहीं, सबसे, लोग, मेरे, अधिक. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: रास्ता = way; तो = then; होगा = would; इन = these; कर = make. New words: किया = did; संख्या = number; ध्वनि = sound; नहीं = no; सबसे = most; लोग = people; मेरे = my; अधिक = over. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह इरीना पार्क जाती है। वहाँ पास में फ़ोन और चाय है। इरीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “तीन।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Irina is in the park. There is phone and tea nearby. Irina reads slowly and notices a new word: three. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "पेज 2",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: रास्ता, तो, होगा, इन, कर. नए शब्द: पता, पानी, से, कॉल, पहले, कौन, मई, नीचे. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: रास्ता = way; तो = then; होगा = would; इन = these; कर = make. New words: पता = know; पानी = water; से = than; कॉल = call; पहले = first; कौन = who; मई = may; नीचे = down. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "इरीना अपनी कॉपी में “तीन” शब्द लिखती है। फिर इरीना “बोलना” के बारे में सोचती है। जगह शांत है, इसलिए इरीना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+        "en": "Irina writes the word three in a notebook. Then Irina thinks about speaking. The place is quiet, so Irina reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "hindi-elementary-07",
+    "id": "hindi-elementary-19",
     "level": "elementary",
-    "title": "Elementary 07: शब्द 197-212",
+    "title": "Elementary 19: The Little Plan",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -808,23 +826,24 @@
       191,
       194
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/19-elementary-the-little-plan.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: दो, अधिक, जाना, संख्या, सबसे. नए शब्द: पक्ष, गया, अब, लगता है, सिर, खड़े, खुद, पेज. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: दो = two; अधिक = more; जाना = go; संख्या = number; सबसे = most. New words: पक्ष = side; गया = been; अब = now; लगता है = find; सिर = head; खड़े = stand; खुद = own; पेज = page. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह लीना दुकान जाती है। वहाँ पास में नक्शा और टोकरी है। लीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “योजना।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Lena is in the store. There is map and basket nearby. Lena reads slowly and notices a new word: plan. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "पेज 2",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: दो, अधिक, जाना, संख्या, सबसे. नए शब्द: चाहिए, देश, पाया, जवाब, स्कूल, बढ़ने, अध्ययन, अब तक. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: दो = two; अधिक = more; जाना = go; संख्या = number; सबसे = most. New words: चाहिए = should; देश = country; पाया = found; जवाब = answer; स्कूल = school; बढ़ने = grow; अध्ययन = study; अब तक = still. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "लीना अपनी कॉपी में “योजना” शब्द लिखती है। फिर लीना “खरीदारी” के बारे में सोचती है। जगह शांत है, इसलिए लीना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+        "en": "Lena writes the word plan in a notebook. Then Lena thinks about shopping. The place is quiet, so Lena reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "hindi-elementary-08",
+    "id": "hindi-elementary-20",
     "level": "elementary",
-    "title": "Elementary 08: शब्द 213-228",
+    "title": "Elementary 20: The News Page",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -860,23 +879,24 @@
       207,
       210
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/20-elementary-the-news-page.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: पता, कॉल, मई, गया, सिर. नए शब्द: सीखना, संयंत्र, कवर, भोजन, सूरज, चार, के बीच, राज्य. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: पता = know; कॉल = call; मई = may; गया = been; सिर = head. New words: सीखना = learn; संयंत्र = plant; कवर = cover; भोजन = food; सूरज = sun; चार = four; के बीच = between; राज्य = state. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह मारिया स्टेशन जाती है। वहाँ पास में चाय और अख़बार है। मारिया धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “समाचार।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Maria is at the station. There is tea and newspaper nearby. Maria reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "पेज 2",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: पता, कॉल, मई, गया, सिर. नए शब्द: रखना, आंख, कभी नहीं, पिछले, चलो, सोचा, शहर, पेड़. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: पता = know; कॉल = call; मई = may; गया = been; सिर = head. New words: रखना = keep; आंख = eye; कभी नहीं = never; पिछले = last; चलो = let; सोचा = thought; शहर = city; पेड़ = tree. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "मारिया अपनी कॉपी में “समाचार” शब्द लिखती है। फिर मारिया “सोच” के बारे में सोचती है। जगह शांत है, इसलिए मारिया वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+        "en": "Maria writes the word news in a notebook. Then Maria thinks about thinking. The place is quiet, so Maria reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "hindi-elementary-09",
+    "id": "hindi-elementary-21",
     "level": "elementary",
-    "title": "Elementary 09: शब्द 229-244",
+    "title": "Elementary 21: The Family Walk",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -912,23 +932,24 @@
       223,
       226
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/21-elementary-the-family-walk.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: चाहिए, जवाब, अध्ययन, संयंत्र, सूरज. नए शब्द: पार, खेत, कठिन, शुरुआत, हो सकता है, कहानी, देखा, दूर. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: चाहिए = should; जवाब = answer; अध्ययन = study; संयंत्र = plant; सूरज = sun. New words: पार = cross; खेत = farm; कठिन = hard; शुरुआत = start; हो सकता है = might; कहानी = story; देखा = saw; दूर = far. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह अन्ना पार्क जाती है। वहाँ पास में माँ और भाई है। अन्ना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “घर।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Anna is in the park. There is mother and brother nearby. Anna reads slowly and notices a new word: house. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "पेज 2",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: चाहिए, जवाब, अध्ययन, संयंत्र, सूरज. नए शब्द: समुद्र, आकर्षित, छोड़ा, देर से, चलाने, ऐसा नहीं, जबकि, प्रेस. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: चाहिए = should; जवाब = answer; अध्ययन = study; संयंत्र = plant; सूरज = sun. New words: समुद्र = sea; आकर्षित = draw; छोड़ा = left; देर से = late; चलाने = run; ऐसा नहीं = don’t; जबकि = while; प्रेस = press. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "अन्ना अपनी कॉपी में “घर” शब्द लिखती है। फिर अन्ना “परिवार” के बारे में सोचती है। जगह शांत है, इसलिए अन्ना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+        "en": "Anna writes the word house in a notebook. Then Anna thinks about family. The place is quiet, so Anna reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "hindi-elementary-10",
+    "id": "hindi-elementary-22",
     "level": "elementary",
-    "title": "Elementary 10: शब्द 245-260",
+    "title": "Elementary 22: The Quiet Room",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -964,23 +985,24 @@
       239,
       242
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/22-elementary-the-quiet-room.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: रखना, पिछले, शहर, खेत, हो सकता है. नए शब्द: करीब, रात, असली, जीवन, कुछ, उत्तर, किताब, ले. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: रखना = keep; पिछले = last; शहर = city; खेत = farm; हो सकता है = might. New words: करीब = close; रात = night; असली = real; जीवन = life; कुछ = few; उत्तर = north; किताब = book; ले = carry. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह इवान कमरे जाता है। वहाँ पास में कुर्सी और किताब है। इवान धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “कमरा।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Ivan is in the room. There is chair and book nearby. Ivan reads slowly and notices a new word: room. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "पेज 2",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: रखना, पिछले, शहर, खेत, हो सकता है. नए शब्द: ले लिया, विज्ञान, खाने, कमरे, दोस्त, शुरू हुआ, विचार, मछली. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: रखना = keep; पिछले = last; शहर = city; खेत = farm; हो सकता है = might. New words: ले लिया = took; विज्ञान = science; खाने = eat; कमरे = room; दोस्त = friend; शुरू हुआ = began; विचार = idea; मछली = fish. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "इवान अपनी कॉपी में “कमरा” शब्द लिखता है। फिर इवान “शांति” के बारे में सोचता है। जगह शांत है, इसलिए इवान वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+        "en": "Ivan writes the word room in a notebook. Then Ivan thinks about silence. The place is quiet, so Ivan reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "hindi-elementary-11",
+    "id": "hindi-elementary-23",
     "level": "elementary",
-    "title": "Elementary 11: शब्द 261-275",
+    "title": "Elementary 23: The New Teacher",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1015,23 +1037,24 @@
       255,
       258
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/23-elementary-the-new-teacher.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: समुद्र, देर से, जबकि, रात, कुछ. नए शब्द: पहाड़, रोक, एक बार, आधार, सुनना, घोड़ा, कटौती, यकीन. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: समुद्र = sea; देर से = late; जबकि = while; रात = night; कुछ = few. New words: पहाड़ = mountain; रोक = stop; एक बार = once; आधार = base; सुनना = hear; घोड़ा = horse; कटौती = cut; यकीन = sure. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह माशा स्कूल जाती है। वहाँ पास में शिक्षक और बोर्ड है। माशा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “प्रश्न।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Masha is at school. There is teacher and board nearby. Masha reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "पेज 2",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: समुद्र, देर से, जबकि, रात, कुछ. नए शब्द: घड़ी, रंग, चेहरा, लकड़ी, मुख्य, खुला, प्रतीत. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: समुद्र = sea; देर से = late; जबकि = while; रात = night; कुछ = few. New words: घड़ी = watch; रंग = color; चेहरा = face; लकड़ी = wood; मुख्य = main; खुला = open; प्रतीत = seem. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "माशा अपनी कॉपी में “प्रश्न” शब्द लिखती है। फिर माशा “सीखना” के बारे में सोचती है। जगह शांत है, इसलिए माशा वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+        "en": "Masha writes the word question in a notebook. Then Masha thinks about learning. The place is quiet, so Masha reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "hindi-elementary-12",
+    "id": "hindi-elementary-24",
     "level": "elementary",
-    "title": "Elementary 12: शब्द 276-290",
+    "title": "Elementary 24: The Bus Stop",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1066,23 +1089,24 @@
       270,
       273
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/24-elementary-the-bus-stop.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: ले, खाने, शुरू हुआ, पहाड़, आधार. नए शब्द: एक साथ, अगला, सफेद, बच्चों, प्रारंभ करना, मिला, चलना, उदाहरण. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: ले = carry; खाने = eat; शुरू हुआ = began; पहाड़ = mountain; आधार = base. New words: एक साथ = together; अगला = next; सफेद = white; बच्चों = children; प्रारंभ करना = begin; मिला = got; चलना = walk; उदाहरण = example. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह पावेल सड़क जाता है। वहाँ पास में टिकट और बस है। पावेल धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “समय।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Pavel is on the street. There is ticket and bus nearby. Pavel reads slowly and notices a new word: time. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "पेज 2",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: ले, खाने, शुरू हुआ, पहाड़, आधार. नए शब्द: आसानी, कागज, समूह, सदैव, संगीत, उन, दोनों. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: ले = carry; खाने = eat; शुरू हुआ = began; पहाड़ = mountain; आधार = base. New words: आसानी = ease; कागज = paper; समूह = group; सदैव = always; संगीत = music; उन = those; दोनों = both. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "पावेल अपनी कॉपी में “समय” शब्द लिखता है। फिर पावेल “इंतज़ार” के बारे में सोचता है। जगह शांत है, इसलिए पावेल वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+        "en": "Pavel writes the word time in a notebook. Then Pavel thinks about waiting. The place is quiet, so Pavel reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "hindi-elementary-13",
+    "id": "hindi-elementary-25",
     "level": "elementary",
-    "title": "Elementary 13: शब्द 291-305",
+    "title": "Elementary 25: The Small Market",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1117,23 +1141,24 @@
       285,
       288
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/25-elementary-the-small-market.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: कटौती, रंग, मुख्य, एक साथ, बच्चों. नए शब्द: मार्क, अक्सर, पत्र, जब तक, मील, नदी, कार, पैर. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: कटौती = cut; रंग = color; मुख्य = main; एक साथ = together; बच्चों = children. New words: मार्क = mark; अक्सर = often; पत्र = letter; जब तक = until; मील = mile; नदी = river; कार = car; पैर = feet. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह ओल्गा बाज़ार जाती है। वहाँ पास में फल और बैग है। ओल्गा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “पैसा।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Olga is at the market. There is fruit and bag nearby. Olga reads slowly and notices a new word: money. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "पेज 2",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: कटौती, रंग, मुख्य, एक साथ, बच्चों. नए शब्द: देखभाल, दूसरा, पर्याप्त, सादे, लड़की, हमेशा की तरह, युवा. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: कटौती = cut; रंग = color; मुख्य = main; एक साथ = together; बच्चों = children. New words: देखभाल = care; दूसरा = second; पर्याप्त = enough; सादे = plain; लड़की = girl; हमेशा की तरह = usual; युवा = young. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "ओल्गा अपनी कॉपी में “पैसा” शब्द लिखती है। फिर ओल्गा “बाज़ार” के बारे में सोचती है। जगह शांत है, इसलिए ओल्गा वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+        "en": "Olga writes the word money in a notebook. Then Olga thinks about market. The place is quiet, so Olga reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "hindi-elementary-14",
+    "id": "hindi-elementary-26",
     "level": "elementary",
-    "title": "Elementary 14: शब्द 306-320",
+    "title": "Elementary 26: The First Conversation",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1168,23 +1193,24 @@
       300,
       303
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/26-elementary-the-first-conversation.txt",
     "sections": [
       {
-        "heading": "पेज 1",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: चलना, कागज, संगीत, मार्क, जब तक. नए शब्द: तैयार, ऊपर, कभी, लाल, सूची, हालांकि, लग रहा है, वार्ता. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: चलना = walk; कागज = paper; संगीत = music; मार्क = mark; जब तक = until. New words: तैयार = ready; ऊपर = above; कभी = ever; लाल = red; सूची = list; हालांकि = though; लग रहा है = feel; वार्ता = talk. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह दीमा कैफ़े जाता है। वहाँ पास में फ़ोन और दोस्त है। दीमा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “वाक्य।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Dima is in the cafe. There is phone and friend nearby. Dima reads slowly and notices a new word: sentence. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "पेज 2",
-        "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: चलना, कागज, संगीत, मार्क, जब तक. नए शब्द: पक्षी, शीघ्र, शरीर, कुत्ते, परिवार, प्रत्यक्ष, ढोंग. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: चलना = walk; कागज = paper; संगीत = music; मार्क = mark; जब तक = until. New words: पक्षी = bird; शीघ्र = soon; शरीर = body; कुत्ते = dog; परिवार = family; प्रत्यक्ष = direct; ढोंग = pose. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "दीमा अपनी कॉपी में “वाक्य” शब्द लिखता है। फिर दीमा “बातचीत” के बारे में सोचता है। जगह शांत है, इसलिए दीमा वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+        "en": "Dima writes the word sentence in a notebook. Then Dima thinks about talk. The place is quiet, so Dima reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "hindi-intermediate-01",
+    "id": "hindi-intermediate-27",
     "level": "intermediate",
-    "title": "Intermediate 01: शब्द 321-344",
+    "title": "Intermediate 27: The Lost Note",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1228,28 +1254,29 @@
       315,
       318
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/27-intermediate-the-lost-note.txt",
     "sections": [
       {
-        "heading": "अध्याय 1 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: कार, दूसरा, लड़की, तैयार, लाल. नए शब्द: छोड़, गीत, नाप, दरवाजा, उत्पाद, काला, कम, अंक. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: कार = car; दूसरा = second; लड़की = girl; तैयार = ready; लाल = red. New words: छोड़ = leave; गीत = song; नाप = measure; दरवाजा = door; उत्पाद = product; काला = black; कम = short; अंक = numeral. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह कात्या पुस्तकालय जाती है। वहाँ पास में नोट और नक्शा है। कात्या धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “जगह।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Katya is in the library. There is note and map nearby. Katya reads slowly and notices a new word: place. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "अध्याय 2 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: कार, दूसरा, लड़की, तैयार, लाल. नए शब्द: क्लास, हवा, सवाल, होना, पूरा, जहाज, क्षेत्र, आधा. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: कार = car; दूसरा = second; लड़की = girl; तैयार = ready; लाल = red. New words: क्लास = class; हवा = wind; सवाल = question; होना = happen; पूरा = complete; जहाज = ship; क्षेत्र = area; आधा = half. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "कात्या अपनी कॉपी में “जगह” शब्द लिखती है। फिर कात्या “खोज” के बारे में सोचती है। जगह शांत है, इसलिए कात्या वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+        "en": "Katya writes the word place in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
       },
       {
-        "heading": "अध्याय 3 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: कार, दूसरा, लड़की, तैयार, लाल. नए शब्द: रॉक, आदेश, आग, दक्षिण, समस्या, टुकड़ा, बताया, पता था. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: कार = car; दूसरा = second; लड़की = girl; तैयार = ready; लाल = red. New words: रॉक = rock; आदेश = order; आग = fire; दक्षिण = south; समस्या = problem; टुकड़ा = piece; बताया = told; पता था = knew. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "एक छोटी-सी समस्या आती है, लेकिन कात्या नए शब्दों का इस्तेमाल करती है। कात्या नोट को देखती है, फिर नक्शा को देखती है, और एक आसान योजना बनाती है। अंत में कात्या एक साफ़ वाक्य कह सकती है।",
+        "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the note, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
       }
     ]
   },
   {
-    "id": "hindi-intermediate-02",
+    "id": "hindi-intermediate-28",
     "level": "intermediate",
-    "title": "Intermediate 02: शब्द 345-368",
+    "title": "Intermediate 28: A Meeting at Noon",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1293,28 +1320,29 @@
       339,
       342
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/28-intermediate-a-meeting-at-noon.txt",
     "sections": [
       {
-        "heading": "अध्याय 1 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: छोड़, दरवाजा, कम, हवा, पूरा. नए शब्द: पास, के बाद से, शीर्ष, पूरे, राजा, सड़क, इंच, गुणा. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: छोड़ = leave; दरवाजा = door; कम = short; हवा = wind; पूरा = complete. New words: पास = pass; के बाद से = since; शीर्ष = top; पूरे = whole; राजा = king; सड़क = street; इंच = inch; गुणा = multiply. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह साशा विश्वविद्यालय जाता है। वहाँ पास में घड़ी और पत्र है। साशा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “दोपहर।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Sasha is at the university. There is clock and letter nearby. Sasha reads slowly and notices a new word: noon. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "अध्याय 2 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: छोड़, दरवाजा, कम, हवा, पूरा. नए शब्द: कुछ नहीं, कोर्स, रहना, पहिया, पूर्ण, बल, नीला, वस्तु. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: छोड़ = leave; दरवाजा = door; कम = short; हवा = wind; पूरा = complete. New words: कुछ नहीं = nothing; कोर्स = course; रहना = stay; पहिया = wheel; पूर्ण = full; बल = force; नीला = blue; वस्तु = object. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "साशा अपनी कॉपी में “दोपहर” शब्द लिखता है। फिर साशा “मुलाकात” के बारे में सोचता है। जगह शांत है, इसलिए साशा वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+        "en": "Sasha writes the word noon in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
       },
       {
-        "heading": "अध्याय 3 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: छोड़, दरवाजा, कम, हवा, पूरा. नए शब्द: तय, सतह, गहरा, चांद, द्वीप, पैर, प्रणाली, व्यस्त. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: छोड़ = leave; दरवाजा = door; कम = short; हवा = wind; पूरा = complete. New words: तय = decide; सतह = surface; गहरा = deep; चांद = moon; द्वीप = island; पैर = foot; प्रणाली = system; व्यस्त = busy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "एक छोटी-सी समस्या आती है, लेकिन साशा नए शब्दों का इस्तेमाल करता है। साशा घड़ी को देखता है, फिर पत्र को देखता है, और एक आसान योजना बनाता है। अंत में साशा एक साफ़ वाक्य कह सकता है।",
+        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the clock, looks at the letter, and makes a simple plan. By the end, Sasha can say one clear sentence."
       }
     ]
   },
   {
-    "id": "hindi-intermediate-03",
+    "id": "hindi-intermediate-29",
     "level": "intermediate",
-    "title": "Intermediate 03: शब्द 369-392",
+    "title": "Intermediate 29: The Old Map",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1358,28 +1386,29 @@
       363,
       366
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/29-intermediate-the-old-map.txt",
     "sections": [
       {
-        "heading": "अध्याय 1 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: पास, पूरे, इंच, कोर्स, पूर्ण. नए शब्द: परीक्षण, रिकॉर्ड, नाव, आम, सोना, संभव, विमान, जगह. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: पास = pass; पूरे = whole; इंच = inch; कोर्स = course; पूर्ण = full. New words: परीक्षण = test; रिकॉर्ड = record; नाव = boat; आम = common; सोना = gold; संभव = possible; विमान = plane; जगह = stead. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह निकोलाई संग्रहालय जाता है। वहाँ पास में नक्शा और सड़क है। निकोलाई धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “शहर।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Nikolay is in the museum. There is map and street nearby. Nikolay reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "अध्याय 2 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: पास, पूरे, इंच, कोर्स, पूर्ण. नए शब्द: सूखा, आश्चर्य, हंसी, हजार, पहले, भागा, जाँच, खेल. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: पास = pass; पूरे = whole; इंच = inch; कोर्स = course; पूर्ण = full. New words: सूखा = dry; आश्चर्य = wonder; हंसी = laugh; हजार = thousand; पहले = ago; भागा = ran; जाँच = check; खेल = game. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "निकोलाई अपनी कॉपी में “शहर” शब्द लिखता है। फिर निकोलाई “इतिहास” के बारे में सोचता है। जगह शांत है, इसलिए निकोलाई वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+        "en": "Nikolay writes the word city in a notebook. Then Nikolay thinks about history. The place is quiet, so Nikolay reads the sentence again and says it softly."
       },
       {
-        "heading": "अध्याय 3 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: पास, पूरे, इंच, कोर्स, पूर्ण. नए शब्द: आकार, समानता, गरम, मिस, लाया, गर्मी, बर्फ, टायर. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: पास = pass; पूरे = whole; इंच = inch; कोर्स = course; पूर्ण = full. New words: आकार = shape; समानता = equate; गरम = hot; मिस = miss; लाया = brought; गर्मी = heat; बर्फ = snow; टायर = tire. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "एक छोटी-सी समस्या आती है, लेकिन निकोलाई नए शब्दों का इस्तेमाल करता है। निकोलाई नक्शा को देखता है, फिर सड़क को देखता है, और एक आसान योजना बनाता है। अंत में निकोलाई एक साफ़ वाक्य कह सकता है।",
+        "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the map, looks at the street, and makes a simple plan. By the end, Nikolay can say one clear sentence."
       }
     ]
   },
   {
-    "id": "hindi-intermediate-04",
+    "id": "hindi-intermediate-30",
     "level": "intermediate",
-    "title": "Intermediate 04: शब्द 393-416",
+    "title": "Intermediate 30: The Rainy Lesson",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1423,28 +1452,29 @@
       387,
       390
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/30-intermediate-the-rainy-lesson.txt",
     "sections": [
       {
-        "heading": "अध्याय 1 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: परीक्षण, आम, विमान, आश्चर्य, पहले. नए शब्द: लाना, हां, दूर, भरने, पूर्व, रंग, भाषा, के बीच. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: परीक्षण = test; आम = common; विमान = plane; आश्चर्य = wonder; पहले = ago. New words: लाना = bring; हां = yes; दूर = distant; भरने = fill; पूर्व = east; रंग = paint; भाषा = language; के बीच = among. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह इरीना स्कूल जाती है। वहाँ पास में खिड़की और बारिश है। इरीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “मौसम।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Irina is at school. There is window and rain nearby. Irina reads slowly and notices a new word: weather. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "अध्याय 2 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: परीक्षण, आम, विमान, आश्चर्य, पहले. नए शब्द: इकाई, बिजली, शहर, ठीक, कुछ, मक्खी, गिरावट, नेतृत्व. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: परीक्षण = test; आम = common; विमान = plane; आश्चर्य = wonder; पहले = ago. New words: इकाई = unit; बिजली = power; शहर = town; ठीक = fine; कुछ = certain; मक्खी = fly; गिरावट = fall; नेतृत्व = lead. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "इरीना अपनी कॉपी में “मौसम” शब्द लिखती है। फिर इरीना “पढ़ाई” के बारे में सोचती है। जगह शांत है, इसलिए इरीना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+        "en": "Irina writes the word weather in a notebook. Then Irina thinks about study. The place is quiet, so Irina reads the sentence again and says it softly."
       },
       {
-        "heading": "अध्याय 3 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: परीक्षण, आम, विमान, आश्चर्य, पहले. नए शब्द: रोना, अंधेरा, मशीन, नोट, इंतजार, योजना, आंकड़ा, सितारा. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: परीक्षण = test; आम = common; विमान = plane; आश्चर्य = wonder; पहले = ago. New words: रोना = cry; अंधेरा = dark; मशीन = machine; नोट = note; इंतजार = wait; योजना = plan; आंकड़ा = figure; सितारा = star. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "एक छोटी-सी समस्या आती है, लेकिन इरीना नए शब्दों का इस्तेमाल करती है। इरीना खिड़की को देखती है, फिर बारिश को देखती है, और एक आसान योजना बनाती है। अंत में इरीना एक साफ़ वाक्य कह सकती है।",
+        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the window, looks at the rain, and makes a simple plan. By the end, Irina can say one clear sentence."
       }
     ]
   },
   {
-    "id": "hindi-intermediate-05",
+    "id": "hindi-intermediate-31",
     "level": "intermediate",
-    "title": "Intermediate 05: शब्द 417-440",
+    "title": "Intermediate 31: The Museum Question",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1488,28 +1518,29 @@
       411,
       414
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/31-intermediate-the-museum-question.txt",
     "sections": [
       {
-        "heading": "अध्याय 1 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: लाना, भरने, भाषा, बिजली, कुछ. नए शब्द: बॉक्स, संज्ञा, क्षेत्र, बाकी, सही, सक्षम, पाउंड, किया. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: लाना = bring; भरने = fill; भाषा = language; बिजली = power; कुछ = certain. New words: बॉक्स = box; संज्ञा = noun; क्षेत्र = field; बाकी = rest; सही = correct; सक्षम = able; पाउंड = pound; किया = done. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह पावेल संग्रहालय जाता है। वहाँ पास में तस्वीर और कॉपी है। पावेल धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “प्रश्न।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Pavel is in the museum. There is picture and notebook nearby. Pavel reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "अध्याय 2 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: लाना, भरने, भाषा, बिजली, कुछ. नए शब्द: सुंदरता, ड्राइव, खड़ा हुआ, होते हैं, सामने, सिखाना, सप्ताह, अंतिम. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: लाना = bring; भरने = fill; भाषा = language; बिजली = power; कुछ = certain. New words: सुंदरता = beauty; ड्राइव = drive; खड़ा हुआ = stood; होते हैं = contain; सामने = front; सिखाना = teach; सप्ताह = week; अंतिम = final. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "पावेल अपनी कॉपी में “प्रश्न” शब्द लिखता है। फिर पावेल “उत्तर” के बारे में सोचता है। जगह शांत है, इसलिए पावेल वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+        "en": "Pavel writes the word question in a notebook. Then Pavel thinks about answer. The place is quiet, so Pavel reads the sentence again and says it softly."
       },
       {
-        "heading": "अध्याय 3 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: लाना, भरने, भाषा, बिजली, कुछ. नए शब्द: दिया, हरे रंग, ओह, त्वरित, विकसित, सागर, गर्म, मुक्त. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: लाना = bring; भरने = fill; भाषा = language; बिजली = power; कुछ = certain. New words: दिया = gave; हरे रंग = green; ओह = oh; त्वरित = quick; विकसित = develop; सागर = ocean; गर्म = warm; मुक्त = free. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "एक छोटी-सी समस्या आती है, लेकिन पावेल नए शब्दों का इस्तेमाल करता है। पावेल तस्वीर को देखता है, फिर कॉपी को देखता है, और एक आसान योजना बनाता है। अंत में पावेल एक साफ़ वाक्य कह सकता है।",
+        "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the picture, looks at the notebook, and makes a simple plan. By the end, Pavel can say one clear sentence."
       }
     ]
   },
   {
-    "id": "hindi-intermediate-06",
+    "id": "hindi-intermediate-32",
     "level": "intermediate",
-    "title": "Intermediate 06: शब्द 441-464",
+    "title": "Intermediate 32: The Train Delay",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1553,28 +1584,29 @@
       435,
       438
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/32-intermediate-the-train-delay.txt",
     "sections": [
       {
-        "heading": "अध्याय 1 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: बॉक्स, बाकी, पाउंड, ड्राइव, सामने. नए शब्द: मिनट, मजबूत, विशेष, मन, पीछे, स्पष्ट, पूंछ, उत्पादन. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: बॉक्स = box; बाकी = rest; पाउंड = pound; ड्राइव = drive; सामने = front. New words: मिनट = minute; मजबूत = strong; विशेष = special; मन = mind; पीछे = behind; स्पष्ट = clear; पूंछ = tail; उत्पादन = produce. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह मारिया स्टेशन जाती है। वहाँ पास में टिकट और घड़ी है। मारिया धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “रुकना।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Maria is at the station. There is ticket and clock nearby. Maria reads slowly and notices a new word: wait. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "अध्याय 2 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: बॉक्स, बाकी, पाउंड, ड्राइव, सामने. नए शब्द: तथ्य, अंतरिक्ष, सुना, सर्वश्रेष्ठ, घंटे, बेहतर, सच, दौरान. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: बॉक्स = box; बाकी = rest; पाउंड = pound; ड्राइव = drive; सामने = front. New words: तथ्य = fact; अंतरिक्ष = space; सुना = heard; सर्वश्रेष्ठ = best; घंटे = hour; बेहतर = better; सच = true; दौरान = during. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "मारिया अपनी कॉपी में “रुकना” शब्द लिखती है। फिर मारिया “यात्रा” के बारे में सोचती है। जगह शांत है, इसलिए मारिया वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+        "en": "Maria writes the word wait in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
       },
       {
-        "heading": "अध्याय 3 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: बॉक्स, बाकी, पाउंड, ड्राइव, सामने. नए शब्द: सौ, पांच, याद, कदम, शीघ्र, पकड़, पश्चिम, जमीन. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: बॉक्स = box; बाकी = rest; पाउंड = pound; ड्राइव = drive; सामने = front. New words: सौ = hundred; पांच = five; याद = remember; कदम = step; शीघ्र = early; पकड़ = hold; पश्चिम = west; जमीन = ground. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "एक छोटी-सी समस्या आती है, लेकिन मारिया नए शब्दों का इस्तेमाल करती है। मारिया टिकट को देखती है, फिर घड़ी को देखती है, और एक आसान योजना बनाती है। अंत में मारिया एक साफ़ वाक्य कह सकती है।",
+        "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the clock, and makes a simple plan. By the end, Maria can say one clear sentence."
       }
     ]
   },
   {
-    "id": "hindi-intermediate-07",
+    "id": "hindi-intermediate-33",
     "level": "intermediate",
-    "title": "Intermediate 07: शब्द 465-488",
+    "title": "Intermediate 33: Music in the Cafe",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1618,28 +1650,29 @@
       459,
       462
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/33-intermediate-music-in-the-cafe.txt",
     "sections": [
       {
-        "heading": "अध्याय 1 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: मिनट, मन, पूंछ, अंतरिक्ष, घंटे. नए शब्द: ब्याज, तक पहुँचने, तेजी, क्रिया, गाना, सुनो, छह, तालिका. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: मिनट = minute; मन = mind; पूंछ = tail; अंतरिक्ष = space; घंटे = hour. New words: ब्याज = interest; तक पहुँचने = reach; तेजी = fast; क्रिया = verb; गाना = sing; सुनो = listen; छह = six; तालिका = table. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह ओल्गा कैफ़े जाती है। वहाँ पास में संगीत और चाय है। ओल्गा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “गीत।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Olga is in the cafe. There is music and tea nearby. Olga reads slowly and notices a new word: song. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "अध्याय 2 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: मिनट, मन, पूंछ, अंतरिक्ष, घंटे. नए शब्द: यात्रा, कम, सुबह, दस, सरल, कई, स्वर, की ओर. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: मिनट = minute; मन = mind; पूंछ = tail; अंतरिक्ष = space; घंटे = hour. New words: यात्रा = travel; कम = less; सुबह = morning; दस = ten; सरल = simple; कई = several; स्वर = vowel; की ओर = toward. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "ओल्गा अपनी कॉपी में “गीत” शब्द लिखती है। फिर ओल्गा “याद” के बारे में सोचती है। जगह शांत है, इसलिए ओल्गा वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+        "en": "Olga writes the word song in a notebook. Then Olga thinks about memory. The place is quiet, so Olga reads the sentence again and says it softly."
       },
       {
-        "heading": "अध्याय 3 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: मिनट, मन, पूंछ, अंतरिक्ष, घंटे. नए शब्द: युद्ध, रखना, के खिलाफ, पैटर्न, धीमी, केंद्र, प्यार, व्यक्ति. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: मिनट = minute; मन = mind; पूंछ = tail; अंतरिक्ष = space; घंटे = hour. New words: युद्ध = war; रखना = lay; के खिलाफ = against; पैटर्न = pattern; धीमी = slow; केंद्र = center; प्यार = love; व्यक्ति = person. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "एक छोटी-सी समस्या आती है, लेकिन ओल्गा नए शब्दों का इस्तेमाल करती है। ओल्गा संगीत को देखती है, फिर चाय को देखती है, और एक आसान योजना बनाती है। अंत में ओल्गा एक साफ़ वाक्य कह सकती है।",
+        "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the music, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
       }
     ]
   },
   {
-    "id": "hindi-intermediate-08",
+    "id": "hindi-intermediate-34",
     "level": "intermediate",
-    "title": "Intermediate 08: शब्द 489-512",
+    "title": "Intermediate 34: A Letter from a Friend",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1683,28 +1716,29 @@
       483,
       486
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/34-intermediate-a-letter-from-a-friend.txt",
     "sections": [
       {
-        "heading": "अध्याय 1 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: ब्याज, क्रिया, छह, कम, सरल. नए शब्द: धन, सेवा कर, प्रकट, सड़क, नक्शा, बारिश, नियम, शासन. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: ब्याज = interest; क्रिया = verb; छह = six; कम = less; सरल = simple. New words: धन = money; सेवा कर = serve; प्रकट = appear; सड़क = road; नक्शा = map; बारिश = rain; नियम = rule; शासन = govern. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह दीमा घर जाता है। वहाँ पास में पत्र और फ़ोन है। दीमा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “दोस्त।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Dima is at home. There is letter and phone nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "अध्याय 2 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: ब्याज, क्रिया, छह, कम, सरल. नए शब्द: खींच, ठंड, नोटिस, आवाज, ऊर्जा, शिकार, संभावित, बिस्तर. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: ब्याज = interest; क्रिया = verb; छह = six; कम = less; सरल = simple. New words: खींच = pull; ठंड = cold; नोटिस = notice; आवाज = voice; ऊर्जा = energy; शिकार = hunt; संभावित = probable; बिस्तर = bed. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "दीमा अपनी कॉपी में “दोस्त” शब्द लिखता है। फिर दीमा “निमंत्रण” के बारे में सोचता है। जगह शांत है, इसलिए दीमा वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+        "en": "Dima writes the word friend in a notebook. Then Dima thinks about invitation. The place is quiet, so Dima reads the sentence again and says it softly."
       },
       {
-        "heading": "अध्याय 3 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: ब्याज, क्रिया, छह, कम, सरल. नए शब्द: भाई, अंडा, सवारी, सेल, विश्वास है, शायद, उठाओ, अचानक. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: ब्याज = interest; क्रिया = verb; छह = six; कम = less; सरल = simple. New words: भाई = brother; अंडा = egg; सवारी = ride; सेल = cell; विश्वास है = believe; शायद = perhaps; उठाओ = pick; अचानक = sudden. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "एक छोटी-सी समस्या आती है, लेकिन दीमा नए शब्दों का इस्तेमाल करता है। दीमा पत्र को देखता है, फिर फ़ोन को देखता है, और एक आसान योजना बनाता है। अंत में दीमा एक साफ़ वाक्य कह सकता है।",
+        "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the letter, looks at the phone, and makes a simple plan. By the end, Dima can say one clear sentence."
       }
     ]
   },
   {
-    "id": "hindi-intermediate-09",
+    "id": "hindi-intermediate-35",
     "level": "intermediate",
-    "title": "Intermediate 09: शब्द 513-535",
+    "title": "Intermediate 35: The School Project",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1747,28 +1781,29 @@
       507,
       510
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/35-intermediate-the-school-project.txt",
     "sections": [
       {
-        "heading": "अध्याय 1 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: धन, सड़क, नियम, ठंड, ऊर्जा. नए शब्द: गिनती, वर्ग, कारण, लंबाई, का प्रतिनिधित्व, कला, विषय, क्षेत्र. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: धन = money; सड़क = road; नियम = rule; ठंड = cold; ऊर्जा = energy. New words: गिनती = count; वर्ग = square; कारण = reason; लंबाई = length; का प्रतिनिधित्व = represent; कला = art; विषय = subject; क्षेत्र = region. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह माशा स्कूल जाती है। वहाँ पास में कागज़ और शिक्षक है। माशा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “परियोजना।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Masha is at school. There is paper and teacher nearby. Masha reads slowly and notices a new word: project. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "अध्याय 2 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: धन, सड़क, नियम, ठंड, ऊर्जा. नए शब्द: आकार, भिन्न हो, बसा, बोलना, वजन, सामान्य, बर्फ, मामला. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: धन = money; सड़क = road; नियम = rule; ठंड = cold; ऊर्जा = energy. New words: आकार = size; भिन्न हो = vary; बसा = settle; बोलना = speak; वजन = weight; सामान्य = general; बर्फ = ice; मामला = matter. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "माशा अपनी कॉपी में “परियोजना” शब्द लिखती है। फिर माशा “समूह” के बारे में सोचती है। जगह शांत है, इसलिए माशा वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+        "en": "Masha writes the word project in a notebook. Then Masha thinks about group. The place is quiet, so Masha reads the sentence again and says it softly."
       },
       {
-        "heading": "अध्याय 3 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: धन, सड़क, नियम, ठंड, ऊर्जा. नए शब्द: वृत्त, जोड़ी, शामिल, विभाजन, शब्दांश, लगा, भव्य. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: धन = money; सड़क = road; नियम = rule; ठंड = cold; ऊर्जा = energy. New words: वृत्त = circle; जोड़ी = pair; शामिल = include; विभाजन = divide; शब्दांश = syllable; लगा = felt; भव्य = grand. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "एक छोटी-सी समस्या आती है, लेकिन माशा नए शब्दों का इस्तेमाल करती है। माशा कागज़ को देखती है, फिर शिक्षक को देखती है, और एक आसान योजना बनाती है। अंत में माशा एक साफ़ वाक्य कह सकती है।",
+        "en": "A small problem appears, but Masha uses the new words to understand it. Masha checks the paper, looks at the teacher, and makes a simple plan. By the end, Masha can say one clear sentence."
       }
     ]
   },
   {
-    "id": "hindi-intermediate-10",
+    "id": "hindi-intermediate-36",
     "level": "intermediate",
-    "title": "Intermediate 10: शब्द 536-558",
+    "title": "Intermediate 36: The City Walk",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1811,28 +1846,29 @@
       530,
       533
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/36-intermediate-the-city-walk.txt",
     "sections": [
       {
-        "heading": "अध्याय 1 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: अचानक, कारण, कला, आकार, बोलना. नए शब्द: गेंद, अभी तक, लहर, ड्रॉप, दिल, AM, वर्तमान, भारी. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: अचानक = sudden; कारण = reason; कला = art; आकार = size; बोलना = speak. New words: गेंद = ball; अभी तक = yet; लहर = wave; ड्रॉप = drop; दिल = heart; AM = am; वर्तमान = present; भारी = heavy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह अन्ना शहर जाती है। वहाँ पास में सड़क और खिड़की है। अन्ना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “सैर।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Anna is in the city. There is street and window nearby. Anna reads slowly and notices a new word: walk. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "अध्याय 2 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: अचानक, कारण, कला, आकार, बोलना. नए शब्द: नृत्य, इंजन, स्थिति, बांह, विस्तृत, स्टील अथॉरिटी ऑफ इंडिया, सामग्री, अंश. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: अचानक = sudden; कारण = reason; कला = art; आकार = size; बोलना = speak. New words: नृत्य = dance; इंजन = engine; स्थिति = position; बांह = arm; विस्तृत = wide; स्टील अथॉरिटी ऑफ इंडिया = sail; सामग्री = material; अंश = fraction. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "अन्ना अपनी कॉपी में “सैर” शब्द लिखती है। फिर अन्ना “जगह” के बारे में सोचती है। जगह शांत है, इसलिए अन्ना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+        "en": "Anna writes the word walk in a notebook. Then Anna thinks about place. The place is quiet, so Anna reads the sentence again and says it softly."
       },
       {
-        "heading": "अध्याय 3 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: अचानक, कारण, कला, आकार, बोलना. नए शब्द: वन, बैठना, दौड़, खिड़की, दुकान, गर्मियों, सफर. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: अचानक = sudden; कारण = reason; कला = art; आकार = size; बोलना = speak. New words: वन = forest; बैठना = sit; दौड़ = race; खिड़की = window; दुकान = store; गर्मियों = summer; सफर = train. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "एक छोटी-सी समस्या आती है, लेकिन अन्ना नए शब्दों का इस्तेमाल करती है। अन्ना सड़क को देखती है, फिर खिड़की को देखती है, और एक आसान योजना बनाती है। अंत में अन्ना एक साफ़ वाक्य कह सकती है।",
+        "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the street, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
       }
     ]
   },
   {
-    "id": "hindi-intermediate-11",
+    "id": "hindi-intermediate-37",
     "level": "intermediate",
-    "title": "Intermediate 11: शब्द 559-581",
+    "title": "Intermediate 37: The Bookshop Door",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1875,28 +1911,29 @@
       553,
       556
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/37-intermediate-the-bookshop-door.txt",
     "sections": [
       {
-        "heading": "अध्याय 1 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: भव्य, लहर, AM, नृत्य, बांह. नए शब्द: नींद, साबित, लोन, पैर, व्यायाम, दीवार, पकड़, माउंट. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: भव्य = grand; लहर = wave; AM = am; नृत्य = dance; बांह = arm. New words: नींद = sleep; साबित = prove; लोन = lone; पैर = leg; व्यायाम = exercise; दीवार = wall; पकड़ = catch; माउंट = mount. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह इवान किताबों की दुकान जाता है। वहाँ पास में दरवाज़ा और किताब है। इवान धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “खोलना।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Ivan is in the bookshop. There is door and book nearby. Ivan reads slowly and notices a new word: open. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "अध्याय 2 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: भव्य, लहर, AM, नृत्य, बांह. नए शब्द: इच्छा, आसमान, बोर्ड, हर्ष, सर्दियों, शनि, लिखित, जंगली. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: भव्य = grand; लहर = wave; AM = am; नृत्य = dance; बांह = arm. New words: इच्छा = wish; आसमान = sky; बोर्ड = board; हर्ष = joy; सर्दियों = winter; शनि = sat; लिखित = written; जंगली = wild. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "इवान अपनी कॉपी में “खोलना” शब्द लिखता है। फिर इवान “पढ़ना” के बारे में सोचता है। जगह शांत है, इसलिए इवान वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+        "en": "Ivan writes the word open in a notebook. Then Ivan thinks about reading. The place is quiet, so Ivan reads the sentence again and says it softly."
       },
       {
-        "heading": "अध्याय 3 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: भव्य, लहर, AM, नृत्य, बांह. नए शब्द: साधन, रखा, कांच, घास, गाय, काम, बढ़त. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: भव्य = grand; लहर = wave; AM = am; नृत्य = dance; बांह = arm. New words: साधन = instrument; रखा = kept; कांच = glass; घास = grass; गाय = cow; काम = job; बढ़त = edge. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "एक छोटी-सी समस्या आती है, लेकिन इवान नए शब्दों का इस्तेमाल करता है। इवान दरवाज़ा को देखता है, फिर किताब को देखता है, और एक आसान योजना बनाता है। अंत में इवान एक साफ़ वाक्य कह सकता है।",
+        "en": "A small problem appears, but Ivan uses the new words to understand it. Ivan checks the door, looks at the book, and makes a simple plan. By the end, Ivan can say one clear sentence."
       }
     ]
   },
   {
-    "id": "hindi-intermediate-12",
+    "id": "hindi-intermediate-38",
     "level": "intermediate",
-    "title": "Intermediate 12: शब्द 582-604",
+    "title": "Intermediate 38: The Family Story",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1939,28 +1976,29 @@
       576,
       579
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/38-intermediate-the-family-story.txt",
     "sections": [
       {
-        "heading": "अध्याय 1 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: सफर, लोन, दीवार, इच्छा, हर्ष. नए शब्द: साइन, यात्रा, अतीत, मुलायम, मज़ा, उज्ज्वल, गैस, मौसम. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: सफर = train; लोन = lone; दीवार = wall; इच्छा = wish; हर्ष = joy. New words: साइन = sign; यात्रा = visit; अतीत = past; मुलायम = soft; मज़ा = fun; उज्ज्वल = bright; गैस = gas; मौसम = weather. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह लीना घर जाती है। वहाँ पास में माँ और फ़ोटो है। लीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “कहानी।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Lena is at home. There is mother and photo nearby. Lena reads slowly and notices a new word: story. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "अध्याय 2 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: सफर, लोन, दीवार, इच्छा, हर्ष. नए शब्द: माह, लाख, भालू, खत्म, खुश, आशा, फूल, कपड़े. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: सफर = train; लोन = lone; दीवार = wall; इच्छा = wish; हर्ष = joy. New words: माह = month; लाख = million; भालू = bear; खत्म = finish; खुश = happy; आशा = hope; फूल = flower; कपड़े = clothe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "लीना अपनी कॉपी में “कहानी” शब्द लिखती है। फिर लीना “परिवार” के बारे में सोचती है। जगह शांत है, इसलिए लीना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+        "en": "Lena writes the word story in a notebook. Then Lena thinks about family. The place is quiet, so Lena reads the sentence again and says it softly."
       },
       {
-        "heading": "अध्याय 3 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: सफर, लोन, दीवार, इच्छा, हर्ष. नए शब्द: अजीब, चला गया, व्यापार, राग, यात्रा, कार्यालय, प्राप्त करना. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: सफर = train; लोन = lone; दीवार = wall; इच्छा = wish; हर्ष = joy. New words: अजीब = strange; चला गया = gone; व्यापार = trade; राग = melody; यात्रा = trip; कार्यालय = office; प्राप्त करना = receive. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "एक छोटी-सी समस्या आती है, लेकिन लीना नए शब्दों का इस्तेमाल करती है। लीना माँ को देखती है, फिर फ़ोटो को देखती है, और एक आसान योजना बनाती है। अंत में लीना एक साफ़ वाक्य कह सकती है।",
+        "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the mother, looks at the photo, and makes a simple plan. By the end, Lena can say one clear sentence."
       }
     ]
   },
   {
-    "id": "hindi-intermediate-13",
+    "id": "hindi-intermediate-39",
     "level": "intermediate",
-    "title": "Intermediate 13: शब्द 605-627",
+    "title": "Intermediate 39: The Important Word",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -2003,28 +2041,29 @@
       599,
       602
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/39-intermediate-the-important-word.txt",
     "sections": [
       {
-        "heading": "अध्याय 1 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: बढ़त, अतीत, उज्ज्वल, माह, खत्म. नए शब्द: पंक्ति, मुंह, सटीक, प्रतीक, मरना, कम से कम, मुसीबत, चिल्लाओ. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: बढ़त = edge; अतीत = past; उज्ज्वल = bright; माह = month; खत्म = finish. New words: पंक्ति = row; मुंह = mouth; सटीक = exact; प्रतीक = symbol; मरना = die; कम से कम = least; मुसीबत = trouble; चिल्लाओ = shout. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह पावेल पुस्तकालय जाता है। वहाँ पास में शब्दकोश और कागज़ है। पावेल धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “अर्थ।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Pavel is in the library. There is dictionary and paper nearby. Pavel reads slowly and notices a new word: meaning. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "अध्याय 2 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: बढ़त, अतीत, उज्ज्वल, माह, खत्म. नए शब्द: सिवाय, लिखा, बीज, स्वर, शामिल होने, सुझाव है, साफ, तोड़. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: बढ़त = edge; अतीत = past; उज्ज्वल = bright; माह = month; खत्म = finish. New words: सिवाय = except; लिखा = wrote; बीज = seed; स्वर = tone; शामिल होने = join; सुझाव है = suggest; साफ = clean; तोड़ = break. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "पावेल अपनी कॉपी में “अर्थ” शब्द लिखता है। फिर पावेल “भाषा” के बारे में सोचता है। जगह शांत है, इसलिए पावेल वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+        "en": "Pavel writes the word meaning in a notebook. Then Pavel thinks about language. The place is quiet, so Pavel reads the sentence again and says it softly."
       },
       {
-        "heading": "अध्याय 3 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: बढ़त, अतीत, उज्ज्वल, माह, खत्म. नए शब्द: महिला, यार्ड, वृद्धि, बुरा, झटका, तेल, खून. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: बढ़त = edge; अतीत = past; उज्ज्वल = bright; माह = month; खत्म = finish. New words: महिला = lady; यार्ड = yard; वृद्धि = rise; बुरा = bad; झटका = blow; तेल = oil; खून = blood. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "एक छोटी-सी समस्या आती है, लेकिन पावेल नए शब्दों का इस्तेमाल करता है। पावेल शब्दकोश को देखता है, फिर कागज़ को देखता है, और एक आसान योजना बनाता है। अंत में पावेल एक साफ़ वाक्य कह सकता है।",
+        "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the dictionary, looks at the paper, and makes a simple plan. By the end, Pavel can say one clear sentence."
       }
     ]
   },
   {
-    "id": "hindi-intermediate-14",
+    "id": "hindi-intermediate-40",
     "level": "intermediate",
-    "title": "Intermediate 14: शब्द 628-650",
+    "title": "Intermediate 40: Closer Every Day",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -2067,28 +2106,29 @@
       622,
       625
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/40-intermediate-closer-every-day.txt",
     "sections": [
       {
-        "heading": "अध्याय 1 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: प्राप्त करना, सटीक, कम से कम, सिवाय, स्वर. नए शब्द: स्पर्श, बढ़ी, प्रतिशत, मिश्रण, टीम, तार, लागत, खोया. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: प्राप्त करना = receive; सटीक = exact; कम से कम = least; सिवाय = except; स्वर = tone. New words: स्पर्श = touch; बढ़ी = grew; प्रतिशत = cent; मिश्रण = mix; टीम = team; तार = wire; लागत = cost; खोया = lost. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह इरीना पार्क जाती है। वहाँ पास में कॉपी और चाय है। इरीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “करीब।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Irina is in the park. There is notebook and tea nearby. Irina reads slowly and notices a new word: closer. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "अध्याय 2 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: प्राप्त करना, सटीक, कम से कम, सिवाय, स्वर. नए शब्द: ब्राउन, पहनना, बगीचा, बराबर, भेजा, चयन, गिर गया, फिट. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: प्राप्त करना = receive; सटीक = exact; कम से कम = least; सिवाय = except; स्वर = tone. New words: ब्राउन = brown; पहनना = wear; बगीचा = garden; बराबर = equal; भेजा = sent; चयन = choose; गिर गया = fell; फिट = fit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "इरीना अपनी कॉपी में “करीब” शब्द लिखती है। फिर इरीना “दोहराना” के बारे में सोचती है। जगह शांत है, इसलिए इरीना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+        "en": "Irina writes the word closer in a notebook. Then Irina thinks about review. The place is quiet, so Irina reads the sentence again and says it softly."
       },
       {
-        "heading": "अध्याय 3 / 3",
-        "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: प्राप्त करना, सटीक, कम से कम, सिवाय, स्वर. नए शब्द: प्रवाह, मेला, बैंक, इकट्ठा, बचा, नियंत्रण, दशमलव. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: प्राप्त करना = receive; सटीक = exact; कम से कम = least; सिवाय = except; स्वर = tone. New words: प्रवाह = flow; मेला = fair; बैंक = bank; इकट्ठा = collect; बचा = save; नियंत्रण = control; दशमलव = decimal. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "एक छोटी-सी समस्या आती है, लेकिन इरीना नए शब्दों का इस्तेमाल करती है। इरीना कॉपी को देखती है, फिर चाय को देखती है, और एक आसान योजना बनाती है। अंत में इरीना एक साफ़ वाक्य कह सकती है।",
+        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the notebook, looks at the tea, and makes a simple plan. By the end, Irina can say one clear sentence."
       }
     ]
   },
   {
-    "id": "hindi-advanced-01",
+    "id": "hindi-advanced-41",
     "level": "advanced",
-    "title": "Advanced 01: शब्द 651-685",
+    "title": "Advanced 41: The Long Walk Through the City",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2143,38 +2183,39 @@
       645,
       648
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/41-advanced-the-long-walk-through-the-city.txt",
     "sections": [
       {
-        "heading": "अध्याय 1 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: खून, प्रतिशत, तार, ब्राउन, बराबर. नए शब्द: कान, बाकी, काफी, तोड़ दिया, मामले, बीच, हत्या. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: खून = blood; प्रतिशत = cent; तार = wire; ब्राउन = brown; बराबर = equal. New words: कान = ear; बाकी = else; काफी = quite; तोड़ दिया = broke; मामले = case; बीच = middle; हत्या = kill. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह अन्ना शहर जाती है। वहाँ पास में नक्शा और खिड़की है। अन्ना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “यात्रा।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Anna is in the city. There is map and window nearby. Anna reads slowly and notices a new word: journey. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "अध्याय 2 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: खून, प्रतिशत, तार, ब्राउन, बराबर. नए शब्द: बेटा, झील, पल, पैमाने, जोर, वसंत, निरीक्षण. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: खून = blood; प्रतिशत = cent; तार = wire; ब्राउन = brown; बराबर = equal. New words: बेटा = son; झील = lake; पल = moment; पैमाने = scale; जोर = loud; वसंत = spring; निरीक्षण = observe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "अन्ना अपनी कॉपी में “यात्रा” शब्द लिखती है। फिर अन्ना “शहर” के बारे में सोचती है। जगह शांत है, इसलिए अन्ना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+        "en": "Anna writes the word journey in a notebook. Then Anna thinks about city. The place is quiet, so Anna reads the sentence again and says it softly."
       },
       {
-        "heading": "अध्याय 3 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: खून, प्रतिशत, तार, ब्राउन, बराबर. नए शब्द: बच्चे, सीधे, व्यंजन, राष्ट्र, शब्दकोश, दूध, गति. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: खून = blood; प्रतिशत = cent; तार = wire; ब्राउन = brown; बराबर = equal. New words: बच्चे = child; सीधे = straight; व्यंजन = consonant; राष्ट्र = nation; शब्दकोश = dictionary; दूध = milk; गति = speed. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "एक छोटी-सी समस्या आती है, लेकिन अन्ना नए शब्दों का इस्तेमाल करती है। अन्ना नक्शा को देखती है, फिर खिड़की को देखती है, और एक आसान योजना बनाती है। अंत में अन्ना एक साफ़ वाक्य कह सकती है।",
+        "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the map, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
       },
       {
-        "heading": "अध्याय 4 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: खून, प्रतिशत, तार, ब्राउन, बराबर. नए शब्द: विधि, अंग, भुगतान, उम्र, अनुभाग, पोशाक, बादल. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: खून = blood; प्रतिशत = cent; तार = wire; ब्राउन = brown; बराबर = equal. New words: विधि = method; अंग = organ; भुगतान = pay; उम्र = age; अनुभाग = section; पोशाक = dress; बादल = cloud. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "बाद में अन्ना एक व्यक्ति से मिलती है और एक सावधान प्रश्न पूछती है। उत्तर सरल है, पर मदद करता है। अन्ना तीन और शब्द लिखती है और उन्हें दिन की कहानी से जोड़ती है.",
+        "en": "Later, Anna meets another person and asks one careful question. The answer is simple, but it helps. Anna writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "अध्याय 5 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: खून, प्रतिशत, तार, ब्राउन, बराबर. नए शब्द: आश्चर्य, शांत, पत्थर, छोटे, चढ़ाई, शीतल, डिजाइन. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: खून = blood; प्रतिशत = cent; तार = wire; ब्राउन = brown; बराबर = equal. New words: आश्चर्य = surprise; शांत = quiet; पत्थर = stone; छोटे = tiny; चढ़ाई = climb; शीतल = cool; डिजाइन = design. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "दिन के अंत में अन्ना पूरा पृष्ठ ज़ोर से पढ़ती है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। अन्ना मुस्कुराती है, क्योंकि सीखना अब संभव और पास लगता है.",
+        "en": "At the end of the day, Anna reads the whole page out loud. The words are not perfect yet, but they are familiar now. Anna smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "hindi-advanced-02",
+    "id": "hindi-advanced-42",
     "level": "advanced",
-    "title": "Advanced 02: शब्द 686-720",
+    "title": "Advanced 42: The Forgotten Invitation",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2229,38 +2270,39 @@
       680,
       683
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/42-advanced-the-forgotten-invitation.txt",
     "sections": [
       {
-        "heading": "अध्याय 1 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: जोर, बच्चे, राष्ट्र, गति, भुगतान. नए शब्द: गरीब, बहुत, प्रयोग, तल, कुंजी, लोहा, एकल. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: जोर = loud; बच्चे = child; राष्ट्र = nation; गति = speed; भुगतान = pay. New words: गरीब = poor; बहुत = lot; प्रयोग = experiment; तल = bottom; कुंजी = key; लोहा = iron; एकल = single. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह साशा विश्वविद्यालय जाता है। वहाँ पास में पत्र और फ़ोन है। साशा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “निमंत्रण।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Sasha is at the university. There is letter and phone nearby. Sasha reads slowly and notices a new word: invitation. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "अध्याय 2 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: जोर, बच्चे, राष्ट्र, गति, भुगतान. नए शब्द: छड़ी, फ्लैट, बीस, त्वचा, मुस्कान, क्रीज, छेद. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: जोर = loud; बच्चे = child; राष्ट्र = nation; गति = speed; भुगतान = pay. New words: छड़ी = stick; फ्लैट = flat; बीस = twenty; त्वचा = skin; मुस्कान = smile; क्रीज = crease; छेद = hole. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "साशा अपनी कॉपी में “निमंत्रण” शब्द लिखता है। फिर साशा “मुलाकात” के बारे में सोचता है। जगह शांत है, इसलिए साशा वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+        "en": "Sasha writes the word invitation in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
       },
       {
-        "heading": "अध्याय 3 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: जोर, बच्चे, राष्ट्र, गति, भुगतान. नए शब्द: कूद, बच्चे, आठ, गांव, मिलो, जड़, खरीद. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: जोर = loud; बच्चे = child; राष्ट्र = nation; गति = speed; भुगतान = pay. New words: कूद = jump; बच्चे = baby; आठ = eight; गांव = village; मिलो = meet; जड़ = root; खरीद = buy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "एक छोटी-सी समस्या आती है, लेकिन साशा नए शब्दों का इस्तेमाल करता है। साशा पत्र को देखता है, फिर फ़ोन को देखता है, और एक आसान योजना बनाता है। अंत में साशा एक साफ़ वाक्य कह सकता है।",
+        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the phone, and makes a simple plan. By the end, Sasha can say one clear sentence."
       },
       {
-        "heading": "अध्याय 4 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: जोर, बच्चे, राष्ट्र, गति, भुगतान. नए शब्द: उठाना, हल, धातु, चाहे, धक्का, सात, पैरा. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: जोर = loud; बच्चे = child; राष्ट्र = nation; गति = speed; भुगतान = pay. New words: उठाना = raise; हल = solve; धातु = metal; चाहे = whether; धक्का = push; सात = seven; पैरा = paragraph. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "बाद में साशा एक व्यक्ति से मिलता है और एक सावधान प्रश्न पूछता है। उत्तर सरल है, पर मदद करता है। साशा तीन और शब्द लिखता है और उन्हें दिन की कहानी से जोड़ता है.",
+        "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "अध्याय 5 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: जोर, बच्चे, राष्ट्र, गति, भुगतान. नए शब्द: तीसरे, करेगा, आयोजित, बाल, वर्णन, कुक, मंजिल. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: जोर = loud; बच्चे = child; राष्ट्र = nation; गति = speed; भुगतान = pay. New words: तीसरे = third; करेगा = shall; आयोजित = held; बाल = hair; वर्णन = describe; कुक = cook; मंजिल = floor. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "दिन के अंत में साशा पूरा पृष्ठ ज़ोर से पढ़ता है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। साशा मुस्कुराता है, क्योंकि सीखना अब संभव और पास लगता है.",
+        "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "hindi-advanced-03",
+    "id": "hindi-advanced-43",
     "level": "advanced",
-    "title": "Advanced 03: शब्द 721-755",
+    "title": "Advanced 43: The History Room",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2315,38 +2357,39 @@
       715,
       718
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/43-advanced-the-history-room.txt",
     "sections": [
       {
-        "heading": "अध्याय 1 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: मुस्कान, कूद, गांव, खरीद, धातु. नए शब्द: भी, परिणाम, जला, पहाड़ी, सुरक्षित, बिल्ली, सदी. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: मुस्कान = smile; कूद = jump; गांव = village; खरीद = buy; धातु = metal. New words: भी = either; परिणाम = result; जला = burn; पहाड़ी = hill; सुरक्षित = safe; बिल्ली = cat; सदी = century. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह निकोलाई संग्रहालय जाता है। वहाँ पास में किताब और तस्वीर है। निकोलाई धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “इतिहास।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Nikolay is in the museum. There is book and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "अध्याय 2 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: मुस्कान, कूद, गांव, खरीद, धातु. नए शब्द: विचार करना, प्रकार, कानून, बिट, तट, नकल, वाक्यांश. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: मुस्कान = smile; कूद = jump; गांव = village; खरीद = buy; धातु = metal. New words: विचार करना = consider; प्रकार = type; कानून = law; बिट = bit; तट = coast; नकल = copy; वाक्यांश = phrase. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "निकोलाई अपनी कॉपी में “इतिहास” शब्द लिखता है। फिर निकोलाई “अतीत” के बारे में सोचता है। जगह शांत है, इसलिए निकोलाई वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+        "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about past. The place is quiet, so Nikolay reads the sentence again and says it softly."
       },
       {
-        "heading": "अध्याय 3 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: मुस्कान, कूद, गांव, खरीद, धातु. नए शब्द: चुप, लंबा, रेत, मिट्टी, रोल, तापमान, उंगली. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: मुस्कान = smile; कूद = jump; गांव = village; खरीद = buy; धातु = metal. New words: चुप = silent; लंबा = tall; रेत = sand; मिट्टी = soil; रोल = roll; तापमान = temperature; उंगली = finger. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "एक छोटी-सी समस्या आती है, लेकिन निकोलाई नए शब्दों का इस्तेमाल करता है। निकोलाई किताब को देखता है, फिर तस्वीर को देखता है, और एक आसान योजना बनाता है। अंत में निकोलाई एक साफ़ वाक्य कह सकता है।",
+        "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the book, looks at the picture, and makes a simple plan. By the end, Nikolay can say one clear sentence."
       },
       {
-        "heading": "अध्याय 4 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: मुस्कान, कूद, गांव, खरीद, धातु. नए शब्द: उद्योग, मूल्य, लड़ाई, झूठ, हरा, उत्तेजित, प्राकृतिक. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: मुस्कान = smile; कूद = jump; गांव = village; खरीद = buy; धातु = metal. New words: उद्योग = industry; मूल्य = value; लड़ाई = fight; झूठ = lie; हरा = beat; उत्तेजित = excite; प्राकृतिक = natural. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "बाद में निकोलाई एक व्यक्ति से मिलता है और एक सावधान प्रश्न पूछता है। उत्तर सरल है, पर मदद करता है। निकोलाई तीन और शब्द लिखता है और उन्हें दिन की कहानी से जोड़ता है.",
+        "en": "Later, Nikolay meets another person and asks one careful question. The answer is simple, but it helps. Nikolay writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "अध्याय 5 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: मुस्कान, कूद, गांव, खरीद, धातु. नए शब्द: देखें, भावना, राजधानी, नहीं होगा, कुर्सी, खतरे, फल. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: मुस्कान = smile; कूद = jump; गांव = village; खरीद = buy; धातु = metal. New words: देखें = view; भावना = sense; राजधानी = capital; नहीं होगा = won’t; कुर्सी = chair; खतरे = danger; फल = fruit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "दिन के अंत में निकोलाई पूरा पृष्ठ ज़ोर से पढ़ता है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। निकोलाई मुस्कुराता है, क्योंकि सीखना अब संभव और पास लगता है.",
+        "en": "At the end of the day, Nikolay reads the whole page out loud. The words are not perfect yet, but they are familiar now. Nikolay smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "hindi-advanced-04",
+    "id": "hindi-advanced-44",
     "level": "advanced",
-    "title": "Advanced 04: शब्द 756-790",
+    "title": "Advanced 44: The Quiet Train",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2401,38 +2444,39 @@
       750,
       753
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/44-advanced-the-quiet-train.txt",
     "sections": [
       {
-        "heading": "अध्याय 1 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: तट, चुप, मिट्टी, उंगली, लड़ाई. नए शब्द: अमीर, मोटी, सैनिक, प्रक्रिया, संचालित, अभ्यास, अलग. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: तट = coast; चुप = silent; मिट्टी = soil; उंगली = finger; लड़ाई = fight. New words: अमीर = rich; मोटी = thick; सैनिक = soldier; प्रक्रिया = process; संचालित = operate; अभ्यास = practice; अलग = separate. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह मारिया ट्रेन जाती है। वहाँ पास में टिकट और चाय है। मारिया धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “शांत।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Maria is on the train. There is ticket and tea nearby. Maria reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "अध्याय 2 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: तट, चुप, मिट्टी, उंगली, लड़ाई. नए शब्द: मुश्किल, चिकित्सक, कृपया, रक्षा, दोपहर, फसल, आधुनिक. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: तट = coast; चुप = silent; मिट्टी = soil; उंगली = finger; लड़ाई = fight. New words: मुश्किल = difficult; चिकित्सक = doctor; कृपया = please; रक्षा = protect; दोपहर = noon; फसल = crop; आधुनिक = modern. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "मारिया अपनी कॉपी में “शांत” शब्द लिखती है। फिर मारिया “यात्रा” के बारे में सोचती है। जगह शांत है, इसलिए मारिया वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+        "en": "Maria writes the word quiet in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
       },
       {
-        "heading": "अध्याय 3 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: तट, चुप, मिट्टी, उंगली, लड़ाई. नए शब्द: तत्व, मारना, छात्र, कोने, पार्टी, आपूर्ति, जिसका. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: तट = coast; चुप = silent; मिट्टी = soil; उंगली = finger; लड़ाई = fight. New words: तत्व = element; मारना = hit; छात्र = student; कोने = corner; पार्टी = party; आपूर्ति = supply; जिसका = whose. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "एक छोटी-सी समस्या आती है, लेकिन मारिया नए शब्दों का इस्तेमाल करती है। मारिया टिकट को देखती है, फिर चाय को देखती है, और एक आसान योजना बनाती है। अंत में मारिया एक साफ़ वाक्य कह सकती है।",
+        "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the tea, and makes a simple plan. By the end, Maria can say one clear sentence."
       },
       {
-        "heading": "अध्याय 4 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: तट, चुप, मिट्टी, उंगली, लड़ाई. नए शब्द: स्थिति जानें, अंगूठी, चरित्र, कीट, पकड़ा, अवधि, संकेत मिलता है. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: तट = coast; चुप = silent; मिट्टी = soil; उंगली = finger; लड़ाई = fight. New words: स्थिति जानें = locate; अंगूठी = ring; चरित्र = character; कीट = insect; पकड़ा = caught; अवधि = period; संकेत मिलता है = indicate. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "बाद में मारिया एक व्यक्ति से मिलती है और एक सावधान प्रश्न पूछती है। उत्तर सरल है, पर मदद करता है। मारिया तीन और शब्द लिखती है और उन्हें दिन की कहानी से जोड़ती है.",
+        "en": "Later, Maria meets another person and asks one careful question. The answer is simple, but it helps. Maria writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "अध्याय 5 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: तट, चुप, मिट्टी, उंगली, लड़ाई. नए शब्द: रेडियो, बात, एटम, मानव, इतिहास, प्रभाव, बिजली. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: तट = coast; चुप = silent; मिट्टी = soil; उंगली = finger; लड़ाई = fight. New words: रेडियो = radio; बात = spoke; एटम = atom; मानव = human; इतिहास = history; प्रभाव = effect; बिजली = electric. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "दिन के अंत में मारिया पूरा पृष्ठ ज़ोर से पढ़ती है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। मारिया मुस्कुराती है, क्योंकि सीखना अब संभव और पास लगता है.",
+        "en": "At the end of the day, Maria reads the whole page out loud. The words are not perfect yet, but they are familiar now. Maria smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "hindi-advanced-05",
+    "id": "hindi-advanced-45",
     "level": "advanced",
-    "title": "Advanced 05: शब्द 791-825",
+    "title": "Advanced 45: A Plan for Tomorrow",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2487,38 +2531,39 @@
       785,
       788
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/45-advanced-a-plan-for-tomorrow.txt",
     "sections": [
       {
-        "heading": "अध्याय 1 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: दोपहर, तत्व, कोने, जिसका, चरित्र. नए शब्द: उम्मीद, हड्डी, रेल, कल्पना, प्रदान, सहमत, इस प्रकार. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: दोपहर = noon; तत्व = element; कोने = corner; जिसका = whose; चरित्र = character. New words: उम्मीद = expect; हड्डी = bone; रेल = rail; कल्पना = imagine; प्रदान = provide; सहमत = agree; इस प्रकार = thus. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह लीना घर जाती है। वहाँ पास में नक्शा और कॉपी है। लीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “कल।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Lena is at home. There is map and notebook nearby. Lena reads slowly and notices a new word: tomorrow. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "अध्याय 2 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: दोपहर, तत्व, कोने, जिसका, चरित्र. नए शब्द: कोमल, महिला, कप्तान, अनुमान, आवश्यक, तेज़, पंख. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: दोपहर = noon; तत्व = element; कोने = corner; जिसका = whose; चरित्र = character. New words: कोमल = gentle; महिला = woman; कप्तान = captain; अनुमान = guess; आवश्यक = necessary; तेज़ = sharp; पंख = wing. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "लीना अपनी कॉपी में “कल” शब्द लिखती है। फिर लीना “योजना” के बारे में सोचती है। जगह शांत है, इसलिए लीना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+        "en": "Lena writes the word tomorrow in a notebook. Then Lena thinks about plan. The place is quiet, so Lena reads the sentence again and says it softly."
       },
       {
-        "heading": "अध्याय 3 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: दोपहर, तत्व, कोने, जिसका, चरित्र. नए शब्द: बना, पड़ोसी, धोने, बल्ला, बल्कि, भीड़, मकई. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: दोपहर = noon; तत्व = element; कोने = corner; जिसका = whose; चरित्र = character. New words: बना = create; पड़ोसी = neighbor; धोने = wash; बल्ला = bat; बल्कि = rather; भीड़ = crowd; मकई = corn. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "एक छोटी-सी समस्या आती है, लेकिन लीना नए शब्दों का इस्तेमाल करती है। लीना नक्शा को देखती है, फिर कॉपी को देखती है, और एक आसान योजना बनाती है। अंत में लीना एक साफ़ वाक्य कह सकती है।",
+        "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the map, looks at the notebook, and makes a simple plan. By the end, Lena can say one clear sentence."
       },
       {
-        "heading": "अध्याय 4 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: दोपहर, तत्व, कोने, जिसका, चरित्र. नए शब्द: तुलना, कविता, स्ट्रिंग, बेल, निर्भर, मांस, रगड़. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: दोपहर = noon; तत्व = element; कोने = corner; जिसका = whose; चरित्र = character. New words: तुलना = compare; कविता = poem; स्ट्रिंग = string; बेल = bell; निर्भर = depend; मांस = meat; रगड़ = rub. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "बाद में लीना एक व्यक्ति से मिलती है और एक सावधान प्रश्न पूछती है। उत्तर सरल है, पर मदद करता है। लीना तीन और शब्द लिखती है और उन्हें दिन की कहानी से जोड़ती है.",
+        "en": "Later, Lena meets another person and asks one careful question. The answer is simple, but it helps. Lena writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "अध्याय 5 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: दोपहर, तत्व, कोने, जिसका, चरित्र. नए शब्द: ट्यूब, प्रसिद्ध, डॉलर, धारा, डर, दृष्टि, पतली. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: दोपहर = noon; तत्व = element; कोने = corner; जिसका = whose; चरित्र = character. New words: ट्यूब = tube; प्रसिद्ध = famous; डॉलर = dollar; धारा = stream; डर = fear; दृष्टि = sight; पतली = thin. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "दिन के अंत में लीना पूरा पृष्ठ ज़ोर से पढ़ती है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। लीना मुस्कुराती है, क्योंकि सीखना अब संभव और पास लगता है.",
+        "en": "At the end of the day, Lena reads the whole page out loud. The words are not perfect yet, but they are familiar now. Lena smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "hindi-advanced-06",
+    "id": "hindi-advanced-46",
     "level": "advanced",
-    "title": "Advanced 06: शब्द 826-860",
+    "title": "Advanced 46: News from the Cafe",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2573,38 +2618,39 @@
       820,
       823
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/46-advanced-news-from-the-cafe.txt",
     "sections": [
       {
-        "heading": "अध्याय 1 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: आवश्यक, बना, बल्ला, मकई, स्ट्रिंग. नए शब्द: त्रिकोण, ग्रह, जल्दी करो, प्रमुख, कॉलोनी, घड़ी, मेरा. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: आवश्यक = necessary; बना = create; बल्ला = bat; मकई = corn; स्ट्रिंग = string. New words: त्रिकोण = triangle; ग्रह = planet; जल्दी करो = hurry; प्रमुख = chief; कॉलोनी = colony; घड़ी = clock; मेरा = mine. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह ओल्गा कैफ़े जाती है। वहाँ पास में अख़बार और चाय है। ओल्गा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “समाचार।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Olga is in the cafe. There is newspaper and tea nearby. Olga reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "अध्याय 2 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: आवश्यक, बना, बल्ला, मकई, स्ट्रिंग. नए शब्द: टाई, दर्ज, प्रमुख, ताजा, खोज, भेजें, पीले. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: आवश्यक = necessary; बना = create; बल्ला = bat; मकई = corn; स्ट्रिंग = string. New words: टाई = tie; दर्ज = enter; प्रमुख = major; ताजा = fresh; खोज = search; भेजें = send; पीले = yellow. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "ओल्गा अपनी कॉपी में “समाचार” शब्द लिखती है। फिर ओल्गा “बातचीत” के बारे में सोचती है। जगह शांत है, इसलिए ओल्गा वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+        "en": "Olga writes the word news in a notebook. Then Olga thinks about talk. The place is quiet, so Olga reads the sentence again and says it softly."
       },
       {
-        "heading": "अध्याय 3 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: आवश्यक, बना, बल्ला, मकई, स्ट्रिंग. नए शब्द: बंदूक, की अनुमति, प्रिंट, मृत, हाजिर, रेगिस्तान, सूट. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: आवश्यक = necessary; बना = create; बल्ला = bat; मकई = corn; स्ट्रिंग = string. New words: बंदूक = gun; की अनुमति = allow; प्रिंट = print; मृत = dead; हाजिर = spot; रेगिस्तान = desert; सूट = suit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "एक छोटी-सी समस्या आती है, लेकिन ओल्गा नए शब्दों का इस्तेमाल करती है। ओल्गा अख़बार को देखती है, फिर चाय को देखती है, और एक आसान योजना बनाती है। अंत में ओल्गा एक साफ़ वाक्य कह सकती है।",
+        "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the newspaper, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
       },
       {
-        "heading": "अध्याय 4 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: आवश्यक, बना, बल्ला, मकई, स्ट्रिंग. नए शब्द: वर्तमान, लिफ्ट, गुलाब, पहुंचना, मास्टर, ट्रैक, माता पिता. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: आवश्यक = necessary; बना = create; बल्ला = bat; मकई = corn; स्ट्रिंग = string. New words: वर्तमान = current; लिफ्ट = lift; गुलाब = rose; पहुंचना = arrive; मास्टर = master; ट्रैक = track; माता पिता = parent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "बाद में ओल्गा एक व्यक्ति से मिलती है और एक सावधान प्रश्न पूछती है। उत्तर सरल है, पर मदद करता है। ओल्गा तीन और शब्द लिखती है और उन्हें दिन की कहानी से जोड़ती है.",
+        "en": "Later, Olga meets another person and asks one careful question. The answer is simple, but it helps. Olga writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "अध्याय 5 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: आवश्यक, बना, बल्ला, मकई, स्ट्रिंग. नए शब्द: किनारे, विभाजन, चादर, पदार्थ, एहसान, कनेक्ट, पोस्ट. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: आवश्यक = necessary; बना = create; बल्ला = bat; मकई = corn; स्ट्रिंग = string. New words: किनारे = shore; विभाजन = division; चादर = sheet; पदार्थ = substance; एहसान = favor; कनेक्ट = connect; पोस्ट = post. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "दिन के अंत में ओल्गा पूरा पृष्ठ ज़ोर से पढ़ती है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। ओल्गा मुस्कुराती है, क्योंकि सीखना अब संभव और पास लगता है.",
+        "en": "At the end of the day, Olga reads the whole page out loud. The words are not perfect yet, but they are familiar now. Olga smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "hindi-advanced-07",
+    "id": "hindi-advanced-47",
     "level": "advanced",
-    "title": "Advanced 07: शब्द 861-895",
+    "title": "Advanced 47: The Word That Changed the Day",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2659,38 +2705,39 @@
       855,
       858
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/47-advanced-the-word-that-changed-the-day.txt",
     "sections": [
       {
-        "heading": "अध्याय 1 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: खोज, बंदूक, मृत, सूट, गुलाब. नए शब्द: खर्च, राग, वसा, प्रसन्न, मूल, शेयर, स्टेशन. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: खोज = search; बंदूक = gun; मृत = dead; सूट = suit; गुलाब = rose. New words: खर्च = spend; राग = chord; वसा = fat; प्रसन्न = glad; मूल = original; शेयर = share; स्टेशन = station. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह दीमा सड़क जाता है। वहाँ पास में बैग और किताब है। दीमा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “मदद।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Dima is on the street. There is bag and book nearby. Dima reads slowly and notices a new word: help. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "अध्याय 2 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: खोज, बंदूक, मृत, सूट, गुलाब. नए शब्द: पिता, रोटी, चार्ज, उचित, बार, प्रस्ताव, खंड. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: खोज = search; बंदूक = gun; मृत = dead; सूट = suit; गुलाब = rose. New words: पिता = dad; रोटी = bread; चार्ज = charge; उचित = proper; बार = bar; प्रस्ताव = offer; खंड = segment. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "दीमा अपनी कॉपी में “मदद” शब्द लिखता है। फिर दीमा “रास्ता” के बारे में सोचता है। जगह शांत है, इसलिए दीमा वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+        "en": "Dima writes the word help in a notebook. Then Dima thinks about road. The place is quiet, so Dima reads the sentence again and says it softly."
       },
       {
-        "heading": "अध्याय 3 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: खोज, बंदूक, मृत, सूट, गुलाब. नए शब्द: गुलाम, बतख, पल, बाजार, डिग्री, आबाद, लड़की. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: खोज = search; बंदूक = gun; मृत = dead; सूट = suit; गुलाब = rose. New words: गुलाम = slave; बतख = duck; पल = instant; बाजार = market; डिग्री = degree; आबाद = populate; लड़की = chick. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "एक छोटी-सी समस्या आती है, लेकिन दीमा नए शब्दों का इस्तेमाल करता है। दीमा बैग को देखता है, फिर किताब को देखता है, और एक आसान योजना बनाता है। अंत में दीमा एक साफ़ वाक्य कह सकता है।",
+        "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the bag, looks at the book, and makes a simple plan. By the end, Dima can say one clear sentence."
       },
       {
-        "heading": "अध्याय 4 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: खोज, बंदूक, मृत, सूट, गुलाब. नए शब्द: प्रिय, दुश्मन, उत्तर, पेय, घटित, समर्थन, भाषण. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: खोज = search; बंदूक = gun; मृत = dead; सूट = suit; गुलाब = rose. New words: प्रिय = dear; दुश्मन = enemy; उत्तर = reply; पेय = drink; घटित = occur; समर्थन = support; भाषण = speech. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "बाद में दीमा एक व्यक्ति से मिलता है और एक सावधान प्रश्न पूछता है। उत्तर सरल है, पर मदद करता है। दीमा तीन और शब्द लिखता है और उन्हें दिन की कहानी से जोड़ता है.",
+        "en": "Later, Dima meets another person and asks one careful question. The answer is simple, but it helps. Dima writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "अध्याय 5 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: खोज, बंदूक, मृत, सूट, गुलाब. नए शब्द: प्रकृति, सीमा, भाप, प्रस्ताव, पथ, तरल, लॉग इन करें. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: खोज = search; बंदूक = gun; मृत = dead; सूट = suit; गुलाब = rose. New words: प्रकृति = nature; सीमा = range; भाप = steam; प्रस्ताव = motion; पथ = path; तरल = liquid; लॉग इन करें = log. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "दिन के अंत में दीमा पूरा पृष्ठ ज़ोर से पढ़ता है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। दीमा मुस्कुराता है, क्योंकि सीखना अब संभव और पास लगता है.",
+        "en": "At the end of the day, Dima reads the whole page out loud. The words are not perfect yet, but they are familiar now. Dima smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "hindi-advanced-08",
+    "id": "hindi-advanced-48",
     "level": "advanced",
-    "title": "Advanced 08: शब्द 896-930",
+    "title": "Advanced 48: The Meeting at the University",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2745,38 +2792,39 @@
       890,
       893
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/48-advanced-the-meeting-at-the-university.txt",
     "sections": [
       {
-        "heading": "अध्याय 1 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: बार, गुलाम, बाजार, लड़की, उत्तर. नए शब्द: मतलब, भागफल, दांत, खोल, गर्दन, ऑक्सीजन, चीनी. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: बार = bar; गुलाम = slave; बाजार = market; लड़की = chick; उत्तर = reply. New words: मतलब = meant; भागफल = quotient; दांत = teeth; खोल = shell; गर्दन = neck; ऑक्सीजन = oxygen; चीनी = sugar. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह साशा विश्वविद्यालय जाता है। वहाँ पास में पत्र और डेस्क है। साशा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “मुलाकात।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Sasha is at the university. There is letter and desk nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "अध्याय 2 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: बार, गुलाम, बाजार, लड़की, उत्तर. नए शब्द: मौत, सुंदर, कौशल, महिलाओं, मौसम, समाधान, चुंबक. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: बार = bar; गुलाम = slave; बाजार = market; लड़की = chick; उत्तर = reply. New words: मौत = death; सुंदर = pretty; कौशल = skill; महिलाओं = women; मौसम = season; समाधान = solution; चुंबक = magnet. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "साशा अपनी कॉपी में “मुलाकात” शब्द लिखता है। फिर साशा “विचार” के बारे में सोचता है। जगह शांत है, इसलिए साशा वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+        "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about ideas. The place is quiet, so Sasha reads the sentence again and says it softly."
       },
       {
-        "heading": "अध्याय 3 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: बार, गुलाम, बाजार, लड़की, उत्तर. नए शब्द: चांदी, धन्यवाद, शाखा, मैच, प्रत्यय, विशेष रूप से, अंजीर. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: बार = bar; गुलाम = slave; बाजार = market; लड़की = chick; उत्तर = reply. New words: चांदी = silver; धन्यवाद = thank; शाखा = branch; मैच = match; प्रत्यय = suffix; विशेष रूप से = especially; अंजीर = fig. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "एक छोटी-सी समस्या आती है, लेकिन साशा नए शब्दों का इस्तेमाल करता है। साशा पत्र को देखता है, फिर डेस्क को देखता है, और एक आसान योजना बनाता है। अंत में साशा एक साफ़ वाक्य कह सकता है।",
+        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the desk, and makes a simple plan. By the end, Sasha can say one clear sentence."
       },
       {
-        "heading": "अध्याय 4 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: बार, गुलाम, बाजार, लड़की, उत्तर. नए शब्द: डर, भारी, बहन, स्टील, चर्चा, आगे, इसी तरह. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: बार = bar; गुलाम = slave; बाजार = market; लड़की = chick; उत्तर = reply. New words: डर = afraid; भारी = huge; बहन = sister; स्टील = steel; चर्चा = discuss; आगे = forward; इसी तरह = similar. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "बाद में साशा एक व्यक्ति से मिलता है और एक सावधान प्रश्न पूछता है। उत्तर सरल है, पर मदद करता है। साशा तीन और शब्द लिखता है और उन्हें दिन की कहानी से जोड़ता है.",
+        "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "अध्याय 5 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: बार, गुलाम, बाजार, लड़की, उत्तर. नए शब्द: गाइड, अनुभव, स्कोर, सेब, खरीदा, नेतृत्व, पिच. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: बार = bar; गुलाम = slave; बाजार = market; लड़की = chick; उत्तर = reply. New words: गाइड = guide; अनुभव = experience; स्कोर = score; सेब = apple; खरीदा = bought; नेतृत्व = led; पिच = pitch. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "दिन के अंत में साशा पूरा पृष्ठ ज़ोर से पढ़ता है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। साशा मुस्कुराता है, क्योंकि सीखना अब संभव और पास लगता है.",
+        "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "hindi-advanced-09",
+    "id": "hindi-advanced-49",
     "level": "advanced",
-    "title": "Advanced 09: शब्द 931-965",
+    "title": "Advanced 49: The Letter and the Map",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2831,38 +2879,39 @@
       925,
       928
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/49-advanced-the-letter-and-the-map.txt",
     "sections": [
       {
-        "heading": "अध्याय 1 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: मौसम, चांदी, मैच, अंजीर, बहन. नए शब्द: कोट, सामूहिक, कार्ड, बैंड, रस्सी, पर्ची, जीत. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: मौसम = season; चांदी = silver; मैच = match; अंजीर = fig; बहन = sister. New words: कोट = coat; सामूहिक = mass; कार्ड = card; बैंड = band; रस्सी = rope; पर्ची = slip; जीत = win. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह कात्या पुस्तकालय जाती है। वहाँ पास में पत्र और नक्शा है। कात्या धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “रास्ता।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Katya is in the library. There is letter and map nearby. Katya reads slowly and notices a new word: route. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "अध्याय 2 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: मौसम, चांदी, मैच, अंजीर, बहन. नए शब्द: सपना, शाम, शर्त, फ़ीड, उपकरण, संपूर्ण, बुनियादी. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: मौसम = season; चांदी = silver; मैच = match; अंजीर = fig; बहन = sister. New words: सपना = dream; शाम = evening; शर्त = condition; फ़ीड = feed; उपकरण = tool; संपूर्ण = total; बुनियादी = basic. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "कात्या अपनी कॉपी में “रास्ता” शब्द लिखती है। फिर कात्या “खोज” के बारे में सोचती है। जगह शांत है, इसलिए कात्या वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+        "en": "Katya writes the word route in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
       },
       {
-        "heading": "अध्याय 3 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: मौसम, चांदी, मैच, अंजीर, बहन. नए शब्द: गंध, घाटी, और न ही, डबल, सीट, जारी रखने के, खंड. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: मौसम = season; चांदी = silver; मैच = match; अंजीर = fig; बहन = sister. New words: गंध = smell; घाटी = valley; और न ही = nor; डबल = double; सीट = seat; जारी रखने के = continue; खंड = block. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "एक छोटी-सी समस्या आती है, लेकिन कात्या नए शब्दों का इस्तेमाल करती है। कात्या पत्र को देखती है, फिर नक्शा को देखती है, और एक आसान योजना बनाती है। अंत में कात्या एक साफ़ वाक्य कह सकती है।",
+        "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the letter, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
       },
       {
-        "heading": "अध्याय 4 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: मौसम, चांदी, मैच, अंजीर, बहन. नए शब्द: चार्ट, टोपी, बेचने, सफलता, कंपनी, घटाना, घटना. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: मौसम = season; चांदी = silver; मैच = match; अंजीर = fig; बहन = sister. New words: चार्ट = chart; टोपी = hat; बेचने = sell; सफलता = success; कंपनी = company; घटाना = subtract; घटना = event. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "बाद में कात्या एक व्यक्ति से मिलती है और एक सावधान प्रश्न पूछती है। उत्तर सरल है, पर मदद करता है। कात्या तीन और शब्द लिखती है और उन्हें दिन की कहानी से जोड़ती है.",
+        "en": "Later, Katya meets another person and asks one careful question. The answer is simple, but it helps. Katya writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "अध्याय 5 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: मौसम, चांदी, मैच, अंजीर, बहन. नए शब्द: विशेष, सौदा, तैरना, अवधि, विपरीत, पत्नी, जूता. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: मौसम = season; चांदी = silver; मैच = match; अंजीर = fig; बहन = sister. New words: विशेष = particular; सौदा = deal; तैरना = swim; अवधि = term; विपरीत = opposite; पत्नी = wife; जूता = shoe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "दिन के अंत में कात्या पूरा पृष्ठ ज़ोर से पढ़ती है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। कात्या मुस्कुराती है, क्योंकि सीखना अब संभव और पास लगता है.",
+        "en": "At the end of the day, Katya reads the whole page out loud. The words are not perfect yet, but they are familiar now. Katya smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "hindi-advanced-10",
+    "id": "hindi-advanced-50",
     "level": "advanced",
-    "title": "Advanced 10: शब्द 966-1000",
+    "title": "Advanced 50: The Language Feels Close",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2917,31 +2966,32 @@
       960,
       963
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/50-advanced-the-language-feels-close.txt",
     "sections": [
       {
-        "heading": "अध्याय 1 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: उपकरण, गंध, डबल, खंड, बेचने. नए शब्द: कंधे, प्रसार, व्यवस्था, शिविर, आविष्कार, कपास, Born. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: उपकरण = tool; गंध = smell; डबल = double; खंड = block; बेचने = sell. New words: कंधे = shoulder; प्रसार = spread; व्यवस्था = arrange; शिविर = camp; आविष्कार = invent; कपास = cotton; Born = born. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "सुबह इरीना पार्क जाती है। वहाँ पास में किताब और फ़ोन है। इरीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “भाषा।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+        "en": "In the morning, Irina is in the park. There is book and phone nearby. Irina reads slowly and notices a new word: language. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "अध्याय 2 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: उपकरण, गंध, डबल, खंड, बेचने. नए शब्द: निर्धारित, चौथाई गेलन, नौ, ट्रक, शोर, स्तर, संयोग. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: उपकरण = tool; गंध = smell; डबल = double; खंड = block; बेचने = sell. New words: निर्धारित = determine; चौथाई गेलन = quart; नौ = nine; ट्रक = truck; शोर = noise; स्तर = level; संयोग = chance. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "इरीना अपनी कॉपी में “भाषा” शब्द लिखती है। फिर इरीना “आत्मविश्वास” के बारे में सोचती है। जगह शांत है, इसलिए इरीना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+        "en": "Irina writes the word language in a notebook. Then Irina thinks about confidence. The place is quiet, so Irina reads the sentence again and says it softly."
       },
       {
-        "heading": "अध्याय 3 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: उपकरण, गंध, डबल, खंड, बेचने. नए शब्द: इकट्ठा, दुकान, खिंचाव, फेंक, चमक, संपत्ति, स्तंभ. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: उपकरण = tool; गंध = smell; डबल = double; खंड = block; बेचने = sell. New words: इकट्ठा = gather; दुकान = shop; खिंचाव = stretch; फेंक = throw; चमक = shine; संपत्ति = property; स्तंभ = column. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "एक छोटी-सी समस्या आती है, लेकिन इरीना नए शब्दों का इस्तेमाल करती है। इरीना किताब को देखती है, फिर फ़ोन को देखती है, और एक आसान योजना बनाती है। अंत में इरीना एक साफ़ वाक्य कह सकती है।",
+        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the book, looks at the phone, and makes a simple plan. By the end, Irina can say one clear sentence."
       },
       {
-        "heading": "अध्याय 4 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: उपकरण, गंध, डबल, खंड, बेचने. नए शब्द: अणु, चयन, गलत, ग्रे, दोहराना, आवश्यकता, विस्तृत. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: उपकरण = tool; गंध = smell; डबल = double; खंड = block; बेचने = sell. New words: अणु = molecule; चयन = select; गलत = wrong; ग्रे = gray; दोहराना = repeat; आवश्यकता = require; विस्तृत = broad. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "बाद में इरीना एक व्यक्ति से मिलती है और एक सावधान प्रश्न पूछती है। उत्तर सरल है, पर मदद करता है। इरीना तीन और शब्द लिखती है और उन्हें दिन की कहानी से जोड़ती है.",
+        "en": "Later, Irina meets another person and asks one careful question. The answer is simple, but it helps. Irina writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "अध्याय 5 / 5",
-        "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: उपकरण, गंध, डबल, खंड, बेचने. नए शब्द: तैयार, नमक, नाक, बहुवचन, क्रोध, दावा, महाद्वीप. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: उपकरण = tool; गंध = smell; डबल = double; खंड = block; बेचने = sell. New words: तैयार = prepare; नमक = salt; नाक = nose; बहुवचन = plural; क्रोध = anger; दावा = claim; महाद्वीप = continent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "दिन के अंत में इरीना पूरा पृष्ठ ज़ोर से पढ़ती है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। इरीना मुस्कुराती है, क्योंकि सीखना अब संभव और पास लगता है.",
+        "en": "At the end of the day, Irina reads the whole page out loud. The words are not perfect yet, but they are familiar now. Irina smiles because learning feels possible and close."
       }
     ]
   }

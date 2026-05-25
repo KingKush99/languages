@@ -2,7 +2,7 @@
   {
     "id": "arabic-beginner-01",
     "level": "beginner",
-    "title": "Beginner 01: الكلمات 1-9",
+    "title": "Beginner 01: Morning at Home",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -22,18 +22,19 @@
       9
     ],
     "reviewWords": [],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/01-beginner-morning-at-home.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "اليوم يقرأ الطالب صفحة قصيرة. الكلمات الجديدة: كما, أنا, له, أن, هو, كان, إلى, في, هي. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "Today the learner reads a short page. New words: كما = as; أنا = I; له = his; أن = that; هو = he; كان = was; إلى = for; في = on; هي = are. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب آنا إلى البيت. هناك شاي وكتاب بالقرب منه. تقرأ آنا ببطء وتلاحظ كلمة جديدة: «مدينة». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Anna is at home. There is tea and book nearby. Anna reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "arabic-beginner-02",
     "level": "beginner",
-    "title": "Beginner 02: الكلمات 10-18",
+    "title": "Beginner 02: Tea on the Table",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -59,18 +60,19 @@
       7,
       9
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/02-beginner-tea-on-the-table.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "اليوم يقرأ الطالب صفحة قصيرة. كلمات المراجعة: كما, له, هو, إلى, هي. الكلمات الجديدة: مع, هم, يكون, في, واحد, ديك, هذا, من, بواسطة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "Today the learner reads a short page. Review words: كما = as; له = his; هو = he; إلى = for; هي = are. New words: مع = with; هم = they; يكون = be; في = at; واحد = one; ديك = have; هذا = this; من = from; بواسطة = by. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب لينا إلى البيت. هناك شاي وخبز بالقرب منه. تقرأ لينا ببطء وتلاحظ كلمة جديدة: «طاولة». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Lena is at home. There is tea and bread nearby. Lena reads slowly and notices a new word: table. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "arabic-beginner-03",
     "level": "beginner",
-    "title": "Beginner 03: الكلمات 19-27",
+    "title": "Beginner 03: The Open Window",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -97,18 +99,19 @@
       13,
       16
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/03-beginner-the-open-window.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "اليوم يقرأ الطالب صفحة قصيرة. كلمات المراجعة: كما, أن, إلى, مع, في. الكلمات الجديدة: حار, كلمة, لكن, ما, بعض, هو, هو, أنت, أو. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "Today the learner reads a short page. Review words: كما = as; أن = that; إلى = for; مع = with; في = at. New words: حار = hot; كلمة = word; لكن = but; ما = what; بعض = some; هو = is; هو = it; أنت = you; أو = or. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، يذهب إيفان إلى البيت. هناك نافذة وكتاب بالقرب منه. يقرأ إيفان ببطء ويلاحظ كلمة جديدة: «مكتبة». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Ivan is at home. There is window and book nearby. Ivan reads slowly and notices a new word: library. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "arabic-beginner-04",
     "level": "beginner",
-    "title": "Beginner 04: الكلمات 28-36",
+    "title": "Beginner 04: Walking to the Park",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -137,18 +140,19 @@
       22,
       25
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/04-beginner-walking-to-the-park.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "اليوم يقرأ الطالب صفحة قصيرة. كلمات المراجعة: أن, إلى, مع, في, هذا. الكلمات الجديدة: كان, و, من, إلى, و, و, في, نحن, علبة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "Today the learner reads a short page. Review words: أن = that; إلى = for; مع = with; في = at; هذا = this. New words: كان = had; و = the; من = of; إلى = to; و = and; و = a; في = in; نحن = we; علبة = can. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب ماشا إلى الحديقة. هناك الأم والأخ بالقرب منه. تقرأ ماشا ببطء وتلاحظ كلمة جديدة: «صديق». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Masha is in the park. There is mother and brother nearby. Masha reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "arabic-beginner-05",
     "level": "beginner",
-    "title": "Beginner 05: الكلمات 37-44",
+    "title": "Beginner 05: A Quiet Street",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -176,18 +180,19 @@
       31,
       34
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/05-beginner-a-quiet-street.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "اليوم يقرأ الطالب صفحة قصيرة. كلمات المراجعة: في, هذا, حار, ما, هو. الكلمات الجديدة: خارج, البعض, و, التي, القيام, من, الوقت, إذا. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "Today the learner reads a short page. Review words: في = at; هذا = this; حار = hot; ما = what; هو = it. New words: خارج = out; البعض = other; و = were; التي = which; القيام = do; من = their; الوقت = time; إذا = if. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، يذهب بافل إلى الشارع. هناك بيت ونافذة بالقرب منه. يقرأ بافل ببطء ويلاحظ كلمة جديدة: «شارع». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Pavel is on the street. There is house and window nearby. Pavel reads slowly and notices a new word: street. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "arabic-beginner-06",
     "level": "beginner",
-    "title": "Beginner 06: الكلمات 45-52",
+    "title": "Beginner 06: The First Book",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -215,18 +220,19 @@
       39,
       42
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/06-beginner-the-first-book.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "اليوم يقرأ الطالب صفحة قصيرة. كلمات المراجعة: لكن, هو, أو, من, و. الكلمات الجديدة: سوف, كيف, قال, و, كل, أقول, لا, مجموعة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "Today the learner reads a short page. Review words: لكن = but; هو = is; أو = or; من = of; و = a. New words: سوف = will; كيف = how; قال = said; و = an; كل = each; أقول = tell; لا = does; مجموعة = set. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب أولغا إلى المكتبة. هناك كتاب وبطاقة بالقرب منه. تقرأ أولغا ببطء وتلاحظ كلمة جديدة: «كلمة». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Olga is in the library. There is book and card nearby. Olga reads slowly and notices a new word: word. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "arabic-beginner-07",
     "level": "beginner",
-    "title": "Beginner 07: الكلمات 53-60",
+    "title": "Beginner 07: A Good Day",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -254,18 +260,19 @@
       47,
       50
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/07-beginner-a-good-day.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "اليوم يقرأ الطالب صفحة قصيرة. كلمات المراجعة: و, و, نحن, البعض, القيام. الكلمات الجديدة: ثلاثة, تريد, هواء, جيد, أيضا, لعب, صغير, نهاية. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "Today the learner reads a short page. Review words: و = the; و = and; نحن = we; البعض = other; القيام = do. New words: ثلاثة = three; تريد = want; هواء = air; جيد = well; أيضا = also; لعب = play; صغير = small; نهاية = end. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، يذهب نيكولاي إلى الحديقة. هناك شمس وشجرة بالقرب منه. يقرأ نيكولاي ببطء ويلاحظ كلمة جديدة: «جيد». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Nikolay is in the park. There is sun and tree nearby. Nikolay reads slowly and notices a new word: good. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "arabic-beginner-08",
     "level": "beginner",
-    "title": "Beginner 08: الكلمات 61-68",
+    "title": "Beginner 08: At School",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -293,18 +300,19 @@
       55,
       58
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/08-beginner-at-school.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "اليوم يقرأ الطالب صفحة قصيرة. كلمات المراجعة: خارج, التي, الوقت, كيف, كل. الكلمات الجديدة: وضع, المنزل, قرأ, يد, ميناء, كبير, تهجى, إضافة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "Today the learner reads a short page. Review words: خارج = out; التي = which; الوقت = time; كيف = how; كل = each. New words: وضع = put; المنزل = home; قرأ = read; يد = hand; ميناء = port; كبير = large; تهجى = spell; إضافة = add. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، يذهب ساشا إلى المدرسة. هناك مكتب وقلم رصاص بالقرب منه. يقرأ ساشا ببطء ويلاحظ كلمة جديدة: «مدرسة». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Sasha is at school. There is desk and pencil nearby. Sasha reads slowly and notices a new word: school. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "arabic-beginner-09",
     "level": "beginner",
-    "title": "Beginner 09: الكلمات 69-76",
+    "title": "Beginner 09: At the Store",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -332,18 +340,19 @@
       63,
       66
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/09-beginner-at-the-store.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "اليوم يقرأ الطالب صفحة قصيرة. كلمات المراجعة: سوف, و, لا, تريد, أيضا. الكلمات الجديدة: حتى, الأرض, هنا, يجب, كبير, ارتفاع, مثل, تابع. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "Today the learner reads a short page. Review words: سوف = will; و = an; لا = does; تريد = want; أيضا = also. New words: حتى = even; الأرض = land; هنا = here; يجب = must; كبير = big; ارتفاع = high; مثل = such; تابع = follow. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب إيرينا إلى المتجر. هناك حقيبة وطعام بالقرب منه. تقرأ إيرينا ببطء وتلاحظ كلمة جديدة: «متجر». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Irina is in the store. There is bag and food nearby. Irina reads slowly and notices a new word: store. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "arabic-beginner-10",
     "level": "beginner",
-    "title": "Beginner 10: الكلمات 77-84",
+    "title": "Beginner 10: At the Station",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -371,18 +380,19 @@
       71,
       74
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/10-beginner-at-the-station.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "اليوم يقرأ الطالب صفحة قصيرة. كلمات المراجعة: ثلاثة, جيد, صغير, المنزل, ميناء. الكلمات الجديدة: فعل, لماذا, تطلب, الرجال, تغيير, ذهب, ضوء, نوع. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "Today the learner reads a short page. Review words: ثلاثة = three; جيد = well; صغير = small; المنزل = home; ميناء = port. New words: فعل = act; لماذا = why; تطلب = ask; الرجال = men; تغيير = change; ذهب = went; ضوء = light; نوع = kind. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب ماريا إلى المحطة. هناك شاي وتذكرة بالقرب منه. تقرأ ماريا ببطء وتلاحظ كلمة جديدة: «محطة». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Maria is at the station. There is tea and ticket nearby. Maria reads slowly and notices a new word: station. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "arabic-beginner-11",
     "level": "beginner",
-    "title": "Beginner 11: الكلمات 85-92",
+    "title": "Beginner 11: A Simple Call",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -410,18 +420,19 @@
       79,
       82
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/11-beginner-a-simple-call.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "اليوم يقرأ الطالب صفحة قصيرة. كلمات المراجعة: وضع, يد, تهجى, الأرض, كبير. الكلمات الجديدة: بعيدا, تحتاج, منزل, صور, محاولة, لنا, مرة أخرى, الحيوان. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "Today the learner reads a short page. Review words: وضع = put; يد = hand; تهجى = spell; الأرض = land; كبير = big. New words: بعيدا = off; تحتاج = need; منزل = house; صور = picture; محاولة = try; لنا = us; مرة أخرى = again; الحيوان = animal. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، يذهب ديما إلى البيت. هناك هاتف ودفتر بالقرب منه. يقرأ ديما ببطء ويلاحظ كلمة جديدة: «صديق». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Dima is at home. There is phone and notebook nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "arabic-beginner-12",
     "level": "beginner",
-    "title": "Beginner 12: الكلمات 93-100",
+    "title": "Beginner 12: I Know This Word",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -449,18 +460,19 @@
       87,
       90
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/12-beginner-i-know-this-word.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "اليوم يقرأ الطالب صفحة قصيرة. كلمات المراجعة: حتى, يجب, مثل, لماذا, تغيير. الكلمات الجديدة: نقطة, أم, العالم, قرب, بناء, النفس, أرض, الأب. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "Today the learner reads a short page. Review words: حتى = even; يجب = must; مثل = such; لماذا = why; تغيير = change. New words: نقطة = point; أم = mother; العالم = world; قرب = near; بناء = build; النفس = self; أرض = earth; الأب = father. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب كاتيا إلى الغرفة. هناك ورقة وكتاب بالقرب منه. تقرأ كاتيا ببطء وتلاحظ كلمة جديدة: «يعرف». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Katya is in the room. There is paper and book nearby. Katya reads slowly and notices a new word: know. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
-    "id": "arabic-elementary-01",
+    "id": "arabic-elementary-13",
     "level": "elementary",
-    "title": "Elementary 01: الكلمات 101-116",
+    "title": "Elementary 13: The Library Window",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -496,23 +508,24 @@
       95,
       98
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/13-elementary-the-library-window.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: فعل, الرجال, ضوء, تحتاج, محاولة. الكلمات الجديدة: أي, جديدة, العمل, جزء, أخذ, الحصول على, مكان, مصنوع. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: فعل = act; الرجال = men; ضوء = light; تحتاج = need; محاولة = try. New words: أي = any; جديدة = new; العمل = work; جزء = part; أخذ = take; الحصول على = get; مكان = place; مصنوع = made. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، يذهب بافل إلى المكتبة. هناك نافذة ودفتر بالقرب منه. يقرأ بافل ببطء ويلاحظ كلمة جديدة: «هدوء». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Pavel is in the library. There is window and notebook nearby. Pavel reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الصفحة 2",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: فعل, الرجال, ضوء, تحتاج, محاولة. الكلمات الجديدة: حي, حيث, بعد, ظهر, القليل, فقط, جولة, رجل. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: فعل = act; الرجال = men; ضوء = light; تحتاج = need; محاولة = try. New words: حي = live; حيث = where; بعد = after; ظهر = back; القليل = little; فقط = only; جولة = round; رجل = man. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "يكتب بافل كلمة «هدوء» في الدفتر. ثم يفكر في موضوع «قراءة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+        "en": "Pavel writes the word quiet in a notebook. Then Pavel thinks about reading. The place is quiet, so Pavel reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "arabic-elementary-02",
+    "id": "arabic-elementary-14",
     "level": "elementary",
-    "title": "Elementary 02: الكلمات 117-132",
+    "title": "Elementary 14: The Museum Visit",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -548,23 +561,24 @@
       111,
       114
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/14-elementary-the-museum-visit.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: نقطة, قرب, أرض, جديدة, أخذ. الكلمات الجديدة: عام, جاء, المعرض, كل, جيد, أنا, منح, لدينا. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: نقطة = point; قرب = near; أرض = earth; جديدة = new; أخذ = take. New words: عام = year; جاء = came; المعرض = show; كل = every; جيد = good; أنا = me; منح = give; لدينا = our. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، يذهب نيكولاي إلى المتحف. هناك تذكرة وصورة بالقرب منه. يقرأ نيكولاي ببطء ويلاحظ كلمة جديدة: «تاريخ». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Nikolay is in the museum. There is ticket and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الصفحة 2",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: نقطة, قرب, أرض, جديدة, أخذ. الكلمات الجديدة: تحت, اسم, جدا, من خلال, فقط, شكل, عقوبة, عظيم. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: نقطة = point; قرب = near; أرض = earth; جديدة = new; أخذ = take. New words: تحت = under; اسم = name; جدا = very; من خلال = through; فقط = just; شكل = form; عقوبة = sentence; عظيم = great. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "يكتب نيكولاي كلمة «تاريخ» في الدفتر. ثم يفكر في موضوع «ذاكرة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+        "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about memory. The place is quiet, so Nikolay reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "arabic-elementary-03",
+    "id": "arabic-elementary-15",
     "level": "elementary",
-    "title": "Elementary 03: الكلمات 133-148",
+    "title": "Elementary 15: The Cafe Notebook",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -600,23 +614,24 @@
       127,
       130
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/15-elementary-the-cafe-notebook.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: حي, ظهر, جولة, جاء, جيد. الكلمات الجديدة: اعتقد, قول, مساعدة, منخفض, خط, اختلف, منعطف, السبب. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: حي = live; ظهر = back; جولة = round; جاء = came; جيد = good. New words: اعتقد = think; قول = say; مساعدة = help; منخفض = low; خط = line; اختلف = differ; منعطف = turn; السبب = cause. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب أولغا إلى المقهى. هناك شاي وموسيقى بالقرب منه. تقرأ أولغا ببطء وتلاحظ كلمة جديدة: «لحن». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Olga is in the cafe. There is tea and music nearby. Olga reads slowly and notices a new word: melody. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الصفحة 2",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: حي, ظهر, جولة, جاء, جيد. الكلمات الجديدة: كثيرا, متوسط, قبل, خطوة, الحق, صبي, قديم, أيضا. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: حي = live; ظهر = back; جولة = round; جاء = came; جيد = good. New words: كثيرا = much; متوسط = mean; قبل = before; خطوة = move; الحق = right; صبي = boy; قديم = old; أيضا = too. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "تكتب أولغا كلمة «لحن» في الدفتر. ثم تفكر في موضوع «استماع». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+        "en": "Olga writes the word melody in a notebook. Then Olga thinks about listening. The place is quiet, so Olga reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "arabic-elementary-04",
+    "id": "arabic-elementary-16",
     "level": "elementary",
-    "title": "Elementary 04: الكلمات 149-164",
+    "title": "Elementary 16: Rain Near the Door",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -652,23 +667,24 @@
       143,
       146
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/16-elementary-rain-near-the-door.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: تحت, من خلال, عقوبة, قول, خط. الكلمات الجديدة: نفسه, هي, كل, هناك, عندما, فوق, استخدام, ك. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: تحت = under; من خلال = through; عقوبة = sentence; قول = say; خط = line. New words: نفسه = same; هي = she; كل = all; هناك = there; عندما = when; فوق = up; استخدام = use; ك = your. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، يذهب ديما إلى متجر الكتب. هناك باب وكتاب بالقرب منه. يقرأ ديما ببطء ويلاحظ كلمة جديدة: «طريق». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Dima is in the bookshop. There is door and book nearby. Dima reads slowly and notices a new word: road. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الصفحة 2",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: تحت, من خلال, عقوبة, قول, خط. الكلمات الجديدة: طريق, حول, كثير, ثم, هم, إرسال, أراد, مثل. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: تحت = under; من خلال = through; عقوبة = sentence; قول = say; خط = line. New words: طريق = way; حول = about; كثير = many; ثم = then; هم = them; إرسال = write; أراد = would; مثل = like. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "يكتب ديما كلمة «طريق» في الدفتر. ثم يفكر في موضوع «مطر». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+        "en": "Dima writes the word road in a notebook. Then Dima thinks about rain. The place is quiet, so Dima reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "arabic-elementary-05",
+    "id": "arabic-elementary-17",
     "level": "elementary",
-    "title": "Elementary 05: الكلمات 165-180",
+    "title": "Elementary 17: The Letter on the Table",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -704,23 +720,24 @@
       159,
       162
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/17-elementary-the-letter-on-the-table.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: كثيرا, خطوة, قديم, هي, عندما. الكلمات الجديدة: هكذا, هؤلاء, لها, طويل, جعل, شيء, شاهد, له. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: كثيرا = much; خطوة = move; قديم = old; هي = she; عندما = when. New words: هكذا = so; هؤلاء = these; لها = her; طويل = long; جعل = make; شيء = thing; شاهد = see; له = him. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، يذهب ساشا إلى الجامعة. هناك رسالة وطاولة بالقرب منه. يقرأ ساشا ببطء ويلاحظ كلمة جديدة: «لقاء». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Sasha is at the university. There is letter and table nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الصفحة 2",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: كثيرا, خطوة, قديم, هي, عندما. الكلمات الجديدة: اثنين, لديه, بحث, أكثر, يوم, يمكن, تذهب, جاء. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: كثيرا = much; خطوة = move; قديم = old; هي = she; عندما = when. New words: اثنين = two; لديه = has; بحث = look; أكثر = more; يوم = day; يمكن = could; تذهب = go; جاء = come. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "يكتب ساشا كلمة «لقاء» في الدفتر. ثم يفكر في موضوع «دعوة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+        "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about invitation. The place is quiet, so Sasha reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "arabic-elementary-06",
+    "id": "arabic-elementary-18",
     "level": "elementary",
-    "title": "Elementary 06: الكلمات 181-196",
+    "title": "Elementary 18: Words in the Park",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -756,23 +773,24 @@
       175,
       178
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/18-elementary-words-in-the-park.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: طريق, ثم, أراد, هؤلاء, جعل. الكلمات الجديدة: لم, عدد, صوت, لا, أكثر, الناس, لي, على. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: طريق = way; ثم = then; أراد = would; هؤلاء = these; جعل = make. New words: لم = did; عدد = number; صوت = sound; لا = no; أكثر = most; الناس = people; لي = my; على = over. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب إيرينا إلى الحديقة. هناك هاتف وشاي بالقرب منه. تقرأ إيرينا ببطء وتلاحظ كلمة جديدة: «ثلاثة». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Irina is in the park. There is phone and tea nearby. Irina reads slowly and notices a new word: three. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الصفحة 2",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: طريق, ثم, أراد, هؤلاء, جعل. الكلمات الجديدة: تعرف, ماء, من, دعوة, الأول, الذي, قد, إلى. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: طريق = way; ثم = then; أراد = would; هؤلاء = these; جعل = make. New words: تعرف = know; ماء = water; من = than; دعوة = call; الأول = first; الذي = who; قد = may; إلى = down. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "تكتب إيرينا كلمة «ثلاثة» في الدفتر. ثم تفكر في موضوع «كلام». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+        "en": "Irina writes the word three in a notebook. Then Irina thinks about speaking. The place is quiet, so Irina reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "arabic-elementary-07",
+    "id": "arabic-elementary-19",
     "level": "elementary",
-    "title": "Elementary 07: الكلمات 197-212",
+    "title": "Elementary 19: The Little Plan",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -808,23 +826,24 @@
       191,
       194
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/19-elementary-the-little-plan.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: اثنين, أكثر, تذهب, عدد, أكثر. الكلمات الجديدة: الجانب, كان, الآن, اكتشاف, رئيس, الوقوف, الخاصة, الصفحة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: اثنين = two; أكثر = more; تذهب = go; عدد = number; أكثر = most. New words: الجانب = side; كان = been; الآن = now; اكتشاف = find; رئيس = head; الوقوف = stand; الخاصة = own; الصفحة = page. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب لينا إلى المتجر. هناك خريطة وسلة بالقرب منه. تقرأ لينا ببطء وتلاحظ كلمة جديدة: «خطة». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Lena is in the store. There is map and basket nearby. Lena reads slowly and notices a new word: plan. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الصفحة 2",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: اثنين, أكثر, تذهب, عدد, أكثر. الكلمات الجديدة: ينبغي, بلد, أسس, الجواب, المدرسة, تنمو, دراسة, لا يزال. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: اثنين = two; أكثر = more; تذهب = go; عدد = number; أكثر = most. New words: ينبغي = should; بلد = country; أسس = found; الجواب = answer; المدرسة = school; تنمو = grow; دراسة = study; لا يزال = still. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "تكتب لينا كلمة «خطة» في الدفتر. ثم تفكر في موضوع «تسوق». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+        "en": "Lena writes the word plan in a notebook. Then Lena thinks about shopping. The place is quiet, so Lena reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "arabic-elementary-08",
+    "id": "arabic-elementary-20",
     "level": "elementary",
-    "title": "Elementary 08: الكلمات 213-228",
+    "title": "Elementary 20: The News Page",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -860,23 +879,24 @@
       207,
       210
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/20-elementary-the-news-page.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: تعرف, دعوة, قد, كان, رئيس. الكلمات الجديدة: تعلم, مصنع, غطاء, غذاء, شمس, أربعة, بين, دولة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: تعرف = know; دعوة = call; قد = may; كان = been; رئيس = head. New words: تعلم = learn; مصنع = plant; غطاء = cover; غذاء = food; شمس = sun; أربعة = four; بين = between; دولة = state. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب ماريا إلى المحطة. هناك شاي وجريدة بالقرب منه. تقرأ ماريا ببطء وتلاحظ كلمة جديدة: «خبر». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Maria is at the station. There is tea and newspaper nearby. Maria reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الصفحة 2",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: تعرف, دعوة, قد, كان, رئيس. الكلمات الجديدة: احتفظ, العين, أبدا, آخر, سمح, يعتقد, المدينة, شجرة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: تعرف = know; دعوة = call; قد = may; كان = been; رئيس = head. New words: احتفظ = keep; العين = eye; أبدا = never; آخر = last; سمح = let; يعتقد = thought; المدينة = city; شجرة = tree. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "تكتب ماريا كلمة «خبر» في الدفتر. ثم تفكر في موضوع «تفكير». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+        "en": "Maria writes the word news in a notebook. Then Maria thinks about thinking. The place is quiet, so Maria reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "arabic-elementary-09",
+    "id": "arabic-elementary-21",
     "level": "elementary",
-    "title": "Elementary 09: الكلمات 229-244",
+    "title": "Elementary 21: The Family Walk",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -912,23 +932,24 @@
       223,
       226
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/21-elementary-the-family-walk.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: ينبغي, الجواب, دراسة, مصنع, شمس. الكلمات الجديدة: عبور, مزرعة, شاق, بداية, قد, قصة, منشار, الآن. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: ينبغي = should; الجواب = answer; دراسة = study; مصنع = plant; شمس = sun. New words: عبور = cross; مزرعة = farm; شاق = hard; بداية = start; قد = might; قصة = story; منشار = saw; الآن = far. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب آنا إلى الحديقة. هناك الأم والأخ بالقرب منه. تقرأ آنا ببطء وتلاحظ كلمة جديدة: «بيت». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Anna is in the park. There is mother and brother nearby. Anna reads slowly and notices a new word: house. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الصفحة 2",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: ينبغي, الجواب, دراسة, مصنع, شمس. الكلمات الجديدة: بحر, رسم, غادر, متأخر, تشغيل, لا, في حين, الصحافة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: ينبغي = should; الجواب = answer; دراسة = study; مصنع = plant; شمس = sun. New words: بحر = sea; رسم = draw; غادر = left; متأخر = late; تشغيل = run; لا = don’t; في حين = while; الصحافة = press. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "تكتب آنا كلمة «بيت» في الدفتر. ثم تفكر في موضوع «عائلة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+        "en": "Anna writes the word house in a notebook. Then Anna thinks about family. The place is quiet, so Anna reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "arabic-elementary-10",
+    "id": "arabic-elementary-22",
     "level": "elementary",
-    "title": "Elementary 10: الكلمات 245-260",
+    "title": "Elementary 22: The Quiet Room",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -964,23 +985,24 @@
       239,
       242
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/22-elementary-the-quiet-room.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: احتفظ, آخر, المدينة, مزرعة, قد. الكلمات الجديدة: قريب, الليل, حقيقية, حياة, قليل, شمال, كتاب, حمل. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: احتفظ = keep; آخر = last; المدينة = city; مزرعة = farm; قد = might. New words: قريب = close; الليل = night; حقيقية = real; حياة = life; قليل = few; شمال = north; كتاب = book; حمل = carry. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، يذهب إيفان إلى الغرفة. هناك كرسي وكتاب بالقرب منه. يقرأ إيفان ببطء ويلاحظ كلمة جديدة: «غرفة». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Ivan is in the room. There is chair and book nearby. Ivan reads slowly and notices a new word: room. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الصفحة 2",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: احتفظ, آخر, المدينة, مزرعة, قد. الكلمات الجديدة: استغرق, علم, أكل, غرفة, صديق, بدأ, فكرة, سمك. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: احتفظ = keep; آخر = last; المدينة = city; مزرعة = farm; قد = might. New words: استغرق = took; علم = science; أكل = eat; غرفة = room; صديق = friend; بدأ = began; فكرة = idea; سمك = fish. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "يكتب إيفان كلمة «غرفة» في الدفتر. ثم يفكر في موضوع «صمت». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+        "en": "Ivan writes the word room in a notebook. Then Ivan thinks about silence. The place is quiet, so Ivan reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "arabic-elementary-11",
+    "id": "arabic-elementary-23",
     "level": "elementary",
-    "title": "Elementary 11: الكلمات 261-275",
+    "title": "Elementary 23: The New Teacher",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1015,23 +1037,24 @@
       255,
       258
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/23-elementary-the-new-teacher.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: بحر, متأخر, في حين, الليل, قليل. الكلمات الجديدة: الجبل, توقف, مرة واحدة, قاعدة, سمع, الحصان, قطع, بالتأكيد. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: بحر = sea; متأخر = late; في حين = while; الليل = night; قليل = few. New words: الجبل = mountain; توقف = stop; مرة واحدة = once; قاعدة = base; سمع = hear; الحصان = horse; قطع = cut; بالتأكيد = sure. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب ماشا إلى المدرسة. هناك معلم ولوحة بالقرب منه. تقرأ ماشا ببطء وتلاحظ كلمة جديدة: «سؤال». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Masha is at school. There is teacher and board nearby. Masha reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الصفحة 2",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: بحر, متأخر, في حين, الليل, قليل. الكلمات الجديدة: راقب, لون, وجه, الخشب, رئيسي, مفتوحة, يبدو. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: بحر = sea; متأخر = late; في حين = while; الليل = night; قليل = few. New words: راقب = watch; لون = color; وجه = face; الخشب = wood; رئيسي = main; مفتوحة = open; يبدو = seem. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "تكتب ماشا كلمة «سؤال» في الدفتر. ثم تفكر في موضوع «تعلم». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+        "en": "Masha writes the word question in a notebook. Then Masha thinks about learning. The place is quiet, so Masha reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "arabic-elementary-12",
+    "id": "arabic-elementary-24",
     "level": "elementary",
-    "title": "Elementary 12: الكلمات 276-290",
+    "title": "Elementary 24: The Bus Stop",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1066,23 +1089,24 @@
       270,
       273
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/24-elementary-the-bus-stop.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: حمل, أكل, بدأ, الجبل, قاعدة. الكلمات الجديدة: معا, المقبل, أبيض, الأطفال, بدأ, حصلت, سير, مثال. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: حمل = carry; أكل = eat; بدأ = began; الجبل = mountain; قاعدة = base. New words: معا = together; المقبل = next; أبيض = white; الأطفال = children; بدأ = begin; حصلت = got; سير = walk; مثال = example. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، يذهب بافل إلى الشارع. هناك تذكرة وحافلة بالقرب منه. يقرأ بافل ببطء ويلاحظ كلمة جديدة: «وقت». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Pavel is on the street. There is ticket and bus nearby. Pavel reads slowly and notices a new word: time. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الصفحة 2",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: حمل, أكل, بدأ, الجبل, قاعدة. الكلمات الجديدة: سهولة, ورق, مجموعة, دائما, الموسيقى, تلك, كلا. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: حمل = carry; أكل = eat; بدأ = began; الجبل = mountain; قاعدة = base. New words: سهولة = ease; ورق = paper; مجموعة = group; دائما = always; الموسيقى = music; تلك = those; كلا = both. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "يكتب بافل كلمة «وقت» في الدفتر. ثم يفكر في موضوع «انتظار». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+        "en": "Pavel writes the word time in a notebook. Then Pavel thinks about waiting. The place is quiet, so Pavel reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "arabic-elementary-13",
+    "id": "arabic-elementary-25",
     "level": "elementary",
-    "title": "Elementary 13: الكلمات 291-305",
+    "title": "Elementary 25: The Small Market",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1117,23 +1141,24 @@
       285,
       288
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/25-elementary-the-small-market.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: قطع, لون, رئيسي, معا, الأطفال. الكلمات الجديدة: علامة, غالبا, الرسالة, حتى, ميل, النهر, سيارة, قدم. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: قطع = cut; لون = color; رئيسي = main; معا = together; الأطفال = children. New words: علامة = mark; غالبا = often; الرسالة = letter; حتى = until; ميل = mile; النهر = river; سيارة = car; قدم = feet. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب أولغا إلى السوق. هناك فاكهة وحقيبة بالقرب منه. تقرأ أولغا ببطء وتلاحظ كلمة جديدة: «مال». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Olga is at the market. There is fruit and bag nearby. Olga reads slowly and notices a new word: money. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الصفحة 2",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: قطع, لون, رئيسي, معا, الأطفال. الكلمات الجديدة: الرعاية, ثان, بما فيه الكفاية, سهل, فتاة, معتاد, الشباب. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: قطع = cut; لون = color; رئيسي = main; معا = together; الأطفال = children. New words: الرعاية = care; ثان = second; بما فيه الكفاية = enough; سهل = plain; فتاة = girl; معتاد = usual; الشباب = young. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "تكتب أولغا كلمة «مال» في الدفتر. ثم تفكر في موضوع «سوق». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+        "en": "Olga writes the word money in a notebook. Then Olga thinks about market. The place is quiet, so Olga reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "arabic-elementary-14",
+    "id": "arabic-elementary-26",
     "level": "elementary",
-    "title": "Elementary 14: الكلمات 306-320",
+    "title": "Elementary 26: The First Conversation",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1168,23 +1193,24 @@
       300,
       303
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/26-elementary-the-first-conversation.txt",
     "sections": [
       {
-        "heading": "الصفحة 1",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: سير, ورق, الموسيقى, علامة, حتى. الكلمات الجديدة: جاهزة, فوق, أبدا, أحمر, قائمة, على الرغم من, إحساس, الحديث. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: سير = walk; ورق = paper; الموسيقى = music; علامة = mark; حتى = until. New words: جاهزة = ready; فوق = above; أبدا = ever; أحمر = red; قائمة = list; على الرغم من = though; إحساس = feel; الحديث = talk. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، يذهب ديما إلى المقهى. هناك هاتف وصديق بالقرب منه. يقرأ ديما ببطء ويلاحظ كلمة جديدة: «جملة». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Dima is in the cafe. There is phone and friend nearby. Dima reads slowly and notices a new word: sentence. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الصفحة 2",
-        "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: سير, ورق, الموسيقى, علامة, حتى. الكلمات الجديدة: طائر, قريبا, هيئة, الكلب, عائلة, مباشر, أربك. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: سير = walk; ورق = paper; الموسيقى = music; علامة = mark; حتى = until. New words: طائر = bird; قريبا = soon; هيئة = body; الكلب = dog; عائلة = family; مباشر = direct; أربك = pose. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "يكتب ديما كلمة «جملة» في الدفتر. ثم يفكر في موضوع «حديث». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+        "en": "Dima writes the word sentence in a notebook. Then Dima thinks about talk. The place is quiet, so Dima reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "arabic-intermediate-01",
+    "id": "arabic-intermediate-27",
     "level": "intermediate",
-    "title": "Intermediate 01: الكلمات 321-344",
+    "title": "Intermediate 27: The Lost Note",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1228,28 +1254,29 @@
       315,
       318
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/27-intermediate-the-lost-note.txt",
     "sections": [
       {
-        "heading": "الفصل 1 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: سيارة, ثان, فتاة, جاهزة, أحمر. الكلمات الجديدة: ترك, أغنية, قياس, باب, نتاج, أسود, قصير, الأرقام. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: سيارة = car; ثان = second; فتاة = girl; جاهزة = ready; أحمر = red. New words: ترك = leave; أغنية = song; قياس = measure; باب = door; نتاج = product; أسود = black; قصير = short; الأرقام = numeral. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب كاتيا إلى المكتبة. هناك ملاحظة وخريطة بالقرب منه. تقرأ كاتيا ببطء وتلاحظ كلمة جديدة: «مكان». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Katya is in the library. There is note and map nearby. Katya reads slowly and notices a new word: place. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الفصل 2 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: سيارة, ثان, فتاة, جاهزة, أحمر. الكلمات الجديدة: الفئة, الرياح, السؤال, يحدث, كاملة, سفينة, منطقة, نصف. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: سيارة = car; ثان = second; فتاة = girl; جاهزة = ready; أحمر = red. New words: الفئة = class; الرياح = wind; السؤال = question; يحدث = happen; كاملة = complete; سفينة = ship; منطقة = area; نصف = half. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "تكتب كاتيا كلمة «مكان» في الدفتر. ثم تفكر في موضوع «بحث». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+        "en": "Katya writes the word place in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
       },
       {
-        "heading": "الفصل 3 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: سيارة, ثان, فتاة, جاهزة, أحمر. الكلمات الجديدة: صخرة, النظام, النار, الجنوب, مشكلة, قطعة, قال, عرف. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: سيارة = car; ثان = second; فتاة = girl; جاهزة = ready; أحمر = red. New words: صخرة = rock; النظام = order; النار = fire; الجنوب = south; مشكلة = problem; قطعة = piece; قال = told; عرف = knew. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "تظهر مشكلة صغيرة، لكن كاتيا تستخدم الكلمات الجديدة. تنظر إلى ملاحظة، ثم إلى خريطة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+        "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the note, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
       }
     ]
   },
   {
-    "id": "arabic-intermediate-02",
+    "id": "arabic-intermediate-28",
     "level": "intermediate",
-    "title": "Intermediate 02: الكلمات 345-368",
+    "title": "Intermediate 28: A Meeting at Noon",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1293,28 +1320,29 @@
       339,
       342
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/28-intermediate-a-meeting-at-noon.txt",
     "sections": [
       {
-        "heading": "الفصل 1 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: ترك, باب, قصير, الرياح, كاملة. الكلمات الجديدة: تمر, منذ, أعلى, ككل, ملك, شارع, بوصة, مضاعفة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: ترك = leave; باب = door; قصير = short; الرياح = wind; كاملة = complete. New words: تمر = pass; منذ = since; أعلى = top; ككل = whole; ملك = king; شارع = street; بوصة = inch; مضاعفة = multiply. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، يذهب ساشا إلى الجامعة. هناك ساعة ورسالة بالقرب منه. يقرأ ساشا ببطء ويلاحظ كلمة جديدة: «ظهر». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Sasha is at the university. There is clock and letter nearby. Sasha reads slowly and notices a new word: noon. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الفصل 2 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: ترك, باب, قصير, الرياح, كاملة. الكلمات الجديدة: لا شيء, بالطبع, إقامة, عجلة, كامل, قوة, الأزرق, موضوع. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: ترك = leave; باب = door; قصير = short; الرياح = wind; كاملة = complete. New words: لا شيء = nothing; بالطبع = course; إقامة = stay; عجلة = wheel; كامل = full; قوة = force; الأزرق = blue; موضوع = object. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "يكتب ساشا كلمة «ظهر» في الدفتر. ثم يفكر في موضوع «لقاء». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+        "en": "Sasha writes the word noon in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
       },
       {
-        "heading": "الفصل 3 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: ترك, باب, قصير, الرياح, كاملة. الكلمات الجديدة: تقرر, سطح, عميق, ضوء القمر, الجزيرة, القدم, نظام, مشغول. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: ترك = leave; باب = door; قصير = short; الرياح = wind; كاملة = complete. New words: تقرر = decide; سطح = surface; عميق = deep; ضوء القمر = moon; الجزيرة = island; القدم = foot; نظام = system; مشغول = busy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "تظهر مشكلة صغيرة، لكن ساشا يستخدم الكلمات الجديدة. ينظر إلى ساعة، ثم إلى رسالة، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
+        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the clock, looks at the letter, and makes a simple plan. By the end, Sasha can say one clear sentence."
       }
     ]
   },
   {
-    "id": "arabic-intermediate-03",
+    "id": "arabic-intermediate-29",
     "level": "intermediate",
-    "title": "Intermediate 03: الكلمات 369-392",
+    "title": "Intermediate 29: The Old Map",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1358,28 +1386,29 @@
       363,
       366
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/29-intermediate-the-old-map.txt",
     "sections": [
       {
-        "heading": "الفصل 1 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: تمر, ككل, بوصة, بالطبع, كامل. الكلمات الجديدة: اختبار, سجل, قارب, مشترك, الذهب, ممكن, طائرة, بدلا. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: تمر = pass; ككل = whole; بوصة = inch; بالطبع = course; كامل = full. New words: اختبار = test; سجل = record; قارب = boat; مشترك = common; الذهب = gold; ممكن = possible; طائرة = plane; بدلا = stead. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، يذهب نيكولاي إلى المتحف. هناك خريطة وشارع بالقرب منه. يقرأ نيكولاي ببطء ويلاحظ كلمة جديدة: «مدينة». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Nikolay is in the museum. There is map and street nearby. Nikolay reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الفصل 2 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: تمر, ككل, بوصة, بالطبع, كامل. الكلمات الجديدة: جاف, عجب, الضحك, ألف, منذ, ركض, تحقق, لعبة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: تمر = pass; ككل = whole; بوصة = inch; بالطبع = course; كامل = full. New words: جاف = dry; عجب = wonder; الضحك = laugh; ألف = thousand; منذ = ago; ركض = ran; تحقق = check; لعبة = game. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "يكتب نيكولاي كلمة «مدينة» في الدفتر. ثم يفكر في موضوع «تاريخ». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+        "en": "Nikolay writes the word city in a notebook. Then Nikolay thinks about history. The place is quiet, so Nikolay reads the sentence again and says it softly."
       },
       {
-        "heading": "الفصل 3 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: تمر, ككل, بوصة, بالطبع, كامل. الكلمات الجديدة: شكل, مساواة, حار, ملكة جمال, جلبت, حرارة, ثلج, إطار العجلة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: تمر = pass; ككل = whole; بوصة = inch; بالطبع = course; كامل = full. New words: شكل = shape; مساواة = equate; حار = hot; ملكة جمال = miss; جلبت = brought; حرارة = heat; ثلج = snow; إطار العجلة = tire. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "تظهر مشكلة صغيرة، لكن نيكولاي يستخدم الكلمات الجديدة. ينظر إلى خريطة، ثم إلى شارع، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
+        "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the map, looks at the street, and makes a simple plan. By the end, Nikolay can say one clear sentence."
       }
     ]
   },
   {
-    "id": "arabic-intermediate-04",
+    "id": "arabic-intermediate-30",
     "level": "intermediate",
-    "title": "Intermediate 04: الكلمات 393-416",
+    "title": "Intermediate 30: The Rainy Lesson",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1423,28 +1452,29 @@
       387,
       390
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/30-intermediate-the-rainy-lesson.txt",
     "sections": [
       {
-        "heading": "الفصل 1 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: اختبار, مشترك, طائرة, عجب, منذ. الكلمات الجديدة: جلب, نعم, بعيد, شغل, الشرق, الطلاء, اللغة, بين. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: اختبار = test; مشترك = common; طائرة = plane; عجب = wonder; منذ = ago. New words: جلب = bring; نعم = yes; بعيد = distant; شغل = fill; الشرق = east; الطلاء = paint; اللغة = language; بين = among. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب إيرينا إلى المدرسة. هناك نافذة ومطر بالقرب منه. تقرأ إيرينا ببطء وتلاحظ كلمة جديدة: «طقس». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Irina is at school. There is window and rain nearby. Irina reads slowly and notices a new word: weather. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الفصل 2 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: اختبار, مشترك, طائرة, عجب, منذ. الكلمات الجديدة: وحدة, قوة, مدينة, غرامة, معين, يطير, سقط, قيادة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: اختبار = test; مشترك = common; طائرة = plane; عجب = wonder; منذ = ago. New words: وحدة = unit; قوة = power; مدينة = town; غرامة = fine; معين = certain; يطير = fly; سقط = fall; قيادة = lead. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "تكتب إيرينا كلمة «طقس» في الدفتر. ثم تفكر في موضوع «دراسة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+        "en": "Irina writes the word weather in a notebook. Then Irina thinks about study. The place is quiet, so Irina reads the sentence again and says it softly."
       },
       {
-        "heading": "الفصل 3 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: اختبار, مشترك, طائرة, عجب, منذ. الكلمات الجديدة: صرخة, مظلم, آلة, مذكرة, انتظر, خطة, الرقم, نجمة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: اختبار = test; مشترك = common; طائرة = plane; عجب = wonder; منذ = ago. New words: صرخة = cry; مظلم = dark; آلة = machine; مذكرة = note; انتظر = wait; خطة = plan; الرقم = figure; نجمة = star. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "تظهر مشكلة صغيرة، لكن إيرينا تستخدم الكلمات الجديدة. تنظر إلى نافذة، ثم إلى مطر، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the window, looks at the rain, and makes a simple plan. By the end, Irina can say one clear sentence."
       }
     ]
   },
   {
-    "id": "arabic-intermediate-05",
+    "id": "arabic-intermediate-31",
     "level": "intermediate",
-    "title": "Intermediate 05: الكلمات 417-440",
+    "title": "Intermediate 31: The Museum Question",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1488,28 +1518,29 @@
       411,
       414
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/31-intermediate-the-museum-question.txt",
     "sections": [
       {
-        "heading": "الفصل 1 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: جلب, شغل, اللغة, قوة, معين. الكلمات الجديدة: صندوق, إسم, الحقل, بقية, صحيح, قادرة, الجنيه, منجز. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: جلب = bring; شغل = fill; اللغة = language; قوة = power; معين = certain. New words: صندوق = box; إسم = noun; الحقل = field; بقية = rest; صحيح = correct; قادرة = able; الجنيه = pound; منجز = done. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، يذهب بافل إلى المتحف. هناك صورة ودفتر بالقرب منه. يقرأ بافل ببطء ويلاحظ كلمة جديدة: «سؤال». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Pavel is in the museum. There is picture and notebook nearby. Pavel reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الفصل 2 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: جلب, شغل, اللغة, قوة, معين. الكلمات الجديدة: الجمال, محرك, وقفت, تحتوي على, الجبهة, تعليم, أسبوع, نهائي. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: جلب = bring; شغل = fill; اللغة = language; قوة = power; معين = certain. New words: الجمال = beauty; محرك = drive; وقفت = stood; تحتوي على = contain; الجبهة = front; تعليم = teach; أسبوع = week; نهائي = final. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "يكتب بافل كلمة «سؤال» في الدفتر. ثم يفكر في موضوع «جواب». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+        "en": "Pavel writes the word question in a notebook. Then Pavel thinks about answer. The place is quiet, so Pavel reads the sentence again and says it softly."
       },
       {
-        "heading": "الفصل 3 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: جلب, شغل, اللغة, قوة, معين. الكلمات الجديدة: أعطى, الأخضر, يا, سريع, تطوير, المحيط, الحارة, حر. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: جلب = bring; شغل = fill; اللغة = language; قوة = power; معين = certain. New words: أعطى = gave; الأخضر = green; يا = oh; سريع = quick; تطوير = develop; المحيط = ocean; الحارة = warm; حر = free. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "تظهر مشكلة صغيرة، لكن بافل يستخدم الكلمات الجديدة. ينظر إلى صورة، ثم إلى دفتر، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
+        "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the picture, looks at the notebook, and makes a simple plan. By the end, Pavel can say one clear sentence."
       }
     ]
   },
   {
-    "id": "arabic-intermediate-06",
+    "id": "arabic-intermediate-32",
     "level": "intermediate",
-    "title": "Intermediate 06: الكلمات 441-464",
+    "title": "Intermediate 32: The Train Delay",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1553,28 +1584,29 @@
       435,
       438
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/32-intermediate-the-train-delay.txt",
     "sections": [
       {
-        "heading": "الفصل 1 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: صندوق, بقية, الجنيه, محرك, الجبهة. الكلمات الجديدة: دقيقة, قوي, خاص, عقل, خلف, واضح, ذيل, إنتاج. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: صندوق = box; بقية = rest; الجنيه = pound; محرك = drive; الجبهة = front. New words: دقيقة = minute; قوي = strong; خاص = special; عقل = mind; خلف = behind; واضح = clear; ذيل = tail; إنتاج = produce. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب ماريا إلى المحطة. هناك تذكرة وساعة بالقرب منه. تقرأ ماريا ببطء وتلاحظ كلمة جديدة: «ينتظر». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Maria is at the station. There is ticket and clock nearby. Maria reads slowly and notices a new word: wait. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الفصل 2 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: صندوق, بقية, الجنيه, محرك, الجبهة. الكلمات الجديدة: حقيقة, الفضاء, سمعت, أفضل, ساعة, أفضل, صحيح, خلال. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: صندوق = box; بقية = rest; الجنيه = pound; محرك = drive; الجبهة = front. New words: حقيقة = fact; الفضاء = space; سمعت = heard; أفضل = best; ساعة = hour; أفضل = better; صحيح = true; خلال = during. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "تكتب ماريا كلمة «ينتظر» في الدفتر. ثم تفكر في موضوع «سفر». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+        "en": "Maria writes the word wait in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
       },
       {
-        "heading": "الفصل 3 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: صندوق, بقية, الجنيه, محرك, الجبهة. الكلمات الجديدة: مائة, خمسة, تذكر, خطوة, في وقت مبكر, عقد, غرب, أرض. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: صندوق = box; بقية = rest; الجنيه = pound; محرك = drive; الجبهة = front. New words: مائة = hundred; خمسة = five; تذكر = remember; خطوة = step; في وقت مبكر = early; عقد = hold; غرب = west; أرض = ground. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "تظهر مشكلة صغيرة، لكن ماريا تستخدم الكلمات الجديدة. تنظر إلى تذكرة، ثم إلى ساعة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+        "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the clock, and makes a simple plan. By the end, Maria can say one clear sentence."
       }
     ]
   },
   {
-    "id": "arabic-intermediate-07",
+    "id": "arabic-intermediate-33",
     "level": "intermediate",
-    "title": "Intermediate 07: الكلمات 465-488",
+    "title": "Intermediate 33: Music in the Cafe",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1618,28 +1650,29 @@
       459,
       462
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/33-intermediate-music-in-the-cafe.txt",
     "sections": [
       {
-        "heading": "الفصل 1 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: دقيقة, عقل, ذيل, الفضاء, ساعة. الكلمات الجديدة: مصلحة, الوصول, بسرعة, الفعل, الغناء, استمع, ستة, الجدول. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: دقيقة = minute; عقل = mind; ذيل = tail; الفضاء = space; ساعة = hour. New words: مصلحة = interest; الوصول = reach; بسرعة = fast; الفعل = verb; الغناء = sing; استمع = listen; ستة = six; الجدول = table. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب أولغا إلى المقهى. هناك موسيقى وشاي بالقرب منه. تقرأ أولغا ببطء وتلاحظ كلمة جديدة: «أغنية». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Olga is in the cafe. There is music and tea nearby. Olga reads slowly and notices a new word: song. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الفصل 2 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: دقيقة, عقل, ذيل, الفضاء, ساعة. الكلمات الجديدة: السفر, أقل, الصباح, عشرة, بسيطة, عدة, حرف لين, نحو. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: دقيقة = minute; عقل = mind; ذيل = tail; الفضاء = space; ساعة = hour. New words: السفر = travel; أقل = less; الصباح = morning; عشرة = ten; بسيطة = simple; عدة = several; حرف لين = vowel; نحو = toward. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "تكتب أولغا كلمة «أغنية» في الدفتر. ثم تفكر في موضوع «ذاكرة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+        "en": "Olga writes the word song in a notebook. Then Olga thinks about memory. The place is quiet, so Olga reads the sentence again and says it softly."
       },
       {
-        "heading": "الفصل 3 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: دقيقة, عقل, ذيل, الفضاء, ساعة. الكلمات الجديدة: حرب, وضع, ضد, نمط, بطيئة, مركز, الحب, شخص. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: دقيقة = minute; عقل = mind; ذيل = tail; الفضاء = space; ساعة = hour. New words: حرب = war; وضع = lay; ضد = against; نمط = pattern; بطيئة = slow; مركز = center; الحب = love; شخص = person. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "تظهر مشكلة صغيرة، لكن أولغا تستخدم الكلمات الجديدة. تنظر إلى موسيقى، ثم إلى شاي، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+        "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the music, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
       }
     ]
   },
   {
-    "id": "arabic-intermediate-08",
+    "id": "arabic-intermediate-34",
     "level": "intermediate",
-    "title": "Intermediate 08: الكلمات 489-512",
+    "title": "Intermediate 34: A Letter from a Friend",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1683,28 +1716,29 @@
       483,
       486
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/34-intermediate-a-letter-from-a-friend.txt",
     "sections": [
       {
-        "heading": "الفصل 1 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: مصلحة, الفعل, ستة, أقل, بسيطة. الكلمات الجديدة: المال, خدمة, تظهر, طريق, خريطة, مطر, حكم, الحكم. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: مصلحة = interest; الفعل = verb; ستة = six; أقل = less; بسيطة = simple. New words: المال = money; خدمة = serve; تظهر = appear; طريق = road; خريطة = map; مطر = rain; حكم = rule; الحكم = govern. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، يذهب ديما إلى البيت. هناك رسالة وهاتف بالقرب منه. يقرأ ديما ببطء ويلاحظ كلمة جديدة: «صديق». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Dima is at home. There is letter and phone nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الفصل 2 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: مصلحة, الفعل, ستة, أقل, بسيطة. الكلمات الجديدة: سحب, بارد, إشعار, صوت, الطاقة, مطاردة, محتمل, قاع. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: مصلحة = interest; الفعل = verb; ستة = six; أقل = less; بسيطة = simple. New words: سحب = pull; بارد = cold; إشعار = notice; صوت = voice; الطاقة = energy; مطاردة = hunt; محتمل = probable; قاع = bed. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "يكتب ديما كلمة «صديق» في الدفتر. ثم يفكر في موضوع «دعوة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+        "en": "Dima writes the word friend in a notebook. Then Dima thinks about invitation. The place is quiet, so Dima reads the sentence again and says it softly."
       },
       {
-        "heading": "الفصل 3 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: مصلحة, الفعل, ستة, أقل, بسيطة. الكلمات الجديدة: شقيق, البيض, ركوب, خلية, اعتقد, ربما, اختيار, مفاجئ. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: مصلحة = interest; الفعل = verb; ستة = six; أقل = less; بسيطة = simple. New words: شقيق = brother; البيض = egg; ركوب = ride; خلية = cell; اعتقد = believe; ربما = perhaps; اختيار = pick; مفاجئ = sudden. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "تظهر مشكلة صغيرة، لكن ديما يستخدم الكلمات الجديدة. ينظر إلى رسالة، ثم إلى هاتف، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
+        "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the letter, looks at the phone, and makes a simple plan. By the end, Dima can say one clear sentence."
       }
     ]
   },
   {
-    "id": "arabic-intermediate-09",
+    "id": "arabic-intermediate-35",
     "level": "intermediate",
-    "title": "Intermediate 09: الكلمات 513-535",
+    "title": "Intermediate 35: The School Project",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1747,28 +1781,29 @@
       507,
       510
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/35-intermediate-the-school-project.txt",
     "sections": [
       {
-        "heading": "الفصل 1 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: المال, طريق, حكم, بارد, الطاقة. الكلمات الجديدة: عد, مربع, سبب, طول, تمثيل, فن, الموضوع, منطقة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: المال = money; طريق = road; حكم = rule; بارد = cold; الطاقة = energy. New words: عد = count; مربع = square; سبب = reason; طول = length; تمثيل = represent; فن = art; الموضوع = subject; منطقة = region. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب ماشا إلى المدرسة. هناك ورقة ومعلم بالقرب منه. تقرأ ماشا ببطء وتلاحظ كلمة جديدة: «مشروع». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Masha is at school. There is paper and teacher nearby. Masha reads slowly and notices a new word: project. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الفصل 2 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: المال, طريق, حكم, بارد, الطاقة. الكلمات الجديدة: حجم, تختلف, حل, الكلام, الوزن, عام, الجليد, مسألة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: المال = money; طريق = road; حكم = rule; بارد = cold; الطاقة = energy. New words: حجم = size; تختلف = vary; حل = settle; الكلام = speak; الوزن = weight; عام = general; الجليد = ice; مسألة = matter. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "تكتب ماشا كلمة «مشروع» في الدفتر. ثم تفكر في موضوع «مجموعة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+        "en": "Masha writes the word project in a notebook. Then Masha thinks about group. The place is quiet, so Masha reads the sentence again and says it softly."
       },
       {
-        "heading": "الفصل 3 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: المال, طريق, حكم, بارد, الطاقة. الكلمات الجديدة: دائرة, زوج, تضمن, الفجوة, مقطع لفظي, شعر, الكبرى. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: المال = money; طريق = road; حكم = rule; بارد = cold; الطاقة = energy. New words: دائرة = circle; زوج = pair; تضمن = include; الفجوة = divide; مقطع لفظي = syllable; شعر = felt; الكبرى = grand. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "تظهر مشكلة صغيرة، لكن ماشا تستخدم الكلمات الجديدة. تنظر إلى ورقة، ثم إلى معلم، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+        "en": "A small problem appears, but Masha uses the new words to understand it. Masha checks the paper, looks at the teacher, and makes a simple plan. By the end, Masha can say one clear sentence."
       }
     ]
   },
   {
-    "id": "arabic-intermediate-10",
+    "id": "arabic-intermediate-36",
     "level": "intermediate",
-    "title": "Intermediate 10: الكلمات 536-558",
+    "title": "Intermediate 36: The City Walk",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1811,28 +1846,29 @@
       530,
       533
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/36-intermediate-the-city-walk.txt",
     "sections": [
       {
-        "heading": "الفصل 1 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: مفاجئ, سبب, فن, حجم, الكلام. الكلمات الجديدة: كرة, بعد, موجة, إسقاط, قلب, صباحا, الحاضر, ثقيلة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: مفاجئ = sudden; سبب = reason; فن = art; حجم = size; الكلام = speak. New words: كرة = ball; بعد = yet; موجة = wave; إسقاط = drop; قلب = heart; صباحا = am; الحاضر = present; ثقيلة = heavy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب آنا إلى المدينة. هناك شارع ونافذة بالقرب منه. تقرأ آنا ببطء وتلاحظ كلمة جديدة: «نزهة». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Anna is in the city. There is street and window nearby. Anna reads slowly and notices a new word: walk. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الفصل 2 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: مفاجئ, سبب, فن, حجم, الكلام. الكلمات الجديدة: رقص, محرك, موقف, الذراع, واسع, الشراع, مادة, جزء. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: مفاجئ = sudden; سبب = reason; فن = art; حجم = size; الكلام = speak. New words: رقص = dance; محرك = engine; موقف = position; الذراع = arm; واسع = wide; الشراع = sail; مادة = material; جزء = fraction. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "تكتب آنا كلمة «نزهة» في الدفتر. ثم تفكر في موضوع «مكان». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+        "en": "Anna writes the word walk in a notebook. Then Anna thinks about place. The place is quiet, so Anna reads the sentence again and says it softly."
       },
       {
-        "heading": "الفصل 3 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: مفاجئ, سبب, فن, حجم, الكلام. الكلمات الجديدة: الغابات, الجلوس, سباق, نافذة, متجر, الصيف, قطار. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: مفاجئ = sudden; سبب = reason; فن = art; حجم = size; الكلام = speak. New words: الغابات = forest; الجلوس = sit; سباق = race; نافذة = window; متجر = store; الصيف = summer; قطار = train. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "تظهر مشكلة صغيرة، لكن آنا تستخدم الكلمات الجديدة. تنظر إلى شارع، ثم إلى نافذة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+        "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the street, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
       }
     ]
   },
   {
-    "id": "arabic-intermediate-11",
+    "id": "arabic-intermediate-37",
     "level": "intermediate",
-    "title": "Intermediate 11: الكلمات 559-581",
+    "title": "Intermediate 37: The Bookshop Door",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1875,28 +1911,29 @@
       553,
       556
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/37-intermediate-the-bookshop-door.txt",
     "sections": [
       {
-        "heading": "الفصل 1 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: الكبرى, موجة, صباحا, رقص, الذراع. الكلمات الجديدة: نوم, إثبات, وحيد, الساق, ممارسة, جدار, مزلاج, جبل. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: الكبرى = grand; موجة = wave; صباحا = am; رقص = dance; الذراع = arm. New words: نوم = sleep; إثبات = prove; وحيد = lone; الساق = leg; ممارسة = exercise; جدار = wall; مزلاج = catch; جبل = mount. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، يذهب إيفان إلى متجر الكتب. هناك باب وكتاب بالقرب منه. يقرأ إيفان ببطء ويلاحظ كلمة جديدة: «يفتح». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Ivan is in the bookshop. There is door and book nearby. Ivan reads slowly and notices a new word: open. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الفصل 2 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: الكبرى, موجة, صباحا, رقص, الذراع. الكلمات الجديدة: رغب, سماء, مجلس الإدارة, الفرح, شتاء, السبت, مكتوبة, بري. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: الكبرى = grand; موجة = wave; صباحا = am; رقص = dance; الذراع = arm. New words: رغب = wish; سماء = sky; مجلس الإدارة = board; الفرح = joy; شتاء = winter; السبت = sat; مكتوبة = written; بري = wild. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "يكتب إيفان كلمة «يفتح» في الدفتر. ثم يفكر في موضوع «قراءة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+        "en": "Ivan writes the word open in a notebook. Then Ivan thinks about reading. The place is quiet, so Ivan reads the sentence again and says it softly."
       },
       {
-        "heading": "الفصل 3 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: الكبرى, موجة, صباحا, رقص, الذراع. الكلمات الجديدة: أداة, أبقى, زجاج, العشب, بقرة, العمل, حافة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: الكبرى = grand; موجة = wave; صباحا = am; رقص = dance; الذراع = arm. New words: أداة = instrument; أبقى = kept; زجاج = glass; العشب = grass; بقرة = cow; العمل = job; حافة = edge. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "تظهر مشكلة صغيرة، لكن إيفان يستخدم الكلمات الجديدة. ينظر إلى باب، ثم إلى كتاب، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
+        "en": "A small problem appears, but Ivan uses the new words to understand it. Ivan checks the door, looks at the book, and makes a simple plan. By the end, Ivan can say one clear sentence."
       }
     ]
   },
   {
-    "id": "arabic-intermediate-12",
+    "id": "arabic-intermediate-38",
     "level": "intermediate",
-    "title": "Intermediate 12: الكلمات 582-604",
+    "title": "Intermediate 38: The Family Story",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1939,28 +1976,29 @@
       576,
       579
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/38-intermediate-the-family-story.txt",
     "sections": [
       {
-        "heading": "الفصل 1 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: قطار, وحيد, جدار, رغب, الفرح. الكلمات الجديدة: علامة, زيارة, الماضي, لينة, مرح, مشرق, الغاز, الطقس. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: قطار = train; وحيد = lone; جدار = wall; رغب = wish; الفرح = joy. New words: علامة = sign; زيارة = visit; الماضي = past; لينة = soft; مرح = fun; مشرق = bright; الغاز = gas; الطقس = weather. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب لينا إلى البيت. هناك الأم وصورة بالقرب منه. تقرأ لينا ببطء وتلاحظ كلمة جديدة: «قصة». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Lena is at home. There is mother and photo nearby. Lena reads slowly and notices a new word: story. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الفصل 2 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: قطار, وحيد, جدار, رغب, الفرح. الكلمات الجديدة: شهر, مليون, تحمل, نهاية, سعيدة, نأمل, زهرة, كسا. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: قطار = train; وحيد = lone; جدار = wall; رغب = wish; الفرح = joy. New words: شهر = month; مليون = million; تحمل = bear; نهاية = finish; سعيدة = happy; نأمل = hope; زهرة = flower; كسا = clothe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "تكتب لينا كلمة «قصة» في الدفتر. ثم تفكر في موضوع «عائلة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+        "en": "Lena writes the word story in a notebook. Then Lena thinks about family. The place is quiet, so Lena reads the sentence again and says it softly."
       },
       {
-        "heading": "الفصل 3 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: قطار, وحيد, جدار, رغب, الفرح. الكلمات الجديدة: غريب, ذهب, تجارة, لحن, رحلة, مكتب, تلقي. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: قطار = train; وحيد = lone; جدار = wall; رغب = wish; الفرح = joy. New words: غريب = strange; ذهب = gone; تجارة = trade; لحن = melody; رحلة = trip; مكتب = office; تلقي = receive. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "تظهر مشكلة صغيرة، لكن لينا تستخدم الكلمات الجديدة. تنظر إلى الأم، ثم إلى صورة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+        "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the mother, looks at the photo, and makes a simple plan. By the end, Lena can say one clear sentence."
       }
     ]
   },
   {
-    "id": "arabic-intermediate-13",
+    "id": "arabic-intermediate-39",
     "level": "intermediate",
-    "title": "Intermediate 13: الكلمات 605-627",
+    "title": "Intermediate 39: The Important Word",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -2003,28 +2041,29 @@
       599,
       602
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/39-intermediate-the-important-word.txt",
     "sections": [
       {
-        "heading": "الفصل 1 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: حافة, الماضي, مشرق, شهر, نهاية. الكلمات الجديدة: الصف, فم, بالضبط, رمز, مات, الأقل, مشكلة, صيحة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: حافة = edge; الماضي = past; مشرق = bright; شهر = month; نهاية = finish. New words: الصف = row; فم = mouth; بالضبط = exact; رمز = symbol; مات = die; الأقل = least; مشكلة = trouble; صيحة = shout. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، يذهب بافل إلى المكتبة. هناك قاموس وورقة بالقرب منه. يقرأ بافل ببطء ويلاحظ كلمة جديدة: «معنى». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Pavel is in the library. There is dictionary and paper nearby. Pavel reads slowly and notices a new word: meaning. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الفصل 2 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: حافة, الماضي, مشرق, شهر, نهاية. الكلمات الجديدة: إلا, كتب, بذرة, نغمة, انضمام, اقترح, نظيف, استراحة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: حافة = edge; الماضي = past; مشرق = bright; شهر = month; نهاية = finish. New words: إلا = except; كتب = wrote; بذرة = seed; نغمة = tone; انضمام = join; اقترح = suggest; نظيف = clean; استراحة = break. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "يكتب بافل كلمة «معنى» في الدفتر. ثم يفكر في موضوع «لغة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+        "en": "Pavel writes the word meaning in a notebook. Then Pavel thinks about language. The place is quiet, so Pavel reads the sentence again and says it softly."
       },
       {
-        "heading": "الفصل 3 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: حافة, الماضي, مشرق, شهر, نهاية. الكلمات الجديدة: سيدة, ساحة, الارتفاع, سيئة, ضربة, زيت, الدم. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: حافة = edge; الماضي = past; مشرق = bright; شهر = month; نهاية = finish. New words: سيدة = lady; ساحة = yard; الارتفاع = rise; سيئة = bad; ضربة = blow; زيت = oil; الدم = blood. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "تظهر مشكلة صغيرة، لكن بافل يستخدم الكلمات الجديدة. ينظر إلى قاموس، ثم إلى ورقة، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
+        "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the dictionary, looks at the paper, and makes a simple plan. By the end, Pavel can say one clear sentence."
       }
     ]
   },
   {
-    "id": "arabic-intermediate-14",
+    "id": "arabic-intermediate-40",
     "level": "intermediate",
-    "title": "Intermediate 14: الكلمات 628-650",
+    "title": "Intermediate 40: Closer Every Day",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -2067,28 +2106,29 @@
       622,
       625
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/40-intermediate-closer-every-day.txt",
     "sections": [
       {
-        "heading": "الفصل 1 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: تلقي, بالضبط, الأقل, إلا, نغمة. الكلمات الجديدة: لمس, نما, المائة, مزيج, فريق, سلك, التكلفة, فقدت. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: تلقي = receive; بالضبط = exact; الأقل = least; إلا = except; نغمة = tone. New words: لمس = touch; نما = grew; المائة = cent; مزيج = mix; فريق = team; سلك = wire; التكلفة = cost; فقدت = lost. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب إيرينا إلى الحديقة. هناك دفتر وشاي بالقرب منه. تقرأ إيرينا ببطء وتلاحظ كلمة جديدة: «أقرب». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Irina is in the park. There is notebook and tea nearby. Irina reads slowly and notices a new word: closer. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الفصل 2 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: تلقي, بالضبط, الأقل, إلا, نغمة. الكلمات الجديدة: أسمر, ارتداء, حديقة, متساو, أرسلت, اختيار, سقط, تناسب. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: تلقي = receive; بالضبط = exact; الأقل = least; إلا = except; نغمة = tone. New words: أسمر = brown; ارتداء = wear; حديقة = garden; متساو = equal; أرسلت = sent; اختيار = choose; سقط = fell; تناسب = fit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "تكتب إيرينا كلمة «أقرب» في الدفتر. ثم تفكر في موضوع «مراجعة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+        "en": "Irina writes the word closer in a notebook. Then Irina thinks about review. The place is quiet, so Irina reads the sentence again and says it softly."
       },
       {
-        "heading": "الفصل 3 / 3",
-        "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: تلقي, بالضبط, الأقل, إلا, نغمة. الكلمات الجديدة: تدفق, عادل, البنك, جمع, حفظ, السيطرة, العشري. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: تلقي = receive; بالضبط = exact; الأقل = least; إلا = except; نغمة = tone. New words: تدفق = flow; عادل = fair; البنك = bank; جمع = collect; حفظ = save; السيطرة = control; العشري = decimal. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "تظهر مشكلة صغيرة، لكن إيرينا تستخدم الكلمات الجديدة. تنظر إلى دفتر، ثم إلى شاي، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the notebook, looks at the tea, and makes a simple plan. By the end, Irina can say one clear sentence."
       }
     ]
   },
   {
-    "id": "arabic-advanced-01",
+    "id": "arabic-advanced-41",
     "level": "advanced",
-    "title": "Advanced 01: الكلمات 651-685",
+    "title": "Advanced 41: The Long Walk Through the City",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2143,38 +2183,39 @@
       645,
       648
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/41-advanced-the-long-walk-through-the-city.txt",
     "sections": [
       {
-        "heading": "الفصل 1 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الدم, المائة, سلك, أسمر, متساو. الكلمات الجديدة: إذن, آخر, تماما, حطم, حالة, وسط, قتل. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الدم = blood; المائة = cent; سلك = wire; أسمر = brown; متساو = equal. New words: إذن = ear; آخر = else; تماما = quite; حطم = broke; حالة = case; وسط = middle; قتل = kill. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب آنا إلى المدينة. هناك خريطة ونافذة بالقرب منه. تقرأ آنا ببطء وتلاحظ كلمة جديدة: «رحلة». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Anna is in the city. There is map and window nearby. Anna reads slowly and notices a new word: journey. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الفصل 2 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الدم, المائة, سلك, أسمر, متساو. الكلمات الجديدة: ابن, بحيرة, لحظة, على نطاق و, بصوت عال, الربيع, رصد. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الدم = blood; المائة = cent; سلك = wire; أسمر = brown; متساو = equal. New words: ابن = son; بحيرة = lake; لحظة = moment; على نطاق و = scale; بصوت عال = loud; الربيع = spring; رصد = observe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "تكتب آنا كلمة «رحلة» في الدفتر. ثم تفكر في موضوع «مدينة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+        "en": "Anna writes the word journey in a notebook. Then Anna thinks about city. The place is quiet, so Anna reads the sentence again and says it softly."
       },
       {
-        "heading": "الفصل 3 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الدم, المائة, سلك, أسمر, متساو. الكلمات الجديدة: طفل, مباشرة, متوافق, الأمة, قاموس, حليب, السرعة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الدم = blood; المائة = cent; سلك = wire; أسمر = brown; متساو = equal. New words: طفل = child; مباشرة = straight; متوافق = consonant; الأمة = nation; قاموس = dictionary; حليب = milk; السرعة = speed. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "تظهر مشكلة صغيرة، لكن آنا تستخدم الكلمات الجديدة. تنظر إلى خريطة، ثم إلى نافذة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+        "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the map, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
       },
       {
-        "heading": "الفصل 4 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الدم, المائة, سلك, أسمر, متساو. الكلمات الجديدة: طريقة, عضو, دفع, العمر, القسم, فستان, سحابة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الدم = blood; المائة = cent; سلك = wire; أسمر = brown; متساو = equal. New words: طريقة = method; عضو = organ; دفع = pay; العمر = age; القسم = section; فستان = dress; سحابة = cloud. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "لاحقًا، تلتقي آنا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.",
+        "en": "Later, Anna meets another person and asks one careful question. The answer is simple, but it helps. Anna writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "الفصل 5 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الدم, المائة, سلك, أسمر, متساو. الكلمات الجديدة: مفاجأة, هادئ, حجر, صغير, تسلق, بارد, تصميم. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الدم = blood; المائة = cent; سلك = wire; أسمر = brown; متساو = equal. New words: مفاجأة = surprise; هادئ = quiet; حجر = stone; صغير = tiny; تسلق = climb; بارد = cool; تصميم = design. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "في نهاية اليوم، تقرأ آنا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم آنا لأن التعلم صار ممكنًا وقريبًا.",
+        "en": "At the end of the day, Anna reads the whole page out loud. The words are not perfect yet, but they are familiar now. Anna smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "arabic-advanced-02",
+    "id": "arabic-advanced-42",
     "level": "advanced",
-    "title": "Advanced 02: الكلمات 686-720",
+    "title": "Advanced 42: The Forgotten Invitation",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2229,38 +2270,39 @@
       680,
       683
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/42-advanced-the-forgotten-invitation.txt",
     "sections": [
       {
-        "heading": "الفصل 1 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: بصوت عال, طفل, الأمة, السرعة, دفع. الكلمات الجديدة: فقير, الكثير, تجربة, أسفل, مفتاح, حديد, احد. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: بصوت عال = loud; طفل = child; الأمة = nation; السرعة = speed; دفع = pay. New words: فقير = poor; الكثير = lot; تجربة = experiment; أسفل = bottom; مفتاح = key; حديد = iron; احد = single. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، يذهب ساشا إلى الجامعة. هناك رسالة وهاتف بالقرب منه. يقرأ ساشا ببطء ويلاحظ كلمة جديدة: «دعوة». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Sasha is at the university. There is letter and phone nearby. Sasha reads slowly and notices a new word: invitation. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الفصل 2 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: بصوت عال, طفل, الأمة, السرعة, دفع. الكلمات الجديدة: عصا, شقة, عشرون, الجلد, الابتسامة, تجعد, حفرة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: بصوت عال = loud; طفل = child; الأمة = nation; السرعة = speed; دفع = pay. New words: عصا = stick; شقة = flat; عشرون = twenty; الجلد = skin; الابتسامة = smile; تجعد = crease; حفرة = hole. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "يكتب ساشا كلمة «دعوة» في الدفتر. ثم يفكر في موضوع «لقاء». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+        "en": "Sasha writes the word invitation in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
       },
       {
-        "heading": "الفصل 3 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: بصوت عال, طفل, الأمة, السرعة, دفع. الكلمات الجديدة: القفزة, طفل, ثمانية, قرية, تلبية, الجذر, شراء. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: بصوت عال = loud; طفل = child; الأمة = nation; السرعة = speed; دفع = pay. New words: القفزة = jump; طفل = baby; ثمانية = eight; قرية = village; تلبية = meet; الجذر = root; شراء = buy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "تظهر مشكلة صغيرة، لكن ساشا يستخدم الكلمات الجديدة. ينظر إلى رسالة، ثم إلى هاتف، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
+        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the phone, and makes a simple plan. By the end, Sasha can say one clear sentence."
       },
       {
-        "heading": "الفصل 4 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: بصوت عال, طفل, الأمة, السرعة, دفع. الكلمات الجديدة: رفع, حل, المعادن, سواء, دفع, سبعة, فقرة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: بصوت عال = loud; طفل = child; الأمة = nation; السرعة = speed; دفع = pay. New words: رفع = raise; حل = solve; المعادن = metal; سواء = whether; دفع = push; سبعة = seven; فقرة = paragraph. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "لاحقًا، يلتقي ساشا شخصًا آخر ويسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. يكتب ثلاث كلمات أخرى ويربطها بقصة اليوم.",
+        "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "الفصل 5 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: بصوت عال, طفل, الأمة, السرعة, دفع. الكلمات الجديدة: الثالث, يجب, عقدت, الشعر, وصف, طبخ, الطابق. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: بصوت عال = loud; طفل = child; الأمة = nation; السرعة = speed; دفع = pay. New words: الثالث = third; يجب = shall; عقدت = held; الشعر = hair; وصف = describe; طبخ = cook; الطابق = floor. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "في نهاية اليوم، يقرأ ساشا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. يبتسم ساشا لأن التعلم صار ممكنًا وقريبًا.",
+        "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "arabic-advanced-03",
+    "id": "arabic-advanced-43",
     "level": "advanced",
-    "title": "Advanced 03: الكلمات 721-755",
+    "title": "Advanced 43: The History Room",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2315,38 +2357,39 @@
       715,
       718
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/43-advanced-the-history-room.txt",
     "sections": [
       {
-        "heading": "الفصل 1 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الابتسامة, القفزة, قرية, شراء, المعادن. الكلمات الجديدة: كل, نتيجة, حرق, التل, آمنة, القط, القرن. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الابتسامة = smile; القفزة = jump; قرية = village; شراء = buy; المعادن = metal. New words: كل = either; نتيجة = result; حرق = burn; التل = hill; آمنة = safe; القط = cat; القرن = century. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، يذهب نيكولاي إلى المتحف. هناك كتاب وصورة بالقرب منه. يقرأ نيكولاي ببطء ويلاحظ كلمة جديدة: «تاريخ». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Nikolay is in the museum. There is book and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الفصل 2 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الابتسامة, القفزة, قرية, شراء, المعادن. الكلمات الجديدة: النظر, نوع, القانون, لقمة, الساحل, نسخة, العبارة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الابتسامة = smile; القفزة = jump; قرية = village; شراء = buy; المعادن = metal. New words: النظر = consider; نوع = type; القانون = law; لقمة = bit; الساحل = coast; نسخة = copy; العبارة = phrase. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "يكتب نيكولاي كلمة «تاريخ» في الدفتر. ثم يفكر في موضوع «ماضٍ». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+        "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about past. The place is quiet, so Nikolay reads the sentence again and says it softly."
       },
       {
-        "heading": "الفصل 3 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الابتسامة, القفزة, قرية, شراء, المعادن. الكلمات الجديدة: الصمت, طويل, رمل, التربة, لفة, درجة الحرارة, إصبع. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الابتسامة = smile; القفزة = jump; قرية = village; شراء = buy; المعادن = metal. New words: الصمت = silent; طويل = tall; رمل = sand; التربة = soil; لفة = roll; درجة الحرارة = temperature; إصبع = finger. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "تظهر مشكلة صغيرة، لكن نيكولاي يستخدم الكلمات الجديدة. ينظر إلى كتاب، ثم إلى صورة، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
+        "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the book, looks at the picture, and makes a simple plan. By the end, Nikolay can say one clear sentence."
       },
       {
-        "heading": "الفصل 4 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الابتسامة, القفزة, قرية, شراء, المعادن. الكلمات الجديدة: صناعة, قيمة, المعركة, كذبة, فوز, أثار, طبيعي. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الابتسامة = smile; القفزة = jump; قرية = village; شراء = buy; المعادن = metal. New words: صناعة = industry; قيمة = value; المعركة = fight; كذبة = lie; فوز = beat; أثار = excite; طبيعي = natural. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "لاحقًا، يلتقي نيكولاي شخصًا آخر ويسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. يكتب ثلاث كلمات أخرى ويربطها بقصة اليوم.",
+        "en": "Later, Nikolay meets another person and asks one careful question. The answer is simple, but it helps. Nikolay writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "الفصل 5 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الابتسامة, القفزة, قرية, شراء, المعادن. الكلمات الجديدة: رأي, المعنى, العاصمة, سوف لا, كرسي, خطر, الفاكهة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الابتسامة = smile; القفزة = jump; قرية = village; شراء = buy; المعادن = metal. New words: رأي = view; المعنى = sense; العاصمة = capital; سوف لا = won’t; كرسي = chair; خطر = danger; الفاكهة = fruit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "في نهاية اليوم، يقرأ نيكولاي الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. يبتسم نيكولاي لأن التعلم صار ممكنًا وقريبًا.",
+        "en": "At the end of the day, Nikolay reads the whole page out loud. The words are not perfect yet, but they are familiar now. Nikolay smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "arabic-advanced-04",
+    "id": "arabic-advanced-44",
     "level": "advanced",
-    "title": "Advanced 04: الكلمات 756-790",
+    "title": "Advanced 44: The Quiet Train",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2401,38 +2444,39 @@
       750,
       753
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/44-advanced-the-quiet-train.txt",
     "sections": [
       {
-        "heading": "الفصل 1 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الساحل, الصمت, التربة, إصبع, المعركة. الكلمات الجديدة: غني, سميك, جندي, عملية, العمل, ممارسة, منفصلة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الساحل = coast; الصمت = silent; التربة = soil; إصبع = finger; المعركة = fight. New words: غني = rich; سميك = thick; جندي = soldier; عملية = process; العمل = operate; ممارسة = practice; منفصلة = separate. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب ماريا إلى القطار. هناك تذكرة وشاي بالقرب منه. تقرأ ماريا ببطء وتلاحظ كلمة جديدة: «هدوء». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Maria is on the train. There is ticket and tea nearby. Maria reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الفصل 2 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الساحل, الصمت, التربة, إصبع, المعركة. الكلمات الجديدة: الصعب, الطبيب, الرجاء, حماية, ظهرا, محصول, الحديث. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الساحل = coast; الصمت = silent; التربة = soil; إصبع = finger; المعركة = fight. New words: الصعب = difficult; الطبيب = doctor; الرجاء = please; حماية = protect; ظهرا = noon; محصول = crop; الحديث = modern. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "تكتب ماريا كلمة «هدوء» في الدفتر. ثم تفكر في موضوع «سفر». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+        "en": "Maria writes the word quiet in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
       },
       {
-        "heading": "الفصل 3 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الساحل, الصمت, التربة, إصبع, المعركة. الكلمات الجديدة: عنصر, ضرب, طالب, ركن, حزب, تزويد, الذي. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الساحل = coast; الصمت = silent; التربة = soil; إصبع = finger; المعركة = fight. New words: عنصر = element; ضرب = hit; طالب = student; ركن = corner; حزب = party; تزويد = supply; الذي = whose. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "تظهر مشكلة صغيرة، لكن ماريا تستخدم الكلمات الجديدة. تنظر إلى تذكرة، ثم إلى شاي، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+        "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the tea, and makes a simple plan. By the end, Maria can say one clear sentence."
       },
       {
-        "heading": "الفصل 4 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الساحل, الصمت, التربة, إصبع, المعركة. الكلمات الجديدة: حدد, عصابة, حرف, الحشرة, اشتعلت, فترة, تشير. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الساحل = coast; الصمت = silent; التربة = soil; إصبع = finger; المعركة = fight. New words: حدد = locate; عصابة = ring; حرف = character; الحشرة = insect; اشتعلت = caught; فترة = period; تشير = indicate. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "لاحقًا، تلتقي ماريا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.",
+        "en": "Later, Maria meets another person and asks one careful question. The answer is simple, but it helps. Maria writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "الفصل 5 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الساحل, الصمت, التربة, إصبع, المعركة. الكلمات الجديدة: راديو, وتحدث, ذرة, بشري, التاريخ, تأثير, كهربائي. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الساحل = coast; الصمت = silent; التربة = soil; إصبع = finger; المعركة = fight. New words: راديو = radio; وتحدث = spoke; ذرة = atom; بشري = human; التاريخ = history; تأثير = effect; كهربائي = electric. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "في نهاية اليوم، تقرأ ماريا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم ماريا لأن التعلم صار ممكنًا وقريبًا.",
+        "en": "At the end of the day, Maria reads the whole page out loud. The words are not perfect yet, but they are familiar now. Maria smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "arabic-advanced-05",
+    "id": "arabic-advanced-45",
     "level": "advanced",
-    "title": "Advanced 05: الكلمات 791-825",
+    "title": "Advanced 45: A Plan for Tomorrow",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2487,38 +2531,39 @@
       785,
       788
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/45-advanced-a-plan-for-tomorrow.txt",
     "sections": [
       {
-        "heading": "الفصل 1 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: ظهرا, عنصر, ركن, الذي, حرف. الكلمات الجديدة: توقع, العظام, سكة حديدية, تخيل, توفير, توافق, وبالتالي. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ظهرا = noon; عنصر = element; ركن = corner; الذي = whose; حرف = character. New words: توقع = expect; العظام = bone; سكة حديدية = rail; تخيل = imagine; توفير = provide; توافق = agree; وبالتالي = thus. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب لينا إلى البيت. هناك خريطة ودفتر بالقرب منه. تقرأ لينا ببطء وتلاحظ كلمة جديدة: «غد». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Lena is at home. There is map and notebook nearby. Lena reads slowly and notices a new word: tomorrow. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الفصل 2 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: ظهرا, عنصر, ركن, الذي, حرف. الكلمات الجديدة: لطيف, امرأة, نقيب, تخمين, الضرورة, حاد, جناح. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ظهرا = noon; عنصر = element; ركن = corner; الذي = whose; حرف = character. New words: لطيف = gentle; امرأة = woman; نقيب = captain; تخمين = guess; الضرورة = necessary; حاد = sharp; جناح = wing. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "تكتب لينا كلمة «غد» في الدفتر. ثم تفكر في موضوع «خطة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+        "en": "Lena writes the word tomorrow in a notebook. Then Lena thinks about plan. The place is quiet, so Lena reads the sentence again and says it softly."
       },
       {
-        "heading": "الفصل 3 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: ظهرا, عنصر, ركن, الذي, حرف. الكلمات الجديدة: خلق, الجيران, غسل, خفاش, بالأحرى, الحشد, الذرة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ظهرا = noon; عنصر = element; ركن = corner; الذي = whose; حرف = character. New words: خلق = create; الجيران = neighbor; غسل = wash; خفاش = bat; بالأحرى = rather; الحشد = crowd; الذرة = corn. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "تظهر مشكلة صغيرة، لكن لينا تستخدم الكلمات الجديدة. تنظر إلى خريطة، ثم إلى دفتر، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+        "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the map, looks at the notebook, and makes a simple plan. By the end, Lena can say one clear sentence."
       },
       {
-        "heading": "الفصل 4 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: ظهرا, عنصر, ركن, الذي, حرف. الكلمات الجديدة: مقارنة, قصيدة, سلسلة, جرس, تعتمد, اللحوم, فرك. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ظهرا = noon; عنصر = element; ركن = corner; الذي = whose; حرف = character. New words: مقارنة = compare; قصيدة = poem; سلسلة = string; جرس = bell; تعتمد = depend; اللحوم = meat; فرك = rub. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "لاحقًا، تلتقي لينا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.",
+        "en": "Later, Lena meets another person and asks one careful question. The answer is simple, but it helps. Lena writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "الفصل 5 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: ظهرا, عنصر, ركن, الذي, حرف. الكلمات الجديدة: أنبوب, الشهيرة, الدولار, تيار, خوف, مشهد, رقيق. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ظهرا = noon; عنصر = element; ركن = corner; الذي = whose; حرف = character. New words: أنبوب = tube; الشهيرة = famous; الدولار = dollar; تيار = stream; خوف = fear; مشهد = sight; رقيق = thin. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "في نهاية اليوم، تقرأ لينا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم لينا لأن التعلم صار ممكنًا وقريبًا.",
+        "en": "At the end of the day, Lena reads the whole page out loud. The words are not perfect yet, but they are familiar now. Lena smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "arabic-advanced-06",
+    "id": "arabic-advanced-46",
     "level": "advanced",
-    "title": "Advanced 06: الكلمات 826-860",
+    "title": "Advanced 46: News from the Cafe",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2573,38 +2618,39 @@
       820,
       823
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/46-advanced-news-from-the-cafe.txt",
     "sections": [
       {
-        "heading": "الفصل 1 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الضرورة, خلق, خفاش, الذرة, سلسلة. الكلمات الجديدة: مثلث, كوكب, عجل, رئيس, مستعمرة, على مدار الساعة, منجم. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الضرورة = necessary; خلق = create; خفاش = bat; الذرة = corn; سلسلة = string. New words: مثلث = triangle; كوكب = planet; عجل = hurry; رئيس = chief; مستعمرة = colony; على مدار الساعة = clock; منجم = mine. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب أولغا إلى المقهى. هناك جريدة وشاي بالقرب منه. تقرأ أولغا ببطء وتلاحظ كلمة جديدة: «خبر». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Olga is in the cafe. There is newspaper and tea nearby. Olga reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الفصل 2 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الضرورة, خلق, خفاش, الذرة, سلسلة. الكلمات الجديدة: ربطة عنق, دخول, الرئيسية, جديدة, البحث, إرسال, الأصفر. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الضرورة = necessary; خلق = create; خفاش = bat; الذرة = corn; سلسلة = string. New words: ربطة عنق = tie; دخول = enter; الرئيسية = major; جديدة = fresh; البحث = search; إرسال = send; الأصفر = yellow. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "تكتب أولغا كلمة «خبر» في الدفتر. ثم تفكر في موضوع «حديث». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+        "en": "Olga writes the word news in a notebook. Then Olga thinks about talk. The place is quiet, so Olga reads the sentence again and says it softly."
       },
       {
-        "heading": "الفصل 3 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الضرورة, خلق, خفاش, الذرة, سلسلة. الكلمات الجديدة: بندقية, السماح, طباعة, ميت, بقعة, صحراء, دعوى. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الضرورة = necessary; خلق = create; خفاش = bat; الذرة = corn; سلسلة = string. New words: بندقية = gun; السماح = allow; طباعة = print; ميت = dead; بقعة = spot; صحراء = desert; دعوى = suit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "تظهر مشكلة صغيرة، لكن أولغا تستخدم الكلمات الجديدة. تنظر إلى جريدة، ثم إلى شاي، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+        "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the newspaper, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
       },
       {
-        "heading": "الفصل 4 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الضرورة, خلق, خفاش, الذرة, سلسلة. الكلمات الجديدة: التيار, رفع, ارتفع, وصول, سيد, المسار, الأم. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الضرورة = necessary; خلق = create; خفاش = bat; الذرة = corn; سلسلة = string. New words: التيار = current; رفع = lift; ارتفع = rose; وصول = arrive; سيد = master; المسار = track; الأم = parent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "لاحقًا، تلتقي أولغا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.",
+        "en": "Later, Olga meets another person and asks one careful question. The answer is simple, but it helps. Olga writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "الفصل 5 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الضرورة, خلق, خفاش, الذرة, سلسلة. الكلمات الجديدة: الشاطئ, تقسيم, ورقة, مادة, صالح, اتصال, آخر. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الضرورة = necessary; خلق = create; خفاش = bat; الذرة = corn; سلسلة = string. New words: الشاطئ = shore; تقسيم = division; ورقة = sheet; مادة = substance; صالح = favor; اتصال = connect; آخر = post. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "في نهاية اليوم، تقرأ أولغا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم أولغا لأن التعلم صار ممكنًا وقريبًا.",
+        "en": "At the end of the day, Olga reads the whole page out loud. The words are not perfect yet, but they are familiar now. Olga smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "arabic-advanced-07",
+    "id": "arabic-advanced-47",
     "level": "advanced",
-    "title": "Advanced 07: الكلمات 861-895",
+    "title": "Advanced 47: The Word That Changed the Day",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2659,38 +2705,39 @@
       855,
       858
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/47-advanced-the-word-that-changed-the-day.txt",
     "sections": [
       {
-        "heading": "الفصل 1 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: البحث, بندقية, ميت, دعوى, ارتفع. الكلمات الجديدة: أنفق, وتر, دهن, سعيد, الأصلي, حصة, محطة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: البحث = search; بندقية = gun; ميت = dead; دعوى = suit; ارتفع = rose. New words: أنفق = spend; وتر = chord; دهن = fat; سعيد = glad; الأصلي = original; حصة = share; محطة = station. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، يذهب ديما إلى الشارع. هناك حقيبة وكتاب بالقرب منه. يقرأ ديما ببطء ويلاحظ كلمة جديدة: «مساعدة». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Dima is on the street. There is bag and book nearby. Dima reads slowly and notices a new word: help. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الفصل 2 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: البحث, بندقية, ميت, دعوى, ارتفع. الكلمات الجديدة: أب, الخبز, تهمة, السليم, شريط, العرض, قطاع. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: البحث = search; بندقية = gun; ميت = dead; دعوى = suit; ارتفع = rose. New words: أب = dad; الخبز = bread; تهمة = charge; السليم = proper; شريط = bar; العرض = offer; قطاع = segment. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "يكتب ديما كلمة «مساعدة» في الدفتر. ثم يفكر في موضوع «طريق». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+        "en": "Dima writes the word help in a notebook. Then Dima thinks about road. The place is quiet, so Dima reads the sentence again and says it softly."
       },
       {
-        "heading": "الفصل 3 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: البحث, بندقية, ميت, دعوى, ارتفع. الكلمات الجديدة: الرقيق, بط, لحظة, سوق, درجة, أهل, كتكوت. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: البحث = search; بندقية = gun; ميت = dead; دعوى = suit; ارتفع = rose. New words: الرقيق = slave; بط = duck; لحظة = instant; سوق = market; درجة = degree; أهل = populate; كتكوت = chick. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "تظهر مشكلة صغيرة، لكن ديما يستخدم الكلمات الجديدة. ينظر إلى حقيبة، ثم إلى كتاب، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
+        "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the bag, looks at the book, and makes a simple plan. By the end, Dima can say one clear sentence."
       },
       {
-        "heading": "الفصل 4 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: البحث, بندقية, ميت, دعوى, ارتفع. الكلمات الجديدة: عزيزتي, العدو, الرد, شراب, تحدث, دعم, خطاب. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: البحث = search; بندقية = gun; ميت = dead; دعوى = suit; ارتفع = rose. New words: عزيزتي = dear; العدو = enemy; الرد = reply; شراب = drink; تحدث = occur; دعم = support; خطاب = speech. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "لاحقًا، يلتقي ديما شخصًا آخر ويسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. يكتب ثلاث كلمات أخرى ويربطها بقصة اليوم.",
+        "en": "Later, Dima meets another person and asks one careful question. The answer is simple, but it helps. Dima writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "الفصل 5 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: البحث, بندقية, ميت, دعوى, ارتفع. الكلمات الجديدة: الطبيعة, مجموعة, البخار, الحركة, مسار, السائل, تسجيل. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: البحث = search; بندقية = gun; ميت = dead; دعوى = suit; ارتفع = rose. New words: الطبيعة = nature; مجموعة = range; البخار = steam; الحركة = motion; مسار = path; السائل = liquid; تسجيل = log. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "في نهاية اليوم، يقرأ ديما الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. يبتسم ديما لأن التعلم صار ممكنًا وقريبًا.",
+        "en": "At the end of the day, Dima reads the whole page out loud. The words are not perfect yet, but they are familiar now. Dima smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "arabic-advanced-08",
+    "id": "arabic-advanced-48",
     "level": "advanced",
-    "title": "Advanced 08: الكلمات 896-930",
+    "title": "Advanced 48: The Meeting at the University",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2745,38 +2792,39 @@
       890,
       893
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/48-advanced-the-meeting-at-the-university.txt",
     "sections": [
       {
-        "heading": "الفصل 1 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: شريط, الرقيق, سوق, كتكوت, الرد. الكلمات الجديدة: مقصود, حاصل, أسنان, قذيفة, الرقبة, الأكسجين, السكر. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: شريط = bar; الرقيق = slave; سوق = market; كتكوت = chick; الرد = reply. New words: مقصود = meant; حاصل = quotient; أسنان = teeth; قذيفة = shell; الرقبة = neck; الأكسجين = oxygen; السكر = sugar. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، يذهب ساشا إلى الجامعة. هناك رسالة ومكتب بالقرب منه. يقرأ ساشا ببطء ويلاحظ كلمة جديدة: «لقاء». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Sasha is at the university. There is letter and desk nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الفصل 2 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: شريط, الرقيق, سوق, كتكوت, الرد. الكلمات الجديدة: الموت, جميل, مهارة, النساء, الموسم, حل, مغناطيس. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: شريط = bar; الرقيق = slave; سوق = market; كتكوت = chick; الرد = reply. New words: الموت = death; جميل = pretty; مهارة = skill; النساء = women; الموسم = season; حل = solution; مغناطيس = magnet. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "يكتب ساشا كلمة «لقاء» في الدفتر. ثم يفكر في موضوع «أفكار». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+        "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about ideas. The place is quiet, so Sasha reads the sentence again and says it softly."
       },
       {
-        "heading": "الفصل 3 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: شريط, الرقيق, سوق, كتكوت, الرد. الكلمات الجديدة: فضة, شكرا, فرع, مباراة, لاحقة, خاصة, تين. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: شريط = bar; الرقيق = slave; سوق = market; كتكوت = chick; الرد = reply. New words: فضة = silver; شكرا = thank; فرع = branch; مباراة = match; لاحقة = suffix; خاصة = especially; تين = fig. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "تظهر مشكلة صغيرة، لكن ساشا يستخدم الكلمات الجديدة. ينظر إلى رسالة، ثم إلى مكتب، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
+        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the desk, and makes a simple plan. By the end, Sasha can say one clear sentence."
       },
       {
-        "heading": "الفصل 4 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: شريط, الرقيق, سوق, كتكوت, الرد. الكلمات الجديدة: خائف, ضخم, شقيقة, الصلب, بحث, إلى الأمام, مماثل. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: شريط = bar; الرقيق = slave; سوق = market; كتكوت = chick; الرد = reply. New words: خائف = afraid; ضخم = huge; شقيقة = sister; الصلب = steel; بحث = discuss; إلى الأمام = forward; مماثل = similar. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "لاحقًا، يلتقي ساشا شخصًا آخر ويسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. يكتب ثلاث كلمات أخرى ويربطها بقصة اليوم.",
+        "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "الفصل 5 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: شريط, الرقيق, سوق, كتكوت, الرد. الكلمات الجديدة: توجيه, التجربة, النتيجة, تفاحة, اشترى, أدى, رمية. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: شريط = bar; الرقيق = slave; سوق = market; كتكوت = chick; الرد = reply. New words: توجيه = guide; التجربة = experience; النتيجة = score; تفاحة = apple; اشترى = bought; أدى = led; رمية = pitch. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "في نهاية اليوم، يقرأ ساشا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. يبتسم ساشا لأن التعلم صار ممكنًا وقريبًا.",
+        "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "arabic-advanced-09",
+    "id": "arabic-advanced-49",
     "level": "advanced",
-    "title": "Advanced 09: الكلمات 931-965",
+    "title": "Advanced 49: The Letter and the Map",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2831,38 +2879,39 @@
       925,
       928
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/49-advanced-the-letter-and-the-map.txt",
     "sections": [
       {
-        "heading": "الفصل 1 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الموسم, فضة, مباراة, تين, شقيقة. الكلمات الجديدة: معطف, كتلة, بطاقة, فرقة, حبل, انزلاق, الفوز. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الموسم = season; فضة = silver; مباراة = match; تين = fig; شقيقة = sister. New words: معطف = coat; كتلة = mass; بطاقة = card; فرقة = band; حبل = rope; انزلاق = slip; الفوز = win. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب كاتيا إلى المكتبة. هناك رسالة وخريطة بالقرب منه. تقرأ كاتيا ببطء وتلاحظ كلمة جديدة: «مسار». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Katya is in the library. There is letter and map nearby. Katya reads slowly and notices a new word: route. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الفصل 2 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الموسم, فضة, مباراة, تين, شقيقة. الكلمات الجديدة: حلم, مساء, حالة, علف, أداة, الكل, الأساسية. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الموسم = season; فضة = silver; مباراة = match; تين = fig; شقيقة = sister. New words: حلم = dream; مساء = evening; حالة = condition; علف = feed; أداة = tool; الكل = total; الأساسية = basic. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "تكتب كاتيا كلمة «مسار» في الدفتر. ثم تفكر في موضوع «بحث». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+        "en": "Katya writes the word route in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
       },
       {
-        "heading": "الفصل 3 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الموسم, فضة, مباراة, تين, شقيقة. الكلمات الجديدة: رائحة, الوادي, ولا, ضعف, مقعد, تواصل, كتلة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الموسم = season; فضة = silver; مباراة = match; تين = fig; شقيقة = sister. New words: رائحة = smell; الوادي = valley; ولا = nor; ضعف = double; مقعد = seat; تواصل = continue; كتلة = block. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "تظهر مشكلة صغيرة، لكن كاتيا تستخدم الكلمات الجديدة. تنظر إلى رسالة، ثم إلى خريطة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+        "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the letter, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
       },
       {
-        "heading": "الفصل 4 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الموسم, فضة, مباراة, تين, شقيقة. الكلمات الجديدة: جدول, قبعة, بيع, نجاح, شركة, طرح, حدث. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الموسم = season; فضة = silver; مباراة = match; تين = fig; شقيقة = sister. New words: جدول = chart; قبعة = hat; بيع = sell; نجاح = success; شركة = company; طرح = subtract; حدث = event. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "لاحقًا، تلتقي كاتيا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.",
+        "en": "Later, Katya meets another person and asks one careful question. The answer is simple, but it helps. Katya writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "الفصل 5 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الموسم, فضة, مباراة, تين, شقيقة. الكلمات الجديدة: خاصة, صفقة, السباحة, مصطلح, العكس, زوجة, حذاء. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الموسم = season; فضة = silver; مباراة = match; تين = fig; شقيقة = sister. New words: خاصة = particular; صفقة = deal; السباحة = swim; مصطلح = term; العكس = opposite; زوجة = wife; حذاء = shoe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "في نهاية اليوم، تقرأ كاتيا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم كاتيا لأن التعلم صار ممكنًا وقريبًا.",
+        "en": "At the end of the day, Katya reads the whole page out loud. The words are not perfect yet, but they are familiar now. Katya smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "arabic-advanced-10",
+    "id": "arabic-advanced-50",
     "level": "advanced",
-    "title": "Advanced 10: الكلمات 966-1000",
+    "title": "Advanced 50: The Language Feels Close",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2917,31 +2966,32 @@
       960,
       963
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/50-advanced-the-language-feels-close.txt",
     "sections": [
       {
-        "heading": "الفصل 1 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: أداة, رائحة, ضعف, كتلة, بيع. الكلمات الجديدة: الكتف, انتشار, رتب, مخيم, اختراع, قطن, الولادة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: أداة = tool; رائحة = smell; ضعف = double; كتلة = block; بيع = sell. New words: الكتف = shoulder; انتشار = spread; رتب = arrange; مخيم = camp; اختراع = invent; قطن = cotton; الولادة = born. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "في الصباح، تذهب إيرينا إلى الحديقة. هناك كتاب وهاتف بالقرب منه. تقرأ إيرينا ببطء وتلاحظ كلمة جديدة: «لغة». اليوم جيد، واللغة تصبح أقرب.",
+        "en": "In the morning, Irina is in the park. There is book and phone nearby. Irina reads slowly and notices a new word: language. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "الفصل 2 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: أداة, رائحة, ضعف, كتلة, بيع. الكلمات الجديدة: حدد, رابعا, تسعة, شاحنة, الضوضاء, مستوى, فرصة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: أداة = tool; رائحة = smell; ضعف = double; كتلة = block; بيع = sell. New words: حدد = determine; رابعا = quart; تسعة = nine; شاحنة = truck; الضوضاء = noise; مستوى = level; فرصة = chance. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "تكتب إيرينا كلمة «لغة» في الدفتر. ثم تفكر في موضوع «ثقة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+        "en": "Irina writes the word language in a notebook. Then Irina thinks about confidence. The place is quiet, so Irina reads the sentence again and says it softly."
       },
       {
-        "heading": "الفصل 3 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: أداة, رائحة, ضعف, كتلة, بيع. الكلمات الجديدة: جمع, متجر, امتداد, رمي, تألق, الملكية, عمود. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: أداة = tool; رائحة = smell; ضعف = double; كتلة = block; بيع = sell. New words: جمع = gather; متجر = shop; امتداد = stretch; رمي = throw; تألق = shine; الملكية = property; عمود = column. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "تظهر مشكلة صغيرة، لكن إيرينا تستخدم الكلمات الجديدة. تنظر إلى كتاب، ثم إلى هاتف، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the book, looks at the phone, and makes a simple plan. By the end, Irina can say one clear sentence."
       },
       {
-        "heading": "الفصل 4 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: أداة, رائحة, ضعف, كتلة, بيع. الكلمات الجديدة: جزيء, اختر, خاطئ, رمادي, كرر, تتطلب, واسع. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: أداة = tool; رائحة = smell; ضعف = double; كتلة = block; بيع = sell. New words: جزيء = molecule; اختر = select; خاطئ = wrong; رمادي = gray; كرر = repeat; تتطلب = require; واسع = broad. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "لاحقًا، تلتقي إيرينا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.",
+        "en": "Later, Irina meets another person and asks one careful question. The answer is simple, but it helps. Irina writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "الفصل 5 / 5",
-        "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: أداة, رائحة, ضعف, كتلة, بيع. الكلمات الجديدة: إعداد, ملح, الأنف, الجمع, غضب, مطالبة, القارة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: أداة = tool; رائحة = smell; ضعف = double; كتلة = block; بيع = sell. New words: إعداد = prepare; ملح = salt; الأنف = nose; الجمع = plural; غضب = anger; مطالبة = claim; القارة = continent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "في نهاية اليوم، تقرأ إيرينا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم إيرينا لأن التعلم صار ممكنًا وقريبًا.",
+        "en": "At the end of the day, Irina reads the whole page out loud. The words are not perfect yet, but they are familiar now. Irina smiles because learning feels possible and close."
       }
     ]
   }

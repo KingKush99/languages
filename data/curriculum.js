@@ -1,5 +1,5 @@
 window.LANGUAGE_CURRICULUM = {
-  "generatedAt": "2026-05-25T20:40:26.440Z",
+  "generatedAt": "2026-05-25T22:45:19.689Z",
   "sourceName": "1000 Most Common Words",
   "plan": [
     {
@@ -7054,7 +7054,7 @@ window.LANGUAGE_CURRICULUM = {
         {
           "id": "russian-beginner-01",
           "level": "beginner",
-          "title": "Beginner 01: Слова 1-9",
+          "title": "Beginner 01: Morning at Home",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -7074,18 +7074,19 @@ window.LANGUAGE_CURRICULUM = {
             9
           ],
           "reviewWords": [],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/01-beginner-morning-at-home.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "Сегодня ученик читает простую страницу. Новые слова: как, Я, его, что, он, было, для, на, являются. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "Today the learner reads a short page. New words: как = as; Я = I; его = his; что = that; он = he; было = was; для = for; на = on; являются = are. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Анна идёт домой. Там рядом есть чай и книга. Анна читает медленно и замечает новое слово: «город». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Anna is at home. There is tea and book nearby. Anna reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "russian-beginner-02",
           "level": "beginner",
-          "title": "Beginner 02: Слова 10-18",
+          "title": "Beginner 02: Tea on the Table",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -7111,18 +7112,19 @@ window.LANGUAGE_CURRICULUM = {
             7,
             9
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/02-beginner-tea-on-the-table.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "Сегодня ученик читает простую страницу. Слова для повторения: как, его, он, для, являются. Новые слова: с, они, быть, в, один, иметь, это, от, по. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "Today the learner reads a short page. Review words: как = as; его = his; он = he; для = for; являются = are. New words: с = with; они = they; быть = be; в = at; один = one; иметь = have; это = this; от = from; по = by. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Лена идёт домой. Там рядом есть чай и хлеб. Лена читает медленно и замечает новое слово: «стол». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Lena is at home. There is tea and bread nearby. Lena reads slowly and notices a new word: table. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "russian-beginner-03",
           "level": "beginner",
-          "title": "Beginner 03: Слова 19-27",
+          "title": "Beginner 03: The Open Window",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -7149,18 +7151,19 @@ window.LANGUAGE_CURRICULUM = {
             13,
             16
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/03-beginner-the-open-window.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "Сегодня ученик читает простую страницу. Слова для повторения: как, что, для, с, в. Новые слова: горячий, слово, но, что, некоторые, является, это, вы, или. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "Today the learner reads a short page. Review words: как = as; что = that; для = for; с = with; в = at. New words: горячий = hot; слово = word; но = but; что = what; некоторые = some; является = is; это = it; вы = you; или = or. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Иван идёт домой. Там рядом есть окно и книга. Иван читает медленно и замечает новое слово: «библиотека». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Ivan is at home. There is window and book nearby. Ivan reads slowly and notices a new word: library. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "russian-beginner-04",
           "level": "beginner",
-          "title": "Beginner 04: Слова 28-36",
+          "title": "Beginner 04: Walking to the Park",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -7189,18 +7192,19 @@ window.LANGUAGE_CURRICULUM = {
             22,
             25
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/04-beginner-walking-to-the-park.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "Сегодня ученик читает простую страницу. Слова для повторения: что, для, с, в, это. Новые слова: было, площадь, из, гора, и, основной, взял, мы, может. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "Today the learner reads a short page. Review words: что = that; для = for; с = with; в = at; это = this. New words: было = had; площадь = the; из = of; гора = to; и = and; основной = a; взял = in; мы = we; может = can. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Маша идёт в парк. Там рядом есть мама и брат. Маша читает медленно и замечает новое слово: «друг». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Masha is in the park. There is mother and brother nearby. Masha reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "russian-beginner-05",
           "level": "beginner",
-          "title": "Beginner 05: Слова 37-44",
+          "title": "Beginner 05: A Quiet Street",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -7228,18 +7232,19 @@ window.LANGUAGE_CURRICULUM = {
             31,
             34
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/05-beginner-a-quiet-street.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "Сегодня ученик читает простую страницу. Слова для повторения: в, это, горячий, что, это. Новые слова: из, другой, были, который, сделать, их, время, если. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "Today the learner reads a short page. Review words: в = at; это = this; горячий = hot; что = what; это = it. New words: из = out; другой = other; были = were; который = which; сделать = do; их = their; время = time; если = if. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Павел идёт на улицу. Там рядом есть дом и окно. Павел читает медленно и замечает новое слово: «улица». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Pavel is on the street. There is house and window nearby. Pavel reads slowly and notices a new word: street. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "russian-beginner-06",
           "level": "beginner",
-          "title": "Beginner 06: Слова 45-52",
+          "title": "Beginner 06: The First Book",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -7267,18 +7272,19 @@ window.LANGUAGE_CURRICULUM = {
             39,
             42
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/06-beginner-the-first-book.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "Сегодня ученик читает простую страницу. Слова для повторения: но, является, или, из, основной. Новые слова: будет, как, указанный, назад, каждый, сказать, делает, набор. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "Today the learner reads a short page. Review words: но = but; является = is; или = or; из = of; основной = a. New words: будет = will; как = how; указанный = said; назад = an; каждый = each; сказать = tell; делает = does; набор = set. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Ольга идёт в библиотеку. Там рядом есть книга и карточка. Ольга читает медленно и замечает новое слово: «слово». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Olga is in the library. There is book and card nearby. Olga reads slowly and notices a new word: word. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "russian-beginner-07",
           "level": "beginner",
-          "title": "Beginner 07: Слова 53-60",
+          "title": "Beginner 07: A Good Day",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -7306,18 +7312,19 @@ window.LANGUAGE_CURRICULUM = {
             47,
             50
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/07-beginner-a-good-day.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "Сегодня ученик читает простую страницу. Слова для повторения: площадь, и, мы, другой, сделать. Новые слова: три, хочу, воздух, хорошо, также, играть, небольшой, конец. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "Today the learner reads a short page. Review words: площадь = the; и = and; мы = we; другой = other; сделать = do. New words: три = three; хочу = want; воздух = air; хорошо = well; также = also; играть = play; небольшой = small; конец = end. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Николай идёт в парк. Там рядом есть солнце и дерево. Николай читает медленно и замечает новое слово: «хороший». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Nikolay is in the park. There is sun and tree nearby. Nikolay reads slowly and notices a new word: good. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "russian-beginner-08",
           "level": "beginner",
-          "title": "Beginner 08: Слова 61-68",
+          "title": "Beginner 08: At School",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -7345,18 +7352,19 @@ window.LANGUAGE_CURRICULUM = {
             55,
             58
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/08-beginner-at-school.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "Сегодня ученик читает простую страницу. Слова для повторения: из, который, время, как, каждый. Новые слова: положить, домой, читать, рука, порт, большой, заклинание, добавлять. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "Today the learner reads a short page. Review words: из = out; который = which; время = time; как = how; каждый = each. New words: положить = put; домой = home; читать = read; рука = hand; порт = port; большой = large; заклинание = spell; добавлять = add. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Саша идёт в школу. Там рядом есть парта и карандаш. Саша читает медленно и замечает новое слово: «школа». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Sasha is at school. There is desk and pencil nearby. Sasha reads slowly and notices a new word: school. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "russian-beginner-09",
           "level": "beginner",
-          "title": "Beginner 09: Слова 69-76",
+          "title": "Beginner 09: At the Store",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -7384,18 +7392,19 @@ window.LANGUAGE_CURRICULUM = {
             63,
             66
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/09-beginner-at-the-store.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "Сегодня ученик читает простую страницу. Слова для повторения: будет, назад, делает, хочу, также. Новые слова: даже, земля, здесь, должны, большой, высокий, такие, следовать. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "Today the learner reads a short page. Review words: будет = will; назад = an; делает = does; хочу = want; также = also. New words: даже = even; земля = land; здесь = here; должны = must; большой = big; высокий = high; такие = such; следовать = follow. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Ирина идёт в магазин. Там рядом есть сумка и еда. Ирина читает медленно и замечает новое слово: «магазин». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Irina is in the store. There is bag and food nearby. Irina reads slowly and notices a new word: store. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "russian-beginner-10",
           "level": "beginner",
-          "title": "Beginner 10: Слова 77-84",
+          "title": "Beginner 10: At the Station",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -7423,18 +7432,19 @@ window.LANGUAGE_CURRICULUM = {
             71,
             74
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/10-beginner-at-the-station.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "Сегодня ученик читает простую страницу. Слова для повторения: три, хорошо, небольшой, домой, порт. Новые слова: акт, почему, спросите, люди, изменение, пошел, свет, вид. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "Today the learner reads a short page. Review words: три = three; хорошо = well; небольшой = small; домой = home; порт = port. New words: акт = act; почему = why; спросите = ask; люди = men; изменение = change; пошел = went; свет = light; вид = kind. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Мария идёт на станцию. Там рядом есть чай и билет. Мария читает медленно и замечает новое слово: «станция». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Maria is at the station. There is tea and ticket nearby. Maria reads slowly and notices a new word: station. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "russian-beginner-11",
           "level": "beginner",
-          "title": "Beginner 11: Слова 85-92",
+          "title": "Beginner 11: A Simple Call",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -7462,18 +7472,19 @@ window.LANGUAGE_CURRICULUM = {
             79,
             82
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/11-beginner-a-simple-call.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "Сегодня ученик читает простую страницу. Слова для повторения: положить, рука, заклинание, земля, большой. Новые слова: от, нуждаться, дом, картинка, пытаться, нам, снова, животных. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "Today the learner reads a short page. Review words: положить = put; рука = hand; заклинание = spell; земля = land; большой = big. New words: от = off; нуждаться = need; дом = house; картинка = picture; пытаться = try; нам = us; снова = again; животных = animal. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Дима идёт домой. Там рядом есть телефон и тетрадь. Дима читает медленно и замечает новое слово: «друг». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Dima is at home. There is phone and notebook nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "russian-beginner-12",
           "level": "beginner",
-          "title": "Beginner 12: Слова 93-100",
+          "title": "Beginner 12: I Know This Word",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -7501,18 +7512,19 @@ window.LANGUAGE_CURRICULUM = {
             87,
             90
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/12-beginner-i-know-this-word.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "Сегодня ученик читает простую страницу. Слова для повторения: даже, должны, такие, почему, изменение. Новые слова: точка, мать, мир, около, строить, самостоятельно, земля, отец. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "Today the learner reads a short page. Review words: даже = even; должны = must; такие = such; почему = why; изменение = change. New words: точка = point; мать = mother; мир = world; около = near; строить = build; самостоятельно = self; земля = earth; отец = father. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Катя идёт в комнату. Там рядом есть бумага и книга. Катя читает медленно и замечает новое слово: «знать». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Katya is in the room. There is paper and book nearby. Katya reads slowly and notices a new word: know. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
-          "id": "russian-elementary-01",
+          "id": "russian-elementary-13",
           "level": "elementary",
-          "title": "Elementary 01: Слова 101-116",
+          "title": "Elementary 13: The Library Window",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -7548,23 +7560,24 @@ window.LANGUAGE_CURRICULUM = {
             95,
             98
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/13-elementary-the-library-window.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: акт, люди, свет, нуждаться, пытаться. Новые слова: любой, новый, работа, часть, принимать, получать, место, сделал. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: акт = act; люди = men; свет = light; нуждаться = need; пытаться = try. New words: любой = any; новый = new; работа = work; часть = part; принимать = take; получать = get; место = place; сделал = made. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Павел идёт в библиотеку. Там рядом есть окно и тетрадь. Павел читает медленно и замечает новое слово: «тихо». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Pavel is in the library. There is window and notebook nearby. Pavel reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Страница 2",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: акт, люди, свет, нуждаться, пытаться. Новые слова: жить, где, после, назад, немного, только, круглый, человек. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: акт = act; люди = men; свет = light; нуждаться = need; пытаться = try. New words: жить = live; где = where; после = after; назад = back; немного = little; только = only; круглый = round; человек = man. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Павел пишет слово «тихо» в тетради. Потом Павел думает о теме «чтение». В этом месте тихо, поэтому Павел снова читает предложение и произносит его вслух.",
+              "en": "Pavel writes the word quiet in a notebook. Then Pavel thinks about reading. The place is quiet, so Pavel reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "russian-elementary-02",
+          "id": "russian-elementary-14",
           "level": "elementary",
-          "title": "Elementary 02: Слова 117-132",
+          "title": "Elementary 14: The Museum Visit",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -7600,23 +7613,24 @@ window.LANGUAGE_CURRICULUM = {
             111,
             114
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/14-elementary-the-museum-visit.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: точка, около, земля, новый, принимать. Новые слова: год, пришел, шоу, каждый, хорошее, меня, давать, наш. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: точка = point; около = near; земля = earth; новый = new; принимать = take. New words: год = year; пришел = came; шоу = show; каждый = every; хорошее = good; меня = me; давать = give; наш = our. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Николай идёт в музей. Там рядом есть билет и картина. Николай читает медленно и замечает новое слово: «история». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Nikolay is in the museum. There is ticket and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Страница 2",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: точка, около, земля, новый, принимать. Новые слова: под, название, очень, через, просто, форма, приговор, большой. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: точка = point; около = near; земля = earth; новый = new; принимать = take. New words: под = under; название = name; очень = very; через = through; просто = just; форма = form; приговор = sentence; большой = great. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Николай пишет слово «история» в тетради. Потом Николай думает о теме «память». В этом месте тихо, поэтому Николай снова читает предложение и произносит его вслух.",
+              "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about memory. The place is quiet, so Nikolay reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "russian-elementary-03",
+          "id": "russian-elementary-15",
           "level": "elementary",
-          "title": "Elementary 03: Слова 133-148",
+          "title": "Elementary 15: The Cafe Notebook",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -7652,23 +7666,24 @@ window.LANGUAGE_CURRICULUM = {
             127,
             130
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/15-elementary-the-cafe-notebook.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: жить, назад, круглый, пришел, хорошее. Новые слова: думать, сказать, помощь, низкий, линия, отличаются, поворот, причиной. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: жить = live; назад = back; круглый = round; пришел = came; хорошее = good. New words: думать = think; сказать = say; помощь = help; низкий = low; линия = line; отличаются = differ; поворот = turn; причиной = cause. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Ольга идёт в кафе. Там рядом есть чай и музыка. Ольга читает медленно и замечает новое слово: «мелодия». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Olga is in the cafe. There is tea and music nearby. Olga reads slowly and notices a new word: melody. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Страница 2",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: жить, назад, круглый, пришел, хорошее. Новые слова: много, означать, до, движение, право, мальчик, старый, слишком. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: жить = live; назад = back; круглый = round; пришел = came; хорошее = good. New words: много = much; означать = mean; до = before; движение = move; право = right; мальчик = boy; старый = old; слишком = too. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Ольга пишет слово «мелодия» в тетради. Потом Ольга думает о теме «слушание». В этом месте тихо, поэтому Ольга снова читает предложение и произносит его вслух.",
+              "en": "Olga writes the word melody in a notebook. Then Olga thinks about listening. The place is quiet, so Olga reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "russian-elementary-04",
+          "id": "russian-elementary-16",
           "level": "elementary",
-          "title": "Elementary 04: Слова 149-164",
+          "title": "Elementary 16: Rain Near the Door",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -7704,23 +7719,24 @@ window.LANGUAGE_CURRICULUM = {
             143,
             146
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/16-elementary-rain-near-the-door.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: под, через, приговор, сказать, линия. Новые слова: же, она, все, там, когда, вверх, использование, ваш. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: под = under; через = through; приговор = sentence; сказать = say; линия = line. New words: же = same; она = she; все = all; там = there; когда = when; вверх = up; использование = use; ваш = your. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Дима идёт в книжный магазин. Там рядом есть дверь и книга. Дима читает медленно и замечает новое слово: «дорога». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Dima is in the bookshop. There is door and book nearby. Dima reads slowly and notices a new word: road. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Страница 2",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: под, через, приговор, сказать, линия. Новые слова: способ, о, многие, затем, их, запись, бы, подобно. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: под = under; через = through; приговор = sentence; сказать = say; линия = line. New words: способ = way; о = about; многие = many; затем = then; их = them; запись = write; бы = would; подобно = like. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Дима пишет слово «дорога» в тетради. Потом Дима думает о теме «дождь». В этом месте тихо, поэтому Дима снова читает предложение и произносит его вслух.",
+              "en": "Dima writes the word road in a notebook. Then Dima thinks about rain. The place is quiet, so Dima reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "russian-elementary-05",
+          "id": "russian-elementary-17",
           "level": "elementary",
-          "title": "Elementary 05: Слова 165-180",
+          "title": "Elementary 17: The Letter on the Table",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -7756,23 +7772,24 @@ window.LANGUAGE_CURRICULUM = {
             159,
             162
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/17-elementary-the-letter-on-the-table.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: много, движение, старый, она, когда. Новые слова: так, эти, ее, долго, сделать, вещь, посмотреть, его. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: много = much; движение = move; старый = old; она = she; когда = when. New words: так = so; эти = these; ее = her; долго = long; сделать = make; вещь = thing; посмотреть = see; его = him. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Саша идёт в университет. Там рядом есть письмо и стол. Саша читает медленно и замечает новое слово: «встреча». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Sasha is at the university. There is letter and table nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Страница 2",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: много, движение, старый, она, когда. Новые слова: два, имеет, искать, еще, день, мог, идти, приходят. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: много = much; движение = move; старый = old; она = she; когда = when. New words: два = two; имеет = has; искать = look; еще = more; день = day; мог = could; идти = go; приходят = come. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Саша пишет слово «встреча» в тетради. Потом Саша думает о теме «приглашение». В этом месте тихо, поэтому Саша снова читает предложение и произносит его вслух.",
+              "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about invitation. The place is quiet, so Sasha reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "russian-elementary-06",
+          "id": "russian-elementary-18",
           "level": "elementary",
-          "title": "Elementary 06: Слова 181-196",
+          "title": "Elementary 18: Words in the Park",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -7808,23 +7825,24 @@ window.LANGUAGE_CURRICULUM = {
             175,
             178
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/18-elementary-words-in-the-park.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: способ, затем, бы, эти, сделать. Новые слова: сделал, число, звук, нет, наиболее, люди, мой, над. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: способ = way; затем = then; бы = would; эти = these; сделать = make. New words: сделал = did; число = number; звук = sound; нет = no; наиболее = most; люди = people; мой = my; над = over. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Ирина идёт в парк. Там рядом есть телефон и чай. Ирина читает медленно и замечает новое слово: «три». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Irina is in the park. There is phone and tea nearby. Irina reads slowly and notices a new word: three. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Страница 2",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: способ, затем, бы, эти, сделать. Новые слова: знать, вода, чем, вызов, первый, кто, может, вниз. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: способ = way; затем = then; бы = would; эти = these; сделать = make. New words: знать = know; вода = water; чем = than; вызов = call; первый = first; кто = who; может = may; вниз = down. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Ирина пишет слово «три» в тетради. Потом Ирина думает о теме «речь». В этом месте тихо, поэтому Ирина снова читает предложение и произносит его вслух.",
+              "en": "Irina writes the word three in a notebook. Then Irina thinks about speaking. The place is quiet, so Irina reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "russian-elementary-07",
+          "id": "russian-elementary-19",
           "level": "elementary",
-          "title": "Elementary 07: Слова 197-212",
+          "title": "Elementary 19: The Little Plan",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -7860,23 +7878,24 @@ window.LANGUAGE_CURRICULUM = {
             191,
             194
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/19-elementary-the-little-plan.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: два, еще, идти, число, наиболее. Новые слова: сторона, был, сейчас, находить, руководитель, стоять, самостоятельно, страница. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: два = two; еще = more; идти = go; число = number; наиболее = most. New words: сторона = side; был = been; сейчас = now; находить = find; руководитель = head; стоять = stand; самостоятельно = own; страница = page. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Лена идёт в магазин. Там рядом есть карта и корзина. Лена читает медленно и замечает новое слово: «план». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Lena is in the store. There is map and basket nearby. Lena reads slowly and notices a new word: plan. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Страница 2",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: два, еще, идти, число, наиболее. Новые слова: должны, страна, найдено, ответ, школа, расти, исследование, еще. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: два = two; еще = more; идти = go; число = number; наиболее = most. New words: должны = should; страна = country; найдено = found; ответ = answer; школа = school; расти = grow; исследование = study; еще = still. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Лена пишет слово «план» в тетради. Потом Лена думает о теме «покупки». В этом месте тихо, поэтому Лена снова читает предложение и произносит его вслух.",
+              "en": "Lena writes the word plan in a notebook. Then Lena thinks about shopping. The place is quiet, so Lena reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "russian-elementary-08",
+          "id": "russian-elementary-20",
           "level": "elementary",
-          "title": "Elementary 08: Слова 213-228",
+          "title": "Elementary 20: The News Page",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -7912,23 +7931,24 @@ window.LANGUAGE_CURRICULUM = {
             207,
             210
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/20-elementary-the-news-page.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: знать, вызов, может, был, руководитель. Новые слова: учиться, завод, крышка, еда, солнце, четыре, между, состояние. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: знать = know; вызов = call; может = may; был = been; руководитель = head. New words: учиться = learn; завод = plant; крышка = cover; еда = food; солнце = sun; четыре = four; между = between; состояние = state. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Мария идёт на станцию. Там рядом есть чай и газета. Мария читает медленно и замечает новое слово: «новость». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Maria is at the station. There is tea and newspaper nearby. Maria reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Страница 2",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: знать, вызов, может, был, руководитель. Новые слова: держать, глаз, никогда не, Последнее, позволять, мысль, город, дерево. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: знать = know; вызов = call; может = may; был = been; руководитель = head. New words: держать = keep; глаз = eye; никогда не = never; Последнее = last; позволять = let; мысль = thought; город = city; дерево = tree. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Мария пишет слово «новость» в тетради. Потом Мария думает о теме «мысль». В этом месте тихо, поэтому Мария снова читает предложение и произносит его вслух.",
+              "en": "Maria writes the word news in a notebook. Then Maria thinks about thinking. The place is quiet, so Maria reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "russian-elementary-09",
+          "id": "russian-elementary-21",
           "level": "elementary",
-          "title": "Elementary 09: Слова 229-244",
+          "title": "Elementary 21: The Family Walk",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -7964,23 +7984,24 @@ window.LANGUAGE_CURRICULUM = {
             223,
             226
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/21-elementary-the-family-walk.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: должны, ответ, исследование, завод, солнце. Новые слова: пересекают, ферма, трудно, начало, мощи, история, пила, далеко. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: должны = should; ответ = answer; исследование = study; завод = plant; солнце = sun. New words: пересекают = cross; ферма = farm; трудно = hard; начало = start; мощи = might; история = story; пила = saw; далеко = far. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Анна идёт в парк. Там рядом есть мама и брат. Анна читает медленно и замечает новое слово: «дом». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Anna is in the park. There is mother and brother nearby. Anna reads slowly and notices a new word: house. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Страница 2",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: должны, ответ, исследование, завод, солнце. Новые слова: море, привлечь, слева, поздно, запустить, не, в то время как, нажмите. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: должны = should; ответ = answer; исследование = study; завод = plant; солнце = sun. New words: море = sea; привлечь = draw; слева = left; поздно = late; запустить = run; не = don’t; в то время как = while; нажмите = press. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Анна пишет слово «дом» в тетради. Потом Анна думает о теме «семья». В этом месте тихо, поэтому Анна снова читает предложение и произносит его вслух.",
+              "en": "Anna writes the word house in a notebook. Then Anna thinks about family. The place is quiet, so Anna reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "russian-elementary-10",
+          "id": "russian-elementary-22",
           "level": "elementary",
-          "title": "Elementary 10: Слова 245-260",
+          "title": "Elementary 22: The Quiet Room",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -8016,23 +8037,24 @@ window.LANGUAGE_CURRICULUM = {
             239,
             242
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/22-elementary-the-quiet-room.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: держать, Последнее, город, ферма, мощи. Новые слова: близко, ночь, реальный, жизнь, несколько, к северу, книга, нести. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: держать = keep; Последнее = last; город = city; ферма = farm; мощи = might. New words: близко = close; ночь = night; реальный = real; жизнь = life; несколько = few; к северу = north; книга = book; нести = carry. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Иван идёт в комнату. Там рядом есть стул и книга. Иван читает медленно и замечает новое слово: «комната». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Ivan is in the room. There is chair and book nearby. Ivan reads slowly and notices a new word: room. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Страница 2",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: держать, Последнее, город, ферма, мощи. Новые слова: взял, наука, есть, номер, друг, начал, идея, рыба. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: держать = keep; Последнее = last; город = city; ферма = farm; мощи = might. New words: взял = took; наука = science; есть = eat; номер = room; друг = friend; начал = began; идея = idea; рыба = fish. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Иван пишет слово «комната» в тетради. Потом Иван думает о теме «тишина». В этом месте тихо, поэтому Иван снова читает предложение и произносит его вслух.",
+              "en": "Ivan writes the word room in a notebook. Then Ivan thinks about silence. The place is quiet, so Ivan reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "russian-elementary-11",
+          "id": "russian-elementary-23",
           "level": "elementary",
-          "title": "Elementary 11: Слова 261-275",
+          "title": "Elementary 23: The New Teacher",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -8067,23 +8089,24 @@ window.LANGUAGE_CURRICULUM = {
             255,
             258
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/23-elementary-the-new-teacher.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: море, поздно, в то время как, ночь, несколько. Новые слова: гора, остановить, раз, база, слышать, лошадь, вырезать, уверен. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: море = sea; поздно = late; в то время как = while; ночь = night; несколько = few. New words: гора = mountain; остановить = stop; раз = once; база = base; слышать = hear; лошадь = horse; вырезать = cut; уверен = sure. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Маша идёт в школу. Там рядом есть учитель и доска. Маша читает медленно и замечает новое слово: «вопрос». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Masha is at school. There is teacher and board nearby. Masha reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Страница 2",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: море, поздно, в то время как, ночь, несколько. Новые слова: смотреть, цвет, лицо, дерево, основной, открыт, кажется. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: море = sea; поздно = late; в то время как = while; ночь = night; несколько = few. New words: смотреть = watch; цвет = color; лицо = face; дерево = wood; основной = main; открыт = open; кажется = seem. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Маша пишет слово «вопрос» в тетради. Потом Маша думает о теме «обучение». В этом месте тихо, поэтому Маша снова читает предложение и произносит его вслух.",
+              "en": "Masha writes the word question in a notebook. Then Masha thinks about learning. The place is quiet, so Masha reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "russian-elementary-12",
+          "id": "russian-elementary-24",
           "level": "elementary",
-          "title": "Elementary 12: Слова 276-290",
+          "title": "Elementary 24: The Bus Stop",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -8118,23 +8141,24 @@ window.LANGUAGE_CURRICULUM = {
             270,
             273
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/24-elementary-the-bus-stop.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: нести, есть, начал, гора, база. Новые слова: вместе, следующий, белый, дети, начать, получил, ходить, пример. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: нести = carry; есть = eat; начал = began; гора = mountain; база = base. New words: вместе = together; следующий = next; белый = white; дети = children; начать = begin; получил = got; ходить = walk; пример = example. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Павел идёт на улицу. Там рядом есть билет и автобус. Павел читает медленно и замечает новое слово: «время». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Pavel is on the street. There is ticket and bus nearby. Pavel reads slowly and notices a new word: time. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Страница 2",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: нести, есть, начал, гора, база. Новые слова: легкость, бумага, группа, всегда, музыка, тех,, как. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: нести = carry; есть = eat; начал = began; гора = mountain; база = base. New words: легкость = ease; бумага = paper; группа = group; всегда = always; музыка = music; тех, = those; как = both. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Павел пишет слово «время» в тетради. Потом Павел думает о теме «ожидание». В этом месте тихо, поэтому Павел снова читает предложение и произносит его вслух.",
+              "en": "Pavel writes the word time in a notebook. Then Pavel thinks about waiting. The place is quiet, so Pavel reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "russian-elementary-13",
+          "id": "russian-elementary-25",
           "level": "elementary",
-          "title": "Elementary 13: Слова 291-305",
+          "title": "Elementary 25: The Small Market",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -8169,23 +8193,24 @@ window.LANGUAGE_CURRICULUM = {
             285,
             288
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/25-elementary-the-small-market.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: вырезать, цвет, основной, вместе, дети. Новые слова: знак, часто, письмо, до, км, река, автомобиль, футов. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: вырезать = cut; цвет = color; основной = main; вместе = together; дети = children. New words: знак = mark; часто = often; письмо = letter; до = until; км = mile; река = river; автомобиль = car; футов = feet. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Ольга идёт на рынок. Там рядом есть фрукты и сумка. Ольга читает медленно и замечает новое слово: «деньги». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Olga is at the market. There is fruit and bag nearby. Olga reads slowly and notices a new word: money. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Страница 2",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: вырезать, цвет, основной, вместе, дети. Новые слова: уход, Второй, достаточно, равнина, девушка, обычно, молодой. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: вырезать = cut; цвет = color; основной = main; вместе = together; дети = children. New words: уход = care; Второй = second; достаточно = enough; равнина = plain; девушка = girl; обычно = usual; молодой = young. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Ольга пишет слово «деньги» в тетради. Потом Ольга думает о теме «рынок». В этом месте тихо, поэтому Ольга снова читает предложение и произносит его вслух.",
+              "en": "Olga writes the word money in a notebook. Then Olga thinks about market. The place is quiet, so Olga reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "russian-elementary-14",
+          "id": "russian-elementary-26",
           "level": "elementary",
-          "title": "Elementary 14: Слова 306-320",
+          "title": "Elementary 26: The First Conversation",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -8220,23 +8245,24 @@ window.LANGUAGE_CURRICULUM = {
             300,
             303
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/26-elementary-the-first-conversation.txt",
           "sections": [
             {
-              "heading": "Страница 1",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: ходить, бумага, музыка, знак, до. Новые слова: готовый, выше, когда-либо, красный, список, хотя, чувствовать, разговор. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: ходить = walk; бумага = paper; музыка = music; знак = mark; до = until. New words: готовый = ready; выше = above; когда-либо = ever; красный = red; список = list; хотя = though; чувствовать = feel; разговор = talk. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Дима идёт в кафе. Там рядом есть телефон и друг. Дима читает медленно и замечает новое слово: «предложение». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Dima is in the cafe. There is phone and friend nearby. Dima reads slowly and notices a new word: sentence. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Страница 2",
-              "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: ходить, бумага, музыка, знак, до. Новые слова: птица, скоро, тело, собака, семья, прямой, представляют. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: ходить = walk; бумага = paper; музыка = music; знак = mark; до = until. New words: птица = bird; скоро = soon; тело = body; собака = dog; семья = family; прямой = direct; представляют = pose. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Дима пишет слово «предложение» в тетради. Потом Дима думает о теме «разговор». В этом месте тихо, поэтому Дима снова читает предложение и произносит его вслух.",
+              "en": "Dima writes the word sentence in a notebook. Then Dima thinks about talk. The place is quiet, so Dima reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "russian-intermediate-01",
+          "id": "russian-intermediate-27",
           "level": "intermediate",
-          "title": "Intermediate 01: Слова 321-344",
+          "title": "Intermediate 27: The Lost Note",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -8280,28 +8306,29 @@ window.LANGUAGE_CURRICULUM = {
             315,
             318
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/27-intermediate-the-lost-note.txt",
           "sections": [
             {
-              "heading": "Глава 1 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: автомобиль, Второй, девушка, готовый, красный. Новые слова: оставить, песня, измерять, дверь, продукт, черный, короткая, цифра. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: автомобиль = car; Второй = second; девушка = girl; готовый = ready; красный = red. New words: оставить = leave; песня = song; измерять = measure; дверь = door; продукт = product; черный = black; короткая = short; цифра = numeral. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Катя идёт в библиотеку. Там рядом есть записка и карта. Катя читает медленно и замечает новое слово: «место». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Katya is in the library. There is note and map nearby. Katya reads slowly and notices a new word: place. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Глава 2 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: автомобиль, Второй, девушка, готовый, красный. Новые слова: класс, ветер, вопрос, произойдет, полная, корабль, площадь, половина. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: автомобиль = car; Второй = second; девушка = girl; готовый = ready; красный = red. New words: класс = class; ветер = wind; вопрос = question; произойдет = happen; полная = complete; корабль = ship; площадь = area; половина = half. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Катя пишет слово «место» в тетради. Потом Катя думает о теме «поиск». В этом месте тихо, поэтому Катя снова читает предложение и произносит его вслух.",
+              "en": "Katya writes the word place in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
             },
             {
-              "heading": "Глава 3 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: автомобиль, Второй, девушка, готовый, красный. Новые слова: рок, порядок, огонь, юг, проблема, кусок, сказал, знал. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: автомобиль = car; Второй = second; девушка = girl; готовый = ready; красный = red. New words: рок = rock; порядок = order; огонь = fire; юг = south; проблема = problem; кусок = piece; сказал = told; знал = knew. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "Появляется маленькая трудность, но Катя использует новые слова. Катя смотрит на записка, потом на карта, и составляет простой план. В конце Катя может сказать одно понятное предложение.",
+              "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the note, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
             }
           ]
         },
         {
-          "id": "russian-intermediate-02",
+          "id": "russian-intermediate-28",
           "level": "intermediate",
-          "title": "Intermediate 02: Слова 345-368",
+          "title": "Intermediate 28: A Meeting at Noon",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -8345,28 +8372,29 @@ window.LANGUAGE_CURRICULUM = {
             339,
             342
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/28-intermediate-a-meeting-at-noon.txt",
           "sections": [
             {
-              "heading": "Глава 1 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: оставить, дверь, короткая, ветер, полная. Новые слова: проходить, с, топ, весь, король, улица, дюйм, умножить. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: оставить = leave; дверь = door; короткая = short; ветер = wind; полная = complete. New words: проходить = pass; с = since; топ = top; весь = whole; король = king; улица = street; дюйм = inch; умножить = multiply. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Саша идёт в университет. Там рядом есть часы и письмо. Саша читает медленно и замечает новое слово: «полдень». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Sasha is at the university. There is clock and letter nearby. Sasha reads slowly and notices a new word: noon. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Глава 2 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: оставить, дверь, короткая, ветер, полная. Новые слова: ничего, курс, оставаться, колеса, полный, сила, синий, объект. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: оставить = leave; дверь = door; короткая = short; ветер = wind; полная = complete. New words: ничего = nothing; курс = course; оставаться = stay; колеса = wheel; полный = full; сила = force; синий = blue; объект = object. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Саша пишет слово «полдень» в тетради. Потом Саша думает о теме «встреча». В этом месте тихо, поэтому Саша снова читает предложение и произносит его вслух.",
+              "en": "Sasha writes the word noon in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
             },
             {
-              "heading": "Глава 3 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: оставить, дверь, короткая, ветер, полная. Новые слова: решать, поверхность, глубоко, луна, остров, фут, система, занято. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: оставить = leave; дверь = door; короткая = short; ветер = wind; полная = complete. New words: решать = decide; поверхность = surface; глубоко = deep; луна = moon; остров = island; фут = foot; система = system; занято = busy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "Появляется маленькая трудность, но Саша использует новые слова. Саша смотрит на часы, потом на письмо, и составляет простой план. В конце Саша может сказать одно понятное предложение.",
+              "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the clock, looks at the letter, and makes a simple plan. By the end, Sasha can say one clear sentence."
             }
           ]
         },
         {
-          "id": "russian-intermediate-03",
+          "id": "russian-intermediate-29",
           "level": "intermediate",
-          "title": "Intermediate 03: Слова 369-392",
+          "title": "Intermediate 29: The Old Map",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -8410,28 +8438,29 @@ window.LANGUAGE_CURRICULUM = {
             363,
             366
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/29-intermediate-the-old-map.txt",
           "sections": [
             {
-              "heading": "Глава 1 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: проходить, весь, дюйм, курс, полный. Новые слова: тест, запись, лодка, общая, золото, возможно, самолет, вместо него. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: проходить = pass; весь = whole; дюйм = inch; курс = course; полный = full. New words: тест = test; запись = record; лодка = boat; общая = common; золото = gold; возможно = possible; самолет = plane; вместо него = stead. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Николай идёт в музей. Там рядом есть карта и улица. Николай читает медленно и замечает новое слово: «город». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Nikolay is in the museum. There is map and street nearby. Nikolay reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Глава 2 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: проходить, весь, дюйм, курс, полный. Новые слова: сухой, Интересно, смех, тыс, назад, побежал, проверять, игра. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: проходить = pass; весь = whole; дюйм = inch; курс = course; полный = full. New words: сухой = dry; Интересно = wonder; смех = laugh; тыс = thousand; назад = ago; побежал = ran; проверять = check; игра = game. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Николай пишет слово «город» в тетради. Потом Николай думает о теме «история». В этом месте тихо, поэтому Николай снова читает предложение и произносит его вслух.",
+              "en": "Nikolay writes the word city in a notebook. Then Nikolay thinks about history. The place is quiet, so Nikolay reads the sentence again and says it softly."
             },
             {
-              "heading": "Глава 3 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: проходить, весь, дюйм, курс, полный. Новые слова: форма, приравнять, горячий, мисс, принес, тепло, снег, шина. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: проходить = pass; весь = whole; дюйм = inch; курс = course; полный = full. New words: форма = shape; приравнять = equate; горячий = hot; мисс = miss; принес = brought; тепло = heat; снег = snow; шина = tire. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "Появляется маленькая трудность, но Николай использует новые слова. Николай смотрит на карта, потом на улица, и составляет простой план. В конце Николай может сказать одно понятное предложение.",
+              "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the map, looks at the street, and makes a simple plan. By the end, Nikolay can say one clear sentence."
             }
           ]
         },
         {
-          "id": "russian-intermediate-04",
+          "id": "russian-intermediate-30",
           "level": "intermediate",
-          "title": "Intermediate 04: Слова 393-416",
+          "title": "Intermediate 30: The Rainy Lesson",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -8475,28 +8504,29 @@ window.LANGUAGE_CURRICULUM = {
             387,
             390
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/30-intermediate-the-rainy-lesson.txt",
           "sections": [
             {
-              "heading": "Глава 1 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: тест, общая, самолет, Интересно, назад. Новые слова: приносить, да, удаленная, заполнить, восток, краска, язык, среди. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: тест = test; общая = common; самолет = plane; Интересно = wonder; назад = ago. New words: приносить = bring; да = yes; удаленная = distant; заполнить = fill; восток = east; краска = paint; язык = language; среди = among. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Ирина идёт в школу. Там рядом есть окно и дождь. Ирина читает медленно и замечает новое слово: «погода». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Irina is at school. There is window and rain nearby. Irina reads slowly and notices a new word: weather. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Глава 2 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: тест, общая, самолет, Интересно, назад. Новые слова: блок, мощность, город, отлично, уверен, летать, падать, привести. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: тест = test; общая = common; самолет = plane; Интересно = wonder; назад = ago. New words: блок = unit; мощность = power; город = town; отлично = fine; уверен = certain; летать = fly; падать = fall; привести = lead. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Ирина пишет слово «погода» в тетради. Потом Ирина думает о теме «учёба». В этом месте тихо, поэтому Ирина снова читает предложение и произносит его вслух.",
+              "en": "Irina writes the word weather in a notebook. Then Irina thinks about study. The place is quiet, so Irina reads the sentence again and says it softly."
             },
             {
-              "heading": "Глава 3 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: тест, общая, самолет, Интересно, назад. Новые слова: крик, темно, машина, примечание, ждать, план, фигура, звезда. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: тест = test; общая = common; самолет = plane; Интересно = wonder; назад = ago. New words: крик = cry; темно = dark; машина = machine; примечание = note; ждать = wait; план = plan; фигура = figure; звезда = star. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "Появляется маленькая трудность, но Ирина использует новые слова. Ирина смотрит на окно, потом на дождь, и составляет простой план. В конце Ирина может сказать одно понятное предложение.",
+              "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the window, looks at the rain, and makes a simple plan. By the end, Irina can say one clear sentence."
             }
           ]
         },
         {
-          "id": "russian-intermediate-05",
+          "id": "russian-intermediate-31",
           "level": "intermediate",
-          "title": "Intermediate 05: Слова 417-440",
+          "title": "Intermediate 31: The Museum Question",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -8540,28 +8570,29 @@ window.LANGUAGE_CURRICULUM = {
             411,
             414
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/31-intermediate-the-museum-question.txt",
           "sections": [
             {
-              "heading": "Глава 1 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: приносить, заполнить, язык, мощность, уверен. Новые слова: коробка, существительное, поле, остальные, верный, состоянии, фунт, сделано. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: приносить = bring; заполнить = fill; язык = language; мощность = power; уверен = certain. New words: коробка = box; существительное = noun; поле = field; остальные = rest; верный = correct; состоянии = able; фунт = pound; сделано = done. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Павел идёт в музей. Там рядом есть картина и тетрадь. Павел читает медленно и замечает новое слово: «вопрос». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Pavel is in the museum. There is picture and notebook nearby. Pavel reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Глава 2 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: приносить, заполнить, язык, мощность, уверен. Новые слова: красота, привод, стоял, содержать, передние, учить, неделя, окончательный. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: приносить = bring; заполнить = fill; язык = language; мощность = power; уверен = certain. New words: красота = beauty; привод = drive; стоял = stood; содержать = contain; передние = front; учить = teach; неделя = week; окончательный = final. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Павел пишет слово «вопрос» в тетради. Потом Павел думает о теме «ответ». В этом месте тихо, поэтому Павел снова читает предложение и произносит его вслух.",
+              "en": "Pavel writes the word question in a notebook. Then Pavel thinks about answer. The place is quiet, so Pavel reads the sentence again and says it softly."
             },
             {
-              "heading": "Глава 3 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: приносить, заполнить, язык, мощность, уверен. Новые слова: дал, зеленый, ой, быстро, развивать, океан, теплый, бесплатно. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: приносить = bring; заполнить = fill; язык = language; мощность = power; уверен = certain. New words: дал = gave; зеленый = green; ой = oh; быстро = quick; развивать = develop; океан = ocean; теплый = warm; бесплатно = free. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "Появляется маленькая трудность, но Павел использует новые слова. Павел смотрит на картина, потом на тетрадь, и составляет простой план. В конце Павел может сказать одно понятное предложение.",
+              "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the picture, looks at the notebook, and makes a simple plan. By the end, Pavel can say one clear sentence."
             }
           ]
         },
         {
-          "id": "russian-intermediate-06",
+          "id": "russian-intermediate-32",
           "level": "intermediate",
-          "title": "Intermediate 06: Слова 441-464",
+          "title": "Intermediate 32: The Train Delay",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -8605,28 +8636,29 @@ window.LANGUAGE_CURRICULUM = {
             435,
             438
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/32-intermediate-the-train-delay.txt",
           "sections": [
             {
-              "heading": "Глава 1 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: коробка, остальные, фунт, привод, передние. Новые слова: минут, сильный, специальный, ум, за, ясно, хвост, производить. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: коробка = box; остальные = rest; фунт = pound; привод = drive; передние = front. New words: минут = minute; сильный = strong; специальный = special; ум = mind; за = behind; ясно = clear; хвост = tail; производить = produce. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Мария идёт на станцию. Там рядом есть билет и часы. Мария читает медленно и замечает новое слово: «ждать». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Maria is at the station. There is ticket and clock nearby. Maria reads slowly and notices a new word: wait. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Глава 2 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: коробка, остальные, фунт, привод, передние. Новые слова: факт, пространство, слышал, лучше, час, лучше, правда, во. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: коробка = box; остальные = rest; фунт = pound; привод = drive; передние = front. New words: факт = fact; пространство = space; слышал = heard; лучше = best; час = hour; лучше = better; правда = true; во = during. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Мария пишет слово «ждать» в тетради. Потом Мария думает о теме «поездка». В этом месте тихо, поэтому Мария снова читает предложение и произносит его вслух.",
+              "en": "Maria writes the word wait in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
             },
             {
-              "heading": "Глава 3 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: коробка, остальные, фунт, привод, передние. Новые слова: сто, пять, запомнить, шаг, рано, удерживайте, запад, земля. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: коробка = box; остальные = rest; фунт = pound; привод = drive; передние = front. New words: сто = hundred; пять = five; запомнить = remember; шаг = step; рано = early; удерживайте = hold; запад = west; земля = ground. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "Появляется маленькая трудность, но Мария использует новые слова. Мария смотрит на билет, потом на часы, и составляет простой план. В конце Мария может сказать одно понятное предложение.",
+              "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the clock, and makes a simple plan. By the end, Maria can say one clear sentence."
             }
           ]
         },
         {
-          "id": "russian-intermediate-07",
+          "id": "russian-intermediate-33",
           "level": "intermediate",
-          "title": "Intermediate 07: Слова 465-488",
+          "title": "Intermediate 33: Music in the Cafe",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -8670,28 +8702,29 @@ window.LANGUAGE_CURRICULUM = {
             459,
             462
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/33-intermediate-music-in-the-cafe.txt",
           "sections": [
             {
-              "heading": "Глава 1 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: минут, ум, хвост, пространство, час. Новые слова: интерес, достичь, быстро, глагол, петь, слушать, шесть, стол. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: минут = minute; ум = mind; хвост = tail; пространство = space; час = hour. New words: интерес = interest; достичь = reach; быстро = fast; глагол = verb; петь = sing; слушать = listen; шесть = six; стол = table. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Ольга идёт в кафе. Там рядом есть музыка и чай. Ольга читает медленно и замечает новое слово: «песня». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Olga is in the cafe. There is music and tea nearby. Olga reads slowly and notices a new word: song. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Глава 2 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: минут, ум, хвост, пространство, час. Новые слова: поездки, меньше, утро, десять, простой, несколько, гласный, к. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: минут = minute; ум = mind; хвост = tail; пространство = space; час = hour. New words: поездки = travel; меньше = less; утро = morning; десять = ten; простой = simple; несколько = several; гласный = vowel; к = toward. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Ольга пишет слово «песня» в тетради. Потом Ольга думает о теме «память». В этом месте тихо, поэтому Ольга снова читает предложение и произносит его вслух.",
+              "en": "Olga writes the word song in a notebook. Then Olga thinks about memory. The place is quiet, so Olga reads the sentence again and says it softly."
             },
             {
-              "heading": "Глава 3 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: минут, ум, хвост, пространство, час. Новые слова: война, заложить, против, шаблон, медленно, центр, любовь, человек. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: минут = minute; ум = mind; хвост = tail; пространство = space; час = hour. New words: война = war; заложить = lay; против = against; шаблон = pattern; медленно = slow; центр = center; любовь = love; человек = person. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "Появляется маленькая трудность, но Ольга использует новые слова. Ольга смотрит на музыка, потом на чай, и составляет простой план. В конце Ольга может сказать одно понятное предложение.",
+              "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the music, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
             }
           ]
         },
         {
-          "id": "russian-intermediate-08",
+          "id": "russian-intermediate-34",
           "level": "intermediate",
-          "title": "Intermediate 08: Слова 489-512",
+          "title": "Intermediate 34: A Letter from a Friend",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -8735,28 +8768,29 @@ window.LANGUAGE_CURRICULUM = {
             483,
             486
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/34-intermediate-a-letter-from-a-friend.txt",
           "sections": [
             {
-              "heading": "Глава 1 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: интерес, глагол, шесть, меньше, простой. Новые слова: деньги, служить, появляются, дорога, карта, дождь, правило, управлять. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: интерес = interest; глагол = verb; шесть = six; меньше = less; простой = simple. New words: деньги = money; служить = serve; появляются = appear; дорога = road; карта = map; дождь = rain; правило = rule; управлять = govern. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Дима идёт домой. Там рядом есть письмо и телефон. Дима читает медленно и замечает новое слово: «друг». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Dima is at home. There is letter and phone nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Глава 2 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: интерес, глагол, шесть, меньше, простой. Новые слова: тянуть, холодный, уведомление, голос, энергия, охота, вероятный, кровать. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: интерес = interest; глагол = verb; шесть = six; меньше = less; простой = simple. New words: тянуть = pull; холодный = cold; уведомление = notice; голос = voice; энергия = energy; охота = hunt; вероятный = probable; кровать = bed. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Дима пишет слово «друг» в тетради. Потом Дима думает о теме «приглашение». В этом месте тихо, поэтому Дима снова читает предложение и произносит его вслух.",
+              "en": "Dima writes the word friend in a notebook. Then Dima thinks about invitation. The place is quiet, so Dima reads the sentence again and says it softly."
             },
             {
-              "heading": "Глава 3 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: интерес, глагол, шесть, меньше, простой. Новые слова: брат, яйцо, поездка, клеток, верить, возможно,, выбрать, внезапный. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: интерес = interest; глагол = verb; шесть = six; меньше = less; простой = simple. New words: брат = brother; яйцо = egg; поездка = ride; клеток = cell; верить = believe; возможно, = perhaps; выбрать = pick; внезапный = sudden. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "Появляется маленькая трудность, но Дима использует новые слова. Дима смотрит на письмо, потом на телефон, и составляет простой план. В конце Дима может сказать одно понятное предложение.",
+              "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the letter, looks at the phone, and makes a simple plan. By the end, Dima can say one clear sentence."
             }
           ]
         },
         {
-          "id": "russian-intermediate-09",
+          "id": "russian-intermediate-35",
           "level": "intermediate",
-          "title": "Intermediate 09: Слова 513-535",
+          "title": "Intermediate 35: The School Project",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -8799,28 +8833,29 @@ window.LANGUAGE_CURRICULUM = {
             507,
             510
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/35-intermediate-the-school-project.txt",
           "sections": [
             {
-              "heading": "Глава 1 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: деньги, дорога, правило, холодный, энергия. Новые слова: считать, Квадратный, причина, длина, представлять, искусство, Заголовок, область. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: деньги = money; дорога = road; правило = rule; холодный = cold; энергия = energy. New words: считать = count; Квадратный = square; причина = reason; длина = length; представлять = represent; искусство = art; Заголовок = subject; область = region. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Маша идёт в школу. Там рядом есть бумага и учитель. Маша читает медленно и замечает новое слово: «проект». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Masha is at school. There is paper and teacher nearby. Masha reads slowly and notices a new word: project. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Глава 2 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: деньги, дорога, правило, холодный, энергия. Новые слова: размер, меняться, урегулировать, говорить, вес, общий, лед, дело. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: деньги = money; дорога = road; правило = rule; холодный = cold; энергия = energy. New words: размер = size; меняться = vary; урегулировать = settle; говорить = speak; вес = weight; общий = general; лед = ice; дело = matter. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Маша пишет слово «проект» в тетради. Потом Маша думает о теме «группа». В этом месте тихо, поэтому Маша снова читает предложение и произносит его вслух.",
+              "en": "Masha writes the word project in a notebook. Then Masha thinks about group. The place is quiet, so Masha reads the sentence again and says it softly."
             },
             {
-              "heading": "Глава 3 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: деньги, дорога, правило, холодный, энергия. Новые слова: круг, пара, включают, разделяй, слог, чувствовал, великий. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: деньги = money; дорога = road; правило = rule; холодный = cold; энергия = energy. New words: круг = circle; пара = pair; включают = include; разделяй = divide; слог = syllable; чувствовал = felt; великий = grand. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "Появляется маленькая трудность, но Маша использует новые слова. Маша смотрит на бумага, потом на учитель, и составляет простой план. В конце Маша может сказать одно понятное предложение.",
+              "en": "A small problem appears, but Masha uses the new words to understand it. Masha checks the paper, looks at the teacher, and makes a simple plan. By the end, Masha can say one clear sentence."
             }
           ]
         },
         {
-          "id": "russian-intermediate-10",
+          "id": "russian-intermediate-36",
           "level": "intermediate",
-          "title": "Intermediate 10: Слова 536-558",
+          "title": "Intermediate 36: The City Walk",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -8863,28 +8898,29 @@ window.LANGUAGE_CURRICULUM = {
             530,
             533
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/36-intermediate-the-city-walk.txt",
           "sections": [
             {
-              "heading": "Глава 1 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: внезапный, причина, искусство, размер, говорить. Новые слова: мяч, еще, волна, падение, сердце, утра, присутствует, тяжелый. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: внезапный = sudden; причина = reason; искусство = art; размер = size; говорить = speak. New words: мяч = ball; еще = yet; волна = wave; падение = drop; сердце = heart; утра = am; присутствует = present; тяжелый = heavy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Анна идёт в город. Там рядом есть улица и окно. Анна читает медленно и замечает новое слово: «прогулка». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Anna is in the city. There is street and window nearby. Anna reads slowly and notices a new word: walk. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Глава 2 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: внезапный, причина, искусство, размер, говорить. Новые слова: танец, двигатель, положение, рука, широкий, парус, материал, доля. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: внезапный = sudden; причина = reason; искусство = art; размер = size; говорить = speak. New words: танец = dance; двигатель = engine; положение = position; рука = arm; широкий = wide; парус = sail; материал = material; доля = fraction. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Анна пишет слово «прогулка» в тетради. Потом Анна думает о теме «место». В этом месте тихо, поэтому Анна снова читает предложение и произносит его вслух.",
+              "en": "Anna writes the word walk in a notebook. Then Anna thinks about place. The place is quiet, so Anna reads the sentence again and says it softly."
             },
             {
-              "heading": "Глава 3 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: внезапный, причина, искусство, размер, говорить. Новые слова: лес, сидеть, гонка, окно, магазин, лето, поезд. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: внезапный = sudden; причина = reason; искусство = art; размер = size; говорить = speak. New words: лес = forest; сидеть = sit; гонка = race; окно = window; магазин = store; лето = summer; поезд = train. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "Появляется маленькая трудность, но Анна использует новые слова. Анна смотрит на улица, потом на окно, и составляет простой план. В конце Анна может сказать одно понятное предложение.",
+              "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the street, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
             }
           ]
         },
         {
-          "id": "russian-intermediate-11",
+          "id": "russian-intermediate-37",
           "level": "intermediate",
-          "title": "Intermediate 11: Слова 559-581",
+          "title": "Intermediate 37: The Bookshop Door",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -8927,28 +8963,29 @@ window.LANGUAGE_CURRICULUM = {
             553,
             556
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/37-intermediate-the-bookshop-door.txt",
           "sections": [
             {
-              "heading": "Глава 1 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: великий, волна, утра, танец, рука. Новые слова: сон, доказывать, одинокий, нога, упражнение, стена, улов, крепление. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: великий = grand; волна = wave; утра = am; танец = dance; рука = arm. New words: сон = sleep; доказывать = prove; одинокий = lone; нога = leg; упражнение = exercise; стена = wall; улов = catch; крепление = mount. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Иван идёт в книжный магазин. Там рядом есть дверь и книга. Иван читает медленно и замечает новое слово: «открыть». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Ivan is in the bookshop. There is door and book nearby. Ivan reads slowly and notices a new word: open. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Глава 2 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: великий, волна, утра, танец, рука. Новые слова: хотите, небо, доска, радость, зима, Сб, написанный, дикий. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: великий = grand; волна = wave; утра = am; танец = dance; рука = arm. New words: хотите = wish; небо = sky; доска = board; радость = joy; зима = winter; Сб = sat; написанный = written; дикий = wild. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Иван пишет слово «открыть» в тетради. Потом Иван думает о теме «чтение». В этом месте тихо, поэтому Иван снова читает предложение и произносит его вслух.",
+              "en": "Ivan writes the word open in a notebook. Then Ivan thinks about reading. The place is quiet, so Ivan reads the sentence again and says it softly."
             },
             {
-              "heading": "Глава 3 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: великий, волна, утра, танец, рука. Новые слова: инструмент, хранится, стекло, трава, корова, работа, край. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: великий = grand; волна = wave; утра = am; танец = dance; рука = arm. New words: инструмент = instrument; хранится = kept; стекло = glass; трава = grass; корова = cow; работа = job; край = edge. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "Появляется маленькая трудность, но Иван использует новые слова. Иван смотрит на дверь, потом на книга, и составляет простой план. В конце Иван может сказать одно понятное предложение.",
+              "en": "A small problem appears, but Ivan uses the new words to understand it. Ivan checks the door, looks at the book, and makes a simple plan. By the end, Ivan can say one clear sentence."
             }
           ]
         },
         {
-          "id": "russian-intermediate-12",
+          "id": "russian-intermediate-38",
           "level": "intermediate",
-          "title": "Intermediate 12: Слова 582-604",
+          "title": "Intermediate 38: The Family Story",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -8991,28 +9028,29 @@ window.LANGUAGE_CURRICULUM = {
             576,
             579
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/38-intermediate-the-family-story.txt",
           "sections": [
             {
-              "heading": "Глава 1 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: поезд, одинокий, стена, хотите, радость. Новые слова: знак, визит, мимо, мягкая, весело, яркий, газа, погода. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: поезд = train; одинокий = lone; стена = wall; хотите = wish; радость = joy. New words: знак = sign; визит = visit; мимо = past; мягкая = soft; весело = fun; яркий = bright; газа = gas; погода = weather. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Лена идёт домой. Там рядом есть мама и фото. Лена читает медленно и замечает новое слово: «история». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Lena is at home. There is mother and photo nearby. Lena reads slowly and notices a new word: story. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Глава 2 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: поезд, одинокий, стена, хотите, радость. Новые слова: месяц, миллион, нести, отделка, счастливы, надеюсь, цветок, одевать. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: поезд = train; одинокий = lone; стена = wall; хотите = wish; радость = joy. New words: месяц = month; миллион = million; нести = bear; отделка = finish; счастливы = happy; надеюсь = hope; цветок = flower; одевать = clothe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Лена пишет слово «история» в тетради. Потом Лена думает о теме «семья». В этом месте тихо, поэтому Лена снова читает предложение и произносит его вслух.",
+              "en": "Lena writes the word story in a notebook. Then Lena thinks about family. The place is quiet, so Lena reads the sentence again and says it softly."
             },
             {
-              "heading": "Глава 3 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: поезд, одинокий, стена, хотите, радость. Новые слова: странный, ушел, торговля, мелодия, поездка, офис, получать. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: поезд = train; одинокий = lone; стена = wall; хотите = wish; радость = joy. New words: странный = strange; ушел = gone; торговля = trade; мелодия = melody; поездка = trip; офис = office; получать = receive. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "Появляется маленькая трудность, но Лена использует новые слова. Лена смотрит на мама, потом на фото, и составляет простой план. В конце Лена может сказать одно понятное предложение.",
+              "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the mother, looks at the photo, and makes a simple plan. By the end, Lena can say one clear sentence."
             }
           ]
         },
         {
-          "id": "russian-intermediate-13",
+          "id": "russian-intermediate-39",
           "level": "intermediate",
-          "title": "Intermediate 13: Слова 605-627",
+          "title": "Intermediate 39: The Important Word",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -9055,28 +9093,29 @@ window.LANGUAGE_CURRICULUM = {
             599,
             602
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/39-intermediate-the-important-word.txt",
           "sections": [
             {
-              "heading": "Глава 1 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: край, мимо, яркий, месяц, отделка. Новые слова: строка, рот, точный, символ, умереть, мере, беда, крик. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: край = edge; мимо = past; яркий = bright; месяц = month; отделка = finish. New words: строка = row; рот = mouth; точный = exact; символ = symbol; умереть = die; мере = least; беда = trouble; крик = shout. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Павел идёт в библиотеку. Там рядом есть словарь и бумага. Павел читает медленно и замечает новое слово: «значение». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Pavel is in the library. There is dictionary and paper nearby. Pavel reads slowly and notices a new word: meaning. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Глава 2 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: край, мимо, яркий, месяц, отделка. Новые слова: кроме, писал, семян, тон, присоединиться, предложить, чистый, перерыв. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: край = edge; мимо = past; яркий = bright; месяц = month; отделка = finish. New words: кроме = except; писал = wrote; семян = seed; тон = tone; присоединиться = join; предложить = suggest; чистый = clean; перерыв = break. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Павел пишет слово «значение» в тетради. Потом Павел думает о теме «язык». В этом месте тихо, поэтому Павел снова читает предложение и произносит его вслух.",
+              "en": "Pavel writes the word meaning in a notebook. Then Pavel thinks about language. The place is quiet, so Pavel reads the sentence again and says it softly."
             },
             {
-              "heading": "Глава 3 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: край, мимо, яркий, месяц, отделка. Новые слова: леди, двор, подниматься, плохо, удар, масло, кровь. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: край = edge; мимо = past; яркий = bright; месяц = month; отделка = finish. New words: леди = lady; двор = yard; подниматься = rise; плохо = bad; удар = blow; масло = oil; кровь = blood. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "Появляется маленькая трудность, но Павел использует новые слова. Павел смотрит на словарь, потом на бумага, и составляет простой план. В конце Павел может сказать одно понятное предложение.",
+              "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the dictionary, looks at the paper, and makes a simple plan. By the end, Pavel can say one clear sentence."
             }
           ]
         },
         {
-          "id": "russian-intermediate-14",
+          "id": "russian-intermediate-40",
           "level": "intermediate",
-          "title": "Intermediate 14: Слова 628-650",
+          "title": "Intermediate 40: Closer Every Day",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -9119,28 +9158,29 @@ window.LANGUAGE_CURRICULUM = {
             622,
             625
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/40-intermediate-closer-every-day.txt",
           "sections": [
             {
-              "heading": "Глава 1 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: получать, точный, мере, кроме, тон. Новые слова: коснуться, выросла, цент, смешивать, команда, провод, Стоимость, потерянный. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: получать = receive; точный = exact; мере = least; кроме = except; тон = tone. New words: коснуться = touch; выросла = grew; цент = cent; смешивать = mix; команда = team; провод = wire; Стоимость = cost; потерянный = lost. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Ирина идёт в парк. Там рядом есть тетрадь и чай. Ирина читает медленно и замечает новое слово: «ближе». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Irina is in the park. There is notebook and tea nearby. Irina reads slowly and notices a new word: closer. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Глава 2 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: получать, точный, мере, кроме, тон. Новые слова: коричневый, носить, сад, равный, отправлено, выбирать, упал, соответствовать. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: получать = receive; точный = exact; мере = least; кроме = except; тон = tone. New words: коричневый = brown; носить = wear; сад = garden; равный = equal; отправлено = sent; выбирать = choose; упал = fell; соответствовать = fit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Ирина пишет слово «ближе» в тетради. Потом Ирина думает о теме «повторение». В этом месте тихо, поэтому Ирина снова читает предложение и произносит его вслух.",
+              "en": "Irina writes the word closer in a notebook. Then Irina thinks about review. The place is quiet, so Irina reads the sentence again and says it softly."
             },
             {
-              "heading": "Глава 3 / 3",
-              "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: получать, точный, мере, кроме, тон. Новые слова: течь, ярмарка, банк, собирать, сохранить, контроль, десятичной. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: получать = receive; точный = exact; мере = least; кроме = except; тон = tone. New words: течь = flow; ярмарка = fair; банк = bank; собирать = collect; сохранить = save; контроль = control; десятичной = decimal. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "Появляется маленькая трудность, но Ирина использует новые слова. Ирина смотрит на тетрадь, потом на чай, и составляет простой план. В конце Ирина может сказать одно понятное предложение.",
+              "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the notebook, looks at the tea, and makes a simple plan. By the end, Irina can say one clear sentence."
             }
           ]
         },
         {
-          "id": "russian-advanced-01",
+          "id": "russian-advanced-41",
           "level": "advanced",
-          "title": "Advanced 01: Слова 651-685",
+          "title": "Advanced 41: The Long Walk Through the City",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -9195,38 +9235,39 @@ window.LANGUAGE_CURRICULUM = {
             645,
             648
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/41-advanced-the-long-walk-through-the-city.txt",
           "sections": [
             {
-              "heading": "Глава 1 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: кровь, цент, провод, коричневый, равный. Новые слова: ухо, еще, вполне, сломал, дело, средний, убивать. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: кровь = blood; цент = cent; провод = wire; коричневый = brown; равный = equal. New words: ухо = ear; еще = else; вполне = quite; сломал = broke; дело = case; средний = middle; убивать = kill. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Анна идёт в город. Там рядом есть карта и окно. Анна читает медленно и замечает новое слово: «путь». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Anna is in the city. There is map and window nearby. Anna reads slowly and notices a new word: journey. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Глава 2 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: кровь, цент, провод, коричневый, равный. Новые слова: сын, озеро, момент, шкала, громко, весна, наблюдать. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: кровь = blood; цент = cent; провод = wire; коричневый = brown; равный = equal. New words: сын = son; озеро = lake; момент = moment; шкала = scale; громко = loud; весна = spring; наблюдать = observe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Анна пишет слово «путь» в тетради. Потом Анна думает о теме «город». В этом месте тихо, поэтому Анна снова читает предложение и произносит его вслух.",
+              "en": "Anna writes the word journey in a notebook. Then Anna thinks about city. The place is quiet, so Anna reads the sentence again and says it softly."
             },
             {
-              "heading": "Глава 3 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: кровь, цент, провод, коричневый, равный. Новые слова: ребенок, прямо, согласный, нация, словарь, молоко, скорость. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: кровь = blood; цент = cent; провод = wire; коричневый = brown; равный = equal. New words: ребенок = child; прямо = straight; согласный = consonant; нация = nation; словарь = dictionary; молоко = milk; скорость = speed. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "Появляется маленькая трудность, но Анна использует новые слова. Анна смотрит на карта, потом на окно, и составляет простой план. В конце Анна может сказать одно понятное предложение.",
+              "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the map, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
             },
             {
-              "heading": "Глава 4 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: кровь, цент, провод, коричневый, равный. Новые слова: метод, орган, платить, возраст, раздел, платье, облако. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: кровь = blood; цент = cent; провод = wire; коричневый = brown; равный = equal. New words: метод = method; орган = organ; платить = pay; возраст = age; раздел = section; платье = dress; облако = cloud. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "Позже Анна встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Анна пишет ещё три слова и связывает их с историей этого дня.",
+              "en": "Later, Anna meets another person and asks one careful question. The answer is simple, but it helps. Anna writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "Глава 5 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: кровь, цент, провод, коричневый, равный. Новые слова: сюрприз, тихо, камень, крошечный, подъем, круто, дизайн. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: кровь = blood; цент = cent; провод = wire; коричневый = brown; равный = equal. New words: сюрприз = surprise; тихо = quiet; камень = stone; крошечный = tiny; подъем = climb; круто = cool; дизайн = design. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "В конце дня Анна читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Анна улыбается, потому что учиться теперь легче.",
+              "en": "At the end of the day, Anna reads the whole page out loud. The words are not perfect yet, but they are familiar now. Anna smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "russian-advanced-02",
+          "id": "russian-advanced-42",
           "level": "advanced",
-          "title": "Advanced 02: Слова 686-720",
+          "title": "Advanced 42: The Forgotten Invitation",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -9281,38 +9322,39 @@ window.LANGUAGE_CURRICULUM = {
             680,
             683
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/42-advanced-the-forgotten-invitation.txt",
           "sections": [
             {
-              "heading": "Глава 1 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: громко, ребенок, нация, скорость, платить. Новые слова: бедный, много, эксперимент, снизу, ключ, железо, один. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: громко = loud; ребенок = child; нация = nation; скорость = speed; платить = pay. New words: бедный = poor; много = lot; эксперимент = experiment; снизу = bottom; ключ = key; железо = iron; один = single. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Саша идёт в университет. Там рядом есть письмо и телефон. Саша читает медленно и замечает новое слово: «приглашение». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Sasha is at the university. There is letter and phone nearby. Sasha reads slowly and notices a new word: invitation. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Глава 2 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: громко, ребенок, нация, скорость, платить. Новые слова: палка, плоским, двадцать, кожа, улыбка, складка, отверстие. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: громко = loud; ребенок = child; нация = nation; скорость = speed; платить = pay. New words: палка = stick; плоским = flat; двадцать = twenty; кожа = skin; улыбка = smile; складка = crease; отверстие = hole. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Саша пишет слово «приглашение» в тетради. Потом Саша думает о теме «встреча». В этом месте тихо, поэтому Саша снова читает предложение и произносит его вслух.",
+              "en": "Sasha writes the word invitation in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
             },
             {
-              "heading": "Глава 3 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: громко, ребенок, нация, скорость, платить. Новые слова: прыжок, ребенок, восемь, деревня, Знакомства, корень, купить. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: громко = loud; ребенок = child; нация = nation; скорость = speed; платить = pay. New words: прыжок = jump; ребенок = baby; восемь = eight; деревня = village; Знакомства = meet; корень = root; купить = buy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "Появляется маленькая трудность, но Саша использует новые слова. Саша смотрит на письмо, потом на телефон, и составляет простой план. В конце Саша может сказать одно понятное предложение.",
+              "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the phone, and makes a simple plan. By the end, Sasha can say one clear sentence."
             },
             {
-              "heading": "Глава 4 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: громко, ребенок, нация, скорость, платить. Новые слова: поднимать, решить, металла, ли, толчок, семь, пункт. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: громко = loud; ребенок = child; нация = nation; скорость = speed; платить = pay. New words: поднимать = raise; решить = solve; металла = metal; ли = whether; толчок = push; семь = seven; пункт = paragraph. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "Позже Саша встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Саша пишет ещё три слова и связывает их с историей этого дня.",
+              "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "Глава 5 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: громко, ребенок, нация, скорость, платить. Новые слова: третий, должен, ручные, волосы, описывать, повар, этаж. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: громко = loud; ребенок = child; нация = nation; скорость = speed; платить = pay. New words: третий = third; должен = shall; ручные = held; волосы = hair; описывать = describe; повар = cook; этаж = floor. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "В конце дня Саша читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Саша улыбается, потому что учиться теперь легче.",
+              "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "russian-advanced-03",
+          "id": "russian-advanced-43",
           "level": "advanced",
-          "title": "Advanced 03: Слова 721-755",
+          "title": "Advanced 43: The History Room",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -9367,38 +9409,39 @@ window.LANGUAGE_CURRICULUM = {
             715,
             718
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/43-advanced-the-history-room.txt",
           "sections": [
             {
-              "heading": "Глава 1 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: улыбка, прыжок, деревня, купить, металла. Новые слова: или, результат, сжечь, холм, сейф, кошка, век. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: улыбка = smile; прыжок = jump; деревня = village; купить = buy; металла = metal. New words: или = either; результат = result; сжечь = burn; холм = hill; сейф = safe; кошка = cat; век = century. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Николай идёт в музей. Там рядом есть книга и картина. Николай читает медленно и замечает новое слово: «история». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Nikolay is in the museum. There is book and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Глава 2 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: улыбка, прыжок, деревня, купить, металла. Новые слова: рассматривать, Тип, закон, немного, побережье, копия, фраза. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: улыбка = smile; прыжок = jump; деревня = village; купить = buy; металла = metal. New words: рассматривать = consider; Тип = type; закон = law; немного = bit; побережье = coast; копия = copy; фраза = phrase. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Николай пишет слово «история» в тетради. Потом Николай думает о теме «прошлое». В этом месте тихо, поэтому Николай снова читает предложение и произносит его вслух.",
+              "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about past. The place is quiet, so Nikolay reads the sentence again and says it softly."
             },
             {
-              "heading": "Глава 3 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: улыбка, прыжок, деревня, купить, металла. Новые слова: тихий, высокий, песок, почвы, рулон, температура, палец. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: улыбка = smile; прыжок = jump; деревня = village; купить = buy; металла = metal. New words: тихий = silent; высокий = tall; песок = sand; почвы = soil; рулон = roll; температура = temperature; палец = finger. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "Появляется маленькая трудность, но Николай использует новые слова. Николай смотрит на книга, потом на картина, и составляет простой план. В конце Николай может сказать одно понятное предложение.",
+              "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the book, looks at the picture, and makes a simple plan. By the end, Nikolay can say one clear sentence."
             },
             {
-              "heading": "Глава 4 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: улыбка, прыжок, деревня, купить, металла. Новые слова: промышленность, значение, борьба, ложь, бить, возбуждать, естественный. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: улыбка = smile; прыжок = jump; деревня = village; купить = buy; металла = metal. New words: промышленность = industry; значение = value; борьба = fight; ложь = lie; бить = beat; возбуждать = excite; естественный = natural. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "Позже Николай встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Николай пишет ещё три слова и связывает их с историей этого дня.",
+              "en": "Later, Nikolay meets another person and asks one careful question. The answer is simple, but it helps. Nikolay writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "Глава 5 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: улыбка, прыжок, деревня, купить, металла. Новые слова: вид, смысл, капитал, не будет, стул, опасность, фрукты. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: улыбка = smile; прыжок = jump; деревня = village; купить = buy; металла = metal. New words: вид = view; смысл = sense; капитал = capital; не будет = won’t; стул = chair; опасность = danger; фрукты = fruit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "В конце дня Николай читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Николай улыбается, потому что учиться теперь легче.",
+              "en": "At the end of the day, Nikolay reads the whole page out loud. The words are not perfect yet, but they are familiar now. Nikolay smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "russian-advanced-04",
+          "id": "russian-advanced-44",
           "level": "advanced",
-          "title": "Advanced 04: Слова 756-790",
+          "title": "Advanced 44: The Quiet Train",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -9453,38 +9496,39 @@ window.LANGUAGE_CURRICULUM = {
             750,
             753
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/44-advanced-the-quiet-train.txt",
           "sections": [
             {
-              "heading": "Глава 1 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: побережье, тихий, почвы, палец, борьба. Новые слова: богатые, толщиной, солдат, процесс, работать, практика, отдельный. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: побережье = coast; тихий = silent; почвы = soil; палец = finger; борьба = fight. New words: богатые = rich; толщиной = thick; солдат = soldier; процесс = process; работать = operate; практика = practice; отдельный = separate. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Мария идёт к поезду. Там рядом есть билет и чай. Мария читает медленно и замечает новое слово: «тихо». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Maria is on the train. There is ticket and tea nearby. Maria reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Глава 2 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: побережье, тихий, почвы, палец, борьба. Новые слова: трудный, врач, пожалуйста, защищать, полдень, урожай, современный. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: побережье = coast; тихий = silent; почвы = soil; палец = finger; борьба = fight. New words: трудный = difficult; врач = doctor; пожалуйста = please; защищать = protect; полдень = noon; урожай = crop; современный = modern. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Мария пишет слово «тихо» в тетради. Потом Мария думает о теме «поездка». В этом месте тихо, поэтому Мария снова читает предложение и произносит его вслух.",
+              "en": "Maria writes the word quiet in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
             },
             {
-              "heading": "Глава 3 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: побережье, тихий, почвы, палец, борьба. Новые слова: элемент, хит, студент, угол, партия, поставка, чьи. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: побережье = coast; тихий = silent; почвы = soil; палец = finger; борьба = fight. New words: элемент = element; хит = hit; студент = student; угол = corner; партия = party; поставка = supply; чьи = whose. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "Появляется маленькая трудность, но Мария использует новые слова. Мария смотрит на билет, потом на чай, и составляет простой план. В конце Мария может сказать одно понятное предложение.",
+              "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the tea, and makes a simple plan. By the end, Maria can say one clear sentence."
             },
             {
-              "heading": "Глава 4 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: побережье, тихий, почвы, палец, борьба. Новые слова: разместить, кольцо, характер, насекомое, пойманный, период, указывать. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: побережье = coast; тихий = silent; почвы = soil; палец = finger; борьба = fight. New words: разместить = locate; кольцо = ring; характер = character; насекомое = insect; пойманный = caught; период = period; указывать = indicate. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "Позже Мария встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Мария пишет ещё три слова и связывает их с историей этого дня.",
+              "en": "Later, Maria meets another person and asks one careful question. The answer is simple, but it helps. Maria writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "Глава 5 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: побережье, тихий, почвы, палец, борьба. Новые слова: радио, говорил, атом, человек, история, эффект, электрический. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: побережье = coast; тихий = silent; почвы = soil; палец = finger; борьба = fight. New words: радио = radio; говорил = spoke; атом = atom; человек = human; история = history; эффект = effect; электрический = electric. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "В конце дня Мария читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Мария улыбается, потому что учиться теперь легче.",
+              "en": "At the end of the day, Maria reads the whole page out loud. The words are not perfect yet, but they are familiar now. Maria smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "russian-advanced-05",
+          "id": "russian-advanced-45",
           "level": "advanced",
-          "title": "Advanced 05: Слова 791-825",
+          "title": "Advanced 45: A Plan for Tomorrow",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -9539,38 +9583,39 @@ window.LANGUAGE_CURRICULUM = {
             785,
             788
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/45-advanced-a-plan-for-tomorrow.txt",
           "sections": [
             {
-              "heading": "Глава 1 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: полдень, элемент, угол, чьи, характер. Новые слова: ожидать, кость, железнодорожные, вообразить, обеспечить, соглашаться, таким образом. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: полдень = noon; элемент = element; угол = corner; чьи = whose; характер = character. New words: ожидать = expect; кость = bone; железнодорожные = rail; вообразить = imagine; обеспечить = provide; соглашаться = agree; таким образом = thus. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Лена идёт домой. Там рядом есть карта и тетрадь. Лена читает медленно и замечает новое слово: «завтра». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Lena is at home. There is map and notebook nearby. Lena reads slowly and notices a new word: tomorrow. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Глава 2 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: полдень, элемент, угол, чьи, характер. Новые слова: нежный, женщина, капитан, догадываться, необходимо, резкое, крыло. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: полдень = noon; элемент = element; угол = corner; чьи = whose; характер = character. New words: нежный = gentle; женщина = woman; капитан = captain; догадываться = guess; необходимо = necessary; резкое = sharp; крыло = wing. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Лена пишет слово «завтра» в тетради. Потом Лена думает о теме «план». В этом месте тихо, поэтому Лена снова читает предложение и произносит его вслух.",
+              "en": "Lena writes the word tomorrow in a notebook. Then Lena thinks about plan. The place is quiet, so Lena reads the sentence again and says it softly."
             },
             {
-              "heading": "Глава 3 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: полдень, элемент, угол, чьи, характер. Новые слова: создавать, сосед, стирка, летучая мышь, а, толпа, кукуруза. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: полдень = noon; элемент = element; угол = corner; чьи = whose; характер = character. New words: создавать = create; сосед = neighbor; стирка = wash; летучая мышь = bat; а = rather; толпа = crowd; кукуруза = corn. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "Появляется маленькая трудность, но Лена использует новые слова. Лена смотрит на карта, потом на тетрадь, и составляет простой план. В конце Лена может сказать одно понятное предложение.",
+              "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the map, looks at the notebook, and makes a simple plan. By the end, Lena can say one clear sentence."
             },
             {
-              "heading": "Глава 4 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: полдень, элемент, угол, чьи, характер. Новые слова: сравнить, стихотворение, строка, колокол, зависеть, мясо, руб. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: полдень = noon; элемент = element; угол = corner; чьи = whose; характер = character. New words: сравнить = compare; стихотворение = poem; строка = string; колокол = bell; зависеть = depend; мясо = meat; руб = rub. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "Позже Лена встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Лена пишет ещё три слова и связывает их с историей этого дня.",
+              "en": "Later, Lena meets another person and asks one careful question. The answer is simple, but it helps. Lena writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "Глава 5 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: полдень, элемент, угол, чьи, характер. Новые слова: трубка, известный, доллар, поток, страх, зрение, тонкий. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: полдень = noon; элемент = element; угол = corner; чьи = whose; характер = character. New words: трубка = tube; известный = famous; доллар = dollar; поток = stream; страх = fear; зрение = sight; тонкий = thin. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "В конце дня Лена читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Лена улыбается, потому что учиться теперь легче.",
+              "en": "At the end of the day, Lena reads the whole page out loud. The words are not perfect yet, but they are familiar now. Lena smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "russian-advanced-06",
+          "id": "russian-advanced-46",
           "level": "advanced",
-          "title": "Advanced 06: Слова 826-860",
+          "title": "Advanced 46: News from the Cafe",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -9625,38 +9670,39 @@ window.LANGUAGE_CURRICULUM = {
             820,
             823
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/46-advanced-news-from-the-cafe.txt",
           "sections": [
             {
-              "heading": "Глава 1 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: необходимо, создавать, летучая мышь, кукуруза, строка. Новые слова: треугольник, планета, спешить, главный, колония, часы, шахта. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: необходимо = necessary; создавать = create; летучая мышь = bat; кукуруза = corn; строка = string. New words: треугольник = triangle; планета = planet; спешить = hurry; главный = chief; колония = colony; часы = clock; шахта = mine. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Ольга идёт в кафе. Там рядом есть газета и чай. Ольга читает медленно и замечает новое слово: «новость». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Olga is in the cafe. There is newspaper and tea nearby. Olga reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Глава 2 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: необходимо, создавать, летучая мышь, кукуруза, строка. Новые слова: связать, введите, основным, свежий, поиск, отправить, желтый. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: необходимо = necessary; создавать = create; летучая мышь = bat; кукуруза = corn; строка = string. New words: связать = tie; введите = enter; основным = major; свежий = fresh; поиск = search; отправить = send; желтый = yellow. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Ольга пишет слово «новость» в тетради. Потом Ольга думает о теме «разговор». В этом месте тихо, поэтому Ольга снова читает предложение и произносит его вслух.",
+              "en": "Olga writes the word news in a notebook. Then Olga thinks about talk. The place is quiet, so Olga reads the sentence again and says it softly."
             },
             {
-              "heading": "Глава 3 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: необходимо, создавать, летучая мышь, кукуруза, строка. Новые слова: пистолет, позволять, печать, мертвый, место, пустыня, костюм. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: необходимо = necessary; создавать = create; летучая мышь = bat; кукуруза = corn; строка = string. New words: пистолет = gun; позволять = allow; печать = print; мертвый = dead; место = spot; пустыня = desert; костюм = suit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "Появляется маленькая трудность, но Ольга использует новые слова. Ольга смотрит на газета, потом на чай, и составляет простой план. В конце Ольга может сказать одно понятное предложение.",
+              "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the newspaper, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
             },
             {
-              "heading": "Глава 4 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: необходимо, создавать, летучая мышь, кукуруза, строка. Новые слова: ток, лифт, выросла, приходим, мастер, трек, родитель. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: необходимо = necessary; создавать = create; летучая мышь = bat; кукуруза = corn; строка = string. New words: ток = current; лифт = lift; выросла = rose; приходим = arrive; мастер = master; трек = track; родитель = parent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "Позже Ольга встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Ольга пишет ещё три слова и связывает их с историей этого дня.",
+              "en": "Later, Olga meets another person and asks one careful question. The answer is simple, but it helps. Olga writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "Глава 5 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: необходимо, создавать, летучая мышь, кукуруза, строка. Новые слова: берег, деление, лист, вещество, пользу, подключать, пост. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: необходимо = necessary; создавать = create; летучая мышь = bat; кукуруза = corn; строка = string. New words: берег = shore; деление = division; лист = sheet; вещество = substance; пользу = favor; подключать = connect; пост = post. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "В конце дня Ольга читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Ольга улыбается, потому что учиться теперь легче.",
+              "en": "At the end of the day, Olga reads the whole page out loud. The words are not perfect yet, but they are familiar now. Olga smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "russian-advanced-07",
+          "id": "russian-advanced-47",
           "level": "advanced",
-          "title": "Advanced 07: Слова 861-895",
+          "title": "Advanced 47: The Word That Changed the Day",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -9711,38 +9757,39 @@ window.LANGUAGE_CURRICULUM = {
             855,
             858
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/47-advanced-the-word-that-changed-the-day.txt",
           "sections": [
             {
-              "heading": "Глава 1 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: поиск, пистолет, мертвый, костюм, выросла. Новые слова: провести, аккорд, жира, довольный, оригинальный, доля, станция. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: поиск = search; пистолет = gun; мертвый = dead; костюм = suit; выросла = rose. New words: провести = spend; аккорд = chord; жира = fat; довольный = glad; оригинальный = original; доля = share; станция = station. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Дима идёт на улицу. Там рядом есть сумка и книга. Дима читает медленно и замечает новое слово: «помощь». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Dima is on the street. There is bag and book nearby. Dima reads slowly and notices a new word: help. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Глава 2 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: поиск, пистолет, мертвый, костюм, выросла. Новые слова: папа, хлеб, взимать, собственно, бар, предложение, сегмент. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: поиск = search; пистолет = gun; мертвый = dead; костюм = suit; выросла = rose. New words: папа = dad; хлеб = bread; взимать = charge; собственно = proper; бар = bar; предложение = offer; сегмент = segment. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Дима пишет слово «помощь» в тетради. Потом Дима думает о теме «дорога». В этом месте тихо, поэтому Дима снова читает предложение и произносит его вслух.",
+              "en": "Dima writes the word help in a notebook. Then Dima thinks about road. The place is quiet, so Dima reads the sentence again and says it softly."
             },
             {
-              "heading": "Глава 3 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: поиск, пистолет, мертвый, костюм, выросла. Новые слова: раб, утка, растворимый, рынок, степень, заселять, цыпленок. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: поиск = search; пистолет = gun; мертвый = dead; костюм = suit; выросла = rose. New words: раб = slave; утка = duck; растворимый = instant; рынок = market; степень = degree; заселять = populate; цыпленок = chick. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "Появляется маленькая трудность, но Дима использует новые слова. Дима смотрит на сумка, потом на книга, и составляет простой план. В конце Дима может сказать одно понятное предложение.",
+              "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the bag, looks at the book, and makes a simple plan. By the end, Dima can say one clear sentence."
             },
             {
-              "heading": "Глава 4 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: поиск, пистолет, мертвый, костюм, выросла. Новые слова: дорогой, враг, ответ, напиток, происходить, поддержка, речь. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: поиск = search; пистолет = gun; мертвый = dead; костюм = suit; выросла = rose. New words: дорогой = dear; враг = enemy; ответ = reply; напиток = drink; происходить = occur; поддержка = support; речь = speech. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "Позже Дима встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Дима пишет ещё три слова и связывает их с историей этого дня.",
+              "en": "Later, Dima meets another person and asks one careful question. The answer is simple, but it helps. Dima writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "Глава 5 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: поиск, пистолет, мертвый, костюм, выросла. Новые слова: природа, диапазон, пара, движение, путь, жидкости, войти. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: поиск = search; пистолет = gun; мертвый = dead; костюм = suit; выросла = rose. New words: природа = nature; диапазон = range; пара = steam; движение = motion; путь = path; жидкости = liquid; войти = log. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "В конце дня Дима читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Дима улыбается, потому что учиться теперь легче.",
+              "en": "At the end of the day, Dima reads the whole page out loud. The words are not perfect yet, but they are familiar now. Dima smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "russian-advanced-08",
+          "id": "russian-advanced-48",
           "level": "advanced",
-          "title": "Advanced 08: Слова 896-930",
+          "title": "Advanced 48: The Meeting at the University",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -9797,38 +9844,39 @@ window.LANGUAGE_CURRICULUM = {
             890,
             893
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/48-advanced-the-meeting-at-the-university.txt",
           "sections": [
             {
-              "heading": "Глава 1 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: бар, раб, рынок, цыпленок, ответ. Новые слова: означало, фактор, зубы, оболочка, шея, кислорода, сахар. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: бар = bar; раб = slave; рынок = market; цыпленок = chick; ответ = reply. New words: означало = meant; фактор = quotient; зубы = teeth; оболочка = shell; шея = neck; кислорода = oxygen; сахар = sugar. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Саша идёт в университет. Там рядом есть письмо и парта. Саша читает медленно и замечает новое слово: «встреча». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Sasha is at the university. There is letter and desk nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Глава 2 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: бар, раб, рынок, цыпленок, ответ. Новые слова: смерть, довольно, умение, женщины, сезон, решение, магнит. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: бар = bar; раб = slave; рынок = market; цыпленок = chick; ответ = reply. New words: смерть = death; довольно = pretty; умение = skill; женщины = women; сезон = season; решение = solution; магнит = magnet. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Саша пишет слово «встреча» в тетради. Потом Саша думает о теме «идеи». В этом месте тихо, поэтому Саша снова читает предложение и произносит его вслух.",
+              "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about ideas. The place is quiet, so Sasha reads the sentence again and says it softly."
             },
             {
-              "heading": "Глава 3 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: бар, раб, рынок, цыпленок, ответ. Новые слова: серебро, спасибо, филиал, матч, суффикс, особенно, рис. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: бар = bar; раб = slave; рынок = market; цыпленок = chick; ответ = reply. New words: серебро = silver; спасибо = thank; филиал = branch; матч = match; суффикс = suffix; особенно = especially; рис = fig. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "Появляется маленькая трудность, но Саша использует новые слова. Саша смотрит на письмо, потом на парта, и составляет простой план. В конце Саша может сказать одно понятное предложение.",
+              "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the desk, and makes a simple plan. By the end, Sasha can say one clear sentence."
             },
             {
-              "heading": "Глава 4 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: бар, раб, рынок, цыпленок, ответ. Новые слова: боится, огромный, сестра, сталь, обсуждать, вперед, похожи. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: бар = bar; раб = slave; рынок = market; цыпленок = chick; ответ = reply. New words: боится = afraid; огромный = huge; сестра = sister; сталь = steel; обсуждать = discuss; вперед = forward; похожи = similar. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "Позже Саша встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Саша пишет ещё три слова и связывает их с историей этого дня.",
+              "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "Глава 5 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: бар, раб, рынок, цыпленок, ответ. Новые слова: направлять, опыт, счет, яблоко, купленный, привело, шаг. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: бар = bar; раб = slave; рынок = market; цыпленок = chick; ответ = reply. New words: направлять = guide; опыт = experience; счет = score; яблоко = apple; купленный = bought; привело = led; шаг = pitch. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "В конце дня Саша читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Саша улыбается, потому что учиться теперь легче.",
+              "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "russian-advanced-09",
+          "id": "russian-advanced-49",
           "level": "advanced",
-          "title": "Advanced 09: Слова 931-965",
+          "title": "Advanced 49: The Letter and the Map",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -9883,38 +9931,39 @@ window.LANGUAGE_CURRICULUM = {
             925,
             928
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/49-advanced-the-letter-and-the-map.txt",
           "sections": [
             {
-              "heading": "Глава 1 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: сезон, серебро, матч, рис, сестра. Новые слова: пальто, масса, карта, полоса, веревка, скольжение, выиграть. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: сезон = season; серебро = silver; матч = match; рис = fig; сестра = sister. New words: пальто = coat; масса = mass; карта = card; полоса = band; веревка = rope; скольжение = slip; выиграть = win. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Катя идёт в библиотеку. Там рядом есть письмо и карта. Катя читает медленно и замечает новое слово: «маршрут». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Katya is in the library. There is letter and map nearby. Katya reads slowly and notices a new word: route. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Глава 2 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: сезон, серебро, матч, рис, сестра. Новые слова: мечтать, вечер, состояние, корма, инструмент, общий, основной. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: сезон = season; серебро = silver; матч = match; рис = fig; сестра = sister. New words: мечтать = dream; вечер = evening; состояние = condition; корма = feed; инструмент = tool; общий = total; основной = basic. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Катя пишет слово «маршрут» в тетради. Потом Катя думает о теме «поиск». В этом месте тихо, поэтому Катя снова читает предложение и произносит его вслух.",
+              "en": "Katya writes the word route in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
             },
             {
-              "heading": "Глава 3 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: сезон, серебро, матч, рис, сестра. Новые слова: запах, долина, ни, двойной, сиденья, продолжать, блок. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: сезон = season; серебро = silver; матч = match; рис = fig; сестра = sister. New words: запах = smell; долина = valley; ни = nor; двойной = double; сиденья = seat; продолжать = continue; блок = block. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "Появляется маленькая трудность, но Катя использует новые слова. Катя смотрит на письмо, потом на карта, и составляет простой план. В конце Катя может сказать одно понятное предложение.",
+              "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the letter, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
             },
             {
-              "heading": "Глава 4 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: сезон, серебро, матч, рис, сестра. Новые слова: диаграмма, шляпа, продать, успех, компания, вычитать, мероприятие. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: сезон = season; серебро = silver; матч = match; рис = fig; сестра = sister. New words: диаграмма = chart; шляпа = hat; продать = sell; успех = success; компания = company; вычитать = subtract; мероприятие = event. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "Позже Катя встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Катя пишет ещё три слова и связывает их с историей этого дня.",
+              "en": "Later, Katya meets another person and asks one careful question. The answer is simple, but it helps. Katya writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "Глава 5 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: сезон, серебро, матч, рис, сестра. Новые слова: частности, сделка, плавать, термин, напротив, жена, обуви. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: сезон = season; серебро = silver; матч = match; рис = fig; сестра = sister. New words: частности = particular; сделка = deal; плавать = swim; термин = term; напротив = opposite; жена = wife; обуви = shoe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "В конце дня Катя читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Катя улыбается, потому что учиться теперь легче.",
+              "en": "At the end of the day, Katya reads the whole page out loud. The words are not perfect yet, but they are familiar now. Katya smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "russian-advanced-10",
+          "id": "russian-advanced-50",
           "level": "advanced",
-          "title": "Advanced 10: Слова 966-1000",
+          "title": "Advanced 50: The Language Feels Close",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -9969,31 +10018,32 @@ window.LANGUAGE_CURRICULUM = {
             960,
             963
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/50-advanced-the-language-feels-close.txt",
           "sections": [
             {
-              "heading": "Глава 1 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: инструмент, запах, двойной, блок, продать. Новые слова: плечо, распространение, организовать, лагерь, изобретать, хлопок, родившийся. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: инструмент = tool; запах = smell; двойной = double; блок = block; продать = sell. New words: плечо = shoulder; распространение = spread; организовать = arrange; лагерь = camp; изобретать = invent; хлопок = cotton; родившийся = born. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "Утром Ирина идёт в парк. Там рядом есть книга и телефон. Ирина читает медленно и замечает новое слово: «язык». День хороший, и русский язык становится ближе.",
+              "en": "In the morning, Irina is in the park. There is book and phone nearby. Irina reads slowly and notices a new word: language. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "Глава 2 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: инструмент, запах, двойной, блок, продать. Новые слова: определять, кварта, девять, грузовик, шум, уровень, шанс. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: инструмент = tool; запах = smell; двойной = double; блок = block; продать = sell. New words: определять = determine; кварта = quart; девять = nine; грузовик = truck; шум = noise; уровень = level; шанс = chance. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "Ирина пишет слово «язык» в тетради. Потом Ирина думает о теме «уверенность». В этом месте тихо, поэтому Ирина снова читает предложение и произносит его вслух.",
+              "en": "Irina writes the word language in a notebook. Then Irina thinks about confidence. The place is quiet, so Irina reads the sentence again and says it softly."
             },
             {
-              "heading": "Глава 3 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: инструмент, запах, двойной, блок, продать. Новые слова: собирать, магазин, протяжение, бросать, блеск, имущество, колонка. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: инструмент = tool; запах = smell; двойной = double; блок = block; продать = sell. New words: собирать = gather; магазин = shop; протяжение = stretch; бросать = throw; блеск = shine; имущество = property; колонка = column. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "Появляется маленькая трудность, но Ирина использует новые слова. Ирина смотрит на книга, потом на телефон, и составляет простой план. В конце Ирина может сказать одно понятное предложение.",
+              "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the book, looks at the phone, and makes a simple plan. By the end, Irina can say one clear sentence."
             },
             {
-              "heading": "Глава 4 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: инструмент, запах, двойной, блок, продать. Новые слова: молекула, выбирать, неправильно, серый, повторение, требовать, широкий. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: инструмент = tool; запах = smell; двойной = double; блок = block; продать = sell. New words: молекула = molecule; выбирать = select; неправильно = wrong; серый = gray; повторение = repeat; требовать = require; широкий = broad. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "Позже Ирина встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Ирина пишет ещё три слова и связывает их с историей этого дня.",
+              "en": "Later, Irina meets another person and asks one careful question. The answer is simple, but it helps. Irina writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "Глава 5 / 5",
-              "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: инструмент, запах, двойной, блок, продать. Новые слова: подготовить, соль, нос, множественное, гнев, претензии, континент. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: инструмент = tool; запах = smell; двойной = double; блок = block; продать = sell. New words: подготовить = prepare; соль = salt; нос = nose; множественное = plural; гнев = anger; претензии = claim; континент = continent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "В конце дня Ирина читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Ирина улыбается, потому что учиться теперь легче.",
+              "en": "At the end of the day, Irina reads the whole page out loud. The words are not perfect yet, but they are familiar now. Irina smiles because learning feels possible and close."
             }
           ]
         }
@@ -17009,7 +17059,7 @@ window.LANGUAGE_CURRICULUM = {
         {
           "id": "japanese-beginner-01",
           "level": "beginner",
-          "title": "Beginner 01: 言葉 1-9",
+          "title": "Beginner 01: Morning at Home",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -17029,18 +17079,19 @@ window.LANGUAGE_CURRICULUM = {
             9
           ],
           "reviewWords": [],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/01-beginner-morning-at-home.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "今日は学習者が短いページを読みます。 新しい言葉: ように, 私は, 彼の, その, 彼, た, ために, 上の, アール. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "Today the learner reads a short page. New words: ように = as; 私は = I; 彼の = his; その = that; 彼 = he; た = was; ために = for; 上の = on; アール = are. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、アンナは家へ行きます。近くにお茶と本があります。アンナはゆっくり読み、新しい言葉「町」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Anna is at home. There is tea and book nearby. Anna reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "japanese-beginner-02",
           "level": "beginner",
-          "title": "Beginner 02: 言葉 10-18",
+          "title": "Beginner 02: Tea on the Table",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -17066,18 +17117,19 @@ window.LANGUAGE_CURRICULUM = {
             7,
             9
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/02-beginner-tea-on-the-table.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "今日は学習者が短いページを読みます。 復習する言葉: ように, 彼の, 彼, ために, アール. 新しい言葉: とともに, 彼ら, ある, アット, 一つ, 持っている, この, から, バイ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "Today the learner reads a short page. Review words: ように = as; 彼の = his; 彼 = he; ために = for; アール = are. New words: とともに = with; 彼ら = they; ある = be; アット = at; 一つ = one; 持っている = have; この = this; から = from; バイ = by. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、レナは家へ行きます。近くにお茶とパンがあります。レナはゆっくり読み、新しい言葉「テーブル」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Lena is at home. There is tea and bread nearby. Lena reads slowly and notices a new word: table. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "japanese-beginner-03",
           "level": "beginner",
-          "title": "Beginner 03: 言葉 19-27",
+          "title": "Beginner 03: The Open Window",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -17104,18 +17156,19 @@ window.LANGUAGE_CURRICULUM = {
             13,
             16
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/03-beginner-the-open-window.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "今日は学習者が短いページを読みます。 復習する言葉: ように, その, ために, とともに, アット. 新しい言葉: ホット, 言葉, しかし, 何, いくつかの, です, それ, あなた, または. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "Today the learner reads a short page. Review words: ように = as; その = that; ために = for; とともに = with; アット = at. New words: ホット = hot; 言葉 = word; しかし = but; 何 = what; いくつかの = some; です = is; それ = it; あなた = you; または = or. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、イワンは家へ行きます。近くに窓と本があります。イワンはゆっくり読み、新しい言葉「図書館」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Ivan is at home. There is window and book nearby. Ivan reads slowly and notices a new word: library. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "japanese-beginner-04",
           "level": "beginner",
-          "title": "Beginner 04: 言葉 28-36",
+          "title": "Beginner 04: Walking to the Park",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -17144,18 +17197,19 @@ window.LANGUAGE_CURRICULUM = {
             22,
             25
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/04-beginner-walking-to-the-park.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "今日は学習者が短いページを読みます。 復習する言葉: その, ために, とともに, アット, この. 新しい言葉: 持っていた, インクルード, の, へ, そして, は, で, 我々, 缶. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "Today the learner reads a short page. Review words: その = that; ために = for; とともに = with; アット = at; この = this. New words: 持っていた = had; インクルード = the; の = of; へ = to; そして = and; は = a; で = in; 我々 = we; 缶 = can. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、マーシャは公園へ行きます。近くに母と兄弟があります。マーシャはゆっくり読み、新しい言葉「友だち」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Masha is in the park. There is mother and brother nearby. Masha reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "japanese-beginner-05",
           "level": "beginner",
-          "title": "Beginner 05: 言葉 37-44",
+          "title": "Beginner 05: A Quiet Street",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -17183,18 +17237,19 @@ window.LANGUAGE_CURRICULUM = {
             31,
             34
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/05-beginner-a-quiet-street.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "今日は学習者が短いページを読みます。 復習する言葉: アット, この, ホット, 何, それ. 新しい言葉: アウト, その他, だった, これ, やる, それらの, 時間, もし. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "Today the learner reads a short page. Review words: アット = at; この = this; ホット = hot; 何 = what; それ = it. New words: アウト = out; その他 = other; だった = were; これ = which; やる = do; それらの = their; 時間 = time; もし = if. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、パーヴェルは通りへ行きます。近くに家と窓があります。パーヴェルはゆっくり読み、新しい言葉「通り」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Pavel is on the street. There is house and window nearby. Pavel reads slowly and notices a new word: street. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "japanese-beginner-06",
           "level": "beginner",
-          "title": "Beginner 06: 言葉 45-52",
+          "title": "Beginner 06: The First Book",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -17222,18 +17277,19 @@ window.LANGUAGE_CURRICULUM = {
             39,
             42
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/06-beginner-the-first-book.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "今日は学習者が短いページを読みます。 復習する言葉: しかし, です, または, の, は. 新しい言葉: 意志, 方法, 前記, の, それぞれ, 言う, し, セット. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "Today the learner reads a short page. Review words: しかし = but; です = is; または = or; の = of; は = a. New words: 意志 = will; 方法 = how; 前記 = said; の = an; それぞれ = each; 言う = tell; し = does; セット = set. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、オリガは図書館へ行きます。近くに本とカードがあります。オリガはゆっくり読み、新しい言葉「言葉」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Olga is in the library. There is book and card nearby. Olga reads slowly and notices a new word: word. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "japanese-beginner-07",
           "level": "beginner",
-          "title": "Beginner 07: 言葉 53-60",
+          "title": "Beginner 07: A Good Day",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -17261,18 +17317,19 @@ window.LANGUAGE_CURRICULUM = {
             47,
             50
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/07-beginner-a-good-day.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "今日は学習者が短いページを読みます。 復習する言葉: インクルード, そして, 我々, その他, やる. 新しい言葉: 個, 欲しい, 空気, よく, また, 遊ぶ, 小さい, 終わり. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "Today the learner reads a short page. Review words: インクルード = the; そして = and; 我々 = we; その他 = other; やる = do. New words: 個 = three; 欲しい = want; 空気 = air; よく = well; また = also; 遊ぶ = play; 小さい = small; 終わり = end. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、ニコライは公園へ行きます。近くに太陽と木があります。ニコライはゆっくり読み、新しい言葉「よい」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Nikolay is in the park. There is sun and tree nearby. Nikolay reads slowly and notices a new word: good. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "japanese-beginner-08",
           "level": "beginner",
-          "title": "Beginner 08: 言葉 61-68",
+          "title": "Beginner 08: At School",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -17300,18 +17357,19 @@ window.LANGUAGE_CURRICULUM = {
             55,
             58
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/08-beginner-at-school.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "今日は学習者が短いページを読みます。 復習する言葉: アウト, これ, 時間, 方法, それぞれ. 新しい言葉: 置く, ホーム, 読む, 手, ポート, 大きい, スペル, 加える. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "Today the learner reads a short page. Review words: アウト = out; これ = which; 時間 = time; 方法 = how; それぞれ = each. New words: 置く = put; ホーム = home; 読む = read; 手 = hand; ポート = port; 大きい = large; スペル = spell; 加える = add. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、サーシャは学校へ行きます。近くに机と鉛筆があります。サーシャはゆっくり読み、新しい言葉「学校」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Sasha is at school. There is desk and pencil nearby. Sasha reads slowly and notices a new word: school. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "japanese-beginner-09",
           "level": "beginner",
-          "title": "Beginner 09: 言葉 69-76",
+          "title": "Beginner 09: At the Store",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -17339,18 +17397,19 @@ window.LANGUAGE_CURRICULUM = {
             63,
             66
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/09-beginner-at-the-store.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "今日は学習者が短いページを読みます。 復習する言葉: 意志, の, し, 欲しい, また. 新しい言葉: さらに, 土地, ここに, しなければならない, 大きい, 高い, そのような, 続く. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "Today the learner reads a short page. Review words: 意志 = will; の = an; し = does; 欲しい = want; また = also. New words: さらに = even; 土地 = land; ここに = here; しなければならない = must; 大きい = big; 高い = high; そのような = such; 続く = follow. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、イリーナは店へ行きます。近くにかばんと食べ物があります。イリーナはゆっくり読み、新しい言葉「店」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Irina is in the store. There is bag and food nearby. Irina reads slowly and notices a new word: store. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "japanese-beginner-10",
           "level": "beginner",
-          "title": "Beginner 10: 言葉 77-84",
+          "title": "Beginner 10: At the Station",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -17378,18 +17437,19 @@ window.LANGUAGE_CURRICULUM = {
             71,
             74
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/10-beginner-at-the-station.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "今日は学習者が短いページを読みます。 復習する言葉: 個, よく, 小さい, ホーム, ポート. 新しい言葉: 行為, なぜ, 頼む, 人々, 変更, 行ってきました, 光, 種類. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "Today the learner reads a short page. Review words: 個 = three; よく = well; 小さい = small; ホーム = home; ポート = port. New words: 行為 = act; なぜ = why; 頼む = ask; 人々 = men; 変更 = change; 行ってきました = went; 光 = light; 種類 = kind. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、マリアは駅へ行きます。近くにお茶と切符があります。マリアはゆっくり読み、新しい言葉「駅」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Maria is at the station. There is tea and ticket nearby. Maria reads slowly and notices a new word: station. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "japanese-beginner-11",
           "level": "beginner",
-          "title": "Beginner 11: 言葉 85-92",
+          "title": "Beginner 11: A Simple Call",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -17417,18 +17477,19 @@ window.LANGUAGE_CURRICULUM = {
             79,
             82
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/11-beginner-a-simple-call.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "今日は学習者が短いページを読みます。 復習する言葉: 置く, 手, スペル, 土地, 大きい. 新しい言葉: オフ, 必要, 家, 絵, 試す, 私たち, 再び, 動物. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "Today the learner reads a short page. Review words: 置く = put; 手 = hand; スペル = spell; 土地 = land; 大きい = big. New words: オフ = off; 必要 = need; 家 = house; 絵 = picture; 試す = try; 私たち = us; 再び = again; 動物 = animal. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、ディマは家へ行きます。近くに電話とノートがあります。ディマはゆっくり読み、新しい言葉「友だち」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Dima is at home. There is phone and notebook nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "japanese-beginner-12",
           "level": "beginner",
-          "title": "Beginner 12: 言葉 93-100",
+          "title": "Beginner 12: I Know This Word",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -17456,18 +17517,19 @@ window.LANGUAGE_CURRICULUM = {
             87,
             90
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/12-beginner-i-know-this-word.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "今日は学習者が短いページを読みます。 復習する言葉: さらに, しなければならない, そのような, なぜ, 変更. 新しい言葉: ポイント, 母, 世界, 近く, ビルド, 自己, 地球, 父. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "Today the learner reads a short page. Review words: さらに = even; しなければならない = must; そのような = such; なぜ = why; 変更 = change. New words: ポイント = point; 母 = mother; 世界 = world; 近く = near; ビルド = build; 自己 = self; 地球 = earth; 父 = father. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、カーチャは部屋へ行きます。近くに紙と本があります。カーチャはゆっくり読み、新しい言葉「知る」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Katya is in the room. There is paper and book nearby. Katya reads slowly and notices a new word: know. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
-          "id": "japanese-elementary-01",
+          "id": "japanese-elementary-13",
           "level": "elementary",
-          "title": "Elementary 01: 言葉 101-116",
+          "title": "Elementary 13: The Library Window",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -17503,23 +17565,24 @@ window.LANGUAGE_CURRICULUM = {
             95,
             98
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/13-elementary-the-library-window.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 行為, 人々, 光, 必要, 試す. 新しい言葉: 任意の, 新しい, 仕事, パート, 取る, ゲット, 場所, 製. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 行為 = act; 人々 = men; 光 = light; 必要 = need; 試す = try. New words: 任意の = any; 新しい = new; 仕事 = work; パート = part; 取る = take; ゲット = get; 場所 = place; 製 = made. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、パーヴェルは図書館へ行きます。近くに窓とノートがあります。パーヴェルはゆっくり読み、新しい言葉「静か」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Pavel is in the library. There is window and notebook nearby. Pavel reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "ページ 2",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 行為, 人々, 光, 必要, 試す. 新しい言葉: 暮らす, どこ, 後に, バック, 少し, 唯一の, ラウンド, 男. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 行為 = act; 人々 = men; 光 = light; 必要 = need; 試す = try. New words: 暮らす = live; どこ = where; 後に = after; バック = back; 少し = little; 唯一の = only; ラウンド = round; 男 = man. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "パーヴェルはノートに「静か」を書きます。それから「読むこと」について考えます。そこは静かなので、パーヴェルは文をもう一度読み、小さな声で言います。",
+              "en": "Pavel writes the word quiet in a notebook. Then Pavel thinks about reading. The place is quiet, so Pavel reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "japanese-elementary-02",
+          "id": "japanese-elementary-14",
           "level": "elementary",
-          "title": "Elementary 02: 言葉 117-132",
+          "title": "Elementary 14: The Museum Visit",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -17555,23 +17618,24 @@ window.LANGUAGE_CURRICULUM = {
             111,
             114
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/14-elementary-the-museum-visit.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: ポイント, 近く, 地球, 新しい, 取る. 新しい言葉: 年, 来た, ショー, すべての, 良い, 私に, 与える, 私たちの. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: ポイント = point; 近く = near; 地球 = earth; 新しい = new; 取る = take. New words: 年 = year; 来た = came; ショー = show; すべての = every; 良い = good; 私に = me; 与える = give; 私たちの = our. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、ニコライは博物館へ行きます。近くに切符と絵があります。ニコライはゆっくり読み、新しい言葉「歴史」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Nikolay is in the museum. There is ticket and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "ページ 2",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: ポイント, 近く, 地球, 新しい, 取る. 新しい言葉: 下, 名前, 非常に, スルー, ただ, フォーム, 文, 素晴らしい. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: ポイント = point; 近く = near; 地球 = earth; 新しい = new; 取る = take. New words: 下 = under; 名前 = name; 非常に = very; スルー = through; ただ = just; フォーム = form; 文 = sentence; 素晴らしい = great. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "ニコライはノートに「歴史」を書きます。それから「記憶」について考えます。そこは静かなので、ニコライは文をもう一度読み、小さな声で言います。",
+              "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about memory. The place is quiet, so Nikolay reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "japanese-elementary-03",
+          "id": "japanese-elementary-15",
           "level": "elementary",
-          "title": "Elementary 03: 言葉 133-148",
+          "title": "Elementary 15: The Cafe Notebook",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -17607,23 +17671,24 @@ window.LANGUAGE_CURRICULUM = {
             127,
             130
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/15-elementary-the-cafe-notebook.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 暮らす, バック, ラウンド, 来た, 良い. 新しい言葉: 思う, 言う, 助け, 低い, ライン, 異なる, ターン, 原因. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 暮らす = live; バック = back; ラウンド = round; 来た = came; 良い = good. New words: 思う = think; 言う = say; 助け = help; 低い = low; ライン = line; 異なる = differ; ターン = turn; 原因 = cause. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、オリガはカフェへ行きます。近くにお茶と音楽があります。オリガはゆっくり読み、新しい言葉「メロディー」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Olga is in the cafe. There is tea and music nearby. Olga reads slowly and notices a new word: melody. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "ページ 2",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 暮らす, バック, ラウンド, 来た, 良い. 新しい言葉: ずっと, 意味する, 前に, 移動, 権利, 男の子, 古い, あまりに. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 暮らす = live; バック = back; ラウンド = round; 来た = came; 良い = good. New words: ずっと = much; 意味する = mean; 前に = before; 移動 = move; 権利 = right; 男の子 = boy; 古い = old; あまりに = too. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "オリガはノートに「メロディー」を書きます。それから「聞くこと」について考えます。そこは静かなので、オリガは文をもう一度読み、小さな声で言います。",
+              "en": "Olga writes the word melody in a notebook. Then Olga thinks about listening. The place is quiet, so Olga reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "japanese-elementary-04",
+          "id": "japanese-elementary-16",
           "level": "elementary",
-          "title": "Elementary 04: 言葉 149-164",
+          "title": "Elementary 16: Rain Near the Door",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -17659,23 +17724,24 @@ window.LANGUAGE_CURRICULUM = {
             143,
             146
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/16-elementary-rain-near-the-door.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 下, スルー, 文, 言う, ライン. 新しい言葉: 同じ, 彼女, すべて, そこ, 時, アップ, 使用, あなたの. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 下 = under; スルー = through; 文 = sentence; 言う = say; ライン = line. New words: 同じ = same; 彼女 = she; すべて = all; そこ = there; 時 = when; アップ = up; 使用 = use; あなたの = your. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、ディマは本屋へ行きます。近くにドアと本があります。ディマはゆっくり読み、新しい言葉「道」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Dima is in the bookshop. There is door and book nearby. Dima reads slowly and notices a new word: road. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "ページ 2",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 下, スルー, 文, 言う, ライン. 新しい言葉: 道, 約, 多くの, その後, それら, 書く, でしょう, ような. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 下 = under; スルー = through; 文 = sentence; 言う = say; ライン = line. New words: 道 = way; 約 = about; 多くの = many; その後 = then; それら = them; 書く = write; でしょう = would; ような = like. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "ディマはノートに「道」を書きます。それから「雨」について考えます。そこは静かなので、ディマは文をもう一度読み、小さな声で言います。",
+              "en": "Dima writes the word road in a notebook. Then Dima thinks about rain. The place is quiet, so Dima reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "japanese-elementary-05",
+          "id": "japanese-elementary-17",
           "level": "elementary",
-          "title": "Elementary 05: 言葉 165-180",
+          "title": "Elementary 17: The Letter on the Table",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -17711,23 +17777,24 @@ window.LANGUAGE_CURRICULUM = {
             159,
             162
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/17-elementary-the-letter-on-the-table.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: ずっと, 移動, 古い, 彼女, 時. 新しい言葉: そう, これらの, 彼女の, 長い, 作る, もの, 見る, 彼に. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: ずっと = much; 移動 = move; 古い = old; 彼女 = she; 時 = when. New words: そう = so; これらの = these; 彼女の = her; 長い = long; 作る = make; もの = thing; 見る = see; 彼に = him. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、サーシャは大学へ行きます。近くに手紙とテーブルがあります。サーシャはゆっくり読み、新しい言葉「会議」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Sasha is at the university. There is letter and table nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "ページ 2",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: ずっと, 移動, 古い, 彼女, 時. 新しい言葉: 二つ, があります, 見える, 多くの, 日, 可能性, 行く, 来る. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: ずっと = much; 移動 = move; 古い = old; 彼女 = she; 時 = when. New words: 二つ = two; があります = has; 見える = look; 多くの = more; 日 = day; 可能性 = could; 行く = go; 来る = come. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "サーシャはノートに「会議」を書きます。それから「招待」について考えます。そこは静かなので、サーシャは文をもう一度読み、小さな声で言います。",
+              "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about invitation. The place is quiet, so Sasha reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "japanese-elementary-06",
+          "id": "japanese-elementary-18",
           "level": "elementary",
-          "title": "Elementary 06: 言葉 181-196",
+          "title": "Elementary 18: Words in the Park",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -17763,23 +17830,24 @@ window.LANGUAGE_CURRICULUM = {
             175,
             178
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/18-elementary-words-in-the-park.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 道, その後, でしょう, これらの, 作る. 新しい言葉: やった, 番号, 聞こえる, いいえ, 最も, 人々, 私の, オーバー. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 道 = way; その後 = then; でしょう = would; これらの = these; 作る = make. New words: やった = did; 番号 = number; 聞こえる = sound; いいえ = no; 最も = most; 人々 = people; 私の = my; オーバー = over. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、イリーナは公園へ行きます。近くに電話とお茶があります。イリーナはゆっくり読み、新しい言葉「三つ」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Irina is in the park. There is phone and tea nearby. Irina reads slowly and notices a new word: three. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "ページ 2",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 道, その後, でしょう, これらの, 作る. 新しい言葉: 知っている, 水, 比べて, コール, 最初の, 誰, よい, ダウン. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 道 = way; その後 = then; でしょう = would; これらの = these; 作る = make. New words: 知っている = know; 水 = water; 比べて = than; コール = call; 最初の = first; 誰 = who; よい = may; ダウン = down. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "イリーナはノートに「三つ」を書きます。それから「話すこと」について考えます。そこは静かなので、イリーナは文をもう一度読み、小さな声で言います。",
+              "en": "Irina writes the word three in a notebook. Then Irina thinks about speaking. The place is quiet, so Irina reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "japanese-elementary-07",
+          "id": "japanese-elementary-19",
           "level": "elementary",
-          "title": "Elementary 07: 言葉 197-212",
+          "title": "Elementary 19: The Little Plan",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -17815,23 +17883,24 @@ window.LANGUAGE_CURRICULUM = {
             191,
             194
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/19-elementary-the-little-plan.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 二つ, 多くの, 行く, 番号, 最も. 新しい言葉: サイド, き, 今, 見つける, ヘッド, スタンド, 独自の, ページ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 二つ = two; 多くの = more; 行く = go; 番号 = number; 最も = most. New words: サイド = side; き = been; 今 = now; 見つける = find; ヘッド = head; スタンド = stand; 独自の = own; ページ = page. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、レナは店へ行きます。近くに地図とかごがあります。レナはゆっくり読み、新しい言葉「計画」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Lena is in the store. There is map and basket nearby. Lena reads slowly and notices a new word: plan. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "ページ 2",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 二つ, 多くの, 行く, 番号, 最も. 新しい言葉: べき, 国, 発見, 答え, 学校, 成長する, 研究, まだ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 二つ = two; 多くの = more; 行く = go; 番号 = number; 最も = most. New words: べき = should; 国 = country; 発見 = found; 答え = answer; 学校 = school; 成長する = grow; 研究 = study; まだ = still. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "レナはノートに「計画」を書きます。それから「買い物」について考えます。そこは静かなので、レナは文をもう一度読み、小さな声で言います。",
+              "en": "Lena writes the word plan in a notebook. Then Lena thinks about shopping. The place is quiet, so Lena reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "japanese-elementary-08",
+          "id": "japanese-elementary-20",
           "level": "elementary",
-          "title": "Elementary 08: 言葉 213-228",
+          "title": "Elementary 20: The News Page",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -17867,23 +17936,24 @@ window.LANGUAGE_CURRICULUM = {
             207,
             210
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/20-elementary-the-news-page.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 知っている, コール, よい, き, ヘッド. 新しい言葉: 学ぶ, 植物, カバー, 食品, 太陽, つの, 間に, 状態. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 知っている = know; コール = call; よい = may; き = been; ヘッド = head. New words: 学ぶ = learn; 植物 = plant; カバー = cover; 食品 = food; 太陽 = sun; つの = four; 間に = between; 状態 = state. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、マリアは駅へ行きます。近くにお茶と新聞があります。マリアはゆっくり読み、新しい言葉「ニュース」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Maria is at the station. There is tea and newspaper nearby. Maria reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "ページ 2",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 知っている, コール, よい, き, ヘッド. 新しい言葉: キープ, 目, ネバー, 最後の, てみましょう, 考え, 街, ツリー. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 知っている = know; コール = call; よい = may; き = been; ヘッド = head. New words: キープ = keep; 目 = eye; ネバー = never; 最後の = last; てみましょう = let; 考え = thought; 街 = city; ツリー = tree. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "マリアはノートに「ニュース」を書きます。それから「考え」について考えます。そこは静かなので、マリアは文をもう一度読み、小さな声で言います。",
+              "en": "Maria writes the word news in a notebook. Then Maria thinks about thinking. The place is quiet, so Maria reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "japanese-elementary-09",
+          "id": "japanese-elementary-21",
           "level": "elementary",
-          "title": "Elementary 09: 言葉 229-244",
+          "title": "Elementary 21: The Family Walk",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -17919,23 +17989,24 @@ window.LANGUAGE_CURRICULUM = {
             223,
             226
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/21-elementary-the-family-walk.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: べき, 答え, 研究, 植物, 太陽. 新しい言葉: クロス, 農場, ハード, スタート, 可能性がある, 物語, のこぎり, 遠く. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: べき = should; 答え = answer; 研究 = study; 植物 = plant; 太陽 = sun. New words: クロス = cross; 農場 = farm; ハード = hard; スタート = start; 可能性がある = might; 物語 = story; のこぎり = saw; 遠く = far. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、アンナは公園へ行きます。近くに母と兄弟があります。アンナはゆっくり読み、新しい言葉「家」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Anna is in the park. There is mother and brother nearby. Anna reads slowly and notices a new word: house. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "ページ 2",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: べき, 答え, 研究, 植物, 太陽. 新しい言葉: 海, 描く, 左, 遅く, ラン, ない, 一方、, プレス. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: べき = should; 答え = answer; 研究 = study; 植物 = plant; 太陽 = sun. New words: 海 = sea; 描く = draw; 左 = left; 遅く = late; ラン = run; ない = don’t; 一方、 = while; プレス = press. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "アンナはノートに「家」を書きます。それから「家族」について考えます。そこは静かなので、アンナは文をもう一度読み、小さな声で言います。",
+              "en": "Anna writes the word house in a notebook. Then Anna thinks about family. The place is quiet, so Anna reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "japanese-elementary-10",
+          "id": "japanese-elementary-22",
           "level": "elementary",
-          "title": "Elementary 10: 言葉 245-260",
+          "title": "Elementary 22: The Quiet Room",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -17971,23 +18042,24 @@ window.LANGUAGE_CURRICULUM = {
             239,
             242
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/22-elementary-the-quiet-room.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: キープ, 最後の, 街, 農場, 可能性がある. 新しい言葉: クローズ, 夜, リアル, 生活, 少数, 北, ブック, 運ぶ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: キープ = keep; 最後の = last; 街 = city; 農場 = farm; 可能性がある = might. New words: クローズ = close; 夜 = night; リアル = real; 生活 = life; 少数 = few; 北 = north; ブック = book; 運ぶ = carry. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、イワンは部屋へ行きます。近くに椅子と本があります。イワンはゆっくり読み、新しい言葉「部屋」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Ivan is in the room. There is chair and book nearby. Ivan reads slowly and notices a new word: room. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "ページ 2",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: キープ, 最後の, 街, 農場, 可能性がある. 新しい言葉: かかった, 科学, 食べる, 部屋, 友人, 始まった, アイデア, 魚. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: キープ = keep; 最後の = last; 街 = city; 農場 = farm; 可能性がある = might. New words: かかった = took; 科学 = science; 食べる = eat; 部屋 = room; 友人 = friend; 始まった = began; アイデア = idea; 魚 = fish. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "イワンはノートに「部屋」を書きます。それから「静けさ」について考えます。そこは静かなので、イワンは文をもう一度読み、小さな声で言います。",
+              "en": "Ivan writes the word room in a notebook. Then Ivan thinks about silence. The place is quiet, so Ivan reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "japanese-elementary-11",
+          "id": "japanese-elementary-23",
           "level": "elementary",
-          "title": "Elementary 11: 言葉 261-275",
+          "title": "Elementary 23: The New Teacher",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -18022,23 +18094,24 @@ window.LANGUAGE_CURRICULUM = {
             255,
             258
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/23-elementary-the-new-teacher.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 海, 遅く, 一方、, 夜, 少数. 新しい言葉: 山, 停止, 一度, ベース, 聞く, 馬, カット, 確か. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 海 = sea; 遅く = late; 一方、 = while; 夜 = night; 少数 = few. New words: 山 = mountain; 停止 = stop; 一度 = once; ベース = base; 聞く = hear; 馬 = horse; カット = cut; 確か = sure. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、マーシャは学校へ行きます。近くに先生とボードがあります。マーシャはゆっくり読み、新しい言葉「質問」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Masha is at school. There is teacher and board nearby. Masha reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "ページ 2",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 海, 遅く, 一方、, 夜, 少数. 新しい言葉: 見る, カラー, 顔, 木材, メイン, オープン, 見える. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 海 = sea; 遅く = late; 一方、 = while; 夜 = night; 少数 = few. New words: 見る = watch; カラー = color; 顔 = face; 木材 = wood; メイン = main; オープン = open; 見える = seem. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "マーシャはノートに「質問」を書きます。それから「学び」について考えます。そこは静かなので、マーシャは文をもう一度読み、小さな声で言います。",
+              "en": "Masha writes the word question in a notebook. Then Masha thinks about learning. The place is quiet, so Masha reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "japanese-elementary-12",
+          "id": "japanese-elementary-24",
           "level": "elementary",
-          "title": "Elementary 12: 言葉 276-290",
+          "title": "Elementary 24: The Bus Stop",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -18073,23 +18146,24 @@ window.LANGUAGE_CURRICULUM = {
             270,
             273
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/24-elementary-the-bus-stop.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 運ぶ, 食べる, 始まった, 山, ベース. 新しい言葉: 一緒に, 次, 白, 子どもたち, 始まる, だ, 歩く, 例. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 運ぶ = carry; 食べる = eat; 始まった = began; 山 = mountain; ベース = base. New words: 一緒に = together; 次 = next; 白 = white; 子どもたち = children; 始まる = begin; だ = got; 歩く = walk; 例 = example. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、パーヴェルは通りへ行きます。近くに切符とバスがあります。パーヴェルはゆっくり読み、新しい言葉「時間」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Pavel is on the street. There is ticket and bus nearby. Pavel reads slowly and notices a new word: time. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "ページ 2",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 運ぶ, 食べる, 始まった, 山, ベース. 新しい言葉: 和らげる, 紙, グループ, 常に, 音楽, それらの, 両方. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 運ぶ = carry; 食べる = eat; 始まった = began; 山 = mountain; ベース = base. New words: 和らげる = ease; 紙 = paper; グループ = group; 常に = always; 音楽 = music; それらの = those; 両方 = both. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "パーヴェルはノートに「時間」を書きます。それから「待つこと」について考えます。そこは静かなので、パーヴェルは文をもう一度読み、小さな声で言います。",
+              "en": "Pavel writes the word time in a notebook. Then Pavel thinks about waiting. The place is quiet, so Pavel reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "japanese-elementary-13",
+          "id": "japanese-elementary-25",
           "level": "elementary",
-          "title": "Elementary 13: 言葉 291-305",
+          "title": "Elementary 25: The Small Market",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -18124,23 +18198,24 @@ window.LANGUAGE_CURRICULUM = {
             285,
             288
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/25-elementary-the-small-market.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: カット, カラー, メイン, 一緒に, 子どもたち. 新しい言葉: マーク, しばしば, 手紙, まで、, マイル, 川, カー, フィート. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: カット = cut; カラー = color; メイン = main; 一緒に = together; 子どもたち = children. New words: マーク = mark; しばしば = often; 手紙 = letter; まで、 = until; マイル = mile; 川 = river; カー = car; フィート = feet. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、オリガは市場へ行きます。近くに果物とかばんがあります。オリガはゆっくり読み、新しい言葉「お金」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Olga is at the market. There is fruit and bag nearby. Olga reads slowly and notices a new word: money. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "ページ 2",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: カット, カラー, メイン, 一緒に, 子どもたち. 新しい言葉: 介護, 第2, 十分な, 平野, 女の子, いつもの, 若い. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: カット = cut; カラー = color; メイン = main; 一緒に = together; 子どもたち = children. New words: 介護 = care; 第2 = second; 十分な = enough; 平野 = plain; 女の子 = girl; いつもの = usual; 若い = young. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "オリガはノートに「お金」を書きます。それから「市場」について考えます。そこは静かなので、オリガは文をもう一度読み、小さな声で言います。",
+              "en": "Olga writes the word money in a notebook. Then Olga thinks about market. The place is quiet, so Olga reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "japanese-elementary-14",
+          "id": "japanese-elementary-26",
           "level": "elementary",
-          "title": "Elementary 14: 言葉 306-320",
+          "title": "Elementary 26: The First Conversation",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -18175,23 +18250,24 @@ window.LANGUAGE_CURRICULUM = {
             300,
             303
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/26-elementary-the-first-conversation.txt",
           "sections": [
             {
-              "heading": "ページ 1",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 歩く, 紙, 音楽, マーク, まで、. 新しい言葉: レディー, 上記, 今までに, 赤, リスト, しかし, 感じる, トーク. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 歩く = walk; 紙 = paper; 音楽 = music; マーク = mark; まで、 = until. New words: レディー = ready; 上記 = above; 今までに = ever; 赤 = red; リスト = list; しかし = though; 感じる = feel; トーク = talk. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、ディマはカフェへ行きます。近くに電話と友だちがあります。ディマはゆっくり読み、新しい言葉「文」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Dima is in the cafe. There is phone and friend nearby. Dima reads slowly and notices a new word: sentence. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "ページ 2",
-              "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 歩く, 紙, 音楽, マーク, まで、. 新しい言葉: 鳥, すぐに, ボディ, 犬, 家族, ダイレクト, ポーズ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 歩く = walk; 紙 = paper; 音楽 = music; マーク = mark; まで、 = until. New words: 鳥 = bird; すぐに = soon; ボディ = body; 犬 = dog; 家族 = family; ダイレクト = direct; ポーズ = pose. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "ディマはノートに「文」を書きます。それから「会話」について考えます。そこは静かなので、ディマは文をもう一度読み、小さな声で言います。",
+              "en": "Dima writes the word sentence in a notebook. Then Dima thinks about talk. The place is quiet, so Dima reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "japanese-intermediate-01",
+          "id": "japanese-intermediate-27",
           "level": "intermediate",
-          "title": "Intermediate 01: 言葉 321-344",
+          "title": "Intermediate 27: The Lost Note",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -18235,28 +18311,29 @@ window.LANGUAGE_CURRICULUM = {
             315,
             318
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/27-intermediate-the-lost-note.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: カー, 第2, 女の子, レディー, 赤. 新しい言葉: 去る, 歌, 測定, ドア, 製品, 黒, 短い, 数字. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: カー = car; 第2 = second; 女の子 = girl; レディー = ready; 赤 = red. New words: 去る = leave; 歌 = song; 測定 = measure; ドア = door; 製品 = product; 黒 = black; 短い = short; 数字 = numeral. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、カーチャは図書館へ行きます。近くにメモと地図があります。カーチャはゆっくり読み、新しい言葉「場所」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Katya is in the library. There is note and map nearby. Katya reads slowly and notices a new word: place. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: カー, 第2, 女の子, レディー, 赤. 新しい言葉: クラス, 風, 質問, 起こる, 完全な, 船, エリア, 半分. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: カー = car; 第2 = second; 女の子 = girl; レディー = ready; 赤 = red. New words: クラス = class; 風 = wind; 質問 = question; 起こる = happen; 完全な = complete; 船 = ship; エリア = area; 半分 = half. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "カーチャはノートに「場所」を書きます。それから「探すこと」について考えます。そこは静かなので、カーチャは文をもう一度読み、小さな声で言います。",
+              "en": "Katya writes the word place in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: カー, 第2, 女の子, レディー, 赤. 新しい言葉: 岩, オーダー, 火災, 南, 問題, 作品, 言われ, 知っていた. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: カー = car; 第2 = second; 女の子 = girl; レディー = ready; 赤 = red. New words: 岩 = rock; オーダー = order; 火災 = fire; 南 = south; 問題 = problem; 作品 = piece; 言われ = told; 知っていた = knew. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "小さな問題が出ますが、カーチャは新しい言葉を使います。メモを見て、次に地図を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+              "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the note, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
             }
           ]
         },
         {
-          "id": "japanese-intermediate-02",
+          "id": "japanese-intermediate-28",
           "level": "intermediate",
-          "title": "Intermediate 02: 言葉 345-368",
+          "title": "Intermediate 28: A Meeting at Noon",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -18300,28 +18377,29 @@ window.LANGUAGE_CURRICULUM = {
             339,
             342
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/28-intermediate-a-meeting-at-noon.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 去る, ドア, 短い, 風, 完全な. 新しい言葉: 合格, 以来, トップ, 全体, 王, ストリート, インチ, 掛ける. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 去る = leave; ドア = door; 短い = short; 風 = wind; 完全な = complete. New words: 合格 = pass; 以来 = since; トップ = top; 全体 = whole; 王 = king; ストリート = street; インチ = inch; 掛ける = multiply. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、サーシャは大学へ行きます。近くに時計と手紙があります。サーシャはゆっくり読み、新しい言葉「正午」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Sasha is at the university. There is clock and letter nearby. Sasha reads slowly and notices a new word: noon. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 去る, ドア, 短い, 風, 完全な. 新しい言葉: 何も, もちろん, 滞在, ホイール, フル, 力, ブルー, オブジェクト. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 去る = leave; ドア = door; 短い = short; 風 = wind; 完全な = complete. New words: 何も = nothing; もちろん = course; 滞在 = stay; ホイール = wheel; フル = full; 力 = force; ブルー = blue; オブジェクト = object. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "サーシャはノートに「正午」を書きます。それから「会議」について考えます。そこは静かなので、サーシャは文をもう一度読み、小さな声で言います。",
+              "en": "Sasha writes the word noon in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 去る, ドア, 短い, 風, 完全な. 新しい言葉: 決定する, 表面, 深い, ムーン, 島, 足, システム, 忙しい. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 去る = leave; ドア = door; 短い = short; 風 = wind; 完全な = complete. New words: 決定する = decide; 表面 = surface; 深い = deep; ムーン = moon; 島 = island; 足 = foot; システム = system; 忙しい = busy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "小さな問題が出ますが、サーシャは新しい言葉を使います。時計を見て、次に手紙を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+              "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the clock, looks at the letter, and makes a simple plan. By the end, Sasha can say one clear sentence."
             }
           ]
         },
         {
-          "id": "japanese-intermediate-03",
+          "id": "japanese-intermediate-29",
           "level": "intermediate",
-          "title": "Intermediate 03: 言葉 369-392",
+          "title": "Intermediate 29: The Old Map",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -18365,28 +18443,29 @@ window.LANGUAGE_CURRICULUM = {
             363,
             366
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/29-intermediate-the-old-map.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 合格, 全体, インチ, もちろん, フル. 新しい言葉: テスト, 記録, ボート, 一般的な, ゴールド, 可能, 飛行機, 代わり. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 合格 = pass; 全体 = whole; インチ = inch; もちろん = course; フル = full. New words: テスト = test; 記録 = record; ボート = boat; 一般的な = common; ゴールド = gold; 可能 = possible; 飛行機 = plane; 代わり = stead. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、ニコライは博物館へ行きます。近くに地図と通りがあります。ニコライはゆっくり読み、新しい言葉「町」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Nikolay is in the museum. There is map and street nearby. Nikolay reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 合格, 全体, インチ, もちろん, フル. 新しい言葉: ドライ, 不思議, 笑い, 千の, 前, 走った, チェック, ゲーム. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 合格 = pass; 全体 = whole; インチ = inch; もちろん = course; フル = full. New words: ドライ = dry; 不思議 = wonder; 笑い = laugh; 千の = thousand; 前 = ago; 走った = ran; チェック = check; ゲーム = game. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "ニコライはノートに「町」を書きます。それから「歴史」について考えます。そこは静かなので、ニコライは文をもう一度読み、小さな声で言います。",
+              "en": "Nikolay writes the word city in a notebook. Then Nikolay thinks about history. The place is quiet, so Nikolay reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 合格, 全体, インチ, もちろん, フル. 新しい言葉: 形状, 一致する, ホット, ミス, た, 熱, 雪, タイヤ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 合格 = pass; 全体 = whole; インチ = inch; もちろん = course; フル = full. New words: 形状 = shape; 一致する = equate; ホット = hot; ミス = miss; た = brought; 熱 = heat; 雪 = snow; タイヤ = tire. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "小さな問題が出ますが、ニコライは新しい言葉を使います。地図を見て、次に通りを見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+              "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the map, looks at the street, and makes a simple plan. By the end, Nikolay can say one clear sentence."
             }
           ]
         },
         {
-          "id": "japanese-intermediate-04",
+          "id": "japanese-intermediate-30",
           "level": "intermediate",
-          "title": "Intermediate 04: 言葉 393-416",
+          "title": "Intermediate 30: The Rainy Lesson",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -18430,28 +18509,29 @@ window.LANGUAGE_CURRICULUM = {
             387,
             390
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/30-intermediate-the-rainy-lesson.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: テスト, 一般的な, 飛行機, 不思議, 前. 新しい言葉: 持って来る, はい, 遠い, 埋める, 東, ペイント, 言語, の間で. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: テスト = test; 一般的な = common; 飛行機 = plane; 不思議 = wonder; 前 = ago. New words: 持って来る = bring; はい = yes; 遠い = distant; 埋める = fill; 東 = east; ペイント = paint; 言語 = language; の間で = among. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、イリーナは学校へ行きます。近くに窓と雨があります。イリーナはゆっくり読み、新しい言葉「天気」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Irina is at school. There is window and rain nearby. Irina reads slowly and notices a new word: weather. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: テスト, 一般的な, 飛行機, 不思議, 前. 新しい言葉: ユニット, パワー, 町, 罰金, 特定の, 飛ぶ, 落ちる, 鉛. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: テスト = test; 一般的な = common; 飛行機 = plane; 不思議 = wonder; 前 = ago. New words: ユニット = unit; パワー = power; 町 = town; 罰金 = fine; 特定の = certain; 飛ぶ = fly; 落ちる = fall; 鉛 = lead. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "イリーナはノートに「天気」を書きます。それから「勉強」について考えます。そこは静かなので、イリーナは文をもう一度読み、小さな声で言います。",
+              "en": "Irina writes the word weather in a notebook. Then Irina thinks about study. The place is quiet, so Irina reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: テスト, 一般的な, 飛行機, 不思議, 前. 新しい言葉: 泣く, 暗い, マシン, ノート, 待つ, 計画, 図, スター. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: テスト = test; 一般的な = common; 飛行機 = plane; 不思議 = wonder; 前 = ago. New words: 泣く = cry; 暗い = dark; マシン = machine; ノート = note; 待つ = wait; 計画 = plan; 図 = figure; スター = star. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "小さな問題が出ますが、イリーナは新しい言葉を使います。窓を見て、次に雨を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+              "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the window, looks at the rain, and makes a simple plan. By the end, Irina can say one clear sentence."
             }
           ]
         },
         {
-          "id": "japanese-intermediate-05",
+          "id": "japanese-intermediate-31",
           "level": "intermediate",
-          "title": "Intermediate 05: 言葉 417-440",
+          "title": "Intermediate 31: The Museum Question",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -18495,28 +18575,29 @@ window.LANGUAGE_CURRICULUM = {
             411,
             414
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/31-intermediate-the-museum-question.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 持って来る, 埋める, 言語, パワー, 特定の. 新しい言葉: ボックス, 名詞, フィールド, 残り, 正しい, できる, ポンド, 終わった. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 持って来る = bring; 埋める = fill; 言語 = language; パワー = power; 特定の = certain. New words: ボックス = box; 名詞 = noun; フィールド = field; 残り = rest; 正しい = correct; できる = able; ポンド = pound; 終わった = done. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、パーヴェルは博物館へ行きます。近くに絵とノートがあります。パーヴェルはゆっくり読み、新しい言葉「質問」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Pavel is in the museum. There is picture and notebook nearby. Pavel reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 持って来る, 埋める, 言語, パワー, 特定の. 新しい言葉: 美しさ, ドライブ, 立っていた, 含む, フロント, 教える, 週, ファイナル. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 持って来る = bring; 埋める = fill; 言語 = language; パワー = power; 特定の = certain. New words: 美しさ = beauty; ドライブ = drive; 立っていた = stood; 含む = contain; フロント = front; 教える = teach; 週 = week; ファイナル = final. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "パーヴェルはノートに「質問」を書きます。それから「答え」について考えます。そこは静かなので、パーヴェルは文をもう一度読み、小さな声で言います。",
+              "en": "Pavel writes the word question in a notebook. Then Pavel thinks about answer. The place is quiet, so Pavel reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 持って来る, 埋める, 言語, パワー, 特定の. 新しい言葉: 与えた, 緑, ああ, クイック, 開発する, 海, 暖かい, 無料で. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 持って来る = bring; 埋める = fill; 言語 = language; パワー = power; 特定の = certain. New words: 与えた = gave; 緑 = green; ああ = oh; クイック = quick; 開発する = develop; 海 = ocean; 暖かい = warm; 無料で = free. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "小さな問題が出ますが、パーヴェルは新しい言葉を使います。絵を見て、次にノートを見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+              "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the picture, looks at the notebook, and makes a simple plan. By the end, Pavel can say one clear sentence."
             }
           ]
         },
         {
-          "id": "japanese-intermediate-06",
+          "id": "japanese-intermediate-32",
           "level": "intermediate",
-          "title": "Intermediate 06: 言葉 441-464",
+          "title": "Intermediate 32: The Train Delay",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -18560,28 +18641,29 @@ window.LANGUAGE_CURRICULUM = {
             435,
             438
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/32-intermediate-the-train-delay.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: ボックス, 残り, ポンド, ドライブ, フロント. 新しい言葉: 分, 強い, 特別, 心, 背後に, 明確な, テール, 作る. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: ボックス = box; 残り = rest; ポンド = pound; ドライブ = drive; フロント = front. New words: 分 = minute; 強い = strong; 特別 = special; 心 = mind; 背後に = behind; 明確な = clear; テール = tail; 作る = produce. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、マリアは駅へ行きます。近くに切符と時計があります。マリアはゆっくり読み、新しい言葉「待つ」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Maria is at the station. There is ticket and clock nearby. Maria reads slowly and notices a new word: wait. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: ボックス, 残り, ポンド, ドライブ, フロント. 新しい言葉: 事実, スペース, 聞いた, ベスト, 時間, 良い, 真の, 間に. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: ボックス = box; 残り = rest; ポンド = pound; ドライブ = drive; フロント = front. New words: 事実 = fact; スペース = space; 聞いた = heard; ベスト = best; 時間 = hour; 良い = better; 真の = true; 間に = during. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "マリアはノートに「待つ」を書きます。それから「旅」について考えます。そこは静かなので、マリアは文をもう一度読み、小さな声で言います。",
+              "en": "Maria writes the word wait in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: ボックス, 残り, ポンド, ドライブ, フロント. 新しい言葉: 百, 五, 覚えている, ステップ, 早い, ホールド, 西, 地面. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: ボックス = box; 残り = rest; ポンド = pound; ドライブ = drive; フロント = front. New words: 百 = hundred; 五 = five; 覚えている = remember; ステップ = step; 早い = early; ホールド = hold; 西 = west; 地面 = ground. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "小さな問題が出ますが、マリアは新しい言葉を使います。切符を見て、次に時計を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+              "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the clock, and makes a simple plan. By the end, Maria can say one clear sentence."
             }
           ]
         },
         {
-          "id": "japanese-intermediate-07",
+          "id": "japanese-intermediate-33",
           "level": "intermediate",
-          "title": "Intermediate 07: 言葉 465-488",
+          "title": "Intermediate 33: Music in the Cafe",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -18625,28 +18707,29 @@ window.LANGUAGE_CURRICULUM = {
             459,
             462
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/33-intermediate-music-in-the-cafe.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 分, 心, テール, スペース, 時間. 新しい言葉: 関心, リーチ, 速い, 動詞, 歌う, 聞く, 六, テーブル. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 分 = minute; 心 = mind; テール = tail; スペース = space; 時間 = hour. New words: 関心 = interest; リーチ = reach; 速い = fast; 動詞 = verb; 歌う = sing; 聞く = listen; 六 = six; テーブル = table. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、オリガはカフェへ行きます。近くに音楽とお茶があります。オリガはゆっくり読み、新しい言葉「歌」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Olga is in the cafe. There is music and tea nearby. Olga reads slowly and notices a new word: song. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 分, 心, テール, スペース, 時間. 新しい言葉: 旅行, レス, 朝, 十, シンプル, いくつかの, 母音, の方へ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 分 = minute; 心 = mind; テール = tail; スペース = space; 時間 = hour. New words: 旅行 = travel; レス = less; 朝 = morning; 十 = ten; シンプル = simple; いくつかの = several; 母音 = vowel; の方へ = toward. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "オリガはノートに「歌」を書きます。それから「記憶」について考えます。そこは静かなので、オリガは文をもう一度読み、小さな声で言います。",
+              "en": "Olga writes the word song in a notebook. Then Olga thinks about memory. The place is quiet, so Olga reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 分, 心, テール, スペース, 時間. 新しい言葉: 戦争, 産む, に対する, パターン, 遅い, センター, 愛, 人. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 分 = minute; 心 = mind; テール = tail; スペース = space; 時間 = hour. New words: 戦争 = war; 産む = lay; に対する = against; パターン = pattern; 遅い = slow; センター = center; 愛 = love; 人 = person. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "小さな問題が出ますが、オリガは新しい言葉を使います。音楽を見て、次にお茶を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+              "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the music, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
             }
           ]
         },
         {
-          "id": "japanese-intermediate-08",
+          "id": "japanese-intermediate-34",
           "level": "intermediate",
-          "title": "Intermediate 08: 言葉 489-512",
+          "title": "Intermediate 34: A Letter from a Friend",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -18690,28 +18773,29 @@ window.LANGUAGE_CURRICULUM = {
             483,
             486
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/34-intermediate-a-letter-from-a-friend.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 関心, 動詞, 六, レス, シンプル. 新しい言葉: マネー, サーブ, 見える, 道路, マップ, 雨, ルール, 支配する. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 関心 = interest; 動詞 = verb; 六 = six; レス = less; シンプル = simple. New words: マネー = money; サーブ = serve; 見える = appear; 道路 = road; マップ = map; 雨 = rain; ルール = rule; 支配する = govern. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、ディマは家へ行きます。近くに手紙と電話があります。ディマはゆっくり読み、新しい言葉「友だち」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Dima is at home. There is letter and phone nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 関心, 動詞, 六, レス, シンプル. 新しい言葉: 引っ張る, 寒い, 予告, 声, エネルギー, 狩り, ありそうな, ベッド. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 関心 = interest; 動詞 = verb; 六 = six; レス = less; シンプル = simple. New words: 引っ張る = pull; 寒い = cold; 予告 = notice; 声 = voice; エネルギー = energy; 狩り = hunt; ありそうな = probable; ベッド = bed. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "ディマはノートに「友だち」を書きます。それから「招待」について考えます。そこは静かなので、ディマは文をもう一度読み、小さな声で言います。",
+              "en": "Dima writes the word friend in a notebook. Then Dima thinks about invitation. The place is quiet, so Dima reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 関心, 動詞, 六, レス, シンプル. 新しい言葉: 兄, 卵, 乗る, セル, 信じる, たぶん, 選ぶ, 突然の. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 関心 = interest; 動詞 = verb; 六 = six; レス = less; シンプル = simple. New words: 兄 = brother; 卵 = egg; 乗る = ride; セル = cell; 信じる = believe; たぶん = perhaps; 選ぶ = pick; 突然の = sudden. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "小さな問題が出ますが、ディマは新しい言葉を使います。手紙を見て、次に電話を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+              "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the letter, looks at the phone, and makes a simple plan. By the end, Dima can say one clear sentence."
             }
           ]
         },
         {
-          "id": "japanese-intermediate-09",
+          "id": "japanese-intermediate-35",
           "level": "intermediate",
-          "title": "Intermediate 09: 言葉 513-535",
+          "title": "Intermediate 35: The School Project",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -18754,28 +18838,29 @@ window.LANGUAGE_CURRICULUM = {
             507,
             510
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/35-intermediate-the-school-project.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: マネー, 道路, ルール, 寒い, エネルギー. 新しい言葉: カウント, 広場, 理由, 長さ, 表す, アート, テーマ, 地域. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: マネー = money; 道路 = road; ルール = rule; 寒い = cold; エネルギー = energy. New words: カウント = count; 広場 = square; 理由 = reason; 長さ = length; 表す = represent; アート = art; テーマ = subject; 地域 = region. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、マーシャは学校へ行きます。近くに紙と先生があります。マーシャはゆっくり読み、新しい言葉「プロジェクト」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Masha is at school. There is paper and teacher nearby. Masha reads slowly and notices a new word: project. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: マネー, 道路, ルール, 寒い, エネルギー. 新しい言葉: サイズ, 変える, 落ち着く, 話す, 重さ, 一般, アイス, 問題. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: マネー = money; 道路 = road; ルール = rule; 寒い = cold; エネルギー = energy. New words: サイズ = size; 変える = vary; 落ち着く = settle; 話す = speak; 重さ = weight; 一般 = general; アイス = ice; 問題 = matter. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "マーシャはノートに「プロジェクト」を書きます。それから「グループ」について考えます。そこは静かなので、マーシャは文をもう一度読み、小さな声で言います。",
+              "en": "Masha writes the word project in a notebook. Then Masha thinks about group. The place is quiet, so Masha reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: マネー, 道路, ルール, 寒い, エネルギー. 新しい言葉: サークル, ペア, 含める, 分割, 音節, フェルト, 壮大な. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: マネー = money; 道路 = road; ルール = rule; 寒い = cold; エネルギー = energy. New words: サークル = circle; ペア = pair; 含める = include; 分割 = divide; 音節 = syllable; フェルト = felt; 壮大な = grand. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "小さな問題が出ますが、マーシャは新しい言葉を使います。紙を見て、次に先生を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+              "en": "A small problem appears, but Masha uses the new words to understand it. Masha checks the paper, looks at the teacher, and makes a simple plan. By the end, Masha can say one clear sentence."
             }
           ]
         },
         {
-          "id": "japanese-intermediate-10",
+          "id": "japanese-intermediate-36",
           "level": "intermediate",
-          "title": "Intermediate 10: 言葉 536-558",
+          "title": "Intermediate 36: The City Walk",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -18818,28 +18903,29 @@ window.LANGUAGE_CURRICULUM = {
             530,
             533
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/36-intermediate-the-city-walk.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 突然の, 理由, アート, サイズ, 話す. 新しい言葉: ボール, まだ, 波, ドロップ, 心, AM, 現在, 重い. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 突然の = sudden; 理由 = reason; アート = art; サイズ = size; 話す = speak. New words: ボール = ball; まだ = yet; 波 = wave; ドロップ = drop; 心 = heart; AM = am; 現在 = present; 重い = heavy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、アンナは町へ行きます。近くに通りと窓があります。アンナはゆっくり読み、新しい言葉「散歩」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Anna is in the city. There is street and window nearby. Anna reads slowly and notices a new word: walk. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 突然の, 理由, アート, サイズ, 話す. 新しい言葉: ダンス, エンジン, ポジション, アーム, 広い, 帆, 材料, 分数. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 突然の = sudden; 理由 = reason; アート = art; サイズ = size; 話す = speak. New words: ダンス = dance; エンジン = engine; ポジション = position; アーム = arm; 広い = wide; 帆 = sail; 材料 = material; 分数 = fraction. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "アンナはノートに「散歩」を書きます。それから「場所」について考えます。そこは静かなので、アンナは文をもう一度読み、小さな声で言います。",
+              "en": "Anna writes the word walk in a notebook. Then Anna thinks about place. The place is quiet, so Anna reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 突然の, 理由, アート, サイズ, 話す. 新しい言葉: 森, 座る, レース, 窓, 店, 夏, 列車. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 突然の = sudden; 理由 = reason; アート = art; サイズ = size; 話す = speak. New words: 森 = forest; 座る = sit; レース = race; 窓 = window; 店 = store; 夏 = summer; 列車 = train. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "小さな問題が出ますが、アンナは新しい言葉を使います。通りを見て、次に窓を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+              "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the street, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
             }
           ]
         },
         {
-          "id": "japanese-intermediate-11",
+          "id": "japanese-intermediate-37",
           "level": "intermediate",
-          "title": "Intermediate 11: 言葉 559-581",
+          "title": "Intermediate 37: The Bookshop Door",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -18882,28 +18968,29 @@ window.LANGUAGE_CURRICULUM = {
             553,
             556
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/37-intermediate-the-bookshop-door.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 壮大な, 波, AM, ダンス, アーム. 新しい言葉: スリープ, 証明する, ローン, レッグ, エクササイズ, 壁, キャッチ, マウント. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 壮大な = grand; 波 = wave; AM = am; ダンス = dance; アーム = arm. New words: スリープ = sleep; 証明する = prove; ローン = lone; レッグ = leg; エクササイズ = exercise; 壁 = wall; キャッチ = catch; マウント = mount. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、イワンは本屋へ行きます。近くにドアと本があります。イワンはゆっくり読み、新しい言葉「開ける」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Ivan is in the bookshop. There is door and book nearby. Ivan reads slowly and notices a new word: open. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 壮大な, 波, AM, ダンス, アーム. 新しい言葉: 希望, 空, ボード, 喜び, 冬, 土, 書かれた, ワイルド. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 壮大な = grand; 波 = wave; AM = am; ダンス = dance; アーム = arm. New words: 希望 = wish; 空 = sky; ボード = board; 喜び = joy; 冬 = winter; 土 = sat; 書かれた = written; ワイルド = wild. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "イワンはノートに「開ける」を書きます。それから「読むこと」について考えます。そこは静かなので、イワンは文をもう一度読み、小さな声で言います。",
+              "en": "Ivan writes the word open in a notebook. Then Ivan thinks about reading. The place is quiet, so Ivan reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 壮大な, 波, AM, ダンス, アーム. 新しい言葉: 楽器, 保管, ガラス, 草, 乳牛, 仕事, エッジ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 壮大な = grand; 波 = wave; AM = am; ダンス = dance; アーム = arm. New words: 楽器 = instrument; 保管 = kept; ガラス = glass; 草 = grass; 乳牛 = cow; 仕事 = job; エッジ = edge. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "小さな問題が出ますが、イワンは新しい言葉を使います。ドアを見て、次に本を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+              "en": "A small problem appears, but Ivan uses the new words to understand it. Ivan checks the door, looks at the book, and makes a simple plan. By the end, Ivan can say one clear sentence."
             }
           ]
         },
         {
-          "id": "japanese-intermediate-12",
+          "id": "japanese-intermediate-38",
           "level": "intermediate",
-          "title": "Intermediate 12: 言葉 582-604",
+          "title": "Intermediate 38: The Family Story",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -18946,28 +19033,29 @@ window.LANGUAGE_CURRICULUM = {
             576,
             579
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/38-intermediate-the-family-story.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 列車, ローン, 壁, 希望, 喜び. 新しい言葉: 看板, 訪問, 過去, ソフト, 楽しい, 明るい, ガス, 天候. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 列車 = train; ローン = lone; 壁 = wall; 希望 = wish; 喜び = joy. New words: 看板 = sign; 訪問 = visit; 過去 = past; ソフト = soft; 楽しい = fun; 明るい = bright; ガス = gas; 天候 = weather. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、レナは家へ行きます。近くに母と写真があります。レナはゆっくり読み、新しい言葉「物語」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Lena is at home. There is mother and photo nearby. Lena reads slowly and notices a new word: story. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 列車, ローン, 壁, 希望, 喜び. 新しい言葉: 月, 万, クマ, 仕上げ, 幸せな, 希望, 花, 衣服を着せる. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 列車 = train; ローン = lone; 壁 = wall; 希望 = wish; 喜び = joy. New words: 月 = month; 万 = million; クマ = bear; 仕上げ = finish; 幸せな = happy; 希望 = hope; 花 = flower; 衣服を着せる = clothe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "レナはノートに「物語」を書きます。それから「家族」について考えます。そこは静かなので、レナは文をもう一度読み、小さな声で言います。",
+              "en": "Lena writes the word story in a notebook. Then Lena thinks about family. The place is quiet, so Lena reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 列車, ローン, 壁, 希望, 喜び. 新しい言葉: 奇妙な, いなくなった, トレード, メロディー, 旅, オフィス, 受け取る. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 列車 = train; ローン = lone; 壁 = wall; 希望 = wish; 喜び = joy. New words: 奇妙な = strange; いなくなった = gone; トレード = trade; メロディー = melody; 旅 = trip; オフィス = office; 受け取る = receive. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "小さな問題が出ますが、レナは新しい言葉を使います。母を見て、次に写真を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+              "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the mother, looks at the photo, and makes a simple plan. By the end, Lena can say one clear sentence."
             }
           ]
         },
         {
-          "id": "japanese-intermediate-13",
+          "id": "japanese-intermediate-39",
           "level": "intermediate",
-          "title": "Intermediate 13: 言葉 605-627",
+          "title": "Intermediate 39: The Important Word",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -19010,28 +19098,29 @@ window.LANGUAGE_CURRICULUM = {
             599,
             602
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/39-intermediate-the-important-word.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: エッジ, 過去, 明るい, 月, 仕上げ. 新しい言葉: 行, 口, 正確な, シンボル, 死ぬ, 最低, トラブル, シャウト. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: エッジ = edge; 過去 = past; 明るい = bright; 月 = month; 仕上げ = finish. New words: 行 = row; 口 = mouth; 正確な = exact; シンボル = symbol; 死ぬ = die; 最低 = least; トラブル = trouble; シャウト = shout. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、パーヴェルは図書館へ行きます。近くに辞書と紙があります。パーヴェルはゆっくり読み、新しい言葉「意味」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Pavel is in the library. There is dictionary and paper nearby. Pavel reads slowly and notices a new word: meaning. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: エッジ, 過去, 明るい, 月, 仕上げ. 新しい言葉: ただし, 書いた, シード, トーン, 参加する, 提案する, クリーン, ブレーク. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: エッジ = edge; 過去 = past; 明るい = bright; 月 = month; 仕上げ = finish. New words: ただし = except; 書いた = wrote; シード = seed; トーン = tone; 参加する = join; 提案する = suggest; クリーン = clean; ブレーク = break. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "パーヴェルはノートに「意味」を書きます。それから「言語」について考えます。そこは静かなので、パーヴェルは文をもう一度読み、小さな声で言います。",
+              "en": "Pavel writes the word meaning in a notebook. Then Pavel thinks about language. The place is quiet, so Pavel reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: エッジ, 過去, 明るい, 月, 仕上げ. 新しい言葉: 女性, 庭, 上昇, 悪い, 打撃, オイル, 血. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: エッジ = edge; 過去 = past; 明るい = bright; 月 = month; 仕上げ = finish. New words: 女性 = lady; 庭 = yard; 上昇 = rise; 悪い = bad; 打撃 = blow; オイル = oil; 血 = blood. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "小さな問題が出ますが、パーヴェルは新しい言葉を使います。辞書を見て、次に紙を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+              "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the dictionary, looks at the paper, and makes a simple plan. By the end, Pavel can say one clear sentence."
             }
           ]
         },
         {
-          "id": "japanese-intermediate-14",
+          "id": "japanese-intermediate-40",
           "level": "intermediate",
-          "title": "Intermediate 14: 言葉 628-650",
+          "title": "Intermediate 40: Closer Every Day",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -19074,28 +19163,29 @@ window.LANGUAGE_CURRICULUM = {
             622,
             625
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/40-intermediate-closer-every-day.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 受け取る, 正確な, 最低, ただし, トーン. 新しい言葉: 触れる, 成長した, セント, ミックス, チーム, ワイヤー, コスト, 失われた. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 受け取る = receive; 正確な = exact; 最低 = least; ただし = except; トーン = tone. New words: 触れる = touch; 成長した = grew; セント = cent; ミックス = mix; チーム = team; ワイヤー = wire; コスト = cost; 失われた = lost. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、イリーナは公園へ行きます。近くにノートとお茶があります。イリーナはゆっくり読み、新しい言葉「近い」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Irina is in the park. There is notebook and tea nearby. Irina reads slowly and notices a new word: closer. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 受け取る, 正確な, 最低, ただし, トーン. 新しい言葉: ブラウン, 着用, 庭, 等しい, 送信された, 選ぶ, 落ちた, フィット. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 受け取る = receive; 正確な = exact; 最低 = least; ただし = except; トーン = tone. New words: ブラウン = brown; 着用 = wear; 庭 = garden; 等しい = equal; 送信された = sent; 選ぶ = choose; 落ちた = fell; フィット = fit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "イリーナはノートに「近い」を書きます。それから「復習」について考えます。そこは静かなので、イリーナは文をもう一度読み、小さな声で言います。",
+              "en": "Irina writes the word closer in a notebook. Then Irina thinks about review. The place is quiet, so Irina reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 受け取る, 正確な, 最低, ただし, トーン. 新しい言葉: 流れ, フェア, 銀行, 集める, 保存, コントロール, 進. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 受け取る = receive; 正確な = exact; 最低 = least; ただし = except; トーン = tone. New words: 流れ = flow; フェア = fair; 銀行 = bank; 集める = collect; 保存 = save; コントロール = control; 進 = decimal. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "小さな問題が出ますが、イリーナは新しい言葉を使います。ノートを見て、次にお茶を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+              "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the notebook, looks at the tea, and makes a simple plan. By the end, Irina can say one clear sentence."
             }
           ]
         },
         {
-          "id": "japanese-advanced-01",
+          "id": "japanese-advanced-41",
           "level": "advanced",
-          "title": "Advanced 01: 言葉 651-685",
+          "title": "Advanced 41: The Long Walk Through the City",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -19150,38 +19240,39 @@ window.LANGUAGE_CURRICULUM = {
             645,
             648
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/41-advanced-the-long-walk-through-the-city.txt",
           "sections": [
             {
-              "heading": "章 1 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 血, セント, ワイヤー, ブラウン, 等しい. 新しい言葉: 耳, ほかに, かなり, 壊した, ケース, ミドル, 殺す. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 血 = blood; セント = cent; ワイヤー = wire; ブラウン = brown; 等しい = equal. New words: 耳 = ear; ほかに = else; かなり = quite; 壊した = broke; ケース = case; ミドル = middle; 殺す = kill. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、アンナは町へ行きます。近くに地図と窓があります。アンナはゆっくり読み、新しい言葉「旅」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Anna is in the city. There is map and window nearby. Anna reads slowly and notices a new word: journey. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 血, セント, ワイヤー, ブラウン, 等しい. 新しい言葉: 息子, 湖, 瞬間, スケール, 騒々しい, 春, 観察する. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 血 = blood; セント = cent; ワイヤー = wire; ブラウン = brown; 等しい = equal. New words: 息子 = son; 湖 = lake; 瞬間 = moment; スケール = scale; 騒々しい = loud; 春 = spring; 観察する = observe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "アンナはノートに「旅」を書きます。それから「町」について考えます。そこは静かなので、アンナは文をもう一度読み、小さな声で言います。",
+              "en": "Anna writes the word journey in a notebook. Then Anna thinks about city. The place is quiet, so Anna reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 血, セント, ワイヤー, ブラウン, 等しい. 新しい言葉: 子ども, ストレート, 子音, 国家, 辞書, ミルク, スピード. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 血 = blood; セント = cent; ワイヤー = wire; ブラウン = brown; 等しい = equal. New words: 子ども = child; ストレート = straight; 子音 = consonant; 国家 = nation; 辞書 = dictionary; ミルク = milk; スピード = speed. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "小さな問題が出ますが、アンナは新しい言葉を使います。地図を見て、次に窓を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+              "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the map, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
             },
             {
-              "heading": "章 4 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 血, セント, ワイヤー, ブラウン, 等しい. 新しい言葉: 方法, オルガン, 支払い, 年齢, セクション, ドレス, クラウド. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 血 = blood; セント = cent; ワイヤー = wire; ブラウン = brown; 等しい = equal. New words: 方法 = method; オルガン = organ; 支払い = pay; 年齢 = age; セクション = section; ドレス = dress; クラウド = cloud. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "あとで、アンナは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。アンナはさらに三つの言葉を書き、今日の話とつなげます。",
+              "en": "Later, Anna meets another person and asks one careful question. The answer is simple, but it helps. Anna writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "章 5 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 血, セント, ワイヤー, ブラウン, 等しい. 新しい言葉: 驚き, 静かな, 石, 小さな, 登る, 涼しい, デザイン. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 血 = blood; セント = cent; ワイヤー = wire; ブラウン = brown; 等しい = equal. New words: 驚き = surprise; 静かな = quiet; 石 = stone; 小さな = tiny; 登る = climb; 涼しい = cool; デザイン = design. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "一日の終わりに、アンナはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、アンナはほほえみます。",
+              "en": "At the end of the day, Anna reads the whole page out loud. The words are not perfect yet, but they are familiar now. Anna smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "japanese-advanced-02",
+          "id": "japanese-advanced-42",
           "level": "advanced",
-          "title": "Advanced 02: 言葉 686-720",
+          "title": "Advanced 42: The Forgotten Invitation",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -19236,38 +19327,39 @@ window.LANGUAGE_CURRICULUM = {
             680,
             683
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/42-advanced-the-forgotten-invitation.txt",
           "sections": [
             {
-              "heading": "章 1 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 騒々しい, 子ども, 国家, スピード, 支払い. 新しい言葉: 貧しい, たくさん, 実験, ボトム, キー, 鉄, シングル. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 騒々しい = loud; 子ども = child; 国家 = nation; スピード = speed; 支払い = pay. New words: 貧しい = poor; たくさん = lot; 実験 = experiment; ボトム = bottom; キー = key; 鉄 = iron; シングル = single. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、サーシャは大学へ行きます。近くに手紙と電話があります。サーシャはゆっくり読み、新しい言葉「招待」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Sasha is at the university. There is letter and phone nearby. Sasha reads slowly and notices a new word: invitation. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 騒々しい, 子ども, 国家, スピード, 支払い. 新しい言葉: スティック, フラット, 個の, スキン, 笑顔, しわ, 穴. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 騒々しい = loud; 子ども = child; 国家 = nation; スピード = speed; 支払い = pay. New words: スティック = stick; フラット = flat; 個の = twenty; スキン = skin; 笑顔 = smile; しわ = crease; 穴 = hole. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "サーシャはノートに「招待」を書きます。それから「会議」について考えます。そこは静かなので、サーシャは文をもう一度読み、小さな声で言います。",
+              "en": "Sasha writes the word invitation in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 騒々しい, 子ども, 国家, スピード, 支払い. 新しい言葉: ジャンプ, 赤ちゃん, 人, 村, 大会, ルート, 買う. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 騒々しい = loud; 子ども = child; 国家 = nation; スピード = speed; 支払い = pay. New words: ジャンプ = jump; 赤ちゃん = baby; 人 = eight; 村 = village; 大会 = meet; ルート = root; 買う = buy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "小さな問題が出ますが、サーシャは新しい言葉を使います。手紙を見て、次に電話を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+              "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the phone, and makes a simple plan. By the end, Sasha can say one clear sentence."
             },
             {
-              "heading": "章 4 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 騒々しい, 子ども, 国家, スピード, 支払い. 新しい言葉: 上げる, 解く, 金属, かどうか, プッシュ, 7, パラグラフ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 騒々しい = loud; 子ども = child; 国家 = nation; スピード = speed; 支払い = pay. New words: 上げる = raise; 解く = solve; 金属 = metal; かどうか = whether; プッシュ = push; 7 = seven; パラグラフ = paragraph. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "あとで、サーシャは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。サーシャはさらに三つの言葉を書き、今日の話とつなげます。",
+              "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "章 5 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 騒々しい, 子ども, 国家, スピード, 支払い. 新しい言葉: 第3, しなければならない, ハンドヘルド, 髪, 説明する, 料理人, 床. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 騒々しい = loud; 子ども = child; 国家 = nation; スピード = speed; 支払い = pay. New words: 第3 = third; しなければならない = shall; ハンドヘルド = held; 髪 = hair; 説明する = describe; 料理人 = cook; 床 = floor. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "一日の終わりに、サーシャはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、サーシャはほほえみます。",
+              "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "japanese-advanced-03",
+          "id": "japanese-advanced-43",
           "level": "advanced",
-          "title": "Advanced 03: 言葉 721-755",
+          "title": "Advanced 43: The History Room",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -19322,38 +19414,39 @@ window.LANGUAGE_CURRICULUM = {
             715,
             718
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/43-advanced-the-history-room.txt",
           "sections": [
             {
-              "heading": "章 1 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 笑顔, ジャンプ, 村, 買う, 金属. 新しい言葉: どちら, 結果, 燃やす, 丘, 金庫, 猫, 世紀. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 笑顔 = smile; ジャンプ = jump; 村 = village; 買う = buy; 金属 = metal. New words: どちら = either; 結果 = result; 燃やす = burn; 丘 = hill; 金庫 = safe; 猫 = cat; 世紀 = century. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、ニコライは博物館へ行きます。近くに本と絵があります。ニコライはゆっくり読み、新しい言葉「歴史」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Nikolay is in the museum. There is book and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 笑顔, ジャンプ, 村, 買う, 金属. 新しい言葉: 考える, タイプ, 法則, ビット, 海岸, コピー, フレーズ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 笑顔 = smile; ジャンプ = jump; 村 = village; 買う = buy; 金属 = metal. New words: 考える = consider; タイプ = type; 法則 = law; ビット = bit; 海岸 = coast; コピー = copy; フレーズ = phrase. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "ニコライはノートに「歴史」を書きます。それから「過去」について考えます。そこは静かなので、ニコライは文をもう一度読み、小さな声で言います。",
+              "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about past. The place is quiet, so Nikolay reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 笑顔, ジャンプ, 村, 買う, 金属. 新しい言葉: サイレント, 背の高い, 砂, 土壌, ロール, 温度, 指. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 笑顔 = smile; ジャンプ = jump; 村 = village; 買う = buy; 金属 = metal. New words: サイレント = silent; 背の高い = tall; 砂 = sand; 土壌 = soil; ロール = roll; 温度 = temperature; 指 = finger. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "小さな問題が出ますが、ニコライは新しい言葉を使います。本を見て、次に絵を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+              "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the book, looks at the picture, and makes a simple plan. By the end, Nikolay can say one clear sentence."
             },
             {
-              "heading": "章 4 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 笑顔, ジャンプ, 村, 買う, 金属. 新しい言葉: 業界, 値, 戦い, うそ, ビート, エキサイト, ナチュラル. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 笑顔 = smile; ジャンプ = jump; 村 = village; 買う = buy; 金属 = metal. New words: 業界 = industry; 値 = value; 戦い = fight; うそ = lie; ビート = beat; エキサイト = excite; ナチュラル = natural. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "あとで、ニコライは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。ニコライはさらに三つの言葉を書き、今日の話とつなげます。",
+              "en": "Later, Nikolay meets another person and asks one careful question. The answer is simple, but it helps. Nikolay writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "章 5 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 笑顔, ジャンプ, 村, 買う, 金属. 新しい言葉: ビュー, 感覚, 首都, ないでしょう, 椅子, 危険, フルーツ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 笑顔 = smile; ジャンプ = jump; 村 = village; 買う = buy; 金属 = metal. New words: ビュー = view; 感覚 = sense; 首都 = capital; ないでしょう = won’t; 椅子 = chair; 危険 = danger; フルーツ = fruit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "一日の終わりに、ニコライはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、ニコライはほほえみます。",
+              "en": "At the end of the day, Nikolay reads the whole page out loud. The words are not perfect yet, but they are familiar now. Nikolay smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "japanese-advanced-04",
+          "id": "japanese-advanced-44",
           "level": "advanced",
-          "title": "Advanced 04: 言葉 756-790",
+          "title": "Advanced 44: The Quiet Train",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -19408,38 +19501,39 @@ window.LANGUAGE_CURRICULUM = {
             750,
             753
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/44-advanced-the-quiet-train.txt",
           "sections": [
             {
-              "heading": "章 1 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 海岸, サイレント, 土壌, 指, 戦い. 新しい言葉: 金持ち, 厚い, 兵士, プロセス, 操作する, 練習, 別. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 海岸 = coast; サイレント = silent; 土壌 = soil; 指 = finger; 戦い = fight. New words: 金持ち = rich; 厚い = thick; 兵士 = soldier; プロセス = process; 操作する = operate; 練習 = practice; 別 = separate. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、マリアは電車へ行きます。近くに切符とお茶があります。マリアはゆっくり読み、新しい言葉「静か」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Maria is on the train. There is ticket and tea nearby. Maria reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 海岸, サイレント, 土壌, 指, 戦い. 新しい言葉: 難しい, 医師, どうぞ, 守る, 正午, 作物, モダン. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 海岸 = coast; サイレント = silent; 土壌 = soil; 指 = finger; 戦い = fight. New words: 難しい = difficult; 医師 = doctor; どうぞ = please; 守る = protect; 正午 = noon; 作物 = crop; モダン = modern. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "マリアはノートに「静か」を書きます。それから「旅」について考えます。そこは静かなので、マリアは文をもう一度読み、小さな声で言います。",
+              "en": "Maria writes the word quiet in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 海岸, サイレント, 土壌, 指, 戦い. 新しい言葉: 要素, ヒット, 学生, コーナー, パーティー, サプライ, その. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 海岸 = coast; サイレント = silent; 土壌 = soil; 指 = finger; 戦い = fight. New words: 要素 = element; ヒット = hit; 学生 = student; コーナー = corner; パーティー = party; サプライ = supply; その = whose. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "小さな問題が出ますが、マリアは新しい言葉を使います。切符を見て、次にお茶を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+              "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the tea, and makes a simple plan. By the end, Maria can say one clear sentence."
             },
             {
-              "heading": "章 4 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 海岸, サイレント, 土壌, 指, 戦い. 新しい言葉: 検索する, リング, キャラクター, 昆虫, キャッチ, 期間, 示す. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 海岸 = coast; サイレント = silent; 土壌 = soil; 指 = finger; 戦い = fight. New words: 検索する = locate; リング = ring; キャラクター = character; 昆虫 = insect; キャッチ = caught; 期間 = period; 示す = indicate. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "あとで、マリアは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。マリアはさらに三つの言葉を書き、今日の話とつなげます。",
+              "en": "Later, Maria meets another person and asks one careful question. The answer is simple, but it helps. Maria writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "章 5 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 海岸, サイレント, 土壌, 指, 戦い. 新しい言葉: ラジオ, スポーク, アトム, 人間, 歴史, 効果, エレクトリック. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 海岸 = coast; サイレント = silent; 土壌 = soil; 指 = finger; 戦い = fight. New words: ラジオ = radio; スポーク = spoke; アトム = atom; 人間 = human; 歴史 = history; 効果 = effect; エレクトリック = electric. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "一日の終わりに、マリアはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、マリアはほほえみます。",
+              "en": "At the end of the day, Maria reads the whole page out loud. The words are not perfect yet, but they are familiar now. Maria smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "japanese-advanced-05",
+          "id": "japanese-advanced-45",
           "level": "advanced",
-          "title": "Advanced 05: 言葉 791-825",
+          "title": "Advanced 45: A Plan for Tomorrow",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -19494,38 +19588,39 @@ window.LANGUAGE_CURRICULUM = {
             785,
             788
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/45-advanced-a-plan-for-tomorrow.txt",
           "sections": [
             {
-              "heading": "章 1 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 正午, 要素, コーナー, その, キャラクター. 新しい言葉: 期待する, 骨, レール, 想像する, 提供する, 同意する, このようにして. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 正午 = noon; 要素 = element; コーナー = corner; その = whose; キャラクター = character. New words: 期待する = expect; 骨 = bone; レール = rail; 想像する = imagine; 提供する = provide; 同意する = agree; このようにして = thus. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、レナは家へ行きます。近くに地図とノートがあります。レナはゆっくり読み、新しい言葉「明日」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Lena is at home. There is map and notebook nearby. Lena reads slowly and notices a new word: tomorrow. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 正午, 要素, コーナー, その, キャラクター. 新しい言葉: 優しい, 女, キャプテン, 推測, 必要, シャープ, ウイング. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 正午 = noon; 要素 = element; コーナー = corner; その = whose; キャラクター = character. New words: 優しい = gentle; 女 = woman; キャプテン = captain; 推測 = guess; 必要 = necessary; シャープ = sharp; ウイング = wing. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "レナはノートに「明日」を書きます。それから「計画」について考えます。そこは静かなので、レナは文をもう一度読み、小さな声で言います。",
+              "en": "Lena writes the word tomorrow in a notebook. Then Lena thinks about plan. The place is quiet, so Lena reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 正午, 要素, コーナー, その, キャラクター. 新しい言葉: 作る, 隣人, ウォッシュ, バット, むしろ, 群衆, トウモロコシ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 正午 = noon; 要素 = element; コーナー = corner; その = whose; キャラクター = character. New words: 作る = create; 隣人 = neighbor; ウォッシュ = wash; バット = bat; むしろ = rather; 群衆 = crowd; トウモロコシ = corn. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "小さな問題が出ますが、レナは新しい言葉を使います。地図を見て、次にノートを見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+              "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the map, looks at the notebook, and makes a simple plan. By the end, Lena can say one clear sentence."
             },
             {
-              "heading": "章 4 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 正午, 要素, コーナー, その, キャラクター. 新しい言葉: 比較する, 詩, 文字列, 鐘, 決まる, 肉, こする. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 正午 = noon; 要素 = element; コーナー = corner; その = whose; キャラクター = character. New words: 比較する = compare; 詩 = poem; 文字列 = string; 鐘 = bell; 決まる = depend; 肉 = meat; こする = rub. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "あとで、レナは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。レナはさらに三つの言葉を書き、今日の話とつなげます。",
+              "en": "Later, Lena meets another person and asks one careful question. The answer is simple, but it helps. Lena writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "章 5 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 正午, 要素, コーナー, その, キャラクター. 新しい言葉: チューブ, 有名な, ドル, ストリーム, 恐怖, 視力, 薄い. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 正午 = noon; 要素 = element; コーナー = corner; その = whose; キャラクター = character. New words: チューブ = tube; 有名な = famous; ドル = dollar; ストリーム = stream; 恐怖 = fear; 視力 = sight; 薄い = thin. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "一日の終わりに、レナはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、レナはほほえみます。",
+              "en": "At the end of the day, Lena reads the whole page out loud. The words are not perfect yet, but they are familiar now. Lena smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "japanese-advanced-06",
+          "id": "japanese-advanced-46",
           "level": "advanced",
-          "title": "Advanced 06: 言葉 826-860",
+          "title": "Advanced 46: News from the Cafe",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -19580,38 +19675,39 @@ window.LANGUAGE_CURRICULUM = {
             820,
             823
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/46-advanced-news-from-the-cafe.txt",
           "sections": [
             {
-              "heading": "章 1 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 必要, 作る, バット, トウモロコシ, 文字列. 新しい言葉: 三角形, 惑星, 急ぐ, チーフ, コロニー, クロック, 地雷. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 必要 = necessary; 作る = create; バット = bat; トウモロコシ = corn; 文字列 = string. New words: 三角形 = triangle; 惑星 = planet; 急ぐ = hurry; チーフ = chief; コロニー = colony; クロック = clock; 地雷 = mine. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、オリガはカフェへ行きます。近くに新聞とお茶があります。オリガはゆっくり読み、新しい言葉「ニュース」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Olga is in the cafe. There is newspaper and tea nearby. Olga reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 必要, 作る, バット, トウモロコシ, 文字列. 新しい言葉: ネクタイ, 入力する, 主要な, 新鮮な, 検索, 送信, 黄色. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 必要 = necessary; 作る = create; バット = bat; トウモロコシ = corn; 文字列 = string. New words: ネクタイ = tie; 入力する = enter; 主要な = major; 新鮮な = fresh; 検索 = search; 送信 = send; 黄色 = yellow. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "オリガはノートに「ニュース」を書きます。それから「会話」について考えます。そこは静かなので、オリガは文をもう一度読み、小さな声で言います。",
+              "en": "Olga writes the word news in a notebook. Then Olga thinks about talk. The place is quiet, so Olga reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 必要, 作る, バット, トウモロコシ, 文字列. 新しい言葉: 銃, 許可する, 印刷, 死んだ, スポット, 砂漠, スーツ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 必要 = necessary; 作る = create; バット = bat; トウモロコシ = corn; 文字列 = string. New words: 銃 = gun; 許可する = allow; 印刷 = print; 死んだ = dead; スポット = spot; 砂漠 = desert; スーツ = suit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "小さな問題が出ますが、オリガは新しい言葉を使います。新聞を見て、次にお茶を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+              "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the newspaper, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
             },
             {
-              "heading": "章 4 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 必要, 作る, バット, トウモロコシ, 文字列. 新しい言葉: 現在の, リフト, ローズ, 届く, マスター, トラック, 親. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 必要 = necessary; 作る = create; バット = bat; トウモロコシ = corn; 文字列 = string. New words: 現在の = current; リフト = lift; ローズ = rose; 届く = arrive; マスター = master; トラック = track; 親 = parent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "あとで、オリガは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。オリガはさらに三つの言葉を書き、今日の話とつなげます。",
+              "en": "Later, Olga meets another person and asks one careful question. The answer is simple, but it helps. Olga writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "章 5 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 必要, 作る, バット, トウモロコシ, 文字列. 新しい言葉: 海岸, 分裂, シート, 物質, 好む, 接続する, ポスト. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 必要 = necessary; 作る = create; バット = bat; トウモロコシ = corn; 文字列 = string. New words: 海岸 = shore; 分裂 = division; シート = sheet; 物質 = substance; 好む = favor; 接続する = connect; ポスト = post. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "一日の終わりに、オリガはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、オリガはほほえみます。",
+              "en": "At the end of the day, Olga reads the whole page out loud. The words are not perfect yet, but they are familiar now. Olga smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "japanese-advanced-07",
+          "id": "japanese-advanced-47",
           "level": "advanced",
-          "title": "Advanced 07: 言葉 861-895",
+          "title": "Advanced 47: The Word That Changed the Day",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -19666,38 +19762,39 @@ window.LANGUAGE_CURRICULUM = {
             855,
             858
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/47-advanced-the-word-that-changed-the-day.txt",
           "sections": [
             {
-              "heading": "章 1 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 検索, 銃, 死んだ, スーツ, ローズ. 新しい言葉: 過ごす, 和音, 脂肪, うれしい, オリジナル, シェア, 駅. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 検索 = search; 銃 = gun; 死んだ = dead; スーツ = suit; ローズ = rose. New words: 過ごす = spend; 和音 = chord; 脂肪 = fat; うれしい = glad; オリジナル = original; シェア = share; 駅 = station. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、ディマは通りへ行きます。近くにかばんと本があります。ディマはゆっくり読み、新しい言葉「助け」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Dima is on the street. There is bag and book nearby. Dima reads slowly and notices a new word: help. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 検索, 銃, 死んだ, スーツ, ローズ. 新しい言葉: お父さん, パン, 充電, 適切な, バー, 申し出, セグメント. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 検索 = search; 銃 = gun; 死んだ = dead; スーツ = suit; ローズ = rose. New words: お父さん = dad; パン = bread; 充電 = charge; 適切な = proper; バー = bar; 申し出 = offer; セグメント = segment. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "ディマはノートに「助け」を書きます。それから「道」について考えます。そこは静かなので、ディマは文をもう一度読み、小さな声で言います。",
+              "en": "Dima writes the word help in a notebook. Then Dima thinks about road. The place is quiet, so Dima reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 検索, 銃, 死んだ, スーツ, ローズ. 新しい言葉: スレーブ, アヒル, インスタント, 市場, 度, 投入する, ひよこ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 検索 = search; 銃 = gun; 死んだ = dead; スーツ = suit; ローズ = rose. New words: スレーブ = slave; アヒル = duck; インスタント = instant; 市場 = market; 度 = degree; 投入する = populate; ひよこ = chick. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "小さな問題が出ますが、ディマは新しい言葉を使います。かばんを見て、次に本を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+              "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the bag, looks at the book, and makes a simple plan. By the end, Dima can say one clear sentence."
             },
             {
-              "heading": "章 4 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 検索, 銃, 死んだ, スーツ, ローズ. 新しい言葉: かわいい, 敵, 返事, ドリンク, 起こる, サポート, スピーチ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 検索 = search; 銃 = gun; 死んだ = dead; スーツ = suit; ローズ = rose. New words: かわいい = dear; 敵 = enemy; 返事 = reply; ドリンク = drink; 起こる = occur; サポート = support; スピーチ = speech. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "あとで、ディマは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。ディマはさらに三つの言葉を書き、今日の話とつなげます。",
+              "en": "Later, Dima meets another person and asks one careful question. The answer is simple, but it helps. Dima writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "章 5 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 検索, 銃, 死んだ, スーツ, ローズ. 新しい言葉: 自然, レンジ, スチーム, モーション, パス, 液体, ログ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 検索 = search; 銃 = gun; 死んだ = dead; スーツ = suit; ローズ = rose. New words: 自然 = nature; レンジ = range; スチーム = steam; モーション = motion; パス = path; 液体 = liquid; ログ = log. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "一日の終わりに、ディマはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、ディマはほほえみます。",
+              "en": "At the end of the day, Dima reads the whole page out loud. The words are not perfect yet, but they are familiar now. Dima smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "japanese-advanced-08",
+          "id": "japanese-advanced-48",
           "level": "advanced",
-          "title": "Advanced 08: 言葉 896-930",
+          "title": "Advanced 48: The Meeting at the University",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -19752,38 +19849,39 @@ window.LANGUAGE_CURRICULUM = {
             890,
             893
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/48-advanced-the-meeting-at-the-university.txt",
           "sections": [
             {
-              "heading": "章 1 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: バー, スレーブ, 市場, ひよこ, 返事. 新しい言葉: 意味, 商, 歯牙, シェル, 首, 酸素, 砂糖. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: バー = bar; スレーブ = slave; 市場 = market; ひよこ = chick; 返事 = reply. New words: 意味 = meant; 商 = quotient; 歯牙 = teeth; シェル = shell; 首 = neck; 酸素 = oxygen; 砂糖 = sugar. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、サーシャは大学へ行きます。近くに手紙と机があります。サーシャはゆっくり読み、新しい言葉「会議」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Sasha is at the university. There is letter and desk nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: バー, スレーブ, 市場, ひよこ, 返事. 新しい言葉: 死, かわいい, スキル, 女性たち, シーズン, ソリューション, マグネット. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: バー = bar; スレーブ = slave; 市場 = market; ひよこ = chick; 返事 = reply. New words: 死 = death; かわいい = pretty; スキル = skill; 女性たち = women; シーズン = season; ソリューション = solution; マグネット = magnet. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "サーシャはノートに「会議」を書きます。それから「考え」について考えます。そこは静かなので、サーシャは文をもう一度読み、小さな声で言います。",
+              "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about ideas. The place is quiet, so Sasha reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: バー, スレーブ, 市場, ひよこ, 返事. 新しい言葉: 銀, 感謝, ブランチ, マッチ, サフィックス, 特に, イチジク. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: バー = bar; スレーブ = slave; 市場 = market; ひよこ = chick; 返事 = reply. New words: 銀 = silver; 感謝 = thank; ブランチ = branch; マッチ = match; サフィックス = suffix; 特に = especially; イチジク = fig. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "小さな問題が出ますが、サーシャは新しい言葉を使います。手紙を見て、次に机を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+              "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the desk, and makes a simple plan. By the end, Sasha can say one clear sentence."
             },
             {
-              "heading": "章 4 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: バー, スレーブ, 市場, ひよこ, 返事. 新しい言葉: 恐れて, 巨大な, 姉妹, スチール, 話し合う, フォワード, 同じような. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: バー = bar; スレーブ = slave; 市場 = market; ひよこ = chick; 返事 = reply. New words: 恐れて = afraid; 巨大な = huge; 姉妹 = sister; スチール = steel; 話し合う = discuss; フォワード = forward; 同じような = similar. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "あとで、サーシャは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。サーシャはさらに三つの言葉を書き、今日の話とつなげます。",
+              "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "章 5 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: バー, スレーブ, 市場, ひよこ, 返事. 新しい言葉: ガイド, 経験, スコア, リンゴ, 買った, 主導, ピッチ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: バー = bar; スレーブ = slave; 市場 = market; ひよこ = chick; 返事 = reply. New words: ガイド = guide; 経験 = experience; スコア = score; リンゴ = apple; 買った = bought; 主導 = led; ピッチ = pitch. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "一日の終わりに、サーシャはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、サーシャはほほえみます。",
+              "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "japanese-advanced-09",
+          "id": "japanese-advanced-49",
           "level": "advanced",
-          "title": "Advanced 09: 言葉 931-965",
+          "title": "Advanced 49: The Letter and the Map",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -19838,38 +19936,39 @@ window.LANGUAGE_CURRICULUM = {
             925,
             928
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/49-advanced-the-letter-and-the-map.txt",
           "sections": [
             {
-              "heading": "章 1 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: シーズン, 銀, マッチ, イチジク, 姉妹. 新しい言葉: コート, マス, カード, バンド, ロープ, スリップ, 勝つ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: シーズン = season; 銀 = silver; マッチ = match; イチジク = fig; 姉妹 = sister. New words: コート = coat; マス = mass; カード = card; バンド = band; ロープ = rope; スリップ = slip; 勝つ = win. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、カーチャは図書館へ行きます。近くに手紙と地図があります。カーチャはゆっくり読み、新しい言葉「道順」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Katya is in the library. There is letter and map nearby. Katya reads slowly and notices a new word: route. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: シーズン, 銀, マッチ, イチジク, 姉妹. 新しい言葉: 夢, 夕べ, 条件, フィード, ツール, 合計, 基本. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: シーズン = season; 銀 = silver; マッチ = match; イチジク = fig; 姉妹 = sister. New words: 夢 = dream; 夕べ = evening; 条件 = condition; フィード = feed; ツール = tool; 合計 = total; 基本 = basic. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "カーチャはノートに「道順」を書きます。それから「探すこと」について考えます。そこは静かなので、カーチャは文をもう一度読み、小さな声で言います。",
+              "en": "Katya writes the word route in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: シーズン, 銀, マッチ, イチジク, 姉妹. 新しい言葉: 匂い, 谷, も, ダブル, 座席, 続ける, ブロック. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: シーズン = season; 銀 = silver; マッチ = match; イチジク = fig; 姉妹 = sister. New words: 匂い = smell; 谷 = valley; も = nor; ダブル = double; 座席 = seat; 続ける = continue; ブロック = block. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "小さな問題が出ますが、カーチャは新しい言葉を使います。手紙を見て、次に地図を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+              "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the letter, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
             },
             {
-              "heading": "章 4 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: シーズン, 銀, マッチ, イチジク, 姉妹. 新しい言葉: チャート, 帽子, 売る, 成功, 会社, 引く, イベント. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: シーズン = season; 銀 = silver; マッチ = match; イチジク = fig; 姉妹 = sister. New words: チャート = chart; 帽子 = hat; 売る = sell; 成功 = success; 会社 = company; 引く = subtract; イベント = event. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "あとで、カーチャは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。カーチャはさらに三つの言葉を書き、今日の話とつなげます。",
+              "en": "Later, Katya meets another person and asks one careful question. The answer is simple, but it helps. Katya writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "章 5 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: シーズン, 銀, マッチ, イチジク, 姉妹. 新しい言葉: 特定の, 契約, 泳ぐ, 言葉, 反対, 妻, 靴. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: シーズン = season; 銀 = silver; マッチ = match; イチジク = fig; 姉妹 = sister. New words: 特定の = particular; 契約 = deal; 泳ぐ = swim; 言葉 = term; 反対 = opposite; 妻 = wife; 靴 = shoe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "一日の終わりに、カーチャはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、カーチャはほほえみます。",
+              "en": "At the end of the day, Katya reads the whole page out loud. The words are not perfect yet, but they are familiar now. Katya smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "japanese-advanced-10",
+          "id": "japanese-advanced-50",
           "level": "advanced",
-          "title": "Advanced 10: 言葉 966-1000",
+          "title": "Advanced 50: The Language Feels Close",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -19924,31 +20023,32 @@ window.LANGUAGE_CURRICULUM = {
             960,
             963
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/50-advanced-the-language-feels-close.txt",
           "sections": [
             {
-              "heading": "章 1 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: ツール, 匂い, ダブル, ブロック, 売る. 新しい言葉: 肩, スプレッド, アレンジ, キャンプ, 発明する, 綿, ボルン. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ツール = tool; 匂い = smell; ダブル = double; ブロック = block; 売る = sell. New words: 肩 = shoulder; スプレッド = spread; アレンジ = arrange; キャンプ = camp; 発明する = invent; 綿 = cotton; ボルン = born. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "朝、イリーナは公園へ行きます。近くに本と電話があります。イリーナはゆっくり読み、新しい言葉「言語」に気づきます。よい日で、言語が少し近く感じます。",
+              "en": "In the morning, Irina is in the park. There is book and phone nearby. Irina reads slowly and notices a new word: language. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: ツール, 匂い, ダブル, ブロック, 売る. 新しい言葉: 決定する, クォート, 人, トラック, ノイズ, レベル, チャンス. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ツール = tool; 匂い = smell; ダブル = double; ブロック = block; 売る = sell. New words: 決定する = determine; クォート = quart; 人 = nine; トラック = truck; ノイズ = noise; レベル = level; チャンス = chance. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "イリーナはノートに「言語」を書きます。それから「自信」について考えます。そこは静かなので、イリーナは文をもう一度読み、小さな声で言います。",
+              "en": "Irina writes the word language in a notebook. Then Irina thinks about confidence. The place is quiet, so Irina reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: ツール, 匂い, ダブル, ブロック, 売る. 新しい言葉: 集まる, ショップ, ストレッチ, 投げる, 輝き, 財産, コラム. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ツール = tool; 匂い = smell; ダブル = double; ブロック = block; 売る = sell. New words: 集まる = gather; ショップ = shop; ストレッチ = stretch; 投げる = throw; 輝き = shine; 財産 = property; コラム = column. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "小さな問題が出ますが、イリーナは新しい言葉を使います。本を見て、次に電話を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+              "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the book, looks at the phone, and makes a simple plan. By the end, Irina can say one clear sentence."
             },
             {
-              "heading": "章 4 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: ツール, 匂い, ダブル, ブロック, 売る. 新しい言葉: 分子, 選択する, 間違った, グレー, リピート, 必要とする, 幅広い. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ツール = tool; 匂い = smell; ダブル = double; ブロック = block; 売る = sell. New words: 分子 = molecule; 選択する = select; 間違った = wrong; グレー = gray; リピート = repeat; 必要とする = require; 幅広い = broad. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "あとで、イリーナは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。イリーナはさらに三つの言葉を書き、今日の話とつなげます。",
+              "en": "Later, Irina meets another person and asks one careful question. The answer is simple, but it helps. Irina writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "章 5 / 5",
-              "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: ツール, 匂い, ダブル, ブロック, 売る. 新しい言葉: 準備する, 塩, 鼻, 複数, 怒り, 請求, 大陸. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ツール = tool; 匂い = smell; ダブル = double; ブロック = block; 売る = sell. New words: 準備する = prepare; 塩 = salt; 鼻 = nose; 複数 = plural; 怒り = anger; 請求 = claim; 大陸 = continent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "一日の終わりに、イリーナはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、イリーナはほほえみます。",
+              "en": "At the end of the day, Irina reads the whole page out loud. The words are not perfect yet, but they are familiar now. Irina smiles because learning feels possible and close."
             }
           ]
         }
@@ -26964,7 +27064,7 @@ window.LANGUAGE_CURRICULUM = {
         {
           "id": "mandarin-beginner-01",
           "level": "beginner",
-          "title": "Beginner 01: 词语 1-9",
+          "title": "Beginner 01: Morning at Home",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -26984,18 +27084,19 @@ window.LANGUAGE_CURRICULUM = {
             9
           ],
           "reviewWords": [],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/01-beginner-morning-at-home.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "今天，学习者读一个短页面。 新词语: 一, 人, 里, 会, 没, 她, 吗, 去, 也. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "Today the learner reads a short page. New words: 一 = A; 人 = People; 里 = In; 会 = Can; 没 = Not; 她 = She; 吗 = Do; 去 = Go; 也 = Also. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，安娜回家。旁边有茶和书。安娜慢慢地读，并注意到一个新词：“城市”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Anna is at home. There is tea and book nearby. Anna reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "mandarin-beginner-02",
           "level": "beginner",
-          "title": "Beginner 02: 词语 10-18",
+          "title": "Beginner 02: Tea on the Table",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -27021,18 +27122,19 @@ window.LANGUAGE_CURRICULUM = {
             7,
             9
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/02-beginner-tea-on-the-table.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "今天，学习者读一个短页面。 复习词语: 一, 里, 没, 吗, 也. 新词语: 有, 这, 那, 不, 什, 个, 来, 要, 就. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "Today the learner reads a short page. Review words: 一 = A; 里 = In; 没 = Not; 吗 = Do; 也 = Also. New words: 有 = Have; 这 = This; 那 = That; 不 = Not; 什 = Even; 个 = A; 来 = Come; 要 = Wish; 就 = On. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，莉娜回家。旁边有茶和面包。莉娜慢慢地读，并注意到一个新词：“桌子”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Lena is at home. There is tea and bread nearby. Lena reads slowly and notices a new word: table. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "mandarin-beginner-03",
           "level": "beginner",
-          "title": "Beginner 03: 词语 19-27",
+          "title": "Beginner 03: The Open Window",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -27059,18 +27161,19 @@ window.LANGUAGE_CURRICULUM = {
             13,
             16
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/03-beginner-the-open-window.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "今天，学习者读一个短页面。 复习词语: 一, 会, 吗, 有, 不. 新词语: 我, 你, 的, 是, 了, 他, 么, 们, 在. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "Today the learner reads a short page. Review words: 一 = A; 会 = Can; 吗 = Do; 有 = Have; 不 = Not. New words: 我 = I; 你 = You; 的 = Of; 是 = Be; 了 = The; 他 = He; 么 = What; 们 = They; 在 = In. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，伊万回家。旁边有窗户和书。伊万慢慢地读，并注意到一个新词：“图书馆”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Ivan is at home. There is window and book nearby. Ivan reads slowly and notices a new word: library. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "mandarin-beginner-04",
           "level": "beginner",
-          "title": "Beginner 04: 词语 28-36",
+          "title": "Beginner 04: Walking to the Park",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -27099,18 +27202,19 @@ window.LANGUAGE_CURRICULUM = {
             22,
             25
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/04-beginner-walking-to-the-park.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "今天，学习者读一个短页面。 复习词语: 会, 吗, 有, 不, 来. 新词语: 说, 为, 好, 吧, 知道, 我的, 和, 你的, 想. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "Today the learner reads a short page. Review words: 会 = Can; 吗 = Do; 有 = Have; 不 = Not; 来 = Come. New words: 说 = Say; 为 = For; 好 = Good; 吧 = It; 知道 = Know; 我的 = My; 和 = And; 你的 = Your; 想 = Want. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，玛莎去公园。旁边有妈妈和哥哥。玛莎慢慢地读，并注意到一个新词：“朋友”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Masha is in the park. There is mother and brother nearby. Masha reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "mandarin-beginner-05",
           "level": "beginner",
-          "title": "Beginner 05: 词语 37-44",
+          "title": "Beginner 05: A Quiet Street",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -27138,18 +27242,19 @@ window.LANGUAGE_CURRICULUM = {
             31,
             34
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/05-beginner-a-quiet-street.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "今天，学习者读一个短页面。 复习词语: 不, 来, 我, 是, 么. 新词语: 只, 很, 都, 对, 把, 啊, 怎, 得. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "Today the learner reads a short page. Review words: 不 = Not; 来 = Come; 我 = I; 是 = Be; 么 = What. New words: 只 = Only; 很 = Very; 都 = Both; 对 = To; 把 = To; 啊 = Ah; 怎 = How; 得 = Get. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，帕维尔去街上。旁边有房子和窗户。帕维尔慢慢地读，并注意到一个新词：“街道”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Pavel is on the street. There is house and window nearby. Pavel reads slowly and notices a new word: street. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "mandarin-beginner-06",
           "level": "beginner",
-          "title": "Beginner 06: 词语 45-52",
+          "title": "Beginner 06: The First Book",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -27177,18 +27282,19 @@ window.LANGUAGE_CURRICULUM = {
             39,
             42
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/06-beginner-the-first-book.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "今天，学习者读一个短页面。 复习词语: 的, 他, 在, 好, 我的. 新词语: 还, 过, 不是, 到, 样, 飞, 远, 身. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "Today the learner reads a short page. Review words: 的 = Of; 他 = He; 在 = In; 好 = Good; 我的 = My. New words: 还 = Also; 过 = Cross; 不是 = No; 到 = To; 样 = Sample; 飞 = Fly; 远 = Far; 身 = Body. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，奥尔加去图书馆。旁边有书和卡片。奥尔加慢慢地读，并注意到一个新词：“词”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Olga is in the library. There is book and card nearby. Olga reads slowly and notices a new word: word. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "mandarin-beginner-07",
           "level": "beginner",
-          "title": "Beginner 07: 词语 53-60",
+          "title": "Beginner 07: A Good Day",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -27216,18 +27322,19 @@ window.LANGUAGE_CURRICULUM = {
             47,
             50
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/07-beginner-a-good-day.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "今天，学习者读一个短页面。 复习词语: 为, 知道, 你的, 很, 把. 新词语: 任何, 生活, 够, 号, 兰, 瑞, 达, 或. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "Today the learner reads a short page. Review words: 为 = For; 知道 = Know; 你的 = Your; 很 = Very; 把 = To. New words: 任何 = Any; 生活 = Life; 够 = Enough; 号 = Number; 兰 = Orchid; 瑞 = Swiss; 达 = Reach; 或 = Or. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，尼古拉去公园。旁边有太阳和树。尼古拉慢慢地读，并注意到一个新词：“好”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Nikolay is in the park. There is sun and tree nearby. Nikolay reads slowly and notices a new word: good. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "mandarin-beginner-08",
           "level": "beginner",
-          "title": "Beginner 08: 词语 61-68",
+          "title": "Beginner 08: At School",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -27255,18 +27362,19 @@ window.LANGUAGE_CURRICULUM = {
             55,
             58
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/08-beginner-at-school.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "今天，学习者读一个短页面。 复习词语: 只, 对, 怎, 过, 样. 新词语: 愿, 蒂, 別, 军, 正, 是不是, 证, 不用. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "Today the learner reads a short page. Review words: 只 = Only; 对 = To; 怎 = How; 过 = Cross; 样 = Sample. New words: 愿 = Willing; 蒂 = Stem; 別 = Do not; 军 = Military; 正 = Positive; 是不是 = Is not; 证 = Certificate; 不用 = Need not. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，萨沙去学校。旁边有书桌和铅笔。萨沙慢慢地读，并注意到一个新词：“学校”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Sasha is at school. There is desk and pencil nearby. Sasha reads slowly and notices a new word: school. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "mandarin-beginner-09",
           "level": "beginner",
-          "title": "Beginner 09: 词语 69-76",
+          "title": "Beginner 09: At the Store",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -27294,18 +27402,19 @@ window.LANGUAGE_CURRICULUM = {
             63,
             66
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/09-beginner-at-the-store.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "今天，学习者读一个短页面。 复习词语: 还, 到, 远, 生活, 兰. 新词语: 三, 乐, 吉, 男人, 告訴, 路, 搞, 可是. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "Today the learner reads a short page. Review words: 还 = Also; 到 = To; 远 = Far; 生活 = Life; 兰 = Orchid. New words: 三 = Three; 乐 = Music; 吉 = Lucky; 男人 = Man; 告訴 = Tell; 路 = Road; 搞 = Do; 可是 = But. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，伊琳娜去商店。旁边有包和食物。伊琳娜慢慢地读，并注意到一个新词：“商店”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Irina is in the store. There is bag and food nearby. Irina reads slowly and notices a new word: store. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "mandarin-beginner-10",
           "level": "beginner",
-          "title": "Beginner 10: 词语 77-84",
+          "title": "Beginner 10: At the Station",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -27333,18 +27442,19 @@ window.LANGUAGE_CURRICULUM = {
             71,
             74
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/10-beginner-at-the-station.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "今天，学习者读一个短页面。 复习词语: 任何, 号, 达, 蒂, 正. 新词语: 与, 次, 狗, 决, 金, 史, 姆, 部. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "Today the learner reads a short page. Review words: 任何 = Any; 号 = Number; 达 = Reach; 蒂 = Stem; 正 = Positive. New words: 与 = And; 次 = Secondary; 狗 = Dog; 决 = Decide; 金 = Gold; 史 = History; 姆 = Governess; 部 = Department. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，玛丽亚去车站。旁边有茶和票。玛丽亚慢慢地读，并注意到一个新词：“车站”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Maria is at the station. There is tea and ticket nearby. Maria reads slowly and notices a new word: station. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "mandarin-beginner-11",
           "level": "beginner",
-          "title": "Beginner 11: 词语 85-92",
+          "title": "Beginner 11: A Simple Call",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -27372,18 +27482,19 @@ window.LANGUAGE_CURRICULUM = {
             79,
             82
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/11-beginner-a-simple-call.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "今天，学习者读一个短页面。 复习词语: 愿, 军, 证, 乐, 告訴. 新词语: 正在, 活, 刚, 回家, 贝, 如何, 须, 战. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "Today the learner reads a short page. Review words: 愿 = Willing; 军 = Military; 证 = Certificate; 乐 = Music; 告訴 = Tell. New words: 正在 = Are; 活 = Live; 刚 = Just; 回家 = Return home; 贝 = Shellfish; 如何 = How; 须 = Must; 战 = War. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，迪马回家。旁边有电话和笔记本。迪马慢慢地读，并注意到一个新词：“朋友”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Dima is at home. There is phone and notebook nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "mandarin-beginner-12",
           "level": "beginner",
-          "title": "Beginner 12: 词语 93-100",
+          "title": "Beginner 12: I Know This Word",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -27411,18 +27522,19 @@ window.LANGUAGE_CURRICULUM = {
             87,
             90
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/12-beginner-i-know-this-word.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "今天，学习者读一个短页面。 复习词语: 三, 男人, 搞, 次, 金. 新词语: 不會, 夫, 喂, 父, 亚, 肯定, 女孩, 世界. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "Today the learner reads a short page. Review words: 三 = Three; 男人 = Man; 搞 = Do; 次 = Secondary; 金 = Gold. New words: 不會 = Will not; 夫 = Husband; 喂 = Feed; 父 = Father; 亚 = Inferior; 肯定 = Sure; 女孩 = Girl; 世界 = World. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，卡佳去房间。旁边有纸和书。卡佳慢慢地读，并注意到一个新词：“知道”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Katya is in the room. There is paper and book nearby. Katya reads slowly and notices a new word: know. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
-          "id": "mandarin-elementary-01",
+          "id": "mandarin-elementary-13",
           "level": "elementary",
-          "title": "Elementary 01: 词语 101-116",
+          "title": "Elementary 13: The Library Window",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -27458,23 +27570,24 @@ window.LANGUAGE_CURRICULUM = {
             95,
             98
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/13-elementary-the-library-window.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 与, 决, 姆, 活, 贝. 新词语: 不要, 些, 不知道, 不能, 因, 觉, 发, 像. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 与 = And; 决 = Decide; 姆 = Governess; 活 = Live; 贝 = Shellfish. New words: 不要 = Must not; 些 = Some; 不知道 = Do not know; 不能 = Can not; 因 = Because; 觉 = Feel; 发 = Hair; 像 = Image. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，帕维尔去图书馆。旁边有窗户和笔记本。帕维尔慢慢地读，并注意到一个新词：“安静”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Pavel is in the library. There is window and notebook nearby. Pavel reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "第 2",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 与, 决, 姆, 活, 贝. 新词语: 太, 但是, 多, 打, 机, 來, 好了, 用. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 与 = And; 决 = Decide; 姆 = Governess; 活 = Live; 贝 = Shellfish. New words: 太 = Too; 但是 = But; 多 = Multi-; 打 = Fight; 机 = Machine; 來 = Come; 好了 = Well; 用 = Use. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "帕维尔把“安静”写在笔记本里。然后帕维尔想一想“阅读”这个主题。这里很安静，所以帕维尔又读了一遍句子，并轻声说出来。",
+              "en": "Pavel writes the word quiet in a notebook. Then Pavel thinks about reading. The place is quiet, so Pavel reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "mandarin-elementary-02",
+          "id": "mandarin-elementary-14",
           "level": "elementary",
-          "title": "Elementary 02: 词语 117-132",
+          "title": "Elementary 14: The Museum Visit",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -27510,23 +27623,24 @@ window.LANGUAGE_CURRICULUM = {
             111,
             114
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/14-elementary-the-museum-visit.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 不會, 父, 女孩, 些, 因. 新词语: 他的, 诉, 德, 叫, 什麼, 真, 干, 心. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 不會 = Will not; 父 = Father; 女孩 = Girl; 些 = Some; 因 = Because. New words: 他的 = His; 诉 = Appeal; 德 = Moral; 叫 = Call; 什麼 = What; 真 = SANT; 干 = Dry; 心 = Heart. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，尼古拉去博物馆。旁边有票和图画。尼古拉慢慢地读，并注意到一个新词：“历史”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Nikolay is in the museum. There is ticket and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "第 2",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 不會, 父, 女孩, 些, 因. 新词语: 走, 比, 死, 嘿, 出, 车, 一下, 中. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 不會 = Will not; 父 = Father; 女孩 = Girl; 些 = Some; 因 = Because. New words: 走 = Go; 比 = Ratio; 死 = Dead; 嘿 = Hey; 出 = Out; 车 = Car; 一下 = About; 中 = In. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "尼古拉把“历史”写在笔记本里。然后尼古拉想一想“记忆”这个主题。这里很安静，所以尼古拉又读了一遍句子，并轻声说出来。",
+              "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about memory. The place is quiet, so Nikolay reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "mandarin-elementary-03",
+          "id": "mandarin-elementary-15",
           "level": "elementary",
-          "title": "Elementary 03: 词语 133-148",
+          "title": "Elementary 15: The Cafe Notebook",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -27562,23 +27676,24 @@ window.LANGUAGE_CURRICULUM = {
             127,
             130
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/15-elementary-the-cafe-notebook.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 太, 打, 好了, 诉, 什麼. 新词语: 好吧, 需要, 经, 妈, 候, 长, 而, 错. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 太 = Too; 打 = Fight; 好了 = Well; 诉 = Appeal; 什麼 = What. New words: 好吧 = Well; 需要 = Need; 经 = After; 妈 = Mom; 候 = Wait; 长 = Long; 而 = And; 错 = Wrong. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，奥尔加去咖啡馆。旁边有茶和音乐。奥尔加慢慢地读，并注意到一个新词：“旋律”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Olga is in the cafe. There is tea and music nearby. Olga reads slowly and notices a new word: melody. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "第 2",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 太, 打, 好了, 诉, 什麼. 新词语: 好的, 间, 又, 国, 起, 动, 杀, 于. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 太 = Too; 打 = Fight; 好了 = Well; 诉 = Appeal; 什麼 = What. New words: 好的 = Good; 间 = Between; 又 = And; 国 = Country; 起 = Start; 动 = Move; 杀 = Kill; 于 = At. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "奥尔加把“旋律”写在笔记本里。然后奥尔加想一想“听”这个主题。这里很安静，所以奥尔加又读了一遍句子，并轻声说出来。",
+              "en": "Olga writes the word melody in a notebook. Then Olga thinks about listening. The place is quiet, so Olga reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "mandarin-elementary-04",
+          "id": "mandarin-elementary-16",
           "level": "elementary",
-          "title": "Elementary 04: 词语 149-164",
+          "title": "Elementary 16: Rain Near the Door",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -27614,23 +27729,24 @@ window.LANGUAGE_CURRICULUM = {
             143,
             146
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/16-elementary-rain-near-the-door.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 走, 嘿, 一下, 需要, 候. 新词语: 种, 去了, 担, 名, 混蛋, 礼, 幹, 不了. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 走 = Go; 嘿 = Hey; 一下 = About; 需要 = Need; 候 = Wait. New words: 种 = Seed; 去了 = Go; 担 = Dan; 名 = Name; 混蛋 = Asshole; 礼 = Ceremony; 幹 = Dry; 不了 = Not. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，迪马去书店。旁边有门和书。迪马慢慢地读，并注意到一个新词：“道路”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Dima is in the bookshop. There is door and book nearby. Dima reads slowly and notices a new word: road. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "第 2",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 走, 嘿, 一下, 需要, 候. 新词语: 有些, 過, 後, 击, 漂亮, 神, 多少, 海. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 走 = Go; 嘿 = Hey; 一下 = About; 需要 = Need; 候 = Wait. New words: 有些 = Some; 過 = Cross; 後 = After; 击 = Strike; 漂亮 = Beautiful; 神 = God; 多少 = How much; 海 = Sea. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "迪马把“道路”写在笔记本里。然后迪马想一想“雨”这个主题。这里很安静，所以迪马又读了一遍句子，并轻声说出来。",
+              "en": "Dima writes the word road in a notebook. Then Dima thinks about rain. The place is quiet, so Dima reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "mandarin-elementary-05",
+          "id": "mandarin-elementary-17",
           "level": "elementary",
-          "title": "Elementary 05: 词语 165-180",
+          "title": "Elementary 17: The Letter on the Table",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -27666,23 +27782,24 @@ window.LANGUAGE_CURRICULUM = {
             159,
             162
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/17-elementary-the-letter-on-the-table.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 好的, 国, 杀, 去了, 混蛋. 新词语: 每, 哥, 教, 走吧, 好像, 单, 公, 林. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 好的 = Good; 国 = Country; 杀 = Kill; 去了 = Go; 混蛋 = Asshole. New words: 每 = Each; 哥 = Brother; 教 = Teach; 走吧 = Go; 好像 = Like; 单 = Single; 公 = Public; 林 = Forest. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，萨沙去大学。旁边有信和桌子。萨沙慢慢地读，并注意到一个新词：“会议”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Sasha is at the university. There is letter and table nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "第 2",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 好的, 国, 杀, 去了, 混蛋. 新词语: 女, 忙, 火, 钟, 家伙, 科, 回去, 最后. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 好的 = Good; 国 = Country; 杀 = Kill; 去了 = Go; 混蛋 = Asshole. New words: 女 = Female; 忙 = Busy; 火 = Fire; 钟 = Bell; 家伙 = Guy; 科 = Branch; 回去 = Go back; 最后 = Last. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "萨沙把“会议”写在笔记本里。然后萨沙想一想“邀请”这个主题。这里很安静，所以萨沙又读了一遍句子，并轻声说出来。",
+              "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about invitation. The place is quiet, so Sasha reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "mandarin-elementary-06",
+          "id": "mandarin-elementary-18",
           "level": "elementary",
-          "title": "Elementary 06: 词语 181-196",
+          "title": "Elementary 18: Words in the Park",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -27718,23 +27835,24 @@ window.LANGUAGE_CURRICULUM = {
             175,
             178
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/18-elementary-words-in-the-park.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 有些, 击, 多少, 哥, 好像. 新词语: 水, 不管, 麦, 泻, 鬼, 還, 船, 永. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 有些 = Some; 击 = Strike; 多少 = How much; 哥 = Brother; 好像 = Like. New words: 水 = Water; 不管 = Regardless of; 麦 = Wheat; 泻 = Diarrhea; 鬼 = Ghost; 還 = Also; 船 = Ship; 永 = Forever. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，伊琳娜去公园。旁边有电话和茶。伊琳娜慢慢地读，并注意到一个新词：“三个”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Irina is in the park. There is phone and tea nearby. Irina reads slowly and notices a new word: three. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "第 2",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 有些, 击, 多少, 哥, 好像. 新词语: 安全, 那個, 爾, 這麼, 满, 风, 皮, 威. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 有些 = Some; 击 = Strike; 多少 = How much; 哥 = Brother; 好像 = Like. New words: 安全 = Security; 那個 = That; 爾 = Seoul; 這麼 = So; 满 = Full; 风 = Wind; 皮 = Skin; 威 = Prestige. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "伊琳娜把“三个”写在笔记本里。然后伊琳娜想一想“说话”这个主题。这里很安静，所以伊琳娜又读了一遍句子，并轻声说出来。",
+              "en": "Irina writes the word three in a notebook. Then Irina thinks about speaking. The place is quiet, so Irina reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "mandarin-elementary-07",
+          "id": "mandarin-elementary-19",
           "level": "elementary",
-          "title": "Elementary 07: 词语 197-212",
+          "title": "Elementary 19: The Little Plan",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -27770,23 +27888,24 @@ window.LANGUAGE_CURRICULUM = {
             191,
             194
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/19-elementary-the-little-plan.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 女, 钟, 回去, 不管, 鬼. 新词语: 据, 鲁, 转, 相, 地方, 沒有, 有人, 嗨. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 女 = Female; 钟 = Bell; 回去 = Go back; 不管 = Regardless of; 鬼 = Ghost. New words: 据 = According to; 鲁 = Lu; 转 = Turn; 相 = Phase; 地方 = Local; 沒有 = No; 有人 = Some; 嗨 = Hi. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，莉娜去商店。旁边有地图和篮子。莉娜慢慢地读，并注意到一个新词：“计划”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Lena is in the store. There is map and basket nearby. Lena reads slowly and notices a new word: plan. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "第 2",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 女, 钟, 回去, 不管, 鬼. 新词语: 看看, 自己, 一定, 事情, 屑, 希望, 所, 褉. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 女 = Female; 钟 = Bell; 回去 = Go back; 不管 = Regardless of; 鬼 = Ghost. New words: 看看 = Look; 自己 = Oneself; 一定 = Certainly; 事情 = Thing; 屑 = Scrap; 希望 = Hope; 所 = The; 褉 = Aspx.. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "莉娜把“计划”写在笔记本里。然后莉娜想一想“购物”这个主题。这里很安静，所以莉娜又读了一遍句子，并轻声说出来。",
+              "en": "Lena writes the word plan in a notebook. Then Lena thinks about shopping. The place is quiet, so Lena reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "mandarin-elementary-08",
+          "id": "mandarin-elementary-20",
           "level": "elementary",
-          "title": "Elementary 08: 词语 213-228",
+          "title": "Elementary 20: The News Page",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -27822,23 +27941,24 @@ window.LANGUAGE_CURRICULUM = {
             207,
             210
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/20-elementary-the-news-page.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 安全, 這麼, 皮, 鲁, 地方. 新词语: 感, 气, 不想, 嘛, 实, 始, 給, 然后. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 安全 = Security; 這麼 = So; 皮 = Skin; 鲁 = Lu; 地方 = Local. New words: 感 = Sense; 气 = Gas; 不想 = Do not want to; 嘛 = Well; 实 = Real; 始 = Beginning; 給 = To; 然后 = Then. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，玛丽亚去车站。旁边有茶和报纸。玛丽亚慢慢地读，并注意到一个新词：“新闻”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Maria is at the station. There is tea and newspaper nearby. Maria reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "第 2",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 安全, 這麼, 皮, 鲁, 地方. 新词语: 個, 相信, 结, 今天, 几, 题, 放, 讓. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 安全 = Security; 這麼 = So; 皮 = Skin; 鲁 = Lu; 地方 = Local. New words: 個 = A; 相信 = Believe; 结 = Bear; 今天 = Today; 几 = A few; 题 = Title; 放 = Put; 讓 = Let. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "玛丽亚把“新闻”写在笔记本里。然后玛丽亚想一想“想法”这个主题。这里很安静，所以玛丽亚又读了一遍句子，并轻声说出来。",
+              "en": "Maria writes the word news in a notebook. Then Maria thinks about thinking. The place is quiet, so Maria reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "mandarin-elementary-09",
+          "id": "mandarin-elementary-21",
           "level": "elementary",
-          "title": "Elementary 09: 词语 229-244",
+          "title": "Elementary 21: The Family Walk",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -27874,23 +27994,24 @@ window.LANGUAGE_CURRICULUM = {
             223,
             226
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/21-elementary-the-family-walk.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 看看, 事情, 所, 气, 实. 新词语: 确, 意思, 成, 所有, 喜, 對, 之, 一切. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 看看 = Look; 事情 = Thing; 所 = The; 气 = Gas; 实 = Real. New words: 确 = Indeed; 意思 = Meaning; 成 = Become; 所有 = All; 喜 = Happy; 對 = To; 之 = The; 一切 = Everything. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，安娜去公园。旁边有妈妈和哥哥。安娜慢慢地读，并注意到一个新词：“房子”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Anna is in the park. There is mother and brother nearby. Anna reads slowly and notices a new word: house. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "第 2",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 看看, 事情, 所, 气, 实. 新词语: 记, 抱歉, 一直, 天, 褌, 钱, 面, 更. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 看看 = Look; 事情 = Thing; 所 = The; 气 = Gas; 实 = Real. New words: 记 = Remember; 抱歉 = Sorry; 一直 = Has been; 天 = Day; 褌 = Drawers; 钱 = Money; 面 = Surface; 更 = More. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "安娜把“房子”写在笔记本里。然后安娜想一想“家庭”这个主题。这里很安静，所以安娜又读了一遍句子，并轻声说出来。",
+              "en": "Anna writes the word house in a notebook. Then Anna thinks about family. The place is quiet, so Anna reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "mandarin-elementary-10",
+          "id": "mandarin-elementary-22",
           "level": "elementary",
-          "title": "Elementary 10: 词语 245-260",
+          "title": "Elementary 22: The Quiet Room",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -27926,23 +28047,24 @@ window.LANGUAGE_CURRICULUM = {
             239,
             242
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/22-elementary-the-quiet-room.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 個, 今天, 放, 意思, 喜. 新词语: 学, 現在, 边, 你們, 不起, 脑, 呃, 论. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 個 = A; 今天 = Today; 放 = Put; 意思 = Meaning; 喜 = Happy. New words: 学 = Learn; 現在 = Now; 边 = Side; 你們 = You; 不起 = Can not afford to; 脑 = Brain; 呃 = Uh; 论 = Theory. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，伊万去房间。旁边有椅子和书。伊万慢慢地读，并注意到一个新词：“房间”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Ivan is in the room. There is chair and book nearby. Ivan reads slowly and notices a new word: room. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "第 2",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 個, 今天, 放, 意思, 喜. 新词语: 曼, 點, 普, 第一, 通, 棒, 线, 很高. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 個 = A; 今天 = Today; 放 = Put; 意思 = Meaning; 喜 = Happy. New words: 曼 = Man; 點 = Point; 普 = General; 第一 = First; 通 = Through; 棒 = Stick; 线 = Line; 很高 = High. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "伊万把“房间”写在笔记本里。然后伊万想一想“安静”这个主题。这里很安静，所以伊万又读了一遍句子，并轻声说出来。",
+              "en": "Ivan writes the word room in a notebook. Then Ivan thinks about silence. The place is quiet, so Ivan reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "mandarin-elementary-11",
+          "id": "mandarin-elementary-23",
           "level": "elementary",
-          "title": "Elementary 11: 词语 261-275",
+          "title": "Elementary 23: The New Teacher",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -27977,23 +28099,24 @@ window.LANGUAGE_CURRICULUM = {
             255,
             258
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/23-elementary-the-new-teacher.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 记, 天, 面, 現在, 不起. 新词语: 买, 求, 束, 哇, 指, 张, 文, 锌. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 记 = Remember; 天 = Day; 面 = Surface; 現在 = Now; 不起 = Can not afford to. New words: 买 = Buy; 求 = Request; 束 = Bundle; 哇 = Wow; 指 = Finger; 张 = Zhang; 文 = Culture; 锌 = Zinc. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，玛莎去学校。旁边有老师和白板。玛莎慢慢地读，并注意到一个新词：“问题”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Masha is at school. There is teacher and board nearby. Masha reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "第 2",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 记, 天, 面, 現在, 不起. 新词语: 重, 菲, 目, 根本, 联, 丹, 愛. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 记 = Remember; 天 = Day; 面 = Surface; 現在 = Now; 不起 = Can not afford to. New words: 重 = Weight; 菲 = Philippines; 目 = Eye; 根本 = Fundamental; 联 = Join; 丹 = Red; 愛 = Love. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "玛莎把“问题”写在笔记本里。然后玛莎想一想“学习”这个主题。这里很安静，所以玛莎又读了一遍句子，并轻声说出来。",
+              "en": "Masha writes the word question in a notebook. Then Masha thinks about learning. The place is quiet, so Masha reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "mandarin-elementary-12",
+          "id": "mandarin-elementary-24",
           "level": "elementary",
-          "title": "Elementary 12: 词语 276-290",
+          "title": "Elementary 24: The Bus Stop",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -28028,23 +28151,24 @@ window.LANGUAGE_CURRICULUM = {
             270,
             273
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/24-elementary-the-bus-stop.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 论, 普, 棒, 买, 哇. 新词语: 不到, 這些, 自己的, 笑, 闭, 基, 唯一, 要是. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 论 = Theory; 普 = General; 棒 = Stick; 买 = Buy; 哇 = Wow. New words: 不到 = Less than; 這些 = These; 自己的 = Own; 笑 = Laugh; 闭 = Close; 基 = Base; 唯一 = Unique; 要是 = If. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，帕维尔去街上。旁边有票和公交车。帕维尔慢慢地读，并注意到一个新词：“时间”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Pavel is on the street. There is ticket and bus nearby. Pavel reads slowly and notices a new word: time. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "第 2",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 论, 普, 棒, 买, 哇. 新词语: 提, 调, 丽, 女士, 校, 公司, 况. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 论 = Theory; 普 = General; 棒 = Stick; 买 = Buy; 哇 = Wow. New words: 提 = Mention; 调 = Tune; 丽 = Korea; 女士 = Ms.; 校 = School; 公司 = Company; 况 = Condition. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "帕维尔把“时间”写在笔记本里。然后帕维尔想一想“等待”这个主题。这里很安静，所以帕维尔又读了一遍句子，并轻声说出来。",
+              "en": "Pavel writes the word time in a notebook. Then Pavel thinks about waiting. The place is quiet, so Pavel reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "mandarin-elementary-13",
+          "id": "mandarin-elementary-25",
           "level": "elementary",
-          "title": "Elementary 13: 词语 291-305",
+          "title": "Elementary 25: The Small Market",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -28079,23 +28203,24 @@ window.LANGUAGE_CURRICULUM = {
             285,
             288
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/25-elementary-the-small-market.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 文, 菲, 联, 不到, 笑. 新词语: 烦, 停, 英, 警, 险, 東西, 不可能, 坐. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 文 = Culture; 菲 = Philippines; 联 = Join; 不到 = Less than; 笑 = Laugh. New words: 烦 = Bother; 停 = Stop; 英 = Britain; 警 = Police; 险 = Risk; 東西 = Thing; 不可能 = Impossible; 坐 = Sit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，奥尔加去市场。旁边有水果和包。奥尔加慢慢地读，并注意到一个新词：“钱”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Olga is at the market. There is fruit and bag nearby. Olga reads slowly and notices a new word: money. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "第 2",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 文, 菲, 联, 不到, 笑. 新词语: 区, 果, 伙, 哈, 罗, 难, 两. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 文 = Culture; 菲 = Philippines; 联 = Join; 不到 = Less than; 笑 = Laugh. New words: 区 = Area; 果 = Fruit; 伙 = Partner; 哈 = Ha; 罗 = Luo; 难 = Difficult; 两 = Both. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "奥尔加把“钱”写在笔记本里。然后奥尔加想一想“市场”这个主题。这里很安静，所以奥尔加又读了一遍句子，并轻声说出来。",
+              "en": "Olga writes the word money in a notebook. Then Olga thinks about market. The place is quiet, so Olga reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "mandarin-elementary-14",
+          "id": "mandarin-elementary-26",
           "level": "elementary",
-          "title": "Elementary 14: 词语 306-320",
+          "title": "Elementary 26: The First Conversation",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -28130,23 +28255,24 @@ window.LANGUAGE_CURRICULUM = {
             300,
             303
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/26-elementary-the-first-conversation.txt",
           "sections": [
             {
-              "heading": "第 1",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 唯一, 调, 校, 烦, 警. 新词语: 一些, 這樣, 自, 女人, 向, 最好, 走了, 褬. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 唯一 = Unique; 调 = Tune; 校 = School; 烦 = Bother; 警 = Police. New words: 一些 = Some; 這樣 = So; 自 = From; 女人 = Woman; 向 = To; 最好 = The best; 走了 = Go; 褬 = Sang. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，迪马去咖啡馆。旁边有电话和朋友。迪马慢慢地读，并注意到一个新词：“句子”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Dima is in the cafe. There is phone and friend nearby. Dima reads slowly and notices a new word: sentence. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "第 2",
-              "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 唯一, 调, 校, 烦, 警. 新词语: 胁, 明, 理, 加, 枪, 万, 员. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: 唯一 = Unique; 调 = Tune; 校 = School; 烦 = Bother; 警 = Police. New words: 胁 = Threaten; 明 = Next; 理 = Reason; 加 = Plus; 枪 = Gun; 万 = Ten thousand; 员 = Member. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "迪马把“句子”写在笔记本里。然后迪马想一想“谈话”这个主题。这里很安静，所以迪马又读了一遍句子，并轻声说出来。",
+              "en": "Dima writes the word sentence in a notebook. Then Dima thinks about talk. The place is quiet, so Dima reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "mandarin-intermediate-01",
+          "id": "mandarin-intermediate-27",
           "level": "intermediate",
-          "title": "Intermediate 01: 词语 321-344",
+          "title": "Intermediate 27: The Lost Note",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -28190,28 +28316,29 @@ window.LANGUAGE_CURRICULUM = {
             315,
             318
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/27-intermediate-the-lost-note.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 不可能, 果, 罗, 一些, 女人. 新词语: 妳, 玩, 分, 作, 巴, 而且, 物, 伤. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 不可能 = Impossible; 果 = Fruit; 罗 = Luo; 一些 = Some; 女人 = Woman. New words: 妳 = You; 玩 = Play; 分 = Minute; 作 = Make; 巴 = Pakistan; 而且 = And; 物 = Matter; 伤 = Hurt. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，卡佳去图书馆。旁边有便条和地图。卡佳慢慢地读，并注意到一个新词：“地方”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Katya is in the library. There is note and map nearby. Katya reads slowly and notices a new word: place. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 不可能, 果, 罗, 一些, 女人. 新词语: 官, 道, 出去, 力, 总, 者, 先, 最. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 不可能 = Impossible; 果 = Fruit; 罗 = Luo; 一些 = Some; 女人 = Woman. New words: 官 = Official; 道 = Road; 出去 = Out; 力 = Force; 总 = Total; 者 = Person; 先 = First; 最 = Most. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "卡佳把“地方”写在笔记本里。然后卡佳想一想“寻找”这个主题。这里很安静，所以卡佳又读了一遍句子，并轻声说出来。",
+              "en": "Katya writes the word place in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 不可能, 果, 罗, 一些, 女人. 新词语: 很多, 医, 一次, 报, 名字, 将, 迪, 到了. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 不可能 = Impossible; 果 = Fruit; 罗 = Luo; 一些 = Some; 女人 = Woman. New words: 很多 = Many; 医 = Treatment; 一次 = Once; 报 = Report; 名字 = Name; 将 = Will; 迪 = Di; 到了 = To. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "出现了一个小问题，但是卡佳用新词来理解。卡佳看了看便条，又看了看地图，然后做了一个简单的计划。最后，卡佳能说出一个清楚的句子。",
+              "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the note, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
             }
           ]
         },
         {
-          "id": "mandarin-intermediate-02",
+          "id": "mandarin-intermediate-28",
           "level": "intermediate",
-          "title": "Intermediate 02: 词语 345-368",
+          "title": "Intermediate 28: A Meeting at Noon",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -28255,28 +28382,29 @@ window.LANGUAGE_CURRICULUM = {
             339,
             342
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/28-intermediate-a-meeting-at-noon.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 妳, 作, 物, 道, 总. 新词语: 解, 新, 队, 识, 死了, 眼, 媽的, 第一次. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 妳 = You; 作 = Make; 物 = Matter; 道 = Road; 总 = Total. New words: 解 = Solution; 新 = New; 队 = Team; 识 = Knowledge; 死了 = Dead; 眼 = Eye; 媽的 = Damn; 第一次 = First. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，萨沙去大学。旁边有钟和信。萨沙慢慢地读，并注意到一个新词：“中午”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Sasha is at the university. There is clock and letter nearby. Sasha reads slowly and notices a new word: noon. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 妳, 作, 物, 道, 总. 新词语: 離開, 忘, 我自己, 谐, 严, 且, 帶, 赶. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 妳 = You; 作 = Make; 物 = Matter; 道 = Road; 总 = Total. New words: 離開 = Leave; 忘 = Forget; 我自己 = Myself; 谐 = Harmonious; 严 = Strict; 且 = And; 帶 = Band; 赶 = Rush. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "萨沙把“中午”写在笔记本里。然后萨沙想一想“会议”这个主题。这里很安静，所以萨沙又读了一遍句子，并轻声说出来。",
+              "en": "Sasha writes the word noon in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 妳, 作, 物, 道, 总. 新词语: 太棒, 佛, 直, 認為, 老婆, 索, 除了, 承. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 妳 = You; 作 = Make; 物 = Matter; 道 = Road; 总 = Total. New words: 太棒 = Great; 佛 = Buddha; 直 = Straight; 認為 = Think; 老婆 = Wife; 索 = Search; 除了 = In addition to; 承 = By Order of the. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "出现了一个小问题，但是萨沙用新词来理解。萨沙看了看钟，又看了看信，然后做了一个简单的计划。最后，萨沙能说出一个清楚的句子。",
+              "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the clock, looks at the letter, and makes a simple plan. By the end, Sasha can say one clear sentence."
             }
           ]
         },
         {
-          "id": "mandarin-intermediate-03",
+          "id": "mandarin-intermediate-29",
           "level": "intermediate",
-          "title": "Intermediate 03: 词语 369-392",
+          "title": "Intermediate 29: The Old Map",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -28320,28 +28448,29 @@ window.LANGUAGE_CURRICULUM = {
             363,
             366
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/29-intermediate-the-old-map.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 解, 识, 媽的, 忘, 严. 新词语: 泰, 建, 欧, 然後, 级, 昨晚, 石, 有了. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 解 = Solution; 识 = Knowledge; 媽的 = Damn; 忘 = Forget; 严 = Strict. New words: 泰 = Thai; 建 = Build; 欧 = Europe; 然後 = Then; 级 = Level; 昨晚 = Last night; 石 = Stone; 有了 = With. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，尼古拉去博物馆。旁边有地图和街道。尼古拉慢慢地读，并注意到一个新词：“城市”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Nikolay is in the museum. There is map and street nearby. Nikolay reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 解, 识, 媽的, 忘, 严. 新词语: 都有, 磲, 差, 思, 啥, 過來, 努力, 丈夫. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 解 = Solution; 识 = Knowledge; 媽的 = Damn; 忘 = Forget; 严 = Strict. New words: 都有 = Have; 磲 = Clams; 差 = Poor; 思 = Think; 啥 = What; 過來 = Come; 努力 = Strive; 丈夫 = Husband. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "尼古拉把“城市”写在笔记本里。然后尼古拉想一想“历史”这个主题。这里很安静，所以尼古拉又读了一遍句子，并轻声说出来。",
+              "en": "Nikolay writes the word city in a notebook. Then Nikolay thinks about history. The place is quiet, so Nikolay reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 解, 识, 媽的, 忘, 严. 新词语: 任何人, 城市, 死亡, 全部, 组, i, 也許, 最近. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 解 = Solution; 识 = Knowledge; 媽的 = Damn; 忘 = Forget; 严 = Strict. New words: 任何人 = Anyone; 城市 = City; 死亡 = Death; 全部 = Whole; 组 = Group; i = i; 也許 = Perhaps; 最近 = Recently. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "出现了一个小问题，但是尼古拉用新词来理解。尼古拉看了看地图，又看了看街道，然后做了一个简单的计划。最后，尼古拉能说出一个清楚的句子。",
+              "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the map, looks at the street, and makes a simple plan. By the end, Nikolay can say one clear sentence."
             }
           ]
         },
         {
-          "id": "mandarin-intermediate-04",
+          "id": "mandarin-intermediate-30",
           "level": "intermediate",
-          "title": "Intermediate 04: 词语 393-416",
+          "title": "Intermediate 30: The Rainy Lesson",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -28385,28 +28514,29 @@ window.LANGUAGE_CURRICULUM = {
             387,
             390
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/30-intermediate-the-rainy-lesson.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 泰, 然後, 石, 磲, 啥. 新词语: 倒, 领, 顾, 市, 六, 行了, 滚, 好嗎. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 泰 = Thai; 然後 = Then; 石 = Stone; 磲 = Clams; 啥 = What. New words: 倒 = Inverted; 领 = Collar; 顾 = Gu; 市 = City; 六 = Six; 行了 = The line; 滚 = Roll; 好嗎 = Okay. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，伊琳娜去学校。旁边有窗户和雨。伊琳娜慢慢地读，并注意到一个新词：“天气”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Irina is at school. There is window and rain nearby. Irina reads slowly and notices a new word: weather. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 泰, 然後, 石, 磲, 啥. 新词语: 师, 高, 莉, 坏, 电, 警察, 件, 誰. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 泰 = Thai; 然後 = Then; 石 = Stone; 磲 = Clams; 啥 = What. New words: 师 = Division; 高 = High; 莉 = Li; 坏 = Bad; 电 = Electricity; 警察 = Police; 件 = Item; 誰 = Who. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "伊琳娜把“天气”写在笔记本里。然后伊琳娜想一想“学习”这个主题。这里很安静，所以伊琳娜又读了一遍句子，并轻声说出来。",
+              "en": "Irina writes the word weather in a notebook. Then Irina thinks about study. The place is quiet, so Irina reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 泰, 然後, 石, 磲, 啥. 新词语: 兄弟, 之前, 谈, 送, 森, 伊, 以前, 房. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 泰 = Thai; 然後 = Then; 石 = Stone; 磲 = Clams; 啥 = What. New words: 兄弟 = Brothers; 之前 = Before; 谈 = Talk; 送 = Send; 森 = Forest; 伊 = He; 以前 = Previous; 房 = Room. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "出现了一个小问题，但是伊琳娜用新词来理解。伊琳娜看了看窗户，又看了看雨，然后做了一个简单的计划。最后，伊琳娜能说出一个清楚的句子。",
+              "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the window, looks at the rain, and makes a simple plan. By the end, Irina can say one clear sentence."
             }
           ]
         },
         {
-          "id": "mandarin-intermediate-05",
+          "id": "mandarin-intermediate-31",
           "level": "intermediate",
-          "title": "Intermediate 05: 词语 417-440",
+          "title": "Intermediate 31: The Museum Question",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -28450,28 +28580,29 @@ window.LANGUAGE_CURRICULUM = {
             411,
             414
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/31-intermediate-the-museum-question.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 倒, 市, 滚, 高, 电. 新词语: 婚, 喝, 怎麼, 今晚, 兴, 疯, 因為, 住. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 倒 = Inverted; 市 = City; 滚 = Roll; 高 = High; 电 = Electricity. New words: 婚 = Marriage; 喝 = Drink; 怎麼 = How; 今晚 = Tonight; 兴 = Interest; 疯 = Crazy; 因為 = Because; 住 = Live. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，帕维尔去博物馆。旁边有图画和笔记本。帕维尔慢慢地读，并注意到一个新词：“问题”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Pavel is in the museum. There is picture and notebook nearby. Pavel reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 倒, 市, 滚, 高, 电. 新词语: 内, 轻, 约, 声, 或者, 不行, 到底, 雷. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 倒 = Inverted; 市 = City; 滚 = Roll; 高 = High; 电 = Electricity. New words: 内 = Within; 轻 = Light; 约 = Approximately; 声 = Sound; 或者 = Or; 不行 = Not work; 到底 = In the end; 雷 = Mine. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "帕维尔把“问题”写在笔记本里。然后帕维尔想一想“答案”这个主题。这里很安静，所以帕维尔又读了一遍句子，并轻声说出来。",
+              "en": "Pavel writes the word question in a notebook. Then Pavel thinks about answer. The place is quiet, so Pavel reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 倒, 市, 滚, 高, 电. 新词语: 维, 条, 明天, 不好, 已經, 天啊, 洛, 护. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 倒 = Inverted; 市 = City; 滚 = Roll; 高 = High; 电 = Electricity. New words: 维 = Dimension; 条 = Article; 明天 = Tomorrow; 不好 = Bad; 已經 = Already; 天啊 = God; 洛 = Rockwell; 护 = Protect. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "出现了一个小问题，但是帕维尔用新词来理解。帕维尔看了看图画，又看了看笔记本，然后做了一个简单的计划。最后，帕维尔能说出一个清楚的句子。",
+              "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the picture, looks at the notebook, and makes a simple plan. By the end, Pavel can say one clear sentence."
             }
           ]
         },
         {
-          "id": "mandarin-intermediate-06",
+          "id": "mandarin-intermediate-32",
           "level": "intermediate",
-          "title": "Intermediate 06: 词语 441-464",
+          "title": "Intermediate 32: The Train Delay",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -28515,28 +28646,29 @@ window.LANGUAGE_CURRICULUM = {
             435,
             438
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/32-intermediate-the-train-delay.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 婚, 今晚, 因為, 轻, 或者. 新词语: 塔, 运, 接, 球, 得到, 穿, 音, 從. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 婚 = Marriage; 今晚 = Tonight; 因為 = Because; 轻 = Light; 或者 = Or. New words: 塔 = Tower; 运 = Transport; 接 = Meet; 球 = Ball; 得到 = Get; 穿 = Wear; 音 = Sound; 從 = From. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，玛丽亚去车站。旁边有票和钟。玛丽亚慢慢地读，并注意到一个新词：“等待”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Maria is at the station. There is ticket and clock nearby. Maria reads slowly and notices a new word: wait. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 婚, 今晚, 因為, 轻, 或者. 新词语: 為, 生, 回, 可, 东, 尔, 欢, 很好. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 婚 = Marriage; 今晚 = Tonight; 因為 = Because; 轻 = Light; 或者 = Or. New words: 為 = For; 生 = Raw; 回 = Return; 可 = Can; 东 = East; 尔 = Seoul; 欢 = Happy; 很好 = Well. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "玛丽亚把“等待”写在笔记本里。然后玛丽亚想一想“旅行”这个主题。这里很安静，所以玛丽亚又读了一遍句子，并轻声说出来。",
+              "en": "Maria writes the word wait in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 婚, 今晚, 因為, 轻, 或者. 新词语: 他們, 进, 地, 孩子, 帮, 离, 找, 尼. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 婚 = Marriage; 今晚 = Tonight; 因為 = Because; 轻 = Light; 或者 = Or. New words: 他們 = They; 进 = Enter; 地 = Ground; 孩子 = Children; 帮 = Help; 离 = From; 找 = Look for; 尼 = Nigeria. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "出现了一个小问题，但是玛丽亚用新词来理解。玛丽亚看了看票，又看了看钟，然后做了一个简单的计划。最后，玛丽亚能说出一个清楚的句子。",
+              "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the clock, and makes a simple plan. By the end, Maria can say one clear sentence."
             }
           ]
         },
         {
-          "id": "mandarin-intermediate-07",
+          "id": "mandarin-intermediate-33",
           "level": "intermediate",
-          "title": "Intermediate 07: 词语 465-488",
+          "title": "Intermediate 33: Music in the Cafe",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -28580,28 +28712,29 @@ window.LANGUAGE_CURRICULUM = {
             459,
             462
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/33-intermediate-music-in-the-cafe.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 塔, 球, 音, 生, 东. 新词语: 从, 下, 马, 以, 利, 所以, 关, 哪. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 塔 = Tower; 球 = Ball; 音 = Sound; 生 = Raw; 东 = East. New words: 从 = From; 下 = Under; 马 = Horse; 以 = With; 利 = Profit; 所以 = So; 关 = Close; 哪 = Which. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，奥尔加去咖啡馆。旁边有音乐和茶。奥尔加慢慢地读，并注意到一个新词：“歌曲”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Olga is in the cafe. There is music and tea nearby. Olga reads slowly and notices a new word: song. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 塔, 球, 音, 生, 东. 新词语: 懈, 行, 家, 拉, 才, 看到, 說, 手. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 塔 = Tower; 球 = Ball; 音 = Sound; 生 = Raw; 东 = East. New words: 懈 = Negligent; 行 = Row; 家 = Home; 拉 = Pull; 才 = Only; 看到 = See; 說 = Say; 手 = Hand. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "奥尔加把“歌曲”写在笔记本里。然后奥尔加想一想“记忆”这个主题。这里很安静，所以奥尔加又读了一遍句子，并轻声说出来。",
+              "en": "Olga writes the word song in a notebook. Then Olga thinks about memory. The place is quiet, so Olga reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 塔, 球, 音, 生, 东. 新词语: 法, 噢, 谁, 头, 无, 嗯, 工作, 可能. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 塔 = Tower; 球 = Ball; 音 = Sound; 生 = Raw; 东 = East. New words: 法 = Law; 噢 = Oh; 谁 = Who; 头 = Head; 无 = No; 嗯 = Ah; 工作 = Work; 可能 = May. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "出现了一个小问题，但是奥尔加用新词来理解。奥尔加看了看音乐，又看了看茶，然后做了一个简单的计划。最后，奥尔加能说出一个清楚的句子。",
+              "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the music, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
             }
           ]
         },
         {
-          "id": "mandarin-intermediate-08",
+          "id": "mandarin-intermediate-34",
           "level": "intermediate",
-          "title": "Intermediate 08: 词语 489-512",
+          "title": "Intermediate 34: A Letter from a Friend",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -28645,28 +28778,29 @@ window.LANGUAGE_CURRICULUM = {
             483,
             486
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/34-intermediate-a-letter-from-a-friend.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 从, 以, 关, 行, 才. 新词语: 薪, 朋友, 请, 许, 年, 那些, 一個, 一起. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 从 = From; 以 = With; 关 = Close; 行 = Row; 才 = Only. New words: 薪 = Salary; 朋友 = Friend; 请 = Please; 许 = Promise; 年 = Years; 那些 = Those; 一個 = A; 一起 = Together. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，迪马回家。旁边有信和电话。迪马慢慢地读，并注意到一个新词：“朋友”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Dima is at home. There is letter and phone nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 从, 以, 关, 行, 才. 新词语: 然, 吃, 写, 带, 我喜, 弗, 尽, 耶. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 从 = From; 以 = With; 关 = Close; 行 = Row; 才 = Only. New words: 然 = However; 吃 = Eat; 写 = Write; 带 = Band; 我喜 = I am pleased to; 弗 = Eph.; 尽 = Exhausted; 耶 = Yeah. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "迪马把“朋友”写在笔记本里。然后迪马想一想“邀请”这个主题。这里很安静，所以迪马又读了一遍句子，并轻声说出来。",
+              "en": "Dima writes the word friend in a notebook. Then Dima thinks about invitation. The place is quiet, so Dima reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 从, 以, 关, 行, 才. 新词语: 喔, 褍, 掉, 书, 其他, 派, 士, 器. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 从 = From; 以 = With; 关 = Close; 行 = Row; 才 = Only. New words: 喔 = Oh; 褍 = Tuan; 掉 = Fall; 书 = Book; 其他 = Other; 派 = Send; 士 = Scholar; 器 = Implement. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "出现了一个小问题，但是迪马用新词来理解。迪马看了看信，又看了看电话，然后做了一个简单的计划。最后，迪马能说出一个清楚的句子。",
+              "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the letter, looks at the phone, and makes a simple plan. By the end, Dima can say one clear sentence."
             }
           ]
         },
         {
-          "id": "mandarin-intermediate-09",
+          "id": "mandarin-intermediate-35",
           "level": "intermediate",
-          "title": "Intermediate 09: 词语 513-535",
+          "title": "Intermediate 35: The School Project",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -28709,28 +28843,29 @@ window.LANGUAGE_CURRICULUM = {
             507,
             510
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/35-intermediate-the-school-project.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 薪, 许, 一個, 吃, 我喜. 新词语: 松, 数, 光, 其, 想我, 极, 合, 完全. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 薪 = Salary; 许 = Promise; 一個 = A; 吃 = Eat; 我喜 = I am pleased to. New words: 松 = Loose; 数 = Number; 光 = Light; 其 = Its; 想我 = Think I; 极 = Pole; 合 = Close; 完全 = Entirely. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，玛莎去学校。旁边有纸和老师。玛莎慢慢地读，并注意到一个新词：“项目”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Masha is at school. There is paper and teacher nearby. Masha reads slowly and notices a new word: project. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 薪, 许, 一個, 吃, 我喜. 新词语: 做了, 影, 室, 受, 奇, 试, 装, 晚上. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 薪 = Salary; 许 = Promise; 一個 = A; 吃 = Eat; 我喜 = I am pleased to. New words: 做了 = Done; 影 = Shadow; 室 = Room; 受 = Be subject; 奇 = Odd; 试 = Test; 装 = Dress; 晚上 = At night. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "玛莎把“项目”写在笔记本里。然后玛莎想一想“小组”这个主题。这里很安静，所以玛莎又读了一遍句子，并轻声说出来。",
+              "en": "Masha writes the word project in a notebook. Then Masha thinks about group. The place is quiet, so Masha reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 薪, 许, 一個, 吃, 我喜. 新词语: 恶, 应, 小姐, 整, 强, 业, 类. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 薪 = Salary; 许 = Promise; 一個 = A; 吃 = Eat; 我喜 = I am pleased to. New words: 恶 = Evil; 应 = Should; 小姐 = Miss; 整 = Whole; 强 = Strength; 业 = Industry; 类 = Class. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "出现了一个小问题，但是玛莎用新词来理解。玛莎看了看纸，又看了看老师，然后做了一个简单的计划。最后，玛莎能说出一个清楚的句子。",
+              "en": "A small problem appears, but Masha uses the new words to understand it. Masha checks the paper, looks at the teacher, and makes a simple plan. By the end, Masha can say one clear sentence."
             }
           ]
         },
         {
-          "id": "mandarin-intermediate-10",
+          "id": "mandarin-intermediate-36",
           "level": "intermediate",
-          "title": "Intermediate 10: 词语 536-558",
+          "title": "Intermediate 36: The City Walk",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -28773,28 +28908,29 @@ window.LANGUAGE_CURRICULUM = {
             530,
             533
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/36-intermediate-the-city-walk.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 器, 光, 极, 做了, 受. 新词语: 复, 奥, 梦, 曾, 嘴, 认, 如此, 爸. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 器 = Implement; 光 = Light; 极 = Pole; 做了 = Done; 受 = Be subject. New words: 复 = Complex; 奥 = Austrian; 梦 = Dream; 曾 = Once; 嘴 = Mouth; 认 = Recognize; 如此 = So; 爸 = Dad. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，安娜去城市。旁边有街道和窗户。安娜慢慢地读，并注意到一个新词：“散步”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Anna is in the city. There is street and window nearby. Anna reads slowly and notices a new word: walk. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 器, 光, 极, 做了, 受. 新词语: 照, 杰, 為什麼, 入, 睡, 都不, 服, 节. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 器 = Implement; 光 = Light; 极 = Pole; 做了 = Done; 受 = Be subject. New words: 照 = Photo; 杰 = Outstanding; 為什麼 = Why; 入 = Enter; 睡 = Sleep; 都不 = Not; 服 = Clothes; 节 = Festival. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "安娜把“散步”写在笔记本里。然后安娜想一想“地方”这个主题。这里很安静，所以安娜又读了一遍句子，并轻声说出来。",
+              "en": "Anna writes the word walk in a notebook. Then Anna thinks about place. The place is quiet, so Anna reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 器, 光, 极, 做了, 受. 新词语: 顿, 了解, 根, 蛋, 紧, 麻, 很快. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 器 = Implement; 光 = Light; 极 = Pole; 做了 = Done; 受 = Be subject. New words: 顿 = Dayton; 了解 = Understand; 根 = Root; 蛋 = Egg; 紧 = Tight; 麻 = Hemp; 很快 = Quickly. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "出现了一个小问题，但是安娜用新词来理解。安娜看了看街道，又看了看窗户，然后做了一个简单的计划。最后，安娜能说出一个清楚的句子。",
+              "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the street, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
             }
           ]
         },
         {
-          "id": "mandarin-intermediate-11",
+          "id": "mandarin-intermediate-37",
           "level": "intermediate",
-          "title": "Intermediate 11: 词语 559-581",
+          "title": "Intermediate 37: The Bookshop Door",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -28837,28 +28973,29 @@ window.LANGUAGE_CURRICULUM = {
             553,
             556
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/37-intermediate-the-bookshop-door.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 类, 梦, 认, 照, 入. 新词语: 游, 忘了, 戴, 莎, 故事, 视, 真正, 蟹. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 类 = Class; 梦 = Dream; 认 = Recognize; 照 = Photo; 入 = Enter. New words: 游 = Tour; 忘了 = Forget; 戴 = Wear; 莎 = Shakespeare; 故事 = Story; 视 = Regard; 真正 = Real; 蟹 = Crab. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，伊万去书店。旁边有门和书。伊万慢慢地读，并注意到一个新词：“打开”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Ivan is in the bookshop. There is door and book nearby. Ivan reads slowly and notices a new word: open. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 类, 梦, 认, 照, 入. 新词语: 费, 靠, 全, 反, 字, 度, 甚至, 局. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 类 = Class; 梦 = Dream; 认 = Recognize; 照 = Photo; 入 = Enter. New words: 费 = Fee; 靠 = By; 全 = Whole; 反 = Anti-; 字 = Word; 度 = Degree; 甚至 = Even; 局 = Bureau. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "伊万把“打开”写在笔记本里。然后伊万想一想“阅读”这个主题。这里很安静，所以伊万又读了一遍句子，并轻声说出来。",
+              "en": "Ivan writes the word open in a notebook. Then Ivan thinks about reading. The place is quiet, so Ivan reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 类, 梦, 认, 照, 入. 新词语: 莫, 命, 语, 性, 常, 莱, 之后. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 类 = Class; 梦 = Dream; 认 = Recognize; 照 = Photo; 入 = Enter. New words: 莫 = Mo; 命 = Life; 语 = Language; 性 = Sex; 常 = Often; 莱 = Levin; 之后 = After. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "出现了一个小问题，但是伊万用新词来理解。伊万看了看门，又看了看书，然后做了一个简单的计划。最后，伊万能说出一个清楚的句子。",
+              "en": "A small problem appears, but Ivan uses the new words to understand it. Ivan checks the door, looks at the book, and makes a simple plan. By the end, Ivan can say one clear sentence."
             }
           ]
         },
         {
-          "id": "mandarin-intermediate-12",
+          "id": "mandarin-intermediate-38",
           "level": "intermediate",
-          "title": "Intermediate 12: 词语 582-604",
+          "title": "Intermediate 38: The Family Story",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -28901,28 +29038,29 @@ window.LANGUAGE_CURRICULUM = {
             576,
             579
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/38-intermediate-the-family-story.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 很快, 戴, 视, 费, 反. 新词语: 可不, 母, 留下, 外, 當, 此, 惊, 伯. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 很快 = Quickly; 戴 = Wear; 视 = Regard; 费 = Fee; 反 = Anti-. New words: 可不 = From time to; 母 = Mother; 留下 = Stay; 外 = Outside; 當 = When the; 此 = This; 惊 = Shock; 伯 = Bo. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，莉娜回家。旁边有妈妈和照片。莉娜慢慢地读，并注意到一个新词：“故事”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Lena is at home. There is mother and photo nearby. Lena reads slowly and notices a new word: story. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 很快, 戴, 视, 费, 反. 新词语: 口, 喜歡, the, 在做, 那麼, 請, 五, 标. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 很快 = Quickly; 戴 = Wear; 视 = Regard; 费 = Fee; 反 = Anti-. New words: 口 = Mouth; 喜歡 = Like; the = the; 在做 = Doing; 那麼 = Then; 請 = Please; 五 = Five; 标 = Mark. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "莉娜把“故事”写在笔记本里。然后莉娜想一想“家庭”这个主题。这里很安静，所以莉娜又读了一遍句子，并轻声说出来。",
+              "en": "Lena writes the word story in a notebook. Then Lena thinks about family. The place is quiet, so Lena reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 很快, 戴, 视, 费, 反. 新词语: 画, 身上, 以后, 主, 謝謝, 應該, 静. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 很快 = Quickly; 戴 = Wear; 视 = Regard; 费 = Fee; 反 = Anti-. New words: 画 = Painting; 身上 = Body; 以后 = After; 主 = Main; 謝謝 = Thank you; 應該 = Should; 静 = Quiet. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "出现了一个小问题，但是莉娜用新词来理解。莉娜看了看妈妈，又看了看照片，然后做了一个简单的计划。最后，莉娜能说出一个清楚的句子。",
+              "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the mother, looks at the photo, and makes a simple plan. By the end, Lena can say one clear sentence."
             }
           ]
         },
         {
-          "id": "mandarin-intermediate-13",
+          "id": "mandarin-intermediate-39",
           "level": "intermediate",
-          "title": "Intermediate 13: 词语 605-627",
+          "title": "Intermediate 39: The Important Word",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -28965,28 +29103,29 @@ window.LANGUAGE_CURRICULUM = {
             599,
             602
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/39-intermediate-the-important-word.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 之后, 留下, 此, 口, 在做. 新词语: 弹, 改, 酒, 伦, 裏, 花, 续, 天哪. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 之后 = After; 留下 = Stay; 此 = This; 口 = Mouth; 在做 = Doing. New words: 弹 = Bomb; 改 = Change; 酒 = Wine; 伦 = Lun; 裏 = In; 花 = Flower; 续 = Continue; 天哪 = Gosh. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，帕维尔去图书馆。旁边有词典和纸。帕维尔慢慢地读，并注意到一个新词：“意思”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Pavel is in the library. There is dictionary and paper nearby. Pavel reads slowly and notices a new word: meaning. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 之后, 留下, 此, 口, 在做. 新词语: 這裡, 房子, 何, 由, 药, 同, 早上, 波. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 之后 = After; 留下 = Stay; 此 = This; 口 = Mouth; 在做 = Doing. New words: 這裡 = Here; 房子 = House; 何 = What; 由 = By; 药 = Drug; 同 = With; 早上 = Morning; 波 = Wave. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "帕维尔把“意思”写在笔记本里。然后帕维尔想一想“语言”这个主题。这里很安静，所以帕维尔又读了一遍句子，并轻声说出来。",
+              "en": "Pavel writes the word meaning in a notebook. Then Pavel thinks about language. The place is quiet, so Pavel reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 之后, 留下, 此, 口, 在做. 新词语: 弄, 务, 原, 失, 考, 岁, 统. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 之后 = After; 留下 = Stay; 此 = This; 口 = Mouth; 在做 = Doing. New words: 弄 = Get; 务 = Business; 原 = Original; 失 = Lose; 考 = Test; 岁 = Years; 统 = Collectively. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "出现了一个小问题，但是帕维尔用新词来理解。帕维尔看了看词典，又看了看纸，然后做了一个简单的计划。最后，帕维尔能说出一个清楚的句子。",
+              "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the dictionary, looks at the paper, and makes a simple plan. By the end, Pavel can say one clear sentence."
             }
           ]
         },
         {
-          "id": "mandarin-intermediate-14",
+          "id": "mandarin-intermediate-40",
           "level": "intermediate",
-          "title": "Intermediate 14: 词语 628-650",
+          "title": "Intermediate 40: Closer Every Day",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -29029,28 +29168,29 @@ window.LANGUAGE_CURRICULUM = {
             622,
             625
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/40-intermediate-closer-every-day.txt",
           "sections": [
             {
-              "heading": "章 1 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 静, 酒, 花, 這裡, 由. 新词语: 斜, 拜托, 跑, 不在, 害, 麽, 日, 妮. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 静 = Quiet; 酒 = Wine; 花 = Flower; 這裡 = Here; 由 = By. New words: 斜 = Oblique; 拜托 = Please; 跑 = Run; 不在 = Absence; 害 = Harm; 麽 = What; 日 = Day; 妮 = Ni. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，伊琳娜去公园。旁边有笔记本和茶。伊琳娜慢慢地读，并注意到一个新词：“更近”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Irina is in the park. There is notebook and tea nearby. Irina reads slowly and notices a new word: closer. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 静, 酒, 花, 這裡, 由. 新词语: 凯, 衣服, 治, 便, 客, 议, 好好, 們. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 静 = Quiet; 酒 = Wine; 花 = Flower; 這裡 = Here; 由 = By. New words: 凯 = Triumphant; 衣服 = Clothes; 治 = Rule; 便 = Then; 客 = Passenger; 议 = Discuss; 好好 = Good; 們 = They. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "伊琳娜把“更近”写在笔记本里。然后伊琳娜想一想“复习”这个主题。这里很安静，所以伊琳娜又读了一遍句子，并轻声说出来。",
+              "en": "Irina writes the word closer in a notebook. Then Irina thinks about review. The place is quiet, so Irina reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 3",
-              "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 静, 酒, 花, 這裡, 由. 新词语: 覺得, 谢谢, 托, 赛, 任, 色, 独. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 静 = Quiet; 酒 = Wine; 花 = Flower; 這裡 = Here; 由 = By. New words: 覺得 = Feel; 谢谢 = Thank you; 托 = Entrust; 赛 = Game; 任 = Office; 色 = Color; 独 = Independent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "出现了一个小问题，但是伊琳娜用新词来理解。伊琳娜看了看笔记本，又看了看茶，然后做了一个简单的计划。最后，伊琳娜能说出一个清楚的句子。",
+              "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the notebook, looks at the tea, and makes a simple plan. By the end, Irina can say one clear sentence."
             }
           ]
         },
         {
-          "id": "mandarin-advanced-01",
+          "id": "mandarin-advanced-41",
           "level": "advanced",
-          "title": "Advanced 01: 词语 651-685",
+          "title": "Advanced 41: The Long Walk Through the City",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -29105,38 +29245,39 @@ window.LANGUAGE_CURRICULUM = {
             645,
             648
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/41-advanced-the-long-walk-through-the-city.txt",
           "sections": [
             {
-              "heading": "章 1 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 统, 跑, 麽, 凯, 便. 新词语: 眼睛, 黑, 华, 放在, 城, 的時候, 站. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 统 = Collectively; 跑 = Run; 麽 = What; 凯 = Triumphant; 便 = Then. New words: 眼睛 = Eye; 黑 = Black; 华 = China; 放在 = On the; 城 = City; 的時候 = When; 站 = Station. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，安娜去城市。旁边有地图和窗户。安娜慢慢地读，并注意到一个新词：“旅程”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Anna is in the city. There is map and window nearby. Anna reads slowly and notices a new word: journey. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 统, 跑, 麽, 凯, 便. 新词语: 小孩, 住在, 咖啡, 换, 才是, 褕, 周. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 统 = Collectively; 跑 = Run; 麽 = What; 凯 = Triumphant; 便 = Then. New words: 小孩 = Child; 住在 = Lives in; 咖啡 = Coffee; 换 = Change; 才是 = Is; 褕 = Yu; 周 = Week. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "安娜把“旅程”写在笔记本里。然后安娜想一想“城市”这个主题。这里很安静，所以安娜又读了一遍句子，并轻声说出来。",
+              "en": "Anna writes the word journey in a notebook. Then Anna thinks about city. The place is quiet, so Anna reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 统, 跑, 麽, 凯, 便. 新词语: 控制, 言, 敢, 赢, 半, 白, 释. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 统 = Collectively; 跑 = Run; 麽 = What; 凯 = Triumphant; 便 = Then. New words: 控制 = Control; 言 = Speech; 敢 = Dare; 赢 = Win; 半 = Half; 白 = White; 释 = Release. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "出现了一个小问题，但是安娜用新词来理解。安娜看了看地图，又看了看窗户，然后做了一个简单的计划。最后，安娜能说出一个清楚的句子。",
+              "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the map, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
             },
             {
-              "heading": "章 4 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 统, 跑, 麽, 凯, 便. 新词语: 能不能, 生了, 而已, 图, 該, 怪, 字幕. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 统 = Collectively; 跑 = Run; 麽 = What; 凯 = Triumphant; 便 = Then. New words: 能不能 = Can; 生了 = Health; 而已 = Nothing more; 图 = Map; 該 = That; 怪 = Strange; 字幕 = Subtitle. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "后来，安娜遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。安娜又写下三个词，并把它们和今天的故事连起来。",
+              "en": "Later, Anna meets another person and asks one careful question. The answer is simple, but it helps. Anna writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "章 5 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 统, 跑, 麽, 凯, 便. 新词语: 對不起, 去看, 像是, 保持, 替, 拜, 一件. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 统 = Collectively; 跑 = Run; 麽 = What; 凯 = Triumphant; 便 = Then. New words: 對不起 = I am sorry; 去看 = To see; 像是 = Like; 保持 = Keeping; 替 = For; 拜 = Worship; 一件 = A. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "一天结束时，安娜大声读完整页。词语还不完美，但已经熟悉了。安娜笑了，因为学习变得可能，也变得很近。",
+              "en": "At the end of the day, Anna reads the whole page out loud. The words are not perfect yet, but they are familiar now. Anna smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "mandarin-advanced-02",
+          "id": "mandarin-advanced-42",
           "level": "advanced",
-          "title": "Advanced 02: 词语 686-720",
+          "title": "Advanced 42: The Forgotten Invitation",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -29191,38 +29332,39 @@ window.LANGUAGE_CURRICULUM = {
             680,
             683
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/42-advanced-the-forgotten-invitation.txt",
           "sections": [
             {
-              "heading": "章 1 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 才是, 控制, 赢, 释, 而已. 新词语: 錢, 想知道, 時, 讲, 新的, 希, 炸. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 才是 = Is; 控制 = Control; 赢 = Win; 释 = Release; 而已 = Nothing more. New words: 錢 = Money; 想知道 = Want to know; 時 = Time; 讲 = Speak; 新的 = New; 希 = Hope; 炸 = Fry. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，萨沙去大学。旁边有信和电话。萨沙慢慢地读，并注意到一个新词：“邀请”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Sasha is at the university. There is letter and phone nearby. Sasha reads slowly and notices a new word: invitation. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 才是, 控制, 赢, 释, 而已. 新词语: 择, 知, 說的, 码, 戏, 塞, 碰. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 才是 = Is; 控制 = Control; 赢 = Win; 释 = Release; 而已 = Nothing more. New words: 择 = Choose; 知 = Know; 說的 = Said; 码 = Code; 戏 = Play; 塞 = Stopper; 碰 = Touch. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "萨沙把“邀请”写在笔记本里。然后萨沙想一想“会议”这个主题。这里很安静，所以萨沙又读了一遍句子，并轻声说出来。",
+              "en": "Sasha writes the word invitation in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 才是, 控制, 赢, 释, 而已. 新词语: 放下, 一樣, 害怕, 杰克, 迎, 绝, 開始. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 才是 = Is; 控制 = Control; 赢 = Win; 释 = Release; 而已 = Nothing more. New words: 放下 = Put down; 一樣 = Equally; 害怕 = Be afraid; 杰克 = Jack; 迎 = Welcome; 绝 = Absolutely; 開始 = Start. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "出现了一个小问题，但是萨沙用新词来理解。萨沙看了看信，又看了看电话，然后做了一个简单的计划。最后，萨沙能说出一个清楚的句子。",
+              "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the phone, and makes a simple plan. By the end, Sasha can say one clear sentence."
             },
             {
-              "heading": "章 4 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 才是, 控制, 赢, 释, 而已. 新词语: 生命, 王, 助, 乔, 义, 回到, 救. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 才是 = Is; 控制 = Control; 赢 = Win; 释 = Release; 而已 = Nothing more. New words: 生命 = Life; 王 = King; 助 = Help; 乔 = Joe; 义 = Justice; 回到 = Back to; 救 = Save. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "后来，萨沙遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。萨沙又写下三个词，并把它们和今天的故事连起来。",
+              "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "章 5 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 才是, 控制, 赢, 释, 而已. 新词语: 清楚, 冷, 原因, 却, 付, 管, 狂. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 才是 = Is; 控制 = Control; 赢 = Win; 释 = Release; 而已 = Nothing more. New words: 清楚 = Clear; 冷 = Cold; 原因 = Reason; 却 = But; 付 = Pay; 管 = Tube; 狂 = Mad. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "一天结束时，萨沙大声读完整页。词语还不完美，但已经熟悉了。萨沙笑了，因为学习变得可能，也变得很近。",
+              "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "mandarin-advanced-03",
+          "id": "mandarin-advanced-43",
           "level": "advanced",
-          "title": "Advanced 03: 词语 721-755",
+          "title": "Advanced 43: The History Room",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -29277,38 +29419,39 @@ window.LANGUAGE_CURRICULUM = {
             715,
             718
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/43-advanced-the-history-room.txt",
           "sections": [
             {
-              "heading": "章 1 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 戏, 放下, 杰克, 開始, 助. 新词语: 早, 一天, 超, 怀, 使, 断, 演. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 戏 = Play; 放下 = Put down; 杰克 = Jack; 開始 = Start; 助 = Help. New words: 早 = Early; 一天 = One day; 超 = Exceed; 怀 = Bosom; 使 = Make; 断 = Break; 演 = Play. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，尼古拉去博物馆。旁边有书和图画。尼古拉慢慢地读，并注意到一个新词：“历史”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Nikolay is in the museum. There is book and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 戏, 放下, 杰克, 開始, 助. 新词语: 外面, 四, 楼, 另一, 玩笑, 好啊, 裡. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 戏 = Play; 放下 = Put down; 杰克 = Jack; 開始 = Start; 助 = Help. New words: 外面 = Outside; 四 = Four; 楼 = Floor; 另一 = Another; 玩笑 = Joke; 好啊 = Well; 裡 = In. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "尼古拉把“历史”写在笔记本里。然后尼古拉想一想“过去”这个主题。这里很安静，所以尼古拉又读了一遍句子，并轻声说出来。",
+              "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about past. The place is quiet, so Nikolay reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 戏, 放下, 杰克, 開始, 助. 新词语: 院, 空, 娜, 將, 下去, 传, 時間. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 戏 = Play; 放下 = Put down; 杰克 = Jack; 開始 = Start; 助 = Help. New words: 院 = Hospital; 空 = Air; 娜 = Na; 將 = Will; 下去 = Go on; 传 = Pass; 時間 = Time. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "出现了一个小问题，但是尼古拉用新词来理解。尼古拉看了看书，又看了看图画，然后做了一个简单的计划。最后，尼古拉能说出一个清楚的句子。",
+              "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the book, looks at the picture, and makes a simple plan. By the end, Nikolay can say one clear sentence."
             },
             {
-              "heading": "章 4 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 戏, 放下, 杰克, 開始, 助. 新词语: 感到, 懂, 血, 失去, 终, 還是, 价. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 戏 = Play; 放下 = Put down; 杰克 = Jack; 開始 = Start; 助 = Help. New words: 感到 = Feel; 懂 = Understand; 血 = Blood; 失去 = Lose; 终 = End; 還是 = Or; 价 = Price. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "后来，尼古拉遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。尼古拉又写下三个词，并把它们和今天的故事连起来。",
+              "en": "Later, Nikolay meets another person and asks one careful question. The answer is simple, but it helps. Nikolay writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "章 5 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 戏, 放下, 杰克, 開始, 助. 新词语: 包, 等, 变, 准, 查, 阿, 卡. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 戏 = Play; 放下 = Put down; 杰克 = Jack; 開始 = Start; 助 = Help. New words: 包 = Package; 等 = Wait; 变 = Change; 准 = Quasi-; 查 = Check; 阿 = A; 卡 = Card. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "一天结束时，尼古拉大声读完整页。词语还不完美，但已经熟悉了。尼古拉笑了，因为学习变得可能，也变得很近。",
+              "en": "At the end of the day, Nikolay reads the whole page out loud. The words are not perfect yet, but they are familiar now. Nikolay smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "mandarin-advanced-04",
+          "id": "mandarin-advanced-44",
           "level": "advanced",
-          "title": "Advanced 04: 词语 756-790",
+          "title": "Advanced 44: The Quiet Train",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -29363,38 +29506,39 @@ window.LANGUAGE_CURRICULUM = {
             750,
             753
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/44-advanced-the-quiet-train.txt",
           "sections": [
             {
-              "heading": "章 1 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 玩笑, 院, 將, 時間, 血. 新词语: 這個, 在哪, 定, 处, 真是, 保, 想要. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 玩笑 = Joke; 院 = Hospital; 將 = Will; 時間 = Time; 血 = Blood. New words: 這個 = This; 在哪 = Where; 定 = Fixed; 处 = Place; 真是 = Really; 保 = Insurance; 想要 = Want. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，玛丽亚去火车站。旁边有票和茶。玛丽亚慢慢地读，并注意到一个新词：“安静”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Maria is on the train. There is ticket and tea nearby. Maria reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 玩笑, 院, 將, 時間, 血. 新词语: 安, 并, 拿, 情, 爸爸, 褋, 您. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 玩笑 = Joke; 院 = Hospital; 將 = Will; 時間 = Time; 血 = Blood. New words: 安 = Safe; 并 = And; 拿 = Take; 情 = Love; 爸爸 = Father; 褋 = Die; 您 = You. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "玛丽亚把“安静”写在笔记本里。然后玛丽亚想一想“旅行”这个主题。这里很安静，所以玛丽亚又读了一遍句子，并轻声说出来。",
+              "en": "Maria writes the word quiet in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 玩笑, 院, 將, 時間, 血. 新词语: 美, 非常, 办, 前, 格, 场, 体. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 玩笑 = Joke; 院 = Hospital; 將 = Will; 時間 = Time; 血 = Blood. New words: 美 = U.S.; 非常 = Very; 办 = Do; 前 = Ago; 格 = Grid; 场 = Field; 体 = Body. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "出现了一个小问题，但是玛丽亚用新词来理解。玛丽亚看了看票，又看了看茶，然后做了一个简单的计划。最后，玛丽亚能说出一个清楚的句子。",
+              "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the tea, and makes a simple plan. By the end, Maria can say one clear sentence."
             },
             {
-              "heading": "章 4 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 玩笑, 院, 將, 時間, 血. 新词语: 大家, 呀, 系, 后, 亲, 明白, 备. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 玩笑 = Joke; 院 = Hospital; 將 = Will; 時間 = Time; 血 = Blood. New words: 大家 = Everyone; 呀 = Yeah; 系 = System; 后 = After; 亲 = Parent; 明白 = Understand; 备 = Equipment. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "后来，玛丽亚遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。玛丽亚又写下三个词，并把它们和今天的故事连起来。",
+              "en": "Later, Maria meets another person and asks one careful question. The answer is simple, but it helps. Maria writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "章 5 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 玩笑, 院, 將, 時間, 血. 新词语: 布, 计, 恩, 找到, 她的, 老, 艾. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 玩笑 = Joke; 院 = Hospital; 將 = Will; 時間 = Time; 血 = Blood. New words: 布 = Cloth; 计 = Meter; 恩 = Grace; 找到 = Find; 她的 = Her; 老 = Old; 艾 = Ai. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "一天结束时，玛丽亚大声读完整页。词语还不完美，但已经熟悉了。玛丽亚笑了，因为学习变得可能，也变得很近。",
+              "en": "At the end of the day, Maria reads the whole page out loud. The words are not perfect yet, but they are familiar now. Maria smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "mandarin-advanced-05",
+          "id": "mandarin-advanced-45",
           "level": "advanced",
-          "title": "Advanced 05: 词语 791-825",
+          "title": "Advanced 45: A Plan for Tomorrow",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -29449,38 +29593,39 @@ window.LANGUAGE_CURRICULUM = {
             785,
             788
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/45-advanced-a-plan-for-tomorrow.txt",
           "sections": [
             {
-              "heading": "章 1 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 爸爸, 美, 前, 体, 系. 新词语: 意, 门, 啦, 米, 本, 问, 上帝. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 爸爸 = Father; 美 = U.S.; 前 = Ago; 体 = Body; 系 = System. New words: 意 = Meaning; 门 = Door; 啦 = La; 米 = Meter; 本 = This; 问 = Ask; 上帝 = God. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，莉娜回家。旁边有地图和笔记本。莉娜慢慢地读，并注意到一个新词：“明天”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Lena is at home. There is map and notebook nearby. Lena reads slowly and notices a new word: tomorrow. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 爸爸, 美, 前, 体, 系. 新词语: 必, 沒, 等等, 不過, 猜, 福, 打算. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 爸爸 = Father; 美 = U.S.; 前 = Ago; 体 = Body; 系 = System. New words: 必 = Must; 沒 = Not; 等等 = Etc.; 不過 = But; 猜 = Guess; 福 = Blessing; 打算 = Plan. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "莉娜把“明天”写在笔记本里。然后莉娜想一想“计划”这个主题。这里很安静，所以莉娜又读了一遍句子，并轻声说出来。",
+              "en": "Lena writes the word tomorrow in a notebook. Then Lena thinks about plan. The place is quiet, so Lena reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 爸爸, 美, 前, 体, 系. 新词语: 适, 危, 连, 怕, 化, 不需要, 争. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 爸爸 = Father; 美 = U.S.; 前 = Ago; 体 = Body; 系 = System. New words: 适 = Suitable; 危 = Danger; 连 = Even; 怕 = Fear; 化 = Of; 不需要 = Do not need to; 争 = Fight. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "出现了一个小问题，但是莉娜用新词来理解。莉娜看了看地图，又看了看笔记本，然后做了一个简单的计划。最后，莉娜能说出一个清楚的句子。",
+              "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the map, looks at the notebook, and makes a simple plan. By the end, Lena can say one clear sentence."
             },
             {
-              "heading": "章 4 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 爸爸, 美, 前, 体, 系. 新词语: 则, 狱, 越, 小子, 有趣, 喜歡, the. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 爸爸 = Father; 美 = U.S.; 前 = Ago; 体 = Body; 系 = System. New words: 则 = Then; 狱 = Prison; 越 = More; 小子 = Brat; 有趣 = Interesting; 喜歡 = Like; the = the. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "后来，莉娜遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。莉娜又写下三个词，并把它们和今天的故事连起来。",
+              "en": "Later, Lena meets another person and asks one careful question. The answer is simple, but it helps. Lena writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "章 5 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 爸爸, 美, 前, 体, 系. 新词语: 在做, 那麼, 請, 五, 标, 画, 身上. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 爸爸 = Father; 美 = U.S.; 前 = Ago; 体 = Body; 系 = System. New words: 在做 = Doing; 那麼 = Then; 請 = Please; 五 = Five; 标 = Mark; 画 = Painting; 身上 = Body. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "一天结束时，莉娜大声读完整页。词语还不完美，但已经熟悉了。莉娜笑了，因为学习变得可能，也变得很近。",
+              "en": "At the end of the day, Lena reads the whole page out loud. The words are not perfect yet, but they are familiar now. Lena smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "mandarin-advanced-06",
+          "id": "mandarin-advanced-46",
           "level": "advanced",
-          "title": "Advanced 06: 词语 826-860",
+          "title": "Advanced 46: News from the Cafe",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -29535,38 +29680,39 @@ window.LANGUAGE_CURRICULUM = {
             820,
             823
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/46-advanced-news-from-the-cafe.txt",
           "sections": [
             {
-              "heading": "章 1 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 猜, 适, 怕, 争, 越. 新词语: 以后, 至少, 亞, 脱, 消息, 不喜, 块. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 猜 = Guess; 适 = Suitable; 怕 = Fear; 争 = Fight; 越 = More. New words: 以后 = After; 至少 = At least; 亞 = Inferior; 脱 = Take off; 消息 = News; 不喜 = Do not like; 块 = Block. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，奥尔加去咖啡馆。旁边有报纸和茶。奥尔加慢慢地读，并注意到一个新词：“新闻”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Olga is in the cafe. There is newspaper and tea nearby. Olga reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 猜, 适, 怕, 争, 越. 新词语: 快走, 著, 各位, 算, 問題, 沒事, 导. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 猜 = Guess; 适 = Suitable; 怕 = Fear; 争 = Fight; 越 = More. New words: 快走 = Brisk walking; 著 = With; 各位 = Everybody; 算 = Count; 問題 = Problem; 沒事 = All right; 导 = Guide. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "奥尔加把“新闻”写在笔记本里。然后奥尔加想一想“谈话”这个主题。这里很安静，所以奥尔加又读了一遍句子，并轻声说出来。",
+              "en": "Olga writes the word news in a notebook. Then Olga thinks about talk. The place is quiet, so Olga reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 猜, 适, 怕, 争, 越. 新词语: 州, 老兄, 抓, 代, 蒙, 抓住, 山. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 猜 = Guess; 适 = Suitable; 怕 = Fear; 争 = Fight; 越 = More. New words: 州 = State; 老兄 = Brother; 抓 = Catch; 代 = On behalf of; 蒙 = Mongolian; 抓住 = Catch; 山 = Mountain. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "出现了一个小问题，但是奥尔加用新词来理解。奥尔加看了看报纸，又看了看茶，然后做了一个简单的计划。最后，奥尔加能说出一个清楚的句子。",
+              "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the newspaper, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
             },
             {
-              "heading": "章 4 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 猜, 适, 怕, 争, 越. 新词语: 拍, 沙, 妻子, 脸, 责, 你自己, 回來. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 猜 = Guess; 适 = Suitable; 怕 = Fear; 争 = Fight; 越 = More. New words: 拍 = Beat; 沙 = Sand; 妻子 = Wife; 脸 = Face; 责 = Responsibility; 你自己 = Yourself; 回來 = Come back. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "后来，奥尔加遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。奥尔加又写下三个词，并把它们和今天的故事连起来。",
+              "en": "Later, Olga meets another person and asks one careful question. The answer is simple, but it helps. Olga writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "章 5 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 猜, 适, 怕, 争, 越. 新词语: 歌, 星, 权, 术, 显, 幸, 交. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 猜 = Guess; 适 = Suitable; 怕 = Fear; 争 = Fight; 越 = More. New words: 歌 = Song; 星 = Star; 权 = Right; 术 = Technique; 显 = Show; 幸 = Fortunately; 交 = Cross. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "一天结束时，奥尔加大声读完整页。词语还不完美，但已经熟悉了。奥尔加笑了，因为学习变得可能，也变得很近。",
+              "en": "At the end of the day, Olga reads the whole page out loud. The words are not perfect yet, but they are familiar now. Olga smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "mandarin-advanced-07",
+          "id": "mandarin-advanced-47",
           "level": "advanced",
-          "title": "Advanced 07: 词语 861-895",
+          "title": "Advanced 47: The Word That Changed the Day",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -29621,38 +29767,39 @@ window.LANGUAGE_CURRICULUM = {
             855,
             858
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/47-advanced-the-word-that-changed-the-day.txt",
           "sections": [
             {
-              "heading": "章 1 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 問題, 州, 代, 山, 妻子. 新词语: 不同, 聪, 随, 登, 班, 二, 录. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 問題 = Problem; 州 = State; 代 = On behalf of; 山 = Mountain; 妻子 = Wife. New words: 不同 = Different; 聪 = Clever; 随 = Follow; 登 = Ascend; 班 = Class; 二 = Two; 录 = Record. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，迪马去街上。旁边有包和书。迪马慢慢地读，并注意到一个新词：“帮助”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Dima is on the street. There is bag and book nearby. Dima reads slowly and notices a new word: help. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 問題, 州, 代, 山, 妻子. 新词语: 武器, 热, 才能, 當然, 晚, 晚安, 成功. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 問題 = Problem; 州 = State; 代 = On behalf of; 山 = Mountain; 妻子 = Wife. New words: 武器 = Weapon; 热 = Hot; 才能 = Ability; 當然 = Of course; 晚 = Night; 晚安 = Good night; 成功 = Success. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "迪马把“帮助”写在笔记本里。然后迪马想一想“道路”这个主题。这里很安静，所以迪马又读了一遍句子，并轻声说出来。",
+              "en": "Dima writes the word help in a notebook. Then Dima thinks about road. The place is quiet, so Dima reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 問題, 州, 代, 山, 妻子. 新词语: 未, 参, 瓦, 饭, 殺, 帕, 待. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 問題 = Problem; 州 = State; 代 = On behalf of; 山 = Mountain; 妻子 = Wife. New words: 未 = Not; 参 = Participate; 瓦 = Tile; 饭 = Rice; 殺 = Kill; 帕 = Handkerchief; 待 = To be. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "出现了一个小问题，但是迪马用新词来理解。迪马看了看包，又看了看书，然后做了一个简单的计划。最后，迪马能说出一个清楚的句子。",
+              "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the bag, looks at the book, and makes a simple plan. By the end, Dima can say one clear sentence."
             },
             {
-              "heading": "章 4 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 問題, 州, 代, 山, 妻子. 新词语: 是否, 勒, 射, 表, 卫, 太太, 接受. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 問題 = Problem; 州 = State; 代 = On behalf of; 山 = Mountain; 妻子 = Wife. New words: 是否 = Whether; 勒 = Le; 射 = Shoot; 表 = Table; 卫 = Guard; 太太 = Wife; 接受 = Accepted. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "后来，迪马遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。迪马又写下三个词，并把它们和今天的故事连起来。",
+              "en": "Later, Dima meets another person and asks one careful question. The answer is simple, but it helps. Dima writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "章 5 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 問題, 州, 代, 山, 妻子. 新词语: 跳, 象, 灵, 真不, 破, 夫人, 操. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 問題 = Problem; 州 = State; 代 = On behalf of; 山 = Mountain; 妻子 = Wife. New words: 跳 = Jump; 象 = Elephant; 灵 = Spirit; 真不 = I really do not; 破 = Break; 夫人 = Mrs.; 操 = Exercise. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "一天结束时，迪马大声读完整页。词语还不完美，但已经熟悉了。迪马笑了，因为学习变得可能，也变得很近。",
+              "en": "At the end of the day, Dima reads the whole page out loud. The words are not perfect yet, but they are familiar now. Dima smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "mandarin-advanced-08",
+          "id": "mandarin-advanced-48",
           "level": "advanced",
-          "title": "Advanced 08: 词语 896-930",
+          "title": "Advanced 48: The Meeting at the University",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -29707,38 +29854,39 @@ window.LANGUAGE_CURRICULUM = {
             890,
             893
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/48-advanced-the-meeting-at-the-university.txt",
           "sections": [
             {
-              "heading": "章 1 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 晚, 未, 饭, 待, 射. 新词语: 诺, 萨, 卖, 选, 注意, 历, 脚. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 晚 = Night; 未 = Not; 饭 = Rice; 待 = To be; 射 = Shoot. New words: 诺 = Promise; 萨 = Bodhisattva; 卖 = Sell; 选 = Selected; 注意 = Note; 历 = Calendar; 脚 = Foot. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，萨沙去大学。旁边有信和书桌。萨沙慢慢地读，并注意到一个新词：“会议”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Sasha is at the university. There is letter and desk nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 晚, 未, 饭, 待, 射. 新词语: 丝, 少, 工, 密, 鱼, 验, 不再. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 晚 = Night; 未 = Not; 饭 = Rice; 待 = To be; 射 = Shoot. New words: 丝 = Wire; 少 = Less; 工 = Work; 密 = Close; 鱼 = Fish; 验 = Test; 不再 = No longer. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "萨沙把“会议”写在笔记本里。然后萨沙想一想“想法”这个主题。这里很安静，所以萨沙又读了一遍句子，并轻声说出来。",
+              "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about ideas. The place is quiet, so Sasha reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 晚, 未, 饭, 待, 射. 新词语: 检, 骗, 必須, a, 自由, 杯, 馆. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 晚 = Night; 未 = Not; 饭 = Rice; 待 = To be; 射 = Shoot. New words: 检 = Check; 骗 = Cheat; 必須 = Must; a = a; 自由 = Free; 杯 = Cup; 馆 = Shop. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "出现了一个小问题，但是萨沙用新词来理解。萨沙看了看信，又看了看书桌，然后做了一个简单的计划。最后，萨沙能说出一个清楚的句子。",
+              "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the desk, and makes a simple plan. By the end, Sasha can say one clear sentence."
             },
             {
-              "heading": "章 4 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 晚, 未, 饭, 待, 射. 新词语: 完, 追, 际, 产, 想到, 收, 探. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 晚 = Night; 未 = Not; 饭 = Rice; 待 = To be; 射 = Shoot. New words: 完 = Complete; 追 = Chase; 际 = Occasion; 产 = Yield; 想到 = Think; 收 = Income; 探 = Explore. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "后来，萨沙遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。萨沙又写下三个词，并把它们和今天的故事连起来。",
+              "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "章 5 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 晚, 未, 饭, 待, 射. 新词语: 直到, 酷, 乱, 资, 毁, 要求, 急. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 晚 = Night; 未 = Not; 饭 = Rice; 待 = To be; 射 = Shoot. New words: 直到 = Until; 酷 = Cool; 乱 = Random; 资 = Capital; 毁 = Ruin; 要求 = Claim; 急 = Urgent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "一天结束时，萨沙大声读完整页。词语还不完美，但已经熟悉了。萨沙笑了，因为学习变得可能，也变得很近。",
+              "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "mandarin-advanced-09",
+          "id": "mandarin-advanced-49",
           "level": "advanced",
-          "title": "Advanced 09: 词语 931-965",
+          "title": "Advanced 49: The Letter and the Map",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -29793,38 +29941,39 @@ window.LANGUAGE_CURRICULUM = {
             925,
             928
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/49-advanced-the-letter-and-the-map.txt",
           "sections": [
             {
-              "heading": "章 1 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 鱼, 检, a, 馆, 际. 新词语: 玛, 方, 完成, 照片, 收到, 所有人, 博士. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 鱼 = Fish; 检 = Check; a = a; 馆 = Shop; 际 = Occasion. New words: 玛 = Mary; 方 = Square; 完成 = Complete; 照片 = Photo; 收到 = Receive; 所有人 = Everyone; 博士 = Doctor. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，卡佳去图书馆。旁边有信和地图。卡佳慢慢地读，并注意到一个新词：“路线”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Katya is in the library. There is letter and map nearby. Katya reads slowly and notices a new word: route. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 鱼, 检, a, 馆, 际. 新词语: 媽媽, you, 父母, 奇怪, 男孩, 攻, 店. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 鱼 = Fish; 检 = Check; a = a; 馆 = Shop; 际 = Occasion. New words: 媽媽 = Mom; you = you; 父母 = Parents; 奇怪 = Strange; 男孩 = Boy; 攻 = Attack; 店 = Shop. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "卡佳把“路线”写在笔记本里。然后卡佳想一想“寻找”这个主题。这里很安静，所以卡佳又读了一遍句子，并轻声说出来。",
+              "en": "Katya writes the word route in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 鱼, 检, a, 馆, 际. 新词语: 埃, 多久, 红, 太多, 咱, 能, 事. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 鱼 = Fish; 检 = Check; a = a; 馆 = Shop; 际 = Occasion. New words: 埃 = Angstrom; 多久 = How long; 红 = Red; 太多 = Too; 咱 = We; 能 = Can; 事 = Thing. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "出现了一个小问题，但是卡佳用新词来理解。卡佳看了看信，又看了看地图，然后做了一个简单的计划。最后，卡佳能说出一个清楚的句子。",
+              "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the letter, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
             },
             {
-              "heading": "章 4 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 鱼, 检, a, 馆, 际. 新词语: 看, 我們, 上, 给, 可以, 现, 斯. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 鱼 = Fish; 检 = Check; a = a; 馆 = Shop; 际 = Occasion. New words: 看 = See; 我們 = We; 上 = On; 给 = To; 可以 = Can; 现 = Present; 斯 = Sri Lanka. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "后来，卡佳遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。卡佳又写下三个词，并把它们和今天的故事连起来。",
+              "en": "Later, Katya meets another person and asks one careful question. The answer is simple, but it helps. Katya writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "章 5 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 鱼, 检, a, 馆, 际. 新词语: 做, 儿, 时, 点, 开, 让, 就是. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 鱼 = Fish; 检 = Check; a = a; 馆 = Shop; 际 = Occasion. New words: 做 = Do; 儿 = Child; 时 = Time; 点 = Point; 开 = Open; 让 = Let; 就是 = Is. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "一天结束时，卡佳大声读完整页。词语还不完美，但已经熟悉了。卡佳笑了，因为学习变得可能，也变得很近。",
+              "en": "At the end of the day, Katya reads the whole page out loud. The words are not perfect yet, but they are familiar now. Katya smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "mandarin-advanced-10",
+          "id": "mandarin-advanced-50",
           "level": "advanced",
-          "title": "Advanced 10: 词语 966-1000",
+          "title": "Advanced 50: The Language Feels Close",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -29879,31 +30028,32 @@ window.LANGUAGE_CURRICULUM = {
             960,
             963
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/50-advanced-the-language-feels-close.txt",
           "sections": [
             {
-              "heading": "章 1 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 男孩, 埃, 太多, 事, 上. 新词语: 但, 呢, 着, 它, 這, 如果, 跟. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 男孩 = Boy; 埃 = Angstrom; 太多 = Too; 事 = Thing; 上 = On. New words: 但 = But; 呢 = It; 着 = With; 它 = It; 這 = This; 如果 = If; 跟 = With. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "早上，伊琳娜去公园。旁边有书和电话。伊琳娜慢慢地读，并注意到一个新词：“语言”。今天很好，语言也变得更近了。",
+              "en": "In the morning, Irina is in the park. There is book and phone nearby. Irina reads slowly and notices a new word: language. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "章 2 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 男孩, 埃, 太多, 事, 上. 新词语: 邪, 听, 克, 再, 快, 嗎, 被. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 男孩 = Boy; 埃 = Angstrom; 太多 = Too; 事 = Thing; 上 = On. New words: 邪 = Evil; 听 = Listen; 克 = Gram; 再 = Again; 快 = Fast; 嗎 = Do; 被 = Be. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "伊琳娜把“语言”写在笔记本里。然后伊琳娜想一想“信心”这个主题。这里很安静，所以伊琳娜又读了一遍句子，并轻声说出来。",
+              "en": "Irina writes the word language in a notebook. Then Irina thinks about confidence. The place is quiet, so Irina reads the sentence again and says it softly."
             },
             {
-              "heading": "章 3 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 男孩, 埃, 太多, 事, 上. 新词语: 是的, 大, 先生, 别, 告, 真的, 谢. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 男孩 = Boy; 埃 = Angstrom; 太多 = Too; 事 = Thing; 上 = On. New words: 是的 = Yes; 大 = Large; 先生 = Mr.; 别 = Do not; 告 = Tell; 真的 = Really; 谢 = Thank. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "出现了一个小问题，但是伊琳娜用新词来理解。伊琳娜看了看书，又看了看电话，然后做了一个简单的计划。最后，伊琳娜能说出一个清楚的句子。",
+              "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the book, looks at the phone, and makes a simple plan. By the end, Irina can say one clear sentence."
             },
             {
-              "heading": "章 4 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 男孩, 埃, 太多, 事, 上. 新词语: 哦, 话, 械, 见, 当, 芯, 该. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 男孩 = Boy; 埃 = Angstrom; 太多 = Too; 事 = Thing; 上 = On. New words: 哦 = Oh; 话 = Words; 械 = Instrument; 见 = See; 当 = When the; 芯 = Core; 该 = That. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "后来，伊琳娜遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。伊琳娜又写下三个词，并把它们和今天的故事连起来。",
+              "en": "Later, Irina meets another person and asks one careful question. The answer is simple, but it helps. Irina writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "章 5 / 5",
-              "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 男孩, 埃, 太多, 事, 上. 新词语: 西, 子, 已, 會, 小, 爱, 特. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 男孩 = Boy; 埃 = Angstrom; 太多 = Too; 事 = Thing; 上 = On. New words: 西 = Western; 子 = Child; 已 = Already; 會 = Can; 小 = Small; 爱 = Love; 特 = Special. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "一天结束时，伊琳娜大声读完整页。词语还不完美，但已经熟悉了。伊琳娜笑了，因为学习变得可能，也变得很近。",
+              "en": "At the end of the day, Irina reads the whole page out loud. The words are not perfect yet, but they are familiar now. Irina smiles because learning feels possible and close."
             }
           ]
         }
@@ -36919,7 +37069,7 @@ window.LANGUAGE_CURRICULUM = {
         {
           "id": "hindi-beginner-01",
           "level": "beginner",
-          "title": "Beginner 01: शब्द 1-9",
+          "title": "Beginner 01: Morning at Home",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -36939,18 +37089,19 @@ window.LANGUAGE_CURRICULUM = {
             9
           ],
           "reviewWords": [],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/01-beginner-morning-at-home.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "आज विद्यार्थी एक छोटा पेज पढ़ता है। नए शब्द: जैसा, मैं, उसके, कि, वह, था, के लिए, पर, हैं. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "Today the learner reads a short page. New words: जैसा = as; मैं = I; उसके = his; कि = that; वह = he; था = was; के लिए = for; पर = on; हैं = are. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह अन्ना घर जाती है। वहाँ पास में चाय और किताब है। अन्ना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “शहर।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Anna is at home. There is tea and book nearby. Anna reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "hindi-beginner-02",
           "level": "beginner",
-          "title": "Beginner 02: शब्द 10-18",
+          "title": "Beginner 02: Tea on the Table",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -36976,18 +37127,19 @@ window.LANGUAGE_CURRICULUM = {
             7,
             9
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/02-beginner-tea-on-the-table.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "आज विद्यार्थी एक छोटा पेज पढ़ता है। दोहराने वाले शब्द: जैसा, उसके, वह, के लिए, हैं. नए शब्द: साथ, वे, हो, पर, एक, है, इस, से, द्वारा. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "Today the learner reads a short page. Review words: जैसा = as; उसके = his; वह = he; के लिए = for; हैं = are. New words: साथ = with; वे = they; हो = be; पर = at; एक = one; है = have; इस = this; से = from; द्वारा = by. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह लीना घर जाती है। वहाँ पास में चाय और रोटी है। लीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “मेज़।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Lena is at home. There is tea and bread nearby. Lena reads slowly and notices a new word: table. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "hindi-beginner-03",
           "level": "beginner",
-          "title": "Beginner 03: शब्द 19-27",
+          "title": "Beginner 03: The Open Window",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -37014,18 +37166,19 @@ window.LANGUAGE_CURRICULUM = {
             13,
             16
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/03-beginner-the-open-window.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "आज विद्यार्थी एक छोटा पेज पढ़ता है। दोहराने वाले शब्द: जैसा, कि, के लिए, साथ, पर. नए शब्द: गरम, शब्द, लेकिन, क्या, कुछ, है, यह, आप, या. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "Today the learner reads a short page. Review words: जैसा = as; कि = that; के लिए = for; साथ = with; पर = at. New words: गरम = hot; शब्द = word; लेकिन = but; क्या = what; कुछ = some; है = is; यह = it; आप = you; या = or. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह इवान घर जाता है। वहाँ पास में खिड़की और किताब है। इवान धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “पुस्तकालय।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Ivan is at home. There is window and book nearby. Ivan reads slowly and notices a new word: library. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "hindi-beginner-04",
           "level": "beginner",
-          "title": "Beginner 04: शब्द 28-36",
+          "title": "Beginner 04: Walking to the Park",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -37054,18 +37207,19 @@ window.LANGUAGE_CURRICULUM = {
             22,
             25
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/04-beginner-walking-to-the-park.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "आज विद्यार्थी एक छोटा पेज पढ़ता है। दोहराने वाले शब्द: कि, के लिए, साथ, पर, इस. नए शब्द: था, सीधा समकक्ष नहीं, की, तक, और, एक, में, हम, कर सकते हैं. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "Today the learner reads a short page. Review words: कि = that; के लिए = for; साथ = with; पर = at; इस = this. New words: था = had; सीधा समकक्ष नहीं = the; की = of; तक = to; और = and; एक = a; में = in; हम = we; कर सकते हैं = can. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह माशा पार्क जाती है। वहाँ पास में माँ और भाई है। माशा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “दोस्त।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Masha is in the park. There is mother and brother nearby. Masha reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "hindi-beginner-05",
           "level": "beginner",
-          "title": "Beginner 05: शब्द 37-44",
+          "title": "Beginner 05: A Quiet Street",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -37093,18 +37247,19 @@ window.LANGUAGE_CURRICULUM = {
             31,
             34
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/05-beginner-a-quiet-street.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "आज विद्यार्थी एक छोटा पेज पढ़ता है। दोहराने वाले शब्द: पर, इस, गरम, क्या, यह. नए शब्द: बाहर, अन्य, थे, जो, कर, उनके, समय, अगर. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "Today the learner reads a short page. Review words: पर = at; इस = this; गरम = hot; क्या = what; यह = it. New words: बाहर = out; अन्य = other; थे = were; जो = which; कर = do; उनके = their; समय = time; अगर = if. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह पावेल सड़क जाता है। वहाँ पास में घर और खिड़की है। पावेल धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “सड़क।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Pavel is on the street. There is house and window nearby. Pavel reads slowly and notices a new word: street. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "hindi-beginner-06",
           "level": "beginner",
-          "title": "Beginner 06: शब्द 45-52",
+          "title": "Beginner 06: The First Book",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -37132,18 +37287,19 @@ window.LANGUAGE_CURRICULUM = {
             39,
             42
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/06-beginner-the-first-book.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "आज विद्यार्थी एक छोटा पेज पढ़ता है। दोहराने वाले शब्द: लेकिन, है, या, की, एक. नए शब्द: होगा, कैसे, कहा, एक, प्रत्येक, बता, करता है, सेट. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "Today the learner reads a short page. Review words: लेकिन = but; है = is; या = or; की = of; एक = a. New words: होगा = will; कैसे = how; कहा = said; एक = an; प्रत्येक = each; बता = tell; करता है = does; सेट = set. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह ओल्गा पुस्तकालय जाती है। वहाँ पास में किताब और कार्ड है। ओल्गा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “शब्द।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Olga is in the library. There is book and card nearby. Olga reads slowly and notices a new word: word. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "hindi-beginner-07",
           "level": "beginner",
-          "title": "Beginner 07: शब्द 53-60",
+          "title": "Beginner 07: A Good Day",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -37171,18 +37327,19 @@ window.LANGUAGE_CURRICULUM = {
             47,
             50
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/07-beginner-a-good-day.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "आज विद्यार्थी एक छोटा पेज पढ़ता है। दोहराने वाले शब्द: सीधा समकक्ष नहीं, और, हम, अन्य, कर. नए शब्द: तीन, चाहते हैं, हवा, अच्छी तरह से, भी, खेलने, छोटे, अंत. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "Today the learner reads a short page. Review words: सीधा समकक्ष नहीं = the; और = and; हम = we; अन्य = other; कर = do. New words: तीन = three; चाहते हैं = want; हवा = air; अच्छी तरह से = well; भी = also; खेलने = play; छोटे = small; अंत = end. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह निकोलाई पार्क जाता है। वहाँ पास में सूरज और पेड़ है। निकोलाई धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “अच्छा।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Nikolay is in the park. There is sun and tree nearby. Nikolay reads slowly and notices a new word: good. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "hindi-beginner-08",
           "level": "beginner",
-          "title": "Beginner 08: शब्द 61-68",
+          "title": "Beginner 08: At School",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -37210,18 +37367,19 @@ window.LANGUAGE_CURRICULUM = {
             55,
             58
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/08-beginner-at-school.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "आज विद्यार्थी एक छोटा पेज पढ़ता है। दोहराने वाले शब्द: बाहर, जो, समय, कैसे, प्रत्येक. नए शब्द: डाल, घर, पढ़ा, हाथ, बंदरगाह, बड़ा, जादू, जोड़. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "Today the learner reads a short page. Review words: बाहर = out; जो = which; समय = time; कैसे = how; प्रत्येक = each. New words: डाल = put; घर = home; पढ़ा = read; हाथ = hand; बंदरगाह = port; बड़ा = large; जादू = spell; जोड़ = add. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह साशा स्कूल जाता है। वहाँ पास में डेस्क और पेंसिल है। साशा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “स्कूल।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Sasha is at school. There is desk and pencil nearby. Sasha reads slowly and notices a new word: school. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "hindi-beginner-09",
           "level": "beginner",
-          "title": "Beginner 09: शब्द 69-76",
+          "title": "Beginner 09: At the Store",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -37249,18 +37407,19 @@ window.LANGUAGE_CURRICULUM = {
             63,
             66
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/09-beginner-at-the-store.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "आज विद्यार्थी एक छोटा पेज पढ़ता है। दोहराने वाले शब्द: होगा, एक, करता है, चाहते हैं, भी. नए शब्द: और भी, भूमि, यहाँ, चाहिए, बड़ा, उच्च, ऐसा, का पालन करें. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "Today the learner reads a short page. Review words: होगा = will; एक = an; करता है = does; चाहते हैं = want; भी = also. New words: और भी = even; भूमि = land; यहाँ = here; चाहिए = must; बड़ा = big; उच्च = high; ऐसा = such; का पालन करें = follow. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह इरीना दुकान जाती है। वहाँ पास में बैग और खाना है। इरीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “दुकान।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Irina is in the store. There is bag and food nearby. Irina reads slowly and notices a new word: store. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "hindi-beginner-10",
           "level": "beginner",
-          "title": "Beginner 10: शब्द 77-84",
+          "title": "Beginner 10: At the Station",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -37288,18 +37447,19 @@ window.LANGUAGE_CURRICULUM = {
             71,
             74
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/10-beginner-at-the-station.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "आज विद्यार्थी एक छोटा पेज पढ़ता है। दोहराने वाले शब्द: तीन, अच्छी तरह से, छोटे, घर, बंदरगाह. नए शब्द: अधिनियम, क्यों, पूछना, पुरुषों, परिवर्तन, चला गया, प्रकाश, तरह. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "Today the learner reads a short page. Review words: तीन = three; अच्छी तरह से = well; छोटे = small; घर = home; बंदरगाह = port. New words: अधिनियम = act; क्यों = why; पूछना = ask; पुरुषों = men; परिवर्तन = change; चला गया = went; प्रकाश = light; तरह = kind. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह मारिया स्टेशन जाती है। वहाँ पास में चाय और टिकट है। मारिया धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “स्टेशन।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Maria is at the station. There is tea and ticket nearby. Maria reads slowly and notices a new word: station. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "hindi-beginner-11",
           "level": "beginner",
-          "title": "Beginner 11: शब्द 85-92",
+          "title": "Beginner 11: A Simple Call",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -37327,18 +37487,19 @@ window.LANGUAGE_CURRICULUM = {
             79,
             82
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/11-beginner-a-simple-call.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "आज विद्यार्थी एक छोटा पेज पढ़ता है। दोहराने वाले शब्द: डाल, हाथ, जादू, भूमि, बड़ा. नए शब्द: बंद, आवश्यकता, घर, तस्वीर, कोशिश, हमें, फिर, पशु. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "Today the learner reads a short page. Review words: डाल = put; हाथ = hand; जादू = spell; भूमि = land; बड़ा = big. New words: बंद = off; आवश्यकता = need; घर = house; तस्वीर = picture; कोशिश = try; हमें = us; फिर = again; पशु = animal. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह दीमा घर जाता है। वहाँ पास में फ़ोन और कॉपी है। दीमा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “दोस्त।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Dima is at home. There is phone and notebook nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "hindi-beginner-12",
           "level": "beginner",
-          "title": "Beginner 12: शब्द 93-100",
+          "title": "Beginner 12: I Know This Word",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -37366,18 +37527,19 @@ window.LANGUAGE_CURRICULUM = {
             87,
             90
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/12-beginner-i-know-this-word.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "आज विद्यार्थी एक छोटा पेज पढ़ता है। दोहराने वाले शब्द: और भी, चाहिए, ऐसा, क्यों, परिवर्तन. नए शब्द: बिंदु, मां, दुनिया, निकट, बनाना, आत्म, पृथ्वी, पिता. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "Today the learner reads a short page. Review words: और भी = even; चाहिए = must; ऐसा = such; क्यों = why; परिवर्तन = change. New words: बिंदु = point; मां = mother; दुनिया = world; निकट = near; बनाना = build; आत्म = self; पृथ्वी = earth; पिता = father. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह कात्या कमरे जाती है। वहाँ पास में कागज़ और किताब है। कात्या धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “जानना।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Katya is in the room. There is paper and book nearby. Katya reads slowly and notices a new word: know. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
-          "id": "hindi-elementary-01",
+          "id": "hindi-elementary-13",
           "level": "elementary",
-          "title": "Elementary 01: शब्द 101-116",
+          "title": "Elementary 13: The Library Window",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -37413,23 +37575,24 @@ window.LANGUAGE_CURRICULUM = {
             95,
             98
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/13-elementary-the-library-window.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: अधिनियम, पुरुषों, प्रकाश, आवश्यकता, कोशिश. नए शब्द: किसी भी, नई, काम, हिस्सा, लेना, प्राप्त, जगह, निर्मित. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: अधिनियम = act; पुरुषों = men; प्रकाश = light; आवश्यकता = need; कोशिश = try. New words: किसी भी = any; नई = new; काम = work; हिस्सा = part; लेना = take; प्राप्त = get; जगह = place; निर्मित = made. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह पावेल पुस्तकालय जाता है। वहाँ पास में खिड़की और कॉपी है। पावेल धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “शांत।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Pavel is in the library. There is window and notebook nearby. Pavel reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "पेज 2",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: अधिनियम, पुरुषों, प्रकाश, आवश्यकता, कोशिश. नए शब्द: जीना, जहां, के बाद, वापस, थोड़ा, केवल, दौर, आदमी. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: अधिनियम = act; पुरुषों = men; प्रकाश = light; आवश्यकता = need; कोशिश = try. New words: जीना = live; जहां = where; के बाद = after; वापस = back; थोड़ा = little; केवल = only; दौर = round; आदमी = man. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "पावेल अपनी कॉपी में “शांत” शब्द लिखता है। फिर पावेल “पढ़ना” के बारे में सोचता है। जगह शांत है, इसलिए पावेल वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+              "en": "Pavel writes the word quiet in a notebook. Then Pavel thinks about reading. The place is quiet, so Pavel reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "hindi-elementary-02",
+          "id": "hindi-elementary-14",
           "level": "elementary",
-          "title": "Elementary 02: शब्द 117-132",
+          "title": "Elementary 14: The Museum Visit",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -37465,23 +37628,24 @@ window.LANGUAGE_CURRICULUM = {
             111,
             114
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/14-elementary-the-museum-visit.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: बिंदु, निकट, पृथ्वी, नई, लेना. नए शब्द: वर्ष, आया, शो, हर, अच्छा, मुझे, दे, हमारे. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: बिंदु = point; निकट = near; पृथ्वी = earth; नई = new; लेना = take. New words: वर्ष = year; आया = came; शो = show; हर = every; अच्छा = good; मुझे = me; दे = give; हमारे = our. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह निकोलाई संग्रहालय जाता है। वहाँ पास में टिकट और तस्वीर है। निकोलाई धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “इतिहास।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Nikolay is in the museum. There is ticket and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "पेज 2",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: बिंदु, निकट, पृथ्वी, नई, लेना. नए शब्द: नीचे, नाम, बहुत, के माध्यम से, बस, फार्म, वाक्य, महान. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: बिंदु = point; निकट = near; पृथ्वी = earth; नई = new; लेना = take. New words: नीचे = under; नाम = name; बहुत = very; के माध्यम से = through; बस = just; फार्म = form; वाक्य = sentence; महान = great. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "निकोलाई अपनी कॉपी में “इतिहास” शब्द लिखता है। फिर निकोलाई “याद” के बारे में सोचता है। जगह शांत है, इसलिए निकोलाई वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+              "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about memory. The place is quiet, so Nikolay reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "hindi-elementary-03",
+          "id": "hindi-elementary-15",
           "level": "elementary",
-          "title": "Elementary 03: शब्द 133-148",
+          "title": "Elementary 15: The Cafe Notebook",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -37517,23 +37681,24 @@ window.LANGUAGE_CURRICULUM = {
             127,
             130
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/15-elementary-the-cafe-notebook.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: जीना, वापस, दौर, आया, अच्छा. नए शब्द: लगता है, कहना, मदद, कम, रेखा, अलग, बारी, कारण. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: जीना = live; वापस = back; दौर = round; आया = came; अच्छा = good. New words: लगता है = think; कहना = say; मदद = help; कम = low; रेखा = line; अलग = differ; बारी = turn; कारण = cause. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह ओल्गा कैफ़े जाती है। वहाँ पास में चाय और संगीत है। ओल्गा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “धुन।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Olga is in the cafe. There is tea and music nearby. Olga reads slowly and notices a new word: melody. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "पेज 2",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: जीना, वापस, दौर, आया, अच्छा. नए शब्द: ज्यादा, मतलब, पहले, चाल, सही, लड़का, पुराना, भी. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: जीना = live; वापस = back; दौर = round; आया = came; अच्छा = good. New words: ज्यादा = much; मतलब = mean; पहले = before; चाल = move; सही = right; लड़का = boy; पुराना = old; भी = too. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "ओल्गा अपनी कॉपी में “धुन” शब्द लिखती है। फिर ओल्गा “सुनना” के बारे में सोचती है। जगह शांत है, इसलिए ओल्गा वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+              "en": "Olga writes the word melody in a notebook. Then Olga thinks about listening. The place is quiet, so Olga reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "hindi-elementary-04",
+          "id": "hindi-elementary-16",
           "level": "elementary",
-          "title": "Elementary 04: शब्द 149-164",
+          "title": "Elementary 16: Rain Near the Door",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -37569,23 +37734,24 @@ window.LANGUAGE_CURRICULUM = {
             143,
             146
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/16-elementary-rain-near-the-door.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: नीचे, के माध्यम से, वाक्य, कहना, रेखा. नए शब्द: वही, वह, सब, वहाँ, जब, ऊपर, उपयोग, अपने. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: नीचे = under; के माध्यम से = through; वाक्य = sentence; कहना = say; रेखा = line. New words: वही = same; वह = she; सब = all; वहाँ = there; जब = when; ऊपर = up; उपयोग = use; अपने = your. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह दीमा किताबों की दुकान जाता है। वहाँ पास में दरवाज़ा और किताब है। दीमा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “रास्ता।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Dima is in the bookshop. There is door and book nearby. Dima reads slowly and notices a new word: road. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "पेज 2",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: नीचे, के माध्यम से, वाक्य, कहना, रेखा. नए शब्द: रास्ता, के बारे में, कई, तो, उन्हें, लिखना, होगा, जैसा. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: नीचे = under; के माध्यम से = through; वाक्य = sentence; कहना = say; रेखा = line. New words: रास्ता = way; के बारे में = about; कई = many; तो = then; उन्हें = them; लिखना = write; होगा = would; जैसा = like. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "दीमा अपनी कॉपी में “रास्ता” शब्द लिखता है। फिर दीमा “बारिश” के बारे में सोचता है। जगह शांत है, इसलिए दीमा वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+              "en": "Dima writes the word road in a notebook. Then Dima thinks about rain. The place is quiet, so Dima reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "hindi-elementary-05",
+          "id": "hindi-elementary-17",
           "level": "elementary",
-          "title": "Elementary 05: शब्द 165-180",
+          "title": "Elementary 17: The Letter on the Table",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -37621,23 +37787,24 @@ window.LANGUAGE_CURRICULUM = {
             159,
             162
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/17-elementary-the-letter-on-the-table.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: ज्यादा, चाल, पुराना, वह, जब. नए शब्द: तो, इन, उसके, लंबे समय तक, कर, बात, देखना, उसे. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: ज्यादा = much; चाल = move; पुराना = old; वह = she; जब = when. New words: तो = so; इन = these; उसके = her; लंबे समय तक = long; कर = make; बात = thing; देखना = see; उसे = him. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह साशा विश्वविद्यालय जाता है। वहाँ पास में पत्र और मेज़ है। साशा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “मुलाकात।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Sasha is at the university. There is letter and table nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "पेज 2",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: ज्यादा, चाल, पुराना, वह, जब. नए शब्द: दो, है, देखो, अधिक, दिन, सकता है, जाना, आ. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: ज्यादा = much; चाल = move; पुराना = old; वह = she; जब = when. New words: दो = two; है = has; देखो = look; अधिक = more; दिन = day; सकता है = could; जाना = go; आ = come. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "साशा अपनी कॉपी में “मुलाकात” शब्द लिखता है। फिर साशा “निमंत्रण” के बारे में सोचता है। जगह शांत है, इसलिए साशा वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+              "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about invitation. The place is quiet, so Sasha reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "hindi-elementary-06",
+          "id": "hindi-elementary-18",
           "level": "elementary",
-          "title": "Elementary 06: शब्द 181-196",
+          "title": "Elementary 18: Words in the Park",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -37673,23 +37840,24 @@ window.LANGUAGE_CURRICULUM = {
             175,
             178
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/18-elementary-words-in-the-park.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: रास्ता, तो, होगा, इन, कर. नए शब्द: किया, संख्या, ध्वनि, नहीं, सबसे, लोग, मेरे, अधिक. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: रास्ता = way; तो = then; होगा = would; इन = these; कर = make. New words: किया = did; संख्या = number; ध्वनि = sound; नहीं = no; सबसे = most; लोग = people; मेरे = my; अधिक = over. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह इरीना पार्क जाती है। वहाँ पास में फ़ोन और चाय है। इरीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “तीन।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Irina is in the park. There is phone and tea nearby. Irina reads slowly and notices a new word: three. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "पेज 2",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: रास्ता, तो, होगा, इन, कर. नए शब्द: पता, पानी, से, कॉल, पहले, कौन, मई, नीचे. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: रास्ता = way; तो = then; होगा = would; इन = these; कर = make. New words: पता = know; पानी = water; से = than; कॉल = call; पहले = first; कौन = who; मई = may; नीचे = down. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "इरीना अपनी कॉपी में “तीन” शब्द लिखती है। फिर इरीना “बोलना” के बारे में सोचती है। जगह शांत है, इसलिए इरीना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+              "en": "Irina writes the word three in a notebook. Then Irina thinks about speaking. The place is quiet, so Irina reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "hindi-elementary-07",
+          "id": "hindi-elementary-19",
           "level": "elementary",
-          "title": "Elementary 07: शब्द 197-212",
+          "title": "Elementary 19: The Little Plan",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -37725,23 +37893,24 @@ window.LANGUAGE_CURRICULUM = {
             191,
             194
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/19-elementary-the-little-plan.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: दो, अधिक, जाना, संख्या, सबसे. नए शब्द: पक्ष, गया, अब, लगता है, सिर, खड़े, खुद, पेज. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: दो = two; अधिक = more; जाना = go; संख्या = number; सबसे = most. New words: पक्ष = side; गया = been; अब = now; लगता है = find; सिर = head; खड़े = stand; खुद = own; पेज = page. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह लीना दुकान जाती है। वहाँ पास में नक्शा और टोकरी है। लीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “योजना।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Lena is in the store. There is map and basket nearby. Lena reads slowly and notices a new word: plan. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "पेज 2",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: दो, अधिक, जाना, संख्या, सबसे. नए शब्द: चाहिए, देश, पाया, जवाब, स्कूल, बढ़ने, अध्ययन, अब तक. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: दो = two; अधिक = more; जाना = go; संख्या = number; सबसे = most. New words: चाहिए = should; देश = country; पाया = found; जवाब = answer; स्कूल = school; बढ़ने = grow; अध्ययन = study; अब तक = still. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "लीना अपनी कॉपी में “योजना” शब्द लिखती है। फिर लीना “खरीदारी” के बारे में सोचती है। जगह शांत है, इसलिए लीना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+              "en": "Lena writes the word plan in a notebook. Then Lena thinks about shopping. The place is quiet, so Lena reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "hindi-elementary-08",
+          "id": "hindi-elementary-20",
           "level": "elementary",
-          "title": "Elementary 08: शब्द 213-228",
+          "title": "Elementary 20: The News Page",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -37777,23 +37946,24 @@ window.LANGUAGE_CURRICULUM = {
             207,
             210
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/20-elementary-the-news-page.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: पता, कॉल, मई, गया, सिर. नए शब्द: सीखना, संयंत्र, कवर, भोजन, सूरज, चार, के बीच, राज्य. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: पता = know; कॉल = call; मई = may; गया = been; सिर = head. New words: सीखना = learn; संयंत्र = plant; कवर = cover; भोजन = food; सूरज = sun; चार = four; के बीच = between; राज्य = state. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह मारिया स्टेशन जाती है। वहाँ पास में चाय और अख़बार है। मारिया धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “समाचार।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Maria is at the station. There is tea and newspaper nearby. Maria reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "पेज 2",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: पता, कॉल, मई, गया, सिर. नए शब्द: रखना, आंख, कभी नहीं, पिछले, चलो, सोचा, शहर, पेड़. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: पता = know; कॉल = call; मई = may; गया = been; सिर = head. New words: रखना = keep; आंख = eye; कभी नहीं = never; पिछले = last; चलो = let; सोचा = thought; शहर = city; पेड़ = tree. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "मारिया अपनी कॉपी में “समाचार” शब्द लिखती है। फिर मारिया “सोच” के बारे में सोचती है। जगह शांत है, इसलिए मारिया वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+              "en": "Maria writes the word news in a notebook. Then Maria thinks about thinking. The place is quiet, so Maria reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "hindi-elementary-09",
+          "id": "hindi-elementary-21",
           "level": "elementary",
-          "title": "Elementary 09: शब्द 229-244",
+          "title": "Elementary 21: The Family Walk",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -37829,23 +37999,24 @@ window.LANGUAGE_CURRICULUM = {
             223,
             226
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/21-elementary-the-family-walk.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: चाहिए, जवाब, अध्ययन, संयंत्र, सूरज. नए शब्द: पार, खेत, कठिन, शुरुआत, हो सकता है, कहानी, देखा, दूर. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: चाहिए = should; जवाब = answer; अध्ययन = study; संयंत्र = plant; सूरज = sun. New words: पार = cross; खेत = farm; कठिन = hard; शुरुआत = start; हो सकता है = might; कहानी = story; देखा = saw; दूर = far. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह अन्ना पार्क जाती है। वहाँ पास में माँ और भाई है। अन्ना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “घर।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Anna is in the park. There is mother and brother nearby. Anna reads slowly and notices a new word: house. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "पेज 2",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: चाहिए, जवाब, अध्ययन, संयंत्र, सूरज. नए शब्द: समुद्र, आकर्षित, छोड़ा, देर से, चलाने, ऐसा नहीं, जबकि, प्रेस. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: चाहिए = should; जवाब = answer; अध्ययन = study; संयंत्र = plant; सूरज = sun. New words: समुद्र = sea; आकर्षित = draw; छोड़ा = left; देर से = late; चलाने = run; ऐसा नहीं = don’t; जबकि = while; प्रेस = press. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "अन्ना अपनी कॉपी में “घर” शब्द लिखती है। फिर अन्ना “परिवार” के बारे में सोचती है। जगह शांत है, इसलिए अन्ना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+              "en": "Anna writes the word house in a notebook. Then Anna thinks about family. The place is quiet, so Anna reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "hindi-elementary-10",
+          "id": "hindi-elementary-22",
           "level": "elementary",
-          "title": "Elementary 10: शब्द 245-260",
+          "title": "Elementary 22: The Quiet Room",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -37881,23 +38052,24 @@ window.LANGUAGE_CURRICULUM = {
             239,
             242
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/22-elementary-the-quiet-room.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: रखना, पिछले, शहर, खेत, हो सकता है. नए शब्द: करीब, रात, असली, जीवन, कुछ, उत्तर, किताब, ले. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: रखना = keep; पिछले = last; शहर = city; खेत = farm; हो सकता है = might. New words: करीब = close; रात = night; असली = real; जीवन = life; कुछ = few; उत्तर = north; किताब = book; ले = carry. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह इवान कमरे जाता है। वहाँ पास में कुर्सी और किताब है। इवान धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “कमरा।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Ivan is in the room. There is chair and book nearby. Ivan reads slowly and notices a new word: room. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "पेज 2",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: रखना, पिछले, शहर, खेत, हो सकता है. नए शब्द: ले लिया, विज्ञान, खाने, कमरे, दोस्त, शुरू हुआ, विचार, मछली. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: रखना = keep; पिछले = last; शहर = city; खेत = farm; हो सकता है = might. New words: ले लिया = took; विज्ञान = science; खाने = eat; कमरे = room; दोस्त = friend; शुरू हुआ = began; विचार = idea; मछली = fish. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "इवान अपनी कॉपी में “कमरा” शब्द लिखता है। फिर इवान “शांति” के बारे में सोचता है। जगह शांत है, इसलिए इवान वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+              "en": "Ivan writes the word room in a notebook. Then Ivan thinks about silence. The place is quiet, so Ivan reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "hindi-elementary-11",
+          "id": "hindi-elementary-23",
           "level": "elementary",
-          "title": "Elementary 11: शब्द 261-275",
+          "title": "Elementary 23: The New Teacher",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -37932,23 +38104,24 @@ window.LANGUAGE_CURRICULUM = {
             255,
             258
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/23-elementary-the-new-teacher.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: समुद्र, देर से, जबकि, रात, कुछ. नए शब्द: पहाड़, रोक, एक बार, आधार, सुनना, घोड़ा, कटौती, यकीन. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: समुद्र = sea; देर से = late; जबकि = while; रात = night; कुछ = few. New words: पहाड़ = mountain; रोक = stop; एक बार = once; आधार = base; सुनना = hear; घोड़ा = horse; कटौती = cut; यकीन = sure. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह माशा स्कूल जाती है। वहाँ पास में शिक्षक और बोर्ड है। माशा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “प्रश्न।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Masha is at school. There is teacher and board nearby. Masha reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "पेज 2",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: समुद्र, देर से, जबकि, रात, कुछ. नए शब्द: घड़ी, रंग, चेहरा, लकड़ी, मुख्य, खुला, प्रतीत. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: समुद्र = sea; देर से = late; जबकि = while; रात = night; कुछ = few. New words: घड़ी = watch; रंग = color; चेहरा = face; लकड़ी = wood; मुख्य = main; खुला = open; प्रतीत = seem. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "माशा अपनी कॉपी में “प्रश्न” शब्द लिखती है। फिर माशा “सीखना” के बारे में सोचती है। जगह शांत है, इसलिए माशा वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+              "en": "Masha writes the word question in a notebook. Then Masha thinks about learning. The place is quiet, so Masha reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "hindi-elementary-12",
+          "id": "hindi-elementary-24",
           "level": "elementary",
-          "title": "Elementary 12: शब्द 276-290",
+          "title": "Elementary 24: The Bus Stop",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -37983,23 +38156,24 @@ window.LANGUAGE_CURRICULUM = {
             270,
             273
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/24-elementary-the-bus-stop.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: ले, खाने, शुरू हुआ, पहाड़, आधार. नए शब्द: एक साथ, अगला, सफेद, बच्चों, प्रारंभ करना, मिला, चलना, उदाहरण. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: ले = carry; खाने = eat; शुरू हुआ = began; पहाड़ = mountain; आधार = base. New words: एक साथ = together; अगला = next; सफेद = white; बच्चों = children; प्रारंभ करना = begin; मिला = got; चलना = walk; उदाहरण = example. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह पावेल सड़क जाता है। वहाँ पास में टिकट और बस है। पावेल धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “समय।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Pavel is on the street. There is ticket and bus nearby. Pavel reads slowly and notices a new word: time. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "पेज 2",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: ले, खाने, शुरू हुआ, पहाड़, आधार. नए शब्द: आसानी, कागज, समूह, सदैव, संगीत, उन, दोनों. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: ले = carry; खाने = eat; शुरू हुआ = began; पहाड़ = mountain; आधार = base. New words: आसानी = ease; कागज = paper; समूह = group; सदैव = always; संगीत = music; उन = those; दोनों = both. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "पावेल अपनी कॉपी में “समय” शब्द लिखता है। फिर पावेल “इंतज़ार” के बारे में सोचता है। जगह शांत है, इसलिए पावेल वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+              "en": "Pavel writes the word time in a notebook. Then Pavel thinks about waiting. The place is quiet, so Pavel reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "hindi-elementary-13",
+          "id": "hindi-elementary-25",
           "level": "elementary",
-          "title": "Elementary 13: शब्द 291-305",
+          "title": "Elementary 25: The Small Market",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -38034,23 +38208,24 @@ window.LANGUAGE_CURRICULUM = {
             285,
             288
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/25-elementary-the-small-market.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: कटौती, रंग, मुख्य, एक साथ, बच्चों. नए शब्द: मार्क, अक्सर, पत्र, जब तक, मील, नदी, कार, पैर. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: कटौती = cut; रंग = color; मुख्य = main; एक साथ = together; बच्चों = children. New words: मार्क = mark; अक्सर = often; पत्र = letter; जब तक = until; मील = mile; नदी = river; कार = car; पैर = feet. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह ओल्गा बाज़ार जाती है। वहाँ पास में फल और बैग है। ओल्गा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “पैसा।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Olga is at the market. There is fruit and bag nearby. Olga reads slowly and notices a new word: money. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "पेज 2",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: कटौती, रंग, मुख्य, एक साथ, बच्चों. नए शब्द: देखभाल, दूसरा, पर्याप्त, सादे, लड़की, हमेशा की तरह, युवा. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: कटौती = cut; रंग = color; मुख्य = main; एक साथ = together; बच्चों = children. New words: देखभाल = care; दूसरा = second; पर्याप्त = enough; सादे = plain; लड़की = girl; हमेशा की तरह = usual; युवा = young. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "ओल्गा अपनी कॉपी में “पैसा” शब्द लिखती है। फिर ओल्गा “बाज़ार” के बारे में सोचती है। जगह शांत है, इसलिए ओल्गा वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+              "en": "Olga writes the word money in a notebook. Then Olga thinks about market. The place is quiet, so Olga reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "hindi-elementary-14",
+          "id": "hindi-elementary-26",
           "level": "elementary",
-          "title": "Elementary 14: शब्द 306-320",
+          "title": "Elementary 26: The First Conversation",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -38085,23 +38260,24 @@ window.LANGUAGE_CURRICULUM = {
             300,
             303
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/26-elementary-the-first-conversation.txt",
           "sections": [
             {
-              "heading": "पेज 1",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: चलना, कागज, संगीत, मार्क, जब तक. नए शब्द: तैयार, ऊपर, कभी, लाल, सूची, हालांकि, लग रहा है, वार्ता. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: चलना = walk; कागज = paper; संगीत = music; मार्क = mark; जब तक = until. New words: तैयार = ready; ऊपर = above; कभी = ever; लाल = red; सूची = list; हालांकि = though; लग रहा है = feel; वार्ता = talk. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह दीमा कैफ़े जाता है। वहाँ पास में फ़ोन और दोस्त है। दीमा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “वाक्य।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Dima is in the cafe. There is phone and friend nearby. Dima reads slowly and notices a new word: sentence. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "पेज 2",
-              "ru": "इस कहानी में विद्यार्थी पुराने शब्द दोहराता है और नए शब्द जोड़ता है। दोहराने वाले शब्द: चलना, कागज, संगीत, मार्क, जब तक. नए शब्द: पक्षी, शीघ्र, शरीर, कुत्ते, परिवार, प्रत्यक्ष, ढोंग. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: चलना = walk; कागज = paper; संगीत = music; मार्क = mark; जब तक = until. New words: पक्षी = bird; शीघ्र = soon; शरीर = body; कुत्ते = dog; परिवार = family; प्रत्यक्ष = direct; ढोंग = pose. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "दीमा अपनी कॉपी में “वाक्य” शब्द लिखता है। फिर दीमा “बातचीत” के बारे में सोचता है। जगह शांत है, इसलिए दीमा वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+              "en": "Dima writes the word sentence in a notebook. Then Dima thinks about talk. The place is quiet, so Dima reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "hindi-intermediate-01",
+          "id": "hindi-intermediate-27",
           "level": "intermediate",
-          "title": "Intermediate 01: शब्द 321-344",
+          "title": "Intermediate 27: The Lost Note",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -38145,28 +38321,29 @@ window.LANGUAGE_CURRICULUM = {
             315,
             318
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/27-intermediate-the-lost-note.txt",
           "sections": [
             {
-              "heading": "अध्याय 1 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: कार, दूसरा, लड़की, तैयार, लाल. नए शब्द: छोड़, गीत, नाप, दरवाजा, उत्पाद, काला, कम, अंक. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: कार = car; दूसरा = second; लड़की = girl; तैयार = ready; लाल = red. New words: छोड़ = leave; गीत = song; नाप = measure; दरवाजा = door; उत्पाद = product; काला = black; कम = short; अंक = numeral. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह कात्या पुस्तकालय जाती है। वहाँ पास में नोट और नक्शा है। कात्या धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “जगह।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Katya is in the library. There is note and map nearby. Katya reads slowly and notices a new word: place. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "अध्याय 2 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: कार, दूसरा, लड़की, तैयार, लाल. नए शब्द: क्लास, हवा, सवाल, होना, पूरा, जहाज, क्षेत्र, आधा. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: कार = car; दूसरा = second; लड़की = girl; तैयार = ready; लाल = red. New words: क्लास = class; हवा = wind; सवाल = question; होना = happen; पूरा = complete; जहाज = ship; क्षेत्र = area; आधा = half. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "कात्या अपनी कॉपी में “जगह” शब्द लिखती है। फिर कात्या “खोज” के बारे में सोचती है। जगह शांत है, इसलिए कात्या वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+              "en": "Katya writes the word place in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
             },
             {
-              "heading": "अध्याय 3 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: कार, दूसरा, लड़की, तैयार, लाल. नए शब्द: रॉक, आदेश, आग, दक्षिण, समस्या, टुकड़ा, बताया, पता था. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: कार = car; दूसरा = second; लड़की = girl; तैयार = ready; लाल = red. New words: रॉक = rock; आदेश = order; आग = fire; दक्षिण = south; समस्या = problem; टुकड़ा = piece; बताया = told; पता था = knew. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "एक छोटी-सी समस्या आती है, लेकिन कात्या नए शब्दों का इस्तेमाल करती है। कात्या नोट को देखती है, फिर नक्शा को देखती है, और एक आसान योजना बनाती है। अंत में कात्या एक साफ़ वाक्य कह सकती है।",
+              "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the note, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
             }
           ]
         },
         {
-          "id": "hindi-intermediate-02",
+          "id": "hindi-intermediate-28",
           "level": "intermediate",
-          "title": "Intermediate 02: शब्द 345-368",
+          "title": "Intermediate 28: A Meeting at Noon",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -38210,28 +38387,29 @@ window.LANGUAGE_CURRICULUM = {
             339,
             342
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/28-intermediate-a-meeting-at-noon.txt",
           "sections": [
             {
-              "heading": "अध्याय 1 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: छोड़, दरवाजा, कम, हवा, पूरा. नए शब्द: पास, के बाद से, शीर्ष, पूरे, राजा, सड़क, इंच, गुणा. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: छोड़ = leave; दरवाजा = door; कम = short; हवा = wind; पूरा = complete. New words: पास = pass; के बाद से = since; शीर्ष = top; पूरे = whole; राजा = king; सड़क = street; इंच = inch; गुणा = multiply. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह साशा विश्वविद्यालय जाता है। वहाँ पास में घड़ी और पत्र है। साशा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “दोपहर।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Sasha is at the university. There is clock and letter nearby. Sasha reads slowly and notices a new word: noon. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "अध्याय 2 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: छोड़, दरवाजा, कम, हवा, पूरा. नए शब्द: कुछ नहीं, कोर्स, रहना, पहिया, पूर्ण, बल, नीला, वस्तु. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: छोड़ = leave; दरवाजा = door; कम = short; हवा = wind; पूरा = complete. New words: कुछ नहीं = nothing; कोर्स = course; रहना = stay; पहिया = wheel; पूर्ण = full; बल = force; नीला = blue; वस्तु = object. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "साशा अपनी कॉपी में “दोपहर” शब्द लिखता है। फिर साशा “मुलाकात” के बारे में सोचता है। जगह शांत है, इसलिए साशा वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+              "en": "Sasha writes the word noon in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
             },
             {
-              "heading": "अध्याय 3 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: छोड़, दरवाजा, कम, हवा, पूरा. नए शब्द: तय, सतह, गहरा, चांद, द्वीप, पैर, प्रणाली, व्यस्त. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: छोड़ = leave; दरवाजा = door; कम = short; हवा = wind; पूरा = complete. New words: तय = decide; सतह = surface; गहरा = deep; चांद = moon; द्वीप = island; पैर = foot; प्रणाली = system; व्यस्त = busy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "एक छोटी-सी समस्या आती है, लेकिन साशा नए शब्दों का इस्तेमाल करता है। साशा घड़ी को देखता है, फिर पत्र को देखता है, और एक आसान योजना बनाता है। अंत में साशा एक साफ़ वाक्य कह सकता है।",
+              "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the clock, looks at the letter, and makes a simple plan. By the end, Sasha can say one clear sentence."
             }
           ]
         },
         {
-          "id": "hindi-intermediate-03",
+          "id": "hindi-intermediate-29",
           "level": "intermediate",
-          "title": "Intermediate 03: शब्द 369-392",
+          "title": "Intermediate 29: The Old Map",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -38275,28 +38453,29 @@ window.LANGUAGE_CURRICULUM = {
             363,
             366
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/29-intermediate-the-old-map.txt",
           "sections": [
             {
-              "heading": "अध्याय 1 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: पास, पूरे, इंच, कोर्स, पूर्ण. नए शब्द: परीक्षण, रिकॉर्ड, नाव, आम, सोना, संभव, विमान, जगह. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: पास = pass; पूरे = whole; इंच = inch; कोर्स = course; पूर्ण = full. New words: परीक्षण = test; रिकॉर्ड = record; नाव = boat; आम = common; सोना = gold; संभव = possible; विमान = plane; जगह = stead. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह निकोलाई संग्रहालय जाता है। वहाँ पास में नक्शा और सड़क है। निकोलाई धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “शहर।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Nikolay is in the museum. There is map and street nearby. Nikolay reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "अध्याय 2 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: पास, पूरे, इंच, कोर्स, पूर्ण. नए शब्द: सूखा, आश्चर्य, हंसी, हजार, पहले, भागा, जाँच, खेल. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: पास = pass; पूरे = whole; इंच = inch; कोर्स = course; पूर्ण = full. New words: सूखा = dry; आश्चर्य = wonder; हंसी = laugh; हजार = thousand; पहले = ago; भागा = ran; जाँच = check; खेल = game. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "निकोलाई अपनी कॉपी में “शहर” शब्द लिखता है। फिर निकोलाई “इतिहास” के बारे में सोचता है। जगह शांत है, इसलिए निकोलाई वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+              "en": "Nikolay writes the word city in a notebook. Then Nikolay thinks about history. The place is quiet, so Nikolay reads the sentence again and says it softly."
             },
             {
-              "heading": "अध्याय 3 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: पास, पूरे, इंच, कोर्स, पूर्ण. नए शब्द: आकार, समानता, गरम, मिस, लाया, गर्मी, बर्फ, टायर. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: पास = pass; पूरे = whole; इंच = inch; कोर्स = course; पूर्ण = full. New words: आकार = shape; समानता = equate; गरम = hot; मिस = miss; लाया = brought; गर्मी = heat; बर्फ = snow; टायर = tire. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "एक छोटी-सी समस्या आती है, लेकिन निकोलाई नए शब्दों का इस्तेमाल करता है। निकोलाई नक्शा को देखता है, फिर सड़क को देखता है, और एक आसान योजना बनाता है। अंत में निकोलाई एक साफ़ वाक्य कह सकता है।",
+              "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the map, looks at the street, and makes a simple plan. By the end, Nikolay can say one clear sentence."
             }
           ]
         },
         {
-          "id": "hindi-intermediate-04",
+          "id": "hindi-intermediate-30",
           "level": "intermediate",
-          "title": "Intermediate 04: शब्द 393-416",
+          "title": "Intermediate 30: The Rainy Lesson",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -38340,28 +38519,29 @@ window.LANGUAGE_CURRICULUM = {
             387,
             390
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/30-intermediate-the-rainy-lesson.txt",
           "sections": [
             {
-              "heading": "अध्याय 1 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: परीक्षण, आम, विमान, आश्चर्य, पहले. नए शब्द: लाना, हां, दूर, भरने, पूर्व, रंग, भाषा, के बीच. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: परीक्षण = test; आम = common; विमान = plane; आश्चर्य = wonder; पहले = ago. New words: लाना = bring; हां = yes; दूर = distant; भरने = fill; पूर्व = east; रंग = paint; भाषा = language; के बीच = among. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह इरीना स्कूल जाती है। वहाँ पास में खिड़की और बारिश है। इरीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “मौसम।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Irina is at school. There is window and rain nearby. Irina reads slowly and notices a new word: weather. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "अध्याय 2 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: परीक्षण, आम, विमान, आश्चर्य, पहले. नए शब्द: इकाई, बिजली, शहर, ठीक, कुछ, मक्खी, गिरावट, नेतृत्व. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: परीक्षण = test; आम = common; विमान = plane; आश्चर्य = wonder; पहले = ago. New words: इकाई = unit; बिजली = power; शहर = town; ठीक = fine; कुछ = certain; मक्खी = fly; गिरावट = fall; नेतृत्व = lead. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "इरीना अपनी कॉपी में “मौसम” शब्द लिखती है। फिर इरीना “पढ़ाई” के बारे में सोचती है। जगह शांत है, इसलिए इरीना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+              "en": "Irina writes the word weather in a notebook. Then Irina thinks about study. The place is quiet, so Irina reads the sentence again and says it softly."
             },
             {
-              "heading": "अध्याय 3 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: परीक्षण, आम, विमान, आश्चर्य, पहले. नए शब्द: रोना, अंधेरा, मशीन, नोट, इंतजार, योजना, आंकड़ा, सितारा. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: परीक्षण = test; आम = common; विमान = plane; आश्चर्य = wonder; पहले = ago. New words: रोना = cry; अंधेरा = dark; मशीन = machine; नोट = note; इंतजार = wait; योजना = plan; आंकड़ा = figure; सितारा = star. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "एक छोटी-सी समस्या आती है, लेकिन इरीना नए शब्दों का इस्तेमाल करती है। इरीना खिड़की को देखती है, फिर बारिश को देखती है, और एक आसान योजना बनाती है। अंत में इरीना एक साफ़ वाक्य कह सकती है।",
+              "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the window, looks at the rain, and makes a simple plan. By the end, Irina can say one clear sentence."
             }
           ]
         },
         {
-          "id": "hindi-intermediate-05",
+          "id": "hindi-intermediate-31",
           "level": "intermediate",
-          "title": "Intermediate 05: शब्द 417-440",
+          "title": "Intermediate 31: The Museum Question",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -38405,28 +38585,29 @@ window.LANGUAGE_CURRICULUM = {
             411,
             414
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/31-intermediate-the-museum-question.txt",
           "sections": [
             {
-              "heading": "अध्याय 1 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: लाना, भरने, भाषा, बिजली, कुछ. नए शब्द: बॉक्स, संज्ञा, क्षेत्र, बाकी, सही, सक्षम, पाउंड, किया. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: लाना = bring; भरने = fill; भाषा = language; बिजली = power; कुछ = certain. New words: बॉक्स = box; संज्ञा = noun; क्षेत्र = field; बाकी = rest; सही = correct; सक्षम = able; पाउंड = pound; किया = done. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह पावेल संग्रहालय जाता है। वहाँ पास में तस्वीर और कॉपी है। पावेल धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “प्रश्न।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Pavel is in the museum. There is picture and notebook nearby. Pavel reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "अध्याय 2 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: लाना, भरने, भाषा, बिजली, कुछ. नए शब्द: सुंदरता, ड्राइव, खड़ा हुआ, होते हैं, सामने, सिखाना, सप्ताह, अंतिम. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: लाना = bring; भरने = fill; भाषा = language; बिजली = power; कुछ = certain. New words: सुंदरता = beauty; ड्राइव = drive; खड़ा हुआ = stood; होते हैं = contain; सामने = front; सिखाना = teach; सप्ताह = week; अंतिम = final. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "पावेल अपनी कॉपी में “प्रश्न” शब्द लिखता है। फिर पावेल “उत्तर” के बारे में सोचता है। जगह शांत है, इसलिए पावेल वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+              "en": "Pavel writes the word question in a notebook. Then Pavel thinks about answer. The place is quiet, so Pavel reads the sentence again and says it softly."
             },
             {
-              "heading": "अध्याय 3 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: लाना, भरने, भाषा, बिजली, कुछ. नए शब्द: दिया, हरे रंग, ओह, त्वरित, विकसित, सागर, गर्म, मुक्त. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: लाना = bring; भरने = fill; भाषा = language; बिजली = power; कुछ = certain. New words: दिया = gave; हरे रंग = green; ओह = oh; त्वरित = quick; विकसित = develop; सागर = ocean; गर्म = warm; मुक्त = free. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "एक छोटी-सी समस्या आती है, लेकिन पावेल नए शब्दों का इस्तेमाल करता है। पावेल तस्वीर को देखता है, फिर कॉपी को देखता है, और एक आसान योजना बनाता है। अंत में पावेल एक साफ़ वाक्य कह सकता है।",
+              "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the picture, looks at the notebook, and makes a simple plan. By the end, Pavel can say one clear sentence."
             }
           ]
         },
         {
-          "id": "hindi-intermediate-06",
+          "id": "hindi-intermediate-32",
           "level": "intermediate",
-          "title": "Intermediate 06: शब्द 441-464",
+          "title": "Intermediate 32: The Train Delay",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -38470,28 +38651,29 @@ window.LANGUAGE_CURRICULUM = {
             435,
             438
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/32-intermediate-the-train-delay.txt",
           "sections": [
             {
-              "heading": "अध्याय 1 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: बॉक्स, बाकी, पाउंड, ड्राइव, सामने. नए शब्द: मिनट, मजबूत, विशेष, मन, पीछे, स्पष्ट, पूंछ, उत्पादन. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: बॉक्स = box; बाकी = rest; पाउंड = pound; ड्राइव = drive; सामने = front. New words: मिनट = minute; मजबूत = strong; विशेष = special; मन = mind; पीछे = behind; स्पष्ट = clear; पूंछ = tail; उत्पादन = produce. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह मारिया स्टेशन जाती है। वहाँ पास में टिकट और घड़ी है। मारिया धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “रुकना।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Maria is at the station. There is ticket and clock nearby. Maria reads slowly and notices a new word: wait. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "अध्याय 2 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: बॉक्स, बाकी, पाउंड, ड्राइव, सामने. नए शब्द: तथ्य, अंतरिक्ष, सुना, सर्वश्रेष्ठ, घंटे, बेहतर, सच, दौरान. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: बॉक्स = box; बाकी = rest; पाउंड = pound; ड्राइव = drive; सामने = front. New words: तथ्य = fact; अंतरिक्ष = space; सुना = heard; सर्वश्रेष्ठ = best; घंटे = hour; बेहतर = better; सच = true; दौरान = during. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "मारिया अपनी कॉपी में “रुकना” शब्द लिखती है। फिर मारिया “यात्रा” के बारे में सोचती है। जगह शांत है, इसलिए मारिया वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+              "en": "Maria writes the word wait in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
             },
             {
-              "heading": "अध्याय 3 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: बॉक्स, बाकी, पाउंड, ड्राइव, सामने. नए शब्द: सौ, पांच, याद, कदम, शीघ्र, पकड़, पश्चिम, जमीन. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: बॉक्स = box; बाकी = rest; पाउंड = pound; ड्राइव = drive; सामने = front. New words: सौ = hundred; पांच = five; याद = remember; कदम = step; शीघ्र = early; पकड़ = hold; पश्चिम = west; जमीन = ground. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "एक छोटी-सी समस्या आती है, लेकिन मारिया नए शब्दों का इस्तेमाल करती है। मारिया टिकट को देखती है, फिर घड़ी को देखती है, और एक आसान योजना बनाती है। अंत में मारिया एक साफ़ वाक्य कह सकती है।",
+              "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the clock, and makes a simple plan. By the end, Maria can say one clear sentence."
             }
           ]
         },
         {
-          "id": "hindi-intermediate-07",
+          "id": "hindi-intermediate-33",
           "level": "intermediate",
-          "title": "Intermediate 07: शब्द 465-488",
+          "title": "Intermediate 33: Music in the Cafe",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -38535,28 +38717,29 @@ window.LANGUAGE_CURRICULUM = {
             459,
             462
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/33-intermediate-music-in-the-cafe.txt",
           "sections": [
             {
-              "heading": "अध्याय 1 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: मिनट, मन, पूंछ, अंतरिक्ष, घंटे. नए शब्द: ब्याज, तक पहुँचने, तेजी, क्रिया, गाना, सुनो, छह, तालिका. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: मिनट = minute; मन = mind; पूंछ = tail; अंतरिक्ष = space; घंटे = hour. New words: ब्याज = interest; तक पहुँचने = reach; तेजी = fast; क्रिया = verb; गाना = sing; सुनो = listen; छह = six; तालिका = table. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह ओल्गा कैफ़े जाती है। वहाँ पास में संगीत और चाय है। ओल्गा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “गीत।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Olga is in the cafe. There is music and tea nearby. Olga reads slowly and notices a new word: song. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "अध्याय 2 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: मिनट, मन, पूंछ, अंतरिक्ष, घंटे. नए शब्द: यात्रा, कम, सुबह, दस, सरल, कई, स्वर, की ओर. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: मिनट = minute; मन = mind; पूंछ = tail; अंतरिक्ष = space; घंटे = hour. New words: यात्रा = travel; कम = less; सुबह = morning; दस = ten; सरल = simple; कई = several; स्वर = vowel; की ओर = toward. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "ओल्गा अपनी कॉपी में “गीत” शब्द लिखती है। फिर ओल्गा “याद” के बारे में सोचती है। जगह शांत है, इसलिए ओल्गा वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+              "en": "Olga writes the word song in a notebook. Then Olga thinks about memory. The place is quiet, so Olga reads the sentence again and says it softly."
             },
             {
-              "heading": "अध्याय 3 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: मिनट, मन, पूंछ, अंतरिक्ष, घंटे. नए शब्द: युद्ध, रखना, के खिलाफ, पैटर्न, धीमी, केंद्र, प्यार, व्यक्ति. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: मिनट = minute; मन = mind; पूंछ = tail; अंतरिक्ष = space; घंटे = hour. New words: युद्ध = war; रखना = lay; के खिलाफ = against; पैटर्न = pattern; धीमी = slow; केंद्र = center; प्यार = love; व्यक्ति = person. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "एक छोटी-सी समस्या आती है, लेकिन ओल्गा नए शब्दों का इस्तेमाल करती है। ओल्गा संगीत को देखती है, फिर चाय को देखती है, और एक आसान योजना बनाती है। अंत में ओल्गा एक साफ़ वाक्य कह सकती है।",
+              "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the music, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
             }
           ]
         },
         {
-          "id": "hindi-intermediate-08",
+          "id": "hindi-intermediate-34",
           "level": "intermediate",
-          "title": "Intermediate 08: शब्द 489-512",
+          "title": "Intermediate 34: A Letter from a Friend",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -38600,28 +38783,29 @@ window.LANGUAGE_CURRICULUM = {
             483,
             486
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/34-intermediate-a-letter-from-a-friend.txt",
           "sections": [
             {
-              "heading": "अध्याय 1 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: ब्याज, क्रिया, छह, कम, सरल. नए शब्द: धन, सेवा कर, प्रकट, सड़क, नक्शा, बारिश, नियम, शासन. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: ब्याज = interest; क्रिया = verb; छह = six; कम = less; सरल = simple. New words: धन = money; सेवा कर = serve; प्रकट = appear; सड़क = road; नक्शा = map; बारिश = rain; नियम = rule; शासन = govern. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह दीमा घर जाता है। वहाँ पास में पत्र और फ़ोन है। दीमा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “दोस्त।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Dima is at home. There is letter and phone nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "अध्याय 2 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: ब्याज, क्रिया, छह, कम, सरल. नए शब्द: खींच, ठंड, नोटिस, आवाज, ऊर्जा, शिकार, संभावित, बिस्तर. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: ब्याज = interest; क्रिया = verb; छह = six; कम = less; सरल = simple. New words: खींच = pull; ठंड = cold; नोटिस = notice; आवाज = voice; ऊर्जा = energy; शिकार = hunt; संभावित = probable; बिस्तर = bed. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "दीमा अपनी कॉपी में “दोस्त” शब्द लिखता है। फिर दीमा “निमंत्रण” के बारे में सोचता है। जगह शांत है, इसलिए दीमा वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+              "en": "Dima writes the word friend in a notebook. Then Dima thinks about invitation. The place is quiet, so Dima reads the sentence again and says it softly."
             },
             {
-              "heading": "अध्याय 3 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: ब्याज, क्रिया, छह, कम, सरल. नए शब्द: भाई, अंडा, सवारी, सेल, विश्वास है, शायद, उठाओ, अचानक. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: ब्याज = interest; क्रिया = verb; छह = six; कम = less; सरल = simple. New words: भाई = brother; अंडा = egg; सवारी = ride; सेल = cell; विश्वास है = believe; शायद = perhaps; उठाओ = pick; अचानक = sudden. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "एक छोटी-सी समस्या आती है, लेकिन दीमा नए शब्दों का इस्तेमाल करता है। दीमा पत्र को देखता है, फिर फ़ोन को देखता है, और एक आसान योजना बनाता है। अंत में दीमा एक साफ़ वाक्य कह सकता है।",
+              "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the letter, looks at the phone, and makes a simple plan. By the end, Dima can say one clear sentence."
             }
           ]
         },
         {
-          "id": "hindi-intermediate-09",
+          "id": "hindi-intermediate-35",
           "level": "intermediate",
-          "title": "Intermediate 09: शब्द 513-535",
+          "title": "Intermediate 35: The School Project",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -38664,28 +38848,29 @@ window.LANGUAGE_CURRICULUM = {
             507,
             510
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/35-intermediate-the-school-project.txt",
           "sections": [
             {
-              "heading": "अध्याय 1 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: धन, सड़क, नियम, ठंड, ऊर्जा. नए शब्द: गिनती, वर्ग, कारण, लंबाई, का प्रतिनिधित्व, कला, विषय, क्षेत्र. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: धन = money; सड़क = road; नियम = rule; ठंड = cold; ऊर्जा = energy. New words: गिनती = count; वर्ग = square; कारण = reason; लंबाई = length; का प्रतिनिधित्व = represent; कला = art; विषय = subject; क्षेत्र = region. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह माशा स्कूल जाती है। वहाँ पास में कागज़ और शिक्षक है। माशा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “परियोजना।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Masha is at school. There is paper and teacher nearby. Masha reads slowly and notices a new word: project. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "अध्याय 2 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: धन, सड़क, नियम, ठंड, ऊर्जा. नए शब्द: आकार, भिन्न हो, बसा, बोलना, वजन, सामान्य, बर्फ, मामला. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: धन = money; सड़क = road; नियम = rule; ठंड = cold; ऊर्जा = energy. New words: आकार = size; भिन्न हो = vary; बसा = settle; बोलना = speak; वजन = weight; सामान्य = general; बर्फ = ice; मामला = matter. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "माशा अपनी कॉपी में “परियोजना” शब्द लिखती है। फिर माशा “समूह” के बारे में सोचती है। जगह शांत है, इसलिए माशा वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+              "en": "Masha writes the word project in a notebook. Then Masha thinks about group. The place is quiet, so Masha reads the sentence again and says it softly."
             },
             {
-              "heading": "अध्याय 3 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: धन, सड़क, नियम, ठंड, ऊर्जा. नए शब्द: वृत्त, जोड़ी, शामिल, विभाजन, शब्दांश, लगा, भव्य. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: धन = money; सड़क = road; नियम = rule; ठंड = cold; ऊर्जा = energy. New words: वृत्त = circle; जोड़ी = pair; शामिल = include; विभाजन = divide; शब्दांश = syllable; लगा = felt; भव्य = grand. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "एक छोटी-सी समस्या आती है, लेकिन माशा नए शब्दों का इस्तेमाल करती है। माशा कागज़ को देखती है, फिर शिक्षक को देखती है, और एक आसान योजना बनाती है। अंत में माशा एक साफ़ वाक्य कह सकती है।",
+              "en": "A small problem appears, but Masha uses the new words to understand it. Masha checks the paper, looks at the teacher, and makes a simple plan. By the end, Masha can say one clear sentence."
             }
           ]
         },
         {
-          "id": "hindi-intermediate-10",
+          "id": "hindi-intermediate-36",
           "level": "intermediate",
-          "title": "Intermediate 10: शब्द 536-558",
+          "title": "Intermediate 36: The City Walk",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -38728,28 +38913,29 @@ window.LANGUAGE_CURRICULUM = {
             530,
             533
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/36-intermediate-the-city-walk.txt",
           "sections": [
             {
-              "heading": "अध्याय 1 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: अचानक, कारण, कला, आकार, बोलना. नए शब्द: गेंद, अभी तक, लहर, ड्रॉप, दिल, AM, वर्तमान, भारी. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: अचानक = sudden; कारण = reason; कला = art; आकार = size; बोलना = speak. New words: गेंद = ball; अभी तक = yet; लहर = wave; ड्रॉप = drop; दिल = heart; AM = am; वर्तमान = present; भारी = heavy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह अन्ना शहर जाती है। वहाँ पास में सड़क और खिड़की है। अन्ना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “सैर।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Anna is in the city. There is street and window nearby. Anna reads slowly and notices a new word: walk. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "अध्याय 2 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: अचानक, कारण, कला, आकार, बोलना. नए शब्द: नृत्य, इंजन, स्थिति, बांह, विस्तृत, स्टील अथॉरिटी ऑफ इंडिया, सामग्री, अंश. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: अचानक = sudden; कारण = reason; कला = art; आकार = size; बोलना = speak. New words: नृत्य = dance; इंजन = engine; स्थिति = position; बांह = arm; विस्तृत = wide; स्टील अथॉरिटी ऑफ इंडिया = sail; सामग्री = material; अंश = fraction. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "अन्ना अपनी कॉपी में “सैर” शब्द लिखती है। फिर अन्ना “जगह” के बारे में सोचती है। जगह शांत है, इसलिए अन्ना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+              "en": "Anna writes the word walk in a notebook. Then Anna thinks about place. The place is quiet, so Anna reads the sentence again and says it softly."
             },
             {
-              "heading": "अध्याय 3 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: अचानक, कारण, कला, आकार, बोलना. नए शब्द: वन, बैठना, दौड़, खिड़की, दुकान, गर्मियों, सफर. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: अचानक = sudden; कारण = reason; कला = art; आकार = size; बोलना = speak. New words: वन = forest; बैठना = sit; दौड़ = race; खिड़की = window; दुकान = store; गर्मियों = summer; सफर = train. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "एक छोटी-सी समस्या आती है, लेकिन अन्ना नए शब्दों का इस्तेमाल करती है। अन्ना सड़क को देखती है, फिर खिड़की को देखती है, और एक आसान योजना बनाती है। अंत में अन्ना एक साफ़ वाक्य कह सकती है।",
+              "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the street, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
             }
           ]
         },
         {
-          "id": "hindi-intermediate-11",
+          "id": "hindi-intermediate-37",
           "level": "intermediate",
-          "title": "Intermediate 11: शब्द 559-581",
+          "title": "Intermediate 37: The Bookshop Door",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -38792,28 +38978,29 @@ window.LANGUAGE_CURRICULUM = {
             553,
             556
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/37-intermediate-the-bookshop-door.txt",
           "sections": [
             {
-              "heading": "अध्याय 1 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: भव्य, लहर, AM, नृत्य, बांह. नए शब्द: नींद, साबित, लोन, पैर, व्यायाम, दीवार, पकड़, माउंट. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: भव्य = grand; लहर = wave; AM = am; नृत्य = dance; बांह = arm. New words: नींद = sleep; साबित = prove; लोन = lone; पैर = leg; व्यायाम = exercise; दीवार = wall; पकड़ = catch; माउंट = mount. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह इवान किताबों की दुकान जाता है। वहाँ पास में दरवाज़ा और किताब है। इवान धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “खोलना।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Ivan is in the bookshop. There is door and book nearby. Ivan reads slowly and notices a new word: open. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "अध्याय 2 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: भव्य, लहर, AM, नृत्य, बांह. नए शब्द: इच्छा, आसमान, बोर्ड, हर्ष, सर्दियों, शनि, लिखित, जंगली. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: भव्य = grand; लहर = wave; AM = am; नृत्य = dance; बांह = arm. New words: इच्छा = wish; आसमान = sky; बोर्ड = board; हर्ष = joy; सर्दियों = winter; शनि = sat; लिखित = written; जंगली = wild. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "इवान अपनी कॉपी में “खोलना” शब्द लिखता है। फिर इवान “पढ़ना” के बारे में सोचता है। जगह शांत है, इसलिए इवान वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+              "en": "Ivan writes the word open in a notebook. Then Ivan thinks about reading. The place is quiet, so Ivan reads the sentence again and says it softly."
             },
             {
-              "heading": "अध्याय 3 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: भव्य, लहर, AM, नृत्य, बांह. नए शब्द: साधन, रखा, कांच, घास, गाय, काम, बढ़त. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: भव्य = grand; लहर = wave; AM = am; नृत्य = dance; बांह = arm. New words: साधन = instrument; रखा = kept; कांच = glass; घास = grass; गाय = cow; काम = job; बढ़त = edge. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "एक छोटी-सी समस्या आती है, लेकिन इवान नए शब्दों का इस्तेमाल करता है। इवान दरवाज़ा को देखता है, फिर किताब को देखता है, और एक आसान योजना बनाता है। अंत में इवान एक साफ़ वाक्य कह सकता है।",
+              "en": "A small problem appears, but Ivan uses the new words to understand it. Ivan checks the door, looks at the book, and makes a simple plan. By the end, Ivan can say one clear sentence."
             }
           ]
         },
         {
-          "id": "hindi-intermediate-12",
+          "id": "hindi-intermediate-38",
           "level": "intermediate",
-          "title": "Intermediate 12: शब्द 582-604",
+          "title": "Intermediate 38: The Family Story",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -38856,28 +39043,29 @@ window.LANGUAGE_CURRICULUM = {
             576,
             579
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/38-intermediate-the-family-story.txt",
           "sections": [
             {
-              "heading": "अध्याय 1 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: सफर, लोन, दीवार, इच्छा, हर्ष. नए शब्द: साइन, यात्रा, अतीत, मुलायम, मज़ा, उज्ज्वल, गैस, मौसम. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: सफर = train; लोन = lone; दीवार = wall; इच्छा = wish; हर्ष = joy. New words: साइन = sign; यात्रा = visit; अतीत = past; मुलायम = soft; मज़ा = fun; उज्ज्वल = bright; गैस = gas; मौसम = weather. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह लीना घर जाती है। वहाँ पास में माँ और फ़ोटो है। लीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “कहानी।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Lena is at home. There is mother and photo nearby. Lena reads slowly and notices a new word: story. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "अध्याय 2 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: सफर, लोन, दीवार, इच्छा, हर्ष. नए शब्द: माह, लाख, भालू, खत्म, खुश, आशा, फूल, कपड़े. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: सफर = train; लोन = lone; दीवार = wall; इच्छा = wish; हर्ष = joy. New words: माह = month; लाख = million; भालू = bear; खत्म = finish; खुश = happy; आशा = hope; फूल = flower; कपड़े = clothe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "लीना अपनी कॉपी में “कहानी” शब्द लिखती है। फिर लीना “परिवार” के बारे में सोचती है। जगह शांत है, इसलिए लीना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+              "en": "Lena writes the word story in a notebook. Then Lena thinks about family. The place is quiet, so Lena reads the sentence again and says it softly."
             },
             {
-              "heading": "अध्याय 3 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: सफर, लोन, दीवार, इच्छा, हर्ष. नए शब्द: अजीब, चला गया, व्यापार, राग, यात्रा, कार्यालय, प्राप्त करना. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: सफर = train; लोन = lone; दीवार = wall; इच्छा = wish; हर्ष = joy. New words: अजीब = strange; चला गया = gone; व्यापार = trade; राग = melody; यात्रा = trip; कार्यालय = office; प्राप्त करना = receive. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "एक छोटी-सी समस्या आती है, लेकिन लीना नए शब्दों का इस्तेमाल करती है। लीना माँ को देखती है, फिर फ़ोटो को देखती है, और एक आसान योजना बनाती है। अंत में लीना एक साफ़ वाक्य कह सकती है।",
+              "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the mother, looks at the photo, and makes a simple plan. By the end, Lena can say one clear sentence."
             }
           ]
         },
         {
-          "id": "hindi-intermediate-13",
+          "id": "hindi-intermediate-39",
           "level": "intermediate",
-          "title": "Intermediate 13: शब्द 605-627",
+          "title": "Intermediate 39: The Important Word",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -38920,28 +39108,29 @@ window.LANGUAGE_CURRICULUM = {
             599,
             602
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/39-intermediate-the-important-word.txt",
           "sections": [
             {
-              "heading": "अध्याय 1 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: बढ़त, अतीत, उज्ज्वल, माह, खत्म. नए शब्द: पंक्ति, मुंह, सटीक, प्रतीक, मरना, कम से कम, मुसीबत, चिल्लाओ. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: बढ़त = edge; अतीत = past; उज्ज्वल = bright; माह = month; खत्म = finish. New words: पंक्ति = row; मुंह = mouth; सटीक = exact; प्रतीक = symbol; मरना = die; कम से कम = least; मुसीबत = trouble; चिल्लाओ = shout. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह पावेल पुस्तकालय जाता है। वहाँ पास में शब्दकोश और कागज़ है। पावेल धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “अर्थ।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Pavel is in the library. There is dictionary and paper nearby. Pavel reads slowly and notices a new word: meaning. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "अध्याय 2 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: बढ़त, अतीत, उज्ज्वल, माह, खत्म. नए शब्द: सिवाय, लिखा, बीज, स्वर, शामिल होने, सुझाव है, साफ, तोड़. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: बढ़त = edge; अतीत = past; उज्ज्वल = bright; माह = month; खत्म = finish. New words: सिवाय = except; लिखा = wrote; बीज = seed; स्वर = tone; शामिल होने = join; सुझाव है = suggest; साफ = clean; तोड़ = break. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "पावेल अपनी कॉपी में “अर्थ” शब्द लिखता है। फिर पावेल “भाषा” के बारे में सोचता है। जगह शांत है, इसलिए पावेल वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+              "en": "Pavel writes the word meaning in a notebook. Then Pavel thinks about language. The place is quiet, so Pavel reads the sentence again and says it softly."
             },
             {
-              "heading": "अध्याय 3 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: बढ़त, अतीत, उज्ज्वल, माह, खत्म. नए शब्द: महिला, यार्ड, वृद्धि, बुरा, झटका, तेल, खून. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: बढ़त = edge; अतीत = past; उज्ज्वल = bright; माह = month; खत्म = finish. New words: महिला = lady; यार्ड = yard; वृद्धि = rise; बुरा = bad; झटका = blow; तेल = oil; खून = blood. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "एक छोटी-सी समस्या आती है, लेकिन पावेल नए शब्दों का इस्तेमाल करता है। पावेल शब्दकोश को देखता है, फिर कागज़ को देखता है, और एक आसान योजना बनाता है। अंत में पावेल एक साफ़ वाक्य कह सकता है।",
+              "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the dictionary, looks at the paper, and makes a simple plan. By the end, Pavel can say one clear sentence."
             }
           ]
         },
         {
-          "id": "hindi-intermediate-14",
+          "id": "hindi-intermediate-40",
           "level": "intermediate",
-          "title": "Intermediate 14: शब्द 628-650",
+          "title": "Intermediate 40: Closer Every Day",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -38984,28 +39173,29 @@ window.LANGUAGE_CURRICULUM = {
             622,
             625
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/40-intermediate-closer-every-day.txt",
           "sections": [
             {
-              "heading": "अध्याय 1 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: प्राप्त करना, सटीक, कम से कम, सिवाय, स्वर. नए शब्द: स्पर्श, बढ़ी, प्रतिशत, मिश्रण, टीम, तार, लागत, खोया. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: प्राप्त करना = receive; सटीक = exact; कम से कम = least; सिवाय = except; स्वर = tone. New words: स्पर्श = touch; बढ़ी = grew; प्रतिशत = cent; मिश्रण = mix; टीम = team; तार = wire; लागत = cost; खोया = lost. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह इरीना पार्क जाती है। वहाँ पास में कॉपी और चाय है। इरीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “करीब।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Irina is in the park. There is notebook and tea nearby. Irina reads slowly and notices a new word: closer. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "अध्याय 2 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: प्राप्त करना, सटीक, कम से कम, सिवाय, स्वर. नए शब्द: ब्राउन, पहनना, बगीचा, बराबर, भेजा, चयन, गिर गया, फिट. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: प्राप्त करना = receive; सटीक = exact; कम से कम = least; सिवाय = except; स्वर = tone. New words: ब्राउन = brown; पहनना = wear; बगीचा = garden; बराबर = equal; भेजा = sent; चयन = choose; गिर गया = fell; फिट = fit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "इरीना अपनी कॉपी में “करीब” शब्द लिखती है। फिर इरीना “दोहराना” के बारे में सोचती है। जगह शांत है, इसलिए इरीना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+              "en": "Irina writes the word closer in a notebook. Then Irina thinks about review. The place is quiet, so Irina reads the sentence again and says it softly."
             },
             {
-              "heading": "अध्याय 3 / 3",
-              "ru": "मुख्य पात्र एक नोट पढ़ता है, अर्थों की तुलना करता है और लंबे वाक्य बनाता है। दोहराने वाले शब्द: प्राप्त करना, सटीक, कम से कम, सिवाय, स्वर. नए शब्द: प्रवाह, मेला, बैंक, इकट्ठा, बचा, नियंत्रण, दशमलव. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: प्राप्त करना = receive; सटीक = exact; कम से कम = least; सिवाय = except; स्वर = tone. New words: प्रवाह = flow; मेला = fair; बैंक = bank; इकट्ठा = collect; बचा = save; नियंत्रण = control; दशमलव = decimal. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "एक छोटी-सी समस्या आती है, लेकिन इरीना नए शब्दों का इस्तेमाल करती है। इरीना कॉपी को देखती है, फिर चाय को देखती है, और एक आसान योजना बनाती है। अंत में इरीना एक साफ़ वाक्य कह सकती है।",
+              "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the notebook, looks at the tea, and makes a simple plan. By the end, Irina can say one clear sentence."
             }
           ]
         },
         {
-          "id": "hindi-advanced-01",
+          "id": "hindi-advanced-41",
           "level": "advanced",
-          "title": "Advanced 01: शब्द 651-685",
+          "title": "Advanced 41: The Long Walk Through the City",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -39060,38 +39250,39 @@ window.LANGUAGE_CURRICULUM = {
             645,
             648
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/41-advanced-the-long-walk-through-the-city.txt",
           "sections": [
             {
-              "heading": "अध्याय 1 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: खून, प्रतिशत, तार, ब्राउन, बराबर. नए शब्द: कान, बाकी, काफी, तोड़ दिया, मामले, बीच, हत्या. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: खून = blood; प्रतिशत = cent; तार = wire; ब्राउन = brown; बराबर = equal. New words: कान = ear; बाकी = else; काफी = quite; तोड़ दिया = broke; मामले = case; बीच = middle; हत्या = kill. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह अन्ना शहर जाती है। वहाँ पास में नक्शा और खिड़की है। अन्ना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “यात्रा।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Anna is in the city. There is map and window nearby. Anna reads slowly and notices a new word: journey. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "अध्याय 2 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: खून, प्रतिशत, तार, ब्राउन, बराबर. नए शब्द: बेटा, झील, पल, पैमाने, जोर, वसंत, निरीक्षण. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: खून = blood; प्रतिशत = cent; तार = wire; ब्राउन = brown; बराबर = equal. New words: बेटा = son; झील = lake; पल = moment; पैमाने = scale; जोर = loud; वसंत = spring; निरीक्षण = observe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "अन्ना अपनी कॉपी में “यात्रा” शब्द लिखती है। फिर अन्ना “शहर” के बारे में सोचती है। जगह शांत है, इसलिए अन्ना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+              "en": "Anna writes the word journey in a notebook. Then Anna thinks about city. The place is quiet, so Anna reads the sentence again and says it softly."
             },
             {
-              "heading": "अध्याय 3 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: खून, प्रतिशत, तार, ब्राउन, बराबर. नए शब्द: बच्चे, सीधे, व्यंजन, राष्ट्र, शब्दकोश, दूध, गति. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: खून = blood; प्रतिशत = cent; तार = wire; ब्राउन = brown; बराबर = equal. New words: बच्चे = child; सीधे = straight; व्यंजन = consonant; राष्ट्र = nation; शब्दकोश = dictionary; दूध = milk; गति = speed. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "एक छोटी-सी समस्या आती है, लेकिन अन्ना नए शब्दों का इस्तेमाल करती है। अन्ना नक्शा को देखती है, फिर खिड़की को देखती है, और एक आसान योजना बनाती है। अंत में अन्ना एक साफ़ वाक्य कह सकती है।",
+              "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the map, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
             },
             {
-              "heading": "अध्याय 4 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: खून, प्रतिशत, तार, ब्राउन, बराबर. नए शब्द: विधि, अंग, भुगतान, उम्र, अनुभाग, पोशाक, बादल. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: खून = blood; प्रतिशत = cent; तार = wire; ब्राउन = brown; बराबर = equal. New words: विधि = method; अंग = organ; भुगतान = pay; उम्र = age; अनुभाग = section; पोशाक = dress; बादल = cloud. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "बाद में अन्ना एक व्यक्ति से मिलती है और एक सावधान प्रश्न पूछती है। उत्तर सरल है, पर मदद करता है। अन्ना तीन और शब्द लिखती है और उन्हें दिन की कहानी से जोड़ती है.",
+              "en": "Later, Anna meets another person and asks one careful question. The answer is simple, but it helps. Anna writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "अध्याय 5 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: खून, प्रतिशत, तार, ब्राउन, बराबर. नए शब्द: आश्चर्य, शांत, पत्थर, छोटे, चढ़ाई, शीतल, डिजाइन. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: खून = blood; प्रतिशत = cent; तार = wire; ब्राउन = brown; बराबर = equal. New words: आश्चर्य = surprise; शांत = quiet; पत्थर = stone; छोटे = tiny; चढ़ाई = climb; शीतल = cool; डिजाइन = design. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "दिन के अंत में अन्ना पूरा पृष्ठ ज़ोर से पढ़ती है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। अन्ना मुस्कुराती है, क्योंकि सीखना अब संभव और पास लगता है.",
+              "en": "At the end of the day, Anna reads the whole page out loud. The words are not perfect yet, but they are familiar now. Anna smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "hindi-advanced-02",
+          "id": "hindi-advanced-42",
           "level": "advanced",
-          "title": "Advanced 02: शब्द 686-720",
+          "title": "Advanced 42: The Forgotten Invitation",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -39146,38 +39337,39 @@ window.LANGUAGE_CURRICULUM = {
             680,
             683
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/42-advanced-the-forgotten-invitation.txt",
           "sections": [
             {
-              "heading": "अध्याय 1 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: जोर, बच्चे, राष्ट्र, गति, भुगतान. नए शब्द: गरीब, बहुत, प्रयोग, तल, कुंजी, लोहा, एकल. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: जोर = loud; बच्चे = child; राष्ट्र = nation; गति = speed; भुगतान = pay. New words: गरीब = poor; बहुत = lot; प्रयोग = experiment; तल = bottom; कुंजी = key; लोहा = iron; एकल = single. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह साशा विश्वविद्यालय जाता है। वहाँ पास में पत्र और फ़ोन है। साशा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “निमंत्रण।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Sasha is at the university. There is letter and phone nearby. Sasha reads slowly and notices a new word: invitation. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "अध्याय 2 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: जोर, बच्चे, राष्ट्र, गति, भुगतान. नए शब्द: छड़ी, फ्लैट, बीस, त्वचा, मुस्कान, क्रीज, छेद. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: जोर = loud; बच्चे = child; राष्ट्र = nation; गति = speed; भुगतान = pay. New words: छड़ी = stick; फ्लैट = flat; बीस = twenty; त्वचा = skin; मुस्कान = smile; क्रीज = crease; छेद = hole. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "साशा अपनी कॉपी में “निमंत्रण” शब्द लिखता है। फिर साशा “मुलाकात” के बारे में सोचता है। जगह शांत है, इसलिए साशा वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+              "en": "Sasha writes the word invitation in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
             },
             {
-              "heading": "अध्याय 3 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: जोर, बच्चे, राष्ट्र, गति, भुगतान. नए शब्द: कूद, बच्चे, आठ, गांव, मिलो, जड़, खरीद. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: जोर = loud; बच्चे = child; राष्ट्र = nation; गति = speed; भुगतान = pay. New words: कूद = jump; बच्चे = baby; आठ = eight; गांव = village; मिलो = meet; जड़ = root; खरीद = buy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "एक छोटी-सी समस्या आती है, लेकिन साशा नए शब्दों का इस्तेमाल करता है। साशा पत्र को देखता है, फिर फ़ोन को देखता है, और एक आसान योजना बनाता है। अंत में साशा एक साफ़ वाक्य कह सकता है।",
+              "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the phone, and makes a simple plan. By the end, Sasha can say one clear sentence."
             },
             {
-              "heading": "अध्याय 4 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: जोर, बच्चे, राष्ट्र, गति, भुगतान. नए शब्द: उठाना, हल, धातु, चाहे, धक्का, सात, पैरा. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: जोर = loud; बच्चे = child; राष्ट्र = nation; गति = speed; भुगतान = pay. New words: उठाना = raise; हल = solve; धातु = metal; चाहे = whether; धक्का = push; सात = seven; पैरा = paragraph. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "बाद में साशा एक व्यक्ति से मिलता है और एक सावधान प्रश्न पूछता है। उत्तर सरल है, पर मदद करता है। साशा तीन और शब्द लिखता है और उन्हें दिन की कहानी से जोड़ता है.",
+              "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "अध्याय 5 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: जोर, बच्चे, राष्ट्र, गति, भुगतान. नए शब्द: तीसरे, करेगा, आयोजित, बाल, वर्णन, कुक, मंजिल. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: जोर = loud; बच्चे = child; राष्ट्र = nation; गति = speed; भुगतान = pay. New words: तीसरे = third; करेगा = shall; आयोजित = held; बाल = hair; वर्णन = describe; कुक = cook; मंजिल = floor. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "दिन के अंत में साशा पूरा पृष्ठ ज़ोर से पढ़ता है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। साशा मुस्कुराता है, क्योंकि सीखना अब संभव और पास लगता है.",
+              "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "hindi-advanced-03",
+          "id": "hindi-advanced-43",
           "level": "advanced",
-          "title": "Advanced 03: शब्द 721-755",
+          "title": "Advanced 43: The History Room",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -39232,38 +39424,39 @@ window.LANGUAGE_CURRICULUM = {
             715,
             718
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/43-advanced-the-history-room.txt",
           "sections": [
             {
-              "heading": "अध्याय 1 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: मुस्कान, कूद, गांव, खरीद, धातु. नए शब्द: भी, परिणाम, जला, पहाड़ी, सुरक्षित, बिल्ली, सदी. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: मुस्कान = smile; कूद = jump; गांव = village; खरीद = buy; धातु = metal. New words: भी = either; परिणाम = result; जला = burn; पहाड़ी = hill; सुरक्षित = safe; बिल्ली = cat; सदी = century. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह निकोलाई संग्रहालय जाता है। वहाँ पास में किताब और तस्वीर है। निकोलाई धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “इतिहास।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Nikolay is in the museum. There is book and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "अध्याय 2 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: मुस्कान, कूद, गांव, खरीद, धातु. नए शब्द: विचार करना, प्रकार, कानून, बिट, तट, नकल, वाक्यांश. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: मुस्कान = smile; कूद = jump; गांव = village; खरीद = buy; धातु = metal. New words: विचार करना = consider; प्रकार = type; कानून = law; बिट = bit; तट = coast; नकल = copy; वाक्यांश = phrase. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "निकोलाई अपनी कॉपी में “इतिहास” शब्द लिखता है। फिर निकोलाई “अतीत” के बारे में सोचता है। जगह शांत है, इसलिए निकोलाई वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+              "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about past. The place is quiet, so Nikolay reads the sentence again and says it softly."
             },
             {
-              "heading": "अध्याय 3 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: मुस्कान, कूद, गांव, खरीद, धातु. नए शब्द: चुप, लंबा, रेत, मिट्टी, रोल, तापमान, उंगली. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: मुस्कान = smile; कूद = jump; गांव = village; खरीद = buy; धातु = metal. New words: चुप = silent; लंबा = tall; रेत = sand; मिट्टी = soil; रोल = roll; तापमान = temperature; उंगली = finger. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "एक छोटी-सी समस्या आती है, लेकिन निकोलाई नए शब्दों का इस्तेमाल करता है। निकोलाई किताब को देखता है, फिर तस्वीर को देखता है, और एक आसान योजना बनाता है। अंत में निकोलाई एक साफ़ वाक्य कह सकता है।",
+              "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the book, looks at the picture, and makes a simple plan. By the end, Nikolay can say one clear sentence."
             },
             {
-              "heading": "अध्याय 4 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: मुस्कान, कूद, गांव, खरीद, धातु. नए शब्द: उद्योग, मूल्य, लड़ाई, झूठ, हरा, उत्तेजित, प्राकृतिक. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: मुस्कान = smile; कूद = jump; गांव = village; खरीद = buy; धातु = metal. New words: उद्योग = industry; मूल्य = value; लड़ाई = fight; झूठ = lie; हरा = beat; उत्तेजित = excite; प्राकृतिक = natural. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "बाद में निकोलाई एक व्यक्ति से मिलता है और एक सावधान प्रश्न पूछता है। उत्तर सरल है, पर मदद करता है। निकोलाई तीन और शब्द लिखता है और उन्हें दिन की कहानी से जोड़ता है.",
+              "en": "Later, Nikolay meets another person and asks one careful question. The answer is simple, but it helps. Nikolay writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "अध्याय 5 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: मुस्कान, कूद, गांव, खरीद, धातु. नए शब्द: देखें, भावना, राजधानी, नहीं होगा, कुर्सी, खतरे, फल. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: मुस्कान = smile; कूद = jump; गांव = village; खरीद = buy; धातु = metal. New words: देखें = view; भावना = sense; राजधानी = capital; नहीं होगा = won’t; कुर्सी = chair; खतरे = danger; फल = fruit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "दिन के अंत में निकोलाई पूरा पृष्ठ ज़ोर से पढ़ता है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। निकोलाई मुस्कुराता है, क्योंकि सीखना अब संभव और पास लगता है.",
+              "en": "At the end of the day, Nikolay reads the whole page out loud. The words are not perfect yet, but they are familiar now. Nikolay smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "hindi-advanced-04",
+          "id": "hindi-advanced-44",
           "level": "advanced",
-          "title": "Advanced 04: शब्द 756-790",
+          "title": "Advanced 44: The Quiet Train",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -39318,38 +39511,39 @@ window.LANGUAGE_CURRICULUM = {
             750,
             753
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/44-advanced-the-quiet-train.txt",
           "sections": [
             {
-              "heading": "अध्याय 1 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: तट, चुप, मिट्टी, उंगली, लड़ाई. नए शब्द: अमीर, मोटी, सैनिक, प्रक्रिया, संचालित, अभ्यास, अलग. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: तट = coast; चुप = silent; मिट्टी = soil; उंगली = finger; लड़ाई = fight. New words: अमीर = rich; मोटी = thick; सैनिक = soldier; प्रक्रिया = process; संचालित = operate; अभ्यास = practice; अलग = separate. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह मारिया ट्रेन जाती है। वहाँ पास में टिकट और चाय है। मारिया धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “शांत।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Maria is on the train. There is ticket and tea nearby. Maria reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "अध्याय 2 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: तट, चुप, मिट्टी, उंगली, लड़ाई. नए शब्द: मुश्किल, चिकित्सक, कृपया, रक्षा, दोपहर, फसल, आधुनिक. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: तट = coast; चुप = silent; मिट्टी = soil; उंगली = finger; लड़ाई = fight. New words: मुश्किल = difficult; चिकित्सक = doctor; कृपया = please; रक्षा = protect; दोपहर = noon; फसल = crop; आधुनिक = modern. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "मारिया अपनी कॉपी में “शांत” शब्द लिखती है। फिर मारिया “यात्रा” के बारे में सोचती है। जगह शांत है, इसलिए मारिया वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+              "en": "Maria writes the word quiet in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
             },
             {
-              "heading": "अध्याय 3 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: तट, चुप, मिट्टी, उंगली, लड़ाई. नए शब्द: तत्व, मारना, छात्र, कोने, पार्टी, आपूर्ति, जिसका. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: तट = coast; चुप = silent; मिट्टी = soil; उंगली = finger; लड़ाई = fight. New words: तत्व = element; मारना = hit; छात्र = student; कोने = corner; पार्टी = party; आपूर्ति = supply; जिसका = whose. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "एक छोटी-सी समस्या आती है, लेकिन मारिया नए शब्दों का इस्तेमाल करती है। मारिया टिकट को देखती है, फिर चाय को देखती है, और एक आसान योजना बनाती है। अंत में मारिया एक साफ़ वाक्य कह सकती है।",
+              "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the tea, and makes a simple plan. By the end, Maria can say one clear sentence."
             },
             {
-              "heading": "अध्याय 4 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: तट, चुप, मिट्टी, उंगली, लड़ाई. नए शब्द: स्थिति जानें, अंगूठी, चरित्र, कीट, पकड़ा, अवधि, संकेत मिलता है. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: तट = coast; चुप = silent; मिट्टी = soil; उंगली = finger; लड़ाई = fight. New words: स्थिति जानें = locate; अंगूठी = ring; चरित्र = character; कीट = insect; पकड़ा = caught; अवधि = period; संकेत मिलता है = indicate. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "बाद में मारिया एक व्यक्ति से मिलती है और एक सावधान प्रश्न पूछती है। उत्तर सरल है, पर मदद करता है। मारिया तीन और शब्द लिखती है और उन्हें दिन की कहानी से जोड़ती है.",
+              "en": "Later, Maria meets another person and asks one careful question. The answer is simple, but it helps. Maria writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "अध्याय 5 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: तट, चुप, मिट्टी, उंगली, लड़ाई. नए शब्द: रेडियो, बात, एटम, मानव, इतिहास, प्रभाव, बिजली. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: तट = coast; चुप = silent; मिट्टी = soil; उंगली = finger; लड़ाई = fight. New words: रेडियो = radio; बात = spoke; एटम = atom; मानव = human; इतिहास = history; प्रभाव = effect; बिजली = electric. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "दिन के अंत में मारिया पूरा पृष्ठ ज़ोर से पढ़ती है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। मारिया मुस्कुराती है, क्योंकि सीखना अब संभव और पास लगता है.",
+              "en": "At the end of the day, Maria reads the whole page out loud. The words are not perfect yet, but they are familiar now. Maria smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "hindi-advanced-05",
+          "id": "hindi-advanced-45",
           "level": "advanced",
-          "title": "Advanced 05: शब्द 791-825",
+          "title": "Advanced 45: A Plan for Tomorrow",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -39404,38 +39598,39 @@ window.LANGUAGE_CURRICULUM = {
             785,
             788
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/45-advanced-a-plan-for-tomorrow.txt",
           "sections": [
             {
-              "heading": "अध्याय 1 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: दोपहर, तत्व, कोने, जिसका, चरित्र. नए शब्द: उम्मीद, हड्डी, रेल, कल्पना, प्रदान, सहमत, इस प्रकार. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: दोपहर = noon; तत्व = element; कोने = corner; जिसका = whose; चरित्र = character. New words: उम्मीद = expect; हड्डी = bone; रेल = rail; कल्पना = imagine; प्रदान = provide; सहमत = agree; इस प्रकार = thus. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह लीना घर जाती है। वहाँ पास में नक्शा और कॉपी है। लीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “कल।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Lena is at home. There is map and notebook nearby. Lena reads slowly and notices a new word: tomorrow. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "अध्याय 2 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: दोपहर, तत्व, कोने, जिसका, चरित्र. नए शब्द: कोमल, महिला, कप्तान, अनुमान, आवश्यक, तेज़, पंख. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: दोपहर = noon; तत्व = element; कोने = corner; जिसका = whose; चरित्र = character. New words: कोमल = gentle; महिला = woman; कप्तान = captain; अनुमान = guess; आवश्यक = necessary; तेज़ = sharp; पंख = wing. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "लीना अपनी कॉपी में “कल” शब्द लिखती है। फिर लीना “योजना” के बारे में सोचती है। जगह शांत है, इसलिए लीना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+              "en": "Lena writes the word tomorrow in a notebook. Then Lena thinks about plan. The place is quiet, so Lena reads the sentence again and says it softly."
             },
             {
-              "heading": "अध्याय 3 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: दोपहर, तत्व, कोने, जिसका, चरित्र. नए शब्द: बना, पड़ोसी, धोने, बल्ला, बल्कि, भीड़, मकई. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: दोपहर = noon; तत्व = element; कोने = corner; जिसका = whose; चरित्र = character. New words: बना = create; पड़ोसी = neighbor; धोने = wash; बल्ला = bat; बल्कि = rather; भीड़ = crowd; मकई = corn. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "एक छोटी-सी समस्या आती है, लेकिन लीना नए शब्दों का इस्तेमाल करती है। लीना नक्शा को देखती है, फिर कॉपी को देखती है, और एक आसान योजना बनाती है। अंत में लीना एक साफ़ वाक्य कह सकती है।",
+              "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the map, looks at the notebook, and makes a simple plan. By the end, Lena can say one clear sentence."
             },
             {
-              "heading": "अध्याय 4 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: दोपहर, तत्व, कोने, जिसका, चरित्र. नए शब्द: तुलना, कविता, स्ट्रिंग, बेल, निर्भर, मांस, रगड़. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: दोपहर = noon; तत्व = element; कोने = corner; जिसका = whose; चरित्र = character. New words: तुलना = compare; कविता = poem; स्ट्रिंग = string; बेल = bell; निर्भर = depend; मांस = meat; रगड़ = rub. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "बाद में लीना एक व्यक्ति से मिलती है और एक सावधान प्रश्न पूछती है। उत्तर सरल है, पर मदद करता है। लीना तीन और शब्द लिखती है और उन्हें दिन की कहानी से जोड़ती है.",
+              "en": "Later, Lena meets another person and asks one careful question. The answer is simple, but it helps. Lena writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "अध्याय 5 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: दोपहर, तत्व, कोने, जिसका, चरित्र. नए शब्द: ट्यूब, प्रसिद्ध, डॉलर, धारा, डर, दृष्टि, पतली. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: दोपहर = noon; तत्व = element; कोने = corner; जिसका = whose; चरित्र = character. New words: ट्यूब = tube; प्रसिद्ध = famous; डॉलर = dollar; धारा = stream; डर = fear; दृष्टि = sight; पतली = thin. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "दिन के अंत में लीना पूरा पृष्ठ ज़ोर से पढ़ती है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। लीना मुस्कुराती है, क्योंकि सीखना अब संभव और पास लगता है.",
+              "en": "At the end of the day, Lena reads the whole page out loud. The words are not perfect yet, but they are familiar now. Lena smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "hindi-advanced-06",
+          "id": "hindi-advanced-46",
           "level": "advanced",
-          "title": "Advanced 06: शब्द 826-860",
+          "title": "Advanced 46: News from the Cafe",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -39490,38 +39685,39 @@ window.LANGUAGE_CURRICULUM = {
             820,
             823
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/46-advanced-news-from-the-cafe.txt",
           "sections": [
             {
-              "heading": "अध्याय 1 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: आवश्यक, बना, बल्ला, मकई, स्ट्रिंग. नए शब्द: त्रिकोण, ग्रह, जल्दी करो, प्रमुख, कॉलोनी, घड़ी, मेरा. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: आवश्यक = necessary; बना = create; बल्ला = bat; मकई = corn; स्ट्रिंग = string. New words: त्रिकोण = triangle; ग्रह = planet; जल्दी करो = hurry; प्रमुख = chief; कॉलोनी = colony; घड़ी = clock; मेरा = mine. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह ओल्गा कैफ़े जाती है। वहाँ पास में अख़बार और चाय है। ओल्गा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “समाचार।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Olga is in the cafe. There is newspaper and tea nearby. Olga reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "अध्याय 2 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: आवश्यक, बना, बल्ला, मकई, स्ट्रिंग. नए शब्द: टाई, दर्ज, प्रमुख, ताजा, खोज, भेजें, पीले. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: आवश्यक = necessary; बना = create; बल्ला = bat; मकई = corn; स्ट्रिंग = string. New words: टाई = tie; दर्ज = enter; प्रमुख = major; ताजा = fresh; खोज = search; भेजें = send; पीले = yellow. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "ओल्गा अपनी कॉपी में “समाचार” शब्द लिखती है। फिर ओल्गा “बातचीत” के बारे में सोचती है। जगह शांत है, इसलिए ओल्गा वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+              "en": "Olga writes the word news in a notebook. Then Olga thinks about talk. The place is quiet, so Olga reads the sentence again and says it softly."
             },
             {
-              "heading": "अध्याय 3 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: आवश्यक, बना, बल्ला, मकई, स्ट्रिंग. नए शब्द: बंदूक, की अनुमति, प्रिंट, मृत, हाजिर, रेगिस्तान, सूट. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: आवश्यक = necessary; बना = create; बल्ला = bat; मकई = corn; स्ट्रिंग = string. New words: बंदूक = gun; की अनुमति = allow; प्रिंट = print; मृत = dead; हाजिर = spot; रेगिस्तान = desert; सूट = suit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "एक छोटी-सी समस्या आती है, लेकिन ओल्गा नए शब्दों का इस्तेमाल करती है। ओल्गा अख़बार को देखती है, फिर चाय को देखती है, और एक आसान योजना बनाती है। अंत में ओल्गा एक साफ़ वाक्य कह सकती है।",
+              "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the newspaper, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
             },
             {
-              "heading": "अध्याय 4 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: आवश्यक, बना, बल्ला, मकई, स्ट्रिंग. नए शब्द: वर्तमान, लिफ्ट, गुलाब, पहुंचना, मास्टर, ट्रैक, माता पिता. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: आवश्यक = necessary; बना = create; बल्ला = bat; मकई = corn; स्ट्रिंग = string. New words: वर्तमान = current; लिफ्ट = lift; गुलाब = rose; पहुंचना = arrive; मास्टर = master; ट्रैक = track; माता पिता = parent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "बाद में ओल्गा एक व्यक्ति से मिलती है और एक सावधान प्रश्न पूछती है। उत्तर सरल है, पर मदद करता है। ओल्गा तीन और शब्द लिखती है और उन्हें दिन की कहानी से जोड़ती है.",
+              "en": "Later, Olga meets another person and asks one careful question. The answer is simple, but it helps. Olga writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "अध्याय 5 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: आवश्यक, बना, बल्ला, मकई, स्ट्रिंग. नए शब्द: किनारे, विभाजन, चादर, पदार्थ, एहसान, कनेक्ट, पोस्ट. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: आवश्यक = necessary; बना = create; बल्ला = bat; मकई = corn; स्ट्रिंग = string. New words: किनारे = shore; विभाजन = division; चादर = sheet; पदार्थ = substance; एहसान = favor; कनेक्ट = connect; पोस्ट = post. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "दिन के अंत में ओल्गा पूरा पृष्ठ ज़ोर से पढ़ती है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। ओल्गा मुस्कुराती है, क्योंकि सीखना अब संभव और पास लगता है.",
+              "en": "At the end of the day, Olga reads the whole page out loud. The words are not perfect yet, but they are familiar now. Olga smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "hindi-advanced-07",
+          "id": "hindi-advanced-47",
           "level": "advanced",
-          "title": "Advanced 07: शब्द 861-895",
+          "title": "Advanced 47: The Word That Changed the Day",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -39576,38 +39772,39 @@ window.LANGUAGE_CURRICULUM = {
             855,
             858
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/47-advanced-the-word-that-changed-the-day.txt",
           "sections": [
             {
-              "heading": "अध्याय 1 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: खोज, बंदूक, मृत, सूट, गुलाब. नए शब्द: खर्च, राग, वसा, प्रसन्न, मूल, शेयर, स्टेशन. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: खोज = search; बंदूक = gun; मृत = dead; सूट = suit; गुलाब = rose. New words: खर्च = spend; राग = chord; वसा = fat; प्रसन्न = glad; मूल = original; शेयर = share; स्टेशन = station. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह दीमा सड़क जाता है। वहाँ पास में बैग और किताब है। दीमा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “मदद।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Dima is on the street. There is bag and book nearby. Dima reads slowly and notices a new word: help. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "अध्याय 2 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: खोज, बंदूक, मृत, सूट, गुलाब. नए शब्द: पिता, रोटी, चार्ज, उचित, बार, प्रस्ताव, खंड. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: खोज = search; बंदूक = gun; मृत = dead; सूट = suit; गुलाब = rose. New words: पिता = dad; रोटी = bread; चार्ज = charge; उचित = proper; बार = bar; प्रस्ताव = offer; खंड = segment. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "दीमा अपनी कॉपी में “मदद” शब्द लिखता है। फिर दीमा “रास्ता” के बारे में सोचता है। जगह शांत है, इसलिए दीमा वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+              "en": "Dima writes the word help in a notebook. Then Dima thinks about road. The place is quiet, so Dima reads the sentence again and says it softly."
             },
             {
-              "heading": "अध्याय 3 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: खोज, बंदूक, मृत, सूट, गुलाब. नए शब्द: गुलाम, बतख, पल, बाजार, डिग्री, आबाद, लड़की. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: खोज = search; बंदूक = gun; मृत = dead; सूट = suit; गुलाब = rose. New words: गुलाम = slave; बतख = duck; पल = instant; बाजार = market; डिग्री = degree; आबाद = populate; लड़की = chick. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "एक छोटी-सी समस्या आती है, लेकिन दीमा नए शब्दों का इस्तेमाल करता है। दीमा बैग को देखता है, फिर किताब को देखता है, और एक आसान योजना बनाता है। अंत में दीमा एक साफ़ वाक्य कह सकता है।",
+              "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the bag, looks at the book, and makes a simple plan. By the end, Dima can say one clear sentence."
             },
             {
-              "heading": "अध्याय 4 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: खोज, बंदूक, मृत, सूट, गुलाब. नए शब्द: प्रिय, दुश्मन, उत्तर, पेय, घटित, समर्थन, भाषण. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: खोज = search; बंदूक = gun; मृत = dead; सूट = suit; गुलाब = rose. New words: प्रिय = dear; दुश्मन = enemy; उत्तर = reply; पेय = drink; घटित = occur; समर्थन = support; भाषण = speech. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "बाद में दीमा एक व्यक्ति से मिलता है और एक सावधान प्रश्न पूछता है। उत्तर सरल है, पर मदद करता है। दीमा तीन और शब्द लिखता है और उन्हें दिन की कहानी से जोड़ता है.",
+              "en": "Later, Dima meets another person and asks one careful question. The answer is simple, but it helps. Dima writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "अध्याय 5 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: खोज, बंदूक, मृत, सूट, गुलाब. नए शब्द: प्रकृति, सीमा, भाप, प्रस्ताव, पथ, तरल, लॉग इन करें. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: खोज = search; बंदूक = gun; मृत = dead; सूट = suit; गुलाब = rose. New words: प्रकृति = nature; सीमा = range; भाप = steam; प्रस्ताव = motion; पथ = path; तरल = liquid; लॉग इन करें = log. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "दिन के अंत में दीमा पूरा पृष्ठ ज़ोर से पढ़ता है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। दीमा मुस्कुराता है, क्योंकि सीखना अब संभव और पास लगता है.",
+              "en": "At the end of the day, Dima reads the whole page out loud. The words are not perfect yet, but they are familiar now. Dima smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "hindi-advanced-08",
+          "id": "hindi-advanced-48",
           "level": "advanced",
-          "title": "Advanced 08: शब्द 896-930",
+          "title": "Advanced 48: The Meeting at the University",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -39662,38 +39859,39 @@ window.LANGUAGE_CURRICULUM = {
             890,
             893
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/48-advanced-the-meeting-at-the-university.txt",
           "sections": [
             {
-              "heading": "अध्याय 1 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: बार, गुलाम, बाजार, लड़की, उत्तर. नए शब्द: मतलब, भागफल, दांत, खोल, गर्दन, ऑक्सीजन, चीनी. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: बार = bar; गुलाम = slave; बाजार = market; लड़की = chick; उत्तर = reply. New words: मतलब = meant; भागफल = quotient; दांत = teeth; खोल = shell; गर्दन = neck; ऑक्सीजन = oxygen; चीनी = sugar. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह साशा विश्वविद्यालय जाता है। वहाँ पास में पत्र और डेस्क है। साशा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “मुलाकात।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Sasha is at the university. There is letter and desk nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "अध्याय 2 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: बार, गुलाम, बाजार, लड़की, उत्तर. नए शब्द: मौत, सुंदर, कौशल, महिलाओं, मौसम, समाधान, चुंबक. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: बार = bar; गुलाम = slave; बाजार = market; लड़की = chick; उत्तर = reply. New words: मौत = death; सुंदर = pretty; कौशल = skill; महिलाओं = women; मौसम = season; समाधान = solution; चुंबक = magnet. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "साशा अपनी कॉपी में “मुलाकात” शब्द लिखता है। फिर साशा “विचार” के बारे में सोचता है। जगह शांत है, इसलिए साशा वाक्य को फिर से पढ़कर धीरे से बोलता है.",
+              "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about ideas. The place is quiet, so Sasha reads the sentence again and says it softly."
             },
             {
-              "heading": "अध्याय 3 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: बार, गुलाम, बाजार, लड़की, उत्तर. नए शब्द: चांदी, धन्यवाद, शाखा, मैच, प्रत्यय, विशेष रूप से, अंजीर. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: बार = bar; गुलाम = slave; बाजार = market; लड़की = chick; उत्तर = reply. New words: चांदी = silver; धन्यवाद = thank; शाखा = branch; मैच = match; प्रत्यय = suffix; विशेष रूप से = especially; अंजीर = fig. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "एक छोटी-सी समस्या आती है, लेकिन साशा नए शब्दों का इस्तेमाल करता है। साशा पत्र को देखता है, फिर डेस्क को देखता है, और एक आसान योजना बनाता है। अंत में साशा एक साफ़ वाक्य कह सकता है।",
+              "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the desk, and makes a simple plan. By the end, Sasha can say one clear sentence."
             },
             {
-              "heading": "अध्याय 4 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: बार, गुलाम, बाजार, लड़की, उत्तर. नए शब्द: डर, भारी, बहन, स्टील, चर्चा, आगे, इसी तरह. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: बार = bar; गुलाम = slave; बाजार = market; लड़की = chick; उत्तर = reply. New words: डर = afraid; भारी = huge; बहन = sister; स्टील = steel; चर्चा = discuss; आगे = forward; इसी तरह = similar. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "बाद में साशा एक व्यक्ति से मिलता है और एक सावधान प्रश्न पूछता है। उत्तर सरल है, पर मदद करता है। साशा तीन और शब्द लिखता है और उन्हें दिन की कहानी से जोड़ता है.",
+              "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "अध्याय 5 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: बार, गुलाम, बाजार, लड़की, उत्तर. नए शब्द: गाइड, अनुभव, स्कोर, सेब, खरीदा, नेतृत्व, पिच. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: बार = bar; गुलाम = slave; बाजार = market; लड़की = chick; उत्तर = reply. New words: गाइड = guide; अनुभव = experience; स्कोर = score; सेब = apple; खरीदा = bought; नेतृत्व = led; पिच = pitch. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "दिन के अंत में साशा पूरा पृष्ठ ज़ोर से पढ़ता है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। साशा मुस्कुराता है, क्योंकि सीखना अब संभव और पास लगता है.",
+              "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "hindi-advanced-09",
+          "id": "hindi-advanced-49",
           "level": "advanced",
-          "title": "Advanced 09: शब्द 931-965",
+          "title": "Advanced 49: The Letter and the Map",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -39748,38 +39946,39 @@ window.LANGUAGE_CURRICULUM = {
             925,
             928
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/49-advanced-the-letter-and-the-map.txt",
           "sections": [
             {
-              "heading": "अध्याय 1 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: मौसम, चांदी, मैच, अंजीर, बहन. नए शब्द: कोट, सामूहिक, कार्ड, बैंड, रस्सी, पर्ची, जीत. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: मौसम = season; चांदी = silver; मैच = match; अंजीर = fig; बहन = sister. New words: कोट = coat; सामूहिक = mass; कार्ड = card; बैंड = band; रस्सी = rope; पर्ची = slip; जीत = win. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह कात्या पुस्तकालय जाती है। वहाँ पास में पत्र और नक्शा है। कात्या धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “रास्ता।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Katya is in the library. There is letter and map nearby. Katya reads slowly and notices a new word: route. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "अध्याय 2 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: मौसम, चांदी, मैच, अंजीर, बहन. नए शब्द: सपना, शाम, शर्त, फ़ीड, उपकरण, संपूर्ण, बुनियादी. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: मौसम = season; चांदी = silver; मैच = match; अंजीर = fig; बहन = sister. New words: सपना = dream; शाम = evening; शर्त = condition; फ़ीड = feed; उपकरण = tool; संपूर्ण = total; बुनियादी = basic. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "कात्या अपनी कॉपी में “रास्ता” शब्द लिखती है। फिर कात्या “खोज” के बारे में सोचती है। जगह शांत है, इसलिए कात्या वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+              "en": "Katya writes the word route in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
             },
             {
-              "heading": "अध्याय 3 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: मौसम, चांदी, मैच, अंजीर, बहन. नए शब्द: गंध, घाटी, और न ही, डबल, सीट, जारी रखने के, खंड. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: मौसम = season; चांदी = silver; मैच = match; अंजीर = fig; बहन = sister. New words: गंध = smell; घाटी = valley; और न ही = nor; डबल = double; सीट = seat; जारी रखने के = continue; खंड = block. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "एक छोटी-सी समस्या आती है, लेकिन कात्या नए शब्दों का इस्तेमाल करती है। कात्या पत्र को देखती है, फिर नक्शा को देखती है, और एक आसान योजना बनाती है। अंत में कात्या एक साफ़ वाक्य कह सकती है।",
+              "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the letter, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
             },
             {
-              "heading": "अध्याय 4 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: मौसम, चांदी, मैच, अंजीर, बहन. नए शब्द: चार्ट, टोपी, बेचने, सफलता, कंपनी, घटाना, घटना. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: मौसम = season; चांदी = silver; मैच = match; अंजीर = fig; बहन = sister. New words: चार्ट = chart; टोपी = hat; बेचने = sell; सफलता = success; कंपनी = company; घटाना = subtract; घटना = event. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "बाद में कात्या एक व्यक्ति से मिलती है और एक सावधान प्रश्न पूछती है। उत्तर सरल है, पर मदद करता है। कात्या तीन और शब्द लिखती है और उन्हें दिन की कहानी से जोड़ती है.",
+              "en": "Later, Katya meets another person and asks one careful question. The answer is simple, but it helps. Katya writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "अध्याय 5 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: मौसम, चांदी, मैच, अंजीर, बहन. नए शब्द: विशेष, सौदा, तैरना, अवधि, विपरीत, पत्नी, जूता. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: मौसम = season; चांदी = silver; मैच = match; अंजीर = fig; बहन = sister. New words: विशेष = particular; सौदा = deal; तैरना = swim; अवधि = term; विपरीत = opposite; पत्नी = wife; जूता = shoe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "दिन के अंत में कात्या पूरा पृष्ठ ज़ोर से पढ़ती है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। कात्या मुस्कुराती है, क्योंकि सीखना अब संभव और पास लगता है.",
+              "en": "At the end of the day, Katya reads the whole page out loud. The words are not perfect yet, but they are familiar now. Katya smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "hindi-advanced-10",
+          "id": "hindi-advanced-50",
           "level": "advanced",
-          "title": "Advanced 10: शब्द 966-1000",
+          "title": "Advanced 50: The Language Feels Close",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -39834,31 +40033,32 @@ window.LANGUAGE_CURRICULUM = {
             960,
             963
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/50-advanced-the-language-feels-close.txt",
           "sections": [
             {
-              "heading": "अध्याय 1 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: उपकरण, गंध, डबल, खंड, बेचने. नए शब्द: कंधे, प्रसार, व्यवस्था, शिविर, आविष्कार, कपास, Born. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: उपकरण = tool; गंध = smell; डबल = double; खंड = block; बेचने = sell. New words: कंधे = shoulder; प्रसार = spread; व्यवस्था = arrange; शिविर = camp; आविष्कार = invent; कपास = cotton; Born = born. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "सुबह इरीना पार्क जाती है। वहाँ पास में किताब और फ़ोन है। इरीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “भाषा।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
+              "en": "In the morning, Irina is in the park. There is book and phone nearby. Irina reads slowly and notices a new word: language. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "अध्याय 2 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: उपकरण, गंध, डबल, खंड, बेचने. नए शब्द: निर्धारित, चौथाई गेलन, नौ, ट्रक, शोर, स्तर, संयोग. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: उपकरण = tool; गंध = smell; डबल = double; खंड = block; बेचने = sell. New words: निर्धारित = determine; चौथाई गेलन = quart; नौ = nine; ट्रक = truck; शोर = noise; स्तर = level; संयोग = chance. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "इरीना अपनी कॉपी में “भाषा” शब्द लिखती है। फिर इरीना “आत्मविश्वास” के बारे में सोचती है। जगह शांत है, इसलिए इरीना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
+              "en": "Irina writes the word language in a notebook. Then Irina thinks about confidence. The place is quiet, so Irina reads the sentence again and says it softly."
             },
             {
-              "heading": "अध्याय 3 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: उपकरण, गंध, डबल, खंड, बेचने. नए शब्द: इकट्ठा, दुकान, खिंचाव, फेंक, चमक, संपत्ति, स्तंभ. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: उपकरण = tool; गंध = smell; डबल = double; खंड = block; बेचने = sell. New words: इकट्ठा = gather; दुकान = shop; खिंचाव = stretch; फेंक = throw; चमक = shine; संपत्ति = property; स्तंभ = column. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "एक छोटी-सी समस्या आती है, लेकिन इरीना नए शब्दों का इस्तेमाल करती है। इरीना किताब को देखती है, फिर फ़ोन को देखती है, और एक आसान योजना बनाती है। अंत में इरीना एक साफ़ वाक्य कह सकती है।",
+              "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the book, looks at the phone, and makes a simple plan. By the end, Irina can say one clear sentence."
             },
             {
-              "heading": "अध्याय 4 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: उपकरण, गंध, डबल, खंड, बेचने. नए शब्द: अणु, चयन, गलत, ग्रे, दोहराना, आवश्यकता, विस्तृत. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: उपकरण = tool; गंध = smell; डबल = double; खंड = block; बेचने = sell. New words: अणु = molecule; चयन = select; गलत = wrong; ग्रे = gray; दोहराना = repeat; आवश्यकता = require; विस्तृत = broad. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "बाद में इरीना एक व्यक्ति से मिलती है और एक सावधान प्रश्न पूछती है। उत्तर सरल है, पर मदद करता है। इरीना तीन और शब्द लिखती है और उन्हें दिन की कहानी से जोड़ती है.",
+              "en": "Later, Irina meets another person and asks one careful question. The answer is simple, but it helps. Irina writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "अध्याय 5 / 5",
-              "ru": "इस अध्याय में शब्द एक बड़ी कहानी का हिस्सा बनते हैं, जहाँ याद, चुनाव और विवरण महत्वपूर्ण हैं। दोहराने वाले शब्द: उपकरण, गंध, डबल, खंड, बेचने. नए शब्द: तैयार, नमक, नाक, बहुवचन, क्रोध, दावा, महाद्वीप. वह ज़ोर से पढ़ता है, अपनी आवाज़ सुनता है और शब्दों को कॉपी में लिखता है।",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: उपकरण = tool; गंध = smell; डबल = double; खंड = block; बेचने = sell. New words: तैयार = prepare; नमक = salt; नाक = nose; बहुवचन = plural; क्रोध = anger; दावा = claim; महाद्वीप = continent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "दिन के अंत में इरीना पूरा पृष्ठ ज़ोर से पढ़ती है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। इरीना मुस्कुराती है, क्योंकि सीखना अब संभव और पास लगता है.",
+              "en": "At the end of the day, Irina reads the whole page out loud. The words are not perfect yet, but they are familiar now. Irina smiles because learning feels possible and close."
             }
           ]
         }
@@ -46874,7 +47074,7 @@ window.LANGUAGE_CURRICULUM = {
         {
           "id": "arabic-beginner-01",
           "level": "beginner",
-          "title": "Beginner 01: الكلمات 1-9",
+          "title": "Beginner 01: Morning at Home",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -46894,18 +47094,19 @@ window.LANGUAGE_CURRICULUM = {
             9
           ],
           "reviewWords": [],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/01-beginner-morning-at-home.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "اليوم يقرأ الطالب صفحة قصيرة. الكلمات الجديدة: كما, أنا, له, أن, هو, كان, إلى, في, هي. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "Today the learner reads a short page. New words: كما = as; أنا = I; له = his; أن = that; هو = he; كان = was; إلى = for; في = on; هي = are. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب آنا إلى البيت. هناك شاي وكتاب بالقرب منه. تقرأ آنا ببطء وتلاحظ كلمة جديدة: «مدينة». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Anna is at home. There is tea and book nearby. Anna reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "arabic-beginner-02",
           "level": "beginner",
-          "title": "Beginner 02: الكلمات 10-18",
+          "title": "Beginner 02: Tea on the Table",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -46931,18 +47132,19 @@ window.LANGUAGE_CURRICULUM = {
             7,
             9
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/02-beginner-tea-on-the-table.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "اليوم يقرأ الطالب صفحة قصيرة. كلمات المراجعة: كما, له, هو, إلى, هي. الكلمات الجديدة: مع, هم, يكون, في, واحد, ديك, هذا, من, بواسطة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "Today the learner reads a short page. Review words: كما = as; له = his; هو = he; إلى = for; هي = are. New words: مع = with; هم = they; يكون = be; في = at; واحد = one; ديك = have; هذا = this; من = from; بواسطة = by. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب لينا إلى البيت. هناك شاي وخبز بالقرب منه. تقرأ لينا ببطء وتلاحظ كلمة جديدة: «طاولة». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Lena is at home. There is tea and bread nearby. Lena reads slowly and notices a new word: table. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "arabic-beginner-03",
           "level": "beginner",
-          "title": "Beginner 03: الكلمات 19-27",
+          "title": "Beginner 03: The Open Window",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -46969,18 +47171,19 @@ window.LANGUAGE_CURRICULUM = {
             13,
             16
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/03-beginner-the-open-window.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "اليوم يقرأ الطالب صفحة قصيرة. كلمات المراجعة: كما, أن, إلى, مع, في. الكلمات الجديدة: حار, كلمة, لكن, ما, بعض, هو, هو, أنت, أو. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "Today the learner reads a short page. Review words: كما = as; أن = that; إلى = for; مع = with; في = at. New words: حار = hot; كلمة = word; لكن = but; ما = what; بعض = some; هو = is; هو = it; أنت = you; أو = or. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، يذهب إيفان إلى البيت. هناك نافذة وكتاب بالقرب منه. يقرأ إيفان ببطء ويلاحظ كلمة جديدة: «مكتبة». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Ivan is at home. There is window and book nearby. Ivan reads slowly and notices a new word: library. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "arabic-beginner-04",
           "level": "beginner",
-          "title": "Beginner 04: الكلمات 28-36",
+          "title": "Beginner 04: Walking to the Park",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -47009,18 +47212,19 @@ window.LANGUAGE_CURRICULUM = {
             22,
             25
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/04-beginner-walking-to-the-park.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "اليوم يقرأ الطالب صفحة قصيرة. كلمات المراجعة: أن, إلى, مع, في, هذا. الكلمات الجديدة: كان, و, من, إلى, و, و, في, نحن, علبة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "Today the learner reads a short page. Review words: أن = that; إلى = for; مع = with; في = at; هذا = this. New words: كان = had; و = the; من = of; إلى = to; و = and; و = a; في = in; نحن = we; علبة = can. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب ماشا إلى الحديقة. هناك الأم والأخ بالقرب منه. تقرأ ماشا ببطء وتلاحظ كلمة جديدة: «صديق». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Masha is in the park. There is mother and brother nearby. Masha reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "arabic-beginner-05",
           "level": "beginner",
-          "title": "Beginner 05: الكلمات 37-44",
+          "title": "Beginner 05: A Quiet Street",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -47048,18 +47252,19 @@ window.LANGUAGE_CURRICULUM = {
             31,
             34
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/05-beginner-a-quiet-street.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "اليوم يقرأ الطالب صفحة قصيرة. كلمات المراجعة: في, هذا, حار, ما, هو. الكلمات الجديدة: خارج, البعض, و, التي, القيام, من, الوقت, إذا. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "Today the learner reads a short page. Review words: في = at; هذا = this; حار = hot; ما = what; هو = it. New words: خارج = out; البعض = other; و = were; التي = which; القيام = do; من = their; الوقت = time; إذا = if. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، يذهب بافل إلى الشارع. هناك بيت ونافذة بالقرب منه. يقرأ بافل ببطء ويلاحظ كلمة جديدة: «شارع». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Pavel is on the street. There is house and window nearby. Pavel reads slowly and notices a new word: street. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "arabic-beginner-06",
           "level": "beginner",
-          "title": "Beginner 06: الكلمات 45-52",
+          "title": "Beginner 06: The First Book",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -47087,18 +47292,19 @@ window.LANGUAGE_CURRICULUM = {
             39,
             42
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/06-beginner-the-first-book.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "اليوم يقرأ الطالب صفحة قصيرة. كلمات المراجعة: لكن, هو, أو, من, و. الكلمات الجديدة: سوف, كيف, قال, و, كل, أقول, لا, مجموعة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "Today the learner reads a short page. Review words: لكن = but; هو = is; أو = or; من = of; و = a. New words: سوف = will; كيف = how; قال = said; و = an; كل = each; أقول = tell; لا = does; مجموعة = set. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب أولغا إلى المكتبة. هناك كتاب وبطاقة بالقرب منه. تقرأ أولغا ببطء وتلاحظ كلمة جديدة: «كلمة». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Olga is in the library. There is book and card nearby. Olga reads slowly and notices a new word: word. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "arabic-beginner-07",
           "level": "beginner",
-          "title": "Beginner 07: الكلمات 53-60",
+          "title": "Beginner 07: A Good Day",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -47126,18 +47332,19 @@ window.LANGUAGE_CURRICULUM = {
             47,
             50
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/07-beginner-a-good-day.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "اليوم يقرأ الطالب صفحة قصيرة. كلمات المراجعة: و, و, نحن, البعض, القيام. الكلمات الجديدة: ثلاثة, تريد, هواء, جيد, أيضا, لعب, صغير, نهاية. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "Today the learner reads a short page. Review words: و = the; و = and; نحن = we; البعض = other; القيام = do. New words: ثلاثة = three; تريد = want; هواء = air; جيد = well; أيضا = also; لعب = play; صغير = small; نهاية = end. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، يذهب نيكولاي إلى الحديقة. هناك شمس وشجرة بالقرب منه. يقرأ نيكولاي ببطء ويلاحظ كلمة جديدة: «جيد». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Nikolay is in the park. There is sun and tree nearby. Nikolay reads slowly and notices a new word: good. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "arabic-beginner-08",
           "level": "beginner",
-          "title": "Beginner 08: الكلمات 61-68",
+          "title": "Beginner 08: At School",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -47165,18 +47372,19 @@ window.LANGUAGE_CURRICULUM = {
             55,
             58
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/08-beginner-at-school.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "اليوم يقرأ الطالب صفحة قصيرة. كلمات المراجعة: خارج, التي, الوقت, كيف, كل. الكلمات الجديدة: وضع, المنزل, قرأ, يد, ميناء, كبير, تهجى, إضافة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "Today the learner reads a short page. Review words: خارج = out; التي = which; الوقت = time; كيف = how; كل = each. New words: وضع = put; المنزل = home; قرأ = read; يد = hand; ميناء = port; كبير = large; تهجى = spell; إضافة = add. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، يذهب ساشا إلى المدرسة. هناك مكتب وقلم رصاص بالقرب منه. يقرأ ساشا ببطء ويلاحظ كلمة جديدة: «مدرسة». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Sasha is at school. There is desk and pencil nearby. Sasha reads slowly and notices a new word: school. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "arabic-beginner-09",
           "level": "beginner",
-          "title": "Beginner 09: الكلمات 69-76",
+          "title": "Beginner 09: At the Store",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -47204,18 +47412,19 @@ window.LANGUAGE_CURRICULUM = {
             63,
             66
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/09-beginner-at-the-store.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "اليوم يقرأ الطالب صفحة قصيرة. كلمات المراجعة: سوف, و, لا, تريد, أيضا. الكلمات الجديدة: حتى, الأرض, هنا, يجب, كبير, ارتفاع, مثل, تابع. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "Today the learner reads a short page. Review words: سوف = will; و = an; لا = does; تريد = want; أيضا = also. New words: حتى = even; الأرض = land; هنا = here; يجب = must; كبير = big; ارتفاع = high; مثل = such; تابع = follow. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب إيرينا إلى المتجر. هناك حقيبة وطعام بالقرب منه. تقرأ إيرينا ببطء وتلاحظ كلمة جديدة: «متجر». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Irina is in the store. There is bag and food nearby. Irina reads slowly and notices a new word: store. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "arabic-beginner-10",
           "level": "beginner",
-          "title": "Beginner 10: الكلمات 77-84",
+          "title": "Beginner 10: At the Station",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -47243,18 +47452,19 @@ window.LANGUAGE_CURRICULUM = {
             71,
             74
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/10-beginner-at-the-station.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "اليوم يقرأ الطالب صفحة قصيرة. كلمات المراجعة: ثلاثة, جيد, صغير, المنزل, ميناء. الكلمات الجديدة: فعل, لماذا, تطلب, الرجال, تغيير, ذهب, ضوء, نوع. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "Today the learner reads a short page. Review words: ثلاثة = three; جيد = well; صغير = small; المنزل = home; ميناء = port. New words: فعل = act; لماذا = why; تطلب = ask; الرجال = men; تغيير = change; ذهب = went; ضوء = light; نوع = kind. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب ماريا إلى المحطة. هناك شاي وتذكرة بالقرب منه. تقرأ ماريا ببطء وتلاحظ كلمة جديدة: «محطة». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Maria is at the station. There is tea and ticket nearby. Maria reads slowly and notices a new word: station. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "arabic-beginner-11",
           "level": "beginner",
-          "title": "Beginner 11: الكلمات 85-92",
+          "title": "Beginner 11: A Simple Call",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -47282,18 +47492,19 @@ window.LANGUAGE_CURRICULUM = {
             79,
             82
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/11-beginner-a-simple-call.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "اليوم يقرأ الطالب صفحة قصيرة. كلمات المراجعة: وضع, يد, تهجى, الأرض, كبير. الكلمات الجديدة: بعيدا, تحتاج, منزل, صور, محاولة, لنا, مرة أخرى, الحيوان. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "Today the learner reads a short page. Review words: وضع = put; يد = hand; تهجى = spell; الأرض = land; كبير = big. New words: بعيدا = off; تحتاج = need; منزل = house; صور = picture; محاولة = try; لنا = us; مرة أخرى = again; الحيوان = animal. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، يذهب ديما إلى البيت. هناك هاتف ودفتر بالقرب منه. يقرأ ديما ببطء ويلاحظ كلمة جديدة: «صديق». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Dima is at home. There is phone and notebook nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
           "id": "arabic-beginner-12",
           "level": "beginner",
-          "title": "Beginner 12: الكلمات 93-100",
+          "title": "Beginner 12: I Know This Word",
           "difficulty": "Beginner page",
           "band": 1,
           "wordRange": [
@@ -47321,18 +47532,19 @@ window.LANGUAGE_CURRICULUM = {
             87,
             90
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/12-beginner-i-know-this-word.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "اليوم يقرأ الطالب صفحة قصيرة. كلمات المراجعة: حتى, يجب, مثل, لماذا, تغيير. الكلمات الجديدة: نقطة, أم, العالم, قرب, بناء, النفس, أرض, الأب. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "Today the learner reads a short page. Review words: حتى = even; يجب = must; مثل = such; لماذا = why; تغيير = change. New words: نقطة = point; أم = mother; العالم = world; قرب = near; بناء = build; النفس = self; أرض = earth; الأب = father. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب كاتيا إلى الغرفة. هناك ورقة وكتاب بالقرب منه. تقرأ كاتيا ببطء وتلاحظ كلمة جديدة: «يعرف». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Katya is in the room. There is paper and book nearby. Katya reads slowly and notices a new word: know. The day feels good, and the language feels a little closer."
             }
           ]
         },
         {
-          "id": "arabic-elementary-01",
+          "id": "arabic-elementary-13",
           "level": "elementary",
-          "title": "Elementary 01: الكلمات 101-116",
+          "title": "Elementary 13: The Library Window",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -47368,23 +47580,24 @@ window.LANGUAGE_CURRICULUM = {
             95,
             98
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/13-elementary-the-library-window.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: فعل, الرجال, ضوء, تحتاج, محاولة. الكلمات الجديدة: أي, جديدة, العمل, جزء, أخذ, الحصول على, مكان, مصنوع. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: فعل = act; الرجال = men; ضوء = light; تحتاج = need; محاولة = try. New words: أي = any; جديدة = new; العمل = work; جزء = part; أخذ = take; الحصول على = get; مكان = place; مصنوع = made. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، يذهب بافل إلى المكتبة. هناك نافذة ودفتر بالقرب منه. يقرأ بافل ببطء ويلاحظ كلمة جديدة: «هدوء». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Pavel is in the library. There is window and notebook nearby. Pavel reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الصفحة 2",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: فعل, الرجال, ضوء, تحتاج, محاولة. الكلمات الجديدة: حي, حيث, بعد, ظهر, القليل, فقط, جولة, رجل. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: فعل = act; الرجال = men; ضوء = light; تحتاج = need; محاولة = try. New words: حي = live; حيث = where; بعد = after; ظهر = back; القليل = little; فقط = only; جولة = round; رجل = man. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "يكتب بافل كلمة «هدوء» في الدفتر. ثم يفكر في موضوع «قراءة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+              "en": "Pavel writes the word quiet in a notebook. Then Pavel thinks about reading. The place is quiet, so Pavel reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "arabic-elementary-02",
+          "id": "arabic-elementary-14",
           "level": "elementary",
-          "title": "Elementary 02: الكلمات 117-132",
+          "title": "Elementary 14: The Museum Visit",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -47420,23 +47633,24 @@ window.LANGUAGE_CURRICULUM = {
             111,
             114
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/14-elementary-the-museum-visit.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: نقطة, قرب, أرض, جديدة, أخذ. الكلمات الجديدة: عام, جاء, المعرض, كل, جيد, أنا, منح, لدينا. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: نقطة = point; قرب = near; أرض = earth; جديدة = new; أخذ = take. New words: عام = year; جاء = came; المعرض = show; كل = every; جيد = good; أنا = me; منح = give; لدينا = our. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، يذهب نيكولاي إلى المتحف. هناك تذكرة وصورة بالقرب منه. يقرأ نيكولاي ببطء ويلاحظ كلمة جديدة: «تاريخ». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Nikolay is in the museum. There is ticket and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الصفحة 2",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: نقطة, قرب, أرض, جديدة, أخذ. الكلمات الجديدة: تحت, اسم, جدا, من خلال, فقط, شكل, عقوبة, عظيم. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: نقطة = point; قرب = near; أرض = earth; جديدة = new; أخذ = take. New words: تحت = under; اسم = name; جدا = very; من خلال = through; فقط = just; شكل = form; عقوبة = sentence; عظيم = great. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "يكتب نيكولاي كلمة «تاريخ» في الدفتر. ثم يفكر في موضوع «ذاكرة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+              "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about memory. The place is quiet, so Nikolay reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "arabic-elementary-03",
+          "id": "arabic-elementary-15",
           "level": "elementary",
-          "title": "Elementary 03: الكلمات 133-148",
+          "title": "Elementary 15: The Cafe Notebook",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -47472,23 +47686,24 @@ window.LANGUAGE_CURRICULUM = {
             127,
             130
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/15-elementary-the-cafe-notebook.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: حي, ظهر, جولة, جاء, جيد. الكلمات الجديدة: اعتقد, قول, مساعدة, منخفض, خط, اختلف, منعطف, السبب. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: حي = live; ظهر = back; جولة = round; جاء = came; جيد = good. New words: اعتقد = think; قول = say; مساعدة = help; منخفض = low; خط = line; اختلف = differ; منعطف = turn; السبب = cause. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب أولغا إلى المقهى. هناك شاي وموسيقى بالقرب منه. تقرأ أولغا ببطء وتلاحظ كلمة جديدة: «لحن». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Olga is in the cafe. There is tea and music nearby. Olga reads slowly and notices a new word: melody. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الصفحة 2",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: حي, ظهر, جولة, جاء, جيد. الكلمات الجديدة: كثيرا, متوسط, قبل, خطوة, الحق, صبي, قديم, أيضا. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: حي = live; ظهر = back; جولة = round; جاء = came; جيد = good. New words: كثيرا = much; متوسط = mean; قبل = before; خطوة = move; الحق = right; صبي = boy; قديم = old; أيضا = too. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "تكتب أولغا كلمة «لحن» في الدفتر. ثم تفكر في موضوع «استماع». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+              "en": "Olga writes the word melody in a notebook. Then Olga thinks about listening. The place is quiet, so Olga reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "arabic-elementary-04",
+          "id": "arabic-elementary-16",
           "level": "elementary",
-          "title": "Elementary 04: الكلمات 149-164",
+          "title": "Elementary 16: Rain Near the Door",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -47524,23 +47739,24 @@ window.LANGUAGE_CURRICULUM = {
             143,
             146
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/16-elementary-rain-near-the-door.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: تحت, من خلال, عقوبة, قول, خط. الكلمات الجديدة: نفسه, هي, كل, هناك, عندما, فوق, استخدام, ك. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: تحت = under; من خلال = through; عقوبة = sentence; قول = say; خط = line. New words: نفسه = same; هي = she; كل = all; هناك = there; عندما = when; فوق = up; استخدام = use; ك = your. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، يذهب ديما إلى متجر الكتب. هناك باب وكتاب بالقرب منه. يقرأ ديما ببطء ويلاحظ كلمة جديدة: «طريق». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Dima is in the bookshop. There is door and book nearby. Dima reads slowly and notices a new word: road. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الصفحة 2",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: تحت, من خلال, عقوبة, قول, خط. الكلمات الجديدة: طريق, حول, كثير, ثم, هم, إرسال, أراد, مثل. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: تحت = under; من خلال = through; عقوبة = sentence; قول = say; خط = line. New words: طريق = way; حول = about; كثير = many; ثم = then; هم = them; إرسال = write; أراد = would; مثل = like. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "يكتب ديما كلمة «طريق» في الدفتر. ثم يفكر في موضوع «مطر». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+              "en": "Dima writes the word road in a notebook. Then Dima thinks about rain. The place is quiet, so Dima reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "arabic-elementary-05",
+          "id": "arabic-elementary-17",
           "level": "elementary",
-          "title": "Elementary 05: الكلمات 165-180",
+          "title": "Elementary 17: The Letter on the Table",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -47576,23 +47792,24 @@ window.LANGUAGE_CURRICULUM = {
             159,
             162
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/17-elementary-the-letter-on-the-table.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: كثيرا, خطوة, قديم, هي, عندما. الكلمات الجديدة: هكذا, هؤلاء, لها, طويل, جعل, شيء, شاهد, له. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: كثيرا = much; خطوة = move; قديم = old; هي = she; عندما = when. New words: هكذا = so; هؤلاء = these; لها = her; طويل = long; جعل = make; شيء = thing; شاهد = see; له = him. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، يذهب ساشا إلى الجامعة. هناك رسالة وطاولة بالقرب منه. يقرأ ساشا ببطء ويلاحظ كلمة جديدة: «لقاء». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Sasha is at the university. There is letter and table nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الصفحة 2",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: كثيرا, خطوة, قديم, هي, عندما. الكلمات الجديدة: اثنين, لديه, بحث, أكثر, يوم, يمكن, تذهب, جاء. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: كثيرا = much; خطوة = move; قديم = old; هي = she; عندما = when. New words: اثنين = two; لديه = has; بحث = look; أكثر = more; يوم = day; يمكن = could; تذهب = go; جاء = come. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "يكتب ساشا كلمة «لقاء» في الدفتر. ثم يفكر في موضوع «دعوة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+              "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about invitation. The place is quiet, so Sasha reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "arabic-elementary-06",
+          "id": "arabic-elementary-18",
           "level": "elementary",
-          "title": "Elementary 06: الكلمات 181-196",
+          "title": "Elementary 18: Words in the Park",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -47628,23 +47845,24 @@ window.LANGUAGE_CURRICULUM = {
             175,
             178
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/18-elementary-words-in-the-park.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: طريق, ثم, أراد, هؤلاء, جعل. الكلمات الجديدة: لم, عدد, صوت, لا, أكثر, الناس, لي, على. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: طريق = way; ثم = then; أراد = would; هؤلاء = these; جعل = make. New words: لم = did; عدد = number; صوت = sound; لا = no; أكثر = most; الناس = people; لي = my; على = over. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب إيرينا إلى الحديقة. هناك هاتف وشاي بالقرب منه. تقرأ إيرينا ببطء وتلاحظ كلمة جديدة: «ثلاثة». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Irina is in the park. There is phone and tea nearby. Irina reads slowly and notices a new word: three. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الصفحة 2",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: طريق, ثم, أراد, هؤلاء, جعل. الكلمات الجديدة: تعرف, ماء, من, دعوة, الأول, الذي, قد, إلى. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: طريق = way; ثم = then; أراد = would; هؤلاء = these; جعل = make. New words: تعرف = know; ماء = water; من = than; دعوة = call; الأول = first; الذي = who; قد = may; إلى = down. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "تكتب إيرينا كلمة «ثلاثة» في الدفتر. ثم تفكر في موضوع «كلام». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+              "en": "Irina writes the word three in a notebook. Then Irina thinks about speaking. The place is quiet, so Irina reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "arabic-elementary-07",
+          "id": "arabic-elementary-19",
           "level": "elementary",
-          "title": "Elementary 07: الكلمات 197-212",
+          "title": "Elementary 19: The Little Plan",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -47680,23 +47898,24 @@ window.LANGUAGE_CURRICULUM = {
             191,
             194
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/19-elementary-the-little-plan.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: اثنين, أكثر, تذهب, عدد, أكثر. الكلمات الجديدة: الجانب, كان, الآن, اكتشاف, رئيس, الوقوف, الخاصة, الصفحة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: اثنين = two; أكثر = more; تذهب = go; عدد = number; أكثر = most. New words: الجانب = side; كان = been; الآن = now; اكتشاف = find; رئيس = head; الوقوف = stand; الخاصة = own; الصفحة = page. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب لينا إلى المتجر. هناك خريطة وسلة بالقرب منه. تقرأ لينا ببطء وتلاحظ كلمة جديدة: «خطة». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Lena is in the store. There is map and basket nearby. Lena reads slowly and notices a new word: plan. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الصفحة 2",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: اثنين, أكثر, تذهب, عدد, أكثر. الكلمات الجديدة: ينبغي, بلد, أسس, الجواب, المدرسة, تنمو, دراسة, لا يزال. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: اثنين = two; أكثر = more; تذهب = go; عدد = number; أكثر = most. New words: ينبغي = should; بلد = country; أسس = found; الجواب = answer; المدرسة = school; تنمو = grow; دراسة = study; لا يزال = still. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "تكتب لينا كلمة «خطة» في الدفتر. ثم تفكر في موضوع «تسوق». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+              "en": "Lena writes the word plan in a notebook. Then Lena thinks about shopping. The place is quiet, so Lena reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "arabic-elementary-08",
+          "id": "arabic-elementary-20",
           "level": "elementary",
-          "title": "Elementary 08: الكلمات 213-228",
+          "title": "Elementary 20: The News Page",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -47732,23 +47951,24 @@ window.LANGUAGE_CURRICULUM = {
             207,
             210
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/20-elementary-the-news-page.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: تعرف, دعوة, قد, كان, رئيس. الكلمات الجديدة: تعلم, مصنع, غطاء, غذاء, شمس, أربعة, بين, دولة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: تعرف = know; دعوة = call; قد = may; كان = been; رئيس = head. New words: تعلم = learn; مصنع = plant; غطاء = cover; غذاء = food; شمس = sun; أربعة = four; بين = between; دولة = state. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب ماريا إلى المحطة. هناك شاي وجريدة بالقرب منه. تقرأ ماريا ببطء وتلاحظ كلمة جديدة: «خبر». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Maria is at the station. There is tea and newspaper nearby. Maria reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الصفحة 2",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: تعرف, دعوة, قد, كان, رئيس. الكلمات الجديدة: احتفظ, العين, أبدا, آخر, سمح, يعتقد, المدينة, شجرة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: تعرف = know; دعوة = call; قد = may; كان = been; رئيس = head. New words: احتفظ = keep; العين = eye; أبدا = never; آخر = last; سمح = let; يعتقد = thought; المدينة = city; شجرة = tree. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "تكتب ماريا كلمة «خبر» في الدفتر. ثم تفكر في موضوع «تفكير». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+              "en": "Maria writes the word news in a notebook. Then Maria thinks about thinking. The place is quiet, so Maria reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "arabic-elementary-09",
+          "id": "arabic-elementary-21",
           "level": "elementary",
-          "title": "Elementary 09: الكلمات 229-244",
+          "title": "Elementary 21: The Family Walk",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -47784,23 +48004,24 @@ window.LANGUAGE_CURRICULUM = {
             223,
             226
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/21-elementary-the-family-walk.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: ينبغي, الجواب, دراسة, مصنع, شمس. الكلمات الجديدة: عبور, مزرعة, شاق, بداية, قد, قصة, منشار, الآن. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: ينبغي = should; الجواب = answer; دراسة = study; مصنع = plant; شمس = sun. New words: عبور = cross; مزرعة = farm; شاق = hard; بداية = start; قد = might; قصة = story; منشار = saw; الآن = far. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب آنا إلى الحديقة. هناك الأم والأخ بالقرب منه. تقرأ آنا ببطء وتلاحظ كلمة جديدة: «بيت». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Anna is in the park. There is mother and brother nearby. Anna reads slowly and notices a new word: house. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الصفحة 2",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: ينبغي, الجواب, دراسة, مصنع, شمس. الكلمات الجديدة: بحر, رسم, غادر, متأخر, تشغيل, لا, في حين, الصحافة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: ينبغي = should; الجواب = answer; دراسة = study; مصنع = plant; شمس = sun. New words: بحر = sea; رسم = draw; غادر = left; متأخر = late; تشغيل = run; لا = don’t; في حين = while; الصحافة = press. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "تكتب آنا كلمة «بيت» في الدفتر. ثم تفكر في موضوع «عائلة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+              "en": "Anna writes the word house in a notebook. Then Anna thinks about family. The place is quiet, so Anna reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "arabic-elementary-10",
+          "id": "arabic-elementary-22",
           "level": "elementary",
-          "title": "Elementary 10: الكلمات 245-260",
+          "title": "Elementary 22: The Quiet Room",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -47836,23 +48057,24 @@ window.LANGUAGE_CURRICULUM = {
             239,
             242
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/22-elementary-the-quiet-room.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: احتفظ, آخر, المدينة, مزرعة, قد. الكلمات الجديدة: قريب, الليل, حقيقية, حياة, قليل, شمال, كتاب, حمل. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: احتفظ = keep; آخر = last; المدينة = city; مزرعة = farm; قد = might. New words: قريب = close; الليل = night; حقيقية = real; حياة = life; قليل = few; شمال = north; كتاب = book; حمل = carry. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، يذهب إيفان إلى الغرفة. هناك كرسي وكتاب بالقرب منه. يقرأ إيفان ببطء ويلاحظ كلمة جديدة: «غرفة». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Ivan is in the room. There is chair and book nearby. Ivan reads slowly and notices a new word: room. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الصفحة 2",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: احتفظ, آخر, المدينة, مزرعة, قد. الكلمات الجديدة: استغرق, علم, أكل, غرفة, صديق, بدأ, فكرة, سمك. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: احتفظ = keep; آخر = last; المدينة = city; مزرعة = farm; قد = might. New words: استغرق = took; علم = science; أكل = eat; غرفة = room; صديق = friend; بدأ = began; فكرة = idea; سمك = fish. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "يكتب إيفان كلمة «غرفة» في الدفتر. ثم يفكر في موضوع «صمت». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+              "en": "Ivan writes the word room in a notebook. Then Ivan thinks about silence. The place is quiet, so Ivan reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "arabic-elementary-11",
+          "id": "arabic-elementary-23",
           "level": "elementary",
-          "title": "Elementary 11: الكلمات 261-275",
+          "title": "Elementary 23: The New Teacher",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -47887,23 +48109,24 @@ window.LANGUAGE_CURRICULUM = {
             255,
             258
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/23-elementary-the-new-teacher.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: بحر, متأخر, في حين, الليل, قليل. الكلمات الجديدة: الجبل, توقف, مرة واحدة, قاعدة, سمع, الحصان, قطع, بالتأكيد. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: بحر = sea; متأخر = late; في حين = while; الليل = night; قليل = few. New words: الجبل = mountain; توقف = stop; مرة واحدة = once; قاعدة = base; سمع = hear; الحصان = horse; قطع = cut; بالتأكيد = sure. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب ماشا إلى المدرسة. هناك معلم ولوحة بالقرب منه. تقرأ ماشا ببطء وتلاحظ كلمة جديدة: «سؤال». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Masha is at school. There is teacher and board nearby. Masha reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الصفحة 2",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: بحر, متأخر, في حين, الليل, قليل. الكلمات الجديدة: راقب, لون, وجه, الخشب, رئيسي, مفتوحة, يبدو. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: بحر = sea; متأخر = late; في حين = while; الليل = night; قليل = few. New words: راقب = watch; لون = color; وجه = face; الخشب = wood; رئيسي = main; مفتوحة = open; يبدو = seem. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "تكتب ماشا كلمة «سؤال» في الدفتر. ثم تفكر في موضوع «تعلم». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+              "en": "Masha writes the word question in a notebook. Then Masha thinks about learning. The place is quiet, so Masha reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "arabic-elementary-12",
+          "id": "arabic-elementary-24",
           "level": "elementary",
-          "title": "Elementary 12: الكلمات 276-290",
+          "title": "Elementary 24: The Bus Stop",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -47938,23 +48161,24 @@ window.LANGUAGE_CURRICULUM = {
             270,
             273
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/24-elementary-the-bus-stop.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: حمل, أكل, بدأ, الجبل, قاعدة. الكلمات الجديدة: معا, المقبل, أبيض, الأطفال, بدأ, حصلت, سير, مثال. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: حمل = carry; أكل = eat; بدأ = began; الجبل = mountain; قاعدة = base. New words: معا = together; المقبل = next; أبيض = white; الأطفال = children; بدأ = begin; حصلت = got; سير = walk; مثال = example. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، يذهب بافل إلى الشارع. هناك تذكرة وحافلة بالقرب منه. يقرأ بافل ببطء ويلاحظ كلمة جديدة: «وقت». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Pavel is on the street. There is ticket and bus nearby. Pavel reads slowly and notices a new word: time. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الصفحة 2",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: حمل, أكل, بدأ, الجبل, قاعدة. الكلمات الجديدة: سهولة, ورق, مجموعة, دائما, الموسيقى, تلك, كلا. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: حمل = carry; أكل = eat; بدأ = began; الجبل = mountain; قاعدة = base. New words: سهولة = ease; ورق = paper; مجموعة = group; دائما = always; الموسيقى = music; تلك = those; كلا = both. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "يكتب بافل كلمة «وقت» في الدفتر. ثم يفكر في موضوع «انتظار». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+              "en": "Pavel writes the word time in a notebook. Then Pavel thinks about waiting. The place is quiet, so Pavel reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "arabic-elementary-13",
+          "id": "arabic-elementary-25",
           "level": "elementary",
-          "title": "Elementary 13: الكلمات 291-305",
+          "title": "Elementary 25: The Small Market",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -47989,23 +48213,24 @@ window.LANGUAGE_CURRICULUM = {
             285,
             288
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/25-elementary-the-small-market.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: قطع, لون, رئيسي, معا, الأطفال. الكلمات الجديدة: علامة, غالبا, الرسالة, حتى, ميل, النهر, سيارة, قدم. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: قطع = cut; لون = color; رئيسي = main; معا = together; الأطفال = children. New words: علامة = mark; غالبا = often; الرسالة = letter; حتى = until; ميل = mile; النهر = river; سيارة = car; قدم = feet. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب أولغا إلى السوق. هناك فاكهة وحقيبة بالقرب منه. تقرأ أولغا ببطء وتلاحظ كلمة جديدة: «مال». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Olga is at the market. There is fruit and bag nearby. Olga reads slowly and notices a new word: money. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الصفحة 2",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: قطع, لون, رئيسي, معا, الأطفال. الكلمات الجديدة: الرعاية, ثان, بما فيه الكفاية, سهل, فتاة, معتاد, الشباب. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: قطع = cut; لون = color; رئيسي = main; معا = together; الأطفال = children. New words: الرعاية = care; ثان = second; بما فيه الكفاية = enough; سهل = plain; فتاة = girl; معتاد = usual; الشباب = young. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "تكتب أولغا كلمة «مال» في الدفتر. ثم تفكر في موضوع «سوق». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+              "en": "Olga writes the word money in a notebook. Then Olga thinks about market. The place is quiet, so Olga reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "arabic-elementary-14",
+          "id": "arabic-elementary-26",
           "level": "elementary",
-          "title": "Elementary 14: الكلمات 306-320",
+          "title": "Elementary 26: The First Conversation",
           "difficulty": "Elementary pages",
           "band": 2,
           "wordRange": [
@@ -48040,23 +48265,24 @@ window.LANGUAGE_CURRICULUM = {
             300,
             303
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/26-elementary-the-first-conversation.txt",
           "sections": [
             {
-              "heading": "الصفحة 1",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: سير, ورق, الموسيقى, علامة, حتى. الكلمات الجديدة: جاهزة, فوق, أبدا, أحمر, قائمة, على الرغم من, إحساس, الحديث. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: سير = walk; ورق = paper; الموسيقى = music; علامة = mark; حتى = until. New words: جاهزة = ready; فوق = above; أبدا = ever; أحمر = red; قائمة = list; على الرغم من = though; إحساس = feel; الحديث = talk. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، يذهب ديما إلى المقهى. هناك هاتف وصديق بالقرب منه. يقرأ ديما ببطء ويلاحظ كلمة جديدة: «جملة». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Dima is in the cafe. There is phone and friend nearby. Dima reads slowly and notices a new word: sentence. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الصفحة 2",
-              "ru": "في هذه القصة يراجع الطالب كلمات يعرفها ويضيف كلمات جديدة. كلمات المراجعة: سير, ورق, الموسيقى, علامة, حتى. الكلمات الجديدة: طائر, قريبا, هيئة, الكلب, عائلة, مباشر, أربك. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this story, the learner reviews known words and adds new ones. Review words: سير = walk; ورق = paper; الموسيقى = music; علامة = mark; حتى = until. New words: طائر = bird; قريبا = soon; هيئة = body; الكلب = dog; عائلة = family; مباشر = direct; أربك = pose. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "يكتب ديما كلمة «جملة» في الدفتر. ثم يفكر في موضوع «حديث». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+              "en": "Dima writes the word sentence in a notebook. Then Dima thinks about talk. The place is quiet, so Dima reads the sentence again and says it softly."
             }
           ]
         },
         {
-          "id": "arabic-intermediate-01",
+          "id": "arabic-intermediate-27",
           "level": "intermediate",
-          "title": "Intermediate 01: الكلمات 321-344",
+          "title": "Intermediate 27: The Lost Note",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -48100,28 +48326,29 @@ window.LANGUAGE_CURRICULUM = {
             315,
             318
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/27-intermediate-the-lost-note.txt",
           "sections": [
             {
-              "heading": "الفصل 1 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: سيارة, ثان, فتاة, جاهزة, أحمر. الكلمات الجديدة: ترك, أغنية, قياس, باب, نتاج, أسود, قصير, الأرقام. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: سيارة = car; ثان = second; فتاة = girl; جاهزة = ready; أحمر = red. New words: ترك = leave; أغنية = song; قياس = measure; باب = door; نتاج = product; أسود = black; قصير = short; الأرقام = numeral. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب كاتيا إلى المكتبة. هناك ملاحظة وخريطة بالقرب منه. تقرأ كاتيا ببطء وتلاحظ كلمة جديدة: «مكان». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Katya is in the library. There is note and map nearby. Katya reads slowly and notices a new word: place. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الفصل 2 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: سيارة, ثان, فتاة, جاهزة, أحمر. الكلمات الجديدة: الفئة, الرياح, السؤال, يحدث, كاملة, سفينة, منطقة, نصف. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: سيارة = car; ثان = second; فتاة = girl; جاهزة = ready; أحمر = red. New words: الفئة = class; الرياح = wind; السؤال = question; يحدث = happen; كاملة = complete; سفينة = ship; منطقة = area; نصف = half. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "تكتب كاتيا كلمة «مكان» في الدفتر. ثم تفكر في موضوع «بحث». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+              "en": "Katya writes the word place in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
             },
             {
-              "heading": "الفصل 3 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: سيارة, ثان, فتاة, جاهزة, أحمر. الكلمات الجديدة: صخرة, النظام, النار, الجنوب, مشكلة, قطعة, قال, عرف. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: سيارة = car; ثان = second; فتاة = girl; جاهزة = ready; أحمر = red. New words: صخرة = rock; النظام = order; النار = fire; الجنوب = south; مشكلة = problem; قطعة = piece; قال = told; عرف = knew. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "تظهر مشكلة صغيرة، لكن كاتيا تستخدم الكلمات الجديدة. تنظر إلى ملاحظة، ثم إلى خريطة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+              "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the note, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
             }
           ]
         },
         {
-          "id": "arabic-intermediate-02",
+          "id": "arabic-intermediate-28",
           "level": "intermediate",
-          "title": "Intermediate 02: الكلمات 345-368",
+          "title": "Intermediate 28: A Meeting at Noon",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -48165,28 +48392,29 @@ window.LANGUAGE_CURRICULUM = {
             339,
             342
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/28-intermediate-a-meeting-at-noon.txt",
           "sections": [
             {
-              "heading": "الفصل 1 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: ترك, باب, قصير, الرياح, كاملة. الكلمات الجديدة: تمر, منذ, أعلى, ككل, ملك, شارع, بوصة, مضاعفة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: ترك = leave; باب = door; قصير = short; الرياح = wind; كاملة = complete. New words: تمر = pass; منذ = since; أعلى = top; ككل = whole; ملك = king; شارع = street; بوصة = inch; مضاعفة = multiply. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، يذهب ساشا إلى الجامعة. هناك ساعة ورسالة بالقرب منه. يقرأ ساشا ببطء ويلاحظ كلمة جديدة: «ظهر». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Sasha is at the university. There is clock and letter nearby. Sasha reads slowly and notices a new word: noon. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الفصل 2 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: ترك, باب, قصير, الرياح, كاملة. الكلمات الجديدة: لا شيء, بالطبع, إقامة, عجلة, كامل, قوة, الأزرق, موضوع. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: ترك = leave; باب = door; قصير = short; الرياح = wind; كاملة = complete. New words: لا شيء = nothing; بالطبع = course; إقامة = stay; عجلة = wheel; كامل = full; قوة = force; الأزرق = blue; موضوع = object. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "يكتب ساشا كلمة «ظهر» في الدفتر. ثم يفكر في موضوع «لقاء». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+              "en": "Sasha writes the word noon in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
             },
             {
-              "heading": "الفصل 3 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: ترك, باب, قصير, الرياح, كاملة. الكلمات الجديدة: تقرر, سطح, عميق, ضوء القمر, الجزيرة, القدم, نظام, مشغول. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: ترك = leave; باب = door; قصير = short; الرياح = wind; كاملة = complete. New words: تقرر = decide; سطح = surface; عميق = deep; ضوء القمر = moon; الجزيرة = island; القدم = foot; نظام = system; مشغول = busy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "تظهر مشكلة صغيرة، لكن ساشا يستخدم الكلمات الجديدة. ينظر إلى ساعة، ثم إلى رسالة، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
+              "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the clock, looks at the letter, and makes a simple plan. By the end, Sasha can say one clear sentence."
             }
           ]
         },
         {
-          "id": "arabic-intermediate-03",
+          "id": "arabic-intermediate-29",
           "level": "intermediate",
-          "title": "Intermediate 03: الكلمات 369-392",
+          "title": "Intermediate 29: The Old Map",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -48230,28 +48458,29 @@ window.LANGUAGE_CURRICULUM = {
             363,
             366
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/29-intermediate-the-old-map.txt",
           "sections": [
             {
-              "heading": "الفصل 1 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: تمر, ككل, بوصة, بالطبع, كامل. الكلمات الجديدة: اختبار, سجل, قارب, مشترك, الذهب, ممكن, طائرة, بدلا. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: تمر = pass; ككل = whole; بوصة = inch; بالطبع = course; كامل = full. New words: اختبار = test; سجل = record; قارب = boat; مشترك = common; الذهب = gold; ممكن = possible; طائرة = plane; بدلا = stead. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، يذهب نيكولاي إلى المتحف. هناك خريطة وشارع بالقرب منه. يقرأ نيكولاي ببطء ويلاحظ كلمة جديدة: «مدينة». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Nikolay is in the museum. There is map and street nearby. Nikolay reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الفصل 2 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: تمر, ككل, بوصة, بالطبع, كامل. الكلمات الجديدة: جاف, عجب, الضحك, ألف, منذ, ركض, تحقق, لعبة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: تمر = pass; ككل = whole; بوصة = inch; بالطبع = course; كامل = full. New words: جاف = dry; عجب = wonder; الضحك = laugh; ألف = thousand; منذ = ago; ركض = ran; تحقق = check; لعبة = game. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "يكتب نيكولاي كلمة «مدينة» في الدفتر. ثم يفكر في موضوع «تاريخ». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+              "en": "Nikolay writes the word city in a notebook. Then Nikolay thinks about history. The place is quiet, so Nikolay reads the sentence again and says it softly."
             },
             {
-              "heading": "الفصل 3 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: تمر, ككل, بوصة, بالطبع, كامل. الكلمات الجديدة: شكل, مساواة, حار, ملكة جمال, جلبت, حرارة, ثلج, إطار العجلة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: تمر = pass; ككل = whole; بوصة = inch; بالطبع = course; كامل = full. New words: شكل = shape; مساواة = equate; حار = hot; ملكة جمال = miss; جلبت = brought; حرارة = heat; ثلج = snow; إطار العجلة = tire. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "تظهر مشكلة صغيرة، لكن نيكولاي يستخدم الكلمات الجديدة. ينظر إلى خريطة، ثم إلى شارع، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
+              "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the map, looks at the street, and makes a simple plan. By the end, Nikolay can say one clear sentence."
             }
           ]
         },
         {
-          "id": "arabic-intermediate-04",
+          "id": "arabic-intermediate-30",
           "level": "intermediate",
-          "title": "Intermediate 04: الكلمات 393-416",
+          "title": "Intermediate 30: The Rainy Lesson",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -48295,28 +48524,29 @@ window.LANGUAGE_CURRICULUM = {
             387,
             390
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/30-intermediate-the-rainy-lesson.txt",
           "sections": [
             {
-              "heading": "الفصل 1 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: اختبار, مشترك, طائرة, عجب, منذ. الكلمات الجديدة: جلب, نعم, بعيد, شغل, الشرق, الطلاء, اللغة, بين. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: اختبار = test; مشترك = common; طائرة = plane; عجب = wonder; منذ = ago. New words: جلب = bring; نعم = yes; بعيد = distant; شغل = fill; الشرق = east; الطلاء = paint; اللغة = language; بين = among. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب إيرينا إلى المدرسة. هناك نافذة ومطر بالقرب منه. تقرأ إيرينا ببطء وتلاحظ كلمة جديدة: «طقس». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Irina is at school. There is window and rain nearby. Irina reads slowly and notices a new word: weather. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الفصل 2 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: اختبار, مشترك, طائرة, عجب, منذ. الكلمات الجديدة: وحدة, قوة, مدينة, غرامة, معين, يطير, سقط, قيادة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: اختبار = test; مشترك = common; طائرة = plane; عجب = wonder; منذ = ago. New words: وحدة = unit; قوة = power; مدينة = town; غرامة = fine; معين = certain; يطير = fly; سقط = fall; قيادة = lead. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "تكتب إيرينا كلمة «طقس» في الدفتر. ثم تفكر في موضوع «دراسة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+              "en": "Irina writes the word weather in a notebook. Then Irina thinks about study. The place is quiet, so Irina reads the sentence again and says it softly."
             },
             {
-              "heading": "الفصل 3 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: اختبار, مشترك, طائرة, عجب, منذ. الكلمات الجديدة: صرخة, مظلم, آلة, مذكرة, انتظر, خطة, الرقم, نجمة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: اختبار = test; مشترك = common; طائرة = plane; عجب = wonder; منذ = ago. New words: صرخة = cry; مظلم = dark; آلة = machine; مذكرة = note; انتظر = wait; خطة = plan; الرقم = figure; نجمة = star. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "تظهر مشكلة صغيرة، لكن إيرينا تستخدم الكلمات الجديدة. تنظر إلى نافذة، ثم إلى مطر، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+              "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the window, looks at the rain, and makes a simple plan. By the end, Irina can say one clear sentence."
             }
           ]
         },
         {
-          "id": "arabic-intermediate-05",
+          "id": "arabic-intermediate-31",
           "level": "intermediate",
-          "title": "Intermediate 05: الكلمات 417-440",
+          "title": "Intermediate 31: The Museum Question",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -48360,28 +48590,29 @@ window.LANGUAGE_CURRICULUM = {
             411,
             414
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/31-intermediate-the-museum-question.txt",
           "sections": [
             {
-              "heading": "الفصل 1 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: جلب, شغل, اللغة, قوة, معين. الكلمات الجديدة: صندوق, إسم, الحقل, بقية, صحيح, قادرة, الجنيه, منجز. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: جلب = bring; شغل = fill; اللغة = language; قوة = power; معين = certain. New words: صندوق = box; إسم = noun; الحقل = field; بقية = rest; صحيح = correct; قادرة = able; الجنيه = pound; منجز = done. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، يذهب بافل إلى المتحف. هناك صورة ودفتر بالقرب منه. يقرأ بافل ببطء ويلاحظ كلمة جديدة: «سؤال». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Pavel is in the museum. There is picture and notebook nearby. Pavel reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الفصل 2 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: جلب, شغل, اللغة, قوة, معين. الكلمات الجديدة: الجمال, محرك, وقفت, تحتوي على, الجبهة, تعليم, أسبوع, نهائي. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: جلب = bring; شغل = fill; اللغة = language; قوة = power; معين = certain. New words: الجمال = beauty; محرك = drive; وقفت = stood; تحتوي على = contain; الجبهة = front; تعليم = teach; أسبوع = week; نهائي = final. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "يكتب بافل كلمة «سؤال» في الدفتر. ثم يفكر في موضوع «جواب». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+              "en": "Pavel writes the word question in a notebook. Then Pavel thinks about answer. The place is quiet, so Pavel reads the sentence again and says it softly."
             },
             {
-              "heading": "الفصل 3 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: جلب, شغل, اللغة, قوة, معين. الكلمات الجديدة: أعطى, الأخضر, يا, سريع, تطوير, المحيط, الحارة, حر. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: جلب = bring; شغل = fill; اللغة = language; قوة = power; معين = certain. New words: أعطى = gave; الأخضر = green; يا = oh; سريع = quick; تطوير = develop; المحيط = ocean; الحارة = warm; حر = free. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "تظهر مشكلة صغيرة، لكن بافل يستخدم الكلمات الجديدة. ينظر إلى صورة، ثم إلى دفتر، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
+              "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the picture, looks at the notebook, and makes a simple plan. By the end, Pavel can say one clear sentence."
             }
           ]
         },
         {
-          "id": "arabic-intermediate-06",
+          "id": "arabic-intermediate-32",
           "level": "intermediate",
-          "title": "Intermediate 06: الكلمات 441-464",
+          "title": "Intermediate 32: The Train Delay",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -48425,28 +48656,29 @@ window.LANGUAGE_CURRICULUM = {
             435,
             438
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/32-intermediate-the-train-delay.txt",
           "sections": [
             {
-              "heading": "الفصل 1 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: صندوق, بقية, الجنيه, محرك, الجبهة. الكلمات الجديدة: دقيقة, قوي, خاص, عقل, خلف, واضح, ذيل, إنتاج. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: صندوق = box; بقية = rest; الجنيه = pound; محرك = drive; الجبهة = front. New words: دقيقة = minute; قوي = strong; خاص = special; عقل = mind; خلف = behind; واضح = clear; ذيل = tail; إنتاج = produce. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب ماريا إلى المحطة. هناك تذكرة وساعة بالقرب منه. تقرأ ماريا ببطء وتلاحظ كلمة جديدة: «ينتظر». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Maria is at the station. There is ticket and clock nearby. Maria reads slowly and notices a new word: wait. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الفصل 2 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: صندوق, بقية, الجنيه, محرك, الجبهة. الكلمات الجديدة: حقيقة, الفضاء, سمعت, أفضل, ساعة, أفضل, صحيح, خلال. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: صندوق = box; بقية = rest; الجنيه = pound; محرك = drive; الجبهة = front. New words: حقيقة = fact; الفضاء = space; سمعت = heard; أفضل = best; ساعة = hour; أفضل = better; صحيح = true; خلال = during. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "تكتب ماريا كلمة «ينتظر» في الدفتر. ثم تفكر في موضوع «سفر». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+              "en": "Maria writes the word wait in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
             },
             {
-              "heading": "الفصل 3 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: صندوق, بقية, الجنيه, محرك, الجبهة. الكلمات الجديدة: مائة, خمسة, تذكر, خطوة, في وقت مبكر, عقد, غرب, أرض. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: صندوق = box; بقية = rest; الجنيه = pound; محرك = drive; الجبهة = front. New words: مائة = hundred; خمسة = five; تذكر = remember; خطوة = step; في وقت مبكر = early; عقد = hold; غرب = west; أرض = ground. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "تظهر مشكلة صغيرة، لكن ماريا تستخدم الكلمات الجديدة. تنظر إلى تذكرة، ثم إلى ساعة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+              "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the clock, and makes a simple plan. By the end, Maria can say one clear sentence."
             }
           ]
         },
         {
-          "id": "arabic-intermediate-07",
+          "id": "arabic-intermediate-33",
           "level": "intermediate",
-          "title": "Intermediate 07: الكلمات 465-488",
+          "title": "Intermediate 33: Music in the Cafe",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -48490,28 +48722,29 @@ window.LANGUAGE_CURRICULUM = {
             459,
             462
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/33-intermediate-music-in-the-cafe.txt",
           "sections": [
             {
-              "heading": "الفصل 1 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: دقيقة, عقل, ذيل, الفضاء, ساعة. الكلمات الجديدة: مصلحة, الوصول, بسرعة, الفعل, الغناء, استمع, ستة, الجدول. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: دقيقة = minute; عقل = mind; ذيل = tail; الفضاء = space; ساعة = hour. New words: مصلحة = interest; الوصول = reach; بسرعة = fast; الفعل = verb; الغناء = sing; استمع = listen; ستة = six; الجدول = table. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب أولغا إلى المقهى. هناك موسيقى وشاي بالقرب منه. تقرأ أولغا ببطء وتلاحظ كلمة جديدة: «أغنية». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Olga is in the cafe. There is music and tea nearby. Olga reads slowly and notices a new word: song. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الفصل 2 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: دقيقة, عقل, ذيل, الفضاء, ساعة. الكلمات الجديدة: السفر, أقل, الصباح, عشرة, بسيطة, عدة, حرف لين, نحو. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: دقيقة = minute; عقل = mind; ذيل = tail; الفضاء = space; ساعة = hour. New words: السفر = travel; أقل = less; الصباح = morning; عشرة = ten; بسيطة = simple; عدة = several; حرف لين = vowel; نحو = toward. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "تكتب أولغا كلمة «أغنية» في الدفتر. ثم تفكر في موضوع «ذاكرة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+              "en": "Olga writes the word song in a notebook. Then Olga thinks about memory. The place is quiet, so Olga reads the sentence again and says it softly."
             },
             {
-              "heading": "الفصل 3 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: دقيقة, عقل, ذيل, الفضاء, ساعة. الكلمات الجديدة: حرب, وضع, ضد, نمط, بطيئة, مركز, الحب, شخص. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: دقيقة = minute; عقل = mind; ذيل = tail; الفضاء = space; ساعة = hour. New words: حرب = war; وضع = lay; ضد = against; نمط = pattern; بطيئة = slow; مركز = center; الحب = love; شخص = person. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "تظهر مشكلة صغيرة، لكن أولغا تستخدم الكلمات الجديدة. تنظر إلى موسيقى، ثم إلى شاي، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+              "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the music, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
             }
           ]
         },
         {
-          "id": "arabic-intermediate-08",
+          "id": "arabic-intermediate-34",
           "level": "intermediate",
-          "title": "Intermediate 08: الكلمات 489-512",
+          "title": "Intermediate 34: A Letter from a Friend",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -48555,28 +48788,29 @@ window.LANGUAGE_CURRICULUM = {
             483,
             486
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/34-intermediate-a-letter-from-a-friend.txt",
           "sections": [
             {
-              "heading": "الفصل 1 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: مصلحة, الفعل, ستة, أقل, بسيطة. الكلمات الجديدة: المال, خدمة, تظهر, طريق, خريطة, مطر, حكم, الحكم. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: مصلحة = interest; الفعل = verb; ستة = six; أقل = less; بسيطة = simple. New words: المال = money; خدمة = serve; تظهر = appear; طريق = road; خريطة = map; مطر = rain; حكم = rule; الحكم = govern. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، يذهب ديما إلى البيت. هناك رسالة وهاتف بالقرب منه. يقرأ ديما ببطء ويلاحظ كلمة جديدة: «صديق». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Dima is at home. There is letter and phone nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الفصل 2 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: مصلحة, الفعل, ستة, أقل, بسيطة. الكلمات الجديدة: سحب, بارد, إشعار, صوت, الطاقة, مطاردة, محتمل, قاع. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: مصلحة = interest; الفعل = verb; ستة = six; أقل = less; بسيطة = simple. New words: سحب = pull; بارد = cold; إشعار = notice; صوت = voice; الطاقة = energy; مطاردة = hunt; محتمل = probable; قاع = bed. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "يكتب ديما كلمة «صديق» في الدفتر. ثم يفكر في موضوع «دعوة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+              "en": "Dima writes the word friend in a notebook. Then Dima thinks about invitation. The place is quiet, so Dima reads the sentence again and says it softly."
             },
             {
-              "heading": "الفصل 3 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: مصلحة, الفعل, ستة, أقل, بسيطة. الكلمات الجديدة: شقيق, البيض, ركوب, خلية, اعتقد, ربما, اختيار, مفاجئ. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: مصلحة = interest; الفعل = verb; ستة = six; أقل = less; بسيطة = simple. New words: شقيق = brother; البيض = egg; ركوب = ride; خلية = cell; اعتقد = believe; ربما = perhaps; اختيار = pick; مفاجئ = sudden. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "تظهر مشكلة صغيرة، لكن ديما يستخدم الكلمات الجديدة. ينظر إلى رسالة، ثم إلى هاتف، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
+              "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the letter, looks at the phone, and makes a simple plan. By the end, Dima can say one clear sentence."
             }
           ]
         },
         {
-          "id": "arabic-intermediate-09",
+          "id": "arabic-intermediate-35",
           "level": "intermediate",
-          "title": "Intermediate 09: الكلمات 513-535",
+          "title": "Intermediate 35: The School Project",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -48619,28 +48853,29 @@ window.LANGUAGE_CURRICULUM = {
             507,
             510
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/35-intermediate-the-school-project.txt",
           "sections": [
             {
-              "heading": "الفصل 1 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: المال, طريق, حكم, بارد, الطاقة. الكلمات الجديدة: عد, مربع, سبب, طول, تمثيل, فن, الموضوع, منطقة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: المال = money; طريق = road; حكم = rule; بارد = cold; الطاقة = energy. New words: عد = count; مربع = square; سبب = reason; طول = length; تمثيل = represent; فن = art; الموضوع = subject; منطقة = region. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب ماشا إلى المدرسة. هناك ورقة ومعلم بالقرب منه. تقرأ ماشا ببطء وتلاحظ كلمة جديدة: «مشروع». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Masha is at school. There is paper and teacher nearby. Masha reads slowly and notices a new word: project. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الفصل 2 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: المال, طريق, حكم, بارد, الطاقة. الكلمات الجديدة: حجم, تختلف, حل, الكلام, الوزن, عام, الجليد, مسألة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: المال = money; طريق = road; حكم = rule; بارد = cold; الطاقة = energy. New words: حجم = size; تختلف = vary; حل = settle; الكلام = speak; الوزن = weight; عام = general; الجليد = ice; مسألة = matter. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "تكتب ماشا كلمة «مشروع» في الدفتر. ثم تفكر في موضوع «مجموعة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+              "en": "Masha writes the word project in a notebook. Then Masha thinks about group. The place is quiet, so Masha reads the sentence again and says it softly."
             },
             {
-              "heading": "الفصل 3 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: المال, طريق, حكم, بارد, الطاقة. الكلمات الجديدة: دائرة, زوج, تضمن, الفجوة, مقطع لفظي, شعر, الكبرى. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: المال = money; طريق = road; حكم = rule; بارد = cold; الطاقة = energy. New words: دائرة = circle; زوج = pair; تضمن = include; الفجوة = divide; مقطع لفظي = syllable; شعر = felt; الكبرى = grand. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "تظهر مشكلة صغيرة، لكن ماشا تستخدم الكلمات الجديدة. تنظر إلى ورقة، ثم إلى معلم، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+              "en": "A small problem appears, but Masha uses the new words to understand it. Masha checks the paper, looks at the teacher, and makes a simple plan. By the end, Masha can say one clear sentence."
             }
           ]
         },
         {
-          "id": "arabic-intermediate-10",
+          "id": "arabic-intermediate-36",
           "level": "intermediate",
-          "title": "Intermediate 10: الكلمات 536-558",
+          "title": "Intermediate 36: The City Walk",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -48683,28 +48918,29 @@ window.LANGUAGE_CURRICULUM = {
             530,
             533
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/36-intermediate-the-city-walk.txt",
           "sections": [
             {
-              "heading": "الفصل 1 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: مفاجئ, سبب, فن, حجم, الكلام. الكلمات الجديدة: كرة, بعد, موجة, إسقاط, قلب, صباحا, الحاضر, ثقيلة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: مفاجئ = sudden; سبب = reason; فن = art; حجم = size; الكلام = speak. New words: كرة = ball; بعد = yet; موجة = wave; إسقاط = drop; قلب = heart; صباحا = am; الحاضر = present; ثقيلة = heavy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب آنا إلى المدينة. هناك شارع ونافذة بالقرب منه. تقرأ آنا ببطء وتلاحظ كلمة جديدة: «نزهة». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Anna is in the city. There is street and window nearby. Anna reads slowly and notices a new word: walk. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الفصل 2 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: مفاجئ, سبب, فن, حجم, الكلام. الكلمات الجديدة: رقص, محرك, موقف, الذراع, واسع, الشراع, مادة, جزء. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: مفاجئ = sudden; سبب = reason; فن = art; حجم = size; الكلام = speak. New words: رقص = dance; محرك = engine; موقف = position; الذراع = arm; واسع = wide; الشراع = sail; مادة = material; جزء = fraction. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "تكتب آنا كلمة «نزهة» في الدفتر. ثم تفكر في موضوع «مكان». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+              "en": "Anna writes the word walk in a notebook. Then Anna thinks about place. The place is quiet, so Anna reads the sentence again and says it softly."
             },
             {
-              "heading": "الفصل 3 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: مفاجئ, سبب, فن, حجم, الكلام. الكلمات الجديدة: الغابات, الجلوس, سباق, نافذة, متجر, الصيف, قطار. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: مفاجئ = sudden; سبب = reason; فن = art; حجم = size; الكلام = speak. New words: الغابات = forest; الجلوس = sit; سباق = race; نافذة = window; متجر = store; الصيف = summer; قطار = train. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "تظهر مشكلة صغيرة، لكن آنا تستخدم الكلمات الجديدة. تنظر إلى شارع، ثم إلى نافذة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+              "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the street, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
             }
           ]
         },
         {
-          "id": "arabic-intermediate-11",
+          "id": "arabic-intermediate-37",
           "level": "intermediate",
-          "title": "Intermediate 11: الكلمات 559-581",
+          "title": "Intermediate 37: The Bookshop Door",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -48747,28 +48983,29 @@ window.LANGUAGE_CURRICULUM = {
             553,
             556
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/37-intermediate-the-bookshop-door.txt",
           "sections": [
             {
-              "heading": "الفصل 1 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: الكبرى, موجة, صباحا, رقص, الذراع. الكلمات الجديدة: نوم, إثبات, وحيد, الساق, ممارسة, جدار, مزلاج, جبل. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: الكبرى = grand; موجة = wave; صباحا = am; رقص = dance; الذراع = arm. New words: نوم = sleep; إثبات = prove; وحيد = lone; الساق = leg; ممارسة = exercise; جدار = wall; مزلاج = catch; جبل = mount. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، يذهب إيفان إلى متجر الكتب. هناك باب وكتاب بالقرب منه. يقرأ إيفان ببطء ويلاحظ كلمة جديدة: «يفتح». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Ivan is in the bookshop. There is door and book nearby. Ivan reads slowly and notices a new word: open. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الفصل 2 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: الكبرى, موجة, صباحا, رقص, الذراع. الكلمات الجديدة: رغب, سماء, مجلس الإدارة, الفرح, شتاء, السبت, مكتوبة, بري. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: الكبرى = grand; موجة = wave; صباحا = am; رقص = dance; الذراع = arm. New words: رغب = wish; سماء = sky; مجلس الإدارة = board; الفرح = joy; شتاء = winter; السبت = sat; مكتوبة = written; بري = wild. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "يكتب إيفان كلمة «يفتح» في الدفتر. ثم يفكر في موضوع «قراءة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+              "en": "Ivan writes the word open in a notebook. Then Ivan thinks about reading. The place is quiet, so Ivan reads the sentence again and says it softly."
             },
             {
-              "heading": "الفصل 3 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: الكبرى, موجة, صباحا, رقص, الذراع. الكلمات الجديدة: أداة, أبقى, زجاج, العشب, بقرة, العمل, حافة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: الكبرى = grand; موجة = wave; صباحا = am; رقص = dance; الذراع = arm. New words: أداة = instrument; أبقى = kept; زجاج = glass; العشب = grass; بقرة = cow; العمل = job; حافة = edge. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "تظهر مشكلة صغيرة، لكن إيفان يستخدم الكلمات الجديدة. ينظر إلى باب، ثم إلى كتاب، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
+              "en": "A small problem appears, but Ivan uses the new words to understand it. Ivan checks the door, looks at the book, and makes a simple plan. By the end, Ivan can say one clear sentence."
             }
           ]
         },
         {
-          "id": "arabic-intermediate-12",
+          "id": "arabic-intermediate-38",
           "level": "intermediate",
-          "title": "Intermediate 12: الكلمات 582-604",
+          "title": "Intermediate 38: The Family Story",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -48811,28 +49048,29 @@ window.LANGUAGE_CURRICULUM = {
             576,
             579
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/38-intermediate-the-family-story.txt",
           "sections": [
             {
-              "heading": "الفصل 1 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: قطار, وحيد, جدار, رغب, الفرح. الكلمات الجديدة: علامة, زيارة, الماضي, لينة, مرح, مشرق, الغاز, الطقس. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: قطار = train; وحيد = lone; جدار = wall; رغب = wish; الفرح = joy. New words: علامة = sign; زيارة = visit; الماضي = past; لينة = soft; مرح = fun; مشرق = bright; الغاز = gas; الطقس = weather. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب لينا إلى البيت. هناك الأم وصورة بالقرب منه. تقرأ لينا ببطء وتلاحظ كلمة جديدة: «قصة». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Lena is at home. There is mother and photo nearby. Lena reads slowly and notices a new word: story. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الفصل 2 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: قطار, وحيد, جدار, رغب, الفرح. الكلمات الجديدة: شهر, مليون, تحمل, نهاية, سعيدة, نأمل, زهرة, كسا. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: قطار = train; وحيد = lone; جدار = wall; رغب = wish; الفرح = joy. New words: شهر = month; مليون = million; تحمل = bear; نهاية = finish; سعيدة = happy; نأمل = hope; زهرة = flower; كسا = clothe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "تكتب لينا كلمة «قصة» في الدفتر. ثم تفكر في موضوع «عائلة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+              "en": "Lena writes the word story in a notebook. Then Lena thinks about family. The place is quiet, so Lena reads the sentence again and says it softly."
             },
             {
-              "heading": "الفصل 3 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: قطار, وحيد, جدار, رغب, الفرح. الكلمات الجديدة: غريب, ذهب, تجارة, لحن, رحلة, مكتب, تلقي. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: قطار = train; وحيد = lone; جدار = wall; رغب = wish; الفرح = joy. New words: غريب = strange; ذهب = gone; تجارة = trade; لحن = melody; رحلة = trip; مكتب = office; تلقي = receive. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "تظهر مشكلة صغيرة، لكن لينا تستخدم الكلمات الجديدة. تنظر إلى الأم، ثم إلى صورة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+              "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the mother, looks at the photo, and makes a simple plan. By the end, Lena can say one clear sentence."
             }
           ]
         },
         {
-          "id": "arabic-intermediate-13",
+          "id": "arabic-intermediate-39",
           "level": "intermediate",
-          "title": "Intermediate 13: الكلمات 605-627",
+          "title": "Intermediate 39: The Important Word",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -48875,28 +49113,29 @@ window.LANGUAGE_CURRICULUM = {
             599,
             602
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/39-intermediate-the-important-word.txt",
           "sections": [
             {
-              "heading": "الفصل 1 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: حافة, الماضي, مشرق, شهر, نهاية. الكلمات الجديدة: الصف, فم, بالضبط, رمز, مات, الأقل, مشكلة, صيحة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: حافة = edge; الماضي = past; مشرق = bright; شهر = month; نهاية = finish. New words: الصف = row; فم = mouth; بالضبط = exact; رمز = symbol; مات = die; الأقل = least; مشكلة = trouble; صيحة = shout. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، يذهب بافل إلى المكتبة. هناك قاموس وورقة بالقرب منه. يقرأ بافل ببطء ويلاحظ كلمة جديدة: «معنى». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Pavel is in the library. There is dictionary and paper nearby. Pavel reads slowly and notices a new word: meaning. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الفصل 2 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: حافة, الماضي, مشرق, شهر, نهاية. الكلمات الجديدة: إلا, كتب, بذرة, نغمة, انضمام, اقترح, نظيف, استراحة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: حافة = edge; الماضي = past; مشرق = bright; شهر = month; نهاية = finish. New words: إلا = except; كتب = wrote; بذرة = seed; نغمة = tone; انضمام = join; اقترح = suggest; نظيف = clean; استراحة = break. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "يكتب بافل كلمة «معنى» في الدفتر. ثم يفكر في موضوع «لغة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+              "en": "Pavel writes the word meaning in a notebook. Then Pavel thinks about language. The place is quiet, so Pavel reads the sentence again and says it softly."
             },
             {
-              "heading": "الفصل 3 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: حافة, الماضي, مشرق, شهر, نهاية. الكلمات الجديدة: سيدة, ساحة, الارتفاع, سيئة, ضربة, زيت, الدم. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: حافة = edge; الماضي = past; مشرق = bright; شهر = month; نهاية = finish. New words: سيدة = lady; ساحة = yard; الارتفاع = rise; سيئة = bad; ضربة = blow; زيت = oil; الدم = blood. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "تظهر مشكلة صغيرة، لكن بافل يستخدم الكلمات الجديدة. ينظر إلى قاموس، ثم إلى ورقة، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
+              "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the dictionary, looks at the paper, and makes a simple plan. By the end, Pavel can say one clear sentence."
             }
           ]
         },
         {
-          "id": "arabic-intermediate-14",
+          "id": "arabic-intermediate-40",
           "level": "intermediate",
-          "title": "Intermediate 14: الكلمات 628-650",
+          "title": "Intermediate 40: Closer Every Day",
           "difficulty": "Intermediate chapters",
           "band": 3,
           "wordRange": [
@@ -48939,28 +49178,29 @@ window.LANGUAGE_CURRICULUM = {
             622,
             625
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/40-intermediate-closer-every-day.txt",
           "sections": [
             {
-              "heading": "الفصل 1 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: تلقي, بالضبط, الأقل, إلا, نغمة. الكلمات الجديدة: لمس, نما, المائة, مزيج, فريق, سلك, التكلفة, فقدت. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: تلقي = receive; بالضبط = exact; الأقل = least; إلا = except; نغمة = tone. New words: لمس = touch; نما = grew; المائة = cent; مزيج = mix; فريق = team; سلك = wire; التكلفة = cost; فقدت = lost. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب إيرينا إلى الحديقة. هناك دفتر وشاي بالقرب منه. تقرأ إيرينا ببطء وتلاحظ كلمة جديدة: «أقرب». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Irina is in the park. There is notebook and tea nearby. Irina reads slowly and notices a new word: closer. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الفصل 2 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: تلقي, بالضبط, الأقل, إلا, نغمة. الكلمات الجديدة: أسمر, ارتداء, حديقة, متساو, أرسلت, اختيار, سقط, تناسب. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: تلقي = receive; بالضبط = exact; الأقل = least; إلا = except; نغمة = tone. New words: أسمر = brown; ارتداء = wear; حديقة = garden; متساو = equal; أرسلت = sent; اختيار = choose; سقط = fell; تناسب = fit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "تكتب إيرينا كلمة «أقرب» في الدفتر. ثم تفكر في موضوع «مراجعة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+              "en": "Irina writes the word closer in a notebook. Then Irina thinks about review. The place is quiet, so Irina reads the sentence again and says it softly."
             },
             {
-              "heading": "الفصل 3 / 3",
-              "ru": "يقرأ البطل ملاحظة، ويقارن المعاني، ثم يصنع جملا أطول. كلمات المراجعة: تلقي, بالضبط, الأقل, إلا, نغمة. الكلمات الجديدة: تدفق, عادل, البنك, جمع, حفظ, السيطرة, العشري. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: تلقي = receive; بالضبط = exact; الأقل = least; إلا = except; نغمة = tone. New words: تدفق = flow; عادل = fair; البنك = bank; جمع = collect; حفظ = save; السيطرة = control; العشري = decimal. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "تظهر مشكلة صغيرة، لكن إيرينا تستخدم الكلمات الجديدة. تنظر إلى دفتر، ثم إلى شاي، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+              "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the notebook, looks at the tea, and makes a simple plan. By the end, Irina can say one clear sentence."
             }
           ]
         },
         {
-          "id": "arabic-advanced-01",
+          "id": "arabic-advanced-41",
           "level": "advanced",
-          "title": "Advanced 01: الكلمات 651-685",
+          "title": "Advanced 41: The Long Walk Through the City",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -49015,38 +49255,39 @@ window.LANGUAGE_CURRICULUM = {
             645,
             648
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/41-advanced-the-long-walk-through-the-city.txt",
           "sections": [
             {
-              "heading": "الفصل 1 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الدم, المائة, سلك, أسمر, متساو. الكلمات الجديدة: إذن, آخر, تماما, حطم, حالة, وسط, قتل. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الدم = blood; المائة = cent; سلك = wire; أسمر = brown; متساو = equal. New words: إذن = ear; آخر = else; تماما = quite; حطم = broke; حالة = case; وسط = middle; قتل = kill. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب آنا إلى المدينة. هناك خريطة ونافذة بالقرب منه. تقرأ آنا ببطء وتلاحظ كلمة جديدة: «رحلة». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Anna is in the city. There is map and window nearby. Anna reads slowly and notices a new word: journey. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الفصل 2 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الدم, المائة, سلك, أسمر, متساو. الكلمات الجديدة: ابن, بحيرة, لحظة, على نطاق و, بصوت عال, الربيع, رصد. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الدم = blood; المائة = cent; سلك = wire; أسمر = brown; متساو = equal. New words: ابن = son; بحيرة = lake; لحظة = moment; على نطاق و = scale; بصوت عال = loud; الربيع = spring; رصد = observe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "تكتب آنا كلمة «رحلة» في الدفتر. ثم تفكر في موضوع «مدينة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+              "en": "Anna writes the word journey in a notebook. Then Anna thinks about city. The place is quiet, so Anna reads the sentence again and says it softly."
             },
             {
-              "heading": "الفصل 3 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الدم, المائة, سلك, أسمر, متساو. الكلمات الجديدة: طفل, مباشرة, متوافق, الأمة, قاموس, حليب, السرعة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الدم = blood; المائة = cent; سلك = wire; أسمر = brown; متساو = equal. New words: طفل = child; مباشرة = straight; متوافق = consonant; الأمة = nation; قاموس = dictionary; حليب = milk; السرعة = speed. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "تظهر مشكلة صغيرة، لكن آنا تستخدم الكلمات الجديدة. تنظر إلى خريطة، ثم إلى نافذة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+              "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the map, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
             },
             {
-              "heading": "الفصل 4 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الدم, المائة, سلك, أسمر, متساو. الكلمات الجديدة: طريقة, عضو, دفع, العمر, القسم, فستان, سحابة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الدم = blood; المائة = cent; سلك = wire; أسمر = brown; متساو = equal. New words: طريقة = method; عضو = organ; دفع = pay; العمر = age; القسم = section; فستان = dress; سحابة = cloud. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "لاحقًا، تلتقي آنا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.",
+              "en": "Later, Anna meets another person and asks one careful question. The answer is simple, but it helps. Anna writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "الفصل 5 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الدم, المائة, سلك, أسمر, متساو. الكلمات الجديدة: مفاجأة, هادئ, حجر, صغير, تسلق, بارد, تصميم. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الدم = blood; المائة = cent; سلك = wire; أسمر = brown; متساو = equal. New words: مفاجأة = surprise; هادئ = quiet; حجر = stone; صغير = tiny; تسلق = climb; بارد = cool; تصميم = design. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "في نهاية اليوم، تقرأ آنا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم آنا لأن التعلم صار ممكنًا وقريبًا.",
+              "en": "At the end of the day, Anna reads the whole page out loud. The words are not perfect yet, but they are familiar now. Anna smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "arabic-advanced-02",
+          "id": "arabic-advanced-42",
           "level": "advanced",
-          "title": "Advanced 02: الكلمات 686-720",
+          "title": "Advanced 42: The Forgotten Invitation",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -49101,38 +49342,39 @@ window.LANGUAGE_CURRICULUM = {
             680,
             683
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/42-advanced-the-forgotten-invitation.txt",
           "sections": [
             {
-              "heading": "الفصل 1 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: بصوت عال, طفل, الأمة, السرعة, دفع. الكلمات الجديدة: فقير, الكثير, تجربة, أسفل, مفتاح, حديد, احد. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: بصوت عال = loud; طفل = child; الأمة = nation; السرعة = speed; دفع = pay. New words: فقير = poor; الكثير = lot; تجربة = experiment; أسفل = bottom; مفتاح = key; حديد = iron; احد = single. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، يذهب ساشا إلى الجامعة. هناك رسالة وهاتف بالقرب منه. يقرأ ساشا ببطء ويلاحظ كلمة جديدة: «دعوة». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Sasha is at the university. There is letter and phone nearby. Sasha reads slowly and notices a new word: invitation. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الفصل 2 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: بصوت عال, طفل, الأمة, السرعة, دفع. الكلمات الجديدة: عصا, شقة, عشرون, الجلد, الابتسامة, تجعد, حفرة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: بصوت عال = loud; طفل = child; الأمة = nation; السرعة = speed; دفع = pay. New words: عصا = stick; شقة = flat; عشرون = twenty; الجلد = skin; الابتسامة = smile; تجعد = crease; حفرة = hole. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "يكتب ساشا كلمة «دعوة» في الدفتر. ثم يفكر في موضوع «لقاء». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+              "en": "Sasha writes the word invitation in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
             },
             {
-              "heading": "الفصل 3 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: بصوت عال, طفل, الأمة, السرعة, دفع. الكلمات الجديدة: القفزة, طفل, ثمانية, قرية, تلبية, الجذر, شراء. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: بصوت عال = loud; طفل = child; الأمة = nation; السرعة = speed; دفع = pay. New words: القفزة = jump; طفل = baby; ثمانية = eight; قرية = village; تلبية = meet; الجذر = root; شراء = buy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "تظهر مشكلة صغيرة، لكن ساشا يستخدم الكلمات الجديدة. ينظر إلى رسالة، ثم إلى هاتف، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
+              "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the phone, and makes a simple plan. By the end, Sasha can say one clear sentence."
             },
             {
-              "heading": "الفصل 4 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: بصوت عال, طفل, الأمة, السرعة, دفع. الكلمات الجديدة: رفع, حل, المعادن, سواء, دفع, سبعة, فقرة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: بصوت عال = loud; طفل = child; الأمة = nation; السرعة = speed; دفع = pay. New words: رفع = raise; حل = solve; المعادن = metal; سواء = whether; دفع = push; سبعة = seven; فقرة = paragraph. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "لاحقًا، يلتقي ساشا شخصًا آخر ويسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. يكتب ثلاث كلمات أخرى ويربطها بقصة اليوم.",
+              "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "الفصل 5 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: بصوت عال, طفل, الأمة, السرعة, دفع. الكلمات الجديدة: الثالث, يجب, عقدت, الشعر, وصف, طبخ, الطابق. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: بصوت عال = loud; طفل = child; الأمة = nation; السرعة = speed; دفع = pay. New words: الثالث = third; يجب = shall; عقدت = held; الشعر = hair; وصف = describe; طبخ = cook; الطابق = floor. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "في نهاية اليوم، يقرأ ساشا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. يبتسم ساشا لأن التعلم صار ممكنًا وقريبًا.",
+              "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "arabic-advanced-03",
+          "id": "arabic-advanced-43",
           "level": "advanced",
-          "title": "Advanced 03: الكلمات 721-755",
+          "title": "Advanced 43: The History Room",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -49187,38 +49429,39 @@ window.LANGUAGE_CURRICULUM = {
             715,
             718
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/43-advanced-the-history-room.txt",
           "sections": [
             {
-              "heading": "الفصل 1 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الابتسامة, القفزة, قرية, شراء, المعادن. الكلمات الجديدة: كل, نتيجة, حرق, التل, آمنة, القط, القرن. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الابتسامة = smile; القفزة = jump; قرية = village; شراء = buy; المعادن = metal. New words: كل = either; نتيجة = result; حرق = burn; التل = hill; آمنة = safe; القط = cat; القرن = century. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، يذهب نيكولاي إلى المتحف. هناك كتاب وصورة بالقرب منه. يقرأ نيكولاي ببطء ويلاحظ كلمة جديدة: «تاريخ». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Nikolay is in the museum. There is book and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الفصل 2 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الابتسامة, القفزة, قرية, شراء, المعادن. الكلمات الجديدة: النظر, نوع, القانون, لقمة, الساحل, نسخة, العبارة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الابتسامة = smile; القفزة = jump; قرية = village; شراء = buy; المعادن = metal. New words: النظر = consider; نوع = type; القانون = law; لقمة = bit; الساحل = coast; نسخة = copy; العبارة = phrase. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "يكتب نيكولاي كلمة «تاريخ» في الدفتر. ثم يفكر في موضوع «ماضٍ». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+              "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about past. The place is quiet, so Nikolay reads the sentence again and says it softly."
             },
             {
-              "heading": "الفصل 3 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الابتسامة, القفزة, قرية, شراء, المعادن. الكلمات الجديدة: الصمت, طويل, رمل, التربة, لفة, درجة الحرارة, إصبع. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الابتسامة = smile; القفزة = jump; قرية = village; شراء = buy; المعادن = metal. New words: الصمت = silent; طويل = tall; رمل = sand; التربة = soil; لفة = roll; درجة الحرارة = temperature; إصبع = finger. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "تظهر مشكلة صغيرة، لكن نيكولاي يستخدم الكلمات الجديدة. ينظر إلى كتاب، ثم إلى صورة، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
+              "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the book, looks at the picture, and makes a simple plan. By the end, Nikolay can say one clear sentence."
             },
             {
-              "heading": "الفصل 4 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الابتسامة, القفزة, قرية, شراء, المعادن. الكلمات الجديدة: صناعة, قيمة, المعركة, كذبة, فوز, أثار, طبيعي. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الابتسامة = smile; القفزة = jump; قرية = village; شراء = buy; المعادن = metal. New words: صناعة = industry; قيمة = value; المعركة = fight; كذبة = lie; فوز = beat; أثار = excite; طبيعي = natural. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "لاحقًا، يلتقي نيكولاي شخصًا آخر ويسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. يكتب ثلاث كلمات أخرى ويربطها بقصة اليوم.",
+              "en": "Later, Nikolay meets another person and asks one careful question. The answer is simple, but it helps. Nikolay writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "الفصل 5 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الابتسامة, القفزة, قرية, شراء, المعادن. الكلمات الجديدة: رأي, المعنى, العاصمة, سوف لا, كرسي, خطر, الفاكهة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الابتسامة = smile; القفزة = jump; قرية = village; شراء = buy; المعادن = metal. New words: رأي = view; المعنى = sense; العاصمة = capital; سوف لا = won’t; كرسي = chair; خطر = danger; الفاكهة = fruit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "في نهاية اليوم، يقرأ نيكولاي الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. يبتسم نيكولاي لأن التعلم صار ممكنًا وقريبًا.",
+              "en": "At the end of the day, Nikolay reads the whole page out loud. The words are not perfect yet, but they are familiar now. Nikolay smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "arabic-advanced-04",
+          "id": "arabic-advanced-44",
           "level": "advanced",
-          "title": "Advanced 04: الكلمات 756-790",
+          "title": "Advanced 44: The Quiet Train",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -49273,38 +49516,39 @@ window.LANGUAGE_CURRICULUM = {
             750,
             753
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/44-advanced-the-quiet-train.txt",
           "sections": [
             {
-              "heading": "الفصل 1 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الساحل, الصمت, التربة, إصبع, المعركة. الكلمات الجديدة: غني, سميك, جندي, عملية, العمل, ممارسة, منفصلة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الساحل = coast; الصمت = silent; التربة = soil; إصبع = finger; المعركة = fight. New words: غني = rich; سميك = thick; جندي = soldier; عملية = process; العمل = operate; ممارسة = practice; منفصلة = separate. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب ماريا إلى القطار. هناك تذكرة وشاي بالقرب منه. تقرأ ماريا ببطء وتلاحظ كلمة جديدة: «هدوء». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Maria is on the train. There is ticket and tea nearby. Maria reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الفصل 2 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الساحل, الصمت, التربة, إصبع, المعركة. الكلمات الجديدة: الصعب, الطبيب, الرجاء, حماية, ظهرا, محصول, الحديث. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الساحل = coast; الصمت = silent; التربة = soil; إصبع = finger; المعركة = fight. New words: الصعب = difficult; الطبيب = doctor; الرجاء = please; حماية = protect; ظهرا = noon; محصول = crop; الحديث = modern. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "تكتب ماريا كلمة «هدوء» في الدفتر. ثم تفكر في موضوع «سفر». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+              "en": "Maria writes the word quiet in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
             },
             {
-              "heading": "الفصل 3 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الساحل, الصمت, التربة, إصبع, المعركة. الكلمات الجديدة: عنصر, ضرب, طالب, ركن, حزب, تزويد, الذي. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الساحل = coast; الصمت = silent; التربة = soil; إصبع = finger; المعركة = fight. New words: عنصر = element; ضرب = hit; طالب = student; ركن = corner; حزب = party; تزويد = supply; الذي = whose. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "تظهر مشكلة صغيرة، لكن ماريا تستخدم الكلمات الجديدة. تنظر إلى تذكرة، ثم إلى شاي، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+              "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the tea, and makes a simple plan. By the end, Maria can say one clear sentence."
             },
             {
-              "heading": "الفصل 4 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الساحل, الصمت, التربة, إصبع, المعركة. الكلمات الجديدة: حدد, عصابة, حرف, الحشرة, اشتعلت, فترة, تشير. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الساحل = coast; الصمت = silent; التربة = soil; إصبع = finger; المعركة = fight. New words: حدد = locate; عصابة = ring; حرف = character; الحشرة = insect; اشتعلت = caught; فترة = period; تشير = indicate. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "لاحقًا، تلتقي ماريا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.",
+              "en": "Later, Maria meets another person and asks one careful question. The answer is simple, but it helps. Maria writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "الفصل 5 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الساحل, الصمت, التربة, إصبع, المعركة. الكلمات الجديدة: راديو, وتحدث, ذرة, بشري, التاريخ, تأثير, كهربائي. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الساحل = coast; الصمت = silent; التربة = soil; إصبع = finger; المعركة = fight. New words: راديو = radio; وتحدث = spoke; ذرة = atom; بشري = human; التاريخ = history; تأثير = effect; كهربائي = electric. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "في نهاية اليوم، تقرأ ماريا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم ماريا لأن التعلم صار ممكنًا وقريبًا.",
+              "en": "At the end of the day, Maria reads the whole page out loud. The words are not perfect yet, but they are familiar now. Maria smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "arabic-advanced-05",
+          "id": "arabic-advanced-45",
           "level": "advanced",
-          "title": "Advanced 05: الكلمات 791-825",
+          "title": "Advanced 45: A Plan for Tomorrow",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -49359,38 +49603,39 @@ window.LANGUAGE_CURRICULUM = {
             785,
             788
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/45-advanced-a-plan-for-tomorrow.txt",
           "sections": [
             {
-              "heading": "الفصل 1 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: ظهرا, عنصر, ركن, الذي, حرف. الكلمات الجديدة: توقع, العظام, سكة حديدية, تخيل, توفير, توافق, وبالتالي. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ظهرا = noon; عنصر = element; ركن = corner; الذي = whose; حرف = character. New words: توقع = expect; العظام = bone; سكة حديدية = rail; تخيل = imagine; توفير = provide; توافق = agree; وبالتالي = thus. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب لينا إلى البيت. هناك خريطة ودفتر بالقرب منه. تقرأ لينا ببطء وتلاحظ كلمة جديدة: «غد». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Lena is at home. There is map and notebook nearby. Lena reads slowly and notices a new word: tomorrow. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الفصل 2 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: ظهرا, عنصر, ركن, الذي, حرف. الكلمات الجديدة: لطيف, امرأة, نقيب, تخمين, الضرورة, حاد, جناح. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ظهرا = noon; عنصر = element; ركن = corner; الذي = whose; حرف = character. New words: لطيف = gentle; امرأة = woman; نقيب = captain; تخمين = guess; الضرورة = necessary; حاد = sharp; جناح = wing. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "تكتب لينا كلمة «غد» في الدفتر. ثم تفكر في موضوع «خطة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+              "en": "Lena writes the word tomorrow in a notebook. Then Lena thinks about plan. The place is quiet, so Lena reads the sentence again and says it softly."
             },
             {
-              "heading": "الفصل 3 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: ظهرا, عنصر, ركن, الذي, حرف. الكلمات الجديدة: خلق, الجيران, غسل, خفاش, بالأحرى, الحشد, الذرة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ظهرا = noon; عنصر = element; ركن = corner; الذي = whose; حرف = character. New words: خلق = create; الجيران = neighbor; غسل = wash; خفاش = bat; بالأحرى = rather; الحشد = crowd; الذرة = corn. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "تظهر مشكلة صغيرة، لكن لينا تستخدم الكلمات الجديدة. تنظر إلى خريطة، ثم إلى دفتر، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+              "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the map, looks at the notebook, and makes a simple plan. By the end, Lena can say one clear sentence."
             },
             {
-              "heading": "الفصل 4 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: ظهرا, عنصر, ركن, الذي, حرف. الكلمات الجديدة: مقارنة, قصيدة, سلسلة, جرس, تعتمد, اللحوم, فرك. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ظهرا = noon; عنصر = element; ركن = corner; الذي = whose; حرف = character. New words: مقارنة = compare; قصيدة = poem; سلسلة = string; جرس = bell; تعتمد = depend; اللحوم = meat; فرك = rub. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "لاحقًا، تلتقي لينا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.",
+              "en": "Later, Lena meets another person and asks one careful question. The answer is simple, but it helps. Lena writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "الفصل 5 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: ظهرا, عنصر, ركن, الذي, حرف. الكلمات الجديدة: أنبوب, الشهيرة, الدولار, تيار, خوف, مشهد, رقيق. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ظهرا = noon; عنصر = element; ركن = corner; الذي = whose; حرف = character. New words: أنبوب = tube; الشهيرة = famous; الدولار = dollar; تيار = stream; خوف = fear; مشهد = sight; رقيق = thin. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "في نهاية اليوم، تقرأ لينا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم لينا لأن التعلم صار ممكنًا وقريبًا.",
+              "en": "At the end of the day, Lena reads the whole page out loud. The words are not perfect yet, but they are familiar now. Lena smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "arabic-advanced-06",
+          "id": "arabic-advanced-46",
           "level": "advanced",
-          "title": "Advanced 06: الكلمات 826-860",
+          "title": "Advanced 46: News from the Cafe",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -49445,38 +49690,39 @@ window.LANGUAGE_CURRICULUM = {
             820,
             823
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/46-advanced-news-from-the-cafe.txt",
           "sections": [
             {
-              "heading": "الفصل 1 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الضرورة, خلق, خفاش, الذرة, سلسلة. الكلمات الجديدة: مثلث, كوكب, عجل, رئيس, مستعمرة, على مدار الساعة, منجم. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الضرورة = necessary; خلق = create; خفاش = bat; الذرة = corn; سلسلة = string. New words: مثلث = triangle; كوكب = planet; عجل = hurry; رئيس = chief; مستعمرة = colony; على مدار الساعة = clock; منجم = mine. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب أولغا إلى المقهى. هناك جريدة وشاي بالقرب منه. تقرأ أولغا ببطء وتلاحظ كلمة جديدة: «خبر». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Olga is in the cafe. There is newspaper and tea nearby. Olga reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الفصل 2 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الضرورة, خلق, خفاش, الذرة, سلسلة. الكلمات الجديدة: ربطة عنق, دخول, الرئيسية, جديدة, البحث, إرسال, الأصفر. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الضرورة = necessary; خلق = create; خفاش = bat; الذرة = corn; سلسلة = string. New words: ربطة عنق = tie; دخول = enter; الرئيسية = major; جديدة = fresh; البحث = search; إرسال = send; الأصفر = yellow. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "تكتب أولغا كلمة «خبر» في الدفتر. ثم تفكر في موضوع «حديث». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+              "en": "Olga writes the word news in a notebook. Then Olga thinks about talk. The place is quiet, so Olga reads the sentence again and says it softly."
             },
             {
-              "heading": "الفصل 3 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الضرورة, خلق, خفاش, الذرة, سلسلة. الكلمات الجديدة: بندقية, السماح, طباعة, ميت, بقعة, صحراء, دعوى. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الضرورة = necessary; خلق = create; خفاش = bat; الذرة = corn; سلسلة = string. New words: بندقية = gun; السماح = allow; طباعة = print; ميت = dead; بقعة = spot; صحراء = desert; دعوى = suit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "تظهر مشكلة صغيرة، لكن أولغا تستخدم الكلمات الجديدة. تنظر إلى جريدة، ثم إلى شاي، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+              "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the newspaper, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
             },
             {
-              "heading": "الفصل 4 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الضرورة, خلق, خفاش, الذرة, سلسلة. الكلمات الجديدة: التيار, رفع, ارتفع, وصول, سيد, المسار, الأم. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الضرورة = necessary; خلق = create; خفاش = bat; الذرة = corn; سلسلة = string. New words: التيار = current; رفع = lift; ارتفع = rose; وصول = arrive; سيد = master; المسار = track; الأم = parent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "لاحقًا، تلتقي أولغا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.",
+              "en": "Later, Olga meets another person and asks one careful question. The answer is simple, but it helps. Olga writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "الفصل 5 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الضرورة, خلق, خفاش, الذرة, سلسلة. الكلمات الجديدة: الشاطئ, تقسيم, ورقة, مادة, صالح, اتصال, آخر. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الضرورة = necessary; خلق = create; خفاش = bat; الذرة = corn; سلسلة = string. New words: الشاطئ = shore; تقسيم = division; ورقة = sheet; مادة = substance; صالح = favor; اتصال = connect; آخر = post. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "في نهاية اليوم، تقرأ أولغا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم أولغا لأن التعلم صار ممكنًا وقريبًا.",
+              "en": "At the end of the day, Olga reads the whole page out loud. The words are not perfect yet, but they are familiar now. Olga smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "arabic-advanced-07",
+          "id": "arabic-advanced-47",
           "level": "advanced",
-          "title": "Advanced 07: الكلمات 861-895",
+          "title": "Advanced 47: The Word That Changed the Day",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -49531,38 +49777,39 @@ window.LANGUAGE_CURRICULUM = {
             855,
             858
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/47-advanced-the-word-that-changed-the-day.txt",
           "sections": [
             {
-              "heading": "الفصل 1 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: البحث, بندقية, ميت, دعوى, ارتفع. الكلمات الجديدة: أنفق, وتر, دهن, سعيد, الأصلي, حصة, محطة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: البحث = search; بندقية = gun; ميت = dead; دعوى = suit; ارتفع = rose. New words: أنفق = spend; وتر = chord; دهن = fat; سعيد = glad; الأصلي = original; حصة = share; محطة = station. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، يذهب ديما إلى الشارع. هناك حقيبة وكتاب بالقرب منه. يقرأ ديما ببطء ويلاحظ كلمة جديدة: «مساعدة». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Dima is on the street. There is bag and book nearby. Dima reads slowly and notices a new word: help. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الفصل 2 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: البحث, بندقية, ميت, دعوى, ارتفع. الكلمات الجديدة: أب, الخبز, تهمة, السليم, شريط, العرض, قطاع. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: البحث = search; بندقية = gun; ميت = dead; دعوى = suit; ارتفع = rose. New words: أب = dad; الخبز = bread; تهمة = charge; السليم = proper; شريط = bar; العرض = offer; قطاع = segment. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "يكتب ديما كلمة «مساعدة» في الدفتر. ثم يفكر في موضوع «طريق». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+              "en": "Dima writes the word help in a notebook. Then Dima thinks about road. The place is quiet, so Dima reads the sentence again and says it softly."
             },
             {
-              "heading": "الفصل 3 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: البحث, بندقية, ميت, دعوى, ارتفع. الكلمات الجديدة: الرقيق, بط, لحظة, سوق, درجة, أهل, كتكوت. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: البحث = search; بندقية = gun; ميت = dead; دعوى = suit; ارتفع = rose. New words: الرقيق = slave; بط = duck; لحظة = instant; سوق = market; درجة = degree; أهل = populate; كتكوت = chick. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "تظهر مشكلة صغيرة، لكن ديما يستخدم الكلمات الجديدة. ينظر إلى حقيبة، ثم إلى كتاب، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
+              "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the bag, looks at the book, and makes a simple plan. By the end, Dima can say one clear sentence."
             },
             {
-              "heading": "الفصل 4 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: البحث, بندقية, ميت, دعوى, ارتفع. الكلمات الجديدة: عزيزتي, العدو, الرد, شراب, تحدث, دعم, خطاب. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: البحث = search; بندقية = gun; ميت = dead; دعوى = suit; ارتفع = rose. New words: عزيزتي = dear; العدو = enemy; الرد = reply; شراب = drink; تحدث = occur; دعم = support; خطاب = speech. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "لاحقًا، يلتقي ديما شخصًا آخر ويسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. يكتب ثلاث كلمات أخرى ويربطها بقصة اليوم.",
+              "en": "Later, Dima meets another person and asks one careful question. The answer is simple, but it helps. Dima writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "الفصل 5 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: البحث, بندقية, ميت, دعوى, ارتفع. الكلمات الجديدة: الطبيعة, مجموعة, البخار, الحركة, مسار, السائل, تسجيل. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: البحث = search; بندقية = gun; ميت = dead; دعوى = suit; ارتفع = rose. New words: الطبيعة = nature; مجموعة = range; البخار = steam; الحركة = motion; مسار = path; السائل = liquid; تسجيل = log. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "في نهاية اليوم، يقرأ ديما الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. يبتسم ديما لأن التعلم صار ممكنًا وقريبًا.",
+              "en": "At the end of the day, Dima reads the whole page out loud. The words are not perfect yet, but they are familiar now. Dima smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "arabic-advanced-08",
+          "id": "arabic-advanced-48",
           "level": "advanced",
-          "title": "Advanced 08: الكلمات 896-930",
+          "title": "Advanced 48: The Meeting at the University",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -49617,38 +49864,39 @@ window.LANGUAGE_CURRICULUM = {
             890,
             893
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/48-advanced-the-meeting-at-the-university.txt",
           "sections": [
             {
-              "heading": "الفصل 1 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: شريط, الرقيق, سوق, كتكوت, الرد. الكلمات الجديدة: مقصود, حاصل, أسنان, قذيفة, الرقبة, الأكسجين, السكر. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: شريط = bar; الرقيق = slave; سوق = market; كتكوت = chick; الرد = reply. New words: مقصود = meant; حاصل = quotient; أسنان = teeth; قذيفة = shell; الرقبة = neck; الأكسجين = oxygen; السكر = sugar. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، يذهب ساشا إلى الجامعة. هناك رسالة ومكتب بالقرب منه. يقرأ ساشا ببطء ويلاحظ كلمة جديدة: «لقاء». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Sasha is at the university. There is letter and desk nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الفصل 2 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: شريط, الرقيق, سوق, كتكوت, الرد. الكلمات الجديدة: الموت, جميل, مهارة, النساء, الموسم, حل, مغناطيس. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: شريط = bar; الرقيق = slave; سوق = market; كتكوت = chick; الرد = reply. New words: الموت = death; جميل = pretty; مهارة = skill; النساء = women; الموسم = season; حل = solution; مغناطيس = magnet. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "يكتب ساشا كلمة «لقاء» في الدفتر. ثم يفكر في موضوع «أفكار». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
+              "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about ideas. The place is quiet, so Sasha reads the sentence again and says it softly."
             },
             {
-              "heading": "الفصل 3 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: شريط, الرقيق, سوق, كتكوت, الرد. الكلمات الجديدة: فضة, شكرا, فرع, مباراة, لاحقة, خاصة, تين. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: شريط = bar; الرقيق = slave; سوق = market; كتكوت = chick; الرد = reply. New words: فضة = silver; شكرا = thank; فرع = branch; مباراة = match; لاحقة = suffix; خاصة = especially; تين = fig. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "تظهر مشكلة صغيرة، لكن ساشا يستخدم الكلمات الجديدة. ينظر إلى رسالة، ثم إلى مكتب، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
+              "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the desk, and makes a simple plan. By the end, Sasha can say one clear sentence."
             },
             {
-              "heading": "الفصل 4 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: شريط, الرقيق, سوق, كتكوت, الرد. الكلمات الجديدة: خائف, ضخم, شقيقة, الصلب, بحث, إلى الأمام, مماثل. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: شريط = bar; الرقيق = slave; سوق = market; كتكوت = chick; الرد = reply. New words: خائف = afraid; ضخم = huge; شقيقة = sister; الصلب = steel; بحث = discuss; إلى الأمام = forward; مماثل = similar. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "لاحقًا، يلتقي ساشا شخصًا آخر ويسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. يكتب ثلاث كلمات أخرى ويربطها بقصة اليوم.",
+              "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "الفصل 5 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: شريط, الرقيق, سوق, كتكوت, الرد. الكلمات الجديدة: توجيه, التجربة, النتيجة, تفاحة, اشترى, أدى, رمية. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: شريط = bar; الرقيق = slave; سوق = market; كتكوت = chick; الرد = reply. New words: توجيه = guide; التجربة = experience; النتيجة = score; تفاحة = apple; اشترى = bought; أدى = led; رمية = pitch. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "في نهاية اليوم، يقرأ ساشا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. يبتسم ساشا لأن التعلم صار ممكنًا وقريبًا.",
+              "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "arabic-advanced-09",
+          "id": "arabic-advanced-49",
           "level": "advanced",
-          "title": "Advanced 09: الكلمات 931-965",
+          "title": "Advanced 49: The Letter and the Map",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -49703,38 +49951,39 @@ window.LANGUAGE_CURRICULUM = {
             925,
             928
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/49-advanced-the-letter-and-the-map.txt",
           "sections": [
             {
-              "heading": "الفصل 1 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الموسم, فضة, مباراة, تين, شقيقة. الكلمات الجديدة: معطف, كتلة, بطاقة, فرقة, حبل, انزلاق, الفوز. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الموسم = season; فضة = silver; مباراة = match; تين = fig; شقيقة = sister. New words: معطف = coat; كتلة = mass; بطاقة = card; فرقة = band; حبل = rope; انزلاق = slip; الفوز = win. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب كاتيا إلى المكتبة. هناك رسالة وخريطة بالقرب منه. تقرأ كاتيا ببطء وتلاحظ كلمة جديدة: «مسار». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Katya is in the library. There is letter and map nearby. Katya reads slowly and notices a new word: route. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الفصل 2 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الموسم, فضة, مباراة, تين, شقيقة. الكلمات الجديدة: حلم, مساء, حالة, علف, أداة, الكل, الأساسية. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الموسم = season; فضة = silver; مباراة = match; تين = fig; شقيقة = sister. New words: حلم = dream; مساء = evening; حالة = condition; علف = feed; أداة = tool; الكل = total; الأساسية = basic. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "تكتب كاتيا كلمة «مسار» في الدفتر. ثم تفكر في موضوع «بحث». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+              "en": "Katya writes the word route in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
             },
             {
-              "heading": "الفصل 3 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الموسم, فضة, مباراة, تين, شقيقة. الكلمات الجديدة: رائحة, الوادي, ولا, ضعف, مقعد, تواصل, كتلة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الموسم = season; فضة = silver; مباراة = match; تين = fig; شقيقة = sister. New words: رائحة = smell; الوادي = valley; ولا = nor; ضعف = double; مقعد = seat; تواصل = continue; كتلة = block. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "تظهر مشكلة صغيرة، لكن كاتيا تستخدم الكلمات الجديدة. تنظر إلى رسالة، ثم إلى خريطة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+              "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the letter, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
             },
             {
-              "heading": "الفصل 4 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الموسم, فضة, مباراة, تين, شقيقة. الكلمات الجديدة: جدول, قبعة, بيع, نجاح, شركة, طرح, حدث. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الموسم = season; فضة = silver; مباراة = match; تين = fig; شقيقة = sister. New words: جدول = chart; قبعة = hat; بيع = sell; نجاح = success; شركة = company; طرح = subtract; حدث = event. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "لاحقًا، تلتقي كاتيا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.",
+              "en": "Later, Katya meets another person and asks one careful question. The answer is simple, but it helps. Katya writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "الفصل 5 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: الموسم, فضة, مباراة, تين, شقيقة. الكلمات الجديدة: خاصة, صفقة, السباحة, مصطلح, العكس, زوجة, حذاء. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: الموسم = season; فضة = silver; مباراة = match; تين = fig; شقيقة = sister. New words: خاصة = particular; صفقة = deal; السباحة = swim; مصطلح = term; العكس = opposite; زوجة = wife; حذاء = shoe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "في نهاية اليوم، تقرأ كاتيا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم كاتيا لأن التعلم صار ممكنًا وقريبًا.",
+              "en": "At the end of the day, Katya reads the whole page out loud. The words are not perfect yet, but they are familiar now. Katya smiles because learning feels possible and close."
             }
           ]
         },
         {
-          "id": "arabic-advanced-10",
+          "id": "arabic-advanced-50",
           "level": "advanced",
-          "title": "Advanced 10: الكلمات 966-1000",
+          "title": "Advanced 50: The Language Feels Close",
           "difficulty": "Advanced chapters",
           "band": 4,
           "wordRange": [
@@ -49789,35 +50038,37 @@ window.LANGUAGE_CURRICULUM = {
             960,
             963
           ],
+          "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/50-advanced-the-language-feels-close.txt",
           "sections": [
             {
-              "heading": "الفصل 1 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: أداة, رائحة, ضعف, كتلة, بيع. الكلمات الجديدة: الكتف, انتشار, رتب, مخيم, اختراع, قطن, الولادة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: أداة = tool; رائحة = smell; ضعف = double; كتلة = block; بيع = sell. New words: الكتف = shoulder; انتشار = spread; رتب = arrange; مخيم = camp; اختراع = invent; قطن = cotton; الولادة = born. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 1",
+              "ru": "في الصباح، تذهب إيرينا إلى الحديقة. هناك كتاب وهاتف بالقرب منه. تقرأ إيرينا ببطء وتلاحظ كلمة جديدة: «لغة». اليوم جيد، واللغة تصبح أقرب.",
+              "en": "In the morning, Irina is in the park. There is book and phone nearby. Irina reads slowly and notices a new word: language. The day feels good, and the language feels a little closer."
             },
             {
-              "heading": "الفصل 2 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: أداة, رائحة, ضعف, كتلة, بيع. الكلمات الجديدة: حدد, رابعا, تسعة, شاحنة, الضوضاء, مستوى, فرصة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: أداة = tool; رائحة = smell; ضعف = double; كتلة = block; بيع = sell. New words: حدد = determine; رابعا = quart; تسعة = nine; شاحنة = truck; الضوضاء = noise; مستوى = level; فرصة = chance. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 2",
+              "ru": "تكتب إيرينا كلمة «لغة» في الدفتر. ثم تفكر في موضوع «ثقة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
+              "en": "Irina writes the word language in a notebook. Then Irina thinks about confidence. The place is quiet, so Irina reads the sentence again and says it softly."
             },
             {
-              "heading": "الفصل 3 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: أداة, رائحة, ضعف, كتلة, بيع. الكلمات الجديدة: جمع, متجر, امتداد, رمي, تألق, الملكية, عمود. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: أداة = tool; رائحة = smell; ضعف = double; كتلة = block; بيع = sell. New words: جمع = gather; متجر = shop; امتداد = stretch; رمي = throw; تألق = shine; الملكية = property; عمود = column. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 3",
+              "ru": "تظهر مشكلة صغيرة، لكن إيرينا تستخدم الكلمات الجديدة. تنظر إلى كتاب، ثم إلى هاتف، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
+              "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the book, looks at the phone, and makes a simple plan. By the end, Irina can say one clear sentence."
             },
             {
-              "heading": "الفصل 4 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: أداة, رائحة, ضعف, كتلة, بيع. الكلمات الجديدة: جزيء, اختر, خاطئ, رمادي, كرر, تتطلب, واسع. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: أداة = tool; رائحة = smell; ضعف = double; كتلة = block; بيع = sell. New words: جزيء = molecule; اختر = select; خاطئ = wrong; رمادي = gray; كرر = repeat; تتطلب = require; واسع = broad. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 4",
+              "ru": "لاحقًا، تلتقي إيرينا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.",
+              "en": "Later, Irina meets another person and asks one careful question. The answer is simple, but it helps. Irina writes three more words and connects them to the story of the day."
             },
             {
-              "heading": "الفصل 5 / 5",
-              "ru": "في هذا الفصل تصبح الكلمات جزءا من قصة كبيرة فيها ذاكرة واختيار وتفاصيل. كلمات المراجعة: أداة, رائحة, ضعف, كتلة, بيع. الكلمات الجديدة: إعداد, ملح, الأنف, الجمع, غضب, مطالبة, القارة. يقرأ بصوت عال، ويسمع صوته، ثم يكتب الكلمات في دفتره.",
-              "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: أداة = tool; رائحة = smell; ضعف = double; كتلة = block; بيع = sell. New words: إعداد = prepare; ملح = salt; الأنف = nose; الجمع = plural; غضب = anger; مطالبة = claim; القارة = continent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+              "heading": "Page 5",
+              "ru": "في نهاية اليوم، تقرأ إيرينا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم إيرينا لأن التعلم صار ممكنًا وقريبًا.",
+              "en": "At the end of the day, Irina reads the whole page out loud. The words are not perfect yet, but they are familiar now. Irina smiles because learning feels possible and close."
             }
           ]
         }
       ]
     }
-  }
+  },
+  "storySource": "Stories/Text/language_story_pack"
 };

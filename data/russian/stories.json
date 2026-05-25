@@ -2,7 +2,7 @@
   {
     "id": "russian-beginner-01",
     "level": "beginner",
-    "title": "Beginner 01: Слова 1-9",
+    "title": "Beginner 01: Morning at Home",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -22,18 +22,19 @@
       9
     ],
     "reviewWords": [],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/01-beginner-morning-at-home.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "Сегодня ученик читает простую страницу. Новые слова: как, Я, его, что, он, было, для, на, являются. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "Today the learner reads a short page. New words: как = as; Я = I; его = his; что = that; он = he; было = was; для = for; на = on; являются = are. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Анна идёт домой. Там рядом есть чай и книга. Анна читает медленно и замечает новое слово: «город». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Anna is at home. There is tea and book nearby. Anna reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "russian-beginner-02",
     "level": "beginner",
-    "title": "Beginner 02: Слова 10-18",
+    "title": "Beginner 02: Tea on the Table",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -59,18 +60,19 @@
       7,
       9
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/02-beginner-tea-on-the-table.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "Сегодня ученик читает простую страницу. Слова для повторения: как, его, он, для, являются. Новые слова: с, они, быть, в, один, иметь, это, от, по. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "Today the learner reads a short page. Review words: как = as; его = his; он = he; для = for; являются = are. New words: с = with; они = they; быть = be; в = at; один = one; иметь = have; это = this; от = from; по = by. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Лена идёт домой. Там рядом есть чай и хлеб. Лена читает медленно и замечает новое слово: «стол». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Lena is at home. There is tea and bread nearby. Lena reads slowly and notices a new word: table. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "russian-beginner-03",
     "level": "beginner",
-    "title": "Beginner 03: Слова 19-27",
+    "title": "Beginner 03: The Open Window",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -97,18 +99,19 @@
       13,
       16
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/03-beginner-the-open-window.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "Сегодня ученик читает простую страницу. Слова для повторения: как, что, для, с, в. Новые слова: горячий, слово, но, что, некоторые, является, это, вы, или. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "Today the learner reads a short page. Review words: как = as; что = that; для = for; с = with; в = at. New words: горячий = hot; слово = word; но = but; что = what; некоторые = some; является = is; это = it; вы = you; или = or. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Иван идёт домой. Там рядом есть окно и книга. Иван читает медленно и замечает новое слово: «библиотека». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Ivan is at home. There is window and book nearby. Ivan reads slowly and notices a new word: library. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "russian-beginner-04",
     "level": "beginner",
-    "title": "Beginner 04: Слова 28-36",
+    "title": "Beginner 04: Walking to the Park",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -137,18 +140,19 @@
       22,
       25
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/04-beginner-walking-to-the-park.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "Сегодня ученик читает простую страницу. Слова для повторения: что, для, с, в, это. Новые слова: было, площадь, из, гора, и, основной, взял, мы, может. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "Today the learner reads a short page. Review words: что = that; для = for; с = with; в = at; это = this. New words: было = had; площадь = the; из = of; гора = to; и = and; основной = a; взял = in; мы = we; может = can. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Маша идёт в парк. Там рядом есть мама и брат. Маша читает медленно и замечает новое слово: «друг». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Masha is in the park. There is mother and brother nearby. Masha reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "russian-beginner-05",
     "level": "beginner",
-    "title": "Beginner 05: Слова 37-44",
+    "title": "Beginner 05: A Quiet Street",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -176,18 +180,19 @@
       31,
       34
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/05-beginner-a-quiet-street.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "Сегодня ученик читает простую страницу. Слова для повторения: в, это, горячий, что, это. Новые слова: из, другой, были, который, сделать, их, время, если. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "Today the learner reads a short page. Review words: в = at; это = this; горячий = hot; что = what; это = it. New words: из = out; другой = other; были = were; который = which; сделать = do; их = their; время = time; если = if. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Павел идёт на улицу. Там рядом есть дом и окно. Павел читает медленно и замечает новое слово: «улица». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Pavel is on the street. There is house and window nearby. Pavel reads slowly and notices a new word: street. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "russian-beginner-06",
     "level": "beginner",
-    "title": "Beginner 06: Слова 45-52",
+    "title": "Beginner 06: The First Book",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -215,18 +220,19 @@
       39,
       42
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/06-beginner-the-first-book.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "Сегодня ученик читает простую страницу. Слова для повторения: но, является, или, из, основной. Новые слова: будет, как, указанный, назад, каждый, сказать, делает, набор. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "Today the learner reads a short page. Review words: но = but; является = is; или = or; из = of; основной = a. New words: будет = will; как = how; указанный = said; назад = an; каждый = each; сказать = tell; делает = does; набор = set. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Ольга идёт в библиотеку. Там рядом есть книга и карточка. Ольга читает медленно и замечает новое слово: «слово». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Olga is in the library. There is book and card nearby. Olga reads slowly and notices a new word: word. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "russian-beginner-07",
     "level": "beginner",
-    "title": "Beginner 07: Слова 53-60",
+    "title": "Beginner 07: A Good Day",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -254,18 +260,19 @@
       47,
       50
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/07-beginner-a-good-day.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "Сегодня ученик читает простую страницу. Слова для повторения: площадь, и, мы, другой, сделать. Новые слова: три, хочу, воздух, хорошо, также, играть, небольшой, конец. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "Today the learner reads a short page. Review words: площадь = the; и = and; мы = we; другой = other; сделать = do. New words: три = three; хочу = want; воздух = air; хорошо = well; также = also; играть = play; небольшой = small; конец = end. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Николай идёт в парк. Там рядом есть солнце и дерево. Николай читает медленно и замечает новое слово: «хороший». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Nikolay is in the park. There is sun and tree nearby. Nikolay reads slowly and notices a new word: good. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "russian-beginner-08",
     "level": "beginner",
-    "title": "Beginner 08: Слова 61-68",
+    "title": "Beginner 08: At School",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -293,18 +300,19 @@
       55,
       58
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/08-beginner-at-school.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "Сегодня ученик читает простую страницу. Слова для повторения: из, который, время, как, каждый. Новые слова: положить, домой, читать, рука, порт, большой, заклинание, добавлять. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "Today the learner reads a short page. Review words: из = out; который = which; время = time; как = how; каждый = each. New words: положить = put; домой = home; читать = read; рука = hand; порт = port; большой = large; заклинание = spell; добавлять = add. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Саша идёт в школу. Там рядом есть парта и карандаш. Саша читает медленно и замечает новое слово: «школа». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Sasha is at school. There is desk and pencil nearby. Sasha reads slowly and notices a new word: school. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "russian-beginner-09",
     "level": "beginner",
-    "title": "Beginner 09: Слова 69-76",
+    "title": "Beginner 09: At the Store",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -332,18 +340,19 @@
       63,
       66
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/09-beginner-at-the-store.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "Сегодня ученик читает простую страницу. Слова для повторения: будет, назад, делает, хочу, также. Новые слова: даже, земля, здесь, должны, большой, высокий, такие, следовать. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "Today the learner reads a short page. Review words: будет = will; назад = an; делает = does; хочу = want; также = also. New words: даже = even; земля = land; здесь = here; должны = must; большой = big; высокий = high; такие = such; следовать = follow. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Ирина идёт в магазин. Там рядом есть сумка и еда. Ирина читает медленно и замечает новое слово: «магазин». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Irina is in the store. There is bag and food nearby. Irina reads slowly and notices a new word: store. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "russian-beginner-10",
     "level": "beginner",
-    "title": "Beginner 10: Слова 77-84",
+    "title": "Beginner 10: At the Station",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -371,18 +380,19 @@
       71,
       74
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/10-beginner-at-the-station.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "Сегодня ученик читает простую страницу. Слова для повторения: три, хорошо, небольшой, домой, порт. Новые слова: акт, почему, спросите, люди, изменение, пошел, свет, вид. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "Today the learner reads a short page. Review words: три = three; хорошо = well; небольшой = small; домой = home; порт = port. New words: акт = act; почему = why; спросите = ask; люди = men; изменение = change; пошел = went; свет = light; вид = kind. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Мария идёт на станцию. Там рядом есть чай и билет. Мария читает медленно и замечает новое слово: «станция». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Maria is at the station. There is tea and ticket nearby. Maria reads slowly and notices a new word: station. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "russian-beginner-11",
     "level": "beginner",
-    "title": "Beginner 11: Слова 85-92",
+    "title": "Beginner 11: A Simple Call",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -410,18 +420,19 @@
       79,
       82
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/11-beginner-a-simple-call.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "Сегодня ученик читает простую страницу. Слова для повторения: положить, рука, заклинание, земля, большой. Новые слова: от, нуждаться, дом, картинка, пытаться, нам, снова, животных. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "Today the learner reads a short page. Review words: положить = put; рука = hand; заклинание = spell; земля = land; большой = big. New words: от = off; нуждаться = need; дом = house; картинка = picture; пытаться = try; нам = us; снова = again; животных = animal. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Дима идёт домой. Там рядом есть телефон и тетрадь. Дима читает медленно и замечает новое слово: «друг». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Dima is at home. There is phone and notebook nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "russian-beginner-12",
     "level": "beginner",
-    "title": "Beginner 12: Слова 93-100",
+    "title": "Beginner 12: I Know This Word",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -449,18 +460,19 @@
       87,
       90
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/12-beginner-i-know-this-word.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "Сегодня ученик читает простую страницу. Слова для повторения: даже, должны, такие, почему, изменение. Новые слова: точка, мать, мир, около, строить, самостоятельно, земля, отец. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "Today the learner reads a short page. Review words: даже = even; должны = must; такие = such; почему = why; изменение = change. New words: точка = point; мать = mother; мир = world; около = near; строить = build; самостоятельно = self; земля = earth; отец = father. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Катя идёт в комнату. Там рядом есть бумага и книга. Катя читает медленно и замечает новое слово: «знать». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Katya is in the room. There is paper and book nearby. Katya reads slowly and notices a new word: know. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
-    "id": "russian-elementary-01",
+    "id": "russian-elementary-13",
     "level": "elementary",
-    "title": "Elementary 01: Слова 101-116",
+    "title": "Elementary 13: The Library Window",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -496,23 +508,24 @@
       95,
       98
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/13-elementary-the-library-window.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: акт, люди, свет, нуждаться, пытаться. Новые слова: любой, новый, работа, часть, принимать, получать, место, сделал. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: акт = act; люди = men; свет = light; нуждаться = need; пытаться = try. New words: любой = any; новый = new; работа = work; часть = part; принимать = take; получать = get; место = place; сделал = made. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Павел идёт в библиотеку. Там рядом есть окно и тетрадь. Павел читает медленно и замечает новое слово: «тихо». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Pavel is in the library. There is window and notebook nearby. Pavel reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Страница 2",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: акт, люди, свет, нуждаться, пытаться. Новые слова: жить, где, после, назад, немного, только, круглый, человек. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: акт = act; люди = men; свет = light; нуждаться = need; пытаться = try. New words: жить = live; где = where; после = after; назад = back; немного = little; только = only; круглый = round; человек = man. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Павел пишет слово «тихо» в тетради. Потом Павел думает о теме «чтение». В этом месте тихо, поэтому Павел снова читает предложение и произносит его вслух.",
+        "en": "Pavel writes the word quiet in a notebook. Then Pavel thinks about reading. The place is quiet, so Pavel reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "russian-elementary-02",
+    "id": "russian-elementary-14",
     "level": "elementary",
-    "title": "Elementary 02: Слова 117-132",
+    "title": "Elementary 14: The Museum Visit",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -548,23 +561,24 @@
       111,
       114
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/14-elementary-the-museum-visit.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: точка, около, земля, новый, принимать. Новые слова: год, пришел, шоу, каждый, хорошее, меня, давать, наш. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: точка = point; около = near; земля = earth; новый = new; принимать = take. New words: год = year; пришел = came; шоу = show; каждый = every; хорошее = good; меня = me; давать = give; наш = our. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Николай идёт в музей. Там рядом есть билет и картина. Николай читает медленно и замечает новое слово: «история». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Nikolay is in the museum. There is ticket and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Страница 2",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: точка, около, земля, новый, принимать. Новые слова: под, название, очень, через, просто, форма, приговор, большой. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: точка = point; около = near; земля = earth; новый = new; принимать = take. New words: под = under; название = name; очень = very; через = through; просто = just; форма = form; приговор = sentence; большой = great. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Николай пишет слово «история» в тетради. Потом Николай думает о теме «память». В этом месте тихо, поэтому Николай снова читает предложение и произносит его вслух.",
+        "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about memory. The place is quiet, so Nikolay reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "russian-elementary-03",
+    "id": "russian-elementary-15",
     "level": "elementary",
-    "title": "Elementary 03: Слова 133-148",
+    "title": "Elementary 15: The Cafe Notebook",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -600,23 +614,24 @@
       127,
       130
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/15-elementary-the-cafe-notebook.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: жить, назад, круглый, пришел, хорошее. Новые слова: думать, сказать, помощь, низкий, линия, отличаются, поворот, причиной. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: жить = live; назад = back; круглый = round; пришел = came; хорошее = good. New words: думать = think; сказать = say; помощь = help; низкий = low; линия = line; отличаются = differ; поворот = turn; причиной = cause. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Ольга идёт в кафе. Там рядом есть чай и музыка. Ольга читает медленно и замечает новое слово: «мелодия». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Olga is in the cafe. There is tea and music nearby. Olga reads slowly and notices a new word: melody. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Страница 2",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: жить, назад, круглый, пришел, хорошее. Новые слова: много, означать, до, движение, право, мальчик, старый, слишком. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: жить = live; назад = back; круглый = round; пришел = came; хорошее = good. New words: много = much; означать = mean; до = before; движение = move; право = right; мальчик = boy; старый = old; слишком = too. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Ольга пишет слово «мелодия» в тетради. Потом Ольга думает о теме «слушание». В этом месте тихо, поэтому Ольга снова читает предложение и произносит его вслух.",
+        "en": "Olga writes the word melody in a notebook. Then Olga thinks about listening. The place is quiet, so Olga reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "russian-elementary-04",
+    "id": "russian-elementary-16",
     "level": "elementary",
-    "title": "Elementary 04: Слова 149-164",
+    "title": "Elementary 16: Rain Near the Door",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -652,23 +667,24 @@
       143,
       146
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/16-elementary-rain-near-the-door.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: под, через, приговор, сказать, линия. Новые слова: же, она, все, там, когда, вверх, использование, ваш. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: под = under; через = through; приговор = sentence; сказать = say; линия = line. New words: же = same; она = she; все = all; там = there; когда = when; вверх = up; использование = use; ваш = your. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Дима идёт в книжный магазин. Там рядом есть дверь и книга. Дима читает медленно и замечает новое слово: «дорога». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Dima is in the bookshop. There is door and book nearby. Dima reads slowly and notices a new word: road. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Страница 2",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: под, через, приговор, сказать, линия. Новые слова: способ, о, многие, затем, их, запись, бы, подобно. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: под = under; через = through; приговор = sentence; сказать = say; линия = line. New words: способ = way; о = about; многие = many; затем = then; их = them; запись = write; бы = would; подобно = like. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Дима пишет слово «дорога» в тетради. Потом Дима думает о теме «дождь». В этом месте тихо, поэтому Дима снова читает предложение и произносит его вслух.",
+        "en": "Dima writes the word road in a notebook. Then Dima thinks about rain. The place is quiet, so Dima reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "russian-elementary-05",
+    "id": "russian-elementary-17",
     "level": "elementary",
-    "title": "Elementary 05: Слова 165-180",
+    "title": "Elementary 17: The Letter on the Table",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -704,23 +720,24 @@
       159,
       162
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/17-elementary-the-letter-on-the-table.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: много, движение, старый, она, когда. Новые слова: так, эти, ее, долго, сделать, вещь, посмотреть, его. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: много = much; движение = move; старый = old; она = she; когда = when. New words: так = so; эти = these; ее = her; долго = long; сделать = make; вещь = thing; посмотреть = see; его = him. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Саша идёт в университет. Там рядом есть письмо и стол. Саша читает медленно и замечает новое слово: «встреча». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Sasha is at the university. There is letter and table nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Страница 2",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: много, движение, старый, она, когда. Новые слова: два, имеет, искать, еще, день, мог, идти, приходят. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: много = much; движение = move; старый = old; она = she; когда = when. New words: два = two; имеет = has; искать = look; еще = more; день = day; мог = could; идти = go; приходят = come. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Саша пишет слово «встреча» в тетради. Потом Саша думает о теме «приглашение». В этом месте тихо, поэтому Саша снова читает предложение и произносит его вслух.",
+        "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about invitation. The place is quiet, so Sasha reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "russian-elementary-06",
+    "id": "russian-elementary-18",
     "level": "elementary",
-    "title": "Elementary 06: Слова 181-196",
+    "title": "Elementary 18: Words in the Park",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -756,23 +773,24 @@
       175,
       178
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/18-elementary-words-in-the-park.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: способ, затем, бы, эти, сделать. Новые слова: сделал, число, звук, нет, наиболее, люди, мой, над. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: способ = way; затем = then; бы = would; эти = these; сделать = make. New words: сделал = did; число = number; звук = sound; нет = no; наиболее = most; люди = people; мой = my; над = over. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Ирина идёт в парк. Там рядом есть телефон и чай. Ирина читает медленно и замечает новое слово: «три». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Irina is in the park. There is phone and tea nearby. Irina reads slowly and notices a new word: three. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Страница 2",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: способ, затем, бы, эти, сделать. Новые слова: знать, вода, чем, вызов, первый, кто, может, вниз. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: способ = way; затем = then; бы = would; эти = these; сделать = make. New words: знать = know; вода = water; чем = than; вызов = call; первый = first; кто = who; может = may; вниз = down. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Ирина пишет слово «три» в тетради. Потом Ирина думает о теме «речь». В этом месте тихо, поэтому Ирина снова читает предложение и произносит его вслух.",
+        "en": "Irina writes the word three in a notebook. Then Irina thinks about speaking. The place is quiet, so Irina reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "russian-elementary-07",
+    "id": "russian-elementary-19",
     "level": "elementary",
-    "title": "Elementary 07: Слова 197-212",
+    "title": "Elementary 19: The Little Plan",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -808,23 +826,24 @@
       191,
       194
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/19-elementary-the-little-plan.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: два, еще, идти, число, наиболее. Новые слова: сторона, был, сейчас, находить, руководитель, стоять, самостоятельно, страница. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: два = two; еще = more; идти = go; число = number; наиболее = most. New words: сторона = side; был = been; сейчас = now; находить = find; руководитель = head; стоять = stand; самостоятельно = own; страница = page. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Лена идёт в магазин. Там рядом есть карта и корзина. Лена читает медленно и замечает новое слово: «план». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Lena is in the store. There is map and basket nearby. Lena reads slowly and notices a new word: plan. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Страница 2",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: два, еще, идти, число, наиболее. Новые слова: должны, страна, найдено, ответ, школа, расти, исследование, еще. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: два = two; еще = more; идти = go; число = number; наиболее = most. New words: должны = should; страна = country; найдено = found; ответ = answer; школа = school; расти = grow; исследование = study; еще = still. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Лена пишет слово «план» в тетради. Потом Лена думает о теме «покупки». В этом месте тихо, поэтому Лена снова читает предложение и произносит его вслух.",
+        "en": "Lena writes the word plan in a notebook. Then Lena thinks about shopping. The place is quiet, so Lena reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "russian-elementary-08",
+    "id": "russian-elementary-20",
     "level": "elementary",
-    "title": "Elementary 08: Слова 213-228",
+    "title": "Elementary 20: The News Page",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -860,23 +879,24 @@
       207,
       210
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/20-elementary-the-news-page.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: знать, вызов, может, был, руководитель. Новые слова: учиться, завод, крышка, еда, солнце, четыре, между, состояние. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: знать = know; вызов = call; может = may; был = been; руководитель = head. New words: учиться = learn; завод = plant; крышка = cover; еда = food; солнце = sun; четыре = four; между = between; состояние = state. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Мария идёт на станцию. Там рядом есть чай и газета. Мария читает медленно и замечает новое слово: «новость». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Maria is at the station. There is tea and newspaper nearby. Maria reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Страница 2",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: знать, вызов, может, был, руководитель. Новые слова: держать, глаз, никогда не, Последнее, позволять, мысль, город, дерево. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: знать = know; вызов = call; может = may; был = been; руководитель = head. New words: держать = keep; глаз = eye; никогда не = never; Последнее = last; позволять = let; мысль = thought; город = city; дерево = tree. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Мария пишет слово «новость» в тетради. Потом Мария думает о теме «мысль». В этом месте тихо, поэтому Мария снова читает предложение и произносит его вслух.",
+        "en": "Maria writes the word news in a notebook. Then Maria thinks about thinking. The place is quiet, so Maria reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "russian-elementary-09",
+    "id": "russian-elementary-21",
     "level": "elementary",
-    "title": "Elementary 09: Слова 229-244",
+    "title": "Elementary 21: The Family Walk",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -912,23 +932,24 @@
       223,
       226
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/21-elementary-the-family-walk.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: должны, ответ, исследование, завод, солнце. Новые слова: пересекают, ферма, трудно, начало, мощи, история, пила, далеко. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: должны = should; ответ = answer; исследование = study; завод = plant; солнце = sun. New words: пересекают = cross; ферма = farm; трудно = hard; начало = start; мощи = might; история = story; пила = saw; далеко = far. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Анна идёт в парк. Там рядом есть мама и брат. Анна читает медленно и замечает новое слово: «дом». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Anna is in the park. There is mother and brother nearby. Anna reads slowly and notices a new word: house. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Страница 2",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: должны, ответ, исследование, завод, солнце. Новые слова: море, привлечь, слева, поздно, запустить, не, в то время как, нажмите. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: должны = should; ответ = answer; исследование = study; завод = plant; солнце = sun. New words: море = sea; привлечь = draw; слева = left; поздно = late; запустить = run; не = don’t; в то время как = while; нажмите = press. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Анна пишет слово «дом» в тетради. Потом Анна думает о теме «семья». В этом месте тихо, поэтому Анна снова читает предложение и произносит его вслух.",
+        "en": "Anna writes the word house in a notebook. Then Anna thinks about family. The place is quiet, so Anna reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "russian-elementary-10",
+    "id": "russian-elementary-22",
     "level": "elementary",
-    "title": "Elementary 10: Слова 245-260",
+    "title": "Elementary 22: The Quiet Room",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -964,23 +985,24 @@
       239,
       242
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/22-elementary-the-quiet-room.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: держать, Последнее, город, ферма, мощи. Новые слова: близко, ночь, реальный, жизнь, несколько, к северу, книга, нести. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: держать = keep; Последнее = last; город = city; ферма = farm; мощи = might. New words: близко = close; ночь = night; реальный = real; жизнь = life; несколько = few; к северу = north; книга = book; нести = carry. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Иван идёт в комнату. Там рядом есть стул и книга. Иван читает медленно и замечает новое слово: «комната». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Ivan is in the room. There is chair and book nearby. Ivan reads slowly and notices a new word: room. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Страница 2",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: держать, Последнее, город, ферма, мощи. Новые слова: взял, наука, есть, номер, друг, начал, идея, рыба. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: держать = keep; Последнее = last; город = city; ферма = farm; мощи = might. New words: взял = took; наука = science; есть = eat; номер = room; друг = friend; начал = began; идея = idea; рыба = fish. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Иван пишет слово «комната» в тетради. Потом Иван думает о теме «тишина». В этом месте тихо, поэтому Иван снова читает предложение и произносит его вслух.",
+        "en": "Ivan writes the word room in a notebook. Then Ivan thinks about silence. The place is quiet, so Ivan reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "russian-elementary-11",
+    "id": "russian-elementary-23",
     "level": "elementary",
-    "title": "Elementary 11: Слова 261-275",
+    "title": "Elementary 23: The New Teacher",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1015,23 +1037,24 @@
       255,
       258
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/23-elementary-the-new-teacher.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: море, поздно, в то время как, ночь, несколько. Новые слова: гора, остановить, раз, база, слышать, лошадь, вырезать, уверен. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: море = sea; поздно = late; в то время как = while; ночь = night; несколько = few. New words: гора = mountain; остановить = stop; раз = once; база = base; слышать = hear; лошадь = horse; вырезать = cut; уверен = sure. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Маша идёт в школу. Там рядом есть учитель и доска. Маша читает медленно и замечает новое слово: «вопрос». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Masha is at school. There is teacher and board nearby. Masha reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Страница 2",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: море, поздно, в то время как, ночь, несколько. Новые слова: смотреть, цвет, лицо, дерево, основной, открыт, кажется. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: море = sea; поздно = late; в то время как = while; ночь = night; несколько = few. New words: смотреть = watch; цвет = color; лицо = face; дерево = wood; основной = main; открыт = open; кажется = seem. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Маша пишет слово «вопрос» в тетради. Потом Маша думает о теме «обучение». В этом месте тихо, поэтому Маша снова читает предложение и произносит его вслух.",
+        "en": "Masha writes the word question in a notebook. Then Masha thinks about learning. The place is quiet, so Masha reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "russian-elementary-12",
+    "id": "russian-elementary-24",
     "level": "elementary",
-    "title": "Elementary 12: Слова 276-290",
+    "title": "Elementary 24: The Bus Stop",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1066,23 +1089,24 @@
       270,
       273
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/24-elementary-the-bus-stop.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: нести, есть, начал, гора, база. Новые слова: вместе, следующий, белый, дети, начать, получил, ходить, пример. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: нести = carry; есть = eat; начал = began; гора = mountain; база = base. New words: вместе = together; следующий = next; белый = white; дети = children; начать = begin; получил = got; ходить = walk; пример = example. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Павел идёт на улицу. Там рядом есть билет и автобус. Павел читает медленно и замечает новое слово: «время». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Pavel is on the street. There is ticket and bus nearby. Pavel reads slowly and notices a new word: time. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Страница 2",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: нести, есть, начал, гора, база. Новые слова: легкость, бумага, группа, всегда, музыка, тех,, как. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: нести = carry; есть = eat; начал = began; гора = mountain; база = base. New words: легкость = ease; бумага = paper; группа = group; всегда = always; музыка = music; тех, = those; как = both. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Павел пишет слово «время» в тетради. Потом Павел думает о теме «ожидание». В этом месте тихо, поэтому Павел снова читает предложение и произносит его вслух.",
+        "en": "Pavel writes the word time in a notebook. Then Pavel thinks about waiting. The place is quiet, so Pavel reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "russian-elementary-13",
+    "id": "russian-elementary-25",
     "level": "elementary",
-    "title": "Elementary 13: Слова 291-305",
+    "title": "Elementary 25: The Small Market",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1117,23 +1141,24 @@
       285,
       288
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/25-elementary-the-small-market.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: вырезать, цвет, основной, вместе, дети. Новые слова: знак, часто, письмо, до, км, река, автомобиль, футов. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: вырезать = cut; цвет = color; основной = main; вместе = together; дети = children. New words: знак = mark; часто = often; письмо = letter; до = until; км = mile; река = river; автомобиль = car; футов = feet. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Ольга идёт на рынок. Там рядом есть фрукты и сумка. Ольга читает медленно и замечает новое слово: «деньги». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Olga is at the market. There is fruit and bag nearby. Olga reads slowly and notices a new word: money. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Страница 2",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: вырезать, цвет, основной, вместе, дети. Новые слова: уход, Второй, достаточно, равнина, девушка, обычно, молодой. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: вырезать = cut; цвет = color; основной = main; вместе = together; дети = children. New words: уход = care; Второй = second; достаточно = enough; равнина = plain; девушка = girl; обычно = usual; молодой = young. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Ольга пишет слово «деньги» в тетради. Потом Ольга думает о теме «рынок». В этом месте тихо, поэтому Ольга снова читает предложение и произносит его вслух.",
+        "en": "Olga writes the word money in a notebook. Then Olga thinks about market. The place is quiet, so Olga reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "russian-elementary-14",
+    "id": "russian-elementary-26",
     "level": "elementary",
-    "title": "Elementary 14: Слова 306-320",
+    "title": "Elementary 26: The First Conversation",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1168,23 +1193,24 @@
       300,
       303
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/26-elementary-the-first-conversation.txt",
     "sections": [
       {
-        "heading": "Страница 1",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: ходить, бумага, музыка, знак, до. Новые слова: готовый, выше, когда-либо, красный, список, хотя, чувствовать, разговор. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: ходить = walk; бумага = paper; музыка = music; знак = mark; до = until. New words: готовый = ready; выше = above; когда-либо = ever; красный = red; список = list; хотя = though; чувствовать = feel; разговор = talk. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Дима идёт в кафе. Там рядом есть телефон и друг. Дима читает медленно и замечает новое слово: «предложение». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Dima is in the cafe. There is phone and friend nearby. Dima reads slowly and notices a new word: sentence. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Страница 2",
-        "ru": "В этой истории ученик возвращается к знакомым словам и добавляет новые. Слова для повторения: ходить, бумага, музыка, знак, до. Новые слова: птица, скоро, тело, собака, семья, прямой, представляют. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: ходить = walk; бумага = paper; музыка = music; знак = mark; до = until. New words: птица = bird; скоро = soon; тело = body; собака = dog; семья = family; прямой = direct; представляют = pose. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Дима пишет слово «предложение» в тетради. Потом Дима думает о теме «разговор». В этом месте тихо, поэтому Дима снова читает предложение и произносит его вслух.",
+        "en": "Dima writes the word sentence in a notebook. Then Dima thinks about talk. The place is quiet, so Dima reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "russian-intermediate-01",
+    "id": "russian-intermediate-27",
     "level": "intermediate",
-    "title": "Intermediate 01: Слова 321-344",
+    "title": "Intermediate 27: The Lost Note",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1228,28 +1254,29 @@
       315,
       318
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/27-intermediate-the-lost-note.txt",
     "sections": [
       {
-        "heading": "Глава 1 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: автомобиль, Второй, девушка, готовый, красный. Новые слова: оставить, песня, измерять, дверь, продукт, черный, короткая, цифра. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: автомобиль = car; Второй = second; девушка = girl; готовый = ready; красный = red. New words: оставить = leave; песня = song; измерять = measure; дверь = door; продукт = product; черный = black; короткая = short; цифра = numeral. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Катя идёт в библиотеку. Там рядом есть записка и карта. Катя читает медленно и замечает новое слово: «место». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Katya is in the library. There is note and map nearby. Katya reads slowly and notices a new word: place. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Глава 2 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: автомобиль, Второй, девушка, готовый, красный. Новые слова: класс, ветер, вопрос, произойдет, полная, корабль, площадь, половина. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: автомобиль = car; Второй = second; девушка = girl; готовый = ready; красный = red. New words: класс = class; ветер = wind; вопрос = question; произойдет = happen; полная = complete; корабль = ship; площадь = area; половина = half. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Катя пишет слово «место» в тетради. Потом Катя думает о теме «поиск». В этом месте тихо, поэтому Катя снова читает предложение и произносит его вслух.",
+        "en": "Katya writes the word place in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
       },
       {
-        "heading": "Глава 3 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: автомобиль, Второй, девушка, готовый, красный. Новые слова: рок, порядок, огонь, юг, проблема, кусок, сказал, знал. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: автомобиль = car; Второй = second; девушка = girl; готовый = ready; красный = red. New words: рок = rock; порядок = order; огонь = fire; юг = south; проблема = problem; кусок = piece; сказал = told; знал = knew. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "Появляется маленькая трудность, но Катя использует новые слова. Катя смотрит на записка, потом на карта, и составляет простой план. В конце Катя может сказать одно понятное предложение.",
+        "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the note, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
       }
     ]
   },
   {
-    "id": "russian-intermediate-02",
+    "id": "russian-intermediate-28",
     "level": "intermediate",
-    "title": "Intermediate 02: Слова 345-368",
+    "title": "Intermediate 28: A Meeting at Noon",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1293,28 +1320,29 @@
       339,
       342
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/28-intermediate-a-meeting-at-noon.txt",
     "sections": [
       {
-        "heading": "Глава 1 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: оставить, дверь, короткая, ветер, полная. Новые слова: проходить, с, топ, весь, король, улица, дюйм, умножить. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: оставить = leave; дверь = door; короткая = short; ветер = wind; полная = complete. New words: проходить = pass; с = since; топ = top; весь = whole; король = king; улица = street; дюйм = inch; умножить = multiply. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Саша идёт в университет. Там рядом есть часы и письмо. Саша читает медленно и замечает новое слово: «полдень». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Sasha is at the university. There is clock and letter nearby. Sasha reads slowly and notices a new word: noon. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Глава 2 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: оставить, дверь, короткая, ветер, полная. Новые слова: ничего, курс, оставаться, колеса, полный, сила, синий, объект. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: оставить = leave; дверь = door; короткая = short; ветер = wind; полная = complete. New words: ничего = nothing; курс = course; оставаться = stay; колеса = wheel; полный = full; сила = force; синий = blue; объект = object. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Саша пишет слово «полдень» в тетради. Потом Саша думает о теме «встреча». В этом месте тихо, поэтому Саша снова читает предложение и произносит его вслух.",
+        "en": "Sasha writes the word noon in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
       },
       {
-        "heading": "Глава 3 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: оставить, дверь, короткая, ветер, полная. Новые слова: решать, поверхность, глубоко, луна, остров, фут, система, занято. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: оставить = leave; дверь = door; короткая = short; ветер = wind; полная = complete. New words: решать = decide; поверхность = surface; глубоко = deep; луна = moon; остров = island; фут = foot; система = system; занято = busy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "Появляется маленькая трудность, но Саша использует новые слова. Саша смотрит на часы, потом на письмо, и составляет простой план. В конце Саша может сказать одно понятное предложение.",
+        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the clock, looks at the letter, and makes a simple plan. By the end, Sasha can say one clear sentence."
       }
     ]
   },
   {
-    "id": "russian-intermediate-03",
+    "id": "russian-intermediate-29",
     "level": "intermediate",
-    "title": "Intermediate 03: Слова 369-392",
+    "title": "Intermediate 29: The Old Map",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1358,28 +1386,29 @@
       363,
       366
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/29-intermediate-the-old-map.txt",
     "sections": [
       {
-        "heading": "Глава 1 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: проходить, весь, дюйм, курс, полный. Новые слова: тест, запись, лодка, общая, золото, возможно, самолет, вместо него. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: проходить = pass; весь = whole; дюйм = inch; курс = course; полный = full. New words: тест = test; запись = record; лодка = boat; общая = common; золото = gold; возможно = possible; самолет = plane; вместо него = stead. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Николай идёт в музей. Там рядом есть карта и улица. Николай читает медленно и замечает новое слово: «город». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Nikolay is in the museum. There is map and street nearby. Nikolay reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Глава 2 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: проходить, весь, дюйм, курс, полный. Новые слова: сухой, Интересно, смех, тыс, назад, побежал, проверять, игра. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: проходить = pass; весь = whole; дюйм = inch; курс = course; полный = full. New words: сухой = dry; Интересно = wonder; смех = laugh; тыс = thousand; назад = ago; побежал = ran; проверять = check; игра = game. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Николай пишет слово «город» в тетради. Потом Николай думает о теме «история». В этом месте тихо, поэтому Николай снова читает предложение и произносит его вслух.",
+        "en": "Nikolay writes the word city in a notebook. Then Nikolay thinks about history. The place is quiet, so Nikolay reads the sentence again and says it softly."
       },
       {
-        "heading": "Глава 3 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: проходить, весь, дюйм, курс, полный. Новые слова: форма, приравнять, горячий, мисс, принес, тепло, снег, шина. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: проходить = pass; весь = whole; дюйм = inch; курс = course; полный = full. New words: форма = shape; приравнять = equate; горячий = hot; мисс = miss; принес = brought; тепло = heat; снег = snow; шина = tire. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "Появляется маленькая трудность, но Николай использует новые слова. Николай смотрит на карта, потом на улица, и составляет простой план. В конце Николай может сказать одно понятное предложение.",
+        "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the map, looks at the street, and makes a simple plan. By the end, Nikolay can say one clear sentence."
       }
     ]
   },
   {
-    "id": "russian-intermediate-04",
+    "id": "russian-intermediate-30",
     "level": "intermediate",
-    "title": "Intermediate 04: Слова 393-416",
+    "title": "Intermediate 30: The Rainy Lesson",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1423,28 +1452,29 @@
       387,
       390
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/30-intermediate-the-rainy-lesson.txt",
     "sections": [
       {
-        "heading": "Глава 1 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: тест, общая, самолет, Интересно, назад. Новые слова: приносить, да, удаленная, заполнить, восток, краска, язык, среди. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: тест = test; общая = common; самолет = plane; Интересно = wonder; назад = ago. New words: приносить = bring; да = yes; удаленная = distant; заполнить = fill; восток = east; краска = paint; язык = language; среди = among. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Ирина идёт в школу. Там рядом есть окно и дождь. Ирина читает медленно и замечает новое слово: «погода». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Irina is at school. There is window and rain nearby. Irina reads slowly and notices a new word: weather. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Глава 2 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: тест, общая, самолет, Интересно, назад. Новые слова: блок, мощность, город, отлично, уверен, летать, падать, привести. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: тест = test; общая = common; самолет = plane; Интересно = wonder; назад = ago. New words: блок = unit; мощность = power; город = town; отлично = fine; уверен = certain; летать = fly; падать = fall; привести = lead. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Ирина пишет слово «погода» в тетради. Потом Ирина думает о теме «учёба». В этом месте тихо, поэтому Ирина снова читает предложение и произносит его вслух.",
+        "en": "Irina writes the word weather in a notebook. Then Irina thinks about study. The place is quiet, so Irina reads the sentence again and says it softly."
       },
       {
-        "heading": "Глава 3 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: тест, общая, самолет, Интересно, назад. Новые слова: крик, темно, машина, примечание, ждать, план, фигура, звезда. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: тест = test; общая = common; самолет = plane; Интересно = wonder; назад = ago. New words: крик = cry; темно = dark; машина = machine; примечание = note; ждать = wait; план = plan; фигура = figure; звезда = star. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "Появляется маленькая трудность, но Ирина использует новые слова. Ирина смотрит на окно, потом на дождь, и составляет простой план. В конце Ирина может сказать одно понятное предложение.",
+        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the window, looks at the rain, and makes a simple plan. By the end, Irina can say one clear sentence."
       }
     ]
   },
   {
-    "id": "russian-intermediate-05",
+    "id": "russian-intermediate-31",
     "level": "intermediate",
-    "title": "Intermediate 05: Слова 417-440",
+    "title": "Intermediate 31: The Museum Question",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1488,28 +1518,29 @@
       411,
       414
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/31-intermediate-the-museum-question.txt",
     "sections": [
       {
-        "heading": "Глава 1 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: приносить, заполнить, язык, мощность, уверен. Новые слова: коробка, существительное, поле, остальные, верный, состоянии, фунт, сделано. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: приносить = bring; заполнить = fill; язык = language; мощность = power; уверен = certain. New words: коробка = box; существительное = noun; поле = field; остальные = rest; верный = correct; состоянии = able; фунт = pound; сделано = done. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Павел идёт в музей. Там рядом есть картина и тетрадь. Павел читает медленно и замечает новое слово: «вопрос». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Pavel is in the museum. There is picture and notebook nearby. Pavel reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Глава 2 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: приносить, заполнить, язык, мощность, уверен. Новые слова: красота, привод, стоял, содержать, передние, учить, неделя, окончательный. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: приносить = bring; заполнить = fill; язык = language; мощность = power; уверен = certain. New words: красота = beauty; привод = drive; стоял = stood; содержать = contain; передние = front; учить = teach; неделя = week; окончательный = final. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Павел пишет слово «вопрос» в тетради. Потом Павел думает о теме «ответ». В этом месте тихо, поэтому Павел снова читает предложение и произносит его вслух.",
+        "en": "Pavel writes the word question in a notebook. Then Pavel thinks about answer. The place is quiet, so Pavel reads the sentence again and says it softly."
       },
       {
-        "heading": "Глава 3 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: приносить, заполнить, язык, мощность, уверен. Новые слова: дал, зеленый, ой, быстро, развивать, океан, теплый, бесплатно. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: приносить = bring; заполнить = fill; язык = language; мощность = power; уверен = certain. New words: дал = gave; зеленый = green; ой = oh; быстро = quick; развивать = develop; океан = ocean; теплый = warm; бесплатно = free. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "Появляется маленькая трудность, но Павел использует новые слова. Павел смотрит на картина, потом на тетрадь, и составляет простой план. В конце Павел может сказать одно понятное предложение.",
+        "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the picture, looks at the notebook, and makes a simple plan. By the end, Pavel can say one clear sentence."
       }
     ]
   },
   {
-    "id": "russian-intermediate-06",
+    "id": "russian-intermediate-32",
     "level": "intermediate",
-    "title": "Intermediate 06: Слова 441-464",
+    "title": "Intermediate 32: The Train Delay",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1553,28 +1584,29 @@
       435,
       438
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/32-intermediate-the-train-delay.txt",
     "sections": [
       {
-        "heading": "Глава 1 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: коробка, остальные, фунт, привод, передние. Новые слова: минут, сильный, специальный, ум, за, ясно, хвост, производить. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: коробка = box; остальные = rest; фунт = pound; привод = drive; передние = front. New words: минут = minute; сильный = strong; специальный = special; ум = mind; за = behind; ясно = clear; хвост = tail; производить = produce. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Мария идёт на станцию. Там рядом есть билет и часы. Мария читает медленно и замечает новое слово: «ждать». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Maria is at the station. There is ticket and clock nearby. Maria reads slowly and notices a new word: wait. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Глава 2 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: коробка, остальные, фунт, привод, передние. Новые слова: факт, пространство, слышал, лучше, час, лучше, правда, во. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: коробка = box; остальные = rest; фунт = pound; привод = drive; передние = front. New words: факт = fact; пространство = space; слышал = heard; лучше = best; час = hour; лучше = better; правда = true; во = during. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Мария пишет слово «ждать» в тетради. Потом Мария думает о теме «поездка». В этом месте тихо, поэтому Мария снова читает предложение и произносит его вслух.",
+        "en": "Maria writes the word wait in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
       },
       {
-        "heading": "Глава 3 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: коробка, остальные, фунт, привод, передние. Новые слова: сто, пять, запомнить, шаг, рано, удерживайте, запад, земля. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: коробка = box; остальные = rest; фунт = pound; привод = drive; передние = front. New words: сто = hundred; пять = five; запомнить = remember; шаг = step; рано = early; удерживайте = hold; запад = west; земля = ground. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "Появляется маленькая трудность, но Мария использует новые слова. Мария смотрит на билет, потом на часы, и составляет простой план. В конце Мария может сказать одно понятное предложение.",
+        "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the clock, and makes a simple plan. By the end, Maria can say one clear sentence."
       }
     ]
   },
   {
-    "id": "russian-intermediate-07",
+    "id": "russian-intermediate-33",
     "level": "intermediate",
-    "title": "Intermediate 07: Слова 465-488",
+    "title": "Intermediate 33: Music in the Cafe",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1618,28 +1650,29 @@
       459,
       462
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/33-intermediate-music-in-the-cafe.txt",
     "sections": [
       {
-        "heading": "Глава 1 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: минут, ум, хвост, пространство, час. Новые слова: интерес, достичь, быстро, глагол, петь, слушать, шесть, стол. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: минут = minute; ум = mind; хвост = tail; пространство = space; час = hour. New words: интерес = interest; достичь = reach; быстро = fast; глагол = verb; петь = sing; слушать = listen; шесть = six; стол = table. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Ольга идёт в кафе. Там рядом есть музыка и чай. Ольга читает медленно и замечает новое слово: «песня». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Olga is in the cafe. There is music and tea nearby. Olga reads slowly and notices a new word: song. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Глава 2 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: минут, ум, хвост, пространство, час. Новые слова: поездки, меньше, утро, десять, простой, несколько, гласный, к. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: минут = minute; ум = mind; хвост = tail; пространство = space; час = hour. New words: поездки = travel; меньше = less; утро = morning; десять = ten; простой = simple; несколько = several; гласный = vowel; к = toward. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Ольга пишет слово «песня» в тетради. Потом Ольга думает о теме «память». В этом месте тихо, поэтому Ольга снова читает предложение и произносит его вслух.",
+        "en": "Olga writes the word song in a notebook. Then Olga thinks about memory. The place is quiet, so Olga reads the sentence again and says it softly."
       },
       {
-        "heading": "Глава 3 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: минут, ум, хвост, пространство, час. Новые слова: война, заложить, против, шаблон, медленно, центр, любовь, человек. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: минут = minute; ум = mind; хвост = tail; пространство = space; час = hour. New words: война = war; заложить = lay; против = against; шаблон = pattern; медленно = slow; центр = center; любовь = love; человек = person. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "Появляется маленькая трудность, но Ольга использует новые слова. Ольга смотрит на музыка, потом на чай, и составляет простой план. В конце Ольга может сказать одно понятное предложение.",
+        "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the music, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
       }
     ]
   },
   {
-    "id": "russian-intermediate-08",
+    "id": "russian-intermediate-34",
     "level": "intermediate",
-    "title": "Intermediate 08: Слова 489-512",
+    "title": "Intermediate 34: A Letter from a Friend",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1683,28 +1716,29 @@
       483,
       486
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/34-intermediate-a-letter-from-a-friend.txt",
     "sections": [
       {
-        "heading": "Глава 1 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: интерес, глагол, шесть, меньше, простой. Новые слова: деньги, служить, появляются, дорога, карта, дождь, правило, управлять. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: интерес = interest; глагол = verb; шесть = six; меньше = less; простой = simple. New words: деньги = money; служить = serve; появляются = appear; дорога = road; карта = map; дождь = rain; правило = rule; управлять = govern. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Дима идёт домой. Там рядом есть письмо и телефон. Дима читает медленно и замечает новое слово: «друг». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Dima is at home. There is letter and phone nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Глава 2 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: интерес, глагол, шесть, меньше, простой. Новые слова: тянуть, холодный, уведомление, голос, энергия, охота, вероятный, кровать. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: интерес = interest; глагол = verb; шесть = six; меньше = less; простой = simple. New words: тянуть = pull; холодный = cold; уведомление = notice; голос = voice; энергия = energy; охота = hunt; вероятный = probable; кровать = bed. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Дима пишет слово «друг» в тетради. Потом Дима думает о теме «приглашение». В этом месте тихо, поэтому Дима снова читает предложение и произносит его вслух.",
+        "en": "Dima writes the word friend in a notebook. Then Dima thinks about invitation. The place is quiet, so Dima reads the sentence again and says it softly."
       },
       {
-        "heading": "Глава 3 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: интерес, глагол, шесть, меньше, простой. Новые слова: брат, яйцо, поездка, клеток, верить, возможно,, выбрать, внезапный. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: интерес = interest; глагол = verb; шесть = six; меньше = less; простой = simple. New words: брат = brother; яйцо = egg; поездка = ride; клеток = cell; верить = believe; возможно, = perhaps; выбрать = pick; внезапный = sudden. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "Появляется маленькая трудность, но Дима использует новые слова. Дима смотрит на письмо, потом на телефон, и составляет простой план. В конце Дима может сказать одно понятное предложение.",
+        "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the letter, looks at the phone, and makes a simple plan. By the end, Dima can say one clear sentence."
       }
     ]
   },
   {
-    "id": "russian-intermediate-09",
+    "id": "russian-intermediate-35",
     "level": "intermediate",
-    "title": "Intermediate 09: Слова 513-535",
+    "title": "Intermediate 35: The School Project",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1747,28 +1781,29 @@
       507,
       510
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/35-intermediate-the-school-project.txt",
     "sections": [
       {
-        "heading": "Глава 1 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: деньги, дорога, правило, холодный, энергия. Новые слова: считать, Квадратный, причина, длина, представлять, искусство, Заголовок, область. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: деньги = money; дорога = road; правило = rule; холодный = cold; энергия = energy. New words: считать = count; Квадратный = square; причина = reason; длина = length; представлять = represent; искусство = art; Заголовок = subject; область = region. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Маша идёт в школу. Там рядом есть бумага и учитель. Маша читает медленно и замечает новое слово: «проект». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Masha is at school. There is paper and teacher nearby. Masha reads slowly and notices a new word: project. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Глава 2 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: деньги, дорога, правило, холодный, энергия. Новые слова: размер, меняться, урегулировать, говорить, вес, общий, лед, дело. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: деньги = money; дорога = road; правило = rule; холодный = cold; энергия = energy. New words: размер = size; меняться = vary; урегулировать = settle; говорить = speak; вес = weight; общий = general; лед = ice; дело = matter. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Маша пишет слово «проект» в тетради. Потом Маша думает о теме «группа». В этом месте тихо, поэтому Маша снова читает предложение и произносит его вслух.",
+        "en": "Masha writes the word project in a notebook. Then Masha thinks about group. The place is quiet, so Masha reads the sentence again and says it softly."
       },
       {
-        "heading": "Глава 3 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: деньги, дорога, правило, холодный, энергия. Новые слова: круг, пара, включают, разделяй, слог, чувствовал, великий. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: деньги = money; дорога = road; правило = rule; холодный = cold; энергия = energy. New words: круг = circle; пара = pair; включают = include; разделяй = divide; слог = syllable; чувствовал = felt; великий = grand. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "Появляется маленькая трудность, но Маша использует новые слова. Маша смотрит на бумага, потом на учитель, и составляет простой план. В конце Маша может сказать одно понятное предложение.",
+        "en": "A small problem appears, but Masha uses the new words to understand it. Masha checks the paper, looks at the teacher, and makes a simple plan. By the end, Masha can say one clear sentence."
       }
     ]
   },
   {
-    "id": "russian-intermediate-10",
+    "id": "russian-intermediate-36",
     "level": "intermediate",
-    "title": "Intermediate 10: Слова 536-558",
+    "title": "Intermediate 36: The City Walk",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1811,28 +1846,29 @@
       530,
       533
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/36-intermediate-the-city-walk.txt",
     "sections": [
       {
-        "heading": "Глава 1 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: внезапный, причина, искусство, размер, говорить. Новые слова: мяч, еще, волна, падение, сердце, утра, присутствует, тяжелый. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: внезапный = sudden; причина = reason; искусство = art; размер = size; говорить = speak. New words: мяч = ball; еще = yet; волна = wave; падение = drop; сердце = heart; утра = am; присутствует = present; тяжелый = heavy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Анна идёт в город. Там рядом есть улица и окно. Анна читает медленно и замечает новое слово: «прогулка». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Anna is in the city. There is street and window nearby. Anna reads slowly and notices a new word: walk. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Глава 2 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: внезапный, причина, искусство, размер, говорить. Новые слова: танец, двигатель, положение, рука, широкий, парус, материал, доля. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: внезапный = sudden; причина = reason; искусство = art; размер = size; говорить = speak. New words: танец = dance; двигатель = engine; положение = position; рука = arm; широкий = wide; парус = sail; материал = material; доля = fraction. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Анна пишет слово «прогулка» в тетради. Потом Анна думает о теме «место». В этом месте тихо, поэтому Анна снова читает предложение и произносит его вслух.",
+        "en": "Anna writes the word walk in a notebook. Then Anna thinks about place. The place is quiet, so Anna reads the sentence again and says it softly."
       },
       {
-        "heading": "Глава 3 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: внезапный, причина, искусство, размер, говорить. Новые слова: лес, сидеть, гонка, окно, магазин, лето, поезд. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: внезапный = sudden; причина = reason; искусство = art; размер = size; говорить = speak. New words: лес = forest; сидеть = sit; гонка = race; окно = window; магазин = store; лето = summer; поезд = train. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "Появляется маленькая трудность, но Анна использует новые слова. Анна смотрит на улица, потом на окно, и составляет простой план. В конце Анна может сказать одно понятное предложение.",
+        "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the street, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
       }
     ]
   },
   {
-    "id": "russian-intermediate-11",
+    "id": "russian-intermediate-37",
     "level": "intermediate",
-    "title": "Intermediate 11: Слова 559-581",
+    "title": "Intermediate 37: The Bookshop Door",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1875,28 +1911,29 @@
       553,
       556
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/37-intermediate-the-bookshop-door.txt",
     "sections": [
       {
-        "heading": "Глава 1 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: великий, волна, утра, танец, рука. Новые слова: сон, доказывать, одинокий, нога, упражнение, стена, улов, крепление. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: великий = grand; волна = wave; утра = am; танец = dance; рука = arm. New words: сон = sleep; доказывать = prove; одинокий = lone; нога = leg; упражнение = exercise; стена = wall; улов = catch; крепление = mount. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Иван идёт в книжный магазин. Там рядом есть дверь и книга. Иван читает медленно и замечает новое слово: «открыть». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Ivan is in the bookshop. There is door and book nearby. Ivan reads slowly and notices a new word: open. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Глава 2 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: великий, волна, утра, танец, рука. Новые слова: хотите, небо, доска, радость, зима, Сб, написанный, дикий. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: великий = grand; волна = wave; утра = am; танец = dance; рука = arm. New words: хотите = wish; небо = sky; доска = board; радость = joy; зима = winter; Сб = sat; написанный = written; дикий = wild. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Иван пишет слово «открыть» в тетради. Потом Иван думает о теме «чтение». В этом месте тихо, поэтому Иван снова читает предложение и произносит его вслух.",
+        "en": "Ivan writes the word open in a notebook. Then Ivan thinks about reading. The place is quiet, so Ivan reads the sentence again and says it softly."
       },
       {
-        "heading": "Глава 3 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: великий, волна, утра, танец, рука. Новые слова: инструмент, хранится, стекло, трава, корова, работа, край. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: великий = grand; волна = wave; утра = am; танец = dance; рука = arm. New words: инструмент = instrument; хранится = kept; стекло = glass; трава = grass; корова = cow; работа = job; край = edge. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "Появляется маленькая трудность, но Иван использует новые слова. Иван смотрит на дверь, потом на книга, и составляет простой план. В конце Иван может сказать одно понятное предложение.",
+        "en": "A small problem appears, but Ivan uses the new words to understand it. Ivan checks the door, looks at the book, and makes a simple plan. By the end, Ivan can say one clear sentence."
       }
     ]
   },
   {
-    "id": "russian-intermediate-12",
+    "id": "russian-intermediate-38",
     "level": "intermediate",
-    "title": "Intermediate 12: Слова 582-604",
+    "title": "Intermediate 38: The Family Story",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1939,28 +1976,29 @@
       576,
       579
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/38-intermediate-the-family-story.txt",
     "sections": [
       {
-        "heading": "Глава 1 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: поезд, одинокий, стена, хотите, радость. Новые слова: знак, визит, мимо, мягкая, весело, яркий, газа, погода. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: поезд = train; одинокий = lone; стена = wall; хотите = wish; радость = joy. New words: знак = sign; визит = visit; мимо = past; мягкая = soft; весело = fun; яркий = bright; газа = gas; погода = weather. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Лена идёт домой. Там рядом есть мама и фото. Лена читает медленно и замечает новое слово: «история». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Lena is at home. There is mother and photo nearby. Lena reads slowly and notices a new word: story. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Глава 2 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: поезд, одинокий, стена, хотите, радость. Новые слова: месяц, миллион, нести, отделка, счастливы, надеюсь, цветок, одевать. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: поезд = train; одинокий = lone; стена = wall; хотите = wish; радость = joy. New words: месяц = month; миллион = million; нести = bear; отделка = finish; счастливы = happy; надеюсь = hope; цветок = flower; одевать = clothe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Лена пишет слово «история» в тетради. Потом Лена думает о теме «семья». В этом месте тихо, поэтому Лена снова читает предложение и произносит его вслух.",
+        "en": "Lena writes the word story in a notebook. Then Lena thinks about family. The place is quiet, so Lena reads the sentence again and says it softly."
       },
       {
-        "heading": "Глава 3 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: поезд, одинокий, стена, хотите, радость. Новые слова: странный, ушел, торговля, мелодия, поездка, офис, получать. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: поезд = train; одинокий = lone; стена = wall; хотите = wish; радость = joy. New words: странный = strange; ушел = gone; торговля = trade; мелодия = melody; поездка = trip; офис = office; получать = receive. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "Появляется маленькая трудность, но Лена использует новые слова. Лена смотрит на мама, потом на фото, и составляет простой план. В конце Лена может сказать одно понятное предложение.",
+        "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the mother, looks at the photo, and makes a simple plan. By the end, Lena can say one clear sentence."
       }
     ]
   },
   {
-    "id": "russian-intermediate-13",
+    "id": "russian-intermediate-39",
     "level": "intermediate",
-    "title": "Intermediate 13: Слова 605-627",
+    "title": "Intermediate 39: The Important Word",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -2003,28 +2041,29 @@
       599,
       602
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/39-intermediate-the-important-word.txt",
     "sections": [
       {
-        "heading": "Глава 1 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: край, мимо, яркий, месяц, отделка. Новые слова: строка, рот, точный, символ, умереть, мере, беда, крик. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: край = edge; мимо = past; яркий = bright; месяц = month; отделка = finish. New words: строка = row; рот = mouth; точный = exact; символ = symbol; умереть = die; мере = least; беда = trouble; крик = shout. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Павел идёт в библиотеку. Там рядом есть словарь и бумага. Павел читает медленно и замечает новое слово: «значение». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Pavel is in the library. There is dictionary and paper nearby. Pavel reads slowly and notices a new word: meaning. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Глава 2 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: край, мимо, яркий, месяц, отделка. Новые слова: кроме, писал, семян, тон, присоединиться, предложить, чистый, перерыв. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: край = edge; мимо = past; яркий = bright; месяц = month; отделка = finish. New words: кроме = except; писал = wrote; семян = seed; тон = tone; присоединиться = join; предложить = suggest; чистый = clean; перерыв = break. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Павел пишет слово «значение» в тетради. Потом Павел думает о теме «язык». В этом месте тихо, поэтому Павел снова читает предложение и произносит его вслух.",
+        "en": "Pavel writes the word meaning in a notebook. Then Pavel thinks about language. The place is quiet, so Pavel reads the sentence again and says it softly."
       },
       {
-        "heading": "Глава 3 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: край, мимо, яркий, месяц, отделка. Новые слова: леди, двор, подниматься, плохо, удар, масло, кровь. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: край = edge; мимо = past; яркий = bright; месяц = month; отделка = finish. New words: леди = lady; двор = yard; подниматься = rise; плохо = bad; удар = blow; масло = oil; кровь = blood. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "Появляется маленькая трудность, но Павел использует новые слова. Павел смотрит на словарь, потом на бумага, и составляет простой план. В конце Павел может сказать одно понятное предложение.",
+        "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the dictionary, looks at the paper, and makes a simple plan. By the end, Pavel can say one clear sentence."
       }
     ]
   },
   {
-    "id": "russian-intermediate-14",
+    "id": "russian-intermediate-40",
     "level": "intermediate",
-    "title": "Intermediate 14: Слова 628-650",
+    "title": "Intermediate 40: Closer Every Day",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -2067,28 +2106,29 @@
       622,
       625
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/40-intermediate-closer-every-day.txt",
     "sections": [
       {
-        "heading": "Глава 1 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: получать, точный, мере, кроме, тон. Новые слова: коснуться, выросла, цент, смешивать, команда, провод, Стоимость, потерянный. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: получать = receive; точный = exact; мере = least; кроме = except; тон = tone. New words: коснуться = touch; выросла = grew; цент = cent; смешивать = mix; команда = team; провод = wire; Стоимость = cost; потерянный = lost. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Ирина идёт в парк. Там рядом есть тетрадь и чай. Ирина читает медленно и замечает новое слово: «ближе». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Irina is in the park. There is notebook and tea nearby. Irina reads slowly and notices a new word: closer. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Глава 2 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: получать, точный, мере, кроме, тон. Новые слова: коричневый, носить, сад, равный, отправлено, выбирать, упал, соответствовать. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: получать = receive; точный = exact; мере = least; кроме = except; тон = tone. New words: коричневый = brown; носить = wear; сад = garden; равный = equal; отправлено = sent; выбирать = choose; упал = fell; соответствовать = fit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Ирина пишет слово «ближе» в тетради. Потом Ирина думает о теме «повторение». В этом месте тихо, поэтому Ирина снова читает предложение и произносит его вслух.",
+        "en": "Irina writes the word closer in a notebook. Then Irina thinks about review. The place is quiet, so Irina reads the sentence again and says it softly."
       },
       {
-        "heading": "Глава 3 / 3",
-        "ru": "Герой читает заметку, сравнивает значения и строит более длинные фразы. Слова для повторения: получать, точный, мере, кроме, тон. Новые слова: течь, ярмарка, банк, собирать, сохранить, контроль, десятичной. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: получать = receive; точный = exact; мере = least; кроме = except; тон = tone. New words: течь = flow; ярмарка = fair; банк = bank; собирать = collect; сохранить = save; контроль = control; десятичной = decimal. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "Появляется маленькая трудность, но Ирина использует новые слова. Ирина смотрит на тетрадь, потом на чай, и составляет простой план. В конце Ирина может сказать одно понятное предложение.",
+        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the notebook, looks at the tea, and makes a simple plan. By the end, Irina can say one clear sentence."
       }
     ]
   },
   {
-    "id": "russian-advanced-01",
+    "id": "russian-advanced-41",
     "level": "advanced",
-    "title": "Advanced 01: Слова 651-685",
+    "title": "Advanced 41: The Long Walk Through the City",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2143,38 +2183,39 @@
       645,
       648
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/41-advanced-the-long-walk-through-the-city.txt",
     "sections": [
       {
-        "heading": "Глава 1 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: кровь, цент, провод, коричневый, равный. Новые слова: ухо, еще, вполне, сломал, дело, средний, убивать. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: кровь = blood; цент = cent; провод = wire; коричневый = brown; равный = equal. New words: ухо = ear; еще = else; вполне = quite; сломал = broke; дело = case; средний = middle; убивать = kill. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Анна идёт в город. Там рядом есть карта и окно. Анна читает медленно и замечает новое слово: «путь». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Anna is in the city. There is map and window nearby. Anna reads slowly and notices a new word: journey. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Глава 2 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: кровь, цент, провод, коричневый, равный. Новые слова: сын, озеро, момент, шкала, громко, весна, наблюдать. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: кровь = blood; цент = cent; провод = wire; коричневый = brown; равный = equal. New words: сын = son; озеро = lake; момент = moment; шкала = scale; громко = loud; весна = spring; наблюдать = observe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Анна пишет слово «путь» в тетради. Потом Анна думает о теме «город». В этом месте тихо, поэтому Анна снова читает предложение и произносит его вслух.",
+        "en": "Anna writes the word journey in a notebook. Then Anna thinks about city. The place is quiet, so Anna reads the sentence again and says it softly."
       },
       {
-        "heading": "Глава 3 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: кровь, цент, провод, коричневый, равный. Новые слова: ребенок, прямо, согласный, нация, словарь, молоко, скорость. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: кровь = blood; цент = cent; провод = wire; коричневый = brown; равный = equal. New words: ребенок = child; прямо = straight; согласный = consonant; нация = nation; словарь = dictionary; молоко = milk; скорость = speed. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "Появляется маленькая трудность, но Анна использует новые слова. Анна смотрит на карта, потом на окно, и составляет простой план. В конце Анна может сказать одно понятное предложение.",
+        "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the map, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
       },
       {
-        "heading": "Глава 4 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: кровь, цент, провод, коричневый, равный. Новые слова: метод, орган, платить, возраст, раздел, платье, облако. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: кровь = blood; цент = cent; провод = wire; коричневый = brown; равный = equal. New words: метод = method; орган = organ; платить = pay; возраст = age; раздел = section; платье = dress; облако = cloud. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "Позже Анна встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Анна пишет ещё три слова и связывает их с историей этого дня.",
+        "en": "Later, Anna meets another person and asks one careful question. The answer is simple, but it helps. Anna writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "Глава 5 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: кровь, цент, провод, коричневый, равный. Новые слова: сюрприз, тихо, камень, крошечный, подъем, круто, дизайн. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: кровь = blood; цент = cent; провод = wire; коричневый = brown; равный = equal. New words: сюрприз = surprise; тихо = quiet; камень = stone; крошечный = tiny; подъем = climb; круто = cool; дизайн = design. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "В конце дня Анна читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Анна улыбается, потому что учиться теперь легче.",
+        "en": "At the end of the day, Anna reads the whole page out loud. The words are not perfect yet, but they are familiar now. Anna smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "russian-advanced-02",
+    "id": "russian-advanced-42",
     "level": "advanced",
-    "title": "Advanced 02: Слова 686-720",
+    "title": "Advanced 42: The Forgotten Invitation",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2229,38 +2270,39 @@
       680,
       683
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/42-advanced-the-forgotten-invitation.txt",
     "sections": [
       {
-        "heading": "Глава 1 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: громко, ребенок, нация, скорость, платить. Новые слова: бедный, много, эксперимент, снизу, ключ, железо, один. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: громко = loud; ребенок = child; нация = nation; скорость = speed; платить = pay. New words: бедный = poor; много = lot; эксперимент = experiment; снизу = bottom; ключ = key; железо = iron; один = single. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Саша идёт в университет. Там рядом есть письмо и телефон. Саша читает медленно и замечает новое слово: «приглашение». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Sasha is at the university. There is letter and phone nearby. Sasha reads slowly and notices a new word: invitation. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Глава 2 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: громко, ребенок, нация, скорость, платить. Новые слова: палка, плоским, двадцать, кожа, улыбка, складка, отверстие. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: громко = loud; ребенок = child; нация = nation; скорость = speed; платить = pay. New words: палка = stick; плоским = flat; двадцать = twenty; кожа = skin; улыбка = smile; складка = crease; отверстие = hole. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Саша пишет слово «приглашение» в тетради. Потом Саша думает о теме «встреча». В этом месте тихо, поэтому Саша снова читает предложение и произносит его вслух.",
+        "en": "Sasha writes the word invitation in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
       },
       {
-        "heading": "Глава 3 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: громко, ребенок, нация, скорость, платить. Новые слова: прыжок, ребенок, восемь, деревня, Знакомства, корень, купить. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: громко = loud; ребенок = child; нация = nation; скорость = speed; платить = pay. New words: прыжок = jump; ребенок = baby; восемь = eight; деревня = village; Знакомства = meet; корень = root; купить = buy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "Появляется маленькая трудность, но Саша использует новые слова. Саша смотрит на письмо, потом на телефон, и составляет простой план. В конце Саша может сказать одно понятное предложение.",
+        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the phone, and makes a simple plan. By the end, Sasha can say one clear sentence."
       },
       {
-        "heading": "Глава 4 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: громко, ребенок, нация, скорость, платить. Новые слова: поднимать, решить, металла, ли, толчок, семь, пункт. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: громко = loud; ребенок = child; нация = nation; скорость = speed; платить = pay. New words: поднимать = raise; решить = solve; металла = metal; ли = whether; толчок = push; семь = seven; пункт = paragraph. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "Позже Саша встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Саша пишет ещё три слова и связывает их с историей этого дня.",
+        "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "Глава 5 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: громко, ребенок, нация, скорость, платить. Новые слова: третий, должен, ручные, волосы, описывать, повар, этаж. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: громко = loud; ребенок = child; нация = nation; скорость = speed; платить = pay. New words: третий = third; должен = shall; ручные = held; волосы = hair; описывать = describe; повар = cook; этаж = floor. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "В конце дня Саша читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Саша улыбается, потому что учиться теперь легче.",
+        "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "russian-advanced-03",
+    "id": "russian-advanced-43",
     "level": "advanced",
-    "title": "Advanced 03: Слова 721-755",
+    "title": "Advanced 43: The History Room",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2315,38 +2357,39 @@
       715,
       718
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/43-advanced-the-history-room.txt",
     "sections": [
       {
-        "heading": "Глава 1 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: улыбка, прыжок, деревня, купить, металла. Новые слова: или, результат, сжечь, холм, сейф, кошка, век. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: улыбка = smile; прыжок = jump; деревня = village; купить = buy; металла = metal. New words: или = either; результат = result; сжечь = burn; холм = hill; сейф = safe; кошка = cat; век = century. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Николай идёт в музей. Там рядом есть книга и картина. Николай читает медленно и замечает новое слово: «история». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Nikolay is in the museum. There is book and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Глава 2 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: улыбка, прыжок, деревня, купить, металла. Новые слова: рассматривать, Тип, закон, немного, побережье, копия, фраза. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: улыбка = smile; прыжок = jump; деревня = village; купить = buy; металла = metal. New words: рассматривать = consider; Тип = type; закон = law; немного = bit; побережье = coast; копия = copy; фраза = phrase. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Николай пишет слово «история» в тетради. Потом Николай думает о теме «прошлое». В этом месте тихо, поэтому Николай снова читает предложение и произносит его вслух.",
+        "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about past. The place is quiet, so Nikolay reads the sentence again and says it softly."
       },
       {
-        "heading": "Глава 3 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: улыбка, прыжок, деревня, купить, металла. Новые слова: тихий, высокий, песок, почвы, рулон, температура, палец. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: улыбка = smile; прыжок = jump; деревня = village; купить = buy; металла = metal. New words: тихий = silent; высокий = tall; песок = sand; почвы = soil; рулон = roll; температура = temperature; палец = finger. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "Появляется маленькая трудность, но Николай использует новые слова. Николай смотрит на книга, потом на картина, и составляет простой план. В конце Николай может сказать одно понятное предложение.",
+        "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the book, looks at the picture, and makes a simple plan. By the end, Nikolay can say one clear sentence."
       },
       {
-        "heading": "Глава 4 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: улыбка, прыжок, деревня, купить, металла. Новые слова: промышленность, значение, борьба, ложь, бить, возбуждать, естественный. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: улыбка = smile; прыжок = jump; деревня = village; купить = buy; металла = metal. New words: промышленность = industry; значение = value; борьба = fight; ложь = lie; бить = beat; возбуждать = excite; естественный = natural. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "Позже Николай встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Николай пишет ещё три слова и связывает их с историей этого дня.",
+        "en": "Later, Nikolay meets another person and asks one careful question. The answer is simple, but it helps. Nikolay writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "Глава 5 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: улыбка, прыжок, деревня, купить, металла. Новые слова: вид, смысл, капитал, не будет, стул, опасность, фрукты. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: улыбка = smile; прыжок = jump; деревня = village; купить = buy; металла = metal. New words: вид = view; смысл = sense; капитал = capital; не будет = won’t; стул = chair; опасность = danger; фрукты = fruit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "В конце дня Николай читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Николай улыбается, потому что учиться теперь легче.",
+        "en": "At the end of the day, Nikolay reads the whole page out loud. The words are not perfect yet, but they are familiar now. Nikolay smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "russian-advanced-04",
+    "id": "russian-advanced-44",
     "level": "advanced",
-    "title": "Advanced 04: Слова 756-790",
+    "title": "Advanced 44: The Quiet Train",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2401,38 +2444,39 @@
       750,
       753
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/44-advanced-the-quiet-train.txt",
     "sections": [
       {
-        "heading": "Глава 1 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: побережье, тихий, почвы, палец, борьба. Новые слова: богатые, толщиной, солдат, процесс, работать, практика, отдельный. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: побережье = coast; тихий = silent; почвы = soil; палец = finger; борьба = fight. New words: богатые = rich; толщиной = thick; солдат = soldier; процесс = process; работать = operate; практика = practice; отдельный = separate. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Мария идёт к поезду. Там рядом есть билет и чай. Мария читает медленно и замечает новое слово: «тихо». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Maria is on the train. There is ticket and tea nearby. Maria reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Глава 2 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: побережье, тихий, почвы, палец, борьба. Новые слова: трудный, врач, пожалуйста, защищать, полдень, урожай, современный. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: побережье = coast; тихий = silent; почвы = soil; палец = finger; борьба = fight. New words: трудный = difficult; врач = doctor; пожалуйста = please; защищать = protect; полдень = noon; урожай = crop; современный = modern. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Мария пишет слово «тихо» в тетради. Потом Мария думает о теме «поездка». В этом месте тихо, поэтому Мария снова читает предложение и произносит его вслух.",
+        "en": "Maria writes the word quiet in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
       },
       {
-        "heading": "Глава 3 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: побережье, тихий, почвы, палец, борьба. Новые слова: элемент, хит, студент, угол, партия, поставка, чьи. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: побережье = coast; тихий = silent; почвы = soil; палец = finger; борьба = fight. New words: элемент = element; хит = hit; студент = student; угол = corner; партия = party; поставка = supply; чьи = whose. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "Появляется маленькая трудность, но Мария использует новые слова. Мария смотрит на билет, потом на чай, и составляет простой план. В конце Мария может сказать одно понятное предложение.",
+        "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the tea, and makes a simple plan. By the end, Maria can say one clear sentence."
       },
       {
-        "heading": "Глава 4 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: побережье, тихий, почвы, палец, борьба. Новые слова: разместить, кольцо, характер, насекомое, пойманный, период, указывать. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: побережье = coast; тихий = silent; почвы = soil; палец = finger; борьба = fight. New words: разместить = locate; кольцо = ring; характер = character; насекомое = insect; пойманный = caught; период = period; указывать = indicate. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "Позже Мария встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Мария пишет ещё три слова и связывает их с историей этого дня.",
+        "en": "Later, Maria meets another person and asks one careful question. The answer is simple, but it helps. Maria writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "Глава 5 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: побережье, тихий, почвы, палец, борьба. Новые слова: радио, говорил, атом, человек, история, эффект, электрический. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: побережье = coast; тихий = silent; почвы = soil; палец = finger; борьба = fight. New words: радио = radio; говорил = spoke; атом = atom; человек = human; история = history; эффект = effect; электрический = electric. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "В конце дня Мария читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Мария улыбается, потому что учиться теперь легче.",
+        "en": "At the end of the day, Maria reads the whole page out loud. The words are not perfect yet, but they are familiar now. Maria smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "russian-advanced-05",
+    "id": "russian-advanced-45",
     "level": "advanced",
-    "title": "Advanced 05: Слова 791-825",
+    "title": "Advanced 45: A Plan for Tomorrow",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2487,38 +2531,39 @@
       785,
       788
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/45-advanced-a-plan-for-tomorrow.txt",
     "sections": [
       {
-        "heading": "Глава 1 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: полдень, элемент, угол, чьи, характер. Новые слова: ожидать, кость, железнодорожные, вообразить, обеспечить, соглашаться, таким образом. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: полдень = noon; элемент = element; угол = corner; чьи = whose; характер = character. New words: ожидать = expect; кость = bone; железнодорожные = rail; вообразить = imagine; обеспечить = provide; соглашаться = agree; таким образом = thus. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Лена идёт домой. Там рядом есть карта и тетрадь. Лена читает медленно и замечает новое слово: «завтра». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Lena is at home. There is map and notebook nearby. Lena reads slowly and notices a new word: tomorrow. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Глава 2 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: полдень, элемент, угол, чьи, характер. Новые слова: нежный, женщина, капитан, догадываться, необходимо, резкое, крыло. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: полдень = noon; элемент = element; угол = corner; чьи = whose; характер = character. New words: нежный = gentle; женщина = woman; капитан = captain; догадываться = guess; необходимо = necessary; резкое = sharp; крыло = wing. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Лена пишет слово «завтра» в тетради. Потом Лена думает о теме «план». В этом месте тихо, поэтому Лена снова читает предложение и произносит его вслух.",
+        "en": "Lena writes the word tomorrow in a notebook. Then Lena thinks about plan. The place is quiet, so Lena reads the sentence again and says it softly."
       },
       {
-        "heading": "Глава 3 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: полдень, элемент, угол, чьи, характер. Новые слова: создавать, сосед, стирка, летучая мышь, а, толпа, кукуруза. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: полдень = noon; элемент = element; угол = corner; чьи = whose; характер = character. New words: создавать = create; сосед = neighbor; стирка = wash; летучая мышь = bat; а = rather; толпа = crowd; кукуруза = corn. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "Появляется маленькая трудность, но Лена использует новые слова. Лена смотрит на карта, потом на тетрадь, и составляет простой план. В конце Лена может сказать одно понятное предложение.",
+        "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the map, looks at the notebook, and makes a simple plan. By the end, Lena can say one clear sentence."
       },
       {
-        "heading": "Глава 4 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: полдень, элемент, угол, чьи, характер. Новые слова: сравнить, стихотворение, строка, колокол, зависеть, мясо, руб. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: полдень = noon; элемент = element; угол = corner; чьи = whose; характер = character. New words: сравнить = compare; стихотворение = poem; строка = string; колокол = bell; зависеть = depend; мясо = meat; руб = rub. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "Позже Лена встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Лена пишет ещё три слова и связывает их с историей этого дня.",
+        "en": "Later, Lena meets another person and asks one careful question. The answer is simple, but it helps. Lena writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "Глава 5 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: полдень, элемент, угол, чьи, характер. Новые слова: трубка, известный, доллар, поток, страх, зрение, тонкий. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: полдень = noon; элемент = element; угол = corner; чьи = whose; характер = character. New words: трубка = tube; известный = famous; доллар = dollar; поток = stream; страх = fear; зрение = sight; тонкий = thin. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "В конце дня Лена читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Лена улыбается, потому что учиться теперь легче.",
+        "en": "At the end of the day, Lena reads the whole page out loud. The words are not perfect yet, but they are familiar now. Lena smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "russian-advanced-06",
+    "id": "russian-advanced-46",
     "level": "advanced",
-    "title": "Advanced 06: Слова 826-860",
+    "title": "Advanced 46: News from the Cafe",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2573,38 +2618,39 @@
       820,
       823
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/46-advanced-news-from-the-cafe.txt",
     "sections": [
       {
-        "heading": "Глава 1 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: необходимо, создавать, летучая мышь, кукуруза, строка. Новые слова: треугольник, планета, спешить, главный, колония, часы, шахта. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: необходимо = necessary; создавать = create; летучая мышь = bat; кукуруза = corn; строка = string. New words: треугольник = triangle; планета = planet; спешить = hurry; главный = chief; колония = colony; часы = clock; шахта = mine. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Ольга идёт в кафе. Там рядом есть газета и чай. Ольга читает медленно и замечает новое слово: «новость». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Olga is in the cafe. There is newspaper and tea nearby. Olga reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Глава 2 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: необходимо, создавать, летучая мышь, кукуруза, строка. Новые слова: связать, введите, основным, свежий, поиск, отправить, желтый. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: необходимо = necessary; создавать = create; летучая мышь = bat; кукуруза = corn; строка = string. New words: связать = tie; введите = enter; основным = major; свежий = fresh; поиск = search; отправить = send; желтый = yellow. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Ольга пишет слово «новость» в тетради. Потом Ольга думает о теме «разговор». В этом месте тихо, поэтому Ольга снова читает предложение и произносит его вслух.",
+        "en": "Olga writes the word news in a notebook. Then Olga thinks about talk. The place is quiet, so Olga reads the sentence again and says it softly."
       },
       {
-        "heading": "Глава 3 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: необходимо, создавать, летучая мышь, кукуруза, строка. Новые слова: пистолет, позволять, печать, мертвый, место, пустыня, костюм. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: необходимо = necessary; создавать = create; летучая мышь = bat; кукуруза = corn; строка = string. New words: пистолет = gun; позволять = allow; печать = print; мертвый = dead; место = spot; пустыня = desert; костюм = suit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "Появляется маленькая трудность, но Ольга использует новые слова. Ольга смотрит на газета, потом на чай, и составляет простой план. В конце Ольга может сказать одно понятное предложение.",
+        "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the newspaper, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
       },
       {
-        "heading": "Глава 4 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: необходимо, создавать, летучая мышь, кукуруза, строка. Новые слова: ток, лифт, выросла, приходим, мастер, трек, родитель. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: необходимо = necessary; создавать = create; летучая мышь = bat; кукуруза = corn; строка = string. New words: ток = current; лифт = lift; выросла = rose; приходим = arrive; мастер = master; трек = track; родитель = parent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "Позже Ольга встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Ольга пишет ещё три слова и связывает их с историей этого дня.",
+        "en": "Later, Olga meets another person and asks one careful question. The answer is simple, but it helps. Olga writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "Глава 5 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: необходимо, создавать, летучая мышь, кукуруза, строка. Новые слова: берег, деление, лист, вещество, пользу, подключать, пост. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: необходимо = necessary; создавать = create; летучая мышь = bat; кукуруза = corn; строка = string. New words: берег = shore; деление = division; лист = sheet; вещество = substance; пользу = favor; подключать = connect; пост = post. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "В конце дня Ольга читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Ольга улыбается, потому что учиться теперь легче.",
+        "en": "At the end of the day, Olga reads the whole page out loud. The words are not perfect yet, but they are familiar now. Olga smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "russian-advanced-07",
+    "id": "russian-advanced-47",
     "level": "advanced",
-    "title": "Advanced 07: Слова 861-895",
+    "title": "Advanced 47: The Word That Changed the Day",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2659,38 +2705,39 @@
       855,
       858
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/47-advanced-the-word-that-changed-the-day.txt",
     "sections": [
       {
-        "heading": "Глава 1 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: поиск, пистолет, мертвый, костюм, выросла. Новые слова: провести, аккорд, жира, довольный, оригинальный, доля, станция. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: поиск = search; пистолет = gun; мертвый = dead; костюм = suit; выросла = rose. New words: провести = spend; аккорд = chord; жира = fat; довольный = glad; оригинальный = original; доля = share; станция = station. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Дима идёт на улицу. Там рядом есть сумка и книга. Дима читает медленно и замечает новое слово: «помощь». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Dima is on the street. There is bag and book nearby. Dima reads slowly and notices a new word: help. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Глава 2 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: поиск, пистолет, мертвый, костюм, выросла. Новые слова: папа, хлеб, взимать, собственно, бар, предложение, сегмент. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: поиск = search; пистолет = gun; мертвый = dead; костюм = suit; выросла = rose. New words: папа = dad; хлеб = bread; взимать = charge; собственно = proper; бар = bar; предложение = offer; сегмент = segment. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Дима пишет слово «помощь» в тетради. Потом Дима думает о теме «дорога». В этом месте тихо, поэтому Дима снова читает предложение и произносит его вслух.",
+        "en": "Dima writes the word help in a notebook. Then Dima thinks about road. The place is quiet, so Dima reads the sentence again and says it softly."
       },
       {
-        "heading": "Глава 3 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: поиск, пистолет, мертвый, костюм, выросла. Новые слова: раб, утка, растворимый, рынок, степень, заселять, цыпленок. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: поиск = search; пистолет = gun; мертвый = dead; костюм = suit; выросла = rose. New words: раб = slave; утка = duck; растворимый = instant; рынок = market; степень = degree; заселять = populate; цыпленок = chick. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "Появляется маленькая трудность, но Дима использует новые слова. Дима смотрит на сумка, потом на книга, и составляет простой план. В конце Дима может сказать одно понятное предложение.",
+        "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the bag, looks at the book, and makes a simple plan. By the end, Dima can say one clear sentence."
       },
       {
-        "heading": "Глава 4 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: поиск, пистолет, мертвый, костюм, выросла. Новые слова: дорогой, враг, ответ, напиток, происходить, поддержка, речь. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: поиск = search; пистолет = gun; мертвый = dead; костюм = suit; выросла = rose. New words: дорогой = dear; враг = enemy; ответ = reply; напиток = drink; происходить = occur; поддержка = support; речь = speech. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "Позже Дима встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Дима пишет ещё три слова и связывает их с историей этого дня.",
+        "en": "Later, Dima meets another person and asks one careful question. The answer is simple, but it helps. Dima writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "Глава 5 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: поиск, пистолет, мертвый, костюм, выросла. Новые слова: природа, диапазон, пара, движение, путь, жидкости, войти. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: поиск = search; пистолет = gun; мертвый = dead; костюм = suit; выросла = rose. New words: природа = nature; диапазон = range; пара = steam; движение = motion; путь = path; жидкости = liquid; войти = log. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "В конце дня Дима читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Дима улыбается, потому что учиться теперь легче.",
+        "en": "At the end of the day, Dima reads the whole page out loud. The words are not perfect yet, but they are familiar now. Dima smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "russian-advanced-08",
+    "id": "russian-advanced-48",
     "level": "advanced",
-    "title": "Advanced 08: Слова 896-930",
+    "title": "Advanced 48: The Meeting at the University",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2745,38 +2792,39 @@
       890,
       893
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/48-advanced-the-meeting-at-the-university.txt",
     "sections": [
       {
-        "heading": "Глава 1 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: бар, раб, рынок, цыпленок, ответ. Новые слова: означало, фактор, зубы, оболочка, шея, кислорода, сахар. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: бар = bar; раб = slave; рынок = market; цыпленок = chick; ответ = reply. New words: означало = meant; фактор = quotient; зубы = teeth; оболочка = shell; шея = neck; кислорода = oxygen; сахар = sugar. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Саша идёт в университет. Там рядом есть письмо и парта. Саша читает медленно и замечает новое слово: «встреча». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Sasha is at the university. There is letter and desk nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Глава 2 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: бар, раб, рынок, цыпленок, ответ. Новые слова: смерть, довольно, умение, женщины, сезон, решение, магнит. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: бар = bar; раб = slave; рынок = market; цыпленок = chick; ответ = reply. New words: смерть = death; довольно = pretty; умение = skill; женщины = women; сезон = season; решение = solution; магнит = magnet. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Саша пишет слово «встреча» в тетради. Потом Саша думает о теме «идеи». В этом месте тихо, поэтому Саша снова читает предложение и произносит его вслух.",
+        "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about ideas. The place is quiet, so Sasha reads the sentence again and says it softly."
       },
       {
-        "heading": "Глава 3 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: бар, раб, рынок, цыпленок, ответ. Новые слова: серебро, спасибо, филиал, матч, суффикс, особенно, рис. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: бар = bar; раб = slave; рынок = market; цыпленок = chick; ответ = reply. New words: серебро = silver; спасибо = thank; филиал = branch; матч = match; суффикс = suffix; особенно = especially; рис = fig. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "Появляется маленькая трудность, но Саша использует новые слова. Саша смотрит на письмо, потом на парта, и составляет простой план. В конце Саша может сказать одно понятное предложение.",
+        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the desk, and makes a simple plan. By the end, Sasha can say one clear sentence."
       },
       {
-        "heading": "Глава 4 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: бар, раб, рынок, цыпленок, ответ. Новые слова: боится, огромный, сестра, сталь, обсуждать, вперед, похожи. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: бар = bar; раб = slave; рынок = market; цыпленок = chick; ответ = reply. New words: боится = afraid; огромный = huge; сестра = sister; сталь = steel; обсуждать = discuss; вперед = forward; похожи = similar. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "Позже Саша встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Саша пишет ещё три слова и связывает их с историей этого дня.",
+        "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "Глава 5 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: бар, раб, рынок, цыпленок, ответ. Новые слова: направлять, опыт, счет, яблоко, купленный, привело, шаг. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: бар = bar; раб = slave; рынок = market; цыпленок = chick; ответ = reply. New words: направлять = guide; опыт = experience; счет = score; яблоко = apple; купленный = bought; привело = led; шаг = pitch. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "В конце дня Саша читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Саша улыбается, потому что учиться теперь легче.",
+        "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "russian-advanced-09",
+    "id": "russian-advanced-49",
     "level": "advanced",
-    "title": "Advanced 09: Слова 931-965",
+    "title": "Advanced 49: The Letter and the Map",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2831,38 +2879,39 @@
       925,
       928
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/49-advanced-the-letter-and-the-map.txt",
     "sections": [
       {
-        "heading": "Глава 1 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: сезон, серебро, матч, рис, сестра. Новые слова: пальто, масса, карта, полоса, веревка, скольжение, выиграть. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: сезон = season; серебро = silver; матч = match; рис = fig; сестра = sister. New words: пальто = coat; масса = mass; карта = card; полоса = band; веревка = rope; скольжение = slip; выиграть = win. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Катя идёт в библиотеку. Там рядом есть письмо и карта. Катя читает медленно и замечает новое слово: «маршрут». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Katya is in the library. There is letter and map nearby. Katya reads slowly and notices a new word: route. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Глава 2 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: сезон, серебро, матч, рис, сестра. Новые слова: мечтать, вечер, состояние, корма, инструмент, общий, основной. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: сезон = season; серебро = silver; матч = match; рис = fig; сестра = sister. New words: мечтать = dream; вечер = evening; состояние = condition; корма = feed; инструмент = tool; общий = total; основной = basic. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Катя пишет слово «маршрут» в тетради. Потом Катя думает о теме «поиск». В этом месте тихо, поэтому Катя снова читает предложение и произносит его вслух.",
+        "en": "Katya writes the word route in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
       },
       {
-        "heading": "Глава 3 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: сезон, серебро, матч, рис, сестра. Новые слова: запах, долина, ни, двойной, сиденья, продолжать, блок. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: сезон = season; серебро = silver; матч = match; рис = fig; сестра = sister. New words: запах = smell; долина = valley; ни = nor; двойной = double; сиденья = seat; продолжать = continue; блок = block. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "Появляется маленькая трудность, но Катя использует новые слова. Катя смотрит на письмо, потом на карта, и составляет простой план. В конце Катя может сказать одно понятное предложение.",
+        "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the letter, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
       },
       {
-        "heading": "Глава 4 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: сезон, серебро, матч, рис, сестра. Новые слова: диаграмма, шляпа, продать, успех, компания, вычитать, мероприятие. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: сезон = season; серебро = silver; матч = match; рис = fig; сестра = sister. New words: диаграмма = chart; шляпа = hat; продать = sell; успех = success; компания = company; вычитать = subtract; мероприятие = event. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "Позже Катя встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Катя пишет ещё три слова и связывает их с историей этого дня.",
+        "en": "Later, Katya meets another person and asks one careful question. The answer is simple, but it helps. Katya writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "Глава 5 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: сезон, серебро, матч, рис, сестра. Новые слова: частности, сделка, плавать, термин, напротив, жена, обуви. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: сезон = season; серебро = silver; матч = match; рис = fig; сестра = sister. New words: частности = particular; сделка = deal; плавать = swim; термин = term; напротив = opposite; жена = wife; обуви = shoe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "В конце дня Катя читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Катя улыбается, потому что учиться теперь легче.",
+        "en": "At the end of the day, Katya reads the whole page out loud. The words are not perfect yet, but they are familiar now. Katya smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "russian-advanced-10",
+    "id": "russian-advanced-50",
     "level": "advanced",
-    "title": "Advanced 10: Слова 966-1000",
+    "title": "Advanced 50: The Language Feels Close",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2917,31 +2966,32 @@
       960,
       963
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/50-advanced-the-language-feels-close.txt",
     "sections": [
       {
-        "heading": "Глава 1 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: инструмент, запах, двойной, блок, продать. Новые слова: плечо, распространение, организовать, лагерь, изобретать, хлопок, родившийся. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: инструмент = tool; запах = smell; двойной = double; блок = block; продать = sell. New words: плечо = shoulder; распространение = spread; организовать = arrange; лагерь = camp; изобретать = invent; хлопок = cotton; родившийся = born. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "Утром Ирина идёт в парк. Там рядом есть книга и телефон. Ирина читает медленно и замечает новое слово: «язык». День хороший, и русский язык становится ближе.",
+        "en": "In the morning, Irina is in the park. There is book and phone nearby. Irina reads slowly and notices a new word: language. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "Глава 2 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: инструмент, запах, двойной, блок, продать. Новые слова: определять, кварта, девять, грузовик, шум, уровень, шанс. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: инструмент = tool; запах = smell; двойной = double; блок = block; продать = sell. New words: определять = determine; кварта = quart; девять = nine; грузовик = truck; шум = noise; уровень = level; шанс = chance. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "Ирина пишет слово «язык» в тетради. Потом Ирина думает о теме «уверенность». В этом месте тихо, поэтому Ирина снова читает предложение и произносит его вслух.",
+        "en": "Irina writes the word language in a notebook. Then Irina thinks about confidence. The place is quiet, so Irina reads the sentence again and says it softly."
       },
       {
-        "heading": "Глава 3 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: инструмент, запах, двойной, блок, продать. Новые слова: собирать, магазин, протяжение, бросать, блеск, имущество, колонка. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: инструмент = tool; запах = smell; двойной = double; блок = block; продать = sell. New words: собирать = gather; магазин = shop; протяжение = stretch; бросать = throw; блеск = shine; имущество = property; колонка = column. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "Появляется маленькая трудность, но Ирина использует новые слова. Ирина смотрит на книга, потом на телефон, и составляет простой план. В конце Ирина может сказать одно понятное предложение.",
+        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the book, looks at the phone, and makes a simple plan. By the end, Irina can say one clear sentence."
       },
       {
-        "heading": "Глава 4 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: инструмент, запах, двойной, блок, продать. Новые слова: молекула, выбирать, неправильно, серый, повторение, требовать, широкий. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: инструмент = tool; запах = smell; двойной = double; блок = block; продать = sell. New words: молекула = molecule; выбирать = select; неправильно = wrong; серый = gray; повторение = repeat; требовать = require; широкий = broad. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "Позже Ирина встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Ирина пишет ещё три слова и связывает их с историей этого дня.",
+        "en": "Later, Irina meets another person and asks one careful question. The answer is simple, but it helps. Irina writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "Глава 5 / 5",
-        "ru": "В этой главе слова становятся частью большого рассказа, где важны память, выбор и детали. Слова для повторения: инструмент, запах, двойной, блок, продать. Новые слова: подготовить, соль, нос, множественное, гнев, претензии, континент. Он читает вслух, слушает себя и записывает слова в тетрадь.",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: инструмент = tool; запах = smell; двойной = double; блок = block; продать = sell. New words: подготовить = prepare; соль = salt; нос = nose; множественное = plural; гнев = anger; претензии = claim; континент = continent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "В конце дня Ирина читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Ирина улыбается, потому что учиться теперь легче.",
+        "en": "At the end of the day, Irina reads the whole page out loud. The words are not perfect yet, but they are familiar now. Irina smiles because learning feels possible and close."
       }
     ]
   }

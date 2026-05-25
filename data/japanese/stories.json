@@ -2,7 +2,7 @@
   {
     "id": "japanese-beginner-01",
     "level": "beginner",
-    "title": "Beginner 01: 言葉 1-9",
+    "title": "Beginner 01: Morning at Home",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -22,18 +22,19 @@
       9
     ],
     "reviewWords": [],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/01-beginner-morning-at-home.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "今日は学習者が短いページを読みます。 新しい言葉: ように, 私は, 彼の, その, 彼, た, ために, 上の, アール. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "Today the learner reads a short page. New words: ように = as; 私は = I; 彼の = his; その = that; 彼 = he; た = was; ために = for; 上の = on; アール = are. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、アンナは家へ行きます。近くにお茶と本があります。アンナはゆっくり読み、新しい言葉「町」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Anna is at home. There is tea and book nearby. Anna reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "japanese-beginner-02",
     "level": "beginner",
-    "title": "Beginner 02: 言葉 10-18",
+    "title": "Beginner 02: Tea on the Table",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -59,18 +60,19 @@
       7,
       9
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/02-beginner-tea-on-the-table.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "今日は学習者が短いページを読みます。 復習する言葉: ように, 彼の, 彼, ために, アール. 新しい言葉: とともに, 彼ら, ある, アット, 一つ, 持っている, この, から, バイ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "Today the learner reads a short page. Review words: ように = as; 彼の = his; 彼 = he; ために = for; アール = are. New words: とともに = with; 彼ら = they; ある = be; アット = at; 一つ = one; 持っている = have; この = this; から = from; バイ = by. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、レナは家へ行きます。近くにお茶とパンがあります。レナはゆっくり読み、新しい言葉「テーブル」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Lena is at home. There is tea and bread nearby. Lena reads slowly and notices a new word: table. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "japanese-beginner-03",
     "level": "beginner",
-    "title": "Beginner 03: 言葉 19-27",
+    "title": "Beginner 03: The Open Window",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -97,18 +99,19 @@
       13,
       16
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/03-beginner-the-open-window.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "今日は学習者が短いページを読みます。 復習する言葉: ように, その, ために, とともに, アット. 新しい言葉: ホット, 言葉, しかし, 何, いくつかの, です, それ, あなた, または. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "Today the learner reads a short page. Review words: ように = as; その = that; ために = for; とともに = with; アット = at. New words: ホット = hot; 言葉 = word; しかし = but; 何 = what; いくつかの = some; です = is; それ = it; あなた = you; または = or. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、イワンは家へ行きます。近くに窓と本があります。イワンはゆっくり読み、新しい言葉「図書館」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Ivan is at home. There is window and book nearby. Ivan reads slowly and notices a new word: library. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "japanese-beginner-04",
     "level": "beginner",
-    "title": "Beginner 04: 言葉 28-36",
+    "title": "Beginner 04: Walking to the Park",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -137,18 +140,19 @@
       22,
       25
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/04-beginner-walking-to-the-park.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "今日は学習者が短いページを読みます。 復習する言葉: その, ために, とともに, アット, この. 新しい言葉: 持っていた, インクルード, の, へ, そして, は, で, 我々, 缶. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "Today the learner reads a short page. Review words: その = that; ために = for; とともに = with; アット = at; この = this. New words: 持っていた = had; インクルード = the; の = of; へ = to; そして = and; は = a; で = in; 我々 = we; 缶 = can. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、マーシャは公園へ行きます。近くに母と兄弟があります。マーシャはゆっくり読み、新しい言葉「友だち」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Masha is in the park. There is mother and brother nearby. Masha reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "japanese-beginner-05",
     "level": "beginner",
-    "title": "Beginner 05: 言葉 37-44",
+    "title": "Beginner 05: A Quiet Street",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -176,18 +180,19 @@
       31,
       34
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/05-beginner-a-quiet-street.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "今日は学習者が短いページを読みます。 復習する言葉: アット, この, ホット, 何, それ. 新しい言葉: アウト, その他, だった, これ, やる, それらの, 時間, もし. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "Today the learner reads a short page. Review words: アット = at; この = this; ホット = hot; 何 = what; それ = it. New words: アウト = out; その他 = other; だった = were; これ = which; やる = do; それらの = their; 時間 = time; もし = if. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、パーヴェルは通りへ行きます。近くに家と窓があります。パーヴェルはゆっくり読み、新しい言葉「通り」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Pavel is on the street. There is house and window nearby. Pavel reads slowly and notices a new word: street. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "japanese-beginner-06",
     "level": "beginner",
-    "title": "Beginner 06: 言葉 45-52",
+    "title": "Beginner 06: The First Book",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -215,18 +220,19 @@
       39,
       42
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/06-beginner-the-first-book.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "今日は学習者が短いページを読みます。 復習する言葉: しかし, です, または, の, は. 新しい言葉: 意志, 方法, 前記, の, それぞれ, 言う, し, セット. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "Today the learner reads a short page. Review words: しかし = but; です = is; または = or; の = of; は = a. New words: 意志 = will; 方法 = how; 前記 = said; の = an; それぞれ = each; 言う = tell; し = does; セット = set. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、オリガは図書館へ行きます。近くに本とカードがあります。オリガはゆっくり読み、新しい言葉「言葉」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Olga is in the library. There is book and card nearby. Olga reads slowly and notices a new word: word. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "japanese-beginner-07",
     "level": "beginner",
-    "title": "Beginner 07: 言葉 53-60",
+    "title": "Beginner 07: A Good Day",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -254,18 +260,19 @@
       47,
       50
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/07-beginner-a-good-day.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "今日は学習者が短いページを読みます。 復習する言葉: インクルード, そして, 我々, その他, やる. 新しい言葉: 個, 欲しい, 空気, よく, また, 遊ぶ, 小さい, 終わり. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "Today the learner reads a short page. Review words: インクルード = the; そして = and; 我々 = we; その他 = other; やる = do. New words: 個 = three; 欲しい = want; 空気 = air; よく = well; また = also; 遊ぶ = play; 小さい = small; 終わり = end. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、ニコライは公園へ行きます。近くに太陽と木があります。ニコライはゆっくり読み、新しい言葉「よい」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Nikolay is in the park. There is sun and tree nearby. Nikolay reads slowly and notices a new word: good. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "japanese-beginner-08",
     "level": "beginner",
-    "title": "Beginner 08: 言葉 61-68",
+    "title": "Beginner 08: At School",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -293,18 +300,19 @@
       55,
       58
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/08-beginner-at-school.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "今日は学習者が短いページを読みます。 復習する言葉: アウト, これ, 時間, 方法, それぞれ. 新しい言葉: 置く, ホーム, 読む, 手, ポート, 大きい, スペル, 加える. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "Today the learner reads a short page. Review words: アウト = out; これ = which; 時間 = time; 方法 = how; それぞれ = each. New words: 置く = put; ホーム = home; 読む = read; 手 = hand; ポート = port; 大きい = large; スペル = spell; 加える = add. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、サーシャは学校へ行きます。近くに机と鉛筆があります。サーシャはゆっくり読み、新しい言葉「学校」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Sasha is at school. There is desk and pencil nearby. Sasha reads slowly and notices a new word: school. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "japanese-beginner-09",
     "level": "beginner",
-    "title": "Beginner 09: 言葉 69-76",
+    "title": "Beginner 09: At the Store",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -332,18 +340,19 @@
       63,
       66
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/09-beginner-at-the-store.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "今日は学習者が短いページを読みます。 復習する言葉: 意志, の, し, 欲しい, また. 新しい言葉: さらに, 土地, ここに, しなければならない, 大きい, 高い, そのような, 続く. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "Today the learner reads a short page. Review words: 意志 = will; の = an; し = does; 欲しい = want; また = also. New words: さらに = even; 土地 = land; ここに = here; しなければならない = must; 大きい = big; 高い = high; そのような = such; 続く = follow. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、イリーナは店へ行きます。近くにかばんと食べ物があります。イリーナはゆっくり読み、新しい言葉「店」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Irina is in the store. There is bag and food nearby. Irina reads slowly and notices a new word: store. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "japanese-beginner-10",
     "level": "beginner",
-    "title": "Beginner 10: 言葉 77-84",
+    "title": "Beginner 10: At the Station",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -371,18 +380,19 @@
       71,
       74
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/10-beginner-at-the-station.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "今日は学習者が短いページを読みます。 復習する言葉: 個, よく, 小さい, ホーム, ポート. 新しい言葉: 行為, なぜ, 頼む, 人々, 変更, 行ってきました, 光, 種類. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "Today the learner reads a short page. Review words: 個 = three; よく = well; 小さい = small; ホーム = home; ポート = port. New words: 行為 = act; なぜ = why; 頼む = ask; 人々 = men; 変更 = change; 行ってきました = went; 光 = light; 種類 = kind. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、マリアは駅へ行きます。近くにお茶と切符があります。マリアはゆっくり読み、新しい言葉「駅」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Maria is at the station. There is tea and ticket nearby. Maria reads slowly and notices a new word: station. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "japanese-beginner-11",
     "level": "beginner",
-    "title": "Beginner 11: 言葉 85-92",
+    "title": "Beginner 11: A Simple Call",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -410,18 +420,19 @@
       79,
       82
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/11-beginner-a-simple-call.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "今日は学習者が短いページを読みます。 復習する言葉: 置く, 手, スペル, 土地, 大きい. 新しい言葉: オフ, 必要, 家, 絵, 試す, 私たち, 再び, 動物. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "Today the learner reads a short page. Review words: 置く = put; 手 = hand; スペル = spell; 土地 = land; 大きい = big. New words: オフ = off; 必要 = need; 家 = house; 絵 = picture; 試す = try; 私たち = us; 再び = again; 動物 = animal. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、ディマは家へ行きます。近くに電話とノートがあります。ディマはゆっくり読み、新しい言葉「友だち」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Dima is at home. There is phone and notebook nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "japanese-beginner-12",
     "level": "beginner",
-    "title": "Beginner 12: 言葉 93-100",
+    "title": "Beginner 12: I Know This Word",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -449,18 +460,19 @@
       87,
       90
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/12-beginner-i-know-this-word.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "今日は学習者が短いページを読みます。 復習する言葉: さらに, しなければならない, そのような, なぜ, 変更. 新しい言葉: ポイント, 母, 世界, 近く, ビルド, 自己, 地球, 父. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "Today the learner reads a short page. Review words: さらに = even; しなければならない = must; そのような = such; なぜ = why; 変更 = change. New words: ポイント = point; 母 = mother; 世界 = world; 近く = near; ビルド = build; 自己 = self; 地球 = earth; 父 = father. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、カーチャは部屋へ行きます。近くに紙と本があります。カーチャはゆっくり読み、新しい言葉「知る」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Katya is in the room. There is paper and book nearby. Katya reads slowly and notices a new word: know. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
-    "id": "japanese-elementary-01",
+    "id": "japanese-elementary-13",
     "level": "elementary",
-    "title": "Elementary 01: 言葉 101-116",
+    "title": "Elementary 13: The Library Window",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -496,23 +508,24 @@
       95,
       98
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/13-elementary-the-library-window.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 行為, 人々, 光, 必要, 試す. 新しい言葉: 任意の, 新しい, 仕事, パート, 取る, ゲット, 場所, 製. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 行為 = act; 人々 = men; 光 = light; 必要 = need; 試す = try. New words: 任意の = any; 新しい = new; 仕事 = work; パート = part; 取る = take; ゲット = get; 場所 = place; 製 = made. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、パーヴェルは図書館へ行きます。近くに窓とノートがあります。パーヴェルはゆっくり読み、新しい言葉「静か」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Pavel is in the library. There is window and notebook nearby. Pavel reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "ページ 2",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 行為, 人々, 光, 必要, 試す. 新しい言葉: 暮らす, どこ, 後に, バック, 少し, 唯一の, ラウンド, 男. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 行為 = act; 人々 = men; 光 = light; 必要 = need; 試す = try. New words: 暮らす = live; どこ = where; 後に = after; バック = back; 少し = little; 唯一の = only; ラウンド = round; 男 = man. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "パーヴェルはノートに「静か」を書きます。それから「読むこと」について考えます。そこは静かなので、パーヴェルは文をもう一度読み、小さな声で言います。",
+        "en": "Pavel writes the word quiet in a notebook. Then Pavel thinks about reading. The place is quiet, so Pavel reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "japanese-elementary-02",
+    "id": "japanese-elementary-14",
     "level": "elementary",
-    "title": "Elementary 02: 言葉 117-132",
+    "title": "Elementary 14: The Museum Visit",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -548,23 +561,24 @@
       111,
       114
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/14-elementary-the-museum-visit.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: ポイント, 近く, 地球, 新しい, 取る. 新しい言葉: 年, 来た, ショー, すべての, 良い, 私に, 与える, 私たちの. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: ポイント = point; 近く = near; 地球 = earth; 新しい = new; 取る = take. New words: 年 = year; 来た = came; ショー = show; すべての = every; 良い = good; 私に = me; 与える = give; 私たちの = our. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、ニコライは博物館へ行きます。近くに切符と絵があります。ニコライはゆっくり読み、新しい言葉「歴史」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Nikolay is in the museum. There is ticket and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "ページ 2",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: ポイント, 近く, 地球, 新しい, 取る. 新しい言葉: 下, 名前, 非常に, スルー, ただ, フォーム, 文, 素晴らしい. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: ポイント = point; 近く = near; 地球 = earth; 新しい = new; 取る = take. New words: 下 = under; 名前 = name; 非常に = very; スルー = through; ただ = just; フォーム = form; 文 = sentence; 素晴らしい = great. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "ニコライはノートに「歴史」を書きます。それから「記憶」について考えます。そこは静かなので、ニコライは文をもう一度読み、小さな声で言います。",
+        "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about memory. The place is quiet, so Nikolay reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "japanese-elementary-03",
+    "id": "japanese-elementary-15",
     "level": "elementary",
-    "title": "Elementary 03: 言葉 133-148",
+    "title": "Elementary 15: The Cafe Notebook",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -600,23 +614,24 @@
       127,
       130
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/15-elementary-the-cafe-notebook.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 暮らす, バック, ラウンド, 来た, 良い. 新しい言葉: 思う, 言う, 助け, 低い, ライン, 異なる, ターン, 原因. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 暮らす = live; バック = back; ラウンド = round; 来た = came; 良い = good. New words: 思う = think; 言う = say; 助け = help; 低い = low; ライン = line; 異なる = differ; ターン = turn; 原因 = cause. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、オリガはカフェへ行きます。近くにお茶と音楽があります。オリガはゆっくり読み、新しい言葉「メロディー」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Olga is in the cafe. There is tea and music nearby. Olga reads slowly and notices a new word: melody. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "ページ 2",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 暮らす, バック, ラウンド, 来た, 良い. 新しい言葉: ずっと, 意味する, 前に, 移動, 権利, 男の子, 古い, あまりに. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 暮らす = live; バック = back; ラウンド = round; 来た = came; 良い = good. New words: ずっと = much; 意味する = mean; 前に = before; 移動 = move; 権利 = right; 男の子 = boy; 古い = old; あまりに = too. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "オリガはノートに「メロディー」を書きます。それから「聞くこと」について考えます。そこは静かなので、オリガは文をもう一度読み、小さな声で言います。",
+        "en": "Olga writes the word melody in a notebook. Then Olga thinks about listening. The place is quiet, so Olga reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "japanese-elementary-04",
+    "id": "japanese-elementary-16",
     "level": "elementary",
-    "title": "Elementary 04: 言葉 149-164",
+    "title": "Elementary 16: Rain Near the Door",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -652,23 +667,24 @@
       143,
       146
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/16-elementary-rain-near-the-door.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 下, スルー, 文, 言う, ライン. 新しい言葉: 同じ, 彼女, すべて, そこ, 時, アップ, 使用, あなたの. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 下 = under; スルー = through; 文 = sentence; 言う = say; ライン = line. New words: 同じ = same; 彼女 = she; すべて = all; そこ = there; 時 = when; アップ = up; 使用 = use; あなたの = your. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、ディマは本屋へ行きます。近くにドアと本があります。ディマはゆっくり読み、新しい言葉「道」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Dima is in the bookshop. There is door and book nearby. Dima reads slowly and notices a new word: road. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "ページ 2",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 下, スルー, 文, 言う, ライン. 新しい言葉: 道, 約, 多くの, その後, それら, 書く, でしょう, ような. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 下 = under; スルー = through; 文 = sentence; 言う = say; ライン = line. New words: 道 = way; 約 = about; 多くの = many; その後 = then; それら = them; 書く = write; でしょう = would; ような = like. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "ディマはノートに「道」を書きます。それから「雨」について考えます。そこは静かなので、ディマは文をもう一度読み、小さな声で言います。",
+        "en": "Dima writes the word road in a notebook. Then Dima thinks about rain. The place is quiet, so Dima reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "japanese-elementary-05",
+    "id": "japanese-elementary-17",
     "level": "elementary",
-    "title": "Elementary 05: 言葉 165-180",
+    "title": "Elementary 17: The Letter on the Table",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -704,23 +720,24 @@
       159,
       162
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/17-elementary-the-letter-on-the-table.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: ずっと, 移動, 古い, 彼女, 時. 新しい言葉: そう, これらの, 彼女の, 長い, 作る, もの, 見る, 彼に. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: ずっと = much; 移動 = move; 古い = old; 彼女 = she; 時 = when. New words: そう = so; これらの = these; 彼女の = her; 長い = long; 作る = make; もの = thing; 見る = see; 彼に = him. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、サーシャは大学へ行きます。近くに手紙とテーブルがあります。サーシャはゆっくり読み、新しい言葉「会議」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Sasha is at the university. There is letter and table nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "ページ 2",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: ずっと, 移動, 古い, 彼女, 時. 新しい言葉: 二つ, があります, 見える, 多くの, 日, 可能性, 行く, 来る. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: ずっと = much; 移動 = move; 古い = old; 彼女 = she; 時 = when. New words: 二つ = two; があります = has; 見える = look; 多くの = more; 日 = day; 可能性 = could; 行く = go; 来る = come. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "サーシャはノートに「会議」を書きます。それから「招待」について考えます。そこは静かなので、サーシャは文をもう一度読み、小さな声で言います。",
+        "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about invitation. The place is quiet, so Sasha reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "japanese-elementary-06",
+    "id": "japanese-elementary-18",
     "level": "elementary",
-    "title": "Elementary 06: 言葉 181-196",
+    "title": "Elementary 18: Words in the Park",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -756,23 +773,24 @@
       175,
       178
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/18-elementary-words-in-the-park.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 道, その後, でしょう, これらの, 作る. 新しい言葉: やった, 番号, 聞こえる, いいえ, 最も, 人々, 私の, オーバー. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 道 = way; その後 = then; でしょう = would; これらの = these; 作る = make. New words: やった = did; 番号 = number; 聞こえる = sound; いいえ = no; 最も = most; 人々 = people; 私の = my; オーバー = over. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、イリーナは公園へ行きます。近くに電話とお茶があります。イリーナはゆっくり読み、新しい言葉「三つ」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Irina is in the park. There is phone and tea nearby. Irina reads slowly and notices a new word: three. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "ページ 2",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 道, その後, でしょう, これらの, 作る. 新しい言葉: 知っている, 水, 比べて, コール, 最初の, 誰, よい, ダウン. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 道 = way; その後 = then; でしょう = would; これらの = these; 作る = make. New words: 知っている = know; 水 = water; 比べて = than; コール = call; 最初の = first; 誰 = who; よい = may; ダウン = down. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "イリーナはノートに「三つ」を書きます。それから「話すこと」について考えます。そこは静かなので、イリーナは文をもう一度読み、小さな声で言います。",
+        "en": "Irina writes the word three in a notebook. Then Irina thinks about speaking. The place is quiet, so Irina reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "japanese-elementary-07",
+    "id": "japanese-elementary-19",
     "level": "elementary",
-    "title": "Elementary 07: 言葉 197-212",
+    "title": "Elementary 19: The Little Plan",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -808,23 +826,24 @@
       191,
       194
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/19-elementary-the-little-plan.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 二つ, 多くの, 行く, 番号, 最も. 新しい言葉: サイド, き, 今, 見つける, ヘッド, スタンド, 独自の, ページ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 二つ = two; 多くの = more; 行く = go; 番号 = number; 最も = most. New words: サイド = side; き = been; 今 = now; 見つける = find; ヘッド = head; スタンド = stand; 独自の = own; ページ = page. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、レナは店へ行きます。近くに地図とかごがあります。レナはゆっくり読み、新しい言葉「計画」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Lena is in the store. There is map and basket nearby. Lena reads slowly and notices a new word: plan. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "ページ 2",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 二つ, 多くの, 行く, 番号, 最も. 新しい言葉: べき, 国, 発見, 答え, 学校, 成長する, 研究, まだ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 二つ = two; 多くの = more; 行く = go; 番号 = number; 最も = most. New words: べき = should; 国 = country; 発見 = found; 答え = answer; 学校 = school; 成長する = grow; 研究 = study; まだ = still. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "レナはノートに「計画」を書きます。それから「買い物」について考えます。そこは静かなので、レナは文をもう一度読み、小さな声で言います。",
+        "en": "Lena writes the word plan in a notebook. Then Lena thinks about shopping. The place is quiet, so Lena reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "japanese-elementary-08",
+    "id": "japanese-elementary-20",
     "level": "elementary",
-    "title": "Elementary 08: 言葉 213-228",
+    "title": "Elementary 20: The News Page",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -860,23 +879,24 @@
       207,
       210
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/20-elementary-the-news-page.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 知っている, コール, よい, き, ヘッド. 新しい言葉: 学ぶ, 植物, カバー, 食品, 太陽, つの, 間に, 状態. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 知っている = know; コール = call; よい = may; き = been; ヘッド = head. New words: 学ぶ = learn; 植物 = plant; カバー = cover; 食品 = food; 太陽 = sun; つの = four; 間に = between; 状態 = state. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、マリアは駅へ行きます。近くにお茶と新聞があります。マリアはゆっくり読み、新しい言葉「ニュース」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Maria is at the station. There is tea and newspaper nearby. Maria reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "ページ 2",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 知っている, コール, よい, き, ヘッド. 新しい言葉: キープ, 目, ネバー, 最後の, てみましょう, 考え, 街, ツリー. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 知っている = know; コール = call; よい = may; き = been; ヘッド = head. New words: キープ = keep; 目 = eye; ネバー = never; 最後の = last; てみましょう = let; 考え = thought; 街 = city; ツリー = tree. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "マリアはノートに「ニュース」を書きます。それから「考え」について考えます。そこは静かなので、マリアは文をもう一度読み、小さな声で言います。",
+        "en": "Maria writes the word news in a notebook. Then Maria thinks about thinking. The place is quiet, so Maria reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "japanese-elementary-09",
+    "id": "japanese-elementary-21",
     "level": "elementary",
-    "title": "Elementary 09: 言葉 229-244",
+    "title": "Elementary 21: The Family Walk",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -912,23 +932,24 @@
       223,
       226
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/21-elementary-the-family-walk.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: べき, 答え, 研究, 植物, 太陽. 新しい言葉: クロス, 農場, ハード, スタート, 可能性がある, 物語, のこぎり, 遠く. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: べき = should; 答え = answer; 研究 = study; 植物 = plant; 太陽 = sun. New words: クロス = cross; 農場 = farm; ハード = hard; スタート = start; 可能性がある = might; 物語 = story; のこぎり = saw; 遠く = far. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、アンナは公園へ行きます。近くに母と兄弟があります。アンナはゆっくり読み、新しい言葉「家」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Anna is in the park. There is mother and brother nearby. Anna reads slowly and notices a new word: house. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "ページ 2",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: べき, 答え, 研究, 植物, 太陽. 新しい言葉: 海, 描く, 左, 遅く, ラン, ない, 一方、, プレス. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: べき = should; 答え = answer; 研究 = study; 植物 = plant; 太陽 = sun. New words: 海 = sea; 描く = draw; 左 = left; 遅く = late; ラン = run; ない = don’t; 一方、 = while; プレス = press. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "アンナはノートに「家」を書きます。それから「家族」について考えます。そこは静かなので、アンナは文をもう一度読み、小さな声で言います。",
+        "en": "Anna writes the word house in a notebook. Then Anna thinks about family. The place is quiet, so Anna reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "japanese-elementary-10",
+    "id": "japanese-elementary-22",
     "level": "elementary",
-    "title": "Elementary 10: 言葉 245-260",
+    "title": "Elementary 22: The Quiet Room",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -964,23 +985,24 @@
       239,
       242
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/22-elementary-the-quiet-room.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: キープ, 最後の, 街, 農場, 可能性がある. 新しい言葉: クローズ, 夜, リアル, 生活, 少数, 北, ブック, 運ぶ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: キープ = keep; 最後の = last; 街 = city; 農場 = farm; 可能性がある = might. New words: クローズ = close; 夜 = night; リアル = real; 生活 = life; 少数 = few; 北 = north; ブック = book; 運ぶ = carry. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、イワンは部屋へ行きます。近くに椅子と本があります。イワンはゆっくり読み、新しい言葉「部屋」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Ivan is in the room. There is chair and book nearby. Ivan reads slowly and notices a new word: room. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "ページ 2",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: キープ, 最後の, 街, 農場, 可能性がある. 新しい言葉: かかった, 科学, 食べる, 部屋, 友人, 始まった, アイデア, 魚. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: キープ = keep; 最後の = last; 街 = city; 農場 = farm; 可能性がある = might. New words: かかった = took; 科学 = science; 食べる = eat; 部屋 = room; 友人 = friend; 始まった = began; アイデア = idea; 魚 = fish. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "イワンはノートに「部屋」を書きます。それから「静けさ」について考えます。そこは静かなので、イワンは文をもう一度読み、小さな声で言います。",
+        "en": "Ivan writes the word room in a notebook. Then Ivan thinks about silence. The place is quiet, so Ivan reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "japanese-elementary-11",
+    "id": "japanese-elementary-23",
     "level": "elementary",
-    "title": "Elementary 11: 言葉 261-275",
+    "title": "Elementary 23: The New Teacher",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1015,23 +1037,24 @@
       255,
       258
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/23-elementary-the-new-teacher.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 海, 遅く, 一方、, 夜, 少数. 新しい言葉: 山, 停止, 一度, ベース, 聞く, 馬, カット, 確か. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 海 = sea; 遅く = late; 一方、 = while; 夜 = night; 少数 = few. New words: 山 = mountain; 停止 = stop; 一度 = once; ベース = base; 聞く = hear; 馬 = horse; カット = cut; 確か = sure. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、マーシャは学校へ行きます。近くに先生とボードがあります。マーシャはゆっくり読み、新しい言葉「質問」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Masha is at school. There is teacher and board nearby. Masha reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "ページ 2",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 海, 遅く, 一方、, 夜, 少数. 新しい言葉: 見る, カラー, 顔, 木材, メイン, オープン, 見える. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 海 = sea; 遅く = late; 一方、 = while; 夜 = night; 少数 = few. New words: 見る = watch; カラー = color; 顔 = face; 木材 = wood; メイン = main; オープン = open; 見える = seem. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "マーシャはノートに「質問」を書きます。それから「学び」について考えます。そこは静かなので、マーシャは文をもう一度読み、小さな声で言います。",
+        "en": "Masha writes the word question in a notebook. Then Masha thinks about learning. The place is quiet, so Masha reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "japanese-elementary-12",
+    "id": "japanese-elementary-24",
     "level": "elementary",
-    "title": "Elementary 12: 言葉 276-290",
+    "title": "Elementary 24: The Bus Stop",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1066,23 +1089,24 @@
       270,
       273
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/24-elementary-the-bus-stop.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 運ぶ, 食べる, 始まった, 山, ベース. 新しい言葉: 一緒に, 次, 白, 子どもたち, 始まる, だ, 歩く, 例. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 運ぶ = carry; 食べる = eat; 始まった = began; 山 = mountain; ベース = base. New words: 一緒に = together; 次 = next; 白 = white; 子どもたち = children; 始まる = begin; だ = got; 歩く = walk; 例 = example. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、パーヴェルは通りへ行きます。近くに切符とバスがあります。パーヴェルはゆっくり読み、新しい言葉「時間」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Pavel is on the street. There is ticket and bus nearby. Pavel reads slowly and notices a new word: time. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "ページ 2",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 運ぶ, 食べる, 始まった, 山, ベース. 新しい言葉: 和らげる, 紙, グループ, 常に, 音楽, それらの, 両方. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 運ぶ = carry; 食べる = eat; 始まった = began; 山 = mountain; ベース = base. New words: 和らげる = ease; 紙 = paper; グループ = group; 常に = always; 音楽 = music; それらの = those; 両方 = both. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "パーヴェルはノートに「時間」を書きます。それから「待つこと」について考えます。そこは静かなので、パーヴェルは文をもう一度読み、小さな声で言います。",
+        "en": "Pavel writes the word time in a notebook. Then Pavel thinks about waiting. The place is quiet, so Pavel reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "japanese-elementary-13",
+    "id": "japanese-elementary-25",
     "level": "elementary",
-    "title": "Elementary 13: 言葉 291-305",
+    "title": "Elementary 25: The Small Market",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1117,23 +1141,24 @@
       285,
       288
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/25-elementary-the-small-market.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: カット, カラー, メイン, 一緒に, 子どもたち. 新しい言葉: マーク, しばしば, 手紙, まで、, マイル, 川, カー, フィート. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: カット = cut; カラー = color; メイン = main; 一緒に = together; 子どもたち = children. New words: マーク = mark; しばしば = often; 手紙 = letter; まで、 = until; マイル = mile; 川 = river; カー = car; フィート = feet. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、オリガは市場へ行きます。近くに果物とかばんがあります。オリガはゆっくり読み、新しい言葉「お金」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Olga is at the market. There is fruit and bag nearby. Olga reads slowly and notices a new word: money. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "ページ 2",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: カット, カラー, メイン, 一緒に, 子どもたち. 新しい言葉: 介護, 第2, 十分な, 平野, 女の子, いつもの, 若い. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: カット = cut; カラー = color; メイン = main; 一緒に = together; 子どもたち = children. New words: 介護 = care; 第2 = second; 十分な = enough; 平野 = plain; 女の子 = girl; いつもの = usual; 若い = young. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "オリガはノートに「お金」を書きます。それから「市場」について考えます。そこは静かなので、オリガは文をもう一度読み、小さな声で言います。",
+        "en": "Olga writes the word money in a notebook. Then Olga thinks about market. The place is quiet, so Olga reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "japanese-elementary-14",
+    "id": "japanese-elementary-26",
     "level": "elementary",
-    "title": "Elementary 14: 言葉 306-320",
+    "title": "Elementary 26: The First Conversation",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1168,23 +1193,24 @@
       300,
       303
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/26-elementary-the-first-conversation.txt",
     "sections": [
       {
-        "heading": "ページ 1",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 歩く, 紙, 音楽, マーク, まで、. 新しい言葉: レディー, 上記, 今までに, 赤, リスト, しかし, 感じる, トーク. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 歩く = walk; 紙 = paper; 音楽 = music; マーク = mark; まで、 = until. New words: レディー = ready; 上記 = above; 今までに = ever; 赤 = red; リスト = list; しかし = though; 感じる = feel; トーク = talk. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、ディマはカフェへ行きます。近くに電話と友だちがあります。ディマはゆっくり読み、新しい言葉「文」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Dima is in the cafe. There is phone and friend nearby. Dima reads slowly and notices a new word: sentence. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "ページ 2",
-        "ru": "この物語では、学習者は知っている言葉を復習して、新しい言葉を加えます。 復習する言葉: 歩く, 紙, 音楽, マーク, まで、. 新しい言葉: 鳥, すぐに, ボディ, 犬, 家族, ダイレクト, ポーズ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 歩く = walk; 紙 = paper; 音楽 = music; マーク = mark; まで、 = until. New words: 鳥 = bird; すぐに = soon; ボディ = body; 犬 = dog; 家族 = family; ダイレクト = direct; ポーズ = pose. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "ディマはノートに「文」を書きます。それから「会話」について考えます。そこは静かなので、ディマは文をもう一度読み、小さな声で言います。",
+        "en": "Dima writes the word sentence in a notebook. Then Dima thinks about talk. The place is quiet, so Dima reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "japanese-intermediate-01",
+    "id": "japanese-intermediate-27",
     "level": "intermediate",
-    "title": "Intermediate 01: 言葉 321-344",
+    "title": "Intermediate 27: The Lost Note",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1228,28 +1254,29 @@
       315,
       318
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/27-intermediate-the-lost-note.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: カー, 第2, 女の子, レディー, 赤. 新しい言葉: 去る, 歌, 測定, ドア, 製品, 黒, 短い, 数字. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: カー = car; 第2 = second; 女の子 = girl; レディー = ready; 赤 = red. New words: 去る = leave; 歌 = song; 測定 = measure; ドア = door; 製品 = product; 黒 = black; 短い = short; 数字 = numeral. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、カーチャは図書館へ行きます。近くにメモと地図があります。カーチャはゆっくり読み、新しい言葉「場所」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Katya is in the library. There is note and map nearby. Katya reads slowly and notices a new word: place. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: カー, 第2, 女の子, レディー, 赤. 新しい言葉: クラス, 風, 質問, 起こる, 完全な, 船, エリア, 半分. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: カー = car; 第2 = second; 女の子 = girl; レディー = ready; 赤 = red. New words: クラス = class; 風 = wind; 質問 = question; 起こる = happen; 完全な = complete; 船 = ship; エリア = area; 半分 = half. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "カーチャはノートに「場所」を書きます。それから「探すこと」について考えます。そこは静かなので、カーチャは文をもう一度読み、小さな声で言います。",
+        "en": "Katya writes the word place in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: カー, 第2, 女の子, レディー, 赤. 新しい言葉: 岩, オーダー, 火災, 南, 問題, 作品, 言われ, 知っていた. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: カー = car; 第2 = second; 女の子 = girl; レディー = ready; 赤 = red. New words: 岩 = rock; オーダー = order; 火災 = fire; 南 = south; 問題 = problem; 作品 = piece; 言われ = told; 知っていた = knew. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "小さな問題が出ますが、カーチャは新しい言葉を使います。メモを見て、次に地図を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+        "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the note, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
       }
     ]
   },
   {
-    "id": "japanese-intermediate-02",
+    "id": "japanese-intermediate-28",
     "level": "intermediate",
-    "title": "Intermediate 02: 言葉 345-368",
+    "title": "Intermediate 28: A Meeting at Noon",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1293,28 +1320,29 @@
       339,
       342
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/28-intermediate-a-meeting-at-noon.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 去る, ドア, 短い, 風, 完全な. 新しい言葉: 合格, 以来, トップ, 全体, 王, ストリート, インチ, 掛ける. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 去る = leave; ドア = door; 短い = short; 風 = wind; 完全な = complete. New words: 合格 = pass; 以来 = since; トップ = top; 全体 = whole; 王 = king; ストリート = street; インチ = inch; 掛ける = multiply. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、サーシャは大学へ行きます。近くに時計と手紙があります。サーシャはゆっくり読み、新しい言葉「正午」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Sasha is at the university. There is clock and letter nearby. Sasha reads slowly and notices a new word: noon. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 去る, ドア, 短い, 風, 完全な. 新しい言葉: 何も, もちろん, 滞在, ホイール, フル, 力, ブルー, オブジェクト. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 去る = leave; ドア = door; 短い = short; 風 = wind; 完全な = complete. New words: 何も = nothing; もちろん = course; 滞在 = stay; ホイール = wheel; フル = full; 力 = force; ブルー = blue; オブジェクト = object. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "サーシャはノートに「正午」を書きます。それから「会議」について考えます。そこは静かなので、サーシャは文をもう一度読み、小さな声で言います。",
+        "en": "Sasha writes the word noon in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 去る, ドア, 短い, 風, 完全な. 新しい言葉: 決定する, 表面, 深い, ムーン, 島, 足, システム, 忙しい. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 去る = leave; ドア = door; 短い = short; 風 = wind; 完全な = complete. New words: 決定する = decide; 表面 = surface; 深い = deep; ムーン = moon; 島 = island; 足 = foot; システム = system; 忙しい = busy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "小さな問題が出ますが、サーシャは新しい言葉を使います。時計を見て、次に手紙を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the clock, looks at the letter, and makes a simple plan. By the end, Sasha can say one clear sentence."
       }
     ]
   },
   {
-    "id": "japanese-intermediate-03",
+    "id": "japanese-intermediate-29",
     "level": "intermediate",
-    "title": "Intermediate 03: 言葉 369-392",
+    "title": "Intermediate 29: The Old Map",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1358,28 +1386,29 @@
       363,
       366
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/29-intermediate-the-old-map.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 合格, 全体, インチ, もちろん, フル. 新しい言葉: テスト, 記録, ボート, 一般的な, ゴールド, 可能, 飛行機, 代わり. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 合格 = pass; 全体 = whole; インチ = inch; もちろん = course; フル = full. New words: テスト = test; 記録 = record; ボート = boat; 一般的な = common; ゴールド = gold; 可能 = possible; 飛行機 = plane; 代わり = stead. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、ニコライは博物館へ行きます。近くに地図と通りがあります。ニコライはゆっくり読み、新しい言葉「町」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Nikolay is in the museum. There is map and street nearby. Nikolay reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 合格, 全体, インチ, もちろん, フル. 新しい言葉: ドライ, 不思議, 笑い, 千の, 前, 走った, チェック, ゲーム. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 合格 = pass; 全体 = whole; インチ = inch; もちろん = course; フル = full. New words: ドライ = dry; 不思議 = wonder; 笑い = laugh; 千の = thousand; 前 = ago; 走った = ran; チェック = check; ゲーム = game. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "ニコライはノートに「町」を書きます。それから「歴史」について考えます。そこは静かなので、ニコライは文をもう一度読み、小さな声で言います。",
+        "en": "Nikolay writes the word city in a notebook. Then Nikolay thinks about history. The place is quiet, so Nikolay reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 合格, 全体, インチ, もちろん, フル. 新しい言葉: 形状, 一致する, ホット, ミス, た, 熱, 雪, タイヤ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 合格 = pass; 全体 = whole; インチ = inch; もちろん = course; フル = full. New words: 形状 = shape; 一致する = equate; ホット = hot; ミス = miss; た = brought; 熱 = heat; 雪 = snow; タイヤ = tire. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "小さな問題が出ますが、ニコライは新しい言葉を使います。地図を見て、次に通りを見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+        "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the map, looks at the street, and makes a simple plan. By the end, Nikolay can say one clear sentence."
       }
     ]
   },
   {
-    "id": "japanese-intermediate-04",
+    "id": "japanese-intermediate-30",
     "level": "intermediate",
-    "title": "Intermediate 04: 言葉 393-416",
+    "title": "Intermediate 30: The Rainy Lesson",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1423,28 +1452,29 @@
       387,
       390
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/30-intermediate-the-rainy-lesson.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: テスト, 一般的な, 飛行機, 不思議, 前. 新しい言葉: 持って来る, はい, 遠い, 埋める, 東, ペイント, 言語, の間で. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: テスト = test; 一般的な = common; 飛行機 = plane; 不思議 = wonder; 前 = ago. New words: 持って来る = bring; はい = yes; 遠い = distant; 埋める = fill; 東 = east; ペイント = paint; 言語 = language; の間で = among. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、イリーナは学校へ行きます。近くに窓と雨があります。イリーナはゆっくり読み、新しい言葉「天気」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Irina is at school. There is window and rain nearby. Irina reads slowly and notices a new word: weather. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: テスト, 一般的な, 飛行機, 不思議, 前. 新しい言葉: ユニット, パワー, 町, 罰金, 特定の, 飛ぶ, 落ちる, 鉛. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: テスト = test; 一般的な = common; 飛行機 = plane; 不思議 = wonder; 前 = ago. New words: ユニット = unit; パワー = power; 町 = town; 罰金 = fine; 特定の = certain; 飛ぶ = fly; 落ちる = fall; 鉛 = lead. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "イリーナはノートに「天気」を書きます。それから「勉強」について考えます。そこは静かなので、イリーナは文をもう一度読み、小さな声で言います。",
+        "en": "Irina writes the word weather in a notebook. Then Irina thinks about study. The place is quiet, so Irina reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: テスト, 一般的な, 飛行機, 不思議, 前. 新しい言葉: 泣く, 暗い, マシン, ノート, 待つ, 計画, 図, スター. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: テスト = test; 一般的な = common; 飛行機 = plane; 不思議 = wonder; 前 = ago. New words: 泣く = cry; 暗い = dark; マシン = machine; ノート = note; 待つ = wait; 計画 = plan; 図 = figure; スター = star. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "小さな問題が出ますが、イリーナは新しい言葉を使います。窓を見て、次に雨を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the window, looks at the rain, and makes a simple plan. By the end, Irina can say one clear sentence."
       }
     ]
   },
   {
-    "id": "japanese-intermediate-05",
+    "id": "japanese-intermediate-31",
     "level": "intermediate",
-    "title": "Intermediate 05: 言葉 417-440",
+    "title": "Intermediate 31: The Museum Question",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1488,28 +1518,29 @@
       411,
       414
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/31-intermediate-the-museum-question.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 持って来る, 埋める, 言語, パワー, 特定の. 新しい言葉: ボックス, 名詞, フィールド, 残り, 正しい, できる, ポンド, 終わった. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 持って来る = bring; 埋める = fill; 言語 = language; パワー = power; 特定の = certain. New words: ボックス = box; 名詞 = noun; フィールド = field; 残り = rest; 正しい = correct; できる = able; ポンド = pound; 終わった = done. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、パーヴェルは博物館へ行きます。近くに絵とノートがあります。パーヴェルはゆっくり読み、新しい言葉「質問」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Pavel is in the museum. There is picture and notebook nearby. Pavel reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 持って来る, 埋める, 言語, パワー, 特定の. 新しい言葉: 美しさ, ドライブ, 立っていた, 含む, フロント, 教える, 週, ファイナル. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 持って来る = bring; 埋める = fill; 言語 = language; パワー = power; 特定の = certain. New words: 美しさ = beauty; ドライブ = drive; 立っていた = stood; 含む = contain; フロント = front; 教える = teach; 週 = week; ファイナル = final. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "パーヴェルはノートに「質問」を書きます。それから「答え」について考えます。そこは静かなので、パーヴェルは文をもう一度読み、小さな声で言います。",
+        "en": "Pavel writes the word question in a notebook. Then Pavel thinks about answer. The place is quiet, so Pavel reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 持って来る, 埋める, 言語, パワー, 特定の. 新しい言葉: 与えた, 緑, ああ, クイック, 開発する, 海, 暖かい, 無料で. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 持って来る = bring; 埋める = fill; 言語 = language; パワー = power; 特定の = certain. New words: 与えた = gave; 緑 = green; ああ = oh; クイック = quick; 開発する = develop; 海 = ocean; 暖かい = warm; 無料で = free. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "小さな問題が出ますが、パーヴェルは新しい言葉を使います。絵を見て、次にノートを見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+        "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the picture, looks at the notebook, and makes a simple plan. By the end, Pavel can say one clear sentence."
       }
     ]
   },
   {
-    "id": "japanese-intermediate-06",
+    "id": "japanese-intermediate-32",
     "level": "intermediate",
-    "title": "Intermediate 06: 言葉 441-464",
+    "title": "Intermediate 32: The Train Delay",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1553,28 +1584,29 @@
       435,
       438
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/32-intermediate-the-train-delay.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: ボックス, 残り, ポンド, ドライブ, フロント. 新しい言葉: 分, 強い, 特別, 心, 背後に, 明確な, テール, 作る. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: ボックス = box; 残り = rest; ポンド = pound; ドライブ = drive; フロント = front. New words: 分 = minute; 強い = strong; 特別 = special; 心 = mind; 背後に = behind; 明確な = clear; テール = tail; 作る = produce. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、マリアは駅へ行きます。近くに切符と時計があります。マリアはゆっくり読み、新しい言葉「待つ」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Maria is at the station. There is ticket and clock nearby. Maria reads slowly and notices a new word: wait. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: ボックス, 残り, ポンド, ドライブ, フロント. 新しい言葉: 事実, スペース, 聞いた, ベスト, 時間, 良い, 真の, 間に. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: ボックス = box; 残り = rest; ポンド = pound; ドライブ = drive; フロント = front. New words: 事実 = fact; スペース = space; 聞いた = heard; ベスト = best; 時間 = hour; 良い = better; 真の = true; 間に = during. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "マリアはノートに「待つ」を書きます。それから「旅」について考えます。そこは静かなので、マリアは文をもう一度読み、小さな声で言います。",
+        "en": "Maria writes the word wait in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: ボックス, 残り, ポンド, ドライブ, フロント. 新しい言葉: 百, 五, 覚えている, ステップ, 早い, ホールド, 西, 地面. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: ボックス = box; 残り = rest; ポンド = pound; ドライブ = drive; フロント = front. New words: 百 = hundred; 五 = five; 覚えている = remember; ステップ = step; 早い = early; ホールド = hold; 西 = west; 地面 = ground. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "小さな問題が出ますが、マリアは新しい言葉を使います。切符を見て、次に時計を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+        "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the clock, and makes a simple plan. By the end, Maria can say one clear sentence."
       }
     ]
   },
   {
-    "id": "japanese-intermediate-07",
+    "id": "japanese-intermediate-33",
     "level": "intermediate",
-    "title": "Intermediate 07: 言葉 465-488",
+    "title": "Intermediate 33: Music in the Cafe",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1618,28 +1650,29 @@
       459,
       462
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/33-intermediate-music-in-the-cafe.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 分, 心, テール, スペース, 時間. 新しい言葉: 関心, リーチ, 速い, 動詞, 歌う, 聞く, 六, テーブル. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 分 = minute; 心 = mind; テール = tail; スペース = space; 時間 = hour. New words: 関心 = interest; リーチ = reach; 速い = fast; 動詞 = verb; 歌う = sing; 聞く = listen; 六 = six; テーブル = table. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、オリガはカフェへ行きます。近くに音楽とお茶があります。オリガはゆっくり読み、新しい言葉「歌」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Olga is in the cafe. There is music and tea nearby. Olga reads slowly and notices a new word: song. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 分, 心, テール, スペース, 時間. 新しい言葉: 旅行, レス, 朝, 十, シンプル, いくつかの, 母音, の方へ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 分 = minute; 心 = mind; テール = tail; スペース = space; 時間 = hour. New words: 旅行 = travel; レス = less; 朝 = morning; 十 = ten; シンプル = simple; いくつかの = several; 母音 = vowel; の方へ = toward. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "オリガはノートに「歌」を書きます。それから「記憶」について考えます。そこは静かなので、オリガは文をもう一度読み、小さな声で言います。",
+        "en": "Olga writes the word song in a notebook. Then Olga thinks about memory. The place is quiet, so Olga reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 分, 心, テール, スペース, 時間. 新しい言葉: 戦争, 産む, に対する, パターン, 遅い, センター, 愛, 人. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 分 = minute; 心 = mind; テール = tail; スペース = space; 時間 = hour. New words: 戦争 = war; 産む = lay; に対する = against; パターン = pattern; 遅い = slow; センター = center; 愛 = love; 人 = person. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "小さな問題が出ますが、オリガは新しい言葉を使います。音楽を見て、次にお茶を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+        "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the music, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
       }
     ]
   },
   {
-    "id": "japanese-intermediate-08",
+    "id": "japanese-intermediate-34",
     "level": "intermediate",
-    "title": "Intermediate 08: 言葉 489-512",
+    "title": "Intermediate 34: A Letter from a Friend",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1683,28 +1716,29 @@
       483,
       486
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/34-intermediate-a-letter-from-a-friend.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 関心, 動詞, 六, レス, シンプル. 新しい言葉: マネー, サーブ, 見える, 道路, マップ, 雨, ルール, 支配する. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 関心 = interest; 動詞 = verb; 六 = six; レス = less; シンプル = simple. New words: マネー = money; サーブ = serve; 見える = appear; 道路 = road; マップ = map; 雨 = rain; ルール = rule; 支配する = govern. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、ディマは家へ行きます。近くに手紙と電話があります。ディマはゆっくり読み、新しい言葉「友だち」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Dima is at home. There is letter and phone nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 関心, 動詞, 六, レス, シンプル. 新しい言葉: 引っ張る, 寒い, 予告, 声, エネルギー, 狩り, ありそうな, ベッド. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 関心 = interest; 動詞 = verb; 六 = six; レス = less; シンプル = simple. New words: 引っ張る = pull; 寒い = cold; 予告 = notice; 声 = voice; エネルギー = energy; 狩り = hunt; ありそうな = probable; ベッド = bed. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "ディマはノートに「友だち」を書きます。それから「招待」について考えます。そこは静かなので、ディマは文をもう一度読み、小さな声で言います。",
+        "en": "Dima writes the word friend in a notebook. Then Dima thinks about invitation. The place is quiet, so Dima reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 関心, 動詞, 六, レス, シンプル. 新しい言葉: 兄, 卵, 乗る, セル, 信じる, たぶん, 選ぶ, 突然の. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 関心 = interest; 動詞 = verb; 六 = six; レス = less; シンプル = simple. New words: 兄 = brother; 卵 = egg; 乗る = ride; セル = cell; 信じる = believe; たぶん = perhaps; 選ぶ = pick; 突然の = sudden. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "小さな問題が出ますが、ディマは新しい言葉を使います。手紙を見て、次に電話を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+        "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the letter, looks at the phone, and makes a simple plan. By the end, Dima can say one clear sentence."
       }
     ]
   },
   {
-    "id": "japanese-intermediate-09",
+    "id": "japanese-intermediate-35",
     "level": "intermediate",
-    "title": "Intermediate 09: 言葉 513-535",
+    "title": "Intermediate 35: The School Project",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1747,28 +1781,29 @@
       507,
       510
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/35-intermediate-the-school-project.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: マネー, 道路, ルール, 寒い, エネルギー. 新しい言葉: カウント, 広場, 理由, 長さ, 表す, アート, テーマ, 地域. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: マネー = money; 道路 = road; ルール = rule; 寒い = cold; エネルギー = energy. New words: カウント = count; 広場 = square; 理由 = reason; 長さ = length; 表す = represent; アート = art; テーマ = subject; 地域 = region. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、マーシャは学校へ行きます。近くに紙と先生があります。マーシャはゆっくり読み、新しい言葉「プロジェクト」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Masha is at school. There is paper and teacher nearby. Masha reads slowly and notices a new word: project. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: マネー, 道路, ルール, 寒い, エネルギー. 新しい言葉: サイズ, 変える, 落ち着く, 話す, 重さ, 一般, アイス, 問題. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: マネー = money; 道路 = road; ルール = rule; 寒い = cold; エネルギー = energy. New words: サイズ = size; 変える = vary; 落ち着く = settle; 話す = speak; 重さ = weight; 一般 = general; アイス = ice; 問題 = matter. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "マーシャはノートに「プロジェクト」を書きます。それから「グループ」について考えます。そこは静かなので、マーシャは文をもう一度読み、小さな声で言います。",
+        "en": "Masha writes the word project in a notebook. Then Masha thinks about group. The place is quiet, so Masha reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: マネー, 道路, ルール, 寒い, エネルギー. 新しい言葉: サークル, ペア, 含める, 分割, 音節, フェルト, 壮大な. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: マネー = money; 道路 = road; ルール = rule; 寒い = cold; エネルギー = energy. New words: サークル = circle; ペア = pair; 含める = include; 分割 = divide; 音節 = syllable; フェルト = felt; 壮大な = grand. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "小さな問題が出ますが、マーシャは新しい言葉を使います。紙を見て、次に先生を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+        "en": "A small problem appears, but Masha uses the new words to understand it. Masha checks the paper, looks at the teacher, and makes a simple plan. By the end, Masha can say one clear sentence."
       }
     ]
   },
   {
-    "id": "japanese-intermediate-10",
+    "id": "japanese-intermediate-36",
     "level": "intermediate",
-    "title": "Intermediate 10: 言葉 536-558",
+    "title": "Intermediate 36: The City Walk",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1811,28 +1846,29 @@
       530,
       533
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/36-intermediate-the-city-walk.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 突然の, 理由, アート, サイズ, 話す. 新しい言葉: ボール, まだ, 波, ドロップ, 心, AM, 現在, 重い. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 突然の = sudden; 理由 = reason; アート = art; サイズ = size; 話す = speak. New words: ボール = ball; まだ = yet; 波 = wave; ドロップ = drop; 心 = heart; AM = am; 現在 = present; 重い = heavy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、アンナは町へ行きます。近くに通りと窓があります。アンナはゆっくり読み、新しい言葉「散歩」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Anna is in the city. There is street and window nearby. Anna reads slowly and notices a new word: walk. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 突然の, 理由, アート, サイズ, 話す. 新しい言葉: ダンス, エンジン, ポジション, アーム, 広い, 帆, 材料, 分数. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 突然の = sudden; 理由 = reason; アート = art; サイズ = size; 話す = speak. New words: ダンス = dance; エンジン = engine; ポジション = position; アーム = arm; 広い = wide; 帆 = sail; 材料 = material; 分数 = fraction. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "アンナはノートに「散歩」を書きます。それから「場所」について考えます。そこは静かなので、アンナは文をもう一度読み、小さな声で言います。",
+        "en": "Anna writes the word walk in a notebook. Then Anna thinks about place. The place is quiet, so Anna reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 突然の, 理由, アート, サイズ, 話す. 新しい言葉: 森, 座る, レース, 窓, 店, 夏, 列車. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 突然の = sudden; 理由 = reason; アート = art; サイズ = size; 話す = speak. New words: 森 = forest; 座る = sit; レース = race; 窓 = window; 店 = store; 夏 = summer; 列車 = train. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "小さな問題が出ますが、アンナは新しい言葉を使います。通りを見て、次に窓を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+        "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the street, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
       }
     ]
   },
   {
-    "id": "japanese-intermediate-11",
+    "id": "japanese-intermediate-37",
     "level": "intermediate",
-    "title": "Intermediate 11: 言葉 559-581",
+    "title": "Intermediate 37: The Bookshop Door",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1875,28 +1911,29 @@
       553,
       556
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/37-intermediate-the-bookshop-door.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 壮大な, 波, AM, ダンス, アーム. 新しい言葉: スリープ, 証明する, ローン, レッグ, エクササイズ, 壁, キャッチ, マウント. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 壮大な = grand; 波 = wave; AM = am; ダンス = dance; アーム = arm. New words: スリープ = sleep; 証明する = prove; ローン = lone; レッグ = leg; エクササイズ = exercise; 壁 = wall; キャッチ = catch; マウント = mount. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、イワンは本屋へ行きます。近くにドアと本があります。イワンはゆっくり読み、新しい言葉「開ける」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Ivan is in the bookshop. There is door and book nearby. Ivan reads slowly and notices a new word: open. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 壮大な, 波, AM, ダンス, アーム. 新しい言葉: 希望, 空, ボード, 喜び, 冬, 土, 書かれた, ワイルド. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 壮大な = grand; 波 = wave; AM = am; ダンス = dance; アーム = arm. New words: 希望 = wish; 空 = sky; ボード = board; 喜び = joy; 冬 = winter; 土 = sat; 書かれた = written; ワイルド = wild. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "イワンはノートに「開ける」を書きます。それから「読むこと」について考えます。そこは静かなので、イワンは文をもう一度読み、小さな声で言います。",
+        "en": "Ivan writes the word open in a notebook. Then Ivan thinks about reading. The place is quiet, so Ivan reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 壮大な, 波, AM, ダンス, アーム. 新しい言葉: 楽器, 保管, ガラス, 草, 乳牛, 仕事, エッジ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 壮大な = grand; 波 = wave; AM = am; ダンス = dance; アーム = arm. New words: 楽器 = instrument; 保管 = kept; ガラス = glass; 草 = grass; 乳牛 = cow; 仕事 = job; エッジ = edge. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "小さな問題が出ますが、イワンは新しい言葉を使います。ドアを見て、次に本を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+        "en": "A small problem appears, but Ivan uses the new words to understand it. Ivan checks the door, looks at the book, and makes a simple plan. By the end, Ivan can say one clear sentence."
       }
     ]
   },
   {
-    "id": "japanese-intermediate-12",
+    "id": "japanese-intermediate-38",
     "level": "intermediate",
-    "title": "Intermediate 12: 言葉 582-604",
+    "title": "Intermediate 38: The Family Story",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1939,28 +1976,29 @@
       576,
       579
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/38-intermediate-the-family-story.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 列車, ローン, 壁, 希望, 喜び. 新しい言葉: 看板, 訪問, 過去, ソフト, 楽しい, 明るい, ガス, 天候. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 列車 = train; ローン = lone; 壁 = wall; 希望 = wish; 喜び = joy. New words: 看板 = sign; 訪問 = visit; 過去 = past; ソフト = soft; 楽しい = fun; 明るい = bright; ガス = gas; 天候 = weather. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、レナは家へ行きます。近くに母と写真があります。レナはゆっくり読み、新しい言葉「物語」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Lena is at home. There is mother and photo nearby. Lena reads slowly and notices a new word: story. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 列車, ローン, 壁, 希望, 喜び. 新しい言葉: 月, 万, クマ, 仕上げ, 幸せな, 希望, 花, 衣服を着せる. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 列車 = train; ローン = lone; 壁 = wall; 希望 = wish; 喜び = joy. New words: 月 = month; 万 = million; クマ = bear; 仕上げ = finish; 幸せな = happy; 希望 = hope; 花 = flower; 衣服を着せる = clothe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "レナはノートに「物語」を書きます。それから「家族」について考えます。そこは静かなので、レナは文をもう一度読み、小さな声で言います。",
+        "en": "Lena writes the word story in a notebook. Then Lena thinks about family. The place is quiet, so Lena reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 列車, ローン, 壁, 希望, 喜び. 新しい言葉: 奇妙な, いなくなった, トレード, メロディー, 旅, オフィス, 受け取る. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 列車 = train; ローン = lone; 壁 = wall; 希望 = wish; 喜び = joy. New words: 奇妙な = strange; いなくなった = gone; トレード = trade; メロディー = melody; 旅 = trip; オフィス = office; 受け取る = receive. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "小さな問題が出ますが、レナは新しい言葉を使います。母を見て、次に写真を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+        "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the mother, looks at the photo, and makes a simple plan. By the end, Lena can say one clear sentence."
       }
     ]
   },
   {
-    "id": "japanese-intermediate-13",
+    "id": "japanese-intermediate-39",
     "level": "intermediate",
-    "title": "Intermediate 13: 言葉 605-627",
+    "title": "Intermediate 39: The Important Word",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -2003,28 +2041,29 @@
       599,
       602
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/39-intermediate-the-important-word.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: エッジ, 過去, 明るい, 月, 仕上げ. 新しい言葉: 行, 口, 正確な, シンボル, 死ぬ, 最低, トラブル, シャウト. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: エッジ = edge; 過去 = past; 明るい = bright; 月 = month; 仕上げ = finish. New words: 行 = row; 口 = mouth; 正確な = exact; シンボル = symbol; 死ぬ = die; 最低 = least; トラブル = trouble; シャウト = shout. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、パーヴェルは図書館へ行きます。近くに辞書と紙があります。パーヴェルはゆっくり読み、新しい言葉「意味」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Pavel is in the library. There is dictionary and paper nearby. Pavel reads slowly and notices a new word: meaning. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: エッジ, 過去, 明るい, 月, 仕上げ. 新しい言葉: ただし, 書いた, シード, トーン, 参加する, 提案する, クリーン, ブレーク. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: エッジ = edge; 過去 = past; 明るい = bright; 月 = month; 仕上げ = finish. New words: ただし = except; 書いた = wrote; シード = seed; トーン = tone; 参加する = join; 提案する = suggest; クリーン = clean; ブレーク = break. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "パーヴェルはノートに「意味」を書きます。それから「言語」について考えます。そこは静かなので、パーヴェルは文をもう一度読み、小さな声で言います。",
+        "en": "Pavel writes the word meaning in a notebook. Then Pavel thinks about language. The place is quiet, so Pavel reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: エッジ, 過去, 明るい, 月, 仕上げ. 新しい言葉: 女性, 庭, 上昇, 悪い, 打撃, オイル, 血. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: エッジ = edge; 過去 = past; 明るい = bright; 月 = month; 仕上げ = finish. New words: 女性 = lady; 庭 = yard; 上昇 = rise; 悪い = bad; 打撃 = blow; オイル = oil; 血 = blood. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "小さな問題が出ますが、パーヴェルは新しい言葉を使います。辞書を見て、次に紙を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+        "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the dictionary, looks at the paper, and makes a simple plan. By the end, Pavel can say one clear sentence."
       }
     ]
   },
   {
-    "id": "japanese-intermediate-14",
+    "id": "japanese-intermediate-40",
     "level": "intermediate",
-    "title": "Intermediate 14: 言葉 628-650",
+    "title": "Intermediate 40: Closer Every Day",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -2067,28 +2106,29 @@
       622,
       625
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/40-intermediate-closer-every-day.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 受け取る, 正確な, 最低, ただし, トーン. 新しい言葉: 触れる, 成長した, セント, ミックス, チーム, ワイヤー, コスト, 失われた. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 受け取る = receive; 正確な = exact; 最低 = least; ただし = except; トーン = tone. New words: 触れる = touch; 成長した = grew; セント = cent; ミックス = mix; チーム = team; ワイヤー = wire; コスト = cost; 失われた = lost. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、イリーナは公園へ行きます。近くにノートとお茶があります。イリーナはゆっくり読み、新しい言葉「近い」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Irina is in the park. There is notebook and tea nearby. Irina reads slowly and notices a new word: closer. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 受け取る, 正確な, 最低, ただし, トーン. 新しい言葉: ブラウン, 着用, 庭, 等しい, 送信された, 選ぶ, 落ちた, フィット. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 受け取る = receive; 正確な = exact; 最低 = least; ただし = except; トーン = tone. New words: ブラウン = brown; 着用 = wear; 庭 = garden; 等しい = equal; 送信された = sent; 選ぶ = choose; 落ちた = fell; フィット = fit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "イリーナはノートに「近い」を書きます。それから「復習」について考えます。そこは静かなので、イリーナは文をもう一度読み、小さな声で言います。",
+        "en": "Irina writes the word closer in a notebook. Then Irina thinks about review. The place is quiet, so Irina reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公はメモを読み、意味を比べ、少し長い文を作ります。 復習する言葉: 受け取る, 正確な, 最低, ただし, トーン. 新しい言葉: 流れ, フェア, 銀行, 集める, 保存, コントロール, 進. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 受け取る = receive; 正確な = exact; 最低 = least; ただし = except; トーン = tone. New words: 流れ = flow; フェア = fair; 銀行 = bank; 集める = collect; 保存 = save; コントロール = control; 進 = decimal. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "小さな問題が出ますが、イリーナは新しい言葉を使います。ノートを見て、次にお茶を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the notebook, looks at the tea, and makes a simple plan. By the end, Irina can say one clear sentence."
       }
     ]
   },
   {
-    "id": "japanese-advanced-01",
+    "id": "japanese-advanced-41",
     "level": "advanced",
-    "title": "Advanced 01: 言葉 651-685",
+    "title": "Advanced 41: The Long Walk Through the City",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2143,38 +2183,39 @@
       645,
       648
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/41-advanced-the-long-walk-through-the-city.txt",
     "sections": [
       {
-        "heading": "章 1 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 血, セント, ワイヤー, ブラウン, 等しい. 新しい言葉: 耳, ほかに, かなり, 壊した, ケース, ミドル, 殺す. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 血 = blood; セント = cent; ワイヤー = wire; ブラウン = brown; 等しい = equal. New words: 耳 = ear; ほかに = else; かなり = quite; 壊した = broke; ケース = case; ミドル = middle; 殺す = kill. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、アンナは町へ行きます。近くに地図と窓があります。アンナはゆっくり読み、新しい言葉「旅」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Anna is in the city. There is map and window nearby. Anna reads slowly and notices a new word: journey. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 血, セント, ワイヤー, ブラウン, 等しい. 新しい言葉: 息子, 湖, 瞬間, スケール, 騒々しい, 春, 観察する. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 血 = blood; セント = cent; ワイヤー = wire; ブラウン = brown; 等しい = equal. New words: 息子 = son; 湖 = lake; 瞬間 = moment; スケール = scale; 騒々しい = loud; 春 = spring; 観察する = observe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "アンナはノートに「旅」を書きます。それから「町」について考えます。そこは静かなので、アンナは文をもう一度読み、小さな声で言います。",
+        "en": "Anna writes the word journey in a notebook. Then Anna thinks about city. The place is quiet, so Anna reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 血, セント, ワイヤー, ブラウン, 等しい. 新しい言葉: 子ども, ストレート, 子音, 国家, 辞書, ミルク, スピード. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 血 = blood; セント = cent; ワイヤー = wire; ブラウン = brown; 等しい = equal. New words: 子ども = child; ストレート = straight; 子音 = consonant; 国家 = nation; 辞書 = dictionary; ミルク = milk; スピード = speed. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "小さな問題が出ますが、アンナは新しい言葉を使います。地図を見て、次に窓を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+        "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the map, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
       },
       {
-        "heading": "章 4 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 血, セント, ワイヤー, ブラウン, 等しい. 新しい言葉: 方法, オルガン, 支払い, 年齢, セクション, ドレス, クラウド. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 血 = blood; セント = cent; ワイヤー = wire; ブラウン = brown; 等しい = equal. New words: 方法 = method; オルガン = organ; 支払い = pay; 年齢 = age; セクション = section; ドレス = dress; クラウド = cloud. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "あとで、アンナは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。アンナはさらに三つの言葉を書き、今日の話とつなげます。",
+        "en": "Later, Anna meets another person and asks one careful question. The answer is simple, but it helps. Anna writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "章 5 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 血, セント, ワイヤー, ブラウン, 等しい. 新しい言葉: 驚き, 静かな, 石, 小さな, 登る, 涼しい, デザイン. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 血 = blood; セント = cent; ワイヤー = wire; ブラウン = brown; 等しい = equal. New words: 驚き = surprise; 静かな = quiet; 石 = stone; 小さな = tiny; 登る = climb; 涼しい = cool; デザイン = design. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "一日の終わりに、アンナはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、アンナはほほえみます。",
+        "en": "At the end of the day, Anna reads the whole page out loud. The words are not perfect yet, but they are familiar now. Anna smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "japanese-advanced-02",
+    "id": "japanese-advanced-42",
     "level": "advanced",
-    "title": "Advanced 02: 言葉 686-720",
+    "title": "Advanced 42: The Forgotten Invitation",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2229,38 +2270,39 @@
       680,
       683
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/42-advanced-the-forgotten-invitation.txt",
     "sections": [
       {
-        "heading": "章 1 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 騒々しい, 子ども, 国家, スピード, 支払い. 新しい言葉: 貧しい, たくさん, 実験, ボトム, キー, 鉄, シングル. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 騒々しい = loud; 子ども = child; 国家 = nation; スピード = speed; 支払い = pay. New words: 貧しい = poor; たくさん = lot; 実験 = experiment; ボトム = bottom; キー = key; 鉄 = iron; シングル = single. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、サーシャは大学へ行きます。近くに手紙と電話があります。サーシャはゆっくり読み、新しい言葉「招待」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Sasha is at the university. There is letter and phone nearby. Sasha reads slowly and notices a new word: invitation. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 騒々しい, 子ども, 国家, スピード, 支払い. 新しい言葉: スティック, フラット, 個の, スキン, 笑顔, しわ, 穴. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 騒々しい = loud; 子ども = child; 国家 = nation; スピード = speed; 支払い = pay. New words: スティック = stick; フラット = flat; 個の = twenty; スキン = skin; 笑顔 = smile; しわ = crease; 穴 = hole. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "サーシャはノートに「招待」を書きます。それから「会議」について考えます。そこは静かなので、サーシャは文をもう一度読み、小さな声で言います。",
+        "en": "Sasha writes the word invitation in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 騒々しい, 子ども, 国家, スピード, 支払い. 新しい言葉: ジャンプ, 赤ちゃん, 人, 村, 大会, ルート, 買う. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 騒々しい = loud; 子ども = child; 国家 = nation; スピード = speed; 支払い = pay. New words: ジャンプ = jump; 赤ちゃん = baby; 人 = eight; 村 = village; 大会 = meet; ルート = root; 買う = buy. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "小さな問題が出ますが、サーシャは新しい言葉を使います。手紙を見て、次に電話を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the phone, and makes a simple plan. By the end, Sasha can say one clear sentence."
       },
       {
-        "heading": "章 4 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 騒々しい, 子ども, 国家, スピード, 支払い. 新しい言葉: 上げる, 解く, 金属, かどうか, プッシュ, 7, パラグラフ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 騒々しい = loud; 子ども = child; 国家 = nation; スピード = speed; 支払い = pay. New words: 上げる = raise; 解く = solve; 金属 = metal; かどうか = whether; プッシュ = push; 7 = seven; パラグラフ = paragraph. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "あとで、サーシャは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。サーシャはさらに三つの言葉を書き、今日の話とつなげます。",
+        "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "章 5 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 騒々しい, 子ども, 国家, スピード, 支払い. 新しい言葉: 第3, しなければならない, ハンドヘルド, 髪, 説明する, 料理人, 床. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 騒々しい = loud; 子ども = child; 国家 = nation; スピード = speed; 支払い = pay. New words: 第3 = third; しなければならない = shall; ハンドヘルド = held; 髪 = hair; 説明する = describe; 料理人 = cook; 床 = floor. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "一日の終わりに、サーシャはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、サーシャはほほえみます。",
+        "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "japanese-advanced-03",
+    "id": "japanese-advanced-43",
     "level": "advanced",
-    "title": "Advanced 03: 言葉 721-755",
+    "title": "Advanced 43: The History Room",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2315,38 +2357,39 @@
       715,
       718
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/43-advanced-the-history-room.txt",
     "sections": [
       {
-        "heading": "章 1 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 笑顔, ジャンプ, 村, 買う, 金属. 新しい言葉: どちら, 結果, 燃やす, 丘, 金庫, 猫, 世紀. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 笑顔 = smile; ジャンプ = jump; 村 = village; 買う = buy; 金属 = metal. New words: どちら = either; 結果 = result; 燃やす = burn; 丘 = hill; 金庫 = safe; 猫 = cat; 世紀 = century. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、ニコライは博物館へ行きます。近くに本と絵があります。ニコライはゆっくり読み、新しい言葉「歴史」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Nikolay is in the museum. There is book and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 笑顔, ジャンプ, 村, 買う, 金属. 新しい言葉: 考える, タイプ, 法則, ビット, 海岸, コピー, フレーズ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 笑顔 = smile; ジャンプ = jump; 村 = village; 買う = buy; 金属 = metal. New words: 考える = consider; タイプ = type; 法則 = law; ビット = bit; 海岸 = coast; コピー = copy; フレーズ = phrase. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "ニコライはノートに「歴史」を書きます。それから「過去」について考えます。そこは静かなので、ニコライは文をもう一度読み、小さな声で言います。",
+        "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about past. The place is quiet, so Nikolay reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 笑顔, ジャンプ, 村, 買う, 金属. 新しい言葉: サイレント, 背の高い, 砂, 土壌, ロール, 温度, 指. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 笑顔 = smile; ジャンプ = jump; 村 = village; 買う = buy; 金属 = metal. New words: サイレント = silent; 背の高い = tall; 砂 = sand; 土壌 = soil; ロール = roll; 温度 = temperature; 指 = finger. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "小さな問題が出ますが、ニコライは新しい言葉を使います。本を見て、次に絵を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+        "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the book, looks at the picture, and makes a simple plan. By the end, Nikolay can say one clear sentence."
       },
       {
-        "heading": "章 4 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 笑顔, ジャンプ, 村, 買う, 金属. 新しい言葉: 業界, 値, 戦い, うそ, ビート, エキサイト, ナチュラル. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 笑顔 = smile; ジャンプ = jump; 村 = village; 買う = buy; 金属 = metal. New words: 業界 = industry; 値 = value; 戦い = fight; うそ = lie; ビート = beat; エキサイト = excite; ナチュラル = natural. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "あとで、ニコライは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。ニコライはさらに三つの言葉を書き、今日の話とつなげます。",
+        "en": "Later, Nikolay meets another person and asks one careful question. The answer is simple, but it helps. Nikolay writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "章 5 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 笑顔, ジャンプ, 村, 買う, 金属. 新しい言葉: ビュー, 感覚, 首都, ないでしょう, 椅子, 危険, フルーツ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 笑顔 = smile; ジャンプ = jump; 村 = village; 買う = buy; 金属 = metal. New words: ビュー = view; 感覚 = sense; 首都 = capital; ないでしょう = won’t; 椅子 = chair; 危険 = danger; フルーツ = fruit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "一日の終わりに、ニコライはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、ニコライはほほえみます。",
+        "en": "At the end of the day, Nikolay reads the whole page out loud. The words are not perfect yet, but they are familiar now. Nikolay smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "japanese-advanced-04",
+    "id": "japanese-advanced-44",
     "level": "advanced",
-    "title": "Advanced 04: 言葉 756-790",
+    "title": "Advanced 44: The Quiet Train",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2401,38 +2444,39 @@
       750,
       753
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/44-advanced-the-quiet-train.txt",
     "sections": [
       {
-        "heading": "章 1 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 海岸, サイレント, 土壌, 指, 戦い. 新しい言葉: 金持ち, 厚い, 兵士, プロセス, 操作する, 練習, 別. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 海岸 = coast; サイレント = silent; 土壌 = soil; 指 = finger; 戦い = fight. New words: 金持ち = rich; 厚い = thick; 兵士 = soldier; プロセス = process; 操作する = operate; 練習 = practice; 別 = separate. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、マリアは電車へ行きます。近くに切符とお茶があります。マリアはゆっくり読み、新しい言葉「静か」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Maria is on the train. There is ticket and tea nearby. Maria reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 海岸, サイレント, 土壌, 指, 戦い. 新しい言葉: 難しい, 医師, どうぞ, 守る, 正午, 作物, モダン. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 海岸 = coast; サイレント = silent; 土壌 = soil; 指 = finger; 戦い = fight. New words: 難しい = difficult; 医師 = doctor; どうぞ = please; 守る = protect; 正午 = noon; 作物 = crop; モダン = modern. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "マリアはノートに「静か」を書きます。それから「旅」について考えます。そこは静かなので、マリアは文をもう一度読み、小さな声で言います。",
+        "en": "Maria writes the word quiet in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 海岸, サイレント, 土壌, 指, 戦い. 新しい言葉: 要素, ヒット, 学生, コーナー, パーティー, サプライ, その. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 海岸 = coast; サイレント = silent; 土壌 = soil; 指 = finger; 戦い = fight. New words: 要素 = element; ヒット = hit; 学生 = student; コーナー = corner; パーティー = party; サプライ = supply; その = whose. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "小さな問題が出ますが、マリアは新しい言葉を使います。切符を見て、次にお茶を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+        "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the tea, and makes a simple plan. By the end, Maria can say one clear sentence."
       },
       {
-        "heading": "章 4 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 海岸, サイレント, 土壌, 指, 戦い. 新しい言葉: 検索する, リング, キャラクター, 昆虫, キャッチ, 期間, 示す. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 海岸 = coast; サイレント = silent; 土壌 = soil; 指 = finger; 戦い = fight. New words: 検索する = locate; リング = ring; キャラクター = character; 昆虫 = insect; キャッチ = caught; 期間 = period; 示す = indicate. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "あとで、マリアは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。マリアはさらに三つの言葉を書き、今日の話とつなげます。",
+        "en": "Later, Maria meets another person and asks one careful question. The answer is simple, but it helps. Maria writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "章 5 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 海岸, サイレント, 土壌, 指, 戦い. 新しい言葉: ラジオ, スポーク, アトム, 人間, 歴史, 効果, エレクトリック. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 海岸 = coast; サイレント = silent; 土壌 = soil; 指 = finger; 戦い = fight. New words: ラジオ = radio; スポーク = spoke; アトム = atom; 人間 = human; 歴史 = history; 効果 = effect; エレクトリック = electric. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "一日の終わりに、マリアはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、マリアはほほえみます。",
+        "en": "At the end of the day, Maria reads the whole page out loud. The words are not perfect yet, but they are familiar now. Maria smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "japanese-advanced-05",
+    "id": "japanese-advanced-45",
     "level": "advanced",
-    "title": "Advanced 05: 言葉 791-825",
+    "title": "Advanced 45: A Plan for Tomorrow",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2487,38 +2531,39 @@
       785,
       788
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/45-advanced-a-plan-for-tomorrow.txt",
     "sections": [
       {
-        "heading": "章 1 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 正午, 要素, コーナー, その, キャラクター. 新しい言葉: 期待する, 骨, レール, 想像する, 提供する, 同意する, このようにして. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 正午 = noon; 要素 = element; コーナー = corner; その = whose; キャラクター = character. New words: 期待する = expect; 骨 = bone; レール = rail; 想像する = imagine; 提供する = provide; 同意する = agree; このようにして = thus. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、レナは家へ行きます。近くに地図とノートがあります。レナはゆっくり読み、新しい言葉「明日」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Lena is at home. There is map and notebook nearby. Lena reads slowly and notices a new word: tomorrow. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 正午, 要素, コーナー, その, キャラクター. 新しい言葉: 優しい, 女, キャプテン, 推測, 必要, シャープ, ウイング. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 正午 = noon; 要素 = element; コーナー = corner; その = whose; キャラクター = character. New words: 優しい = gentle; 女 = woman; キャプテン = captain; 推測 = guess; 必要 = necessary; シャープ = sharp; ウイング = wing. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "レナはノートに「明日」を書きます。それから「計画」について考えます。そこは静かなので、レナは文をもう一度読み、小さな声で言います。",
+        "en": "Lena writes the word tomorrow in a notebook. Then Lena thinks about plan. The place is quiet, so Lena reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 正午, 要素, コーナー, その, キャラクター. 新しい言葉: 作る, 隣人, ウォッシュ, バット, むしろ, 群衆, トウモロコシ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 正午 = noon; 要素 = element; コーナー = corner; その = whose; キャラクター = character. New words: 作る = create; 隣人 = neighbor; ウォッシュ = wash; バット = bat; むしろ = rather; 群衆 = crowd; トウモロコシ = corn. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "小さな問題が出ますが、レナは新しい言葉を使います。地図を見て、次にノートを見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+        "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the map, looks at the notebook, and makes a simple plan. By the end, Lena can say one clear sentence."
       },
       {
-        "heading": "章 4 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 正午, 要素, コーナー, その, キャラクター. 新しい言葉: 比較する, 詩, 文字列, 鐘, 決まる, 肉, こする. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 正午 = noon; 要素 = element; コーナー = corner; その = whose; キャラクター = character. New words: 比較する = compare; 詩 = poem; 文字列 = string; 鐘 = bell; 決まる = depend; 肉 = meat; こする = rub. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "あとで、レナは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。レナはさらに三つの言葉を書き、今日の話とつなげます。",
+        "en": "Later, Lena meets another person and asks one careful question. The answer is simple, but it helps. Lena writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "章 5 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 正午, 要素, コーナー, その, キャラクター. 新しい言葉: チューブ, 有名な, ドル, ストリーム, 恐怖, 視力, 薄い. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 正午 = noon; 要素 = element; コーナー = corner; その = whose; キャラクター = character. New words: チューブ = tube; 有名な = famous; ドル = dollar; ストリーム = stream; 恐怖 = fear; 視力 = sight; 薄い = thin. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "一日の終わりに、レナはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、レナはほほえみます。",
+        "en": "At the end of the day, Lena reads the whole page out loud. The words are not perfect yet, but they are familiar now. Lena smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "japanese-advanced-06",
+    "id": "japanese-advanced-46",
     "level": "advanced",
-    "title": "Advanced 06: 言葉 826-860",
+    "title": "Advanced 46: News from the Cafe",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2573,38 +2618,39 @@
       820,
       823
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/46-advanced-news-from-the-cafe.txt",
     "sections": [
       {
-        "heading": "章 1 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 必要, 作る, バット, トウモロコシ, 文字列. 新しい言葉: 三角形, 惑星, 急ぐ, チーフ, コロニー, クロック, 地雷. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 必要 = necessary; 作る = create; バット = bat; トウモロコシ = corn; 文字列 = string. New words: 三角形 = triangle; 惑星 = planet; 急ぐ = hurry; チーフ = chief; コロニー = colony; クロック = clock; 地雷 = mine. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、オリガはカフェへ行きます。近くに新聞とお茶があります。オリガはゆっくり読み、新しい言葉「ニュース」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Olga is in the cafe. There is newspaper and tea nearby. Olga reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 必要, 作る, バット, トウモロコシ, 文字列. 新しい言葉: ネクタイ, 入力する, 主要な, 新鮮な, 検索, 送信, 黄色. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 必要 = necessary; 作る = create; バット = bat; トウモロコシ = corn; 文字列 = string. New words: ネクタイ = tie; 入力する = enter; 主要な = major; 新鮮な = fresh; 検索 = search; 送信 = send; 黄色 = yellow. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "オリガはノートに「ニュース」を書きます。それから「会話」について考えます。そこは静かなので、オリガは文をもう一度読み、小さな声で言います。",
+        "en": "Olga writes the word news in a notebook. Then Olga thinks about talk. The place is quiet, so Olga reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 必要, 作る, バット, トウモロコシ, 文字列. 新しい言葉: 銃, 許可する, 印刷, 死んだ, スポット, 砂漠, スーツ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 必要 = necessary; 作る = create; バット = bat; トウモロコシ = corn; 文字列 = string. New words: 銃 = gun; 許可する = allow; 印刷 = print; 死んだ = dead; スポット = spot; 砂漠 = desert; スーツ = suit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "小さな問題が出ますが、オリガは新しい言葉を使います。新聞を見て、次にお茶を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+        "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the newspaper, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
       },
       {
-        "heading": "章 4 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 必要, 作る, バット, トウモロコシ, 文字列. 新しい言葉: 現在の, リフト, ローズ, 届く, マスター, トラック, 親. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 必要 = necessary; 作る = create; バット = bat; トウモロコシ = corn; 文字列 = string. New words: 現在の = current; リフト = lift; ローズ = rose; 届く = arrive; マスター = master; トラック = track; 親 = parent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "あとで、オリガは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。オリガはさらに三つの言葉を書き、今日の話とつなげます。",
+        "en": "Later, Olga meets another person and asks one careful question. The answer is simple, but it helps. Olga writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "章 5 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 必要, 作る, バット, トウモロコシ, 文字列. 新しい言葉: 海岸, 分裂, シート, 物質, 好む, 接続する, ポスト. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 必要 = necessary; 作る = create; バット = bat; トウモロコシ = corn; 文字列 = string. New words: 海岸 = shore; 分裂 = division; シート = sheet; 物質 = substance; 好む = favor; 接続する = connect; ポスト = post. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "一日の終わりに、オリガはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、オリガはほほえみます。",
+        "en": "At the end of the day, Olga reads the whole page out loud. The words are not perfect yet, but they are familiar now. Olga smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "japanese-advanced-07",
+    "id": "japanese-advanced-47",
     "level": "advanced",
-    "title": "Advanced 07: 言葉 861-895",
+    "title": "Advanced 47: The Word That Changed the Day",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2659,38 +2705,39 @@
       855,
       858
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/47-advanced-the-word-that-changed-the-day.txt",
     "sections": [
       {
-        "heading": "章 1 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 検索, 銃, 死んだ, スーツ, ローズ. 新しい言葉: 過ごす, 和音, 脂肪, うれしい, オリジナル, シェア, 駅. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 検索 = search; 銃 = gun; 死んだ = dead; スーツ = suit; ローズ = rose. New words: 過ごす = spend; 和音 = chord; 脂肪 = fat; うれしい = glad; オリジナル = original; シェア = share; 駅 = station. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、ディマは通りへ行きます。近くにかばんと本があります。ディマはゆっくり読み、新しい言葉「助け」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Dima is on the street. There is bag and book nearby. Dima reads slowly and notices a new word: help. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 検索, 銃, 死んだ, スーツ, ローズ. 新しい言葉: お父さん, パン, 充電, 適切な, バー, 申し出, セグメント. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 検索 = search; 銃 = gun; 死んだ = dead; スーツ = suit; ローズ = rose. New words: お父さん = dad; パン = bread; 充電 = charge; 適切な = proper; バー = bar; 申し出 = offer; セグメント = segment. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "ディマはノートに「助け」を書きます。それから「道」について考えます。そこは静かなので、ディマは文をもう一度読み、小さな声で言います。",
+        "en": "Dima writes the word help in a notebook. Then Dima thinks about road. The place is quiet, so Dima reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 検索, 銃, 死んだ, スーツ, ローズ. 新しい言葉: スレーブ, アヒル, インスタント, 市場, 度, 投入する, ひよこ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 検索 = search; 銃 = gun; 死んだ = dead; スーツ = suit; ローズ = rose. New words: スレーブ = slave; アヒル = duck; インスタント = instant; 市場 = market; 度 = degree; 投入する = populate; ひよこ = chick. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "小さな問題が出ますが、ディマは新しい言葉を使います。かばんを見て、次に本を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+        "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the bag, looks at the book, and makes a simple plan. By the end, Dima can say one clear sentence."
       },
       {
-        "heading": "章 4 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 検索, 銃, 死んだ, スーツ, ローズ. 新しい言葉: かわいい, 敵, 返事, ドリンク, 起こる, サポート, スピーチ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 検索 = search; 銃 = gun; 死んだ = dead; スーツ = suit; ローズ = rose. New words: かわいい = dear; 敵 = enemy; 返事 = reply; ドリンク = drink; 起こる = occur; サポート = support; スピーチ = speech. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "あとで、ディマは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。ディマはさらに三つの言葉を書き、今日の話とつなげます。",
+        "en": "Later, Dima meets another person and asks one careful question. The answer is simple, but it helps. Dima writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "章 5 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: 検索, 銃, 死んだ, スーツ, ローズ. 新しい言葉: 自然, レンジ, スチーム, モーション, パス, 液体, ログ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 検索 = search; 銃 = gun; 死んだ = dead; スーツ = suit; ローズ = rose. New words: 自然 = nature; レンジ = range; スチーム = steam; モーション = motion; パス = path; 液体 = liquid; ログ = log. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "一日の終わりに、ディマはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、ディマはほほえみます。",
+        "en": "At the end of the day, Dima reads the whole page out loud. The words are not perfect yet, but they are familiar now. Dima smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "japanese-advanced-08",
+    "id": "japanese-advanced-48",
     "level": "advanced",
-    "title": "Advanced 08: 言葉 896-930",
+    "title": "Advanced 48: The Meeting at the University",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2745,38 +2792,39 @@
       890,
       893
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/48-advanced-the-meeting-at-the-university.txt",
     "sections": [
       {
-        "heading": "章 1 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: バー, スレーブ, 市場, ひよこ, 返事. 新しい言葉: 意味, 商, 歯牙, シェル, 首, 酸素, 砂糖. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: バー = bar; スレーブ = slave; 市場 = market; ひよこ = chick; 返事 = reply. New words: 意味 = meant; 商 = quotient; 歯牙 = teeth; シェル = shell; 首 = neck; 酸素 = oxygen; 砂糖 = sugar. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、サーシャは大学へ行きます。近くに手紙と机があります。サーシャはゆっくり読み、新しい言葉「会議」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Sasha is at the university. There is letter and desk nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: バー, スレーブ, 市場, ひよこ, 返事. 新しい言葉: 死, かわいい, スキル, 女性たち, シーズン, ソリューション, マグネット. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: バー = bar; スレーブ = slave; 市場 = market; ひよこ = chick; 返事 = reply. New words: 死 = death; かわいい = pretty; スキル = skill; 女性たち = women; シーズン = season; ソリューション = solution; マグネット = magnet. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "サーシャはノートに「会議」を書きます。それから「考え」について考えます。そこは静かなので、サーシャは文をもう一度読み、小さな声で言います。",
+        "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about ideas. The place is quiet, so Sasha reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: バー, スレーブ, 市場, ひよこ, 返事. 新しい言葉: 銀, 感謝, ブランチ, マッチ, サフィックス, 特に, イチジク. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: バー = bar; スレーブ = slave; 市場 = market; ひよこ = chick; 返事 = reply. New words: 銀 = silver; 感謝 = thank; ブランチ = branch; マッチ = match; サフィックス = suffix; 特に = especially; イチジク = fig. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "小さな問題が出ますが、サーシャは新しい言葉を使います。手紙を見て、次に机を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the desk, and makes a simple plan. By the end, Sasha can say one clear sentence."
       },
       {
-        "heading": "章 4 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: バー, スレーブ, 市場, ひよこ, 返事. 新しい言葉: 恐れて, 巨大な, 姉妹, スチール, 話し合う, フォワード, 同じような. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: バー = bar; スレーブ = slave; 市場 = market; ひよこ = chick; 返事 = reply. New words: 恐れて = afraid; 巨大な = huge; 姉妹 = sister; スチール = steel; 話し合う = discuss; フォワード = forward; 同じような = similar. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "あとで、サーシャは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。サーシャはさらに三つの言葉を書き、今日の話とつなげます。",
+        "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "章 5 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: バー, スレーブ, 市場, ひよこ, 返事. 新しい言葉: ガイド, 経験, スコア, リンゴ, 買った, 主導, ピッチ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: バー = bar; スレーブ = slave; 市場 = market; ひよこ = chick; 返事 = reply. New words: ガイド = guide; 経験 = experience; スコア = score; リンゴ = apple; 買った = bought; 主導 = led; ピッチ = pitch. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "一日の終わりに、サーシャはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、サーシャはほほえみます。",
+        "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "japanese-advanced-09",
+    "id": "japanese-advanced-49",
     "level": "advanced",
-    "title": "Advanced 09: 言葉 931-965",
+    "title": "Advanced 49: The Letter and the Map",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2831,38 +2879,39 @@
       925,
       928
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/49-advanced-the-letter-and-the-map.txt",
     "sections": [
       {
-        "heading": "章 1 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: シーズン, 銀, マッチ, イチジク, 姉妹. 新しい言葉: コート, マス, カード, バンド, ロープ, スリップ, 勝つ. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: シーズン = season; 銀 = silver; マッチ = match; イチジク = fig; 姉妹 = sister. New words: コート = coat; マス = mass; カード = card; バンド = band; ロープ = rope; スリップ = slip; 勝つ = win. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、カーチャは図書館へ行きます。近くに手紙と地図があります。カーチャはゆっくり読み、新しい言葉「道順」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Katya is in the library. There is letter and map nearby. Katya reads slowly and notices a new word: route. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: シーズン, 銀, マッチ, イチジク, 姉妹. 新しい言葉: 夢, 夕べ, 条件, フィード, ツール, 合計, 基本. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: シーズン = season; 銀 = silver; マッチ = match; イチジク = fig; 姉妹 = sister. New words: 夢 = dream; 夕べ = evening; 条件 = condition; フィード = feed; ツール = tool; 合計 = total; 基本 = basic. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "カーチャはノートに「道順」を書きます。それから「探すこと」について考えます。そこは静かなので、カーチャは文をもう一度読み、小さな声で言います。",
+        "en": "Katya writes the word route in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: シーズン, 銀, マッチ, イチジク, 姉妹. 新しい言葉: 匂い, 谷, も, ダブル, 座席, 続ける, ブロック. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: シーズン = season; 銀 = silver; マッチ = match; イチジク = fig; 姉妹 = sister. New words: 匂い = smell; 谷 = valley; も = nor; ダブル = double; 座席 = seat; 続ける = continue; ブロック = block. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "小さな問題が出ますが、カーチャは新しい言葉を使います。手紙を見て、次に地図を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+        "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the letter, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
       },
       {
-        "heading": "章 4 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: シーズン, 銀, マッチ, イチジク, 姉妹. 新しい言葉: チャート, 帽子, 売る, 成功, 会社, 引く, イベント. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: シーズン = season; 銀 = silver; マッチ = match; イチジク = fig; 姉妹 = sister. New words: チャート = chart; 帽子 = hat; 売る = sell; 成功 = success; 会社 = company; 引く = subtract; イベント = event. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "あとで、カーチャは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。カーチャはさらに三つの言葉を書き、今日の話とつなげます。",
+        "en": "Later, Katya meets another person and asks one careful question. The answer is simple, but it helps. Katya writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "章 5 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: シーズン, 銀, マッチ, イチジク, 姉妹. 新しい言葉: 特定の, 契約, 泳ぐ, 言葉, 反対, 妻, 靴. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: シーズン = season; 銀 = silver; マッチ = match; イチジク = fig; 姉妹 = sister. New words: 特定の = particular; 契約 = deal; 泳ぐ = swim; 言葉 = term; 反対 = opposite; 妻 = wife; 靴 = shoe. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "一日の終わりに、カーチャはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、カーチャはほほえみます。",
+        "en": "At the end of the day, Katya reads the whole page out loud. The words are not perfect yet, but they are familiar now. Katya smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "japanese-advanced-10",
+    "id": "japanese-advanced-50",
     "level": "advanced",
-    "title": "Advanced 10: 言葉 966-1000",
+    "title": "Advanced 50: The Language Feels Close",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2917,31 +2966,32 @@
       960,
       963
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/50-advanced-the-language-feels-close.txt",
     "sections": [
       {
-        "heading": "章 1 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: ツール, 匂い, ダブル, ブロック, 売る. 新しい言葉: 肩, スプレッド, アレンジ, キャンプ, 発明する, 綿, ボルン. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ツール = tool; 匂い = smell; ダブル = double; ブロック = block; 売る = sell. New words: 肩 = shoulder; スプレッド = spread; アレンジ = arrange; キャンプ = camp; 発明する = invent; 綿 = cotton; ボルン = born. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "朝、イリーナは公園へ行きます。近くに本と電話があります。イリーナはゆっくり読み、新しい言葉「言語」に気づきます。よい日で、言語が少し近く感じます。",
+        "en": "In the morning, Irina is in the park. There is book and phone nearby. Irina reads slowly and notices a new word: language. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: ツール, 匂い, ダブル, ブロック, 売る. 新しい言葉: 決定する, クォート, 人, トラック, ノイズ, レベル, チャンス. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ツール = tool; 匂い = smell; ダブル = double; ブロック = block; 売る = sell. New words: 決定する = determine; クォート = quart; 人 = nine; トラック = truck; ノイズ = noise; レベル = level; チャンス = chance. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "イリーナはノートに「言語」を書きます。それから「自信」について考えます。そこは静かなので、イリーナは文をもう一度読み、小さな声で言います。",
+        "en": "Irina writes the word language in a notebook. Then Irina thinks about confidence. The place is quiet, so Irina reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: ツール, 匂い, ダブル, ブロック, 売る. 新しい言葉: 集まる, ショップ, ストレッチ, 投げる, 輝き, 財産, コラム. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ツール = tool; 匂い = smell; ダブル = double; ブロック = block; 売る = sell. New words: 集まる = gather; ショップ = shop; ストレッチ = stretch; 投げる = throw; 輝き = shine; 財産 = property; コラム = column. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "小さな問題が出ますが、イリーナは新しい言葉を使います。本を見て、次に電話を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
+        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the book, looks at the phone, and makes a simple plan. By the end, Irina can say one clear sentence."
       },
       {
-        "heading": "章 4 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: ツール, 匂い, ダブル, ブロック, 売る. 新しい言葉: 分子, 選択する, 間違った, グレー, リピート, 必要とする, 幅広い. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ツール = tool; 匂い = smell; ダブル = double; ブロック = block; 売る = sell. New words: 分子 = molecule; 選択する = select; 間違った = wrong; グレー = gray; リピート = repeat; 必要とする = require; 幅広い = broad. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "あとで、イリーナは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。イリーナはさらに三つの言葉を書き、今日の話とつなげます。",
+        "en": "Later, Irina meets another person and asks one careful question. The answer is simple, but it helps. Irina writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "章 5 / 5",
-        "ru": "この章では、言葉が記憶、選択、細かい出来事を持つ長い物語の一部になります。 復習する言葉: ツール, 匂い, ダブル, ブロック, 売る. 新しい言葉: 準備する, 塩, 鼻, 複数, 怒り, 請求, 大陸. 声に出して読み、自分の発音を聞き、言葉をノートに書きます。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: ツール = tool; 匂い = smell; ダブル = double; ブロック = block; 売る = sell. New words: 準備する = prepare; 塩 = salt; 鼻 = nose; 複数 = plural; 怒り = anger; 請求 = claim; 大陸 = continent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "一日の終わりに、イリーナはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、イリーナはほほえみます。",
+        "en": "At the end of the day, Irina reads the whole page out loud. The words are not perfect yet, but they are familiar now. Irina smiles because learning feels possible and close."
       }
     ]
   }

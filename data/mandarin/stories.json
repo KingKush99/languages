@@ -2,7 +2,7 @@
   {
     "id": "mandarin-beginner-01",
     "level": "beginner",
-    "title": "Beginner 01: 词语 1-9",
+    "title": "Beginner 01: Morning at Home",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -22,18 +22,19 @@
       9
     ],
     "reviewWords": [],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/01-beginner-morning-at-home.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "今天，学习者读一个短页面。 新词语: 一, 人, 里, 会, 没, 她, 吗, 去, 也. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "Today the learner reads a short page. New words: 一 = A; 人 = People; 里 = In; 会 = Can; 没 = Not; 她 = She; 吗 = Do; 去 = Go; 也 = Also. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，安娜回家。旁边有茶和书。安娜慢慢地读，并注意到一个新词：“城市”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Anna is at home. There is tea and book nearby. Anna reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "mandarin-beginner-02",
     "level": "beginner",
-    "title": "Beginner 02: 词语 10-18",
+    "title": "Beginner 02: Tea on the Table",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -59,18 +60,19 @@
       7,
       9
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/02-beginner-tea-on-the-table.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "今天，学习者读一个短页面。 复习词语: 一, 里, 没, 吗, 也. 新词语: 有, 这, 那, 不, 什, 个, 来, 要, 就. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "Today the learner reads a short page. Review words: 一 = A; 里 = In; 没 = Not; 吗 = Do; 也 = Also. New words: 有 = Have; 这 = This; 那 = That; 不 = Not; 什 = Even; 个 = A; 来 = Come; 要 = Wish; 就 = On. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，莉娜回家。旁边有茶和面包。莉娜慢慢地读，并注意到一个新词：“桌子”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Lena is at home. There is tea and bread nearby. Lena reads slowly and notices a new word: table. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "mandarin-beginner-03",
     "level": "beginner",
-    "title": "Beginner 03: 词语 19-27",
+    "title": "Beginner 03: The Open Window",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -97,18 +99,19 @@
       13,
       16
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/03-beginner-the-open-window.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "今天，学习者读一个短页面。 复习词语: 一, 会, 吗, 有, 不. 新词语: 我, 你, 的, 是, 了, 他, 么, 们, 在. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "Today the learner reads a short page. Review words: 一 = A; 会 = Can; 吗 = Do; 有 = Have; 不 = Not. New words: 我 = I; 你 = You; 的 = Of; 是 = Be; 了 = The; 他 = He; 么 = What; 们 = They; 在 = In. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，伊万回家。旁边有窗户和书。伊万慢慢地读，并注意到一个新词：“图书馆”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Ivan is at home. There is window and book nearby. Ivan reads slowly and notices a new word: library. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "mandarin-beginner-04",
     "level": "beginner",
-    "title": "Beginner 04: 词语 28-36",
+    "title": "Beginner 04: Walking to the Park",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -137,18 +140,19 @@
       22,
       25
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/04-beginner-walking-to-the-park.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "今天，学习者读一个短页面。 复习词语: 会, 吗, 有, 不, 来. 新词语: 说, 为, 好, 吧, 知道, 我的, 和, 你的, 想. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "Today the learner reads a short page. Review words: 会 = Can; 吗 = Do; 有 = Have; 不 = Not; 来 = Come. New words: 说 = Say; 为 = For; 好 = Good; 吧 = It; 知道 = Know; 我的 = My; 和 = And; 你的 = Your; 想 = Want. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，玛莎去公园。旁边有妈妈和哥哥。玛莎慢慢地读，并注意到一个新词：“朋友”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Masha is in the park. There is mother and brother nearby. Masha reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "mandarin-beginner-05",
     "level": "beginner",
-    "title": "Beginner 05: 词语 37-44",
+    "title": "Beginner 05: A Quiet Street",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -176,18 +180,19 @@
       31,
       34
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/05-beginner-a-quiet-street.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "今天，学习者读一个短页面。 复习词语: 不, 来, 我, 是, 么. 新词语: 只, 很, 都, 对, 把, 啊, 怎, 得. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "Today the learner reads a short page. Review words: 不 = Not; 来 = Come; 我 = I; 是 = Be; 么 = What. New words: 只 = Only; 很 = Very; 都 = Both; 对 = To; 把 = To; 啊 = Ah; 怎 = How; 得 = Get. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，帕维尔去街上。旁边有房子和窗户。帕维尔慢慢地读，并注意到一个新词：“街道”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Pavel is on the street. There is house and window nearby. Pavel reads slowly and notices a new word: street. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "mandarin-beginner-06",
     "level": "beginner",
-    "title": "Beginner 06: 词语 45-52",
+    "title": "Beginner 06: The First Book",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -215,18 +220,19 @@
       39,
       42
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/06-beginner-the-first-book.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "今天，学习者读一个短页面。 复习词语: 的, 他, 在, 好, 我的. 新词语: 还, 过, 不是, 到, 样, 飞, 远, 身. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "Today the learner reads a short page. Review words: 的 = Of; 他 = He; 在 = In; 好 = Good; 我的 = My. New words: 还 = Also; 过 = Cross; 不是 = No; 到 = To; 样 = Sample; 飞 = Fly; 远 = Far; 身 = Body. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，奥尔加去图书馆。旁边有书和卡片。奥尔加慢慢地读，并注意到一个新词：“词”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Olga is in the library. There is book and card nearby. Olga reads slowly and notices a new word: word. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "mandarin-beginner-07",
     "level": "beginner",
-    "title": "Beginner 07: 词语 53-60",
+    "title": "Beginner 07: A Good Day",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -254,18 +260,19 @@
       47,
       50
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/07-beginner-a-good-day.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "今天，学习者读一个短页面。 复习词语: 为, 知道, 你的, 很, 把. 新词语: 任何, 生活, 够, 号, 兰, 瑞, 达, 或. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "Today the learner reads a short page. Review words: 为 = For; 知道 = Know; 你的 = Your; 很 = Very; 把 = To. New words: 任何 = Any; 生活 = Life; 够 = Enough; 号 = Number; 兰 = Orchid; 瑞 = Swiss; 达 = Reach; 或 = Or. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，尼古拉去公园。旁边有太阳和树。尼古拉慢慢地读，并注意到一个新词：“好”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Nikolay is in the park. There is sun and tree nearby. Nikolay reads slowly and notices a new word: good. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "mandarin-beginner-08",
     "level": "beginner",
-    "title": "Beginner 08: 词语 61-68",
+    "title": "Beginner 08: At School",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -293,18 +300,19 @@
       55,
       58
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/08-beginner-at-school.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "今天，学习者读一个短页面。 复习词语: 只, 对, 怎, 过, 样. 新词语: 愿, 蒂, 別, 军, 正, 是不是, 证, 不用. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "Today the learner reads a short page. Review words: 只 = Only; 对 = To; 怎 = How; 过 = Cross; 样 = Sample. New words: 愿 = Willing; 蒂 = Stem; 別 = Do not; 军 = Military; 正 = Positive; 是不是 = Is not; 证 = Certificate; 不用 = Need not. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，萨沙去学校。旁边有书桌和铅笔。萨沙慢慢地读，并注意到一个新词：“学校”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Sasha is at school. There is desk and pencil nearby. Sasha reads slowly and notices a new word: school. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "mandarin-beginner-09",
     "level": "beginner",
-    "title": "Beginner 09: 词语 69-76",
+    "title": "Beginner 09: At the Store",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -332,18 +340,19 @@
       63,
       66
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/09-beginner-at-the-store.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "今天，学习者读一个短页面。 复习词语: 还, 到, 远, 生活, 兰. 新词语: 三, 乐, 吉, 男人, 告訴, 路, 搞, 可是. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "Today the learner reads a short page. Review words: 还 = Also; 到 = To; 远 = Far; 生活 = Life; 兰 = Orchid. New words: 三 = Three; 乐 = Music; 吉 = Lucky; 男人 = Man; 告訴 = Tell; 路 = Road; 搞 = Do; 可是 = But. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，伊琳娜去商店。旁边有包和食物。伊琳娜慢慢地读，并注意到一个新词：“商店”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Irina is in the store. There is bag and food nearby. Irina reads slowly and notices a new word: store. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "mandarin-beginner-10",
     "level": "beginner",
-    "title": "Beginner 10: 词语 77-84",
+    "title": "Beginner 10: At the Station",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -371,18 +380,19 @@
       71,
       74
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/10-beginner-at-the-station.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "今天，学习者读一个短页面。 复习词语: 任何, 号, 达, 蒂, 正. 新词语: 与, 次, 狗, 决, 金, 史, 姆, 部. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "Today the learner reads a short page. Review words: 任何 = Any; 号 = Number; 达 = Reach; 蒂 = Stem; 正 = Positive. New words: 与 = And; 次 = Secondary; 狗 = Dog; 决 = Decide; 金 = Gold; 史 = History; 姆 = Governess; 部 = Department. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，玛丽亚去车站。旁边有茶和票。玛丽亚慢慢地读，并注意到一个新词：“车站”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Maria is at the station. There is tea and ticket nearby. Maria reads slowly and notices a new word: station. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "mandarin-beginner-11",
     "level": "beginner",
-    "title": "Beginner 11: 词语 85-92",
+    "title": "Beginner 11: A Simple Call",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -410,18 +420,19 @@
       79,
       82
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/11-beginner-a-simple-call.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "今天，学习者读一个短页面。 复习词语: 愿, 军, 证, 乐, 告訴. 新词语: 正在, 活, 刚, 回家, 贝, 如何, 须, 战. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "Today the learner reads a short page. Review words: 愿 = Willing; 军 = Military; 证 = Certificate; 乐 = Music; 告訴 = Tell. New words: 正在 = Are; 活 = Live; 刚 = Just; 回家 = Return home; 贝 = Shellfish; 如何 = How; 须 = Must; 战 = War. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，迪马回家。旁边有电话和笔记本。迪马慢慢地读，并注意到一个新词：“朋友”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Dima is at home. There is phone and notebook nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
     "id": "mandarin-beginner-12",
     "level": "beginner",
-    "title": "Beginner 12: 词语 93-100",
+    "title": "Beginner 12: I Know This Word",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -449,18 +460,19 @@
       87,
       90
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/12-beginner-i-know-this-word.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "今天，学习者读一个短页面。 复习词语: 三, 男人, 搞, 次, 金. 新词语: 不會, 夫, 喂, 父, 亚, 肯定, 女孩, 世界. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "Today the learner reads a short page. Review words: 三 = Three; 男人 = Man; 搞 = Do; 次 = Secondary; 金 = Gold. New words: 不會 = Will not; 夫 = Husband; 喂 = Feed; 父 = Father; 亚 = Inferior; 肯定 = Sure; 女孩 = Girl; 世界 = World. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，卡佳去房间。旁边有纸和书。卡佳慢慢地读，并注意到一个新词：“知道”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Katya is in the room. There is paper and book nearby. Katya reads slowly and notices a new word: know. The day feels good, and the language feels a little closer."
       }
     ]
   },
   {
-    "id": "mandarin-elementary-01",
+    "id": "mandarin-elementary-13",
     "level": "elementary",
-    "title": "Elementary 01: 词语 101-116",
+    "title": "Elementary 13: The Library Window",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -496,23 +508,24 @@
       95,
       98
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/13-elementary-the-library-window.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 与, 决, 姆, 活, 贝. 新词语: 不要, 些, 不知道, 不能, 因, 觉, 发, 像. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 与 = And; 决 = Decide; 姆 = Governess; 活 = Live; 贝 = Shellfish. New words: 不要 = Must not; 些 = Some; 不知道 = Do not know; 不能 = Can not; 因 = Because; 觉 = Feel; 发 = Hair; 像 = Image. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，帕维尔去图书馆。旁边有窗户和笔记本。帕维尔慢慢地读，并注意到一个新词：“安静”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Pavel is in the library. There is window and notebook nearby. Pavel reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "第 2",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 与, 决, 姆, 活, 贝. 新词语: 太, 但是, 多, 打, 机, 來, 好了, 用. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 与 = And; 决 = Decide; 姆 = Governess; 活 = Live; 贝 = Shellfish. New words: 太 = Too; 但是 = But; 多 = Multi-; 打 = Fight; 机 = Machine; 來 = Come; 好了 = Well; 用 = Use. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "帕维尔把“安静”写在笔记本里。然后帕维尔想一想“阅读”这个主题。这里很安静，所以帕维尔又读了一遍句子，并轻声说出来。",
+        "en": "Pavel writes the word quiet in a notebook. Then Pavel thinks about reading. The place is quiet, so Pavel reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "mandarin-elementary-02",
+    "id": "mandarin-elementary-14",
     "level": "elementary",
-    "title": "Elementary 02: 词语 117-132",
+    "title": "Elementary 14: The Museum Visit",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -548,23 +561,24 @@
       111,
       114
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/14-elementary-the-museum-visit.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 不會, 父, 女孩, 些, 因. 新词语: 他的, 诉, 德, 叫, 什麼, 真, 干, 心. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 不會 = Will not; 父 = Father; 女孩 = Girl; 些 = Some; 因 = Because. New words: 他的 = His; 诉 = Appeal; 德 = Moral; 叫 = Call; 什麼 = What; 真 = SANT; 干 = Dry; 心 = Heart. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，尼古拉去博物馆。旁边有票和图画。尼古拉慢慢地读，并注意到一个新词：“历史”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Nikolay is in the museum. There is ticket and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "第 2",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 不會, 父, 女孩, 些, 因. 新词语: 走, 比, 死, 嘿, 出, 车, 一下, 中. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 不會 = Will not; 父 = Father; 女孩 = Girl; 些 = Some; 因 = Because. New words: 走 = Go; 比 = Ratio; 死 = Dead; 嘿 = Hey; 出 = Out; 车 = Car; 一下 = About; 中 = In. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "尼古拉把“历史”写在笔记本里。然后尼古拉想一想“记忆”这个主题。这里很安静，所以尼古拉又读了一遍句子，并轻声说出来。",
+        "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about memory. The place is quiet, so Nikolay reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "mandarin-elementary-03",
+    "id": "mandarin-elementary-15",
     "level": "elementary",
-    "title": "Elementary 03: 词语 133-148",
+    "title": "Elementary 15: The Cafe Notebook",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -600,23 +614,24 @@
       127,
       130
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/15-elementary-the-cafe-notebook.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 太, 打, 好了, 诉, 什麼. 新词语: 好吧, 需要, 经, 妈, 候, 长, 而, 错. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 太 = Too; 打 = Fight; 好了 = Well; 诉 = Appeal; 什麼 = What. New words: 好吧 = Well; 需要 = Need; 经 = After; 妈 = Mom; 候 = Wait; 长 = Long; 而 = And; 错 = Wrong. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，奥尔加去咖啡馆。旁边有茶和音乐。奥尔加慢慢地读，并注意到一个新词：“旋律”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Olga is in the cafe. There is tea and music nearby. Olga reads slowly and notices a new word: melody. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "第 2",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 太, 打, 好了, 诉, 什麼. 新词语: 好的, 间, 又, 国, 起, 动, 杀, 于. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 太 = Too; 打 = Fight; 好了 = Well; 诉 = Appeal; 什麼 = What. New words: 好的 = Good; 间 = Between; 又 = And; 国 = Country; 起 = Start; 动 = Move; 杀 = Kill; 于 = At. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "奥尔加把“旋律”写在笔记本里。然后奥尔加想一想“听”这个主题。这里很安静，所以奥尔加又读了一遍句子，并轻声说出来。",
+        "en": "Olga writes the word melody in a notebook. Then Olga thinks about listening. The place is quiet, so Olga reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "mandarin-elementary-04",
+    "id": "mandarin-elementary-16",
     "level": "elementary",
-    "title": "Elementary 04: 词语 149-164",
+    "title": "Elementary 16: Rain Near the Door",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -652,23 +667,24 @@
       143,
       146
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/16-elementary-rain-near-the-door.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 走, 嘿, 一下, 需要, 候. 新词语: 种, 去了, 担, 名, 混蛋, 礼, 幹, 不了. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 走 = Go; 嘿 = Hey; 一下 = About; 需要 = Need; 候 = Wait. New words: 种 = Seed; 去了 = Go; 担 = Dan; 名 = Name; 混蛋 = Asshole; 礼 = Ceremony; 幹 = Dry; 不了 = Not. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，迪马去书店。旁边有门和书。迪马慢慢地读，并注意到一个新词：“道路”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Dima is in the bookshop. There is door and book nearby. Dima reads slowly and notices a new word: road. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "第 2",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 走, 嘿, 一下, 需要, 候. 新词语: 有些, 過, 後, 击, 漂亮, 神, 多少, 海. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 走 = Go; 嘿 = Hey; 一下 = About; 需要 = Need; 候 = Wait. New words: 有些 = Some; 過 = Cross; 後 = After; 击 = Strike; 漂亮 = Beautiful; 神 = God; 多少 = How much; 海 = Sea. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "迪马把“道路”写在笔记本里。然后迪马想一想“雨”这个主题。这里很安静，所以迪马又读了一遍句子，并轻声说出来。",
+        "en": "Dima writes the word road in a notebook. Then Dima thinks about rain. The place is quiet, so Dima reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "mandarin-elementary-05",
+    "id": "mandarin-elementary-17",
     "level": "elementary",
-    "title": "Elementary 05: 词语 165-180",
+    "title": "Elementary 17: The Letter on the Table",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -704,23 +720,24 @@
       159,
       162
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/17-elementary-the-letter-on-the-table.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 好的, 国, 杀, 去了, 混蛋. 新词语: 每, 哥, 教, 走吧, 好像, 单, 公, 林. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 好的 = Good; 国 = Country; 杀 = Kill; 去了 = Go; 混蛋 = Asshole. New words: 每 = Each; 哥 = Brother; 教 = Teach; 走吧 = Go; 好像 = Like; 单 = Single; 公 = Public; 林 = Forest. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，萨沙去大学。旁边有信和桌子。萨沙慢慢地读，并注意到一个新词：“会议”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Sasha is at the university. There is letter and table nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "第 2",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 好的, 国, 杀, 去了, 混蛋. 新词语: 女, 忙, 火, 钟, 家伙, 科, 回去, 最后. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 好的 = Good; 国 = Country; 杀 = Kill; 去了 = Go; 混蛋 = Asshole. New words: 女 = Female; 忙 = Busy; 火 = Fire; 钟 = Bell; 家伙 = Guy; 科 = Branch; 回去 = Go back; 最后 = Last. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "萨沙把“会议”写在笔记本里。然后萨沙想一想“邀请”这个主题。这里很安静，所以萨沙又读了一遍句子，并轻声说出来。",
+        "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about invitation. The place is quiet, so Sasha reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "mandarin-elementary-06",
+    "id": "mandarin-elementary-18",
     "level": "elementary",
-    "title": "Elementary 06: 词语 181-196",
+    "title": "Elementary 18: Words in the Park",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -756,23 +773,24 @@
       175,
       178
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/18-elementary-words-in-the-park.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 有些, 击, 多少, 哥, 好像. 新词语: 水, 不管, 麦, 泻, 鬼, 還, 船, 永. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 有些 = Some; 击 = Strike; 多少 = How much; 哥 = Brother; 好像 = Like. New words: 水 = Water; 不管 = Regardless of; 麦 = Wheat; 泻 = Diarrhea; 鬼 = Ghost; 還 = Also; 船 = Ship; 永 = Forever. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，伊琳娜去公园。旁边有电话和茶。伊琳娜慢慢地读，并注意到一个新词：“三个”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Irina is in the park. There is phone and tea nearby. Irina reads slowly and notices a new word: three. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "第 2",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 有些, 击, 多少, 哥, 好像. 新词语: 安全, 那個, 爾, 這麼, 满, 风, 皮, 威. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 有些 = Some; 击 = Strike; 多少 = How much; 哥 = Brother; 好像 = Like. New words: 安全 = Security; 那個 = That; 爾 = Seoul; 這麼 = So; 满 = Full; 风 = Wind; 皮 = Skin; 威 = Prestige. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "伊琳娜把“三个”写在笔记本里。然后伊琳娜想一想“说话”这个主题。这里很安静，所以伊琳娜又读了一遍句子，并轻声说出来。",
+        "en": "Irina writes the word three in a notebook. Then Irina thinks about speaking. The place is quiet, so Irina reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "mandarin-elementary-07",
+    "id": "mandarin-elementary-19",
     "level": "elementary",
-    "title": "Elementary 07: 词语 197-212",
+    "title": "Elementary 19: The Little Plan",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -808,23 +826,24 @@
       191,
       194
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/19-elementary-the-little-plan.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 女, 钟, 回去, 不管, 鬼. 新词语: 据, 鲁, 转, 相, 地方, 沒有, 有人, 嗨. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 女 = Female; 钟 = Bell; 回去 = Go back; 不管 = Regardless of; 鬼 = Ghost. New words: 据 = According to; 鲁 = Lu; 转 = Turn; 相 = Phase; 地方 = Local; 沒有 = No; 有人 = Some; 嗨 = Hi. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，莉娜去商店。旁边有地图和篮子。莉娜慢慢地读，并注意到一个新词：“计划”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Lena is in the store. There is map and basket nearby. Lena reads slowly and notices a new word: plan. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "第 2",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 女, 钟, 回去, 不管, 鬼. 新词语: 看看, 自己, 一定, 事情, 屑, 希望, 所, 褉. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 女 = Female; 钟 = Bell; 回去 = Go back; 不管 = Regardless of; 鬼 = Ghost. New words: 看看 = Look; 自己 = Oneself; 一定 = Certainly; 事情 = Thing; 屑 = Scrap; 希望 = Hope; 所 = The; 褉 = Aspx.. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "莉娜把“计划”写在笔记本里。然后莉娜想一想“购物”这个主题。这里很安静，所以莉娜又读了一遍句子，并轻声说出来。",
+        "en": "Lena writes the word plan in a notebook. Then Lena thinks about shopping. The place is quiet, so Lena reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "mandarin-elementary-08",
+    "id": "mandarin-elementary-20",
     "level": "elementary",
-    "title": "Elementary 08: 词语 213-228",
+    "title": "Elementary 20: The News Page",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -860,23 +879,24 @@
       207,
       210
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/20-elementary-the-news-page.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 安全, 這麼, 皮, 鲁, 地方. 新词语: 感, 气, 不想, 嘛, 实, 始, 給, 然后. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 安全 = Security; 這麼 = So; 皮 = Skin; 鲁 = Lu; 地方 = Local. New words: 感 = Sense; 气 = Gas; 不想 = Do not want to; 嘛 = Well; 实 = Real; 始 = Beginning; 給 = To; 然后 = Then. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，玛丽亚去车站。旁边有茶和报纸。玛丽亚慢慢地读，并注意到一个新词：“新闻”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Maria is at the station. There is tea and newspaper nearby. Maria reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "第 2",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 安全, 這麼, 皮, 鲁, 地方. 新词语: 個, 相信, 结, 今天, 几, 题, 放, 讓. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 安全 = Security; 這麼 = So; 皮 = Skin; 鲁 = Lu; 地方 = Local. New words: 個 = A; 相信 = Believe; 结 = Bear; 今天 = Today; 几 = A few; 题 = Title; 放 = Put; 讓 = Let. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "玛丽亚把“新闻”写在笔记本里。然后玛丽亚想一想“想法”这个主题。这里很安静，所以玛丽亚又读了一遍句子，并轻声说出来。",
+        "en": "Maria writes the word news in a notebook. Then Maria thinks about thinking. The place is quiet, so Maria reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "mandarin-elementary-09",
+    "id": "mandarin-elementary-21",
     "level": "elementary",
-    "title": "Elementary 09: 词语 229-244",
+    "title": "Elementary 21: The Family Walk",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -912,23 +932,24 @@
       223,
       226
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/21-elementary-the-family-walk.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 看看, 事情, 所, 气, 实. 新词语: 确, 意思, 成, 所有, 喜, 對, 之, 一切. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 看看 = Look; 事情 = Thing; 所 = The; 气 = Gas; 实 = Real. New words: 确 = Indeed; 意思 = Meaning; 成 = Become; 所有 = All; 喜 = Happy; 對 = To; 之 = The; 一切 = Everything. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，安娜去公园。旁边有妈妈和哥哥。安娜慢慢地读，并注意到一个新词：“房子”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Anna is in the park. There is mother and brother nearby. Anna reads slowly and notices a new word: house. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "第 2",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 看看, 事情, 所, 气, 实. 新词语: 记, 抱歉, 一直, 天, 褌, 钱, 面, 更. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 看看 = Look; 事情 = Thing; 所 = The; 气 = Gas; 实 = Real. New words: 记 = Remember; 抱歉 = Sorry; 一直 = Has been; 天 = Day; 褌 = Drawers; 钱 = Money; 面 = Surface; 更 = More. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "安娜把“房子”写在笔记本里。然后安娜想一想“家庭”这个主题。这里很安静，所以安娜又读了一遍句子，并轻声说出来。",
+        "en": "Anna writes the word house in a notebook. Then Anna thinks about family. The place is quiet, so Anna reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "mandarin-elementary-10",
+    "id": "mandarin-elementary-22",
     "level": "elementary",
-    "title": "Elementary 10: 词语 245-260",
+    "title": "Elementary 22: The Quiet Room",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -964,23 +985,24 @@
       239,
       242
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/22-elementary-the-quiet-room.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 個, 今天, 放, 意思, 喜. 新词语: 学, 現在, 边, 你們, 不起, 脑, 呃, 论. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 個 = A; 今天 = Today; 放 = Put; 意思 = Meaning; 喜 = Happy. New words: 学 = Learn; 現在 = Now; 边 = Side; 你們 = You; 不起 = Can not afford to; 脑 = Brain; 呃 = Uh; 论 = Theory. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，伊万去房间。旁边有椅子和书。伊万慢慢地读，并注意到一个新词：“房间”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Ivan is in the room. There is chair and book nearby. Ivan reads slowly and notices a new word: room. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "第 2",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 個, 今天, 放, 意思, 喜. 新词语: 曼, 點, 普, 第一, 通, 棒, 线, 很高. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 個 = A; 今天 = Today; 放 = Put; 意思 = Meaning; 喜 = Happy. New words: 曼 = Man; 點 = Point; 普 = General; 第一 = First; 通 = Through; 棒 = Stick; 线 = Line; 很高 = High. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "伊万把“房间”写在笔记本里。然后伊万想一想“安静”这个主题。这里很安静，所以伊万又读了一遍句子，并轻声说出来。",
+        "en": "Ivan writes the word room in a notebook. Then Ivan thinks about silence. The place is quiet, so Ivan reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "mandarin-elementary-11",
+    "id": "mandarin-elementary-23",
     "level": "elementary",
-    "title": "Elementary 11: 词语 261-275",
+    "title": "Elementary 23: The New Teacher",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1015,23 +1037,24 @@
       255,
       258
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/23-elementary-the-new-teacher.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 记, 天, 面, 現在, 不起. 新词语: 买, 求, 束, 哇, 指, 张, 文, 锌. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 记 = Remember; 天 = Day; 面 = Surface; 現在 = Now; 不起 = Can not afford to. New words: 买 = Buy; 求 = Request; 束 = Bundle; 哇 = Wow; 指 = Finger; 张 = Zhang; 文 = Culture; 锌 = Zinc. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，玛莎去学校。旁边有老师和白板。玛莎慢慢地读，并注意到一个新词：“问题”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Masha is at school. There is teacher and board nearby. Masha reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "第 2",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 记, 天, 面, 現在, 不起. 新词语: 重, 菲, 目, 根本, 联, 丹, 愛. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 记 = Remember; 天 = Day; 面 = Surface; 現在 = Now; 不起 = Can not afford to. New words: 重 = Weight; 菲 = Philippines; 目 = Eye; 根本 = Fundamental; 联 = Join; 丹 = Red; 愛 = Love. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "玛莎把“问题”写在笔记本里。然后玛莎想一想“学习”这个主题。这里很安静，所以玛莎又读了一遍句子，并轻声说出来。",
+        "en": "Masha writes the word question in a notebook. Then Masha thinks about learning. The place is quiet, so Masha reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "mandarin-elementary-12",
+    "id": "mandarin-elementary-24",
     "level": "elementary",
-    "title": "Elementary 12: 词语 276-290",
+    "title": "Elementary 24: The Bus Stop",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1066,23 +1089,24 @@
       270,
       273
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/24-elementary-the-bus-stop.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 论, 普, 棒, 买, 哇. 新词语: 不到, 這些, 自己的, 笑, 闭, 基, 唯一, 要是. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 论 = Theory; 普 = General; 棒 = Stick; 买 = Buy; 哇 = Wow. New words: 不到 = Less than; 這些 = These; 自己的 = Own; 笑 = Laugh; 闭 = Close; 基 = Base; 唯一 = Unique; 要是 = If. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，帕维尔去街上。旁边有票和公交车。帕维尔慢慢地读，并注意到一个新词：“时间”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Pavel is on the street. There is ticket and bus nearby. Pavel reads slowly and notices a new word: time. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "第 2",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 论, 普, 棒, 买, 哇. 新词语: 提, 调, 丽, 女士, 校, 公司, 况. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 论 = Theory; 普 = General; 棒 = Stick; 买 = Buy; 哇 = Wow. New words: 提 = Mention; 调 = Tune; 丽 = Korea; 女士 = Ms.; 校 = School; 公司 = Company; 况 = Condition. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "帕维尔把“时间”写在笔记本里。然后帕维尔想一想“等待”这个主题。这里很安静，所以帕维尔又读了一遍句子，并轻声说出来。",
+        "en": "Pavel writes the word time in a notebook. Then Pavel thinks about waiting. The place is quiet, so Pavel reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "mandarin-elementary-13",
+    "id": "mandarin-elementary-25",
     "level": "elementary",
-    "title": "Elementary 13: 词语 291-305",
+    "title": "Elementary 25: The Small Market",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1117,23 +1141,24 @@
       285,
       288
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/25-elementary-the-small-market.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 文, 菲, 联, 不到, 笑. 新词语: 烦, 停, 英, 警, 险, 東西, 不可能, 坐. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 文 = Culture; 菲 = Philippines; 联 = Join; 不到 = Less than; 笑 = Laugh. New words: 烦 = Bother; 停 = Stop; 英 = Britain; 警 = Police; 险 = Risk; 東西 = Thing; 不可能 = Impossible; 坐 = Sit. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，奥尔加去市场。旁边有水果和包。奥尔加慢慢地读，并注意到一个新词：“钱”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Olga is at the market. There is fruit and bag nearby. Olga reads slowly and notices a new word: money. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "第 2",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 文, 菲, 联, 不到, 笑. 新词语: 区, 果, 伙, 哈, 罗, 难, 两. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 文 = Culture; 菲 = Philippines; 联 = Join; 不到 = Less than; 笑 = Laugh. New words: 区 = Area; 果 = Fruit; 伙 = Partner; 哈 = Ha; 罗 = Luo; 难 = Difficult; 两 = Both. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "奥尔加把“钱”写在笔记本里。然后奥尔加想一想“市场”这个主题。这里很安静，所以奥尔加又读了一遍句子，并轻声说出来。",
+        "en": "Olga writes the word money in a notebook. Then Olga thinks about market. The place is quiet, so Olga reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "mandarin-elementary-14",
+    "id": "mandarin-elementary-26",
     "level": "elementary",
-    "title": "Elementary 14: 词语 306-320",
+    "title": "Elementary 26: The First Conversation",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1168,23 +1193,24 @@
       300,
       303
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/26-elementary-the-first-conversation.txt",
     "sections": [
       {
-        "heading": "第 1",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 唯一, 调, 校, 烦, 警. 新词语: 一些, 這樣, 自, 女人, 向, 最好, 走了, 褬. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 唯一 = Unique; 调 = Tune; 校 = School; 烦 = Bother; 警 = Police. New words: 一些 = Some; 這樣 = So; 自 = From; 女人 = Woman; 向 = To; 最好 = The best; 走了 = Go; 褬 = Sang. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，迪马去咖啡馆。旁边有电话和朋友。迪马慢慢地读，并注意到一个新词：“句子”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Dima is in the cafe. There is phone and friend nearby. Dima reads slowly and notices a new word: sentence. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "第 2",
-        "ru": "在这个故事里，学习者复习熟悉的词，也加入新的词。 复习词语: 唯一, 调, 校, 烦, 警. 新词语: 胁, 明, 理, 加, 枪, 万, 员. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this story, the learner reviews known words and adds new ones. Review words: 唯一 = Unique; 调 = Tune; 校 = School; 烦 = Bother; 警 = Police. New words: 胁 = Threaten; 明 = Next; 理 = Reason; 加 = Plus; 枪 = Gun; 万 = Ten thousand; 员 = Member. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "迪马把“句子”写在笔记本里。然后迪马想一想“谈话”这个主题。这里很安静，所以迪马又读了一遍句子，并轻声说出来。",
+        "en": "Dima writes the word sentence in a notebook. Then Dima thinks about talk. The place is quiet, so Dima reads the sentence again and says it softly."
       }
     ]
   },
   {
-    "id": "mandarin-intermediate-01",
+    "id": "mandarin-intermediate-27",
     "level": "intermediate",
-    "title": "Intermediate 01: 词语 321-344",
+    "title": "Intermediate 27: The Lost Note",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1228,28 +1254,29 @@
       315,
       318
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/27-intermediate-the-lost-note.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 不可能, 果, 罗, 一些, 女人. 新词语: 妳, 玩, 分, 作, 巴, 而且, 物, 伤. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 不可能 = Impossible; 果 = Fruit; 罗 = Luo; 一些 = Some; 女人 = Woman. New words: 妳 = You; 玩 = Play; 分 = Minute; 作 = Make; 巴 = Pakistan; 而且 = And; 物 = Matter; 伤 = Hurt. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，卡佳去图书馆。旁边有便条和地图。卡佳慢慢地读，并注意到一个新词：“地方”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Katya is in the library. There is note and map nearby. Katya reads slowly and notices a new word: place. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 不可能, 果, 罗, 一些, 女人. 新词语: 官, 道, 出去, 力, 总, 者, 先, 最. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 不可能 = Impossible; 果 = Fruit; 罗 = Luo; 一些 = Some; 女人 = Woman. New words: 官 = Official; 道 = Road; 出去 = Out; 力 = Force; 总 = Total; 者 = Person; 先 = First; 最 = Most. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "卡佳把“地方”写在笔记本里。然后卡佳想一想“寻找”这个主题。这里很安静，所以卡佳又读了一遍句子，并轻声说出来。",
+        "en": "Katya writes the word place in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 不可能, 果, 罗, 一些, 女人. 新词语: 很多, 医, 一次, 报, 名字, 将, 迪, 到了. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 不可能 = Impossible; 果 = Fruit; 罗 = Luo; 一些 = Some; 女人 = Woman. New words: 很多 = Many; 医 = Treatment; 一次 = Once; 报 = Report; 名字 = Name; 将 = Will; 迪 = Di; 到了 = To. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "出现了一个小问题，但是卡佳用新词来理解。卡佳看了看便条，又看了看地图，然后做了一个简单的计划。最后，卡佳能说出一个清楚的句子。",
+        "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the note, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
       }
     ]
   },
   {
-    "id": "mandarin-intermediate-02",
+    "id": "mandarin-intermediate-28",
     "level": "intermediate",
-    "title": "Intermediate 02: 词语 345-368",
+    "title": "Intermediate 28: A Meeting at Noon",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1293,28 +1320,29 @@
       339,
       342
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/28-intermediate-a-meeting-at-noon.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 妳, 作, 物, 道, 总. 新词语: 解, 新, 队, 识, 死了, 眼, 媽的, 第一次. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 妳 = You; 作 = Make; 物 = Matter; 道 = Road; 总 = Total. New words: 解 = Solution; 新 = New; 队 = Team; 识 = Knowledge; 死了 = Dead; 眼 = Eye; 媽的 = Damn; 第一次 = First. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，萨沙去大学。旁边有钟和信。萨沙慢慢地读，并注意到一个新词：“中午”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Sasha is at the university. There is clock and letter nearby. Sasha reads slowly and notices a new word: noon. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 妳, 作, 物, 道, 总. 新词语: 離開, 忘, 我自己, 谐, 严, 且, 帶, 赶. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 妳 = You; 作 = Make; 物 = Matter; 道 = Road; 总 = Total. New words: 離開 = Leave; 忘 = Forget; 我自己 = Myself; 谐 = Harmonious; 严 = Strict; 且 = And; 帶 = Band; 赶 = Rush. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "萨沙把“中午”写在笔记本里。然后萨沙想一想“会议”这个主题。这里很安静，所以萨沙又读了一遍句子，并轻声说出来。",
+        "en": "Sasha writes the word noon in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 妳, 作, 物, 道, 总. 新词语: 太棒, 佛, 直, 認為, 老婆, 索, 除了, 承. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 妳 = You; 作 = Make; 物 = Matter; 道 = Road; 总 = Total. New words: 太棒 = Great; 佛 = Buddha; 直 = Straight; 認為 = Think; 老婆 = Wife; 索 = Search; 除了 = In addition to; 承 = By Order of the. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "出现了一个小问题，但是萨沙用新词来理解。萨沙看了看钟，又看了看信，然后做了一个简单的计划。最后，萨沙能说出一个清楚的句子。",
+        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the clock, looks at the letter, and makes a simple plan. By the end, Sasha can say one clear sentence."
       }
     ]
   },
   {
-    "id": "mandarin-intermediate-03",
+    "id": "mandarin-intermediate-29",
     "level": "intermediate",
-    "title": "Intermediate 03: 词语 369-392",
+    "title": "Intermediate 29: The Old Map",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1358,28 +1386,29 @@
       363,
       366
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/29-intermediate-the-old-map.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 解, 识, 媽的, 忘, 严. 新词语: 泰, 建, 欧, 然後, 级, 昨晚, 石, 有了. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 解 = Solution; 识 = Knowledge; 媽的 = Damn; 忘 = Forget; 严 = Strict. New words: 泰 = Thai; 建 = Build; 欧 = Europe; 然後 = Then; 级 = Level; 昨晚 = Last night; 石 = Stone; 有了 = With. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，尼古拉去博物馆。旁边有地图和街道。尼古拉慢慢地读，并注意到一个新词：“城市”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Nikolay is in the museum. There is map and street nearby. Nikolay reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 解, 识, 媽的, 忘, 严. 新词语: 都有, 磲, 差, 思, 啥, 過來, 努力, 丈夫. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 解 = Solution; 识 = Knowledge; 媽的 = Damn; 忘 = Forget; 严 = Strict. New words: 都有 = Have; 磲 = Clams; 差 = Poor; 思 = Think; 啥 = What; 過來 = Come; 努力 = Strive; 丈夫 = Husband. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "尼古拉把“城市”写在笔记本里。然后尼古拉想一想“历史”这个主题。这里很安静，所以尼古拉又读了一遍句子，并轻声说出来。",
+        "en": "Nikolay writes the word city in a notebook. Then Nikolay thinks about history. The place is quiet, so Nikolay reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 解, 识, 媽的, 忘, 严. 新词语: 任何人, 城市, 死亡, 全部, 组, i, 也許, 最近. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 解 = Solution; 识 = Knowledge; 媽的 = Damn; 忘 = Forget; 严 = Strict. New words: 任何人 = Anyone; 城市 = City; 死亡 = Death; 全部 = Whole; 组 = Group; i = i; 也許 = Perhaps; 最近 = Recently. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "出现了一个小问题，但是尼古拉用新词来理解。尼古拉看了看地图，又看了看街道，然后做了一个简单的计划。最后，尼古拉能说出一个清楚的句子。",
+        "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the map, looks at the street, and makes a simple plan. By the end, Nikolay can say one clear sentence."
       }
     ]
   },
   {
-    "id": "mandarin-intermediate-04",
+    "id": "mandarin-intermediate-30",
     "level": "intermediate",
-    "title": "Intermediate 04: 词语 393-416",
+    "title": "Intermediate 30: The Rainy Lesson",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1423,28 +1452,29 @@
       387,
       390
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/30-intermediate-the-rainy-lesson.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 泰, 然後, 石, 磲, 啥. 新词语: 倒, 领, 顾, 市, 六, 行了, 滚, 好嗎. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 泰 = Thai; 然後 = Then; 石 = Stone; 磲 = Clams; 啥 = What. New words: 倒 = Inverted; 领 = Collar; 顾 = Gu; 市 = City; 六 = Six; 行了 = The line; 滚 = Roll; 好嗎 = Okay. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，伊琳娜去学校。旁边有窗户和雨。伊琳娜慢慢地读，并注意到一个新词：“天气”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Irina is at school. There is window and rain nearby. Irina reads slowly and notices a new word: weather. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 泰, 然後, 石, 磲, 啥. 新词语: 师, 高, 莉, 坏, 电, 警察, 件, 誰. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 泰 = Thai; 然後 = Then; 石 = Stone; 磲 = Clams; 啥 = What. New words: 师 = Division; 高 = High; 莉 = Li; 坏 = Bad; 电 = Electricity; 警察 = Police; 件 = Item; 誰 = Who. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "伊琳娜把“天气”写在笔记本里。然后伊琳娜想一想“学习”这个主题。这里很安静，所以伊琳娜又读了一遍句子，并轻声说出来。",
+        "en": "Irina writes the word weather in a notebook. Then Irina thinks about study. The place is quiet, so Irina reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 泰, 然後, 石, 磲, 啥. 新词语: 兄弟, 之前, 谈, 送, 森, 伊, 以前, 房. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 泰 = Thai; 然後 = Then; 石 = Stone; 磲 = Clams; 啥 = What. New words: 兄弟 = Brothers; 之前 = Before; 谈 = Talk; 送 = Send; 森 = Forest; 伊 = He; 以前 = Previous; 房 = Room. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "出现了一个小问题，但是伊琳娜用新词来理解。伊琳娜看了看窗户，又看了看雨，然后做了一个简单的计划。最后，伊琳娜能说出一个清楚的句子。",
+        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the window, looks at the rain, and makes a simple plan. By the end, Irina can say one clear sentence."
       }
     ]
   },
   {
-    "id": "mandarin-intermediate-05",
+    "id": "mandarin-intermediate-31",
     "level": "intermediate",
-    "title": "Intermediate 05: 词语 417-440",
+    "title": "Intermediate 31: The Museum Question",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1488,28 +1518,29 @@
       411,
       414
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/31-intermediate-the-museum-question.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 倒, 市, 滚, 高, 电. 新词语: 婚, 喝, 怎麼, 今晚, 兴, 疯, 因為, 住. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 倒 = Inverted; 市 = City; 滚 = Roll; 高 = High; 电 = Electricity. New words: 婚 = Marriage; 喝 = Drink; 怎麼 = How; 今晚 = Tonight; 兴 = Interest; 疯 = Crazy; 因為 = Because; 住 = Live. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，帕维尔去博物馆。旁边有图画和笔记本。帕维尔慢慢地读，并注意到一个新词：“问题”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Pavel is in the museum. There is picture and notebook nearby. Pavel reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 倒, 市, 滚, 高, 电. 新词语: 内, 轻, 约, 声, 或者, 不行, 到底, 雷. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 倒 = Inverted; 市 = City; 滚 = Roll; 高 = High; 电 = Electricity. New words: 内 = Within; 轻 = Light; 约 = Approximately; 声 = Sound; 或者 = Or; 不行 = Not work; 到底 = In the end; 雷 = Mine. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "帕维尔把“问题”写在笔记本里。然后帕维尔想一想“答案”这个主题。这里很安静，所以帕维尔又读了一遍句子，并轻声说出来。",
+        "en": "Pavel writes the word question in a notebook. Then Pavel thinks about answer. The place is quiet, so Pavel reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 倒, 市, 滚, 高, 电. 新词语: 维, 条, 明天, 不好, 已經, 天啊, 洛, 护. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 倒 = Inverted; 市 = City; 滚 = Roll; 高 = High; 电 = Electricity. New words: 维 = Dimension; 条 = Article; 明天 = Tomorrow; 不好 = Bad; 已經 = Already; 天啊 = God; 洛 = Rockwell; 护 = Protect. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "出现了一个小问题，但是帕维尔用新词来理解。帕维尔看了看图画，又看了看笔记本，然后做了一个简单的计划。最后，帕维尔能说出一个清楚的句子。",
+        "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the picture, looks at the notebook, and makes a simple plan. By the end, Pavel can say one clear sentence."
       }
     ]
   },
   {
-    "id": "mandarin-intermediate-06",
+    "id": "mandarin-intermediate-32",
     "level": "intermediate",
-    "title": "Intermediate 06: 词语 441-464",
+    "title": "Intermediate 32: The Train Delay",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1553,28 +1584,29 @@
       435,
       438
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/32-intermediate-the-train-delay.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 婚, 今晚, 因為, 轻, 或者. 新词语: 塔, 运, 接, 球, 得到, 穿, 音, 從. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 婚 = Marriage; 今晚 = Tonight; 因為 = Because; 轻 = Light; 或者 = Or. New words: 塔 = Tower; 运 = Transport; 接 = Meet; 球 = Ball; 得到 = Get; 穿 = Wear; 音 = Sound; 從 = From. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，玛丽亚去车站。旁边有票和钟。玛丽亚慢慢地读，并注意到一个新词：“等待”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Maria is at the station. There is ticket and clock nearby. Maria reads slowly and notices a new word: wait. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 婚, 今晚, 因為, 轻, 或者. 新词语: 為, 生, 回, 可, 东, 尔, 欢, 很好. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 婚 = Marriage; 今晚 = Tonight; 因為 = Because; 轻 = Light; 或者 = Or. New words: 為 = For; 生 = Raw; 回 = Return; 可 = Can; 东 = East; 尔 = Seoul; 欢 = Happy; 很好 = Well. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "玛丽亚把“等待”写在笔记本里。然后玛丽亚想一想“旅行”这个主题。这里很安静，所以玛丽亚又读了一遍句子，并轻声说出来。",
+        "en": "Maria writes the word wait in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 婚, 今晚, 因為, 轻, 或者. 新词语: 他們, 进, 地, 孩子, 帮, 离, 找, 尼. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 婚 = Marriage; 今晚 = Tonight; 因為 = Because; 轻 = Light; 或者 = Or. New words: 他們 = They; 进 = Enter; 地 = Ground; 孩子 = Children; 帮 = Help; 离 = From; 找 = Look for; 尼 = Nigeria. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "出现了一个小问题，但是玛丽亚用新词来理解。玛丽亚看了看票，又看了看钟，然后做了一个简单的计划。最后，玛丽亚能说出一个清楚的句子。",
+        "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the clock, and makes a simple plan. By the end, Maria can say one clear sentence."
       }
     ]
   },
   {
-    "id": "mandarin-intermediate-07",
+    "id": "mandarin-intermediate-33",
     "level": "intermediate",
-    "title": "Intermediate 07: 词语 465-488",
+    "title": "Intermediate 33: Music in the Cafe",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1618,28 +1650,29 @@
       459,
       462
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/33-intermediate-music-in-the-cafe.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 塔, 球, 音, 生, 东. 新词语: 从, 下, 马, 以, 利, 所以, 关, 哪. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 塔 = Tower; 球 = Ball; 音 = Sound; 生 = Raw; 东 = East. New words: 从 = From; 下 = Under; 马 = Horse; 以 = With; 利 = Profit; 所以 = So; 关 = Close; 哪 = Which. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，奥尔加去咖啡馆。旁边有音乐和茶。奥尔加慢慢地读，并注意到一个新词：“歌曲”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Olga is in the cafe. There is music and tea nearby. Olga reads slowly and notices a new word: song. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 塔, 球, 音, 生, 东. 新词语: 懈, 行, 家, 拉, 才, 看到, 說, 手. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 塔 = Tower; 球 = Ball; 音 = Sound; 生 = Raw; 东 = East. New words: 懈 = Negligent; 行 = Row; 家 = Home; 拉 = Pull; 才 = Only; 看到 = See; 說 = Say; 手 = Hand. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "奥尔加把“歌曲”写在笔记本里。然后奥尔加想一想“记忆”这个主题。这里很安静，所以奥尔加又读了一遍句子，并轻声说出来。",
+        "en": "Olga writes the word song in a notebook. Then Olga thinks about memory. The place is quiet, so Olga reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 塔, 球, 音, 生, 东. 新词语: 法, 噢, 谁, 头, 无, 嗯, 工作, 可能. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 塔 = Tower; 球 = Ball; 音 = Sound; 生 = Raw; 东 = East. New words: 法 = Law; 噢 = Oh; 谁 = Who; 头 = Head; 无 = No; 嗯 = Ah; 工作 = Work; 可能 = May. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "出现了一个小问题，但是奥尔加用新词来理解。奥尔加看了看音乐，又看了看茶，然后做了一个简单的计划。最后，奥尔加能说出一个清楚的句子。",
+        "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the music, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
       }
     ]
   },
   {
-    "id": "mandarin-intermediate-08",
+    "id": "mandarin-intermediate-34",
     "level": "intermediate",
-    "title": "Intermediate 08: 词语 489-512",
+    "title": "Intermediate 34: A Letter from a Friend",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1683,28 +1716,29 @@
       483,
       486
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/34-intermediate-a-letter-from-a-friend.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 从, 以, 关, 行, 才. 新词语: 薪, 朋友, 请, 许, 年, 那些, 一個, 一起. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 从 = From; 以 = With; 关 = Close; 行 = Row; 才 = Only. New words: 薪 = Salary; 朋友 = Friend; 请 = Please; 许 = Promise; 年 = Years; 那些 = Those; 一個 = A; 一起 = Together. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，迪马回家。旁边有信和电话。迪马慢慢地读，并注意到一个新词：“朋友”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Dima is at home. There is letter and phone nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 从, 以, 关, 行, 才. 新词语: 然, 吃, 写, 带, 我喜, 弗, 尽, 耶. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 从 = From; 以 = With; 关 = Close; 行 = Row; 才 = Only. New words: 然 = However; 吃 = Eat; 写 = Write; 带 = Band; 我喜 = I am pleased to; 弗 = Eph.; 尽 = Exhausted; 耶 = Yeah. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "迪马把“朋友”写在笔记本里。然后迪马想一想“邀请”这个主题。这里很安静，所以迪马又读了一遍句子，并轻声说出来。",
+        "en": "Dima writes the word friend in a notebook. Then Dima thinks about invitation. The place is quiet, so Dima reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 从, 以, 关, 行, 才. 新词语: 喔, 褍, 掉, 书, 其他, 派, 士, 器. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 从 = From; 以 = With; 关 = Close; 行 = Row; 才 = Only. New words: 喔 = Oh; 褍 = Tuan; 掉 = Fall; 书 = Book; 其他 = Other; 派 = Send; 士 = Scholar; 器 = Implement. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "出现了一个小问题，但是迪马用新词来理解。迪马看了看信，又看了看电话，然后做了一个简单的计划。最后，迪马能说出一个清楚的句子。",
+        "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the letter, looks at the phone, and makes a simple plan. By the end, Dima can say one clear sentence."
       }
     ]
   },
   {
-    "id": "mandarin-intermediate-09",
+    "id": "mandarin-intermediate-35",
     "level": "intermediate",
-    "title": "Intermediate 09: 词语 513-535",
+    "title": "Intermediate 35: The School Project",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1747,28 +1781,29 @@
       507,
       510
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/35-intermediate-the-school-project.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 薪, 许, 一個, 吃, 我喜. 新词语: 松, 数, 光, 其, 想我, 极, 合, 完全. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 薪 = Salary; 许 = Promise; 一個 = A; 吃 = Eat; 我喜 = I am pleased to. New words: 松 = Loose; 数 = Number; 光 = Light; 其 = Its; 想我 = Think I; 极 = Pole; 合 = Close; 完全 = Entirely. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，玛莎去学校。旁边有纸和老师。玛莎慢慢地读，并注意到一个新词：“项目”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Masha is at school. There is paper and teacher nearby. Masha reads slowly and notices a new word: project. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 薪, 许, 一個, 吃, 我喜. 新词语: 做了, 影, 室, 受, 奇, 试, 装, 晚上. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 薪 = Salary; 许 = Promise; 一個 = A; 吃 = Eat; 我喜 = I am pleased to. New words: 做了 = Done; 影 = Shadow; 室 = Room; 受 = Be subject; 奇 = Odd; 试 = Test; 装 = Dress; 晚上 = At night. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "玛莎把“项目”写在笔记本里。然后玛莎想一想“小组”这个主题。这里很安静，所以玛莎又读了一遍句子，并轻声说出来。",
+        "en": "Masha writes the word project in a notebook. Then Masha thinks about group. The place is quiet, so Masha reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 薪, 许, 一個, 吃, 我喜. 新词语: 恶, 应, 小姐, 整, 强, 业, 类. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 薪 = Salary; 许 = Promise; 一個 = A; 吃 = Eat; 我喜 = I am pleased to. New words: 恶 = Evil; 应 = Should; 小姐 = Miss; 整 = Whole; 强 = Strength; 业 = Industry; 类 = Class. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "出现了一个小问题，但是玛莎用新词来理解。玛莎看了看纸，又看了看老师，然后做了一个简单的计划。最后，玛莎能说出一个清楚的句子。",
+        "en": "A small problem appears, but Masha uses the new words to understand it. Masha checks the paper, looks at the teacher, and makes a simple plan. By the end, Masha can say one clear sentence."
       }
     ]
   },
   {
-    "id": "mandarin-intermediate-10",
+    "id": "mandarin-intermediate-36",
     "level": "intermediate",
-    "title": "Intermediate 10: 词语 536-558",
+    "title": "Intermediate 36: The City Walk",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1811,28 +1846,29 @@
       530,
       533
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/36-intermediate-the-city-walk.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 器, 光, 极, 做了, 受. 新词语: 复, 奥, 梦, 曾, 嘴, 认, 如此, 爸. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 器 = Implement; 光 = Light; 极 = Pole; 做了 = Done; 受 = Be subject. New words: 复 = Complex; 奥 = Austrian; 梦 = Dream; 曾 = Once; 嘴 = Mouth; 认 = Recognize; 如此 = So; 爸 = Dad. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，安娜去城市。旁边有街道和窗户。安娜慢慢地读，并注意到一个新词：“散步”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Anna is in the city. There is street and window nearby. Anna reads slowly and notices a new word: walk. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 器, 光, 极, 做了, 受. 新词语: 照, 杰, 為什麼, 入, 睡, 都不, 服, 节. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 器 = Implement; 光 = Light; 极 = Pole; 做了 = Done; 受 = Be subject. New words: 照 = Photo; 杰 = Outstanding; 為什麼 = Why; 入 = Enter; 睡 = Sleep; 都不 = Not; 服 = Clothes; 节 = Festival. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "安娜把“散步”写在笔记本里。然后安娜想一想“地方”这个主题。这里很安静，所以安娜又读了一遍句子，并轻声说出来。",
+        "en": "Anna writes the word walk in a notebook. Then Anna thinks about place. The place is quiet, so Anna reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 器, 光, 极, 做了, 受. 新词语: 顿, 了解, 根, 蛋, 紧, 麻, 很快. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 器 = Implement; 光 = Light; 极 = Pole; 做了 = Done; 受 = Be subject. New words: 顿 = Dayton; 了解 = Understand; 根 = Root; 蛋 = Egg; 紧 = Tight; 麻 = Hemp; 很快 = Quickly. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "出现了一个小问题，但是安娜用新词来理解。安娜看了看街道，又看了看窗户，然后做了一个简单的计划。最后，安娜能说出一个清楚的句子。",
+        "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the street, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
       }
     ]
   },
   {
-    "id": "mandarin-intermediate-11",
+    "id": "mandarin-intermediate-37",
     "level": "intermediate",
-    "title": "Intermediate 11: 词语 559-581",
+    "title": "Intermediate 37: The Bookshop Door",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1875,28 +1911,29 @@
       553,
       556
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/37-intermediate-the-bookshop-door.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 类, 梦, 认, 照, 入. 新词语: 游, 忘了, 戴, 莎, 故事, 视, 真正, 蟹. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 类 = Class; 梦 = Dream; 认 = Recognize; 照 = Photo; 入 = Enter. New words: 游 = Tour; 忘了 = Forget; 戴 = Wear; 莎 = Shakespeare; 故事 = Story; 视 = Regard; 真正 = Real; 蟹 = Crab. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，伊万去书店。旁边有门和书。伊万慢慢地读，并注意到一个新词：“打开”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Ivan is in the bookshop. There is door and book nearby. Ivan reads slowly and notices a new word: open. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 类, 梦, 认, 照, 入. 新词语: 费, 靠, 全, 反, 字, 度, 甚至, 局. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 类 = Class; 梦 = Dream; 认 = Recognize; 照 = Photo; 入 = Enter. New words: 费 = Fee; 靠 = By; 全 = Whole; 反 = Anti-; 字 = Word; 度 = Degree; 甚至 = Even; 局 = Bureau. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "伊万把“打开”写在笔记本里。然后伊万想一想“阅读”这个主题。这里很安静，所以伊万又读了一遍句子，并轻声说出来。",
+        "en": "Ivan writes the word open in a notebook. Then Ivan thinks about reading. The place is quiet, so Ivan reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 类, 梦, 认, 照, 入. 新词语: 莫, 命, 语, 性, 常, 莱, 之后. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 类 = Class; 梦 = Dream; 认 = Recognize; 照 = Photo; 入 = Enter. New words: 莫 = Mo; 命 = Life; 语 = Language; 性 = Sex; 常 = Often; 莱 = Levin; 之后 = After. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "出现了一个小问题，但是伊万用新词来理解。伊万看了看门，又看了看书，然后做了一个简单的计划。最后，伊万能说出一个清楚的句子。",
+        "en": "A small problem appears, but Ivan uses the new words to understand it. Ivan checks the door, looks at the book, and makes a simple plan. By the end, Ivan can say one clear sentence."
       }
     ]
   },
   {
-    "id": "mandarin-intermediate-12",
+    "id": "mandarin-intermediate-38",
     "level": "intermediate",
-    "title": "Intermediate 12: 词语 582-604",
+    "title": "Intermediate 38: The Family Story",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1939,28 +1976,29 @@
       576,
       579
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/38-intermediate-the-family-story.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 很快, 戴, 视, 费, 反. 新词语: 可不, 母, 留下, 外, 當, 此, 惊, 伯. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 很快 = Quickly; 戴 = Wear; 视 = Regard; 费 = Fee; 反 = Anti-. New words: 可不 = From time to; 母 = Mother; 留下 = Stay; 外 = Outside; 當 = When the; 此 = This; 惊 = Shock; 伯 = Bo. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，莉娜回家。旁边有妈妈和照片。莉娜慢慢地读，并注意到一个新词：“故事”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Lena is at home. There is mother and photo nearby. Lena reads slowly and notices a new word: story. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 很快, 戴, 视, 费, 反. 新词语: 口, 喜歡, the, 在做, 那麼, 請, 五, 标. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 很快 = Quickly; 戴 = Wear; 视 = Regard; 费 = Fee; 反 = Anti-. New words: 口 = Mouth; 喜歡 = Like; the = the; 在做 = Doing; 那麼 = Then; 請 = Please; 五 = Five; 标 = Mark. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "莉娜把“故事”写在笔记本里。然后莉娜想一想“家庭”这个主题。这里很安静，所以莉娜又读了一遍句子，并轻声说出来。",
+        "en": "Lena writes the word story in a notebook. Then Lena thinks about family. The place is quiet, so Lena reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 很快, 戴, 视, 费, 反. 新词语: 画, 身上, 以后, 主, 謝謝, 應該, 静. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 很快 = Quickly; 戴 = Wear; 视 = Regard; 费 = Fee; 反 = Anti-. New words: 画 = Painting; 身上 = Body; 以后 = After; 主 = Main; 謝謝 = Thank you; 應該 = Should; 静 = Quiet. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "出现了一个小问题，但是莉娜用新词来理解。莉娜看了看妈妈，又看了看照片，然后做了一个简单的计划。最后，莉娜能说出一个清楚的句子。",
+        "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the mother, looks at the photo, and makes a simple plan. By the end, Lena can say one clear sentence."
       }
     ]
   },
   {
-    "id": "mandarin-intermediate-13",
+    "id": "mandarin-intermediate-39",
     "level": "intermediate",
-    "title": "Intermediate 13: 词语 605-627",
+    "title": "Intermediate 39: The Important Word",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -2003,28 +2041,29 @@
       599,
       602
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/39-intermediate-the-important-word.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 之后, 留下, 此, 口, 在做. 新词语: 弹, 改, 酒, 伦, 裏, 花, 续, 天哪. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 之后 = After; 留下 = Stay; 此 = This; 口 = Mouth; 在做 = Doing. New words: 弹 = Bomb; 改 = Change; 酒 = Wine; 伦 = Lun; 裏 = In; 花 = Flower; 续 = Continue; 天哪 = Gosh. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，帕维尔去图书馆。旁边有词典和纸。帕维尔慢慢地读，并注意到一个新词：“意思”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Pavel is in the library. There is dictionary and paper nearby. Pavel reads slowly and notices a new word: meaning. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 之后, 留下, 此, 口, 在做. 新词语: 這裡, 房子, 何, 由, 药, 同, 早上, 波. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 之后 = After; 留下 = Stay; 此 = This; 口 = Mouth; 在做 = Doing. New words: 這裡 = Here; 房子 = House; 何 = What; 由 = By; 药 = Drug; 同 = With; 早上 = Morning; 波 = Wave. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "帕维尔把“意思”写在笔记本里。然后帕维尔想一想“语言”这个主题。这里很安静，所以帕维尔又读了一遍句子，并轻声说出来。",
+        "en": "Pavel writes the word meaning in a notebook. Then Pavel thinks about language. The place is quiet, so Pavel reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 之后, 留下, 此, 口, 在做. 新词语: 弄, 务, 原, 失, 考, 岁, 统. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 之后 = After; 留下 = Stay; 此 = This; 口 = Mouth; 在做 = Doing. New words: 弄 = Get; 务 = Business; 原 = Original; 失 = Lose; 考 = Test; 岁 = Years; 统 = Collectively. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "出现了一个小问题，但是帕维尔用新词来理解。帕维尔看了看词典，又看了看纸，然后做了一个简单的计划。最后，帕维尔能说出一个清楚的句子。",
+        "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the dictionary, looks at the paper, and makes a simple plan. By the end, Pavel can say one clear sentence."
       }
     ]
   },
   {
-    "id": "mandarin-intermediate-14",
+    "id": "mandarin-intermediate-40",
     "level": "intermediate",
-    "title": "Intermediate 14: 词语 628-650",
+    "title": "Intermediate 40: Closer Every Day",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -2067,28 +2106,29 @@
       622,
       625
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/40-intermediate-closer-every-day.txt",
     "sections": [
       {
-        "heading": "章 1 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 静, 酒, 花, 這裡, 由. 新词语: 斜, 拜托, 跑, 不在, 害, 麽, 日, 妮. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 静 = Quiet; 酒 = Wine; 花 = Flower; 這裡 = Here; 由 = By. New words: 斜 = Oblique; 拜托 = Please; 跑 = Run; 不在 = Absence; 害 = Harm; 麽 = What; 日 = Day; 妮 = Ni. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，伊琳娜去公园。旁边有笔记本和茶。伊琳娜慢慢地读，并注意到一个新词：“更近”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Irina is in the park. There is notebook and tea nearby. Irina reads slowly and notices a new word: closer. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 静, 酒, 花, 這裡, 由. 新词语: 凯, 衣服, 治, 便, 客, 议, 好好, 們. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 静 = Quiet; 酒 = Wine; 花 = Flower; 這裡 = Here; 由 = By. New words: 凯 = Triumphant; 衣服 = Clothes; 治 = Rule; 便 = Then; 客 = Passenger; 议 = Discuss; 好好 = Good; 們 = They. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "伊琳娜把“更近”写在笔记本里。然后伊琳娜想一想“复习”这个主题。这里很安静，所以伊琳娜又读了一遍句子，并轻声说出来。",
+        "en": "Irina writes the word closer in a notebook. Then Irina thinks about review. The place is quiet, so Irina reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 3",
-        "ru": "主人公读一张纸条，比较意思，并写出更长的句子。 复习词语: 静, 酒, 花, 這裡, 由. 新词语: 覺得, 谢谢, 托, 赛, 任, 色, 独. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "The main character reads a note, compares meanings, and builds longer phrases. Review words: 静 = Quiet; 酒 = Wine; 花 = Flower; 這裡 = Here; 由 = By. New words: 覺得 = Feel; 谢谢 = Thank you; 托 = Entrust; 赛 = Game; 任 = Office; 色 = Color; 独 = Independent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "出现了一个小问题，但是伊琳娜用新词来理解。伊琳娜看了看笔记本，又看了看茶，然后做了一个简单的计划。最后，伊琳娜能说出一个清楚的句子。",
+        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the notebook, looks at the tea, and makes a simple plan. By the end, Irina can say one clear sentence."
       }
     ]
   },
   {
-    "id": "mandarin-advanced-01",
+    "id": "mandarin-advanced-41",
     "level": "advanced",
-    "title": "Advanced 01: 词语 651-685",
+    "title": "Advanced 41: The Long Walk Through the City",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2143,38 +2183,39 @@
       645,
       648
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/41-advanced-the-long-walk-through-the-city.txt",
     "sections": [
       {
-        "heading": "章 1 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 统, 跑, 麽, 凯, 便. 新词语: 眼睛, 黑, 华, 放在, 城, 的時候, 站. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 统 = Collectively; 跑 = Run; 麽 = What; 凯 = Triumphant; 便 = Then. New words: 眼睛 = Eye; 黑 = Black; 华 = China; 放在 = On the; 城 = City; 的時候 = When; 站 = Station. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，安娜去城市。旁边有地图和窗户。安娜慢慢地读，并注意到一个新词：“旅程”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Anna is in the city. There is map and window nearby. Anna reads slowly and notices a new word: journey. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 统, 跑, 麽, 凯, 便. 新词语: 小孩, 住在, 咖啡, 换, 才是, 褕, 周. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 统 = Collectively; 跑 = Run; 麽 = What; 凯 = Triumphant; 便 = Then. New words: 小孩 = Child; 住在 = Lives in; 咖啡 = Coffee; 换 = Change; 才是 = Is; 褕 = Yu; 周 = Week. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "安娜把“旅程”写在笔记本里。然后安娜想一想“城市”这个主题。这里很安静，所以安娜又读了一遍句子，并轻声说出来。",
+        "en": "Anna writes the word journey in a notebook. Then Anna thinks about city. The place is quiet, so Anna reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 统, 跑, 麽, 凯, 便. 新词语: 控制, 言, 敢, 赢, 半, 白, 释. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 统 = Collectively; 跑 = Run; 麽 = What; 凯 = Triumphant; 便 = Then. New words: 控制 = Control; 言 = Speech; 敢 = Dare; 赢 = Win; 半 = Half; 白 = White; 释 = Release. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "出现了一个小问题，但是安娜用新词来理解。安娜看了看地图，又看了看窗户，然后做了一个简单的计划。最后，安娜能说出一个清楚的句子。",
+        "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the map, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
       },
       {
-        "heading": "章 4 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 统, 跑, 麽, 凯, 便. 新词语: 能不能, 生了, 而已, 图, 該, 怪, 字幕. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 统 = Collectively; 跑 = Run; 麽 = What; 凯 = Triumphant; 便 = Then. New words: 能不能 = Can; 生了 = Health; 而已 = Nothing more; 图 = Map; 該 = That; 怪 = Strange; 字幕 = Subtitle. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "后来，安娜遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。安娜又写下三个词，并把它们和今天的故事连起来。",
+        "en": "Later, Anna meets another person and asks one careful question. The answer is simple, but it helps. Anna writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "章 5 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 统, 跑, 麽, 凯, 便. 新词语: 對不起, 去看, 像是, 保持, 替, 拜, 一件. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 统 = Collectively; 跑 = Run; 麽 = What; 凯 = Triumphant; 便 = Then. New words: 對不起 = I am sorry; 去看 = To see; 像是 = Like; 保持 = Keeping; 替 = For; 拜 = Worship; 一件 = A. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "一天结束时，安娜大声读完整页。词语还不完美，但已经熟悉了。安娜笑了，因为学习变得可能，也变得很近。",
+        "en": "At the end of the day, Anna reads the whole page out loud. The words are not perfect yet, but they are familiar now. Anna smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "mandarin-advanced-02",
+    "id": "mandarin-advanced-42",
     "level": "advanced",
-    "title": "Advanced 02: 词语 686-720",
+    "title": "Advanced 42: The Forgotten Invitation",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2229,38 +2270,39 @@
       680,
       683
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/42-advanced-the-forgotten-invitation.txt",
     "sections": [
       {
-        "heading": "章 1 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 才是, 控制, 赢, 释, 而已. 新词语: 錢, 想知道, 時, 讲, 新的, 希, 炸. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 才是 = Is; 控制 = Control; 赢 = Win; 释 = Release; 而已 = Nothing more. New words: 錢 = Money; 想知道 = Want to know; 時 = Time; 讲 = Speak; 新的 = New; 希 = Hope; 炸 = Fry. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，萨沙去大学。旁边有信和电话。萨沙慢慢地读，并注意到一个新词：“邀请”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Sasha is at the university. There is letter and phone nearby. Sasha reads slowly and notices a new word: invitation. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 才是, 控制, 赢, 释, 而已. 新词语: 择, 知, 說的, 码, 戏, 塞, 碰. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 才是 = Is; 控制 = Control; 赢 = Win; 释 = Release; 而已 = Nothing more. New words: 择 = Choose; 知 = Know; 說的 = Said; 码 = Code; 戏 = Play; 塞 = Stopper; 碰 = Touch. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "萨沙把“邀请”写在笔记本里。然后萨沙想一想“会议”这个主题。这里很安静，所以萨沙又读了一遍句子，并轻声说出来。",
+        "en": "Sasha writes the word invitation in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 才是, 控制, 赢, 释, 而已. 新词语: 放下, 一樣, 害怕, 杰克, 迎, 绝, 開始. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 才是 = Is; 控制 = Control; 赢 = Win; 释 = Release; 而已 = Nothing more. New words: 放下 = Put down; 一樣 = Equally; 害怕 = Be afraid; 杰克 = Jack; 迎 = Welcome; 绝 = Absolutely; 開始 = Start. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "出现了一个小问题，但是萨沙用新词来理解。萨沙看了看信，又看了看电话，然后做了一个简单的计划。最后，萨沙能说出一个清楚的句子。",
+        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the phone, and makes a simple plan. By the end, Sasha can say one clear sentence."
       },
       {
-        "heading": "章 4 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 才是, 控制, 赢, 释, 而已. 新词语: 生命, 王, 助, 乔, 义, 回到, 救. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 才是 = Is; 控制 = Control; 赢 = Win; 释 = Release; 而已 = Nothing more. New words: 生命 = Life; 王 = King; 助 = Help; 乔 = Joe; 义 = Justice; 回到 = Back to; 救 = Save. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "后来，萨沙遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。萨沙又写下三个词，并把它们和今天的故事连起来。",
+        "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "章 5 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 才是, 控制, 赢, 释, 而已. 新词语: 清楚, 冷, 原因, 却, 付, 管, 狂. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 才是 = Is; 控制 = Control; 赢 = Win; 释 = Release; 而已 = Nothing more. New words: 清楚 = Clear; 冷 = Cold; 原因 = Reason; 却 = But; 付 = Pay; 管 = Tube; 狂 = Mad. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "一天结束时，萨沙大声读完整页。词语还不完美，但已经熟悉了。萨沙笑了，因为学习变得可能，也变得很近。",
+        "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "mandarin-advanced-03",
+    "id": "mandarin-advanced-43",
     "level": "advanced",
-    "title": "Advanced 03: 词语 721-755",
+    "title": "Advanced 43: The History Room",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2315,38 +2357,39 @@
       715,
       718
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/43-advanced-the-history-room.txt",
     "sections": [
       {
-        "heading": "章 1 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 戏, 放下, 杰克, 開始, 助. 新词语: 早, 一天, 超, 怀, 使, 断, 演. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 戏 = Play; 放下 = Put down; 杰克 = Jack; 開始 = Start; 助 = Help. New words: 早 = Early; 一天 = One day; 超 = Exceed; 怀 = Bosom; 使 = Make; 断 = Break; 演 = Play. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，尼古拉去博物馆。旁边有书和图画。尼古拉慢慢地读，并注意到一个新词：“历史”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Nikolay is in the museum. There is book and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 戏, 放下, 杰克, 開始, 助. 新词语: 外面, 四, 楼, 另一, 玩笑, 好啊, 裡. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 戏 = Play; 放下 = Put down; 杰克 = Jack; 開始 = Start; 助 = Help. New words: 外面 = Outside; 四 = Four; 楼 = Floor; 另一 = Another; 玩笑 = Joke; 好啊 = Well; 裡 = In. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "尼古拉把“历史”写在笔记本里。然后尼古拉想一想“过去”这个主题。这里很安静，所以尼古拉又读了一遍句子，并轻声说出来。",
+        "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about past. The place is quiet, so Nikolay reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 戏, 放下, 杰克, 開始, 助. 新词语: 院, 空, 娜, 將, 下去, 传, 時間. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 戏 = Play; 放下 = Put down; 杰克 = Jack; 開始 = Start; 助 = Help. New words: 院 = Hospital; 空 = Air; 娜 = Na; 將 = Will; 下去 = Go on; 传 = Pass; 時間 = Time. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "出现了一个小问题，但是尼古拉用新词来理解。尼古拉看了看书，又看了看图画，然后做了一个简单的计划。最后，尼古拉能说出一个清楚的句子。",
+        "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the book, looks at the picture, and makes a simple plan. By the end, Nikolay can say one clear sentence."
       },
       {
-        "heading": "章 4 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 戏, 放下, 杰克, 開始, 助. 新词语: 感到, 懂, 血, 失去, 终, 還是, 价. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 戏 = Play; 放下 = Put down; 杰克 = Jack; 開始 = Start; 助 = Help. New words: 感到 = Feel; 懂 = Understand; 血 = Blood; 失去 = Lose; 终 = End; 還是 = Or; 价 = Price. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "后来，尼古拉遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。尼古拉又写下三个词，并把它们和今天的故事连起来。",
+        "en": "Later, Nikolay meets another person and asks one careful question. The answer is simple, but it helps. Nikolay writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "章 5 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 戏, 放下, 杰克, 開始, 助. 新词语: 包, 等, 变, 准, 查, 阿, 卡. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 戏 = Play; 放下 = Put down; 杰克 = Jack; 開始 = Start; 助 = Help. New words: 包 = Package; 等 = Wait; 变 = Change; 准 = Quasi-; 查 = Check; 阿 = A; 卡 = Card. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "一天结束时，尼古拉大声读完整页。词语还不完美，但已经熟悉了。尼古拉笑了，因为学习变得可能，也变得很近。",
+        "en": "At the end of the day, Nikolay reads the whole page out loud. The words are not perfect yet, but they are familiar now. Nikolay smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "mandarin-advanced-04",
+    "id": "mandarin-advanced-44",
     "level": "advanced",
-    "title": "Advanced 04: 词语 756-790",
+    "title": "Advanced 44: The Quiet Train",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2401,38 +2444,39 @@
       750,
       753
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/44-advanced-the-quiet-train.txt",
     "sections": [
       {
-        "heading": "章 1 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 玩笑, 院, 將, 時間, 血. 新词语: 這個, 在哪, 定, 处, 真是, 保, 想要. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 玩笑 = Joke; 院 = Hospital; 將 = Will; 時間 = Time; 血 = Blood. New words: 這個 = This; 在哪 = Where; 定 = Fixed; 处 = Place; 真是 = Really; 保 = Insurance; 想要 = Want. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，玛丽亚去火车站。旁边有票和茶。玛丽亚慢慢地读，并注意到一个新词：“安静”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Maria is on the train. There is ticket and tea nearby. Maria reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 玩笑, 院, 將, 時間, 血. 新词语: 安, 并, 拿, 情, 爸爸, 褋, 您. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 玩笑 = Joke; 院 = Hospital; 將 = Will; 時間 = Time; 血 = Blood. New words: 安 = Safe; 并 = And; 拿 = Take; 情 = Love; 爸爸 = Father; 褋 = Die; 您 = You. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "玛丽亚把“安静”写在笔记本里。然后玛丽亚想一想“旅行”这个主题。这里很安静，所以玛丽亚又读了一遍句子，并轻声说出来。",
+        "en": "Maria writes the word quiet in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 玩笑, 院, 將, 時間, 血. 新词语: 美, 非常, 办, 前, 格, 场, 体. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 玩笑 = Joke; 院 = Hospital; 將 = Will; 時間 = Time; 血 = Blood. New words: 美 = U.S.; 非常 = Very; 办 = Do; 前 = Ago; 格 = Grid; 场 = Field; 体 = Body. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "出现了一个小问题，但是玛丽亚用新词来理解。玛丽亚看了看票，又看了看茶，然后做了一个简单的计划。最后，玛丽亚能说出一个清楚的句子。",
+        "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the tea, and makes a simple plan. By the end, Maria can say one clear sentence."
       },
       {
-        "heading": "章 4 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 玩笑, 院, 將, 時間, 血. 新词语: 大家, 呀, 系, 后, 亲, 明白, 备. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 玩笑 = Joke; 院 = Hospital; 將 = Will; 時間 = Time; 血 = Blood. New words: 大家 = Everyone; 呀 = Yeah; 系 = System; 后 = After; 亲 = Parent; 明白 = Understand; 备 = Equipment. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "后来，玛丽亚遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。玛丽亚又写下三个词，并把它们和今天的故事连起来。",
+        "en": "Later, Maria meets another person and asks one careful question. The answer is simple, but it helps. Maria writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "章 5 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 玩笑, 院, 將, 時間, 血. 新词语: 布, 计, 恩, 找到, 她的, 老, 艾. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 玩笑 = Joke; 院 = Hospital; 將 = Will; 時間 = Time; 血 = Blood. New words: 布 = Cloth; 计 = Meter; 恩 = Grace; 找到 = Find; 她的 = Her; 老 = Old; 艾 = Ai. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "一天结束时，玛丽亚大声读完整页。词语还不完美，但已经熟悉了。玛丽亚笑了，因为学习变得可能，也变得很近。",
+        "en": "At the end of the day, Maria reads the whole page out loud. The words are not perfect yet, but they are familiar now. Maria smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "mandarin-advanced-05",
+    "id": "mandarin-advanced-45",
     "level": "advanced",
-    "title": "Advanced 05: 词语 791-825",
+    "title": "Advanced 45: A Plan for Tomorrow",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2487,38 +2531,39 @@
       785,
       788
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/45-advanced-a-plan-for-tomorrow.txt",
     "sections": [
       {
-        "heading": "章 1 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 爸爸, 美, 前, 体, 系. 新词语: 意, 门, 啦, 米, 本, 问, 上帝. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 爸爸 = Father; 美 = U.S.; 前 = Ago; 体 = Body; 系 = System. New words: 意 = Meaning; 门 = Door; 啦 = La; 米 = Meter; 本 = This; 问 = Ask; 上帝 = God. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，莉娜回家。旁边有地图和笔记本。莉娜慢慢地读，并注意到一个新词：“明天”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Lena is at home. There is map and notebook nearby. Lena reads slowly and notices a new word: tomorrow. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 爸爸, 美, 前, 体, 系. 新词语: 必, 沒, 等等, 不過, 猜, 福, 打算. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 爸爸 = Father; 美 = U.S.; 前 = Ago; 体 = Body; 系 = System. New words: 必 = Must; 沒 = Not; 等等 = Etc.; 不過 = But; 猜 = Guess; 福 = Blessing; 打算 = Plan. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "莉娜把“明天”写在笔记本里。然后莉娜想一想“计划”这个主题。这里很安静，所以莉娜又读了一遍句子，并轻声说出来。",
+        "en": "Lena writes the word tomorrow in a notebook. Then Lena thinks about plan. The place is quiet, so Lena reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 爸爸, 美, 前, 体, 系. 新词语: 适, 危, 连, 怕, 化, 不需要, 争. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 爸爸 = Father; 美 = U.S.; 前 = Ago; 体 = Body; 系 = System. New words: 适 = Suitable; 危 = Danger; 连 = Even; 怕 = Fear; 化 = Of; 不需要 = Do not need to; 争 = Fight. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "出现了一个小问题，但是莉娜用新词来理解。莉娜看了看地图，又看了看笔记本，然后做了一个简单的计划。最后，莉娜能说出一个清楚的句子。",
+        "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the map, looks at the notebook, and makes a simple plan. By the end, Lena can say one clear sentence."
       },
       {
-        "heading": "章 4 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 爸爸, 美, 前, 体, 系. 新词语: 则, 狱, 越, 小子, 有趣, 喜歡, the. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 爸爸 = Father; 美 = U.S.; 前 = Ago; 体 = Body; 系 = System. New words: 则 = Then; 狱 = Prison; 越 = More; 小子 = Brat; 有趣 = Interesting; 喜歡 = Like; the = the. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "后来，莉娜遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。莉娜又写下三个词，并把它们和今天的故事连起来。",
+        "en": "Later, Lena meets another person and asks one careful question. The answer is simple, but it helps. Lena writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "章 5 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 爸爸, 美, 前, 体, 系. 新词语: 在做, 那麼, 請, 五, 标, 画, 身上. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 爸爸 = Father; 美 = U.S.; 前 = Ago; 体 = Body; 系 = System. New words: 在做 = Doing; 那麼 = Then; 請 = Please; 五 = Five; 标 = Mark; 画 = Painting; 身上 = Body. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "一天结束时，莉娜大声读完整页。词语还不完美，但已经熟悉了。莉娜笑了，因为学习变得可能，也变得很近。",
+        "en": "At the end of the day, Lena reads the whole page out loud. The words are not perfect yet, but they are familiar now. Lena smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "mandarin-advanced-06",
+    "id": "mandarin-advanced-46",
     "level": "advanced",
-    "title": "Advanced 06: 词语 826-860",
+    "title": "Advanced 46: News from the Cafe",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2573,38 +2618,39 @@
       820,
       823
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/46-advanced-news-from-the-cafe.txt",
     "sections": [
       {
-        "heading": "章 1 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 猜, 适, 怕, 争, 越. 新词语: 以后, 至少, 亞, 脱, 消息, 不喜, 块. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 猜 = Guess; 适 = Suitable; 怕 = Fear; 争 = Fight; 越 = More. New words: 以后 = After; 至少 = At least; 亞 = Inferior; 脱 = Take off; 消息 = News; 不喜 = Do not like; 块 = Block. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，奥尔加去咖啡馆。旁边有报纸和茶。奥尔加慢慢地读，并注意到一个新词：“新闻”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Olga is in the cafe. There is newspaper and tea nearby. Olga reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 猜, 适, 怕, 争, 越. 新词语: 快走, 著, 各位, 算, 問題, 沒事, 导. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 猜 = Guess; 适 = Suitable; 怕 = Fear; 争 = Fight; 越 = More. New words: 快走 = Brisk walking; 著 = With; 各位 = Everybody; 算 = Count; 問題 = Problem; 沒事 = All right; 导 = Guide. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "奥尔加把“新闻”写在笔记本里。然后奥尔加想一想“谈话”这个主题。这里很安静，所以奥尔加又读了一遍句子，并轻声说出来。",
+        "en": "Olga writes the word news in a notebook. Then Olga thinks about talk. The place is quiet, so Olga reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 猜, 适, 怕, 争, 越. 新词语: 州, 老兄, 抓, 代, 蒙, 抓住, 山. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 猜 = Guess; 适 = Suitable; 怕 = Fear; 争 = Fight; 越 = More. New words: 州 = State; 老兄 = Brother; 抓 = Catch; 代 = On behalf of; 蒙 = Mongolian; 抓住 = Catch; 山 = Mountain. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "出现了一个小问题，但是奥尔加用新词来理解。奥尔加看了看报纸，又看了看茶，然后做了一个简单的计划。最后，奥尔加能说出一个清楚的句子。",
+        "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the newspaper, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
       },
       {
-        "heading": "章 4 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 猜, 适, 怕, 争, 越. 新词语: 拍, 沙, 妻子, 脸, 责, 你自己, 回來. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 猜 = Guess; 适 = Suitable; 怕 = Fear; 争 = Fight; 越 = More. New words: 拍 = Beat; 沙 = Sand; 妻子 = Wife; 脸 = Face; 责 = Responsibility; 你自己 = Yourself; 回來 = Come back. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "后来，奥尔加遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。奥尔加又写下三个词，并把它们和今天的故事连起来。",
+        "en": "Later, Olga meets another person and asks one careful question. The answer is simple, but it helps. Olga writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "章 5 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 猜, 适, 怕, 争, 越. 新词语: 歌, 星, 权, 术, 显, 幸, 交. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 猜 = Guess; 适 = Suitable; 怕 = Fear; 争 = Fight; 越 = More. New words: 歌 = Song; 星 = Star; 权 = Right; 术 = Technique; 显 = Show; 幸 = Fortunately; 交 = Cross. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "一天结束时，奥尔加大声读完整页。词语还不完美，但已经熟悉了。奥尔加笑了，因为学习变得可能，也变得很近。",
+        "en": "At the end of the day, Olga reads the whole page out loud. The words are not perfect yet, but they are familiar now. Olga smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "mandarin-advanced-07",
+    "id": "mandarin-advanced-47",
     "level": "advanced",
-    "title": "Advanced 07: 词语 861-895",
+    "title": "Advanced 47: The Word That Changed the Day",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2659,38 +2705,39 @@
       855,
       858
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/47-advanced-the-word-that-changed-the-day.txt",
     "sections": [
       {
-        "heading": "章 1 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 問題, 州, 代, 山, 妻子. 新词语: 不同, 聪, 随, 登, 班, 二, 录. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 問題 = Problem; 州 = State; 代 = On behalf of; 山 = Mountain; 妻子 = Wife. New words: 不同 = Different; 聪 = Clever; 随 = Follow; 登 = Ascend; 班 = Class; 二 = Two; 录 = Record. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，迪马去街上。旁边有包和书。迪马慢慢地读，并注意到一个新词：“帮助”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Dima is on the street. There is bag and book nearby. Dima reads slowly and notices a new word: help. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 問題, 州, 代, 山, 妻子. 新词语: 武器, 热, 才能, 當然, 晚, 晚安, 成功. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 問題 = Problem; 州 = State; 代 = On behalf of; 山 = Mountain; 妻子 = Wife. New words: 武器 = Weapon; 热 = Hot; 才能 = Ability; 當然 = Of course; 晚 = Night; 晚安 = Good night; 成功 = Success. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "迪马把“帮助”写在笔记本里。然后迪马想一想“道路”这个主题。这里很安静，所以迪马又读了一遍句子，并轻声说出来。",
+        "en": "Dima writes the word help in a notebook. Then Dima thinks about road. The place is quiet, so Dima reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 問題, 州, 代, 山, 妻子. 新词语: 未, 参, 瓦, 饭, 殺, 帕, 待. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 問題 = Problem; 州 = State; 代 = On behalf of; 山 = Mountain; 妻子 = Wife. New words: 未 = Not; 参 = Participate; 瓦 = Tile; 饭 = Rice; 殺 = Kill; 帕 = Handkerchief; 待 = To be. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "出现了一个小问题，但是迪马用新词来理解。迪马看了看包，又看了看书，然后做了一个简单的计划。最后，迪马能说出一个清楚的句子。",
+        "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the bag, looks at the book, and makes a simple plan. By the end, Dima can say one clear sentence."
       },
       {
-        "heading": "章 4 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 問題, 州, 代, 山, 妻子. 新词语: 是否, 勒, 射, 表, 卫, 太太, 接受. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 問題 = Problem; 州 = State; 代 = On behalf of; 山 = Mountain; 妻子 = Wife. New words: 是否 = Whether; 勒 = Le; 射 = Shoot; 表 = Table; 卫 = Guard; 太太 = Wife; 接受 = Accepted. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "后来，迪马遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。迪马又写下三个词，并把它们和今天的故事连起来。",
+        "en": "Later, Dima meets another person and asks one careful question. The answer is simple, but it helps. Dima writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "章 5 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 問題, 州, 代, 山, 妻子. 新词语: 跳, 象, 灵, 真不, 破, 夫人, 操. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 問題 = Problem; 州 = State; 代 = On behalf of; 山 = Mountain; 妻子 = Wife. New words: 跳 = Jump; 象 = Elephant; 灵 = Spirit; 真不 = I really do not; 破 = Break; 夫人 = Mrs.; 操 = Exercise. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "一天结束时，迪马大声读完整页。词语还不完美，但已经熟悉了。迪马笑了，因为学习变得可能，也变得很近。",
+        "en": "At the end of the day, Dima reads the whole page out loud. The words are not perfect yet, but they are familiar now. Dima smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "mandarin-advanced-08",
+    "id": "mandarin-advanced-48",
     "level": "advanced",
-    "title": "Advanced 08: 词语 896-930",
+    "title": "Advanced 48: The Meeting at the University",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2745,38 +2792,39 @@
       890,
       893
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/48-advanced-the-meeting-at-the-university.txt",
     "sections": [
       {
-        "heading": "章 1 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 晚, 未, 饭, 待, 射. 新词语: 诺, 萨, 卖, 选, 注意, 历, 脚. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 晚 = Night; 未 = Not; 饭 = Rice; 待 = To be; 射 = Shoot. New words: 诺 = Promise; 萨 = Bodhisattva; 卖 = Sell; 选 = Selected; 注意 = Note; 历 = Calendar; 脚 = Foot. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，萨沙去大学。旁边有信和书桌。萨沙慢慢地读，并注意到一个新词：“会议”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Sasha is at the university. There is letter and desk nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 晚, 未, 饭, 待, 射. 新词语: 丝, 少, 工, 密, 鱼, 验, 不再. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 晚 = Night; 未 = Not; 饭 = Rice; 待 = To be; 射 = Shoot. New words: 丝 = Wire; 少 = Less; 工 = Work; 密 = Close; 鱼 = Fish; 验 = Test; 不再 = No longer. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "萨沙把“会议”写在笔记本里。然后萨沙想一想“想法”这个主题。这里很安静，所以萨沙又读了一遍句子，并轻声说出来。",
+        "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about ideas. The place is quiet, so Sasha reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 晚, 未, 饭, 待, 射. 新词语: 检, 骗, 必須, a, 自由, 杯, 馆. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 晚 = Night; 未 = Not; 饭 = Rice; 待 = To be; 射 = Shoot. New words: 检 = Check; 骗 = Cheat; 必須 = Must; a = a; 自由 = Free; 杯 = Cup; 馆 = Shop. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "出现了一个小问题，但是萨沙用新词来理解。萨沙看了看信，又看了看书桌，然后做了一个简单的计划。最后，萨沙能说出一个清楚的句子。",
+        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the desk, and makes a simple plan. By the end, Sasha can say one clear sentence."
       },
       {
-        "heading": "章 4 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 晚, 未, 饭, 待, 射. 新词语: 完, 追, 际, 产, 想到, 收, 探. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 晚 = Night; 未 = Not; 饭 = Rice; 待 = To be; 射 = Shoot. New words: 完 = Complete; 追 = Chase; 际 = Occasion; 产 = Yield; 想到 = Think; 收 = Income; 探 = Explore. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "后来，萨沙遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。萨沙又写下三个词，并把它们和今天的故事连起来。",
+        "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "章 5 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 晚, 未, 饭, 待, 射. 新词语: 直到, 酷, 乱, 资, 毁, 要求, 急. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 晚 = Night; 未 = Not; 饭 = Rice; 待 = To be; 射 = Shoot. New words: 直到 = Until; 酷 = Cool; 乱 = Random; 资 = Capital; 毁 = Ruin; 要求 = Claim; 急 = Urgent. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "一天结束时，萨沙大声读完整页。词语还不完美，但已经熟悉了。萨沙笑了，因为学习变得可能，也变得很近。",
+        "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "mandarin-advanced-09",
+    "id": "mandarin-advanced-49",
     "level": "advanced",
-    "title": "Advanced 09: 词语 931-965",
+    "title": "Advanced 49: The Letter and the Map",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2831,38 +2879,39 @@
       925,
       928
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/49-advanced-the-letter-and-the-map.txt",
     "sections": [
       {
-        "heading": "章 1 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 鱼, 检, a, 馆, 际. 新词语: 玛, 方, 完成, 照片, 收到, 所有人, 博士. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 鱼 = Fish; 检 = Check; a = a; 馆 = Shop; 际 = Occasion. New words: 玛 = Mary; 方 = Square; 完成 = Complete; 照片 = Photo; 收到 = Receive; 所有人 = Everyone; 博士 = Doctor. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，卡佳去图书馆。旁边有信和地图。卡佳慢慢地读，并注意到一个新词：“路线”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Katya is in the library. There is letter and map nearby. Katya reads slowly and notices a new word: route. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 鱼, 检, a, 馆, 际. 新词语: 媽媽, you, 父母, 奇怪, 男孩, 攻, 店. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 鱼 = Fish; 检 = Check; a = a; 馆 = Shop; 际 = Occasion. New words: 媽媽 = Mom; you = you; 父母 = Parents; 奇怪 = Strange; 男孩 = Boy; 攻 = Attack; 店 = Shop. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "卡佳把“路线”写在笔记本里。然后卡佳想一想“寻找”这个主题。这里很安静，所以卡佳又读了一遍句子，并轻声说出来。",
+        "en": "Katya writes the word route in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 鱼, 检, a, 馆, 际. 新词语: 埃, 多久, 红, 太多, 咱, 能, 事. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 鱼 = Fish; 检 = Check; a = a; 馆 = Shop; 际 = Occasion. New words: 埃 = Angstrom; 多久 = How long; 红 = Red; 太多 = Too; 咱 = We; 能 = Can; 事 = Thing. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "出现了一个小问题，但是卡佳用新词来理解。卡佳看了看信，又看了看地图，然后做了一个简单的计划。最后，卡佳能说出一个清楚的句子。",
+        "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the letter, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
       },
       {
-        "heading": "章 4 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 鱼, 检, a, 馆, 际. 新词语: 看, 我們, 上, 给, 可以, 现, 斯. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 鱼 = Fish; 检 = Check; a = a; 馆 = Shop; 际 = Occasion. New words: 看 = See; 我們 = We; 上 = On; 给 = To; 可以 = Can; 现 = Present; 斯 = Sri Lanka. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "后来，卡佳遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。卡佳又写下三个词，并把它们和今天的故事连起来。",
+        "en": "Later, Katya meets another person and asks one careful question. The answer is simple, but it helps. Katya writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "章 5 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 鱼, 检, a, 馆, 际. 新词语: 做, 儿, 时, 点, 开, 让, 就是. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 鱼 = Fish; 检 = Check; a = a; 馆 = Shop; 际 = Occasion. New words: 做 = Do; 儿 = Child; 时 = Time; 点 = Point; 开 = Open; 让 = Let; 就是 = Is. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "一天结束时，卡佳大声读完整页。词语还不完美，但已经熟悉了。卡佳笑了，因为学习变得可能，也变得很近。",
+        "en": "At the end of the day, Katya reads the whole page out loud. The words are not perfect yet, but they are familiar now. Katya smiles because learning feels possible and close."
       }
     ]
   },
   {
-    "id": "mandarin-advanced-10",
+    "id": "mandarin-advanced-50",
     "level": "advanced",
-    "title": "Advanced 10: 词语 966-1000",
+    "title": "Advanced 50: The Language Feels Close",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2917,31 +2966,32 @@
       960,
       963
     ],
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/50-advanced-the-language-feels-close.txt",
     "sections": [
       {
-        "heading": "章 1 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 男孩, 埃, 太多, 事, 上. 新词语: 但, 呢, 着, 它, 這, 如果, 跟. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 男孩 = Boy; 埃 = Angstrom; 太多 = Too; 事 = Thing; 上 = On. New words: 但 = But; 呢 = It; 着 = With; 它 = It; 這 = This; 如果 = If; 跟 = With. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 1",
+        "ru": "早上，伊琳娜去公园。旁边有书和电话。伊琳娜慢慢地读，并注意到一个新词：“语言”。今天很好，语言也变得更近了。",
+        "en": "In the morning, Irina is in the park. There is book and phone nearby. Irina reads slowly and notices a new word: language. The day feels good, and the language feels a little closer."
       },
       {
-        "heading": "章 2 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 男孩, 埃, 太多, 事, 上. 新词语: 邪, 听, 克, 再, 快, 嗎, 被. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 男孩 = Boy; 埃 = Angstrom; 太多 = Too; 事 = Thing; 上 = On. New words: 邪 = Evil; 听 = Listen; 克 = Gram; 再 = Again; 快 = Fast; 嗎 = Do; 被 = Be. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 2",
+        "ru": "伊琳娜把“语言”写在笔记本里。然后伊琳娜想一想“信心”这个主题。这里很安静，所以伊琳娜又读了一遍句子，并轻声说出来。",
+        "en": "Irina writes the word language in a notebook. Then Irina thinks about confidence. The place is quiet, so Irina reads the sentence again and says it softly."
       },
       {
-        "heading": "章 3 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 男孩, 埃, 太多, 事, 上. 新词语: 是的, 大, 先生, 别, 告, 真的, 谢. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 男孩 = Boy; 埃 = Angstrom; 太多 = Too; 事 = Thing; 上 = On. New words: 是的 = Yes; 大 = Large; 先生 = Mr.; 别 = Do not; 告 = Tell; 真的 = Really; 谢 = Thank. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 3",
+        "ru": "出现了一个小问题，但是伊琳娜用新词来理解。伊琳娜看了看书，又看了看电话，然后做了一个简单的计划。最后，伊琳娜能说出一个清楚的句子。",
+        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the book, looks at the phone, and makes a simple plan. By the end, Irina can say one clear sentence."
       },
       {
-        "heading": "章 4 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 男孩, 埃, 太多, 事, 上. 新词语: 哦, 话, 械, 见, 当, 芯, 该. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 男孩 = Boy; 埃 = Angstrom; 太多 = Too; 事 = Thing; 上 = On. New words: 哦 = Oh; 话 = Words; 械 = Instrument; 见 = See; 当 = When the; 芯 = Core; 该 = That. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 4",
+        "ru": "后来，伊琳娜遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。伊琳娜又写下三个词，并把它们和今天的故事连起来。",
+        "en": "Later, Irina meets another person and asks one careful question. The answer is simple, but it helps. Irina writes three more words and connects them to the story of the day."
       },
       {
-        "heading": "章 5 / 5",
-        "ru": "在这一章里，词语成为一个更大故事的一部分，故事里有记忆、选择和细节。 复习词语: 男孩, 埃, 太多, 事, 上. 新词语: 西, 子, 已, 會, 小, 爱, 特. 他大声朗读，听自己的声音，然后把词写在笔记本里。",
-        "en": "In this chapter, words become part of a larger story about memory, choice, and detail. Review words: 男孩 = Boy; 埃 = Angstrom; 太多 = Too; 事 = Thing; 上 = On. New words: 西 = Western; 子 = Child; 已 = Already; 會 = Can; 小 = Small; 爱 = Love; 特 = Special. The learner reads aloud, listens carefully, and writes the words in a notebook."
+        "heading": "Page 5",
+        "ru": "一天结束时，伊琳娜大声读完整页。词语还不完美，但已经熟悉了。伊琳娜笑了，因为学习变得可能，也变得很近。",
+        "en": "At the end of the day, Irina reads the whole page out loud. The words are not perfect yet, but they are familiar now. Irina smiles because learning feels possible and close."
       }
     ]
   }
