@@ -2234,6 +2234,8 @@ const appState = {
 };
 let mediaRecorder = null;
 let mediaRecordChunks = [];
+let activeSpeech = null;
+let speechRestartTimer = null;
 
 const fullRussianWordListUrl = "https://raw.githubusercontent.com/alicewriteswrongs/russian-vocab/master/words.json";
 
@@ -3173,7 +3175,7 @@ function getCurrentReadingContainer() {
   return appState.activeView === "stories" ? els.storyContent : els.russianParagraph;
 }
 
-function speakSlowRussian() {
+function speakSlowRussian(startCharIndex = 0) {
   if (!("speechSynthesis" in window)) {
     if (els.spokenResult) els.spokenResult.textContent = "Audio playback is not available in this browser.";
     return;
@@ -3184,16 +3186,28 @@ function speakSlowRussian() {
   const text = getCurrentReadingText();
   if (!text.trim()) return;
   const rate = Number((isStories ? els.playbackSpeedStories : els.playbackSpeed).value);
+  const resumeAt = Math.max(0, Math.min(startCharIndex, Math.max(0, text.length - 1)));
+  const speakText = text.slice(resumeAt).replace(/^\s+/, "");
+  const leadingTrim = text.slice(resumeAt).length - speakText.length;
+  const absoluteOffset = resumeAt + leadingTrim;
   
-  const utterance = new SpeechSynthesisUtterance(text);
+  const utterance = new SpeechSynthesisUtterance(speakText);
   utterance.lang = languageDatasets[appState.targetLanguage]?.speechLang || "ru-RU";
   utterance.rate = rate;
   
   const tokens = getCurrentReadingContainer().querySelectorAll(".word-token");
+  activeSpeech = {
+    text,
+    view: appState.activeView,
+    language: appState.targetLanguage,
+    charIndex: absoluteOffset,
+    requestedCancel: false
+  };
   
   utterance.onboundary = (event) => {
     if (event.name === 'word') {
-      const charIndex = event.charIndex;
+      const charIndex = absoluteOffset + event.charIndex;
+      if (activeSpeech) activeSpeech.charIndex = charIndex;
       let currentToken = null;
       let minDiff = Infinity;
       
@@ -3212,9 +3226,11 @@ function speakSlowRussian() {
   
   utterance.onend = () => {
     tokens.forEach(t => t.classList.remove("word-highlight"));
+    if (activeSpeech && !activeSpeech.requestedCancel) activeSpeech = null;
   };
   utterance.onerror = () => {
     if (els.spokenResult) els.spokenResult.textContent = "Audio playback could not start. Try clicking Play Audio again.";
+    activeSpeech = null;
   };
   
   window.speechSynthesis.speak(utterance);
@@ -3229,6 +3245,19 @@ function handleSpeedChange(e, label) {
   if (els.speedLabelStories && els.speedLabelStories !== label) els.speedLabelStories.textContent = `${val}x`;
   appState.settings.audioRate = Number(val);
   localStorage.setItem("nova_profile_settings", JSON.stringify(appState.settings));
+  restartSpeechAtNewRate();
+}
+
+function restartSpeechAtNewRate() {
+  if (!activeSpeech || !window.speechSynthesis?.speaking) return;
+  const restartAt = activeSpeech.charIndex || 0;
+  activeSpeech.requestedCancel = true;
+  window.speechSynthesis.cancel();
+  clearTimeout(speechRestartTimer);
+  speechRestartTimer = setTimeout(() => {
+    activeSpeech = null;
+    speakSlowRussian(restartAt);
+  }, 80);
 }
 
 els.playbackSpeed.addEventListener("input", (e) => handleSpeedChange(e, els.speedLabel));
@@ -5948,18 +5977,23 @@ function initCharacter3d() {
 
     const makeArm = (side) => {
       const shoulder = new THREE.Group();
-      shoulder.position.set(side * 0.57, 0.4, 0.46);
-      shoulder.rotation.z = side * -0.2;
-      shoulder.rotation.x = 0.28;
-      const sleeve = capsule(0.125, 0.62, 0x3182ce, 22);
-      sleeve.position.y = -0.31;
-      const forearm = capsule(0.105, 0.56, 0xed8936, 20);
-      forearm.position.y = -0.9;
-      forearm.position.z = 0.03;
-      const hand = new THREE.Mesh(new THREE.SphereGeometry(0.13, 22, 16), material(0xed8936));
-      hand.position.set(0, -1.23, 0.04);
-      shoulder.add(sleeve, forearm, hand);
-      return { shoulder, sleeve, forearm, hand };
+      shoulder.position.set(side * 0.56, 0.72, 0.18);
+      shoulder.rotation.z = side * -0.12;
+      shoulder.rotation.x = 0.08;
+      const shoulderCap = new THREE.Mesh(new THREE.SphereGeometry(0.17, 24, 18), material(0x3182ce));
+      shoulderCap.position.set(side * 0.02, 0.02, 0.03);
+      shoulderCap.scale.set(1.05, 0.82, 0.92);
+      const sleeve = capsule(0.13, 0.6, 0x3182ce, 24);
+      sleeve.position.set(side * 0.02, -0.34, 0.02);
+      sleeve.rotation.z = side * -0.04;
+      const forearm = capsule(0.108, 0.54, 0xed8936, 22);
+      forearm.position.set(side * 0.03, -0.88, 0.08);
+      forearm.rotation.z = side * 0.03;
+      const hand = new THREE.Mesh(new THREE.SphereGeometry(0.135, 24, 18), material(0xed8936));
+      hand.position.set(side * 0.04, -1.21, 0.12);
+      hand.scale.set(0.86, 1.12, 0.72);
+      shoulder.add(shoulderCap, sleeve, forearm, hand);
+      return { shoulder, shoulderCap, sleeve, forearm, hand };
     };
     const leftArm = makeArm(-1);
     const rightArm = makeArm(1);
@@ -5971,11 +6005,23 @@ function initCharacter3d() {
       pant.position.y = -0.13;
       const lowerLeg = capsule(0.108, 0.46, 0xed8936, 18);
       lowerLeg.position.y = -0.68;
-      const shoe = new THREE.Mesh(new THREE.BoxGeometry(0.42, 0.2, 0.64), material(0x111827));
-      shoe.position.set(side * 0.04, -1.0, 0.2);
+      const shoe = new THREE.Group();
+      shoe.position.set(side * 0.04, -1.0, 0.24);
       shoe.rotation.y = side * -0.08;
+      const sole = new THREE.Mesh(new THREE.BoxGeometry(0.44, 0.08, 0.72), material(0x0b1120));
+      sole.position.set(0, -0.08, 0.03);
+      const upper = new THREE.Mesh(new THREE.BoxGeometry(0.38, 0.18, 0.54), material(0x111827));
+      upper.position.set(0, 0.02, 0.0);
+      const toe = new THREE.Mesh(new THREE.SphereGeometry(0.2, 24, 16), material(0x111827));
+      toe.position.set(0, 0.02, 0.28);
+      toe.scale.set(1.05, 0.46, 0.74);
+      const heel = new THREE.Mesh(new THREE.BoxGeometry(0.32, 0.2, 0.2), material(0x111827));
+      heel.position.set(0, 0.03, -0.24);
+      const stripe = new THREE.Mesh(new THREE.BoxGeometry(0.3, 0.018, 0.42), material(0xdbeafe));
+      stripe.position.set(0, 0.125, 0.04);
+      shoe.add(sole, upper, toe, heel, stripe);
       leg.add(pant, lowerLeg, shoe);
-      return { leg, pant, lowerLeg, shoe };
+      return { leg, pant, lowerLeg, shoe, shoeParts: [upper, toe, heel], sole, stripe };
     };
     const leftLeg = makeLeg(-1);
     const rightLeg = makeLeg(1);
@@ -6087,10 +6133,12 @@ function updateCharacterVisuals() {
   character3d.head.material.color.set(c.faceColor);
   setGroupColor([character3d.neck, character3d.leftEar, character3d.rightEar, character3d.leftArm.forearm, character3d.leftArm.hand, character3d.rightArm.forearm, character3d.rightArm.hand, character3d.leftLeg.lowerLeg, character3d.rightLeg.lowerLeg], c.faceColor);
   setGroupColor([character3d.leftEye, character3d.rightEye], c.eyeColor);
-  setGroupColor([character3d.torso, character3d.leftArm.sleeve, character3d.rightArm.sleeve], c.shirtColor);
+  setGroupColor([character3d.torso, character3d.leftArm.shoulderCap, character3d.leftArm.sleeve, character3d.rightArm.shoulderCap, character3d.rightArm.sleeve], c.shirtColor);
   setGroupColor([character3d.shirtSeam], c.shirtColor);
   setGroupColor([character3d.shorts, character3d.leftLeg.pant, character3d.rightLeg.pant], c.pantsColor);
-  setGroupColor([character3d.leftLeg.shoe, character3d.rightLeg.shoe], c.shoesColor);
+  setGroupColor([...character3d.leftLeg.shoeParts, ...character3d.rightLeg.shoeParts], c.shoesColor);
+  setGroupColor([character3d.leftLeg.sole, character3d.rightLeg.sole], shadeHex(c.shoesColor, -0.34));
+  setGroupColor([character3d.leftLeg.stripe, character3d.rightLeg.stripe], shadeHex(c.shoesColor, 0.48));
   setGroupColor([character3d.hair, ...character3d.hairTufts], c.hairColor);
   character3d.hair.visible = c.hair !== "none";
   character3d.hairTufts.forEach((tuft) => { tuft.visible = c.hair !== "none"; });
@@ -6104,17 +6152,69 @@ function updateCharacterVisuals() {
   character3d.rightEyeWhite.scale.copy(character3d.leftEyeWhite.scale);
   character3d.nose.scale.set(c.nose === "sharp" ? 0.9 : c.nose === "cute" ? 0.76 : 1, c.nose === "straight" ? 1.2 : 1, c.nose === "sharp" ? 1.24 : 1);
   character3d.mouth.scale.set(c.mouth === "grin" ? 1.45 : c.mouth === "neutral" ? 1.05 : c.mouth === "surprised" ? 0.62 : 1, c.mouth === "surprised" ? 1.7 : c.mouth === "neutral" ? 0.35 : 1, 1);
-  character3d.leftArm.shoulder.rotation.z = c.arms === "waving" ? 0.9 : c.arms === "athletic" ? 0.36 : 0.2;
-  character3d.rightArm.shoulder.rotation.z = c.arms === "waving" ? -0.9 : c.arms === "athletic" ? -0.36 : -0.2;
-  character3d.leftLeg.leg.position.x = c.legs === "wide" ? -0.34 : -0.25;
-  character3d.rightLeg.leg.position.x = c.legs === "wide" ? 0.34 : 0.25;
-  character3d.leftLeg.leg.rotation.z = c.legs === "athletic" ? 0.08 : 0;
-  character3d.rightLeg.leg.rotation.z = c.legs === "athletic" ? -0.08 : 0;
+  const armPose = {
+    waving: [0.92, -0.92],
+    athletic: [0.36, -0.36],
+    front: [0.04, -0.04],
+    crossed: [-0.58, 0.58],
+    pointing: [0.18, -1.05],
+    hero: [0.28, -0.28],
+    running: [-0.72, 0.72],
+    open: [0.54, -0.54],
+    thinking: [0.16, -0.76],
+    dance: [-0.95, 0.44],
+    ready: [0.28, -0.28],
+    relaxed: [0.12, -0.12]
+  }[c.arms] || [0.12, -0.12];
+  character3d.leftArm.shoulder.rotation.z = armPose[0];
+  character3d.rightArm.shoulder.rotation.z = armPose[1];
+  const legPose = {
+    wide: [-0.36, 0.36, 0, 0],
+    athletic: [-0.32, 0.32, 0.08, -0.08],
+    hero: [-0.35, 0.35, -0.06, 0.06],
+    casual: [-0.27, 0.3, -0.04, -0.02],
+    runner: [-0.31, 0.3, 0.14, -0.16],
+    step: [-0.26, 0.31, 0.02, -0.1],
+    balanced: [-0.29, 0.29, 0, 0],
+    narrow: [-0.2, 0.2, 0, 0],
+    dance: [-0.34, 0.26, -0.18, 0.12],
+    skater: [-0.38, 0.38, -0.12, 0.12],
+    power: [-0.4, 0.4, -0.04, 0.04],
+    straight: [-0.27, 0.27, 0, 0]
+  }[c.legs] || [-0.27, 0.27, 0, 0];
+  character3d.leftLeg.leg.position.x = legPose[0];
+  character3d.rightLeg.leg.position.x = legPose[1];
+  character3d.leftLeg.leg.rotation.z = legPose[2];
+  character3d.rightLeg.leg.rotation.z = legPose[3];
   character3d.torso.scale.set(c.shirt === "hoodie" ? 1.14 : c.shirt === "jersey" ? 1.08 : 1.05, 1.08, 0.78);
   character3d.shorts.scale.set(c.pants === "shorts" ? 1.05 : 1, c.pants === "cargo" ? 1.18 : 1, 0.82);
-  character3d.leftLeg.shoe.scale.set(c.shoes === "boots" ? 1.08 : c.shoes === "formal" ? 0.94 : 1, c.shoes === "boots" ? 1.18 : 1, c.shoes === "trainers" ? 1.16 : 1);
+  const shoeScale = {
+    boots: [1.1, 1.22, 1.08],
+    "work-boots": [1.14, 1.28, 1.12],
+    formal: [0.94, 0.94, 0.94],
+    trainers: [1.08, 1, 1.18],
+    sneakers: [1.16, 1.06, 1.2],
+    "high-top": [1.12, 1.2, 1.1],
+    runner: [1.08, 0.95, 1.24],
+    sandals: [0.96, 0.78, 1.02],
+    cleats: [1.08, 1, 1.16],
+    "slip-ons": [1.02, 0.9, 1.08],
+    space: [1.22, 1.32, 1.18],
+    retro: [1.14, 1.08, 1.16]
+  }[c.shoes] || [1, 1, 1.12];
+  character3d.leftLeg.shoe.scale.set(...shoeScale);
   character3d.rightLeg.shoe.scale.copy(character3d.leftLeg.shoe.scale);
   animateCharacter3d();
+}
+
+function shadeHex(hex, amount) {
+  const raw = String(hex || "#111827").replace("#", "");
+  const full = raw.length === 3 ? raw.split("").map((ch) => ch + ch).join("") : raw.padEnd(6, "0").slice(0, 6);
+  const value = parseInt(full, 16);
+  const mix = amount >= 0 ? 255 : 0;
+  const ratio = Math.min(1, Math.abs(amount));
+  const channel = (shift) => Math.round(((value >> shift) & 255) * (1 - ratio) + mix * ratio);
+  return (channel(16) << 16) + (channel(8) << 8) + channel(0);
 }
 
 function initCharacterCanvasFallback() {

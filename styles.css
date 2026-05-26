@@ -1791,7 +1791,12 @@ select, input, textarea {
   box-shadow: 0 10px 22px rgba(15, 23, 42, 0.14);
 }
 
+.auto-rotate-toggle span {
+  order: 1;
+}
+
 .auto-rotate-toggle input {
+  order: 2;
   width: 18px;
   height: 18px;
   accent-color: var(--primary);
@@ -3069,6 +3074,15 @@ select, input, textarea {
 .control-group select {
   width: 100%;
   font-weight: 600;
+  background: #020617;
+  color: #f8fafc;
+  border-color: rgba(96, 165, 250, 0.65);
+}
+
+.control-group select option,
+.customizer-controls select option {
+  background: #020617;
+  color: #f8fafc;
 }
 
 .color-pickers-section {
@@ -4018,6 +4032,17 @@ select, input, textarea {
 
 .character-customization-panel .color-picker-item {
   color: #f8fafc;
+}
+
+.character-customization-panel select,
+.character-customization-panel select option {
+  background: #020617 !important;
+  color: #f8fafc !important;
+}
+
+.character-customization-panel select option:checked {
+  background: #1d4ed8 !important;
+  color: #ffffff !important;
 }
 
 .auto-rotate-toggle {
