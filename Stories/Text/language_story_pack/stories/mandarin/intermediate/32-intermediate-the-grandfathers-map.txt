@@ -1,0 +1,39 @@
+Story 32: The Grandfather's Map
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 441-464 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+小学生小明在祖父的书房里找书。他拉开旧书桌的抽屉，在最深处发现了一张旧纸。那是祖父小时候亲手画的一张附近森林的地图，上面画着一个红叉。
+
+Page 2:
+小明和他的朋友决定根据这张地图去森林。他们把古老特殊的树木作为路标，走向更深处。很快，他们发现了一口被绿色野草覆盖的旧石井，和地图上画的一模一样。
+
+Page 3:
+他们往井里看去，发现了一个塑料小盒子。打开盒子，里面有一枚古旧的硬币和一张写着祖父小时候名字的字条。孩子们找到了来自过去的问候，感到非常兴奋。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Elementary school student Xiao Ming was looking for
+a book in his grandfather's study. He opened an old desk drawer and found an old
+piece of paper at the very bottom. It was an old map of the nearby forest drawn
+by his grandfather when he was a child, with a red "X" marked on it.
+
+Page 2:
+Xiao Ming and his friend decided to go to the
+forest using this map. They used old, unique trees as landmarks and went deeper.
+Soon they found an old stone well covered with green wild grass, exactly like
+the one on the map.
+
+Page 3:
+They looked into the well and found a small plastic
+box. When they opened the box, inside was an old coin and a note with their
+grandfather's childhood name. The children found a greeting from the past and
+felt very excited.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

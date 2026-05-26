@@ -1,0 +1,18 @@
+Story 06: The Plan
+Language: Japanese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 45-52 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+彼は「時間がない」と言いました。もし彼らが仕事をするなら、どのようにしますか？それは良い計画になるでしょう。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+He said, "There is no time." If they do their work, how will they do it? It will be a good plan.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

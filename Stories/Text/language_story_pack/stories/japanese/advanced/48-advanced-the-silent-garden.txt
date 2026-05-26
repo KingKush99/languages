@@ -1,0 +1,50 @@
+Story 48: The Silent Garden
+Language: Japanese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 896-930 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+庭園デザイナーのハルは、町の古いお寺にある伝統的な日本庭園を修復する依頼を受けました。
+
+Page 2:
+彼女は、庭の構造を慎重に計画しました。大きな石を配置し、小さな砂の波を作って自然の川を表現しました。
+
+Page 3:
+日陰には美しい苔を植え、季節ごとに違った色を見せる美しい桜の木を庭の中心に植えました。
+
+Page 4:
+彼女は、お寺を訪れる人々が静かに自分自身と向き合えるような、穏やかな空間を創り出すために努力しました。
+
+Page 5:
+修復された庭園は、多くの人々に心の休息を与える場所になりました。ハルは、伝統の美しさを未来に繋ぐ価値を感じました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Haru, a garden designer, received a request to
+restore a traditional Japanese garden at an old temple in town.
+
+Page 2:
+She carefully planned the structure of the garden.
+She arranged large stones and made small waves in the sand to express a natural
+river.
+
+Page 3:
+She planted beautiful moss in the shade and planted
+a beautiful cherry blossom tree in the center of the garden, which shows
+different colors each season.
+
+Page 4:
+She worked hard to create a calm space where people
+visiting the temple could quietly face themselves.
+
+Page 5:
+The restored garden became a place that gave many
+people peace of mind. Haru felt the value of connecting traditional beauty to
+the future.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

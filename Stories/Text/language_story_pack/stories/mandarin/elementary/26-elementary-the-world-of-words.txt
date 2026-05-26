@@ -1,0 +1,28 @@
+Story 26: The World of Words
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 306-320 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+词语为我们打开新的道路，完全改变我们对生活的理解。每天，我都研究新词的意思，并写在笔记本上以便记住它们。
+
+Page 2:
+读书帮助人建造自己独特的内心世界。通过大量的阅读，我们开始更好地理解他人，并对周围的每个人变得更加温和与善良。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Words open new paths for us and completely change
+our understanding of life. Every day, I study the meanings of new words and
+write them in my notebook to remember them.
+
+Page 2:
+Reading books helps a person build their own unique
+inner world. Through a large amount of reading, we begin to better understand
+others and become gentler and kinder to everyone around us.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

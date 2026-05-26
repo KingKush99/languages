@@ -1,0 +1,18 @@
+Story 03: A Hot Day
+Language: Japanese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 19-27 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+これは何ですか？これは彼からの言葉です。しかし、今日は暑いです。近くにいくつかの水があります。それは冷たいです。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+What is this? This is a word from him. But today is hot. There is some water nearby. It is cold.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

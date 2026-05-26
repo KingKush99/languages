@@ -1,0 +1,68 @@
+Story 41: The Forest of Tomorrow
+Language: Arabic
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 651-685 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+في المجتمع الحديث، تتطور العلوم والتكنولوجيا بسرعة كبيرة.
+تصبح حياتنا مريحة، لكن الطبيعة الجميلة تعاني غالباً. وفي إحدى المدن الصغيرة،
+أصبح النهر متسخاً بسبب المصانع. قرر العالم الشاب فريد إصلاح هذه المشكلة
+البيئية.
+
+Page 2:
+اقترح فريد بناء نظام جديد لتنقية المياه. لكن مدراء المصانع
+وبعض سكان المدينة كانوا ضد الفكرة. كانوا يعتقدون أن هذا مكلف للغاية وسوف يضر
+بالاقتصاد المحلي. لم يستسلم فريد واحتفظ بلغة الحوار المستمر.
+
+Page 3:
+بعد نقاشات طويلة، قرروا إجراء الاختبار الأول للآلة. وضع
+العلماء الأجهزة عند النهر. لكن الاختبار فشل بسبب عطل مفاجئ في المحرك. تدفقت
+المياه المتسخة مجدداً إلى النهر، وبدأ الناس يشعرون بالغضب الشديد.
+
+Page 4:
+اعترف فريد بخطئه وبدأ يبحث عن سبب العطل بحرص. عمل طوال
+الليل لإصلاح الجهاز وجعله آمناً تماماً. رأى مدير المصنع عمله المخلص وجهده
+الكبير، وقرر أن يعطيه فرصة أخيرة وداعمة.
+
+Page 5:
+نجح الاختبار الثاني نجاحاً كبيراً. أصبحت مياه النهر نظيفة
+تماماً وصالحة للاستخدام. وبعد سنوات قليلة، عادت الأسماك إلى النهر. غدت المدينة
+نموذجاً متميزاً للانسجام التام بين التطور والاقتصاد وحماية الطبيعة الخضراء.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In modern society, science and technology develop
+very rapidly. Our lives become convenient, but beautiful nature often suffers.
+In one small town, the river became dirty because of factories. The young
+scientist, Fred, decided to fix this environmental problem.
+
+Page 2:
+Fred proposed building a new water purification
+system. But the factory directors and some town residents were against the idea.
+They believed that this was too expensive and would harm the local economy. Fred
+did not give up and kept up the continuous dialogue.
+
+Page 3:
+After long discussions, they decided to conduct the
+first test of the machine. The scientists placed the equipment near the river.
+But the test failed due to a sudden engine breakdown. Dirty water flowed into
+the river again, and people began to feel very angry.
+
+Page 4:
+Fred admitted his mistake and began carefully
+looking for the cause of the breakdown. He worked all night to repair the device
+and make it completely safe. The factory director saw his sincere work and great
+effort, and decided to give him one last, supportive opportunity.
+
+Page 5:
+The second test was a great success. The river
+water became completely clean and fit for use. A few years later, fish returned
+to the river. The city became a distinct model of complete harmony between
+development, economy, and protecting green nature.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,28 @@
+Story 19: The Father's Letter
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 197-212 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+父は仕事のために遠い大きな港の町に行っていました。ある日、家にお父さんからの手紙が届きました。私は嬉しくて、すぐに封筒を開けました。
+
+Page 2:
+手紙には、その土地の美しい景色や、新しい人々との出会いについて書かれていました。父は「またすぐに帰るよ」と書いていました。私は安心しました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+My father went to a distant, large port town for
+work. One day, a letter from my father arrived at the house. I was happy and
+opened the envelope immediately.
+
+Page 2:
+Written in the letter were details about the
+beautiful scenery of that land and meetings with new people. My father wrote, "I
+will return again soon." I felt relieved.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

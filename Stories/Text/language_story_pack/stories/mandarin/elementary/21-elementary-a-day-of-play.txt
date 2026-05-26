@@ -1,0 +1,28 @@
+Story 21: A Day of Play
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 229-244 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+今天是学校的假日。小孩子们聚集在房子附近开阔的广场上。大家开始活泼地玩耍。天气很好，吹着舒服的微风。
+
+Page 2:
+他们一直玩到傍晚。在一天的结束时，大家在草地上坐成一个大圆圈，互相讲述着自己在书里读过的有趣故事。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Today is a school holiday. Small children gathered
+in the open square near the houses. Everyone started playing lively. The weather
+was great, and a comfortable breeze was blowing.
+
+Page 2:
+They played until evening. At the end of the day,
+everyone sat in a big circle on the grass, telling each other interesting
+stories they had read in books.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

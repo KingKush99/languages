@@ -1,0 +1,46 @@
+Story 38: The Old Lighthouse
+Language: Arabic
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 582-604 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+على جرف صخري مرتفع يقع على البحر الأزرق، كانت تقف منارة
+حجرية قديمة. في الوقت الحالي، لم تكن تعمل بسبب استخدام السفن للأنظمة الحديثة
+والمتقدمة. قررت هند ووالدها الذهاب إلى هناك في رحلة ترفيهية يوم الأحد.
+
+Page 2:
+فتح الاثنان الباب الخشبي الثقيل ودخلا إلى المنارة. كان الجو
+في الداخل بارداً، وكان هناك درج حجري طويل ملتف يقود إلى الأعلى. بدأت هند في
+الصعود بحذر شديد خطوة بخطوة وهي تمسك بيد والدها بقوة.
+
+Page 3:
+في الأعلى على الشرفة، كانت الرياح تهب بقوة. ظهر أمامهم منظر
+رائع للبحر الأزرق الواسع وأمواجه الكبيرة. فكرت هند في الأشخاص الطيبين الذين
+عاشوا هناك ذات يوم وكانوا يساعدون السفن ويحمون حياتها أثناء العواصف
+الشديدة.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+On a high rocky cliff by the blue sea, an old stone
+lighthouse stood. At the present time, it did not work due to ships using modern
+and advanced systems. Hind and her father decided to go there on a leisure trip
+on Sunday.
+
+Page 2:
+The two opened the heavy wooden door and entered
+the lighthouse. It was cool inside, and there was a long, spiral stone staircase
+leading upward. Hind began to climb carefully step by step, holding her father's
+hand tightly.
+
+Page 3:
+At the top on the balcony, the wind was blowing
+strongly. A wonderful view of the vast blue sea and its large waves opened up
+before them. Hind thought of the kind people who once lived there and helped
+ships and saved lives during severe storms.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

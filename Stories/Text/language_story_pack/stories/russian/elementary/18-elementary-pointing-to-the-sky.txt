@@ -1,0 +1,32 @@
+Story 18: Pointing to the Sky
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 181-196 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Когда мы поднялись на вершину высокой горы, синее небо
+показалось очень близким. Дул сильный холодный ветер, но яркий свет солнца
+делал мир вокруг прекрасным.
+
+Page 2:
+Отец указал рукой на небо и сказал: «Посмотри на этих
+больших птиц. Они летят в далекие теплые края». Мы долго стояли и тихо
+провожали их глазами.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+When we climbed to the top of the high mountain,
+the blue sky seemed very close. A strong, cold wind was blowing, but the bright
+light of the sun made the world around us beautiful.
+
+Page 2:
+Father pointed his hand to the sky and said: "Look
+at those big birds. They are flying to distant, warm lands." We stood for a long
+time and quietly followed them with our eyes.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

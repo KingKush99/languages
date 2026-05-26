@@ -1,0 +1,33 @@
+Story 18: Pointing to the Sky
+Language: Hindi
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 181-196 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+जब हम ऊँचे पहाड़ की चोटी पर पहुँचे, तो नीला आसमान हमारे बहुत
+पास लग रहा था। हवा ठंडी और तेज़ चल रही थी, लेकिन तेज़ धूप ने चारों ओर की दुनिया
+को सुंदर बना दिया था।
+
+Page 2:
+पिताजी ने हाथ से आसमान की ओर इशारा किया और कहा, "उन बड़े
+पक्षियों को देखो, वे सब एक साथ दूर और गर्म देश की ओर उड़ रहे हैं।" हम
+वहीं खड़े होकर उन्हें देखते रहे।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+When we climbed up to the top of the high mountain,
+the blue sky seemed very close to us. The wind blew cold and strong, but the
+bright sunlight made the world around us incredibly beautiful.
+
+Page 2:
+My father pointed to the sky with his hand and
+said: "Look at those beautiful big birds. They are flying together to a distant
+and warm land." We stood there quietly, watching them fly away. === END OF
+STORY 18 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

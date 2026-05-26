@@ -1,0 +1,32 @@
+Story 14: The New House
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 117-132 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Мы выбрали эту тихую землю, чтобы построить наш новый дом.
+Рядом течет чистая река, и каждый день слышны голоса птиц. Наша новая жизнь
+начинается на этом месте сегодня.
+
+Page 2:
+Отец и я начали делать маленький сад около нашего дома. Мы
+посадили там красивые цветы. Мама смотрела на нас из окна дома и очень
+по-доброму помогала нам.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+We chose this quiet land to build our new house. A
+clean river flows nearby, and the voices of birds are heard every day. Our new
+life begins at this place today.
+
+Page 2:
+Father and I started making a small garden near our
+house. We planted beautiful flowers there. Mom watched us from the house window
+and helped us very kindly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,47 @@
+Story 27: The Old Clock
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 321-344 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+В одну субботу Антон решил убраться на старом чердаке
+своего дома. Там лежало много старых коробок и сломанной мебели. В углу
+комнаты он заметил большие старинные деревянные часы. Они не двигались много
+лет и были покрыты пылью.
+
+Page 2:
+Антон открыл стеклянную дверцу часов и стал осматривать их
+изнутри. За тяжелым маятником он нашел маленький медный ключ. Он взял его в руку
+и попробовал вставить в отверстие сбоку. Ключ подошел очень легко и мягко.
+
+Page 3:
+Он медленно повернул ключ, и часы начали тихо тикать.
+Стрелки пошли по кругу, и вскоре по дому разнесся красивый звук
+колокольчика. Этот звук любил слушать его дедушка много лет назад.
+На душе Антона стало тепло и радостно.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+On a Saturday, Anton decided to clean up the old
+attic of his house. There were many old boxes and broken furniture. In the
+corner of the room, he noticed a large, antique wooden clock. It had not moved
+for many years and was covered in dust.
+
+Page 2:
+Anton opened the clock's glass door and began
+examining it from the inside. Behind the heavy pendulum, he found a small brass
+key. He took it in his hand and tried inserting it into a hole on the side. The
+key fit very easily and softly.
+
+Page 3:
+He slowly turned the key, and the clock began to
+tick quietly. The hands moved in a circle, and soon the beautiful sound of a
+chime spread through the house. His grandfather had loved listening to this
+sound many years ago. Anton felt warm and happy in his soul.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

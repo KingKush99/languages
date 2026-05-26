@@ -1,0 +1,62 @@
+Story 44: The Deep Ocean
+Language: Hindi
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 756-790 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+वैज्ञानिक रोहन ने पानी के नीचे जाने वाली एक नई मशीन बनाई।
+उन्होंने समुद्र के सबसे गहरे बिंदु पर जाने की योजना बनाई ताकि वे वहाँ की
+अनदेखी दुनिया को देख सकें।
+
+Page 2:
+कई हज़ार मीटर की गहराई पर पूरा अंधेरा था। लेकिन मशीन की
+शक्तिशाली रोशनी ने रेत, पत्थरों और अजीब पौधों की एक अनजान दुनिया को
+दिखाया।
+
+Page 3:
+अचानक रोहन ने एक छोटा चमकता हुआ जीव देखा। यह एक नई प्रजाति
+थी जिसके बारे में विज्ञान को पता नहीं था। उन्होंने उस सुंदर जीव की कई
+तस्वीरें लीं।
+
+Page 4:
+काम के दौरान मशीन की बत्तियाँ कुछ पलों के लिए बंद हो गईं।
+रोहन डरे नहीं। वह मशीन की संरचना को जानते थे और उन्होंने अपने हाथों से
+बिजली की समस्या को ठीक कर दिया।
+
+Page 5:
+रोहन ऊपर आए और अपनी तस्वीरें दुनिया के वैज्ञानिकों को
+दिखाईं। उनकी खोज ने लोगों को महासागर और उसके पर्यावरण की रक्षा के
+महत्व को बेहतर ढंग से समझने में मदद की।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The scientist Rohan built a new underwater vehicle.
+He planned to descend to the deepest point of the sea to study the unknown life
+on the ocean floor.
+
+Page 2:
+At a depth of several thousand meters, there was
+complete darkness. But the vehicle's powerful lamps illuminated an unknown world
+of sand, stones, and strange plants.
+
+Page 3:
+Suddenly, Rohan saw a small glowing animal. It was
+a new species unknown to science. He took many photos of this beautiful
+creature.
+
+Page 4:
+During the operation, the instruments turned off
+for a second. Rohan did not panic. He knew the vehicle's structure and quickly
+fixed the electrical problem with his hands.
+
+Page 5:
+Rohan ascended and showed his pictures to the
+world's scientists. His discovery helped people better understand the ocean
+depths and know the importance of protecting its ecology.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

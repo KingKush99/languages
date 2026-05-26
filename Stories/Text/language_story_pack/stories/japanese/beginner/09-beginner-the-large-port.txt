@@ -1,0 +1,18 @@
+Story 09: The Large Port
+Language: Japanese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 69-76 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+ここは大きな港です。この土地には大きな船があります。ここに名前を正しく書き、綴らなければなりません。追加も必要です。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Here is a large port. There is a big ship on this land. You must write and spell your name correctly here. Addition is also needed.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

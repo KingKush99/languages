@@ -1,0 +1,60 @@
+Story 46: The Digital Heritage
+Language: Russian
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 826-860 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Программист Алексей нашел в доме бабушки старый
+черно-белый фотоальбом. Там были фотографии его семьи и картины жизни
+города сто лет назад.
+
+Page 2:
+Алексей решил перевести эти снимки в цифровой формат,
+чтобы сохранить историю семьи. Он понимал, что бумага со временем может
+испортиться.
+
+Page 3:
+Он использовал сканер и написал специальную программу на
+компьютере. Программа удаляла пыль с изображений и делала старые лица четкими.
+
+Page 4:
+Алексей выложил готовый альбом в интернет и отправил
+ссылку всем родственникам в другие города. Все были удивлены и рады
+увидеть свои корни.
+
+Page 5:
+Благодаря современным технологиям история семьи была
+спасена для будущих детей. Алексей понял, что его знания могут служить
+добрым целям общества.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The programmer Alexey found an old black-and-white
+photo album in his grandmother's house. There were photographs of his family and
+pictures of the town's life a hundred years ago.
+
+Page 2:
+Alexey decided to convert these pictures into a
+digital format to preserve the family's history. He understood that paper could
+deteriorate over time.
+
+Page 3:
+He used a scanner and wrote a special program on
+his computer. The program removed dust from the images and made old faces clear.
+
+Page 4:
+Alexey uploaded the completed album to the internet
+and sent the link to all relatives in other cities. Everyone was surprised and
+glad to see their roots.
+
+Page 5:
+Thanks to modern technologies, the family's history
+was saved for future children. Alexey realized that his knowledge could serve
+the good goals of society.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

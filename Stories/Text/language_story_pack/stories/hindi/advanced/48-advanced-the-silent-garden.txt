@@ -1,0 +1,59 @@
+Story 48: The Silent Garden
+Language: Hindi
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 896-930 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+माली गीता को शहर के बाहर एक पुराने मंदिर के बगीचे को ठीक
+करने का काम मिला। यह बगीचा कई सालों से खाली पड़ा था और जंगली घास से भरा
+था।
+
+Page 2:
+उसने बगीचे का नया नक्शा बनाया। उसने पानी के पास बड़े भूरे
+पत्थर रखने और लोगों के घूमने के लिए छोटे रास्ते बनाने का फैसला किया।
+
+Page 3:
+गीता ने छायादार जगह पर नरम हरी काई लगाई और बगीचे के बीच में
+सुंदर पेड़ लगाए। ये पेड़ साल के अलग-अलग समय में अपना रंग बदलते थे।
+
+Page 4:
+वह एक ऐसी जगह बनाना चाहती थी जहाँ कोई भी शहर की समस्याओं को
+भूल सके, शांति से बैठ सके और अपने जीवन के बारे में सोच सके।
+
+Page 5:
+बगीचा लोगों के लिए शांति का असली स्थान बन गया। लोग वहाँ पानी
+और हवा की आवाज़ सुनने आते थे। गीता खुश थी कि वह पुरानी ज़मीन की सुंदरता वापस ला
+सकी।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The gardener Geeta received a request to restore
+the garden of an old monastery in the suburbs. This garden had been abandoned
+many years ago and was overgrown with wild grass.
+
+Page 2:
+She drew a new plan for the garden. She decided to
+place large grey stones near the water pool and make smooth sandy paths for
+quiet walks for visitors.
+
+Page 3:
+Geeta planted soft green moss in the shade and
+beautiful trees in the center of the garden. These trees were supposed to change
+their color at different times of the year.
+
+Page 4:
+She wanted to create a place where every person
+could forget about city problems, sit in silence, and think about their life and
+soul.
+
+Page 5:
+The garden became a true place of peace for people.
+They came to listen to the water and the wind. Geeta was glad she could return
+beauty to the old land.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

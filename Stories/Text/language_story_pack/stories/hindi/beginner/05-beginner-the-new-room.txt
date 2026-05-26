@@ -1,0 +1,20 @@
+Story 05: The New Room
+Language: Hindi
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 37-44 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+हम उस कमरे में थे। कौन सा कमरा? हम बाहर जा सकते हैं। अन्य
+लोग भी बाहर थे।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+We were in that room. Which room? We can go out.
+Other people were outside too.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,39 @@
+Story 34: The Lost Key
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 489-512 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+星期日，小芳在公共公园里和弟弟一起玩。她把书桌的小钥匙放进外套口袋。但在草地上奔跑玩耍时，钥匙掉了出来，这让她很难过。
+
+Page 2:
+夜幕降临，公园里变得有些暗了。弟弟带了一个小手电筒来帮助她。两人一起在巨大的树木附近走动，把光线照向地面，仔细检查每片草地。
+
+Page 3:
+不久，弟弟在一块灰色小石头下注意到了金属的光亮。那是丢失的钥匙！小芳非常高兴，向弟弟道谢。回到家后，她成功打开了书桌的小抽屉。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+On Sunday, Xiao Fang was playing with her younger
+brother in the public park. She put her small desk key in her jacket pocket. But
+while running and playing on the grass, the key fell out, which made her very
+sad.
+
+Page 2:
+Night fell, and it became a bit dark in the park.
+Her brother brought a small flashlight to help her. The two walked together near
+the huge trees, pointing the light toward the ground, carefully checking every
+patch of grass.
+
+Page 3:
+Soon her brother noticed a metallic shine under a
+small grey stone. It was the lost key! Xiao Fang was very happy and thanked her
+brother. Returning home, she successfully opened her small desk drawer. === END
+OF STORY 34 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

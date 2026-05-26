@@ -1,0 +1,39 @@
+Story 35: The River Adventure
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 513-535 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+小杰和他的朋友在学校的劳作课上做了一艘美丽的小木船。他们计划让它在附近的干净河流中航行，观察它在水面上的表现与平衡。
+
+Page 2:
+河水流得很稳，但途中也有一些树枝和石头阻碍。两个男孩沿着岸边奔跑，心里紧张，担心他们的小木船会撞上任何河里的障碍。
+
+Page 3:
+在河流的下流，小杰小心不让自己打湿，回收了小船。船完好无损。朋友们回到家，在笔记本上详细写下了他们对河水流动速度的观察。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Xiao Jie and his friend made a beautiful small
+wooden boat in their school crafts class. They planned to sail it in the clean
+nearby river, observing its performance and balance on the water surface.
+
+Page 2:
+The river flowed smoothly, but there were some
+branches and stones blocking the way. The two boys ran along the bank, feeling
+nervous, worried that their small wooden boat might hit any obstacles in the
+river.
+
+Page 3:
+At the downstream end of the river, Xiao Jie
+carefully retrieved the boat, making sure not to get wet. The boat was
+completely undamaged. The friends returned home and wrote down their
+observations on the river flow's speed in detail in their notebook. === END OF
+STORY 35 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

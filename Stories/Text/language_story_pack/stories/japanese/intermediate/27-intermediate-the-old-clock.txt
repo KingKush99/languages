@@ -1,0 +1,40 @@
+Story 27: The Old Clock
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 321-344 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+ある土曜日の午後、健太は家の古い屋根裏部屋を掃除していました。そこには、多くの古い箱や家具が置かれていました。部屋の隅に、大きな木製の古い時計が立っているのを見つけました。その時計はもう何年も動いていないようで、ほこりがたくさん積もっていました。
+
+Page 2:
+健太は時計のガラスの扉を開けて、中を調べてみました。すると、振り子の後ろに小さな真鍮の鍵が隠されているのを見つけました。彼はその鍵を手に取り、時計の側面にある小さな穴に差し込んでみました。鍵はぴったりと合いました。
+
+Page 3:
+彼が鍵をゆっくりと回すと、カチカチという懐かしい音が聞こえ始めました。時計の針が再び動き出し、美しい鐘の音が部屋中に響きました。それは、祖父が昔よく聞いていた音と同じでした。健太は暖かい気持ちになり、時間の不思議さを感じました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+On a Saturday afternoon, Kenta was cleaning the old
+attic of his house. Many old boxes and furniture were placed there. In the
+corner of the room, he found a large, old wooden clock standing. The clock did
+not seem to have moved for many years, and a lot of dust had accumulated on it.
+
+Page 2:
+Kenta opened the clock's glass door and examined
+the inside. Then, he found a small brass key hidden behind the pendulum. He took
+the key in his hand and tried inserting it into a small hole on the side of the
+clock. The key fit perfectly.
+
+Page 3:
+As he turned the key slowly, a nostalgic ticking
+sound began to be heard. The hands of the clock started moving again, and the
+beautiful sound of a chime echoed throughout the room. It was the same sound his
+grandfather used to listen to long ago. Kenta felt a warm feeling and
+experienced the wonder of time.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

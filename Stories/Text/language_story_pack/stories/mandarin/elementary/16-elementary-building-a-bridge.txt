@@ -1,0 +1,28 @@
+Story 16: Building a Bridge
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 149-164 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+我们村子附近有一条非常宽的河。为了去对岸的土地，我们过去总是要走很长很累的路。这让我们感到非常不方便。
+
+Page 2:
+村民们聚在一起，决定建造一座新的木桥。大家用双手努力工作，大桥终于造好了。现在我们可以非常轻松、快速地过河。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+There is a very wide river near our village. In
+order to go to the land on the other side, we always had to walk a long and
+tiring road in the past. This made us feel very inconvenienced.
+
+Page 2:
+The villagers gathered together and decided to
+build a new wooden bridge. Everyone worked hard with their hands, and the big
+bridge was finally built. Now we can cross the river very easily and quickly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

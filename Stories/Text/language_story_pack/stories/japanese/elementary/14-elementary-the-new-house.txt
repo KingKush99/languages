@@ -1,0 +1,28 @@
+Story 14: The New House
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 117-132 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+私たちは新しい家を建てるために、この静かな土地を選びました。近くには川があり、毎日鳥の歌声が聞こえます。今日からここで新しい生活が始まります。
+
+Page 2:
+父と私は、家の近くに小さな庭を造り始めました。私たちはそこにきれいな花を植えました。母は庭を窓から見て、とても親切に私たちを助けてくれました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+We chose this quiet land to build a new house.
+There is a river nearby, and we can hear birds singing every day. A new life
+begins here starting today.
+
+Page 2:
+My father and I began to build a small garden near
+the house. We planted beautiful flowers there. Watching from the window, my
+mother helped us very kindly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

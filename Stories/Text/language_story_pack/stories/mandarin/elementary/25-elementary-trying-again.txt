@@ -1,0 +1,28 @@
+Story 25: Trying Again
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 291-305 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+一个小女孩想用彩色的纸折一只漂亮的小动物。但是她的第一次尝试没有成功，纸被撕破了。她感到有点难过。
+
+Page 2:
+母亲走过来对她说：“再次尝试一下，让你的手动作更慢一点。”女孩拿了一张干净的新纸，终于折出了一个优秀的形状。她笑了。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+A little girl tried to fold a beautiful small
+animal out of colored paper. But her first attempt did not succeed, and the
+paper tore. She felt a bit sad.
+
+Page 2:
+Her mother came over and said: "Try again, and make
+your hand movements a little slower." The girl took a clean new sheet of paper
+and was finally able to fold an excellent shape. She smiled.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,48 @@
+Story 31: The Mountain Wind
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 417-440 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Рано утром Коля начал подниматься по узкой тропе на
+высокую гору. Дул сильный холодный ветер, но мальчик быстро шел, и ему
+было тепло. Вокруг росли красивые горные цветы и травы, которые радовали его
+глаз.
+
+Page 2:
+Днем небо потемнело и пошел сильный дождь. К счастью,
+впереди стоял маленький домик из камня. Коля быстро побежал туда, чтобы
+переждать дождь. Внутри было сухо, и он смог выпить теплого чая из своего
+термоса.
+
+Page 3:
+Скоро дождь закончился, и на небе снова появилось яркое
+солнце. Коля вышел из домика и поднялся на самую вершину горы. Внизу лежала
+большая зеленая долина. Сильный ветер унес его усталость, и он почувствовал
+радость.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Early in the morning, Kolya began climbing a narrow
+trail up a high mountain. A strong cold wind was blowing, but the boy walked
+quickly and felt warm. Beautiful mountain flowers and herbs grew around him,
+pleasing his eye.
+
+Page 2:
+By afternoon, the sky grew dark and heavy rain
+fell. Fortunately, a small stone cabin stood ahead. Kolya ran there quickly to
+wait out the rain. Inside it was dry, and he was able to drink warm tea from his
+thermos.
+
+Page 3:
+Soon the rain ended, and the bright sun appeared in
+the sky again. Kolya left the cabin and climbed to the very summit of the
+mountain. Below lay a large green valley. The strong wind carried away his
+fatigue, and he felt joy.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

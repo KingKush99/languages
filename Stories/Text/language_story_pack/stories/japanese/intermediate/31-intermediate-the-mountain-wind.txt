@@ -1,0 +1,40 @@
+Story 31: The Mountain Wind
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 417-440 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+翔太は、朝早くから高い山の登山道を進んでいました。風が非常に強く吹いていて、少し寒さを感じましたが、体は歩くことで暖まっていました。登山道の周りには、珍しい山の植物や小さな花が咲いていて、彼の目を励ましてくれました。
+
+Page 2:
+昼頃、突然空が暗くなり、激しい雨が降り始めました。幸いなことに、少し進んだところに石で造られた小さな避難小屋がありました。翔太は急いでその小屋の中に逃げ込み、雨が通り過ぎるのを待ちました。彼はそこで温かいお茶を飲みました。
+
+Page 3:
+一時間ほどすると、雨は止み、空には美しい青空が戻ってきました。翔太が小屋を出て山頂に到達したとき、眼下には雨に洗われて輝く広い谷が広がっていました。強い風が彼の疲れを吹き飛ばし、彼は登山の本当の楽しさを実感しました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Shota was making his way up a high mountain path
+from early morning. The wind was blowing very strongly, and he felt a little
+cold, but his body warmed up by walking. Around the mountain trail, rare
+mountain plants and small flowers were blooming, encouraging his eyes.
+
+Page 2:
+Around noon, the sky suddenly turned dark, and
+heavy rain began to fall. Fortunately, a short distance ahead, there was a small
+shelter built of stone. Shota quickly took refuge inside the shelter and waited
+for the rain to pass. He drank warm tea there.
+
+Page 3:
+After about an hour, the rain stopped, and the
+beautiful blue sky returned. When Shota left the shelter and reached the summit,
+a wide valley washed clean by the rain spread out shining below him. The strong
+wind blew away his fatigue, and he truly realized the real joy of mountain
+climbing.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

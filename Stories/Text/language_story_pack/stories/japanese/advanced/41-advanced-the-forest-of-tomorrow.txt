@@ -1,0 +1,63 @@
+Story 41: The Forest of Tomorrow
+Language: Japanese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 651-685 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+科学と技術が発達した現代社会では、私たちの生活はとても便利になりました。しかし、その一方で、美しい自然環境が失われつつあります。ある小さな町では、川の汚染が進み、魚たちが姿を消していました。若い科学者のハルトは、この問題を解決するために立ち上がりました。
+
+Page 2:
+ハルトは、工場から出る水をきれいにする新しいシステムを提案しました。しかし、工場の責任者や一部の町民は、その計画に反対しました。「新しいシステムを導入するには多くのお金がかかり、町の経済に悪い影響を与える」というのが彼らの意見でした。ハルトは諦めず、対話を続けました。
+
+Page 3:
+数ヶ月の話し合いの後、ついに実験的なテストを行うことが決定しました。ハルトと彼のチームは、工場の近くに装置を設置しました。しかし、最初のテストは機械の故障により、失敗に終わってしまいました。水が溢れ出し、工場の人々は「やはりこの計画は不可能だ」と怒りました。
+
+Page 4:
+ハルトは自分の責任を認め、冷静に失敗の原因を分析しました。彼は寝る間を惜しんで装置を修理し、安全性を高めるための改良を加えました。そのひたむきな態度に心を動かされた工場のオーナーは、「もう一度だけチャンスをあげよう」と、彼を支持することを決めました。
+
+Page 5:
+二回目のテストは大成功を収めました。工場の水は完全にきれいになり、川に戻されました。数年後、川には再び魚たちが戻り、町は「環境と経済が調和した先進的な街」として全国から注目されるようになりました。ハルトは、技術の価値は人々の協力によって実現されるのだと確信しました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In modern society, where science and technology
+have developed, our lives have become very convenient. However, on the other
+hand, the beautiful natural environment is being lost. In a certain small town,
+the pollution of the river was progressing, and the fish were disappearing.
+Haruto, a young scientist, stood up to solve this problem.
+
+Page 2:
+Haruto proposed a new system to clean the water
+coming out of the factory. However, the factory managers and some townspeople
+opposed the plan. "Introducing a new system costs a lot of money and will have a
+bad impact on the town's economy," was their opinion. Haruto did not give up and
+continued the dialogue.
+
+Page 3:
+After several months of discussion, it was finally
+decided to conduct an experimental test. Haruto and his team installed the
+device near the factory. However, the first test ended in failure due to a
+machine malfunction. Water overflowed, and the factory people got angry, saying,
+"As expected, this plan is impossible."
+
+Page 4:
+Haruto admitted his responsibility and calmly
+analyzed the cause of the failure. He spared no time for sleep to repair the
+device and made improvements to increase safety. Touched by his single-minded
+attitude, the factory owner decided to support him, saying, "I will give you
+just one more chance."
+
+Page 5:
+The second test was a huge success. The factory
+water became completely clean and was returned to the river. A few years later,
+the fish returned to the river, and the town attracted attention from all over
+the country as an "advanced town where environment and economy harmonize."
+Haruto was convinced that the value of technology is realized through people's
+cooperation.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

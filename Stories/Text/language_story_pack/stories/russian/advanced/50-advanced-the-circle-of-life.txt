@@ -1,0 +1,59 @@
+Story 50: The Circle of Life
+Language: Russian
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 966-1000 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Биолог Анна много лет изучала экологическую систему
+местного леса. Она следила за тем, как живут маленькие животные и как
+растут деревья.
+
+Page 2:
+Она наблюдала за тем, как упавшие листья превращаются в
+землю, земля дает силу большим деревьям, а деревья служат домом для птиц.
+
+Page 3:
+В выходные Анна привела детей в лес, чтобы показать им эту
+структуру. Она объясняла им, что на нашей Земле вся жизнь связана в один круг.
+
+Page 4:
+Дети сами искали насекомых под листьями и смотрели на
+растения. Они поняли, что человек тоже является частью этого большого круга
+природы.
+
+Page 5:
+Анна увидела интерес в глазах детей. Она поняла, что
+экологическое образование — это лучший способ защитить природу нашей
+планеты в будущем.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The biologist Anna had studied the local forest's
+ecological system for many years. She kept track of how small animals live and
+how trees grow.
+
+Page 2:
+She observed how fallen leaves turn into soil, the
+soil gives strength to big trees, and the trees serve as a home for birds.
+
+Page 3:
+On the weekend, Anna brought children to the forest
+to show them this structure. She explained to them that on our Earth, all life
+is connected in one circle.
+
+Page 4:
+The children searched for insects under leaves
+themselves and looked at plants. They understood that humans are also part of
+this large circle of nature.
+
+Page 5:
+Anna saw interest in the children's eyes. She
+understood that environmental education is the best way to protect our planet's
+nature in the future.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

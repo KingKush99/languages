@@ -1,0 +1,62 @@
+Story 45: The Star Tracker
+Language: Hindi
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 791-825 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+वैज्ञानिक सीमा एक दुर्लभ धूमकेतु के आने का इंतजार कर रही
+थीं। यह धूमकेतु सौ साल में एक बार पृथ्वी के पास आता था। वह उसकी पूंछ की
+तस्वीरें लेना चाहती थीं।
+
+Page 2:
+उन्होंने शहर के बाहर एक पहाड़ी पर बच्चों के लिए तारों को
+देखने का एक छोटा कार्यक्रम रखा। कई बच्चे अपने माता-पिता के साथ आसमान
+देखने आए।
+
+Page 3:
+सीमा ने एक बड़ा टेलीस्कोप ठीक किया और बच्चों को तारे दिखाए।
+वह उन्हें अंतरिक्ष के नियम आसान शब्दों में समझा रही थीं। बच्चों ने ध्यान से
+सुना।
+
+Page 4:
+आखिरकार चमकीला धूमकेतु आसमान में आ गया। उसकी रोशनी ने रात
+में एक सुंदर रेखा बनाई। सब चुप हो गए और प्रकृति के इस सुंदर नज़ारे को
+देखने लगे।
+
+Page 5:
+इस शाम ने बच्चों को विज्ञान से प्यार करना सिखाया। उनमें से
+कुछ ने भविष्य में वैज्ञानिक बनने का फैसला किया। सीमा ने समझा कि उनके काम का
+बड़ा मूल्य है।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The astronomer Seema was waiting for the appearance
+of a rare comet. This comet approached Earth once every hundred years. She
+wanted to take high-quality pictures of its tail.
+
+Page 2:
+She organized a small evening school for children
+on a hill outside the town. Many children came with their parents to look at the
+sky.
+
+Page 3:
+Seema adjusted the large telescope and showed the
+children constellations. She explained the laws of space to them in simple and
+clear words. The children listened with interest.
+
+Page 4:
+Finally, the bright comet appeared in the dark sky.
+Its bright light left a long line in the heavens. Everyone fell silent and
+looked in awe at this miracle of nature.
+
+Page 5:
+This evening helped the children fall in love with
+science. Some of them decided to become astronomers in the future. Seema
+realized that her work holds great value.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

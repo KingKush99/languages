@@ -1,0 +1,29 @@
+Story 13: The Lost Dog
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 101-116 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+ある日、女の子は近くの森で小さな犬を見つけました。その犬は迷子になっていたようで、とても寒そうにしていました。女の子は優しく話しかけ、犬を安心させました。
+
+Page 2:
+彼女は犬を自分の家に連れて帰り、温かい食べ物を与えました。犬は嬉しそうに尾を振りました。彼女の母と父も犬を家族として迎え入れることに同意し、みんな幸せになりました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+One day, a girl found a small dog in the nearby
+forest. The dog seemed to be lost and looked very cold. The girl spoke to it
+gently and made it feel safe.
+
+Page 2:
+She took the dog back to her house and gave it warm
+food. The dog wagged its tail happily. Her mother and father also agreed to
+welcome the dog as a family member, and everyone became happy. === END OF
+STORY 13 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

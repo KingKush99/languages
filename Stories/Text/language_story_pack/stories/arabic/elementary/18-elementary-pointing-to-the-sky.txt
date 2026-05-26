@@ -1,0 +1,34 @@
+Story 18: Pointing to the Sky
+Language: Arabic
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 181-196 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+عندما صعدنا إلى قمة الجبل المرتفع، بدت السماء الزرقاء قريبة
+جداً منا. كانت الرياح تهب ببرودة وقوة، لكن ضوء الشمس المشرق جعل العالم من حولنا
+جميلاً ورائعاً.
+
+Page 2:
+أشار والدي بيده إلى السماء وقال: "انظر إلى تلك الطيور
+الكبيرة والجميلة. إنها تطير معاً إلى بلاد دافئة وبعيدة". وقفنا هناك طويلاً
+نراقب حركتها بهدوء تام.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+When we climbed to the top of the high mountain,
+the blue sky seemed very close to us. The wind was blowing coldly and strongly,
+but the bright light of the sun made the world around us beautiful and
+wonderful.
+
+Page 2:
+My father pointed with his hand to the sky and
+said: "Look at those big, beautiful birds. They are flying together to warm,
+distant lands." We stood there for a long time watching their movement in
+complete quiet.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

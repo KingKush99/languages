@@ -1,0 +1,42 @@
+Story 29: The City by the Sea
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 369-392 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+拓海は、海沿いにある美しい港町に住んでいました。毎年夏になると、この町では大きなお祭りが開催されます。港には色とりどりの旗が飾られ、美味しい食べ物の屋台がたくさん並びます。夕方になると、多くの人々が浴衣を着て集まり始めました。
+
+Page 2:
+拓海は、港の近くで古い漁師の源さんに出会いました。源さんは、若い頃に経験した遠い海への航海の話をしてくれました。嵐の中で見た不思議な青い光や、巨大な魚の話に、拓海は目を輝かせて聞き入りました。それは冒険への憧れを強くさせるものでした。
+
+Page 3:
+夜が深まると、お祭りのハイライトである花火が始まりました。大きな音が響き、暗い空に美しい光の大輪の花が次々と咲きました。海の水面にもその光が映り、街全体が輝いているようでした。拓海は、この美しい故郷の景色を誇りに思いました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Takumi lived in a beautiful port town along the
+sea. Every summer, a large festival is held in this town. Various colorful flags
+are decorated at the port, and many stalls of delicious food stand in a row. As
+evening approached, many people wearing yukata began to gather.
+
+Page 2:
+Takumi met Gen-san, an old fisherman, near the
+port. Gen-san told him stories of sea voyages to distant oceans that he had
+experienced when he was young. Takumi listened with shining eyes to the stories
+of the mysterious blue light seen in the storm and the giant fish. It was
+something that strengthened his longing for adventure.
+
+Page 3:
+As the night deepened, the fireworks, which were
+the highlight of the festival, began. A loud sound echoed, and large flowers of
+beautiful light bloomed one after another in the dark sky. The light was also
+reflected on the sea's surface, making the entire town look as if it were
+glowing. Takumi felt proud of the beautiful scenery of his hometown. === END OF
+STORY 29 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

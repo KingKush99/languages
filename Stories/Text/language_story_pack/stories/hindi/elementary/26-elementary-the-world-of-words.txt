@@ -1,0 +1,32 @@
+Story 26: The World of Words
+Language: Hindi
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 306-320 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+शब्द हमारे लिए नए रास्ते खोलते हैं और जीवन के प्रति हमारी
+समझ को पूरी तरह बदल देते हैं। हर दिन मैं नए शब्दों का अर्थ सीखता हूँ और
+उन्हें अपनी डायरी में लिखता हूँ।
+
+Page 2:
+किताबें पढ़ना इंसान को अपना खुद का एक सुंदर आंतरिक संसार
+बनाने में मदद करता है। बहुत पढ़ने से हम दूसरों को बेहतर ढंग से समझने
+लगते हैं और सभी के लिए दयालु बनते हैं।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Words open new paths for us and completely change
+our understanding of life. Every day, I study the meanings of new words and
+write them in my notebook to remember them.
+
+Page 2:
+Reading books helps a person build their own unique
+inner world. Through a large amount of reading, we begin to better understand
+others and become gentler and kinder to everyone around us.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

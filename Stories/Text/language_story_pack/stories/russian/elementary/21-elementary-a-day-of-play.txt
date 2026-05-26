@@ -1,0 +1,32 @@
+Story 21: A Day of Play
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 229-244 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Сегодня в школе не было уроков. Маленькие дети собрались
+на открытом месте возле дома. Они начали играть вместе. Солнце светило ярко, и
+дул приятный ветер.
+
+Page 2:
+Они бегали и играли до самого вечера. В конце дня все
+уселись в один большой круг на траве. Они рассказывали друг другу
+интересные истории, которые читали в книгах.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Today there were no classes at school. Small
+children gathered in an open place near the house. They started playing
+together. The sun was shining brightly, and a pleasant wind blew.
+
+Page 2:
+They ran and played until the very evening. At the
+end of the day, everyone sat down in one big circle on the grass. They told each
+other interesting stories they had read in books.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

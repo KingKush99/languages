@@ -1,0 +1,28 @@
+Story 22: Small Endings
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 245-260 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+すべてのことには終わりがあります。しかし、一つの終わりは、常に新しいことの始まりを意味しています。男の子は古いおもちゃを箱に置きました。
+
+Page 2:
+彼はもう大きくなりました。彼は新しい本を読み、自分で新しい計画を立てる必要があります。彼は未来に向かって笑顔で歩き始めました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+There is an end to all things. However, one ending
+always means the beginning of something new. The boy put his old toys in the
+box.
+
+Page 2:
+He has already grown up. He needs to read new books
+and make new plans himself. He began walking toward the future with a smile. ===
+END OF STORY 22 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

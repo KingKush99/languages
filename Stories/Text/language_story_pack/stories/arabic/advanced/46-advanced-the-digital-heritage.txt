@@ -1,0 +1,65 @@
+Story 46: The Digital Heritage
+Language: Arabic
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 826-860 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+عثر المبرمج سمير في منزل جدته القديم على ألبوم صور أسود
+وأبيض قديم جداً. كانت هناك صور لعائلته ولقطات توضح معالم الحياة في المدينة
+قبل مئة عام.
+
+Page 2:
+قرر سمير تحويل هذه الصور واللقطات إلى تنسيق رقمي حديث لحفظ
+تاريخ العائلة من الضياع. كان يدرك جيداً أن الورق القديم قد يتلف مع مرور السنوات
+الطويلة.
+
+Page 3:
+استخدم سمير جهاز المسح الضوئي وكتب برنامجاً خاصاً على
+حاسوبه الشخصي. كان هذا البرنامج يزيل الغبار والخدوش من الصور ويجعل الوجوه
+القديمة واضحة وجميلة للغاية.
+
+Page 4:
+نشر سمير الألبوم الرقمي الجاهز على شبكة الإنترنت وأرسل
+الرابط إلى جميع أقاربه في المدن الأخرى. غمرت السعادة قلوب الجميع لرؤية
+جذورهم وتاريخ عائلتهم المشترك بالصور.
+
+Page 5:
+بفضل التكنولوجيا الحديثة والمتقدمة، تم حفظ تاريخ العائلة
+بأمان تام للأطفال والأجيال القادمة. فهم سمير أن مهاراته التقنية يمكنها أن
+تخدم أهدافاً طيبة ونبيلة في المجتمع.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The programmer Samir found a very old
+black-and-white photo album in his grandmother's old house. There were photos of
+his family and shots illustrating the features of life in the city a hundred
+years ago.
+
+Page 2:
+Samir decided to convert these photos and shots
+into a modern digital format to preserve the family history from loss. He
+understood well that old paper could get damaged with the passage of many years.
+
+Page 3:
+Samir used a scanner and wrote a special program on
+his personal computer. This program removed dust and scratches from the photos
+and made old faces extremely clear and beautiful.
+
+Page 4:
+Samir published the completed digital album on the
+internet and sent the link to all his relatives in other cities. Happiness
+filled everyone's hearts to see their roots and shared family history through
+the pictures.
+
+Page 5:
+Thanks to modern and advanced technology, the
+family history was saved completely safely for children and future generations.
+Samir understood that his technical skills could serve kind and noble goals in
+society.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

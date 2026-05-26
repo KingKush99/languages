@@ -1,0 +1,32 @@
+Story 22: Small Endings
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 245-260 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Каждая вещь имеет свой конец. Но один конец всегда
+означает начало чего-то нового. Мальчик сложил все свои маленькие
+игрушки в большую коробку.
+
+Page 2:
+Он стал старше и больше не играл в них. Теперь ему нужно
+читать другие книги и самому делать новые планы на жизнь. Он улыбнулся и
+уверенно пошел вперед в свое будущее.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Every thing has its end. But one ending always
+means the beginning of something new. The boy put all his small toys into a big
+box.
+
+Page 2:
+He grew older and did not play with them anymore.
+Now he needs to read other books and make new plans for life himself. He smiled
+and confidently walked forward into his future.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,29 @@
+Story 24: High Lands
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 276-290 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+我们制定了一个计划，准备爬上一座非常高的山。那座山高高地耸立在云层附近，要到达山顶需要力量和行动。
+
+Page 2:
+当我们到达高高的山顶时，风非常冷。但从那里看下去，风景太美了。房屋和河流就像小点。我们为自己的力量感到骄傲。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+We made a plan to climb a very high mountain. That
+mountain towered high near the clouds, and reaching its summit required strength
+and action.
+
+Page 2:
+When we reached the high summit, the wind was very
+cold. But looking down from there, the scenery was so beautiful. Houses and
+rivers looked like small points. We were proud of our own strength. === END OF
+STORY 24 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

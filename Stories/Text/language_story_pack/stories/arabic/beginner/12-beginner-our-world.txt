@@ -1,0 +1,21 @@
+Story 12: Our World
+Language: Arabic
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 93-100 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+أمي وأبي يحبان الأرض. نحن نبني بيتاً صغيراً بالقرب من
+الحيوانات لنلاحظ الطبيعة بأنفسنا. هذا هو المغزى في عالمنا.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+My mother and father love the earth. We build a
+small home near the animals to observe nature ourselves. That is the point in
+our world.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,65 @@
+Story 47: The Green Architecture
+Language: Arabic
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 861-895 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+حصل المهندس المعماري أنس على طلب لتصميم مركز مجتمعي جديد
+ومتميز في المدينة. وقرر جعل هذا المبنى صديقاً للبيئة ونظيفاً تماماً بالاعتماد
+على الطبيعة.
+
+Page 2:
+قام أنس بتعديل هيكل وتصميم السقف للسماح بمرور أكبر قدر من
+ضوء الشمس الطبيعي داخل مبنى المركز الجديد. ساعد هذا الحل في تقليل استخدام
+المصابيح الكهربائية نهاراً.
+
+Page 3:
+خطط أنس لزراعة حديقة خضراء واسعة وجميلة على سقف المركز
+الجديد. وقام بوضع نظام ذكي لجمع مياه الأمطار وري النباتات تلقائياً دون
+الحاجة إلى تدخل بشري دائم.
+
+Page 4:
+بدأ البناء والعمال عملهم بنشاط باستخدام مواد آمنة ومصنوعة
+بالكامل من الخشب المعتمد بيئياً. كان سكان المدينة يتابعون ببالغ الاهتمام خطوات
+بناء هذا المبنى الأخضر والمميز.
+
+Page 5:
+غدا المركز الجديد أجمل مكان في المدينة كلها. كان الناس
+يزورونه للاسترخاء والراحة تحت ظلال الأشجار الخضراء. أثبت أنس للجميع الفوائد
+الكبيرة والنبيلة لأفكار العمارة الخضراء.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The architect Anas received a request to design a
+new and distinct community center in the city. He decided to make this building
+eco-friendly and completely clean by relying on nature.
+
+Page 2:
+Anas modified the structure and design of the roof
+to allow the maximum amount of natural sunlight inside the new center building.
+This solution helped reduce the use of electric lamps during the day.
+
+Page 3:
+Anas planned to plant a large and beautiful green
+garden on the roof of the new center. He placed a smart system to collect
+rainwater and water the plants automatically without the need for constant human
+intervention.
+
+Page 4:
+The construction and the workers began their work
+energetically, using safe materials made entirely from environmentally certified
+wood. The city residents followed with great interest the steps of building this
+distinct green building.
+
+Page 5:
+The new center became the most beautiful place in
+the entire city. People visited it to relax and rest under the shade of the
+green trees. Anas proved to everyone the great and noble benefits of green
+architecture ideas.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

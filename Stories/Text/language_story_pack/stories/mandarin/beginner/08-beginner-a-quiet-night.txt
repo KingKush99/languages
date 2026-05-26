@@ -1,0 +1,20 @@
+Story 08: A Quiet Night
+Language: Chinese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 61-68 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+我在家里读一本小书。我也用手玩玩具。在一天的结束时，我把书放回书架。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+I read a small book at home. I also play with toys
+using my hand. At the end of the day, I put the book back on the shelf. === END
+OF STORY 08 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

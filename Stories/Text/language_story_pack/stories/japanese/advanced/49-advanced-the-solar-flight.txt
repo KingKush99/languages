@@ -1,0 +1,50 @@
+Story 49: The Solar Flight
+Language: Japanese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 931-965 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+エンジニアのユウキは、太陽光エネルギーだけで飛ぶことができる新しい小型無人機（ドローン）を開発していました。
+
+Page 2:
+この無人機の目的は、道路が壊れた遠い被災地に、医薬品を素早く届けることでした。それは命を救う大切な技術でした。
+
+Page 3:
+晴れた朝、広いテストエリアで最初のテスト飛行が行われました。無人機は静かに空へと昇っていきました。
+
+Page 4:
+上空で一時的に強い風が吹きましたが、ユウキが設計した安定構造のおかげで、無人機はバランスを崩さずに飛び続けました。
+
+Page 5:
+テスト飛行は見事に成功し、目的の場所に正確に荷物を届けることができました。ユウキは、未来の救助システムに貢献できたと確信しました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Yuki, an engineer, was developing a new small
+unmanned aerial vehicle (drone) that can fly solely on solar energy.
+
+Page 2:
+The purpose of this drone was to quickly deliver
+medicines to distant disaster-hit areas where roads were broken. It was an
+important technology for saving lives.
+
+Page 3:
+On a sunny morning, the first test flight was
+conducted in a wide test area. The drone quietly climbed into the sky.
+
+Page 4:
+A strong wind temporarily blew in the upper sky,
+but thanks to the stable structure designed by Yuki, the drone continued to fly
+without losing balance.
+
+Page 5:
+The test flight was brilliantly successful, and it
+was able to deliver the package to the target location accurately. Yuki was
+convinced that he contributed to future rescue systems.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

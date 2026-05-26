@@ -1,0 +1,43 @@
+Story 34: The Lost Key
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 489-512 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+रविवार को पूजा अपने भाई के साथ पार्क में घूम रही थी। उसने
+अपनी मेज की छोटी चाबी जैकेट की जेब में रखी थी। लेकिन घास पर खेलते समय चाबी
+गिर गई और वह बहुत परेशान हो गई।
+
+Page 2:
+शाम हो गई थी और काफी अंधेरा था। पूजा का भाई एक छोटा टॉर्च
+लाया ताकि उसकी मदद कर सके। वे दोनों बड़े पेड़ों के पास गए और जमीन पर रोशनी
+डालकर घास को ध्यान से देखने लगे।
+
+Page 3:
+जल्द ही भाई ने एक छोटे भूरे पत्थर के नीचे कुछ चमकता हुआ
+देखा। वह खोई हुई चाबी थी! पूजा बहुत खुश हुई और उसने अपने भाई को धन्यवाद
+दिया। घर जाकर उसने अपनी मेज का दराज खोल लिया।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+On Sunday, Pooja was walking in the park with her
+brother. She put her small desk key in her jacket pocket. But while playing on
+the grass, the key fell out, and she became very upset.
+
+Page 2:
+Evening arrived, and it was quite dark. Pooja's
+brother brought a small flashlight to help her. They walked together near the
+large trees and shone light on the ground, carefully checking the grass.
+
+Page 3:
+Soon her brother noticed something shining under a
+small grey stone. It was the lost key! Pooja was very happy and thanked her
+brother. Returning home, she was able to open her desk drawer. === END OF
+STORY 34 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

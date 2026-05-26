@@ -1,0 +1,44 @@
+Story 37: The Garden Project
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 559-581 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Весной Дима проводил время на даче у бабушки. Бабушка
+решила научить его выращивать овощи своими руками. Они подготовили землю в
+саду и посадили несколько семян помидоров и огурцов.
+
+Page 2:
+Каждый день после учебы Дима помогал поливать грядки.
+Через две недели из теплой земли показались первые зеленые листья. Дима был
+очень рад увидеть плоды их общего труда.
+
+Page 3:
+Летом они собрали много свежих помидоров и огурцов.
+Бабушка и Дима сделали из них вкусный салат на ужин. Мальчик понял, что
+еда, выращенная своими руками, имеет самый лучший вкус.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the spring, Dima was spending time at his
+grandmother's dacha. His grandmother decided to teach him how to grow vegetables
+with his own hands. They prepared the soil in the garden and planted several
+tomato and cucumber seeds.
+
+Page 2:
+Every day after studying, Dima helped water the
+garden beds. Two weeks later, the first green leaves appeared from the warm
+soil. Dima was very happy to see the fruits of their common labor.
+
+Page 3:
+In the summer, they harvested many fresh tomatoes
+and cucumbers. Grandmother and Dima made a delicious salad out of them for
+dinner. The boy understood that food grown with one's own hands has the best
+taste.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,19 @@
+Story 01: The Book
+Language: Chinese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 1-9 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+我静静地看着那张旧桌子。他曾经在这里。桌子上有一本给他朋友的书。我知道那是他的书，正如他所说。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+I quietly look at that old table. He was once here.
+On the table was a book for his friend. I know that was his book, as he said.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

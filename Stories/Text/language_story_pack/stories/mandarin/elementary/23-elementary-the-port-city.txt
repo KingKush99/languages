@@ -1,0 +1,28 @@
+Story 23: The Port City
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 261-275 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+我的家离一个非常大而繁忙的港口很近。每天清晨，来自世界各地的大船开到这里，许多人走上这片土地，非常热闹。
+
+Page 2:
+傍晚，我和父亲来到水边。我们静静地看着大船驶回大海。夕阳的光洒在海浪上，这美丽的景色用语言无法形容。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+My house is very close to a very large and busy
+port. Every morning, big ships from all over the world arrive here, and many
+people disembark onto this land; it is very lively.
+
+Page 2:
+In the evening, my father and I come to the water.
+We quietly watch the big ships sail back to sea. The light of the setting sun
+sprinkles on the waves, and this beautiful scenery cannot be described in words.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

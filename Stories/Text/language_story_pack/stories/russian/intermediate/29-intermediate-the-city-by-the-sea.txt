@@ -1,0 +1,47 @@
+Story 29: The City by the Sea
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 369-392 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Миша жил в красивом городе у самого синего моря. Каждое
+лето здесь устраивали большой праздник. В порту вешали яркие флаги, и люди
+строили маленькие деревянные лавки с едой. К вечеру на улице собралось много
+веселых людей.
+
+Page 2:
+Миша встретил в порту старого моряка. Старик рассказал ему
+о своих долгих плаваниях по океанам земли, о сильных штормах и больших рыбах.
+Мальчик слушал его с большим интересом и мечтал тоже стать настоящим моряком.
+
+Page 3:
+Когда стало темно, в небе начался яркий салют. Огни
+взлетали высоко в воздух и падали в воду моря. Весь город светился, и
+люди хлопали в ладоши. Миша чувствовал гордость за свой красивый портовый
+город.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Misha lived in a beautiful city by the blue sea.
+Every summer a big festival was organized here. Bright flags were hung in the
+port, and people built small wooden food stalls. By evening, many cheerful
+people gathered on the street.
+
+Page 2:
+Misha met an old sailor in the port. The old man
+told him about his long voyages across the oceans of the earth, about strong
+storms and big fish. The boy listened to him with great interest and dreamed of
+also becoming a real sailor.
+
+Page 3:
+When it became dark, a bright firework display
+began in the sky. Lights flew high into the air and fell into the sea water. The
+whole city glowed, and people clapped their hands. Misha felt pride in his
+beautiful port city.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,46 @@
+Story 27: The Old Clock
+Language: Arabic
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 321-344 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+في أحد أيام السبت، قرر ماجد تنظيف علية منزله القديمة. كان
+هناك الكثير من الصناديق والأثاث المكسور. وفي زاوية الغرفة، لاحظ ساعة خشبية
+قديمة كبيرة. كانت تبدو وكأنها لم تعمل منذ سنوات طويلة، ومغطاة بالغبار.
+
+Page 2:
+فتح ماجد الباب الزجاجي للساعة وبدأ يفحصها من الداخل. وخلف
+البندول الثقيل، وجد مفتاحاً نحاسياً صغيراً. أخذه في يده وحاول إدخاله في فتحة
+صغيرة على جانب الساعة. تطابق المفتاح تماماً وبسهولة.
+
+Page 3:
+أدار المفتاح ببطء، وبدأت الساعة تصدر صوت تكتكة مألوفاً.
+تحركت العقارب في دائرة، وسرعان ما رن جرس جميل في أرجاء المنزل. كان هذا الصوت
+هو نفسه الذي كان جده يحب سماعه قبل سنوات طويلة. شعر ماجد بالدفء والسرور.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+On a Saturday, Majid decided to clean the old attic
+of his house. There were many old boxes and broken furniture. In the corner of
+the room, he noticed a large, antique wooden clock. It looked as if it had not
+worked for many years and was covered in dust.
+
+Page 2:
+Majid opened the clock's glass door and began
+examining it from the inside. Behind the heavy pendulum, he found a small brass
+key. He took it in his hand and tried inserting it into a small hole on the
+side. The key fit perfectly and easily.
+
+Page 3:
+He turned the key slowly, and the clock began to
+make a familiar ticking sound. The hands moved in a circle, and soon a beautiful
+chime rang throughout the house. This sound was the same one his grandfather
+loved listening to many years ago. Majid felt warm and joyful. === END OF
+STORY 27 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

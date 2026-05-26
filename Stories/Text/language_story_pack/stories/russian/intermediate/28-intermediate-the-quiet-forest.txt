@@ -1,0 +1,43 @@
+Story 28: The Quiet Forest
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 345-368 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Анна гуляла по лесу, где были слышны только далекие голоса
+птиц. Деревья были высокими, и свет солнца едва проходил сквозь зеленые ветви.
+Под ногами лежал мягкий зеленый мох, похожий на большой ковер.
+
+Page 2:
+Она пошла глубже и вдруг увидела маленькое красивое озеро.
+Вода в нем была чистой, как зеркало, и в ней отражались небо и белые облака.
+Рядом стояли несколько оленей и пили воду. Девочка тихо смотрела на них.
+
+Page 3:
+Анна села на сухой камень у воды и открыла свой блокнот.
+Она решила записать эту историю и нарисовать озеро и оленей. Эта теплая память
+о прогулке в лесу останется с ней на долгое время.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Anna was walking through the forest, where only the
+distant voices of birds were heard. The trees were tall, and the light of the
+sun barely passed through the green branches. Underfoot lay soft green moss,
+looking like a large carpet.
+
+Page 2:
+She went deeper and suddenly saw a small, beautiful
+lake. The water in it was clean as a mirror, reflecting the sky and white
+clouds. Nearby stood several deer drinking water. The girl watched them quietly.
+
+Page 3:
+Anna sat on a dry stone by the water and opened her
+notebook. She decided to write down this story and draw the lake and the deer.
+This warm memory of the walk in the forest will stay with her for a long time.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

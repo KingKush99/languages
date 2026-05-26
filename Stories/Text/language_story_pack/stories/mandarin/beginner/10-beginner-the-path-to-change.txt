@@ -1,0 +1,19 @@
+Story 10: The Path to Change
+Language: Chinese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 77-84 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+人们去了一座高山。我问他们为什么去。他们开始行动，以此来跟随那些改变。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The men went to a high mountain. I asked why they
+went. They began to act to follow those changes.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

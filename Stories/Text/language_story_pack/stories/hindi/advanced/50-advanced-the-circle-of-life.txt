@@ -1,0 +1,61 @@
+Story 50: The Circle of Life
+Language: Hindi
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 966-1000 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+वैज्ञानिक सीमा ने कई सालों तक स्थानीय जंगल की पर्यावरण
+प्रणाली का अध्ययन किया। वह देखती थीं कि छोटे जानवर कैसे रहते हैं और
+पेड़ कैसे बढ़ते हैं।
+
+Page 2:
+वह देखती थीं कि कैसे गिरी हुई पत्तियां मिट्टी में बदल जाती
+हैं, मिट्टी पेड़ों को बढ़ने की शक्ति देती है और पेड़ पक्षियों के लिए घर बनते
+हैं।
+
+Page 3:
+सप्ताहांत में सीमा बच्चों को जंगल में ले आईं ताकि उन्हें यह
+संबंध दिखा सकें। उन्होंने बच्चों को समझाया कि पृथ्वी पर सारा जीवन एक चक्र में
+जुड़ा है।
+
+Page 4:
+बच्चों ने खुद पत्तियों के नीचे कीड़े ढूंढे और पौधों को देखा।
+वे समझ गए कि मनुष्य भी प्रकृति के इस बड़े चक्र का एक हिस्सा है।
+
+Page 5:
+सीमा ने बच्चों की आँखों में रुचि देखी। वह समझ गईं कि
+पर्यावरण शिक्षा ही भविष्य में हमारी पृथ्वी की प्रकृति को बचाने
+का सबसे अच्छा तरीका है।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The biologist Seema had studied the local forest's
+ecological system for many years. She kept track of how small animals live and
+how tall trees grow.
+
+Page 2:
+She observed how fallen leaves turn into fertile
+soil, the soil gives strength to big trees to grow, and the trees serve as a
+home for birds.
+
+Page 3:
+On the weekend, Seema brought children to the
+forest to show them this structure. She explained to them that on our Earth, all
+life is connected in one circle.
+
+Page 4:
+The children searched for insects under leaves
+themselves and looked at plants. They understood that humans are also part of
+this large circle of nature.
+
+Page 5:
+Seema saw interest in the children's eyes. She
+understood that environmental education is the best way to protect our planet's
+nature in the future.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

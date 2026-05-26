@@ -1,0 +1,43 @@
+Story 40: The Sound of Music
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 628-650 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+अंजलि अपनी माँ के साथ पुराने संगीत हॉल में आई। आज वहाँ एक
+प्रसिद्ध कलाकार का संगीत कार्यक्रम था। हॉल की बत्तियाँ बंद हो गईं और मंच
+पर एक रोशनी जली जिसने कलाकार को दिखाया।
+
+Page 2:
+संगीत बहुत सुंदर बज रहा था। संगीत की आवाज़ कभी धीमी और शांत
+हो जाती तो कभी बहुत तेज़ और ऊँची। अंजलि इस धुन को सुन रही थी और उसका मन संगीत
+के साथ बदल रहा था।
+
+Page 3:
+कॉन्सर्ट के बाद सभी ने बहुत तालियाँ बजाईं। अंजलि बहुत
+प्रेरित हुई थी। घर जाकर उसने अपना छोटा पियानो निकाला और उस पर गाने
+बजाने की कोशिश की। उसमें एक नया सपना जागा।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Anjali came with her mom to the old city concert
+hall. Today, an evening of violin music was taking place there. The lights went
+out in the hall, and a warm lamp lit up on the stage, illuminating the musician.
+
+Page 2:
+The music sounded very beautiful. The sounds of the
+music flowed slowly and quietly at times, and at others soared fast and loud.
+Anjali listened to this melody, feeling how her mood changed along with the
+sounds.
+
+Page 3:
+After the concert, everyone clapped loudly. Anjali
+was highly inspired. At home, she decided to take out her small children's piano
+and try to play songs on it again. A dream was born in her.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

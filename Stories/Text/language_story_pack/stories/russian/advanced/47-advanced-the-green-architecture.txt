@@ -1,0 +1,62 @@
+Story 47: The Green Architecture
+Language: Russian
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 861-895 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Архитектор Андрей получил заказ на создание нового
+общественного центра в городе. Он решил сделать здание максимально
+экологичным и чистым.
+
+Page 2:
+Он изменил структуру крыши, чтобы пропускать больше
+солнечного света внутрь здания. Это помогало уменьшить использование
+электрических ламп днем.
+
+Page 3:
+На крыше центра Андрей запланировал посадить зеленый сад.
+Система сбора дождевой воды должна была поливать растения автоматически без
+участия человека.
+
+Page 4:
+Строители начали работу, используя безопасные материалы из
+переработанного дерева. Жители города с интересом следили за созданием нового
+дома.
+
+Page 5:
+Новый центр стал самым красивым местом в городе. Люди
+приходили туда отдыхать под зелеными деревьями. Андрей доказал пользу
+зеленой архитектуры.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The architect Andrey received an order to create a
+new community center in the city. He decided to make the building as
+eco-friendly and clean as possible.
+
+Page 2:
+He changed the structure of the roof to let more
+sunlight inside the building. This helped reduce the use of electric lamps
+during the day.
+
+Page 3:
+On the roof of the center, Andrey planned to plant
+a green garden. A rainwater collection system was supposed to water the plants
+automatically without human involvement.
+
+Page 4:
+Builders started the work, using safe materials
+made from recycled wood. City residents watched the creation of the new building
+with interest.
+
+Page 5:
+The new center became the most beautiful place in
+the city. People came there to rest under green trees. Andrey proved the benefit
+of green architecture.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

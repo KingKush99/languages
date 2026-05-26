@@ -1,0 +1,18 @@
+Story 05: The New Room
+Language: Japanese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 37-44 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+私たちはその部屋の中にいました。どの部屋ですか？私たちは外に出ることができます。他の人々も外にいました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+We were in that room. Which room? We can go out. Other people were outside too.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

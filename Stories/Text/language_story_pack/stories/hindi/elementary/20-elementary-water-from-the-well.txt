@@ -1,0 +1,32 @@
+Story 20: Water from the Well
+Language: Hindi
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 213-228 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+वह गर्मियों की एक बहुत गर्म दोपहर थी। घर में हवा नहीं चल रही
+थी और हमें ठंडे पानी की ज़रूरत थी। हमने जंगल के पास वाले पुराने कुएं से पानी
+लाने का फैसला किया।
+
+Page 2:
+हमने अपने हाथों से भारी बाल्टी को कुएं से ऊपर खींचा। कुएं का
+पानी बहुत ठंडा था। हमने पानी पिया और हमें बहुत अच्छा लगा। वह गर्म दिन भी सुंदर
+बन गया।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+That was a very hot summer afternoon. There was no
+wind in the house, and we needed cool, clean water. We decided to go draw water
+from that old well near the forest.
+
+Page 2:
+We used our hands to pull the heavy bucket up from
+the well. The well water was very cool. We drank the water and felt very happy
+and comfortable. The hot day became beautiful too.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,44 @@
+Story 36: The Starlit Sky
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 536-558 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Летом Миша с родителями отправился в поход в горы. Ночью у
+палатки было тихо и темно, так как вокруг не было никаких городских огней. Миша
+вышел на свежий воздух и поднял глаза вверх.
+
+Page 2:
+Отец Миши достал из сумки интересную книгу о созвездиях.
+Он включил неяркий фонарь и, глядя в книгу, стал показывать сыну звезды в
+небе, объясняя их названия и древние истории.
+
+Page 3:
+Вдруг одна яркая звезда быстро пролетела по темному небу,
+оставив за собой светлый след. Это был метеор. Миша успел тихо загадать желание
+о своем будущем. Этот вечер запомнился ему навсегда.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the summer, Misha went on a camping trip to the
+mountains with his parents. At night by the tent, it was quiet and dark because
+there were no city lights around. Misha went out into the fresh air and looked
+up.
+
+Page 2:
+Misha's father took an interesting book about
+constellations from his bag. He turned on a dim light and, looking at the book,
+began to show his son the stars in the sky, explaining their names and ancient
+stories.
+
+Page 3:
+Suddenly, a bright star quickly flew across the
+dark sky, leaving a light trail behind it. It was a meteor. Misha managed to
+quietly make a wish about his future. He would remember this evening forever.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

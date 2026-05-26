@@ -1,0 +1,43 @@
+Story 38: The Old Lighthouse
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 582-604 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+На высоком утесе у моря стоял старый каменный маяк. Сейчас
+он уже не работал, так как корабли использовали современные системы. Лена и ее
+папа решили сходить туда на прогулку в воскресенье.
+
+Page 2:
+Они открыли тяжелую деревянную дверь и вошли внутрь маяка.
+Внутри было прохладно, и наверх вела длинная каменная лестница. Лена осторожно
+поднималась шаг за шагом, держа папу за руку.
+
+Page 3:
+Наверху на балконе дул сильный ветер. Перед ними открылся
+вид на огромное синее море с большими волнами. Лена подумала о людях, которые
+когда-то жили здесь и помогали кораблям в шторм.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+On a high cliff by the sea stood an old stone
+lighthouse. It was no longer active now, because ships used modern systems. Lena
+and her dad decided to go there for a walk on Sunday.
+
+Page 2:
+They opened the heavy wooden door and went inside
+the lighthouse. It was cool inside, and a long stone staircase led upward. Lena
+climbed carefully step by step, holding her dad's hand.
+
+Page 3:
+At the top on the balcony, a strong wind was
+blowing. Before them opened a view of the vast blue sea with big waves. Lena
+thought of the people who once lived here and helped ships during storms. ===
+END OF STORY 38 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

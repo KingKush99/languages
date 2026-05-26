@@ -1,0 +1,37 @@
+Story 38: The Old Lighthouse
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 582-604 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+在大海边的陡峭悬崖上，站着一座石砌的旧灯塔。由于现在船只使用先进设备，所以不再有人在这里。星期日，小丽和爸爸一起去那里散步。
+
+Page 2:
+他们打开沉重的旧木门，走进了灯塔内部。里面很凉爽，有一条长长的旋转石阶。小丽牵着爸爸的手，一步一步小心地往上爬。
+
+Page 3:
+在最顶端的阳台上，风吹得很强。他们眼前是一望无际的蔚蓝大海和滚滚波涛。小丽想到了以前住在这里帮助大船的人们。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+On a steep cliff by the sea stood an old stone
+lighthouse. Since ships now use advanced equipment, no one is here anymore. On
+Sunday, Xiao Li went for a walk there with her dad.
+
+Page 2:
+They opened the heavy old wooden door and walked
+into the lighthouse. It was cool inside, and there was a long spiral stone
+staircase. Xiao Li held her dad's hand, climbing up carefully step by step.
+
+Page 3:
+At the topmost balcony, the wind blew very
+strongly. Before them lay the boundless blue sea and rolling waves. Xiao Li
+thought of the people who used to live here helping big ships. === END OF
+STORY 38 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

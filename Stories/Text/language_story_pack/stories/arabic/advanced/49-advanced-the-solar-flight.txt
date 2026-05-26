@@ -1,0 +1,66 @@
+Story 49: The Solar Flight
+Language: Arabic
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 931-965 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+كان المهندس يوسف يعمل بجد على تطوير واختراع طائرة صغيرة
+بدون طيار (درون). كانت هذه الطائرة تتميز بقدرتها على الطيران بالاعتماد
+الكامل على طاقة الشمس النظيفة فقط.
+
+Page 2:
+كان الهدف الرئيسي للمشروع هو نقل الأجهزة الطبية والأدوية
+الطارئة للناس المحتاجين في المناطق الجبلية النائية التي دمرت العواصف والأمطار
+الطرق والمسارات المؤدية إليها بالكامل.
+
+Page 3:
+في صباح يوم مشمس وجميل، أخذ يوسف الطائرة إلى حقل واسع
+لإجراء الاختبار الأول. طارت الطائرة بدون طيار بهدوء وصمت نحو الجبال
+البعيدة مستخدمة قوة ضوء الشمس فقط.
+
+Page 4:
+في الجبال، بدأت رياح قوية ومفاجئة تهب في الأعالي. لكن بفضل
+الهيكل المتين والتصميم الذكي للجناح، تمكنت الطائرة من الحفاظ على توازنها الكامل
+وواصلت رحلتها بثقة تامة.
+
+Page 5:
+أوصلت الطائرة الحمولة الطبية بنجاح كبير ودقة تامة إلى
+الموقع المحدد. كان يوسف سعيداً؛ فقد أثبتت تكنولوجياه الجديدة فائدتها
+وساهمت في عمل خطوة نحو إنقاذ حياة الناس.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The engineer Youssef was working hard on developing
+and inventing a small unmanned aerial vehicle (drone). This plane was
+distinguished by its ability to fly relying completely on clean solar energy
+alone.
+
+Page 2:
+The main goal of the project was to transport
+medical devices and emergency medicines to needy people in remote mountainous
+areas whose roads and paths leading to them were completely destroyed by storms
+and rain.
+
+Page 3:
+On a sunny and beautiful morning, Youssef took the
+plane to a wide field to conduct the first test. The drone flew quietly and
+silently towards the distant mountains using only the power of sunlight.
+
+Page 4:
+In the mountains, strong and sudden winds began to
+blow in the heights. But thanks to the durable structure and smart design of the
+wing, the plane managed to maintain its complete balance and continued its
+journey with full confidence.
+
+Page 5:
+The plane delivered the medical cargo with great
+success and complete accuracy to the specified location. Youssef was happy; his
+new technology had proved its utility and contributed to making a step toward
+saving people's lives.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

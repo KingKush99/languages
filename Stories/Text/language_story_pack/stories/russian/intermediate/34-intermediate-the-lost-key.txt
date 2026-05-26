@@ -1,0 +1,43 @@
+Story 34: The Lost Key
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 489-512 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+В воскресенье Света со своим братом гуляла в парке. Она
+положила маленький ключ от стола в карман куртки. Но во время игры на траве
+ключ выпал, и девочка очень расстроилась.
+
+Page 2:
+Наступил вечер, и стало довольно темно. Брат Светы принес
+маленький фонарик, чтобы помочь ей. Они вместе ходили около больших деревьев и
+светили на землю, внимательно проверяя каждую травинку.
+
+Page 3:
+Вскоре брат заметил металлический блеск под небольшим
+серым камнем. Это был потерянный ключ! Света очень обрадовалась и
+поблагодарила брата. Дома она смогла открыть ящик своего стола.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+On Sunday, Sveta was walking in the park with her
+brother. She put a small desk key in her jacket pocket. But during a game on the
+grass, the key fell out, and the girl became very upset.
+
+Page 2:
+Evening arrived, and it became quite dark. Sveta's
+brother brought a small flashlight to help her. They walked together near the
+large trees and shone light on the ground, carefully checking every blade of
+grass.
+
+Page 3:
+Soon her brother noticed a metallic gleam under a
+small grey stone. It was the lost key! Sveta was very happy and thanked her
+brother. At home, she was able to open her desk drawer.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

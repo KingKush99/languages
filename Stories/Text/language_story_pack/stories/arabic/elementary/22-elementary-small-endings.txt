@@ -1,0 +1,33 @@
+Story 22: Small Endings
+Language: Arabic
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 245-260 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+كل شيء في هذا العالم له نهاية. لكن أي نهاية تعني دائماً
+بداية لشيء جديد ومثير. وضع الولد الصغير كل ألعابه القديمة في صندوق كبير
+ومغلق.
+
+Page 2:
+لقد أصبح الولد أكبر الآن ولم يعد يلعب بتلك الألعاب. يجب
+عليه الآن قراءة كتب مفيدة ووضع خطط جديدة لحياته. ابتسم ومضى يبني مستقبله
+بثقة.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Every thing in this world has an end. But any end
+always means a beginning for something new and exciting. The young boy put all
+his old toys in a large, closed box.
+
+Page 2:
+The boy has become older now and does not play with
+those toys anymore. He must now read useful books and make new plans for his
+life. He smiled and went on to build his future with confidence. === END OF
+STORY 22 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

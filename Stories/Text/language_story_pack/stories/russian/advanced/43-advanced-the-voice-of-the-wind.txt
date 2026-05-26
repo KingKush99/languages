@@ -1,0 +1,62 @@
+Story 43: The Voice of the Wind
+Language: Russian
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 721-755 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Ученый Коля работал на метеостанции высоко в горах. Он
+записывал показатели ветра и температуры. В последнее время погода в горах
+стала быстро меняться.
+
+Page 2:
+Коля понял, что к маленькой деревне у подножия горы идет
+опасный шторм. Ему нужно было предупредить людей, чтобы защитить их дома от
+разрушения.
+
+Page 3:
+Он спустился в деревню и рассказал людям о ветре.
+Некоторые не верили его приборам, но научные данные убедили их
+согласиться на временную эвакуацию.
+
+Page 4:
+Ночью начался сильный ураган. Ветер ломал деревья около
+домов. Но благодаря быстрой работе Коли все жители уже были в безопасности в
+каменном укрытии.
+
+Page 5:
+Утром шторм ушел. Деревня немного пострадала, но жизни
+людей были спасены. Жители благодарили молодого ученого и поняли ценность
+его работы и науки.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The scientist Kolya worked at a weather station
+high in the mountains. He recorded wind and temperature indicators. Recently,
+the weather in the mountains began to change rapidly.
+
+Page 2:
+Kolya realized that a dangerous storm was heading
+towards the small village at the foot of the mountain. He needed to warn the
+people to protect their homes from destruction.
+
+Page 3:
+He descended to the village and told the people
+about the wind. Some did not believe his instruments, but the scientific data
+convinced them to agree to a temporary evacuation.
+
+Page 4:
+At night, a strong hurricane began. The wind broke
+trees near the houses. But thanks to Kolya's quick work, all the residents were
+already safe in a stone shelter.
+
+Page 5:
+In the morning, the storm left. The village was
+slightly damaged, but people's lives were saved. The residents thanked the young
+scientist and understood the value of his work and science.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,48 @@
+Story 27: The Old Clock
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 321-344 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+एक शनिवार की दोपहर, अमित ने अपने घर की पुरानी अटारी को साफ
+करने का फैसला किया। वहाँ कई पुराने बक्से और टूटे हुए फर्नीचर रखे थे। कमरे के
+कोने में, उसे एक बड़ी पुरानी लकड़ी की घड़ी खड़ी मिली। ऐसा लग रहा था कि वह घड़ी
+सालों से चली नहीं थी और उस पर धूल जमी थी।
+
+Page 2:
+अमित ने घड़ी का कांच का दरवाजा खोला और अंदर की जांच शुरू की।
+भारी पेंडुलम के पीछे उसे एक पीतल की छोटी चाबी मिली। उसने चाबी ली और उसे घड़ी के
+किनारे बने एक छोटे छेद में डालने की कोशिश की। चाबी पूरी तरह और आसानी से फिट हो
+गई।
+
+Page 3:
+जब उसने धीरे से चाबी घुमाई, तो घड़ी से टिक-टिक की प्यारी
+आवाज़ आने लगी। घड़ी की सुइयां फिर से चलने लगीं और जल्द ही घर में एक
+सुंदर घंटी बजी। यह आवाज़ वैसी ही थी जैसी उसके दादाजी सालों पहले सुनते
+थे। अमित को अपने दिल में खुशी महसूस हुई।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+On a Saturday afternoon, Amit decided to clean the
+old attic of his house. There were many old boxes and broken furniture. In the
+corner of the room, he found a large, old wooden clock standing. The clock did
+not seem to have run for many years, and a lot of dust had accumulated on it.
+
+Page 2:
+Amit opened the clock's glass door and began to
+check the inside. Behind the heavy pendulum, he found a small brass key. He took
+the key and tried to insert it into a small hole on the side of the clock. The
+key fit perfectly and easily.
+
+Page 3:
+As he turned the key gently, the clock began to
+make a friendly ticking sound. The hands moved again, and a beautiful chime soon
+rang out in the house. This sound was exactly like the one his grandfather loved
+to listen to many years ago. Amit felt joyful in his heart.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

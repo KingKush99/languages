@@ -1,0 +1,47 @@
+Story 40: The Sound of Music
+Language: Arabic
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 628-650 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+جاءت سلمى مع والدتها الطيبة إلى قاعة الحفلات القديمة
+بالمدينة. اليوم كان هناك حفل موسيقي يعزف فيه عازف كمان مشهور. انطفأت
+الأضواء في القاعة المظلمة، وأضيئت شمعة دافئة على المسرح لتنير المكان.
+
+Page 2:
+عندما بدأ العزف، بدت ألحان الكمان دافئة وجميلة للغاية. كانت
+أصوات الموسيقى تتغير تارة ببطء وهدوء شديد، وتارة أخرى ترتفع بسرعة وقوة لتأخذ
+قلوب الجميع. شعرت سلمى بسعادة وراحة نفسية كبيرة مع الألحان.
+
+Page 3:
+بعد الحفل، صفق الجميع بحرارة وقوة كبيرة. شعرت سلمى بإلهام
+كبير ورغبة حقيقية. وعندما عادت إلى المنزل، قررت إخراج بيانو ألعاب طفولتها
+القديم لتجرب العزف مجدداً وسماع نغماته. ولد فيها حلم جديد اليوم.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Salma came with her kind mother to the town's old
+concert hall. Today, there was a musical concert in which a famous violinist was
+playing. The lights went out in the dark hall, and a warm candle was lit on the
+stage to illuminate the place.
+
+Page 2:
+When the performance began, the violin melodies
+sounded extremely warm and beautiful. The sounds of the music changed at times
+slowly and quietly, and at other times rose quickly and strongly to capture
+everyone's hearts. Salma felt great happiness and mental comfort with the
+melodies.
+
+Page 3:
+After the concert, everyone clapped warmly and with
+great strength. Salma felt highly inspired and had a genuine desire. When she
+returned home, she decided to take out her old childhood toy piano to try
+playing again and hearing its tones. A new dream was born in her today. === END
+OF STORY 40 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

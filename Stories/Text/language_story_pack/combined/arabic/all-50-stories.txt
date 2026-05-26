@@ -1,4 +1,4 @@
-Story 01: Morning at Home
+Story 01: The Book
 Language: Arabic
 Level: Beginner
 Pages: 1
@@ -7,20 +7,20 @@ Assigned new-word slots: 1-9 (9 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب آنا إلى البيت. هناك شاي وكتاب بالقرب منه. تقرأ آنا ببطء وتلاحظ كلمة جديدة: «مدينة». اليوم جيد، واللغة تصبح أقرب.
+أنا في البيت. كان هو هناك. وضعت الكتاب على الطاولة. كان هذا
+له، كما قلت دائماً.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Anna is at home. There is tea and book nearby. Anna reads slowly and notices a new word: city. The day feels good, and the language feels a little closer.
+I am in the house. He was there. I put the book on
+the table. This was for him, as I always said.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 02: Tea on the Table
+Story 02: Gathering at Home
 Language: Arabic
 Level: Beginner
 Pages: 1
@@ -29,20 +29,20 @@ Assigned new-word slots: 10-18 (9 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب لينا إلى البيت. هناك شاي وخبز بالقرب منه. تقرأ لينا ببطء وتلاحظ كلمة جديدة: «طاولة». اليوم جيد، واللغة تصبح أقرب.
+هم هنا الآن. أصدقائي يريدون أن يكونوا معي في بيت واحد.
+لدينا هذا المكان الهادئ.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Lena is at home. There is tea and bread nearby. Lena reads slowly and notices a new word: table. The day feels good, and the language feels a little closer.
+They are here now. My friends want to be with me in
+one house. We have this quiet place.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 03: The Open Window
+Story 03: A Hot Day
 Language: Arabic
 Level: Beginner
 Pages: 1
@@ -51,20 +51,20 @@ Assigned new-word slots: 19-27 (9 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، يذهب إيفان إلى البيت. هناك نافذة وكتاب بالقرب منه. يقرأ إيفان ببطء ويلاحظ كلمة جديدة: «مكتبة». اليوم جيد، واللغة تصبح أقرب.
+ما هذا؟ هذه كلمة من صديقي. لكن الطقس حار اليوم. هناك بعض
+الماء بجانبه.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Ivan is at home. There is window and book nearby. Ivan reads slowly and notices a new word: library. The day feels good, and the language feels a little closer.
+What is this? This is a word from my friend. But
+the weather is hot today. There is some water near him.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 04: Walking to the Park
+Story 04: The Decision
 Language: Arabic
 Level: Beginner
 Pages: 1
@@ -73,20 +73,20 @@ Assigned new-word slots: 28-36 (9 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب ماشا إلى الحديقة. هناك الأم والأخ بالقرب منه. تقرأ ماشا ببطء وتلاحظ كلمة جديدة: «صديق». اليوم جيد، واللغة تصبح أقرب.
+أنت وأنا نذهب. هل هو لك أو لي؟ كان لدينا كتاب قديم من
+الماضي.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Masha is in the park. There is mother and brother nearby. Masha reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer.
+You and I go. Is it you or me? We had an old book
+of the past.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 05: A Quiet Street
+Story 05: The New Room
 Language: Arabic
 Level: Beginner
 Pages: 1
@@ -95,20 +95,20 @@ Assigned new-word slots: 37-44 (8 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، يذهب بافل إلى الشارع. هناك بيت ونافذة بالقرب منه. يقرأ بافل ببطء ويلاحظ كلمة جديدة: «شارع». اليوم جيد، واللغة تصبح أقرب.
+كنا في غرفة واحدة. أي غرفة؟ يمكننا الخروج الآن. كان هناك
+أشخاص آخرون أيضاً.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Pavel is on the street. There is house and window nearby. Pavel reads slowly and notices a new word: street. The day feels good, and the language feels a little closer.
+We were in a room. Which room? We can go out now.
+Other people were there too.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 06: The First Book
+Story 06: The Plan
 Language: Arabic
 Level: Beginner
 Pages: 1
@@ -117,20 +117,20 @@ Assigned new-word slots: 45-52 (8 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب أولغا إلى المكتبة. هناك كتاب وبطاقة بالقرب منه. تقرأ أولغا ببطء وتلاحظ كلمة جديدة: «كلمة». اليوم جيد، واللغة تصبح أقرب.
+قال: "لا يوجد وقت". إذا قاموا بعملهم، كيف سيفعلون ذلك؟ هذه
+خطة جيدة.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Olga is in the library. There is book and card nearby. Olga reads slowly and notices a new word: word. The day feels good, and the language feels a little closer.
+He said: "There is no time." If they do their work,
+how will they do it? This is a good plan.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 07: A Good Day
+Story 07: Three Wishes
 Language: Arabic
 Level: Beginner
 Pages: 1
@@ -139,20 +139,20 @@ Assigned new-word slots: 53-60 (8 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، يذهب نيكولاي إلى الحديقة. هناك شمس وشجرة بالقرب منه. يقرأ نيكولاي ببطء ويلاحظ كلمة جديدة: «جيد». اليوم جيد، واللغة تصبح أقرب.
+أريد أن أقول لك. هناك مجموعة من ثلاثة أشياء. كل شيء يحتاج
+إلى الهواء. هذا يعمل بشكل جيد.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Nikolay is in the park. There is sun and tree nearby. Nikolay reads slowly and notices a new word: good. The day feels good, and the language feels a little closer.
+I want to tell you. There is a set of three things.
+Each thing needs air. This works well.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 08: At School
+Story 08: A Quiet Night
 Language: Arabic
 Level: Beginner
 Pages: 1
@@ -161,20 +161,20 @@ Assigned new-word slots: 61-68 (8 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، يذهب ساشا إلى المدرسة. هناك مكتب وقلم رصاص بالقرب منه. يقرأ ساشا ببطء ويلاحظ كلمة جديدة: «مدرسة». اليوم جيد، واللغة تصبح أقرب.
+أقرأ كتاباً صغيراً في المنزل. كما ألعب بيدي أيضاً. في نهاية
+اليوم، أضع الكتاب جانباً.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Sasha is at school. There is desk and pencil nearby. Sasha reads slowly and notices a new word: school. The day feels good, and the language feels a little closer.
+I read a small book at home. I also play with my
+hand. At the end of the day, I put the book aside.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 09: At the Store
+Story 09: The Large Port
 Language: Arabic
 Level: Beginner
 Pages: 1
@@ -183,20 +183,21 @@ Assigned new-word slots: 69-76 (8 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب إيرينا إلى المتجر. هناك حقيبة وطعام بالقرب منه. تقرأ إيرينا ببطء وتلاحظ كلمة جديدة: «متجر». اليوم جيد، واللغة تصبح أقرب.
+هنا ميناء كبير. هناك سفينة ضخمة على هذه الأرض. يجب عليك
+كتابة اسمك أو تهجئته، بل وإضافة التفاصيل.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Irina is in the store. There is bag and food nearby. Irina reads slowly and notices a new word: store. The day feels good, and the language feels a little closer.
+Here is a large port. There is a big ship on this
+land. You must write or spell your name, and even add details. === END OF
+STORY 09 ===
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 10: At the Station
+Story 10: The Path to Change
 Language: Arabic
 Level: Beginner
 Pages: 1
@@ -205,20 +206,20 @@ Assigned new-word slots: 77-84 (8 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب ماريا إلى المحطة. هناك شاي وتذكرة بالقرب منه. تقرأ ماريا ببطء وتلاحظ كلمة جديدة: «محطة». اليوم جيد، واللغة تصبح أقرب.
+ذهب الرجال إلى جبل مرتفع. أتساءل لماذا ذهبوا. إنهم يعملون
+على متابعة مثل هذا التغيير.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Maria is at the station. There is tea and ticket nearby. Maria reads slowly and notices a new word: station. The day feels good, and the language feels a little closer.
+The men went to a high mountain. I ask why they
+went. They act to follow such a change.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 11: A Simple Call
+Story 11: The New Picture
 Language: Arabic
 Level: Beginner
 Pages: 1
@@ -227,20 +228,21 @@ Assigned new-word slots: 85-92 (8 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، يذهب ديما إلى البيت. هناك هاتف ودفتر بالقرب منه. يقرأ ديما ببطء ويلاحظ كلمة جديدة: «صديق». اليوم جيد، واللغة تصبح أقرب.
+هذا البيت يحتاج إلى ضوء. يرجى محاولة التقاط صورة له مرة
+أخرى دون إضاءة. شخص طيب يساعدنا.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Dima is at home. There is phone and notebook nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer.
+This house needs light. Please try to take a
+picture of it again with the light off. A kind person helps us. === END OF
+STORY 11 ===
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 12: I Know This Word
+Story 12: Our World
 Language: Arabic
 Level: Beginner
 Pages: 1
@@ -249,20 +251,21 @@ Assigned new-word slots: 93-100 (8 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب كاتيا إلى الغرفة. هناك ورقة وكتاب بالقرب منه. تقرأ كاتيا ببطء وتلاحظ كلمة جديدة: «يعرف». اليوم جيد، واللغة تصبح أقرب.
+أمي وأبي يحبان الأرض. نحن نبني بيتاً صغيراً بالقرب من
+الحيوانات لنلاحظ الطبيعة بأنفسنا. هذا هو المغزى في عالمنا.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Katya is in the room. There is paper and book nearby. Katya reads slowly and notices a new word: know. The day feels good, and the language feels a little closer.
+My mother and father love the earth. We build a
+small home near the animals to observe nature ourselves. That is the point in
+our world.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 13: The Library Window
+Story 13: The Lost Dog
 Language: Arabic
 Level: Elementary
 Pages: 2
@@ -271,26 +274,33 @@ Assigned new-word slots: 101-116 (16 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، يذهب بافل إلى المكتبة. هناك نافذة ودفتر بالقرب منه. يقرأ بافل ببطء ويلاحظ كلمة جديدة: «هدوء». اليوم جيد، واللغة تصبح أقرب.
+في يوم من الأيام، وجدت فتاة صغيرة كلباً مفقوداً في الغابة
+القريبة. كان الكلب خائفاً ويشعر بالبرد الشديد. اقتربت منه الفتاة بلطف وتحدثت
+معه بصوت هادئ حتى يطمئن.
 
 Page 2:
-يكتب بافل كلمة «هدوء» في الدفتر. ثم يفكر في موضوع «قراءة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.
+أخذت الفتاة الكلب إلى منزلها وأعطته طعاماً دافئاً. بدأ
+الكلب يهز ذيله بسعادة. وافقت والدتها وأبوها على بقاء الكلب معهم كفرد من
+العائلة، وكان الجميع سعداء جداً.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Pavel is in the library. There is window and notebook nearby. Pavel reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer.
+One day, a young girl found a lost dog in the
+nearby forest. The dog was afraid and felt very cold. The girl approached it
+gently and spoke to it in a quiet voice until it felt safe.
 
 Page 2:
-Pavel writes the word quiet in a notebook. Then Pavel thinks about reading. The place is quiet, so Pavel reads the sentence again and says it softly.
+The girl took the dog to her house and gave it warm
+food. The dog began to wag its tail happily. Her mother and father agreed to let
+the dog stay with them as a family member, and everyone was very happy. === END
+OF STORY 13 ===
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 14: The Museum Visit
+Story 14: The New House
 Language: Arabic
 Level: Elementary
 Pages: 2
@@ -299,26 +309,32 @@ Assigned new-word slots: 117-132 (16 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، يذهب نيكولاي إلى المتحف. هناك تذكرة وصورة بالقرب منه. يقرأ نيكولاي ببطء ويلاحظ كلمة جديدة: «تاريخ». اليوم جيد، واللغة تصبح أقرب.
+اخترنا هذه الأرض الهادئة لنبني عليها منزلنا الجديد. يمر نهر
+نظيف بالقرب منا، ونسمع أصوات الطيور الجميلة كل يوم. تبدأ حياتنا الجديدة في هذا
+المكان الجميل اليوم.
 
 Page 2:
-يكتب نيكولاي كلمة «تاريخ» في الدفتر. ثم يفكر في موضوع «ذاكرة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.
+بدأت أنا وأبي في زراعة حديقة صغيرة بالقرب من منزلنا الجديد.
+زرعنا هناك زهوراً ملونة وجميلة. كانت أمي تنظر إلينا من النافذة وتساعدنا بكلماتها
+الطيبة والمشجعة.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Nikolay is in the museum. There is ticket and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer.
+We chose this quiet land to build our new house. A
+clean river flows near us, and we hear the beautiful voices of birds every day.
+Our new life begins in this beautiful place today.
 
 Page 2:
-Nikolay writes the word history in a notebook. Then Nikolay thinks about memory. The place is quiet, so Nikolay reads the sentence again and says it softly.
+My father and I started planting a small garden
+near our new house. We planted colorful and beautiful flowers there. My mother
+watched us from the window and helped us with her kind and encouraging words.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 15: The Cafe Notebook
+Story 15: The Mother's Advice
 Language: Arabic
 Level: Elementary
 Pages: 2
@@ -327,26 +343,33 @@ Assigned new-word slots: 133-148 (16 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب أولغا إلى المقهى. هناك شاي وموسيقى بالقرب منه. تقرأ أولغا ببطء وتلاحظ كلمة جديدة: «لحن». اليوم جيد، واللغة تصبح أقرب.
+كان ولد صغير يفكر في مسألة صعبة للمدرسة. قرأ كتاباً كبيراً
+لوقت طويل، لكنه لم يستطع فهم الجواب الصحيح على الإطلاق. كان الولد حزيناً
+ومشوّشاً بسبب ذلك.
 
 Page 2:
-تكتب أولغا كلمة «لحن» في الدفتر. ثم تفكر في موضوع «استماع». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+اقتربت أمه منه وقالت له بلطف: "حاول مرة أخرى وابدأ من
+الصفحة الأولى. إذا قرأت ببطء وهدوء، سوف تفهم المغزى والحل بالتأكيد". بدأ
+الولد القراءة مجدداً بنجاح.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Olga is in the cafe. There is tea and music nearby. Olga reads slowly and notices a new word: melody. The day feels good, and the language feels a little closer.
+A young boy was thinking about a difficult problem
+for school. He read a big book for a long time, but he could not understand the
+correct answer at all. The boy was sad and confused because of that.
 
 Page 2:
-Olga writes the word melody in a notebook. Then Olga thinks about listening. The place is quiet, so Olga reads the sentence again and says it softly.
+His mother approached him and said gently: "Try
+again and start from the first page. If you read slowly and quietly, you will
+surely understand the meaning and the solution." The boy started reading again
+with success.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 16: Rain Near the Door
+Story 16: Building a Bridge
 Language: Arabic
 Level: Elementary
 Pages: 2
@@ -355,26 +378,33 @@ Assigned new-word slots: 149-164 (16 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، يذهب ديما إلى متجر الكتب. هناك باب وكتاب بالقرب منه. يقرأ ديما ببطء ويلاحظ كلمة جديدة: «طريق». اليوم جيد، واللغة تصبح أقرب.
+يمر نهر واسع جداً بالقرب من قريتنا الصغيرة. للذهاب إلى
+الجانب الآخر من الأرض، كان يجب علينا دائماً السير في طريق طويل ومتعب. كان
+هذا الأمر غير مريح لنا.
 
 Page 2:
-يكتب ديما كلمة «طريق» في الدفتر. ثم يفكر في موضوع «مطر». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.
+اجتمع أهل القرية وقرروا بناء جسر خشبي جديد. عمل الجميع بجد
+مستخدمين أيديهم، وأصبح الجسر الكبير جاهزاً. الآن يمكننا العبور إلى الطرف الآخر
+بسهولة وسرعة كبيرة.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Dima is in the bookshop. There is door and book nearby. Dima reads slowly and notices a new word: road. The day feels good, and the language feels a little closer.
+A very wide river flows near our small village. To
+go to the other side of the land, we always had to walk along a long and tiring
+road. This was very inconvenient for us.
 
 Page 2:
-Dima writes the word road in a notebook. Then Dima thinks about rain. The place is quiet, so Dima reads the sentence again and says it softly.
+The villagers gathered and decided to build a new
+wooden bridge. Everyone worked hard using their hands, and the big bridge became
+ready. Now we can cross to the other side easily and very quickly. === END OF
+STORY 16 ===
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 17: The Letter on the Table
+Story 17: The Picture Book
 Language: Arabic
 Level: Elementary
 Pages: 2
@@ -383,26 +413,32 @@ Assigned new-word slots: 165-180 (16 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، يذهب ساشا إلى الجامعة. هناك رسالة وطاولة بالقرب منه. يقرأ ساشا ببطء ويلاحظ كلمة جديدة: «لقاء». اليوم جيد، واللغة تصبح أقرب.
+أهداني جدي كتاب صور قديم ومثير للاهتمام. كان في هذا الكتاب
+العديد من الصور الجميلة لحيوانات برية من جميع أنحاء العالم. أحببت هذا الكتاب
+الرائع من أول لحظة.
 
 Page 2:
-يكتب ساشا كلمة «لقاء» في الدفتر. ثم يفكر في موضوع «دعوة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.
+كنت أقرأ الكتاب وأتعلم كيفية كتابة وتهجئة الكلمات الجديدة
+والصعبة. كانت أمي تجلس بجانبي دائماً وتساعدني في القيام بذلك بشكل صحيح وسريع
+دون أخطاء.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Sasha is at the university. There is letter and table nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer.
+My grandfather gave me an old and interesting
+picture book. In this book, there were many beautiful pictures of wild animals
+from all over the world. I loved this wonderful book from the first moment.
 
 Page 2:
-Sasha writes the word meeting in a notebook. Then Sasha thinks about invitation. The place is quiet, so Sasha reads the sentence again and says it softly.
+I was reading the book and learning how to write
+and spell the new and difficult words. My mother always sat beside me and helped
+me do that correctly and quickly without mistakes.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 18: Words in the Park
+Story 18: Pointing to the Sky
 Language: Arabic
 Level: Elementary
 Pages: 2
@@ -411,26 +447,34 @@ Assigned new-word slots: 181-196 (16 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب إيرينا إلى الحديقة. هناك هاتف وشاي بالقرب منه. تقرأ إيرينا ببطء وتلاحظ كلمة جديدة: «ثلاثة». اليوم جيد، واللغة تصبح أقرب.
+عندما صعدنا إلى قمة الجبل المرتفع، بدت السماء الزرقاء قريبة
+جداً منا. كانت الرياح تهب ببرودة وقوة، لكن ضوء الشمس المشرق جعل العالم من حولنا
+جميلاً ورائعاً.
 
 Page 2:
-تكتب إيرينا كلمة «ثلاثة» في الدفتر. ثم تفكر في موضوع «كلام». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+أشار والدي بيده إلى السماء وقال: "انظر إلى تلك الطيور
+الكبيرة والجميلة. إنها تطير معاً إلى بلاد دافئة وبعيدة". وقفنا هناك طويلاً
+نراقب حركتها بهدوء تام.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Irina is in the park. There is phone and tea nearby. Irina reads slowly and notices a new word: three. The day feels good, and the language feels a little closer.
+When we climbed to the top of the high mountain,
+the blue sky seemed very close to us. The wind was blowing coldly and strongly,
+but the bright light of the sun made the world around us beautiful and
+wonderful.
 
 Page 2:
-Irina writes the word three in a notebook. Then Irina thinks about speaking. The place is quiet, so Irina reads the sentence again and says it softly.
+My father pointed with his hand to the sky and
+said: "Look at those big, beautiful birds. They are flying together to warm,
+distant lands." We stood there for a long time watching their movement in
+complete quiet.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 19: The Little Plan
+Story 19: The Father's Letter
 Language: Arabic
 Level: Elementary
 Pages: 2
@@ -439,26 +483,33 @@ Assigned new-word slots: 197-212 (16 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب لينا إلى المتجر. هناك خريطة وسلة بالقرب منه. تقرأ لينا ببطء وتلاحظ كلمة جديدة: «خطة». اليوم جيد، واللغة تصبح أقرب.
+سافر والدي للعمل في مدينة ميناء كبيرة بعيدة جداً عن منزلنا
+الهادئ. وفي أحد الأيام، وصلت إلينا رسالة مكتوبة منه. شعرت بفرح شديد وفتحتها على
+الفور.
 
 Page 2:
-تكتب لينا كلمة «خطة» في الدفتر. ثم تفكر في موضوع «تسوق». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+كتب أبي في الرسالة عن البحر الجميل والأماكن الرائعة والناس
+الطيبين هناك. ووعدنا بأنه سوف يعود إلى المنزل قريباً جداً. اطمأنت روحي وسعدت
+العائلة بهذه الأخبار.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Lena is in the store. There is map and basket nearby. Lena reads slowly and notices a new word: plan. The day feels good, and the language feels a little closer.
+My father traveled for work to a large port city
+far away from our quiet house. One day, a written letter from him arrived. I
+felt extreme joy and opened it immediately.
 
 Page 2:
-Lena writes the word plan in a notebook. Then Lena thinks about shopping. The place is quiet, so Lena reads the sentence again and says it softly.
+My father wrote in the letter about the beautiful
+sea, wonderful places, and kind people there. He promised us that he would
+return home very soon. My soul felt relieved, and the family was happy with this
+news.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 20: The News Page
+Story 20: Water from the Well
 Language: Arabic
 Level: Elementary
 Pages: 2
@@ -467,26 +518,33 @@ Assigned new-word slots: 213-228 (16 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب ماريا إلى المحطة. هناك شاي وجريدة بالقرب منه. تقرأ ماريا ببطء وتلاحظ كلمة جديدة: «خبر». اليوم جيد، واللغة تصبح أقرب.
+كان هذا يوماً حاراً جداً في الصيف. كان الهواء داخل المنزل
+دافئاً وثقيلاً، وكنا بحاجة إلى ماء بارد ونظيف. قررنا الذهاب إلى البئر القديمة
+القريبة من الغابة.
 
 Page 2:
-تكتب ماريا كلمة «خبر» في الدفتر. ثم تفكر في موضوع «تفكير». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+استخدمنا أيدينا لسحب الدلو الثقيل من البئر. كان الماء
+بارداً جداً ومنعشاً. شربنا منه وشعرنا بسعادة ونشاط كبيرين، وأصبح يومنا
+الحار أفضل بكثير من قبل.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Maria is at the station. There is tea and newspaper nearby. Maria reads slowly and notices a new word: news. The day feels good, and the language feels a little closer.
+This was a very hot day in summer. The air inside
+the house was warm and heavy, and we needed cold, clean water. We decided to go
+to the old well near the forest.
 
 Page 2:
-Maria writes the word news in a notebook. Then Maria thinks about thinking. The place is quiet, so Maria reads the sentence again and says it softly.
+We used our hands to pull up the heavy bucket from
+the well. The water was very cold and refreshing. We drank from it and felt
+great happiness and energy, and our hot day became much better than before. ===
+END OF STORY 20 ===
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 21: The Family Walk
+Story 21: A Day of Play
 Language: Arabic
 Level: Elementary
 Pages: 2
@@ -495,26 +553,33 @@ Assigned new-word slots: 229-244 (16 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب آنا إلى الحديقة. هناك الأم والأخ بالقرب منه. تقرأ آنا ببطء وتلاحظ كلمة جديدة: «بيت». اليوم جيد، واللغة تصبح أقرب.
+اليوم كان عطلة مدرسية سعيدة. اجتمع الأطفال الصغار في الساحة
+المفتوحة بالقرب من المنازل. بدأ الجميع يلعبون ويمرحون بنشاط. كان الطقس جميلاً
+والرياح خفيفة ومنعشة.
 
 Page 2:
-تكتب آنا كلمة «بيت» في الدفتر. ثم تفكر في موضوع «عائلة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+جرى الأطفال ولعبوا حتى وقت المساء. وفي نهاية اليوم، جلس
+الجميع في دائرة كبيرة على العشب الأخضر. وأخذوا يخبرون بعضهم البعض عن قصصهم
+المفضلة في الكتب.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Anna is in the park. There is mother and brother nearby. Anna reads slowly and notices a new word: house. The day feels good, and the language feels a little closer.
+Today was a happy school holiday. The small
+children gathered in the open square near the houses. Everyone began playing and
+having fun energetically. The weather was beautiful and the wind was light and
+refreshing.
 
 Page 2:
-Anna writes the word house in a notebook. Then Anna thinks about family. The place is quiet, so Anna reads the sentence again and says it softly.
+The children ran and played until evening. At the
+end of the day, everyone sat in a large circle on the green grass. They began
+telling each other about their favorite stories in books.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 22: The Quiet Room
+Story 22: Small Endings
 Language: Arabic
 Level: Elementary
 Pages: 2
@@ -523,26 +588,33 @@ Assigned new-word slots: 245-260 (16 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، يذهب إيفان إلى الغرفة. هناك كرسي وكتاب بالقرب منه. يقرأ إيفان ببطء ويلاحظ كلمة جديدة: «غرفة». اليوم جيد، واللغة تصبح أقرب.
+كل شيء في هذا العالم له نهاية. لكن أي نهاية تعني دائماً
+بداية لشيء جديد ومثير. وضع الولد الصغير كل ألعابه القديمة في صندوق كبير
+ومغلق.
 
 Page 2:
-يكتب إيفان كلمة «غرفة» في الدفتر. ثم يفكر في موضوع «صمت». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.
+لقد أصبح الولد أكبر الآن ولم يعد يلعب بتلك الألعاب. يجب
+عليه الآن قراءة كتب مفيدة ووضع خطط جديدة لحياته. ابتسم ومضى يبني مستقبله
+بثقة.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Ivan is in the room. There is chair and book nearby. Ivan reads slowly and notices a new word: room. The day feels good, and the language feels a little closer.
+Every thing in this world has an end. But any end
+always means a beginning for something new and exciting. The young boy put all
+his old toys in a large, closed box.
 
 Page 2:
-Ivan writes the word room in a notebook. Then Ivan thinks about silence. The place is quiet, so Ivan reads the sentence again and says it softly.
+The boy has become older now and does not play with
+those toys anymore. He must now read useful books and make new plans for his
+life. He smiled and went on to build his future with confidence. === END OF
+STORY 22 ===
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 23: The New Teacher
+Story 23: The Port City
 Language: Arabic
 Level: Elementary
 Pages: 2
@@ -551,26 +623,33 @@ Assigned new-word slots: 261-275 (15 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب ماشا إلى المدرسة. هناك معلم ولوحة بالقرب منه. تقرأ ماشا ببطء وتلاحظ كلمة جديدة: «سؤال». اليوم جيد، واللغة تصبح أقرب.
+يقع منزلي بالقرب من ميناء كبير جداً ونشيط. وفي كل صباح، تصل
+سفن ضخمة من جميع أنحاء العالم. ينزل الكثير من الناس إلى هذه الأرض وتصبح الحركة
+مزدحمة.
 
 Page 2:
-تكتب ماشا كلمة «سؤال» في الدفتر. ثم تفكر في موضوع «تعلم». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+في المساء، أذهب مع والدي إلى الماء. نقف لنشاهد السفن
+الكبيرة وهي تخرج عائدة إلى عرض البحر. يغطي ضوء الشمس الأمواج، ويبدو هذا
+المنظر جميلاً بلا كلمات.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Masha is at school. There is teacher and board nearby. Masha reads slowly and notices a new word: question. The day feels good, and the language feels a little closer.
+My house is located near a very large and busy
+port. Every morning, huge ships arrive from all over the world. Many people
+disembark onto this land, and the movement becomes crowded.
 
 Page 2:
-Masha writes the word question in a notebook. Then Masha thinks about learning. The place is quiet, so Masha reads the sentence again and says it softly.
+In the evening, I go with my father to the water.
+We stand to watch the large ships as they head back out to the open sea. The
+sun's light covers the waves, and this view looks beautiful beyond words. ===
+END OF STORY 23 ===
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 24: The Bus Stop
+Story 24: High Lands
 Language: Arabic
 Level: Elementary
 Pages: 2
@@ -579,26 +658,32 @@ Assigned new-word slots: 276-290 (15 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، يذهب بافل إلى الشارع. هناك تذكرة وحافلة بالقرب منه. يقرأ بافل ببطء ويلاحظ كلمة جديدة: «وقت». اليوم جيد، واللغة تصبح أقرب.
+قررنا وضع خطة للصعود إلى جبل مرتفع جداً. كان هذا الجبل
+يرتفع عالياً بالقرب من السحاب، وكان الوصول إلى قمته يتطلب منا قوة وعملاً
+جاداً.
 
 Page 2:
-يكتب بافل كلمة «وقت» في الدفتر. ثم يفكر في موضوع «انتظار». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.
+عندما وصلنا إلى القمة المرتفعة، كانت الرياح باردة جداً. لكن
+المنظر للأرض من هناك كان رائعاً؛ بدت البيوت والأنهار كنقاط صغيرة. شعرنا بالفخر
+بقوتنا الذاتية.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Pavel is on the street. There is ticket and bus nearby. Pavel reads slowly and notices a new word: time. The day feels good, and the language feels a little closer.
+We decided to make a plan to climb a very high
+mountain. This mountain rose high near the clouds, and reaching its summit
+required strength and hard work from us.
 
 Page 2:
-Pavel writes the word time in a notebook. Then Pavel thinks about waiting. The place is quiet, so Pavel reads the sentence again and says it softly.
+When we reached the high summit, the wind was very
+cold. But the view of the earth from there was wonderful; houses and rivers
+looked like small points. We felt proud of our own strength.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 25: The Small Market
+Story 25: Trying Again
 Language: Arabic
 Level: Elementary
 Pages: 2
@@ -607,26 +692,33 @@ Assigned new-word slots: 291-305 (15 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب أولغا إلى السوق. هناك فاكهة وحقيبة بالقرب منه. تقرأ أولغا ببطء وتلاحظ كلمة جديدة: «مال». اليوم جيد، واللغة تصبح أقرب.
+حاولت فتاة صغيرة صنع حيوان جميل من الورق الملون. لكن
+محاولتها الأولى لم تنجح، وتمزق الورق. شعرت بالحزن الشديد وأرادت التوقف عن
+العمل تماماً.
 
 Page 2:
-تكتب أولغا كلمة «مال» في الدفتر. ثم تفكر في موضوع «سوق». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+اقتربت منها أمها وقالت: "حاولي مرة أخرى واجعلي حركة يدك
+أبطأ". أخذت الفتاة ورقة جديدة ونظيفة واستطاعت صنع شكل ممتاز. ابتسمت وشعرت
+بالفرح والنجاح.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Olga is at the market. There is fruit and bag nearby. Olga reads slowly and notices a new word: money. The day feels good, and the language feels a little closer.
+A young girl tried to make a beautiful animal out
+of colored paper. But her first attempt did not succeed, and the paper tore. She
+felt very sad and wanted to stop the work completely.
 
 Page 2:
-Olga writes the word money in a notebook. Then Olga thinks about market. The place is quiet, so Olga reads the sentence again and says it softly.
+Her mother came near her and said: "Try again and
+make your hand movement slower." The girl took a new, clean sheet of paper and
+was able to make an excellent shape. She smiled and felt joy and success. ===
+END OF STORY 25 ===
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 26: The First Conversation
+Story 26: The World of Words
 Language: Arabic
 Level: Elementary
 Pages: 2
@@ -635,26 +727,32 @@ Assigned new-word slots: 306-320 (15 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، يذهب ديما إلى المقهى. هناك هاتف وصديق بالقرب منه. يقرأ ديما ببطء ويلاحظ كلمة جديدة: «جملة». اليوم جيد، واللغة تصبح أقرب.
+تفتح الكلمات لنا طرقاً جديدة وتغير فهمنا للحياة كلياً. وفي
+كل يوم، أدرس معاني الكلمات الجديدة وأكتبها في دفتري لكي أتذكرها دائماً دون
+نسيان.
 
 Page 2:
-يكتب ديما كلمة «جملة» في الدفتر. ثم يفكر في موضوع «حديث». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.
+تساعد قراءة الكتب الإنسان في بناء عالمه الداخلي الخاص به.
+ومن خلال القراءة الكثيرة، نبدأ في فهم الآخرين بشكل أفضل ونصبح أكثر عطفاً
+ولطفاً مع الجميع.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Dima is in the cafe. There is phone and friend nearby. Dima reads slowly and notices a new word: sentence. The day feels good, and the language feels a little closer.
+Words open new paths for us and change our
+understanding of life entirely. Every day, I study the meanings of new words and
+write them in my notebook so that I always remember them without forgetting.
 
 Page 2:
-Dima writes the word sentence in a notebook. Then Dima thinks about talk. The place is quiet, so Dima reads the sentence again and says it softly.
+Reading books helps a person build their own inner
+world. Through reading a lot, we begin to understand others better and become
+more compassionate and kind to everyone.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 27: The Lost Note
+Story 27: The Old Clock
 Language: Arabic
 Level: Intermediate
 Pages: 3
@@ -663,32 +761,46 @@ Assigned new-word slots: 321-344 (24 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب كاتيا إلى المكتبة. هناك ملاحظة وخريطة بالقرب منه. تقرأ كاتيا ببطء وتلاحظ كلمة جديدة: «مكان». اليوم جيد، واللغة تصبح أقرب.
+في أحد أيام السبت، قرر ماجد تنظيف علية منزله القديمة. كان
+هناك الكثير من الصناديق والأثاث المكسور. وفي زاوية الغرفة، لاحظ ساعة خشبية
+قديمة كبيرة. كانت تبدو وكأنها لم تعمل منذ سنوات طويلة، ومغطاة بالغبار.
 
 Page 2:
-تكتب كاتيا كلمة «مكان» في الدفتر. ثم تفكر في موضوع «بحث». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+فتح ماجد الباب الزجاجي للساعة وبدأ يفحصها من الداخل. وخلف
+البندول الثقيل، وجد مفتاحاً نحاسياً صغيراً. أخذه في يده وحاول إدخاله في فتحة
+صغيرة على جانب الساعة. تطابق المفتاح تماماً وبسهولة.
 
 Page 3:
-تظهر مشكلة صغيرة، لكن كاتيا تستخدم الكلمات الجديدة. تنظر إلى ملاحظة، ثم إلى خريطة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.
+أدار المفتاح ببطء، وبدأت الساعة تصدر صوت تكتكة مألوفاً.
+تحركت العقارب في دائرة، وسرعان ما رن جرس جميل في أرجاء المنزل. كان هذا الصوت
+هو نفسه الذي كان جده يحب سماعه قبل سنوات طويلة. شعر ماجد بالدفء والسرور.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Katya is in the library. There is note and map nearby. Katya reads slowly and notices a new word: place. The day feels good, and the language feels a little closer.
+On a Saturday, Majid decided to clean the old attic
+of his house. There were many old boxes and broken furniture. In the corner of
+the room, he noticed a large, antique wooden clock. It looked as if it had not
+worked for many years and was covered in dust.
 
 Page 2:
-Katya writes the word place in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly.
+Majid opened the clock's glass door and began
+examining it from the inside. Behind the heavy pendulum, he found a small brass
+key. He took it in his hand and tried inserting it into a small hole on the
+side. The key fit perfectly and easily.
 
 Page 3:
-A small problem appears, but Katya uses the new words to understand it. Katya checks the note, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence.
+He turned the key slowly, and the clock began to
+make a familiar ticking sound. The hands moved in a circle, and soon a beautiful
+chime rang throughout the house. This sound was the same one his grandfather
+loved listening to many years ago. Majid felt warm and joyful. === END OF
+STORY 27 ===
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 28: A Meeting at Noon
+Story 28: The Quiet Forest
 Language: Arabic
 Level: Intermediate
 Pages: 3
@@ -697,32 +809,46 @@ Assigned new-word slots: 345-368 (24 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، يذهب ساشا إلى الجامعة. هناك ساعة ورسالة بالقرب منه. يقرأ ساشا ببطء ويلاحظ كلمة جديدة: «ظهر». اليوم جيد، واللغة تصبح أقرب.
+كانت مريم تسير في غابة هادئة، حيث لم يكن يُسمع سوى أصوات
+الطيور البعيدة. كانت الأشجار عالية جداً، وضوء الشمس يمر بالكاد بين الأغصان
+الخضراء. وتحت قدميها كان هناك بساط من الطحالب الخضراء الناعمة.
 
 Page 2:
-يكتب ساشا كلمة «ظهر» في الدفتر. ثم يفكر في موضوع «لقاء». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.
+مشيت مريم إلى عمق أكبر وفجأة رأت بحيرة صغيرة وجميلة. كان
+الماء فيها صافياً كأنه مرآة، وتنعكس عليه السماء الصافية والغيوم البيضاء.
+وبالقرب منها كانت تقف بعض الغزلان وهي تشرب الماء بهدوء ونظرت إليها مريم
+بصمت.
 
 Page 3:
-تظهر مشكلة صغيرة، لكن ساشا يستخدم الكلمات الجديدة. ينظر إلى ساعة، ثم إلى رسالة، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.
+جلست مريم على صخرة جافة بالقرب من الماء وفتحت دفترها. قررت
+كتابة هذه القصة ورسم البحيرة والغزلان. ستبقى هذه الذكرى الدافئة والجميلة
+لرحلتها في الغابة معها لوقت طويل جداً في حياتها.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Sasha is at the university. There is clock and letter nearby. Sasha reads slowly and notices a new word: noon. The day feels good, and the language feels a little closer.
+Maryam was walking through a quiet forest where
+only the distant voices of birds were heard. The trees were very tall, and the
+light of the sun barely passed through the green branches. Underfoot lay a
+carpet of soft green moss.
 
 Page 2:
-Sasha writes the word noon in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly.
+Maryam walked deeper and suddenly saw a small,
+beautiful lake. The water in it was clean as a mirror, reflecting the clear sky
+and white clouds. Nearby stood several deer drinking water quietly, and Maryam
+watched them in silence.
 
 Page 3:
-A small problem appears, but Sasha uses the new words to understand it. Sasha checks the clock, looks at the letter, and makes a simple plan. By the end, Sasha can say one clear sentence.
+Maryam sat on a dry rock near the water and opened
+her notebook. She decided to write down this story and draw the lake and the
+deer. This warm and beautiful memory of her trip in the forest will stay with
+her for a very long time in her life.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 29: The Old Map
+Story 29: The City by the Sea
 Language: Arabic
 Level: Intermediate
 Pages: 3
@@ -731,32 +857,45 @@ Assigned new-word slots: 369-392 (24 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، يذهب نيكولاي إلى المتحف. هناك خريطة وشارع بالقرب منه. يقرأ نيكولاي ببطء ويلاحظ كلمة جديدة: «مدينة». اليوم جيد، واللغة تصبح أقرب.
+كان عادل يعيش في مدينة جميلة تقع على شاطئ البحر الأزرق. وفي
+كل صيف، كان يقام هناك مهرجان كبير. تُعلق الأعلام الملونة في الميناء، ويبني الناس
+أكشاكاً خشبية لبيع الطعام. ومع اقتراب المساء، تجمّع الكثير من الناس السعداء.
 
 Page 2:
-يكتب نيكولاي كلمة «مدينة» في الدفتر. ثم يفكر في موضوع «تاريخ». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.
+التقى عادل في الميناء ببحار عجوز قضى حياته في البحر. أخبره
+العجوز عن رحلاته الطويلة في محيطات الأرض، وعن العواصف القوية والأسماك الضخمة.
+استمع الولد إليه باهتمام كبير وحلم بأن يصبح بحاراً حقيقياً في المستقبل.
 
 Page 3:
-تظهر مشكلة صغيرة، لكن نيكولاي يستخدم الكلمات الجديدة. ينظر إلى خريطة، ثم إلى شارع، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.
+عندما حل الظلام، بدأت الألعاب النارية الملونة تضيء السماء.
+كانت الأضواء تطير عالياً في الهواء ثم تسقط في ماء البحر لترسم لوحة رائعة. كانت
+المدينة كلها تضيء بسعادة، وشعر عادل بالفخر بمدينته الساحلية الرائعة.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Nikolay is in the museum. There is map and street nearby. Nikolay reads slowly and notices a new word: city. The day feels good, and the language feels a little closer.
+Adel lived in a beautiful city located on the shore
+of the blue sea. Every summer, a big festival was organized there. Colorful
+flags were hung in the port, and people built wooden stalls to sell food. As
+evening approached, many happy people gathered.
 
 Page 2:
-Nikolay writes the word city in a notebook. Then Nikolay thinks about history. The place is quiet, so Nikolay reads the sentence again and says it softly.
+Adel met an old sailor at the port who spent his
+life at sea. The old man told him about his long voyages across the earth's
+oceans, about strong storms and huge fish. The boy listened to him with great
+interest and dreamed of becoming a real sailor in the future.
 
 Page 3:
-A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the map, looks at the street, and makes a simple plan. By the end, Nikolay can say one clear sentence.
+When darkness fell, colorful fireworks began to
+light up the sky. The lights flew high into the air and then fell into the sea
+water to paint a wonderful picture. The whole city glowed with happiness, and
+Adel felt proud of his wonderful coastal city.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 30: The Rainy Lesson
+Story 30: The Creative Lesson
 Language: Arabic
 Level: Intermediate
 Pages: 3
@@ -765,32 +904,45 @@ Assigned new-word slots: 393-416 (24 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب إيرينا إلى المدرسة. هناك نافذة ومطر بالقرب منه. تقرأ إيرينا ببطء وتلاحظ كلمة جديدة: «طقس». اليوم جيد، واللغة تصبح أقرب.
+في المدرسة، أعطى المعلم الأطفال مهمة جديدة في حصة العلوم.
+كان عليهم التقسيم إلى مجموعات وبناء نموذج لـ "مدينة المستقبل". جلس أربعة
+أصدقاء معاً وبدأوا يفكرون في التقنيات الصديقة للبيئة.
 
 Page 2:
-تكتب إيرينا كلمة «طقس» في الدفتر. ثم تفكر في موضوع «دراسة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+كان لديهم الكثير من الأفكار الرائعة والمفيدة. قرروا وضع
+خلايا شمسية على أسطح كل المنازل، ونظام لجمع مياه الأمطار من أجل سقاية
+النباتات. استخدموا أشياء بسيطة مثل الورق والكرتون بأيديهم.
 
 Page 3:
-تظهر مشكلة صغيرة، لكن إيرينا تستخدم الكلمات الجديدة. تنظر إلى نافذة، ثم إلى مطر، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.
+في اليوم التالي، عرضت كل المجموعات نماذجها الرائعة. مدح
+المعلم الطلاب على جهدهم الكبير وعملهم الجاد. فهم الأصدقاء أهمية العمل معاً
+ومساعدة بعضهم البعض من أجل تحقيق هدف مفيد للجميع.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Irina is at school. There is window and rain nearby. Irina reads slowly and notices a new word: weather. The day feels good, and the language feels a little closer.
+At school, the teacher gave the children a new task
+in science class. They had to divide into groups and build a model of a "city of
+the future." Four friends sat together and began thinking about eco-friendly
+technologies.
 
 Page 2:
-Irina writes the word weather in a notebook. Then Irina thinks about study. The place is quiet, so Irina reads the sentence again and says it softly.
+They had many great and useful ideas. They decided
+to put solar panels on the roofs of all houses, and a system to collect
+rainwater to water the plants. They used simple things like paper and cardboard
+with their hands.
 
 Page 3:
-A small problem appears, but Irina uses the new words to understand it. Irina checks the window, looks at the rain, and makes a simple plan. By the end, Irina can say one clear sentence.
+The next day, all groups displayed their wonderful
+models. The teacher praised the students for their great effort and hard work.
+The friends understood the importance of working together and helping one
+another to achieve a useful goal for everyone.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 31: The Museum Question
+Story 31: The Mountain Wind
 Language: Arabic
 Level: Intermediate
 Pages: 3
@@ -799,32 +951,45 @@ Assigned new-word slots: 417-440 (24 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، يذهب بافل إلى المتحف. هناك صورة ودفتر بالقرب منه. يقرأ بافل ببطء ويلاحظ كلمة جديدة: «سؤال». اليوم جيد، واللغة تصبح أقرب.
+في الصباح الباكر، بدأ طارق الصعود في طريق ضيق نحو الجبل
+المرتفع. كانت الرياح تهب بقوة وبرودة، لكن حركته السريعة جعلت جسده يشعر
+بالدفء. كانت هناك زهور برية جميلة تظهر على طول الطريق وتسر عينه.
 
 Page 2:
-يكتب بافل كلمة «سؤال» في الدفتر. ثم يفكر في موضوع «جواب». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.
+في منتصف النهار، أصبحت السماء مظلمة فجأة وبدأ المطر يهطل
+بغزارة. ولحسن الحظ، كان هناك كوخ صغير مبني من الحجر أمامه مباشرة. ركض طارق
+بسرعة إلى الداخل ليحتمي من العاصفة ويشرب الشاي الدافئ.
 
 Page 3:
-تظهر مشكلة صغيرة، لكن بافل يستخدم الكلمات الجديدة. ينظر إلى صورة، ثم إلى دفتر، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.
+بعد ساعة، توقف المطر وظهرت الشمس المشرقة مجدداً في السماء.
+خرج طارق من الكوخ ووصل إلى قمة الجبل. كانت هناك وادٍ أخضر كبير ممتد بالأسفل.
+أخذت الرياح القوية كل تعبه وشعر بفرحة حقيقية.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Pavel is in the museum. There is picture and notebook nearby. Pavel reads slowly and notices a new word: question. The day feels good, and the language feels a little closer.
+Early in the morning, Tariq began climbing a narrow
+path towards the high mountain. The wind blew strongly and coldly, but his fast
+movement kept his body warm. There were beautiful wild flowers appearing along
+the path, pleasing his eye.
 
 Page 2:
-Pavel writes the word question in a notebook. Then Pavel thinks about answer. The place is quiet, so Pavel reads the sentence again and says it softly.
+At noon, the sky suddenly turned dark and heavy
+rain began to fall. Fortunately, there was a small cabin built of stone right in
+front of him. Tariq ran quickly inside to take shelter from the storm and drink
+warm tea.
 
 Page 3:
-A small problem appears, but Pavel uses the new words to understand it. Pavel checks the picture, looks at the notebook, and makes a simple plan. By the end, Pavel can say one clear sentence.
+After an hour, the rain stopped and the bright sun
+appeared again in the sky. Tariq left the cabin and reached the top of the
+mountain. There was a large green valley stretching out below. The strong wind
+carried away all his fatigue, and he felt true joy.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 32: The Train Delay
+Story 32: The Grandfather's Map
 Language: Arabic
 Level: Intermediate
 Pages: 3
@@ -833,32 +998,45 @@ Assigned new-word slots: 441-464 (24 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب ماريا إلى المحطة. هناك تذكرة وساعة بالقرب منه. تقرأ ماريا ببطء وتلاحظ كلمة جديدة: «ينتظر». اليوم جيد، واللغة تصبح أقرب.
+كان سمير يبحث عن كتاب في غرفة مكتب جده القديمة. وعندما فتح
+درجاً قديماً من أدراج المكتبة، وجد في قاعه ورقة مطوية. كانت خريطة قديمة للغابة
+القريبة رسمها جده بيده عندما كان طفلاً صغيراً.
 
 Page 2:
-تكتب ماريا كلمة «ينتظر» في الدفتر. ثم تفكر في موضوع «سفر». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+قرر سمير وصديقه الذهاب إلى الغابة باستخدام هذه الخريطة.
+استخدموا الأشجار القديمة المميزة كعلامات للطريق وساروا في عمق أكبر. وسرعان
+ما وجدوا بئراً حجرية قديمة مغطاة بالعشب الأخضر، تماماً كما في الخريطة.
 
 Page 3:
-تظهر مشكلة صغيرة، لكن ماريا تستخدم الكلمات الجديدة. تنظر إلى تذكرة، ثم إلى ساعة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.
+نظر الولدان داخل البئر ووجدا صندوقاً بلاستيكياً صغيراً. في
+الداخل كانت عملة معدنية قديمة ورسالة صغيرة تحمل اسم جده عندما كان طفلاً. شعر
+الولدان بسعادة غامرة وكأنهما في مغامرة تاريخية حقيقية.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Maria is at the station. There is ticket and clock nearby. Maria reads slowly and notices a new word: wait. The day feels good, and the language feels a little closer.
+Samir was looking for a book in his grandfather's
+old study room. When he opened an old drawer of the desk, he found a folded
+paper at the bottom. It was an old map of the nearby forest drawn by his
+grandfather when he was a young child.
 
 Page 2:
-Maria writes the word wait in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly.
+Samir and his friend decided to go to the forest
+using this map. They used old, unique trees as landmarks and walked deeper into
+the forest. Soon they found an old stone well covered with green grass, exactly
+like on the map.
 
 Page 3:
-A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the clock, and makes a simple plan. By the end, Maria can say one clear sentence.
+The two boys looked inside the well and found a
+small plastic box. Inside was an old coin and a small note with their
+grandfather's name when he was a child. The boys felt immense joy as if they
+were in a real historical adventure.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 33: Music in the Cafe
+Story 33: The Painting Class
 Language: Arabic
 Level: Intermediate
 Pages: 3
@@ -867,32 +1045,46 @@ Assigned new-word slots: 465-488 (24 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب أولغا إلى المقهى. هناك موسيقى وشاي بالقرب منه. تقرأ أولغا ببطء وتلاحظ كلمة جديدة: «أغنية». اليوم جيد، واللغة تصبح أقرب.
+في كل سبت، كانت ليلى تذهب إلى دروس الرسم. اليوم كان عليهم
+رسم منظر النهر والسماء من نافذة الصف الكبيرة. جهزت لوحتها ووضعت ألواناً مائية
+زاهية على الطاولة. كانت متشوقة جداً لبدء العمل والنشاط.
 
 Page 2:
-تكتب أولغا كلمة «أغنية» في الدفتر. ثم تفكر في موضوع «ذاكرة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+بعد ساعة، بدأت السماء في الخارج تغير لونها ببطء إلى اللون
+البرتقالي الجميل. وظهر انعكاس رائع لأشعة الشمس فوق ماء النهر. خلطت ليلى
+الألوان الحمراء والصفراء بحذر على لوحتها لتنقل هذا الضوء الدافئ والجميل.
 
 Page 3:
-تظهر مشكلة صغيرة، لكن أولغا تستخدم الكلمات الجديدة. تنظر إلى موسيقى، ثم إلى شاي، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.
+في نهاية الدرس، عُلقت كل اللوحات على الجدار. وعلى الرغم من
+أن الجميع رسموا نفس المنظر من النافذة، كانت لكل لوحة شخصيتها وجمالها الفريد.
+فهمت ليلى أن كل إنسان يرى العالم بطريقته الخاصة والجميلة.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Olga is in the cafe. There is music and tea nearby. Olga reads slowly and notices a new word: song. The day feels good, and the language feels a little closer.
+Every Saturday, Layla went to painting class. Today
+they had to paint the view of the river and sky from the large classroom window.
+She prepared her canvas and put bright watercolors on the table. She was very
+excited to start her work and activity.
 
 Page 2:
-Olga writes the word song in a notebook. Then Olga thinks about memory. The place is quiet, so Olga reads the sentence again and says it softly.
+An hour later, the sky outside began to slowly
+change its color to a beautiful orange. A wonderful reflection of the sun's rays
+appeared on the river water. Layla carefully mixed red and yellow colors on her
+canvas to convey this warm and beautiful light.
 
 Page 3:
-A small problem appears, but Olga uses the new words to understand it. Olga checks the music, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence.
+At the end of the lesson, all paintings were hung
+on the wall. Even though everyone painted the same view from the window, each
+painting had its own unique personality and beauty. Layla understood that every
+person sees the world in their own special and beautiful way. === END OF
+STORY 33 ===
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 34: A Letter from a Friend
+Story 34: The Lost Key
 Language: Arabic
 Level: Intermediate
 Pages: 3
@@ -901,32 +1093,45 @@ Assigned new-word slots: 489-512 (24 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، يذهب ديما إلى البيت. هناك رسالة وهاتف بالقرب منه. يقرأ ديما ببطء ويلاحظ كلمة جديدة: «صديق». اليوم جيد، واللغة تصبح أقرب.
+يوم الأحد، كانت ياسمين تلعب مع أخيها الصغير في الحديقة
+العامة. وضعت ياسمين مفتاح مكتبها الصغير في جيب سترتها. لكن خلال اللعب
+والجري على العشب الأخضر، سقط المفتاح وحزنت الفتاة كثيراً.
 
 Page 2:
-يكتب ديما كلمة «صديق» في الدفتر. ثم يفكر في موضوع «دعوة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.
+جاء وقت المساء، وأصبح الجو مظلماً بعض الشيء في الحديقة.
+أحضر شقيقها مصباحاً يدوياً صغيراً ليساعدها في البحث. مشى الاثنان معاً بالقرب
+من الأشجار الكبيرة ووجها الضوء نحو الأرض لمراقبة العشب بدقة.
 
 Page 3:
-تظهر مشكلة صغيرة، لكن ديما يستخدم الكلمات الجديدة. ينظر إلى رسالة، ثم إلى هاتف، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.
+بعد قليل، لاحظ شقيقها لمعاناً معدنياً تحت صخرة رمادية
+صغيرة. كان هذا هو المفتاح المفقود! فرحت ياسمين كثيراً وشكرت شقيقها بامتنان.
+وعندما عادوا إلى المنزل، استطاعت فتح درج مكتبها الصغير بنجاح.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Dima is at home. There is letter and phone nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer.
+On Sunday, Yasmin was playing with her younger
+brother in the public park. Yasmin put her small desk key in her jacket pocket.
+But during playing and running on the green grass, the key fell out, and the
+girl was very sad.
 
 Page 2:
-Dima writes the word friend in a notebook. Then Dima thinks about invitation. The place is quiet, so Dima reads the sentence again and says it softly.
+Evening arrived, and it became a bit dark in the
+park. Her brother brought a small flashlight to help her search. The two walked
+together near the large trees and pointed the light towards the ground to
+examine the grass closely.
 
 Page 3:
-A small problem appears, but Dima uses the new words to understand it. Dima checks the letter, looks at the phone, and makes a simple plan. By the end, Dima can say one clear sentence.
+After a short while, her brother noticed a metallic
+shine under a small grey stone. It was the lost key! Yasmin was very happy and
+thanked her brother with gratitude. When they returned home, she was able to
+open her small desk drawer successfully.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 35: The School Project
+Story 35: The River Adventure
 Language: Arabic
 Level: Intermediate
 Pages: 3
@@ -935,32 +1140,46 @@ Assigned new-word slots: 513-535 (23 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب ماشا إلى المدرسة. هناك ورقة ومعلم بالقرب منه. تقرأ ماشا ببطء وتلاحظ كلمة جديدة: «مشروع». اليوم جيد، واللغة تصبح أقرب.
+صنع يوسف وصديقه قاربًا خشبيًا جميلاً في حصة الأشغال اليدوية
+بالمدرسة. وقررا إطلاقه في رحلة مائية على طول النهر النظيف الموجود بالقرب من
+منزلهما لمعرفة كيفية حركته وتوازنه على الماء.
 
 Page 2:
-تكتب ماشا كلمة «مشروع» في الدفتر. ثم تفكر في موضوع «مجموعة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+كان مجرى النهر هادئاً، لكن في طريقه كانت توجد بعض الأغصان
+المتساقطة والحجارة الكبيرة. جرى الولدان على طول الشاطئ وكانا يشعران بالقلق
+خوفاً من أن يصطدم قاربهما الصغير بأي من هذه الحواجز المائية.
 
 Page 3:
-تظهر مشكلة صغيرة، لكن ماشا تستخدم الكلمات الجديدة. تنظر إلى ورقة، ثم إلى معلم، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.
+في نهاية النهر، أمسك يوسف بالقارب بحذر شديد لئلا يبتل. كان
+القارب سليماً تماماً ولم يصب بأي ضرر. عاد الصديقان إلى المنزل ودونا بالتفصيل في
+دفتر الملاحظات نتائجهما حول سرعة تدفق مياه النهر.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Masha is at school. There is paper and teacher nearby. Masha reads slowly and notices a new word: project. The day feels good, and the language feels a little closer.
+Youssef and his friend made a beautiful wooden boat
+in their school crafts class. They decided to launch it on a water voyage along
+the clean river located near their house to see its movement and balance on the
+water.
 
 Page 2:
-Masha writes the word project in a notebook. Then Masha thinks about group. The place is quiet, so Masha reads the sentence again and says it softly.
+The river flow was calm, but along its path there
+were some fallen branches and big stones. The two boys ran along the bank and
+felt anxious, fearing that their small boat might collide with any of these
+water obstacles.
 
 Page 3:
-A small problem appears, but Masha uses the new words to understand it. Masha checks the paper, looks at the teacher, and makes a simple plan. By the end, Masha can say one clear sentence.
+At the end of the river, Youssef caught the boat
+very carefully so as not to get wet. The boat was completely intact and did not
+suffer any damage. The two friends returned home and recorded their results
+regarding the speed of the river water flow in detail in their notebook. === END
+OF STORY 35 ===
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 36: The City Walk
+Story 36: The Starlit Sky
 Language: Arabic
 Level: Intermediate
 Pages: 3
@@ -969,32 +1188,46 @@ Assigned new-word slots: 536-558 (23 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب آنا إلى المدينة. هناك شارع ونافذة بالقرب منه. تقرأ آنا ببطء وتلاحظ كلمة جديدة: «نزهة». اليوم جيد، واللغة تصبح أقرب.
+في الصيف، ذهب كريم مع والديه في رحلة تخييم في الجبال
+المرتفعة. كانت الليلة هادئة ومظلمة جداً لعدم وجود أي أضواء للمدينة حولهم.
+خرج كريم إلى الهواء النقي ورفع عينيه لمشاهدة السماء الرائعة.
 
 Page 2:
-تكتب آنا كلمة «نزهة» في الدفتر. ثم تفكر في موضوع «مكان». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+أخرج والد كريم من حقيبته كتاباً رائعاً عن المجموعات
+النجمية. قام بتشغيل مصباح يدوي ضعيف، وبدأ وهو ينظر في الكتاب يوضح لابنه
+أسماء النجوم البراقة في السماء، ويشرح له أسمائها وقصصها القديمة.
 
 Page 3:
-تظهر مشكلة صغيرة، لكن آنا تستخدم الكلمات الجديدة. تنظر إلى شارع، ثم إلى نافذة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.
+فجأة، طار نجم ساطع بسرعة عبر السماء المظلمة، تاركاً خلفه
+خطاً مضيئاً وجميلاً. كان هذا شهاباً. تمكن كريم من تمني أمنية سريعة لقلبه
+بخصوص مستقبله وأحلامه. كانت هذه الليلة تجربة دافئة وجميلة بالنسبة له.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Anna is in the city. There is street and window nearby. Anna reads slowly and notices a new word: walk. The day feels good, and the language feels a little closer.
+In the summer, Karim went with his parents on a
+camping trip in the high mountains. The night was very quiet and dark because
+there were no city lights around them. Karim went out into the fresh air and
+raised his eyes to watch the wonderful sky.
 
 Page 2:
-Anna writes the word walk in a notebook. Then Anna thinks about place. The place is quiet, so Anna reads the sentence again and says it softly.
+Karim's father took a wonderful book about
+constellations from his bag. He turned on a dim flashlight and, looking at the
+book, began to show his son the bright stars in the sky, explaining their names
+and ancient stories.
 
 Page 3:
-A small problem appears, but Anna uses the new words to understand it. Anna checks the street, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence.
+Suddenly, a bright star flew quickly across the
+dark sky, leaving a glowing and beautiful line behind it. This was a shooting
+star. Karim managed to quickly make a wish in his heart about his future and
+dreams. This night was a warm and beautiful experience for him. === END OF
+STORY 36 ===
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 37: The Bookshop Door
+Story 37: The Garden Project
 Language: Arabic
 Level: Intermediate
 Pages: 3
@@ -1003,32 +1236,45 @@ Assigned new-word slots: 559-581 (23 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، يذهب إيفان إلى متجر الكتب. هناك باب وكتاب بالقرب منه. يقرأ إيفان ببطء ويلاحظ كلمة جديدة: «يفتح». اليوم جيد، واللغة تصبح أقرب.
+في الربيع، قضى حازم وقتاً ممتعاً في مزرعة جدته الطيبة. قررت
+الجدة تعليمه كيفية زراعة الخضار والاهتمام بها بأيديهم. قام الاثنان بتجهيز الأرض
+في الحديقة وزرعا بعض بذور الطماطم والخيار بحذر شديد.
 
 Page 2:
-يكتب إيفان كلمة «يفتح» في الدفتر. ثم يفكر في موضوع «قراءة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.
+كل يوم بعد انتهاء دروسه، كان حازم يسرع لمساعدة جدته وسقاية
+النباتات بالماء البارد. وبعد أسبوعين، بدأت الأوراق الخضراء الصغيرة تظهر من
+التربة الدافئة. شعر حازم بسعادة غامرة لرؤية ثمار جهدهم المشترك.
 
 Page 3:
-تظهر مشكلة صغيرة، لكن إيفان يستخدم الكلمات الجديدة. ينظر إلى باب، ثم إلى كتاب، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.
+في الصيف، جنيا الكثير من الطماطم والخيار الطازج. أعدت الجدة
+وحازم طبق سلطة لذيذ من هذه الخضار الطازجة لوجبة العشاء. فهم الولد أن الطعام الذي
+يزرعه الإنسان بيديه يكون له دائماً المذاق الأطيب والأجمل.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Ivan is in the bookshop. There is door and book nearby. Ivan reads slowly and notices a new word: open. The day feels good, and the language feels a little closer.
+In spring, Hazem spent an enjoyable time at his
+kind grandmother's farm. The grandmother decided to teach him how to grow
+vegetables and care for them with their hands. The two prepared the soil in the
+garden and planted some tomato and cucumber seeds very carefully.
 
 Page 2:
-Ivan writes the word open in a notebook. Then Ivan thinks about reading. The place is quiet, so Ivan reads the sentence again and says it softly.
+Every day after his lessons ended, Hazem rushed to
+help his grandmother and water the plants with cold water. After two weeks,
+small green leaves began to appear from the warm soil. Hazem felt great
+happiness to see the fruits of their joint effort.
 
 Page 3:
-A small problem appears, but Ivan uses the new words to understand it. Ivan checks the door, looks at the book, and makes a simple plan. By the end, Ivan can say one clear sentence.
+In summer, they harvested a lot of fresh tomatoes
+and cucumbers. His grandmother and Hazem prepared a delicious salad plate from
+these fresh vegetables for dinner. The boy understood that food grown by one's
+own hands always has the finest and most beautiful taste.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 38: The Family Story
+Story 38: The Old Lighthouse
 Language: Arabic
 Level: Intermediate
 Pages: 3
@@ -1037,32 +1283,46 @@ Assigned new-word slots: 582-604 (23 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب لينا إلى البيت. هناك الأم وصورة بالقرب منه. تقرأ لينا ببطء وتلاحظ كلمة جديدة: «قصة». اليوم جيد، واللغة تصبح أقرب.
+على جرف صخري مرتفع يقع على البحر الأزرق، كانت تقف منارة
+حجرية قديمة. في الوقت الحالي، لم تكن تعمل بسبب استخدام السفن للأنظمة الحديثة
+والمتقدمة. قررت هند ووالدها الذهاب إلى هناك في رحلة ترفيهية يوم الأحد.
 
 Page 2:
-تكتب لينا كلمة «قصة» في الدفتر. ثم تفكر في موضوع «عائلة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+فتح الاثنان الباب الخشبي الثقيل ودخلا إلى المنارة. كان الجو
+في الداخل بارداً، وكان هناك درج حجري طويل ملتف يقود إلى الأعلى. بدأت هند في
+الصعود بحذر شديد خطوة بخطوة وهي تمسك بيد والدها بقوة.
 
 Page 3:
-تظهر مشكلة صغيرة، لكن لينا تستخدم الكلمات الجديدة. تنظر إلى الأم، ثم إلى صورة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.
+في الأعلى على الشرفة، كانت الرياح تهب بقوة. ظهر أمامهم منظر
+رائع للبحر الأزرق الواسع وأمواجه الكبيرة. فكرت هند في الأشخاص الطيبين الذين
+عاشوا هناك ذات يوم وكانوا يساعدون السفن ويحمون حياتها أثناء العواصف
+الشديدة.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Lena is at home. There is mother and photo nearby. Lena reads slowly and notices a new word: story. The day feels good, and the language feels a little closer.
+On a high rocky cliff by the blue sea, an old stone
+lighthouse stood. At the present time, it did not work due to ships using modern
+and advanced systems. Hind and her father decided to go there on a leisure trip
+on Sunday.
 
 Page 2:
-Lena writes the word story in a notebook. Then Lena thinks about family. The place is quiet, so Lena reads the sentence again and says it softly.
+The two opened the heavy wooden door and entered
+the lighthouse. It was cool inside, and there was a long, spiral stone staircase
+leading upward. Hind began to climb carefully step by step, holding her father's
+hand tightly.
 
 Page 3:
-A small problem appears, but Lena uses the new words to understand it. Lena checks the mother, looks at the photo, and makes a simple plan. By the end, Lena can say one clear sentence.
+At the top on the balcony, the wind was blowing
+strongly. A wonderful view of the vast blue sea and its large waves opened up
+before them. Hind thought of the kind people who once lived there and helped
+ships and saved lives during severe storms.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 39: The Important Word
+Story 39: The Science Fair
 Language: Arabic
 Level: Intermediate
 Pages: 3
@@ -1071,32 +1331,45 @@ Assigned new-word slots: 605-627 (23 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، يذهب بافل إلى المكتبة. هناك قاموس وورقة بالقرب منه. يقرأ بافل ببطء ويلاحظ كلمة جديدة: «معنى». اليوم جيد، واللغة تصبح أقرب.
+في كل خريف، كان يقام في المدرسة معرض علمي كبير وجميل. قررت
+مجموعة مازن تجهيز مشروع متميز يتحدث عن الطاقة النظيفة والصديقة للبيئة. وقاموا
+ببناء نموذج صغير يوضح عمل الخلايا الشمسية.
 
 Page 2:
-يكتب بافل كلمة «معنى» في الدفتر. ثم يفكر في موضوع «لغة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.
+في يوم المعرض، تجمع الكثير من المعلمين والأولياء في القاعة
+الكبيرة. وتوقف العديد منهم أمام مشروع مازن. كان الولد يشرح للضيوف ببساطة ووضوح
+تام كيف تتحول أشعة الشمس إلى طاقة تيار كهربائي مفيد.
 
 Page 3:
-تظهر مشكلة صغيرة، لكن بافل يستخدم الكلمات الجديدة. ينظر إلى قاموس، ثم إلى ورقة، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.
+في نهاية اليوم، قام الحكام بتقييم جميع المشاريع المعروضة.
+حصل مشروع مجموعة مازن على تقييم مرتفع جداً والمركز الأول بفضل فكرته المفيدة
+والممتازة. شعر الأصدقاء بالفرح والسرور لنجاح عملهم الجماعي المشترك.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Pavel is in the library. There is dictionary and paper nearby. Pavel reads slowly and notices a new word: meaning. The day feels good, and the language feels a little closer.
+Every autumn, a large and beautiful science fair
+was held at the school. Mazen's group decided to prepare a distinct project
+about clean and eco-friendly energy. They built a small model demonstrating how
+solar panels work.
 
 Page 2:
-Pavel writes the word meaning in a notebook. Then Pavel thinks about language. The place is quiet, so Pavel reads the sentence again and says it softly.
+On the day of the exhibition, many teachers and
+parents gathered in the large hall. Many of them stopped in front of Mazen's
+project. The boy explained to the guests simply and clearly how the sun's rays
+transform into useful electric current energy.
 
 Page 3:
-A small problem appears, but Pavel uses the new words to understand it. Pavel checks the dictionary, looks at the paper, and makes a simple plan. By the end, Pavel can say one clear sentence.
+At the end of the day, the judges evaluated all the
+presented projects. Mazen's group project received a very high rating and won
+first place thanks to its useful and excellent idea. The friends felt joy and
+happiness at the success of their joint collective work.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 40: Closer Every Day
+Story 40: The Sound of Music
 Language: Arabic
 Level: Intermediate
 Pages: 3
@@ -1105,32 +1378,47 @@ Assigned new-word slots: 628-650 (23 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب إيرينا إلى الحديقة. هناك دفتر وشاي بالقرب منه. تقرأ إيرينا ببطء وتلاحظ كلمة جديدة: «أقرب». اليوم جيد، واللغة تصبح أقرب.
+جاءت سلمى مع والدتها الطيبة إلى قاعة الحفلات القديمة
+بالمدينة. اليوم كان هناك حفل موسيقي يعزف فيه عازف كمان مشهور. انطفأت
+الأضواء في القاعة المظلمة، وأضيئت شمعة دافئة على المسرح لتنير المكان.
 
 Page 2:
-تكتب إيرينا كلمة «أقرب» في الدفتر. ثم تفكر في موضوع «مراجعة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+عندما بدأ العزف، بدت ألحان الكمان دافئة وجميلة للغاية. كانت
+أصوات الموسيقى تتغير تارة ببطء وهدوء شديد، وتارة أخرى ترتفع بسرعة وقوة لتأخذ
+قلوب الجميع. شعرت سلمى بسعادة وراحة نفسية كبيرة مع الألحان.
 
 Page 3:
-تظهر مشكلة صغيرة، لكن إيرينا تستخدم الكلمات الجديدة. تنظر إلى دفتر، ثم إلى شاي، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.
+بعد الحفل، صفق الجميع بحرارة وقوة كبيرة. شعرت سلمى بإلهام
+كبير ورغبة حقيقية. وعندما عادت إلى المنزل، قررت إخراج بيانو ألعاب طفولتها
+القديم لتجرب العزف مجدداً وسماع نغماته. ولد فيها حلم جديد اليوم.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Irina is in the park. There is notebook and tea nearby. Irina reads slowly and notices a new word: closer. The day feels good, and the language feels a little closer.
+Salma came with her kind mother to the town's old
+concert hall. Today, there was a musical concert in which a famous violinist was
+playing. The lights went out in the dark hall, and a warm candle was lit on the
+stage to illuminate the place.
 
 Page 2:
-Irina writes the word closer in a notebook. Then Irina thinks about review. The place is quiet, so Irina reads the sentence again and says it softly.
+When the performance began, the violin melodies
+sounded extremely warm and beautiful. The sounds of the music changed at times
+slowly and quietly, and at other times rose quickly and strongly to capture
+everyone's hearts. Salma felt great happiness and mental comfort with the
+melodies.
 
 Page 3:
-A small problem appears, but Irina uses the new words to understand it. Irina checks the notebook, looks at the tea, and makes a simple plan. By the end, Irina can say one clear sentence.
+After the concert, everyone clapped warmly and with
+great strength. Salma felt highly inspired and had a genuine desire. When she
+returned home, she decided to take out her old childhood toy piano to try
+playing again and hearing its tones. A new dream was born in her today. === END
+OF STORY 40 ===
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 41: The Long Walk Through the City
+Story 41: The Forest of Tomorrow
 Language: Arabic
 Level: Advanced
 Pages: 5
@@ -1139,44 +1427,68 @@ Assigned new-word slots: 651-685 (35 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب آنا إلى المدينة. هناك خريطة ونافذة بالقرب منه. تقرأ آنا ببطء وتلاحظ كلمة جديدة: «رحلة». اليوم جيد، واللغة تصبح أقرب.
+في المجتمع الحديث، تتطور العلوم والتكنولوجيا بسرعة كبيرة.
+تصبح حياتنا مريحة، لكن الطبيعة الجميلة تعاني غالباً. وفي إحدى المدن الصغيرة،
+أصبح النهر متسخاً بسبب المصانع. قرر العالم الشاب فريد إصلاح هذه المشكلة
+البيئية.
 
 Page 2:
-تكتب آنا كلمة «رحلة» في الدفتر. ثم تفكر في موضوع «مدينة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+اقترح فريد بناء نظام جديد لتنقية المياه. لكن مدراء المصانع
+وبعض سكان المدينة كانوا ضد الفكرة. كانوا يعتقدون أن هذا مكلف للغاية وسوف يضر
+بالاقتصاد المحلي. لم يستسلم فريد واحتفظ بلغة الحوار المستمر.
 
 Page 3:
-تظهر مشكلة صغيرة، لكن آنا تستخدم الكلمات الجديدة. تنظر إلى خريطة، ثم إلى نافذة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.
+بعد نقاشات طويلة، قرروا إجراء الاختبار الأول للآلة. وضع
+العلماء الأجهزة عند النهر. لكن الاختبار فشل بسبب عطل مفاجئ في المحرك. تدفقت
+المياه المتسخة مجدداً إلى النهر، وبدأ الناس يشعرون بالغضب الشديد.
 
 Page 4:
-لاحقًا، تلتقي آنا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.
+اعترف فريد بخطئه وبدأ يبحث عن سبب العطل بحرص. عمل طوال
+الليل لإصلاح الجهاز وجعله آمناً تماماً. رأى مدير المصنع عمله المخلص وجهده
+الكبير، وقرر أن يعطيه فرصة أخيرة وداعمة.
 
 Page 5:
-في نهاية اليوم، تقرأ آنا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم آنا لأن التعلم صار ممكنًا وقريبًا.
+نجح الاختبار الثاني نجاحاً كبيراً. أصبحت مياه النهر نظيفة
+تماماً وصالحة للاستخدام. وبعد سنوات قليلة، عادت الأسماك إلى النهر. غدت المدينة
+نموذجاً متميزاً للانسجام التام بين التطور والاقتصاد وحماية الطبيعة الخضراء.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Anna is in the city. There is map and window nearby. Anna reads slowly and notices a new word: journey. The day feels good, and the language feels a little closer.
+In modern society, science and technology develop
+very rapidly. Our lives become convenient, but beautiful nature often suffers.
+In one small town, the river became dirty because of factories. The young
+scientist, Fred, decided to fix this environmental problem.
 
 Page 2:
-Anna writes the word journey in a notebook. Then Anna thinks about city. The place is quiet, so Anna reads the sentence again and says it softly.
+Fred proposed building a new water purification
+system. But the factory directors and some town residents were against the idea.
+They believed that this was too expensive and would harm the local economy. Fred
+did not give up and kept up the continuous dialogue.
 
 Page 3:
-A small problem appears, but Anna uses the new words to understand it. Anna checks the map, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence.
+After long discussions, they decided to conduct the
+first test of the machine. The scientists placed the equipment near the river.
+But the test failed due to a sudden engine breakdown. Dirty water flowed into
+the river again, and people began to feel very angry.
 
 Page 4:
-Later, Anna meets another person and asks one careful question. The answer is simple, but it helps. Anna writes three more words and connects them to the story of the day.
+Fred admitted his mistake and began carefully
+looking for the cause of the breakdown. He worked all night to repair the device
+and make it completely safe. The factory director saw his sincere work and great
+effort, and decided to give him one last, supportive opportunity.
 
 Page 5:
-At the end of the day, Anna reads the whole page out loud. The words are not perfect yet, but they are familiar now. Anna smiles because learning feels possible and close.
+The second test was a great success. The river
+water became completely clean and fit for use. A few years later, fish returned
+to the river. The city became a distinct model of complete harmony between
+development, economy, and protecting green nature.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 42: The Forgotten Invitation
+Story 42: The Ancient Map's Secret
 Language: Arabic
 Level: Advanced
 Pages: 5
@@ -1185,44 +1497,67 @@ Assigned new-word slots: 686-720 (35 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، يذهب ساشا إلى الجامعة. هناك رسالة وهاتف بالقرب منه. يقرأ ساشا ببطء ويلاحظ كلمة جديدة: «دعوة». اليوم جيد، واللغة تصبح أقرب.
+كان المؤرخ الشاب شادي يعمل في المكتبة القديمة للمدينة. وبين
+الكتب القديمة، وجد خريطة ورقية صفراء ومميزة. كانت هذه الخريطة توضح موقعاً غامضاً
+في الجبال لم يظهر على الخرائط الحديثة اليوم.
 
 Page 2:
-يكتب ساشا كلمة «دعوة» في الدفتر. ثم يفكر في موضوع «لقاء». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.
+قرر شادي استكشاف هذا الموقع الغامض والمجهول. درس تاريخ
+المنطقة جيداً وجهز كافة الأجهزة المناسبة لرحلته الطويلة والمثيرة. كان يعلم
+أن الطريق سيكون صعباً، لكن رغبته في كشف التاريخ قادته بثقة.
 
 Page 3:
-تظهر مشكلة صغيرة، لكن ساشا يستخدم الكلمات الجديدة. ينظر إلى رسالة، ثم إلى هاتف، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.
+كانت الجبال عالية جداً ومنحدرة بشكل خطير. وفي الطريق، بدأ
+مطر غزير يهطل وأصبح الجو بارداً للغاية. شعر شادي بالتعب، لكن إصراره على معرفة
+الحقيقة ساعده على مواصلة الحركة عبر الغابة الكثيفة.
 
 Page 4:
-لاحقًا، يلتقي ساشا شخصًا آخر ويسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. يكتب ثلاث كلمات أخرى ويربطها بقصة اليوم.
+عندما توقف المطر، وصل شادي إلى مكان يلتقي فيه نهران جميلان.
+كان هناك شلال رائع ومبهر. وخلف الماء، اكتشف مدخلاً مخفياً لكهف مظلم، حيث وجد
+صندوقاً حجرياً قديماً مغلقاً.
 
 Page 5:
-في نهاية اليوم، يقرأ ساشا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. يبتسم ساشا لأن التعلم صار ممكنًا وقريبًا.
+فتح شادي الصندوق وعثر على أوراق قديمة. كانت تحتوي على تاريخ
+سكان تلك المنطقة المجهولين ومعارفهم الطبية والزراعية المفيدة. أحضر شادي هذا
+الاكتشاف العظيم إلى الجامعة ليعرض التاريخ المفقود على العالم كله.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Sasha is at the university. There is letter and phone nearby. Sasha reads slowly and notices a new word: invitation. The day feels good, and the language feels a little closer.
+The young historian Shady was working in the city's
+old library. Among the old books, he found a yellow, distinct paper map. This
+map showed a mysterious location in the mountains that did not appear on modern
+maps today.
 
 Page 2:
-Sasha writes the word invitation in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly.
+Shady decided to explore this mysterious and
+unknown location. He studied the area's history well and prepared all the
+suitable devices for his long and exciting trip. He knew the path would be
+difficult, but his desire to uncover history led him confidently.
 
 Page 3:
-A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the phone, and makes a simple plan. By the end, Sasha can say one clear sentence.
+The mountains were very high and dangerously steep.
+On the way, heavy rain began to fall, and it became extremely cold. Shady felt
+tired, but his insistence on knowing the truth helped him continue moving
+through the dense forest.
 
 Page 4:
-Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day.
+When the rain stopped, Shady reached a place where
+two beautiful rivers meet. There was a wonderful and dazzling waterfall. Behind
+the water, he discovered a hidden entrance to a dark cave, where he found a
+closed, old stone box.
 
 Page 5:
-At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close.
+Shady opened the box and found old papers. They
+contained the history of the unknown residents of that area and their useful
+medical and agricultural knowledge. Shady brought this great discovery to the
+university to display the lost history to the whole world.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 43: The History Room
+Story 43: The Voice of the Wind
 Language: Arabic
 Level: Advanced
 Pages: 5
@@ -1231,44 +1566,66 @@ Assigned new-word slots: 721-755 (35 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، يذهب نيكولاي إلى المتحف. هناك كتاب وصورة بالقرب منه. يقرأ نيكولاي ببطء ويلاحظ كلمة جديدة: «تاريخ». اليوم جيد، واللغة تصبح أقرب.
+كان الراصد الجوي عمار يعمل في محطة الأرصاد في قمة الجبل.
+كان يسجل سرعة الرياح ودرجات الحرارة يومياً. وفي الآونة الأخيرة، بدأ الطقس في
+الجبال يتغير بسرعة غير عادية.
 
 Page 2:
-يكتب نيكولاي كلمة «تاريخ» في الدفتر. ثم يفكر في موضوع «ماضٍ». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.
+فهم عمار من القراءات أن هناك عاصفة قوية وخطيرة تتجه نحو
+القرية الصغيرة عند قاعدة الجبل. كان بحاجة إلى تحذير السكان بسرعة لحماية
+منازلهم من الخطر والرياح.
 
 Page 3:
-تظهر مشكلة صغيرة، لكن نيكولاي يستخدم الكلمات الجديدة. ينظر إلى كتاب، ثم إلى صورة، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.
+نزل عمار بسرعة إلى القرية وأخبر الناس بالرياح القادمة. لم
+يصدق بعضهم الأجهزة في البداية، لكن البيانات العلمية الدقيقة أقنعتهم بالموافقة
+على الإخلاء المؤقت الفوري.
 
 Page 4:
-لاحقًا، يلتقي نيكولاي شخصًا آخر ويسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. يكتب ثلاث كلمات أخرى ويربطها بقصة اليوم.
+في الليل، بدأت عاصفة قوية جداً. كانت الرياح تكسر أغصان
+الأشجار الكبيرة بالقرب من البيوت. لكن بفضل عمل عمار السريع والمبكر، كان
+جميع السكان بسلام داخل ملجأ حجري متين.
 
 Page 5:
-في نهاية اليوم، يقرأ نيكولاي الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. يبتسم نيكولاي لأن التعلم صار ممكنًا وقريبًا.
+في الصباح، تراجعت العاصفة وهدأت الرياح. تضررت القرية
+قليلاً، لكن أرواح الناس كانت آمنة وسليمة. شكر السكان الراصد الشاب بامتنان
+كبير وفهموا أهمية علمه وعمله الجاد.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Nikolay is in the museum. There is book and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer.
+The weather observer Ammar was working at the
+weather station at the top of the mountain. He recorded wind speed and
+temperature daily. Recently, the weather in the mountains began to change with
+unusual speed.
 
 Page 2:
-Nikolay writes the word history in a notebook. Then Nikolay thinks about past. The place is quiet, so Nikolay reads the sentence again and says it softly.
+Ammar understood from the readings that a strong
+and dangerous storm was heading towards the small village at the base of the
+mountain. He needed to warn the residents quickly to protect their homes from
+danger and wind.
 
 Page 3:
-A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the book, looks at the picture, and makes a simple plan. By the end, Nikolay can say one clear sentence.
+Ammar went down quickly to the village and told the
+people about the coming wind. Some did not believe the instruments at first, but
+the accurate scientific data convinced them to agree to immediate temporary
+evacuation.
 
 Page 4:
-Later, Nikolay meets another person and asks one careful question. The answer is simple, but it helps. Nikolay writes three more words and connects them to the story of the day.
+At night, a very strong storm began. The wind was
+breaking large tree branches near the houses. But thanks to Ammar's quick and
+early work, all the residents were safe inside a durable stone shelter.
 
 Page 5:
-At the end of the day, Nikolay reads the whole page out loud. The words are not perfect yet, but they are familiar now. Nikolay smiles because learning feels possible and close.
+In the morning, the storm retreated and the wind
+calmed. The village was slightly damaged, but people's lives were safe and
+sound. The residents thanked the young observer with great gratitude and
+understood the importance of his science and hard work.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 44: The Quiet Train
+Story 44: The Deep Ocean
 Language: Arabic
 Level: Advanced
 Pages: 5
@@ -1277,44 +1634,63 @@ Assigned new-word slots: 756-790 (35 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب ماريا إلى القطار. هناك تذكرة وشاي بالقرب منه. تقرأ ماريا ببطء وتلاحظ كلمة جديدة: «هدوء». اليوم جيد، واللغة تصبح أقرب.
+قام عالم المحيطات طارق ببناء جهاز غوص جديد ومتقدم. كان يخطط
+للنزول إلى أعمق نقطة في البحر لدراسة طبيعة الحياة المجهولة في قاع المحيط الشاسع.
 
 Page 2:
-تكتب ماريا كلمة «هدوء» في الدفتر. ثم تفكر في موضوع «سفر». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+على عمق عدة آلاف من الأمتار، كان هناك ظلام دامس وتام. لكن
+المصابيح القوية والحديثة الملحقة بالجهاز أضاءت عالماً غامضاً من الرمال والصخور
+والنباتات الغريبة.
 
 Page 3:
-تظهر مشكلة صغيرة، لكن ماريا تستخدم الكلمات الجديدة. تنظر إلى تذكرة، ثم إلى شاي، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.
+فجأة، رأى طارق كائناً حياً صغيراً ومضيئاً بشكل رائع. كان
+هذا نوعاً جديداً ومثيراً غير معروف للعلم من قبل. التقط صوراً واضحة لل غاية
+لهذا الكائن الجميل.
 
 Page 4:
-لاحقًا، تلتقي ماريا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.
+أثناء العمل، انطفأت الأجهزة فجأة لثانية واحدة. لم يشعر طارق
+بالخوف أو الذعر. كان يعرف هيكل وبناء الجهاز جيداً، وأصلح المشكلة الكهربائية
+بيديه بسرعة وهدوء.
 
 Page 5:
-في نهاية اليوم، تقرأ ماريا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم ماريا لأن التعلم صار ممكنًا وقريبًا.
+عاد طارق إلى السطح وعرض صوره على علماء العالم. ساعد اكتشافه
+الرائع الناس على فهم أعماق المحيط بشكل أفضل ومعرفة أهمية حماية طبيعته وبيئته
+المائية.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Maria is on the train. There is ticket and tea nearby. Maria reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer.
+The oceanographer Tariq built a new and advanced
+diving device. He was planning to descend to the deepest point in the sea to
+study the nature of unknown life on the bottom of the vast ocean.
 
 Page 2:
-Maria writes the word quiet in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly.
+At a depth of several thousand meters, there was
+pitch and total darkness. But the powerful and modern lamps attached to the
+device illuminated a mysterious world of sand, rocks, and strange plants.
 
 Page 3:
-A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the tea, and makes a simple plan. By the end, Maria can say one clear sentence.
+Suddenly, Tariq saw a small and beautifully glowing
+living creature. This was a exciting new species unknown to science before. He
+took extremely clear pictures of this beautiful creature.
 
 Page 4:
-Later, Maria meets another person and asks one careful question. The answer is simple, but it helps. Maria writes three more words and connects them to the story of the day.
+During the work, the instruments suddenly turned
+off for one second. Tariq did not feel fear or panic. He knew the structure and
+build of the device well, and fixed the electrical problem with his hands
+quickly and calmly.
 
 Page 5:
-At the end of the day, Maria reads the whole page out loud. The words are not perfect yet, but they are familiar now. Maria smiles because learning feels possible and close.
+Tariq returned to the surface and displayed his
+pictures to the world's scientists. His wonderful discovery helped people better
+understand the ocean depths and know the importance of protecting its nature and
+marine environment.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 45: A Plan for Tomorrow
+Story 45: The Star Tracker
 Language: Arabic
 Level: Advanced
 Pages: 5
@@ -1323,44 +1699,64 @@ Assigned new-word slots: 791-825 (35 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب لينا إلى البيت. هناك خريطة ودفتر بالقرب منه. تقرأ لينا ببطء وتلاحظ كلمة جديدة: «غد». اليوم جيد، واللغة تصبح أقرب.
+كانت عالمة الفلك ليلى تنتظر ظهور مذنب نادر ومميز للغاية.
+يقترب هذا المذنب من الأرض مرة واحدة كل مئة عام فقط. كانت تريد التقاط صور
+عالية الجودة لذيله الساطع.
 
 Page 2:
-تكتب لينا كلمة «غد» في الدفتر. ثم تفكر في موضوع «خطة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+نظمت ليلى مدرسة مسائية صغيرة وممتعة للأطفال المهتمين بالفلك
+على تلة مرتفعة خارج المدينة. جاء الكثير من الأطفال الصغار برفقة والديهم لمشاهدة
+السماء الرائعة اليوم.
 
 Page 3:
-تظهر مشكلة صغيرة، لكن لينا تستخدم الكلمات الجديدة. تنظر إلى خريطة، ثم إلى دفتر، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.
+قامت ليلى بتعديل تلسكوب كبير ووضعت النجوم بوضوح أمام
+الأطفال. كانت تشرح لهم قوانين الكون وحركة الكواكب بكلمات بسيطة وسهلة
+الفهم. استمع الجميع بشغف واهتمام.
 
 Page 4:
-لاحقًا، تلتقي لينا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.
+وأخيراً، ظهر المذنب الساطع في السماء المظلمة. ترك ضوؤه خطاً
+لامعاً وجميلاً في الأعالي. صمت الجميع ونظروا بذهول إلى هذا المشهد الرائع والجميل
+من مشاهد الطبيعة.
 
 Page 5:
-في نهاية اليوم، تقرأ لينا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم لينا لأن التعلم صار ممكنًا وقريبًا.
+ساعد هذا المساء الجميل الأطفال على حب العلوم واستكشاف
+الفضاء. قرر بعضهم أن يصبحوا علماء فلك في المستقبل. فهمت ليلى أن عملها
+وجهدها يحملان قيمة كبيرة للمجتمع.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Lena is at home. There is map and notebook nearby. Lena reads slowly and notices a new word: tomorrow. The day feels good, and the language feels a little closer.
+The astronomer Layla was waiting for the appearance
+of a rare and very distinct comet. This comet approaches Earth only once every
+hundred years. She wanted to take high-quality pictures of its bright tail.
 
 Page 2:
-Lena writes the word tomorrow in a notebook. Then Lena thinks about plan. The place is quiet, so Lena reads the sentence again and says it softly.
+Layla organized a small and fun evening school for
+children interested in astronomy on a high hill outside the city. Many young
+children came accompanied by their parents to watch the wonderful sky today.
 
 Page 3:
-A small problem appears, but Lena uses the new words to understand it. Lena checks the map, looks at the notebook, and makes a simple plan. By the end, Lena can say one clear sentence.
+Layla adjusted a large telescope and placed the
+stars clearly before the children. She explained to them the laws of the
+universe and planetary movement in simple, easy-to-understand words. Everyone
+listened with passion and interest.
 
 Page 4:
-Later, Lena meets another person and asks one careful question. The answer is simple, but it helps. Lena writes three more words and connects them to the story of the day.
+Finally, the bright comet appeared in the dark sky.
+Its light left a shiny, beautiful line in the heights. Everyone fell silent and
+looked in awe at this wonderful and beautiful sight of nature.
 
 Page 5:
-At the end of the day, Lena reads the whole page out loud. The words are not perfect yet, but they are familiar now. Lena smiles because learning feels possible and close.
+This beautiful evening helped the children fall in
+love with science and space exploration. Some of them decided to become
+astronomers in the future. Layla understood that her work and effort hold great
+value for society.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 46: News from the Cafe
+Story 46: The Digital Heritage
 Language: Arabic
 Level: Advanced
 Pages: 5
@@ -1369,44 +1765,65 @@ Assigned new-word slots: 826-860 (35 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب أولغا إلى المقهى. هناك جريدة وشاي بالقرب منه. تقرأ أولغا ببطء وتلاحظ كلمة جديدة: «خبر». اليوم جيد، واللغة تصبح أقرب.
+عثر المبرمج سمير في منزل جدته القديم على ألبوم صور أسود
+وأبيض قديم جداً. كانت هناك صور لعائلته ولقطات توضح معالم الحياة في المدينة
+قبل مئة عام.
 
 Page 2:
-تكتب أولغا كلمة «خبر» في الدفتر. ثم تفكر في موضوع «حديث». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+قرر سمير تحويل هذه الصور واللقطات إلى تنسيق رقمي حديث لحفظ
+تاريخ العائلة من الضياع. كان يدرك جيداً أن الورق القديم قد يتلف مع مرور السنوات
+الطويلة.
 
 Page 3:
-تظهر مشكلة صغيرة، لكن أولغا تستخدم الكلمات الجديدة. تنظر إلى جريدة، ثم إلى شاي، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.
+استخدم سمير جهاز المسح الضوئي وكتب برنامجاً خاصاً على
+حاسوبه الشخصي. كان هذا البرنامج يزيل الغبار والخدوش من الصور ويجعل الوجوه
+القديمة واضحة وجميلة للغاية.
 
 Page 4:
-لاحقًا، تلتقي أولغا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.
+نشر سمير الألبوم الرقمي الجاهز على شبكة الإنترنت وأرسل
+الرابط إلى جميع أقاربه في المدن الأخرى. غمرت السعادة قلوب الجميع لرؤية
+جذورهم وتاريخ عائلتهم المشترك بالصور.
 
 Page 5:
-في نهاية اليوم، تقرأ أولغا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم أولغا لأن التعلم صار ممكنًا وقريبًا.
+بفضل التكنولوجيا الحديثة والمتقدمة، تم حفظ تاريخ العائلة
+بأمان تام للأطفال والأجيال القادمة. فهم سمير أن مهاراته التقنية يمكنها أن
+تخدم أهدافاً طيبة ونبيلة في المجتمع.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Olga is in the cafe. There is newspaper and tea nearby. Olga reads slowly and notices a new word: news. The day feels good, and the language feels a little closer.
+The programmer Samir found a very old
+black-and-white photo album in his grandmother's old house. There were photos of
+his family and shots illustrating the features of life in the city a hundred
+years ago.
 
 Page 2:
-Olga writes the word news in a notebook. Then Olga thinks about talk. The place is quiet, so Olga reads the sentence again and says it softly.
+Samir decided to convert these photos and shots
+into a modern digital format to preserve the family history from loss. He
+understood well that old paper could get damaged with the passage of many years.
 
 Page 3:
-A small problem appears, but Olga uses the new words to understand it. Olga checks the newspaper, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence.
+Samir used a scanner and wrote a special program on
+his personal computer. This program removed dust and scratches from the photos
+and made old faces extremely clear and beautiful.
 
 Page 4:
-Later, Olga meets another person and asks one careful question. The answer is simple, but it helps. Olga writes three more words and connects them to the story of the day.
+Samir published the completed digital album on the
+internet and sent the link to all his relatives in other cities. Happiness
+filled everyone's hearts to see their roots and shared family history through
+the pictures.
 
 Page 5:
-At the end of the day, Olga reads the whole page out loud. The words are not perfect yet, but they are familiar now. Olga smiles because learning feels possible and close.
+Thanks to modern and advanced technology, the
+family history was saved completely safely for children and future generations.
+Samir understood that his technical skills could serve kind and noble goals in
+society.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 47: The Word That Changed the Day
+Story 47: The Green Architecture
 Language: Arabic
 Level: Advanced
 Pages: 5
@@ -1415,44 +1832,65 @@ Assigned new-word slots: 861-895 (35 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، يذهب ديما إلى الشارع. هناك حقيبة وكتاب بالقرب منه. يقرأ ديما ببطء ويلاحظ كلمة جديدة: «مساعدة». اليوم جيد، واللغة تصبح أقرب.
+حصل المهندس المعماري أنس على طلب لتصميم مركز مجتمعي جديد
+ومتميز في المدينة. وقرر جعل هذا المبنى صديقاً للبيئة ونظيفاً تماماً بالاعتماد
+على الطبيعة.
 
 Page 2:
-يكتب ديما كلمة «مساعدة» في الدفتر. ثم يفكر في موضوع «طريق». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.
+قام أنس بتعديل هيكل وتصميم السقف للسماح بمرور أكبر قدر من
+ضوء الشمس الطبيعي داخل مبنى المركز الجديد. ساعد هذا الحل في تقليل استخدام
+المصابيح الكهربائية نهاراً.
 
 Page 3:
-تظهر مشكلة صغيرة، لكن ديما يستخدم الكلمات الجديدة. ينظر إلى حقيبة، ثم إلى كتاب، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.
+خطط أنس لزراعة حديقة خضراء واسعة وجميلة على سقف المركز
+الجديد. وقام بوضع نظام ذكي لجمع مياه الأمطار وري النباتات تلقائياً دون
+الحاجة إلى تدخل بشري دائم.
 
 Page 4:
-لاحقًا، يلتقي ديما شخصًا آخر ويسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. يكتب ثلاث كلمات أخرى ويربطها بقصة اليوم.
+بدأ البناء والعمال عملهم بنشاط باستخدام مواد آمنة ومصنوعة
+بالكامل من الخشب المعتمد بيئياً. كان سكان المدينة يتابعون ببالغ الاهتمام خطوات
+بناء هذا المبنى الأخضر والمميز.
 
 Page 5:
-في نهاية اليوم، يقرأ ديما الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. يبتسم ديما لأن التعلم صار ممكنًا وقريبًا.
+غدا المركز الجديد أجمل مكان في المدينة كلها. كان الناس
+يزورونه للاسترخاء والراحة تحت ظلال الأشجار الخضراء. أثبت أنس للجميع الفوائد
+الكبيرة والنبيلة لأفكار العمارة الخضراء.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Dima is on the street. There is bag and book nearby. Dima reads slowly and notices a new word: help. The day feels good, and the language feels a little closer.
+The architect Anas received a request to design a
+new and distinct community center in the city. He decided to make this building
+eco-friendly and completely clean by relying on nature.
 
 Page 2:
-Dima writes the word help in a notebook. Then Dima thinks about road. The place is quiet, so Dima reads the sentence again and says it softly.
+Anas modified the structure and design of the roof
+to allow the maximum amount of natural sunlight inside the new center building.
+This solution helped reduce the use of electric lamps during the day.
 
 Page 3:
-A small problem appears, but Dima uses the new words to understand it. Dima checks the bag, looks at the book, and makes a simple plan. By the end, Dima can say one clear sentence.
+Anas planned to plant a large and beautiful green
+garden on the roof of the new center. He placed a smart system to collect
+rainwater and water the plants automatically without the need for constant human
+intervention.
 
 Page 4:
-Later, Dima meets another person and asks one careful question. The answer is simple, but it helps. Dima writes three more words and connects them to the story of the day.
+The construction and the workers began their work
+energetically, using safe materials made entirely from environmentally certified
+wood. The city residents followed with great interest the steps of building this
+distinct green building.
 
 Page 5:
-At the end of the day, Dima reads the whole page out loud. The words are not perfect yet, but they are familiar now. Dima smiles because learning feels possible and close.
+The new center became the most beautiful place in
+the entire city. People visited it to relax and rest under the shade of the
+green trees. Anas proved to everyone the great and noble benefits of green
+architecture ideas.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 48: The Meeting at the University
+Story 48: The Silent Garden
 Language: Arabic
 Level: Advanced
 Pages: 5
@@ -1461,44 +1899,66 @@ Assigned new-word slots: 896-930 (35 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، يذهب ساشا إلى الجامعة. هناك رسالة ومكتب بالقرب منه. يقرأ ساشا ببطء ويلاحظ كلمة جديدة: «لقاء». اليوم جيد، واللغة تصبح أقرب.
+تلقّت مهندسة الحدائق منى طلباً متميزاً لإعادة تخطيط حديقة
+دير قديم في ضواحي المدينة. كانت هذه الحديقة الكبيرة مهجورة ومنسية بالكامل منذ
+سنوات طويلة ونمت فيها الحشائش البرية.
 
 Page 2:
-يكتب ساشا كلمة «لقاء» في الدفتر. ثم يفكر في موضوع «أفكار». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.
+رسمت منى خطة تصميم جديدة ومتميزة للحديقة القديمة. وقررت وضع
+صخور رمادية كبيرة بالقرب من بركة الماء وصنع مسارات رملية ناعمة من أجل نزهات
+هادئة وصامتة للزوار.
 
 Page 3:
-تظهر مشكلة صغيرة، لكن ساشا يستخدم الكلمات الجديدة. ينظر إلى رسالة، ثم إلى مكتب، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.
+زرعت منى طحالب خضراء ناعمة في الأماكن الظليلة، ووضعت
+أشجاراً جميلة ومميزة في قلب الحديقة الجديدة. كانت هذه الأشجار الجميلة
+تغير ألوان أوراقها مع تغير الفصول المختلفة للعام.
 
 Page 4:
-لاحقًا، يلتقي ساشا شخصًا آخر ويسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. يكتب ثلاث كلمات أخرى ويربطها بقصة اليوم.
+كانت منى تريد خلق بيئة هادئة ومساحة آمنة حيث يمكن لكل شخص
+زيارة المكان ونسيان هموم ومشاكل المدينة، والجلوس بصمت تام لمراجعة حياته وتأمل
+ذاته وروحه.
 
 Page 5:
-في نهاية اليوم، يقرأ ساشا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. يبتسم ساشا لأن التعلم صار ممكنًا وقريبًا.
+غدت الحديقة القديمة مكاناً حقيقياً للراحة والسلام الداخلي
+للناس. كانوا يأتون للاستماع لصوت الماء وحركة الرياح بلطف. كانت منى سعيدة
+بتمكنها من إعادة الجمال والروح لتلك الأرض القديمة.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Sasha is at the university. There is letter and desk nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer.
+The landscape architect Mona received a distinct
+request to re-plan the garden of an old monastery in the suburbs of the city.
+This large garden had been completely abandoned and forgotten for many years,
+and wild grasses grew in it.
 
 Page 2:
-Sasha writes the word meeting in a notebook. Then Sasha thinks about ideas. The place is quiet, so Sasha reads the sentence again and says it softly.
+Mona drew a new and distinct design plan for the
+old garden. She decided to place large grey rocks near the water pool and make
+smooth sandy paths for quiet and silent walks for visitors.
 
 Page 3:
-A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the desk, and makes a simple plan. By the end, Sasha can say one clear sentence.
+Mona planted soft green moss in the shaded areas
+and placed beautiful and distinct trees in the heart of the new garden. These
+beautiful trees changed the colors of their leaves with the changing of the
+different seasons of the year.
 
 Page 4:
-Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day.
+Mona wanted to create a quiet environment and a
+safe space where every person could visit the place and forget the worries and
+problems of the city, and sit in complete silence to review their life and
+contemplate their self and soul.
 
 Page 5:
-At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close.
+The old garden became a true place of rest and
+inner peace for people. They came to listen to the sound of water and the
+movement of the wind gently. Mona was happy to have been able to return beauty
+and spirit to that old land.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 49: The Letter and the Map
+Story 49: The Solar Flight
 Language: Arabic
 Level: Advanced
 Pages: 5
@@ -1507,44 +1967,66 @@ Assigned new-word slots: 931-965 (35 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب كاتيا إلى المكتبة. هناك رسالة وخريطة بالقرب منه. تقرأ كاتيا ببطء وتلاحظ كلمة جديدة: «مسار». اليوم جيد، واللغة تصبح أقرب.
+كان المهندس يوسف يعمل بجد على تطوير واختراع طائرة صغيرة
+بدون طيار (درون). كانت هذه الطائرة تتميز بقدرتها على الطيران بالاعتماد
+الكامل على طاقة الشمس النظيفة فقط.
 
 Page 2:
-تكتب كاتيا كلمة «مسار» في الدفتر. ثم تفكر في موضوع «بحث». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+كان الهدف الرئيسي للمشروع هو نقل الأجهزة الطبية والأدوية
+الطارئة للناس المحتاجين في المناطق الجبلية النائية التي دمرت العواصف والأمطار
+الطرق والمسارات المؤدية إليها بالكامل.
 
 Page 3:
-تظهر مشكلة صغيرة، لكن كاتيا تستخدم الكلمات الجديدة. تنظر إلى رسالة، ثم إلى خريطة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.
+في صباح يوم مشمس وجميل، أخذ يوسف الطائرة إلى حقل واسع
+لإجراء الاختبار الأول. طارت الطائرة بدون طيار بهدوء وصمت نحو الجبال
+البعيدة مستخدمة قوة ضوء الشمس فقط.
 
 Page 4:
-لاحقًا، تلتقي كاتيا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.
+في الجبال، بدأت رياح قوية ومفاجئة تهب في الأعالي. لكن بفضل
+الهيكل المتين والتصميم الذكي للجناح، تمكنت الطائرة من الحفاظ على توازنها الكامل
+وواصلت رحلتها بثقة تامة.
 
 Page 5:
-في نهاية اليوم، تقرأ كاتيا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم كاتيا لأن التعلم صار ممكنًا وقريبًا.
+أوصلت الطائرة الحمولة الطبية بنجاح كبير ودقة تامة إلى
+الموقع المحدد. كان يوسف سعيداً؛ فقد أثبتت تكنولوجياه الجديدة فائدتها
+وساهمت في عمل خطوة نحو إنقاذ حياة الناس.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Katya is in the library. There is letter and map nearby. Katya reads slowly and notices a new word: route. The day feels good, and the language feels a little closer.
+The engineer Youssef was working hard on developing
+and inventing a small unmanned aerial vehicle (drone). This plane was
+distinguished by its ability to fly relying completely on clean solar energy
+alone.
 
 Page 2:
-Katya writes the word route in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly.
+The main goal of the project was to transport
+medical devices and emergency medicines to needy people in remote mountainous
+areas whose roads and paths leading to them were completely destroyed by storms
+and rain.
 
 Page 3:
-A small problem appears, but Katya uses the new words to understand it. Katya checks the letter, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence.
+On a sunny and beautiful morning, Youssef took the
+plane to a wide field to conduct the first test. The drone flew quietly and
+silently towards the distant mountains using only the power of sunlight.
 
 Page 4:
-Later, Katya meets another person and asks one careful question. The answer is simple, but it helps. Katya writes three more words and connects them to the story of the day.
+In the mountains, strong and sudden winds began to
+blow in the heights. But thanks to the durable structure and smart design of the
+wing, the plane managed to maintain its complete balance and continued its
+journey with full confidence.
 
 Page 5:
-At the end of the day, Katya reads the whole page out loud. The words are not perfect yet, but they are familiar now. Katya smiles because learning feels possible and close.
+The plane delivered the medical cargo with great
+success and complete accuracy to the specified location. Youssef was happy; his
+new technology had proved its utility and contributed to making a step toward
+saving people's lives.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
 
 
-================================================================================
-
-Story 50: The Language Feels Close
+Story 50: The Circle of Life
 Language: Arabic
 Level: Advanced
 Pages: 5
@@ -1553,39 +2035,59 @@ Assigned new-word slots: 966-1000 (35 new words)
 TARGET LANGUAGE STORY
 ----------------------
 Page 1:
-في الصباح، تذهب إيرينا إلى الحديقة. هناك كتاب وهاتف بالقرب منه. تقرأ إيرينا ببطء وتلاحظ كلمة جديدة: «لغة». اليوم جيد، واللغة تصبح أقرب.
+كانت عالمة الأحياء هبة تدرس النظام البيئي الدقيق للغابة
+المحلية منذ سنوات طويلة. كانت تراقب عن كثب كيف تعيش الحيوانات الصغيرة وكيف
+تنمو وتتطور الأشجار العالية.
 
 Page 2:
-تكتب إيرينا كلمة «لغة» في الدفتر. ثم تفكر في موضوع «ثقة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.
+لاحظت هبة كيف تتحول الأوراق المتساقطة إلى تربة خصبة،
+والتربة تمنح القوة للأشجار الكبيرة لتنمو، والأشجار بدورها تصبح بيتاً
+آمناً ودافئاً للطيور والحيوانات الصغيرة.
 
 Page 3:
-تظهر مشكلة صغيرة، لكن إيرينا تستخدم الكلمات الجديدة. تنظر إلى كتاب، ثم إلى هاتف، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.
+في عطلة نهاية الأسبوع، دعت هبة الأطفال الصغار إلى الغابة
+لتوضح لهم هذا الهيكل المترابط. وكانت تشرح لهم بحب قائلة: "على أرضنا الجميلة،
+كل أشكال الحياة متصلة بدائرة واحدة".
 
 Page 4:
-لاحقًا، تلتقي إيرينا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.
+بدأ الأطفال يستكشفون بأنفسهم ويبحثون عن الكائنات الحية
+الصغيرة تحت الأوراق وينظرون إلى النباتات بذهول. وفهموا أن الإنسان أيضاً
+يمثل جزءاً كبيراً من دائرة الطبيعة المترابطة.
 
 Page 5:
-في نهاية اليوم، تقرأ إيرينا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم إيرينا لأن التعلم صار ممكنًا وقريبًا.
+شاهدت هبة الاهتمام واللمعان في عيون الأطفال. وأدركت جيداً
+أن التعليم البيئي السليم هو الطريقة الفضلى والوحيدة لحماية طبيعة كوكبنا الجميل
+وبيئته الرائعة في المستقبل.
 
 ENGLISH TRANSLATION
 -------------------
 Page 1:
-In the morning, Irina is in the park. There is book and phone nearby. Irina reads slowly and notices a new word: language. The day feels good, and the language feels a little closer.
+The biologist Heba had studied the delicate
+ecological system of the local forest for many years. She closely monitored how
+small animals live and how tall trees grow and develop.
 
 Page 2:
-Irina writes the word language in a notebook. Then Irina thinks about confidence. The place is quiet, so Irina reads the sentence again and says it softly.
+Heba observed how fallen leaves turn into fertile
+soil, the soil gives strength to big trees to grow, and the trees in turn become
+a safe and warm home for birds and small animals.
 
 Page 3:
-A small problem appears, but Irina uses the new words to understand it. Irina checks the book, looks at the phone, and makes a simple plan. By the end, Irina can say one clear sentence.
+On the weekend, Heba invited young children into
+the forest to explain to them this interconnected structure. She lovingly
+explained to them, saying: "On our beautiful earth, all forms of life are
+connected in one circle."
 
 Page 4:
-Later, Irina meets another person and asks one careful question. The answer is simple, but it helps. Irina writes three more words and connects them to the story of the day.
+The children began to explore for themselves,
+searching for small living creatures under the leaves and looking at plants in
+awe. They understood that humans also represent a big part of nature's
+interconnected circle.
 
 Page 5:
-At the end of the day, Irina reads the whole page out loud. The words are not perfect yet, but they are familiar now. Irina smiles because learning feels possible and close.
+Heba watched the interest and sparkle in the
+children's eyes. She realized well that sound environmental education is the
+best and only way to protect the nature and wonderful environment of our
+beautiful planet in the future.
 
 Implementation note:
 Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.
-
-
-================================================================================

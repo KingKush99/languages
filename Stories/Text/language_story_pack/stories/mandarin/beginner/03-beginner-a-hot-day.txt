@@ -1,0 +1,19 @@
+Story 03: A Hot Day
+Language: Chinese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 19-27 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+这是什么？这是我朋友来的一句话。但是今天很热。旁边有一些水。水是冷凉的。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+What is this? This is a word from my friend. But
+today is hot. There is some water by it. The water is cool.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

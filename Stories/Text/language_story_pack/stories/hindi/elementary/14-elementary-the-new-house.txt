@@ -1,0 +1,32 @@
+Story 14: The New House
+Language: Hindi
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 117-132 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+हमने अपना नया घर बनाने के लिए इस शांत भूमि को चुना। पास ही
+एक साफ नदी है और हर दिन सुंदर पक्षियों का गाना सुनाई देता है। आज से हमारा
+नया जीवन शुरू होता है।
+
+Page 2:
+पिताजी और मैंने नए घर के पास एक छोटा बगीचा बनाना शुरू किया।
+हमने वहाँ कई सुंदर फूल लगाए। माँ खिड़की से हमें देख रही थीं और प्यार से हमारी
+मदद कर रही थीं।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+We chose this quiet land to build our new house.
+There is a clean river nearby, and we can hear the beautiful songs of birds
+every day. Our new life begins today.
+
+Page 2:
+My father and I started to build a small garden
+near our new house. We planted many beautiful flowers there. My mother watched
+us from the window and kindly helped us.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

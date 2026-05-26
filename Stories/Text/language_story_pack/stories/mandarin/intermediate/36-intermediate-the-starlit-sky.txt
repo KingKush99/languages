@@ -1,0 +1,39 @@
+Story 36: The Starlit Sky
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 536-558 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+夏天，小刚和父母一起去高山里露营。夜晚在帐篷边非常安静，因为周围没有任何城市灯光。小刚来到外面新鲜的空气中，抬头看去。
+
+Page 2:
+小刚的父亲从包里拿出一本有趣的星座书。他打开微弱的手电筒，看着书指给儿子看天空中的亮星，解释星名和古老故事。
+
+Page 3:
+突然，一颗明亮的星星快速穿过黑夜，划出一道美丽的亮线。那是流星。小刚立刻在心里为未来和梦想许下了一个愿望。这晚星空成了他的回忆。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In summer, Xiao Gang went camping in the high
+mountains with his parents. The night was very quiet by the tent, since there
+was no city light around. Xiao Gang came outside into the fresh air and looked
+up.
+
+Page 2:
+Xiao Gang's father took an interesting book about
+constellations out of his bag. He turned on a dim flashlight and, looking at the
+book, pointed out the bright stars in the sky to his son, explaining star names
+and ancient stories.
+
+Page 3:
+Suddenly, a bright star quickly crossed the dark
+night, carving a beautiful bright line. It was a shooting star. Xiao Gang
+immediately made a wish in his heart for his future and dreams. This starlit
+night became a memory for him.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

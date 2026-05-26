@@ -1,0 +1,33 @@
+Story 23: The Port City
+Language: Arabic
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 261-275 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+يقع منزلي بالقرب من ميناء كبير جداً ونشيط. وفي كل صباح، تصل
+سفن ضخمة من جميع أنحاء العالم. ينزل الكثير من الناس إلى هذه الأرض وتصبح الحركة
+مزدحمة.
+
+Page 2:
+في المساء، أذهب مع والدي إلى الماء. نقف لنشاهد السفن
+الكبيرة وهي تخرج عائدة إلى عرض البحر. يغطي ضوء الشمس الأمواج، ويبدو هذا
+المنظر جميلاً بلا كلمات.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+My house is located near a very large and busy
+port. Every morning, huge ships arrive from all over the world. Many people
+disembark onto this land, and the movement becomes crowded.
+
+Page 2:
+In the evening, I go with my father to the water.
+We stand to watch the large ships as they head back out to the open sea. The
+sun's light covers the waves, and this view looks beautiful beyond words. ===
+END OF STORY 23 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

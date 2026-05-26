@@ -1,0 +1,45 @@
+Story 31: The Mountain Wind
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 417-440 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+सुबह जल्दी राहुल ने एक ऊंचे पहाड़ के संकरे रास्ते पर चढ़ना
+शुरू किया। हवा बहुत ठंडी चल रही थी, लेकिन चलने से उसका शरीर गर्म हो गया था।
+चारों ओर सुंदर पहाड़ी फूल और घास उगे थे जो उसकी आँखों को खुशी दे रहे थे।
+
+Page 2:
+दोपहर में आसमान में अंधेरा छा गया और तेज़ बारिश होने लगी।
+खुशकिस्मती से, आगे पत्थर का बना एक छोटा केबिन था। राहुल बारिश से बचने के
+लिए जल्दी से वहाँ गया। अंदर सूखा था और वह थर्मस से गर्म चाय पी सका।
+
+Page 3:
+जल्द ही बारिश रुक गई और आसमान में फिर से चमकीला सूरज निकल
+आया। राहुल केबिन से बाहर आया और पहाड़ की चोटी पर पहुँच गया। नीचे एक बड़ी
+हरी घाटी थी। तेज़ हवा ने उसकी थकान दूर कर दी और उसे बहुत खुशी हुई।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Early in the morning, Rahul began climbing a narrow
+trail up a high mountain. A cold wind was blowing, but the boy walked quickly
+and felt warm. Beautiful mountain flowers and herbs grew around him, pleasing
+his eye.
+
+Page 2:
+By afternoon, the sky grew dark and heavy rain
+fell. Fortunately, a small stone cabin stood ahead. Rahul ran there quickly to
+wait out the rain. Inside it was dry, and he was able to drink warm tea from his
+thermos.
+
+Page 3:
+Soon the rain ended, and the bright sun appeared in
+the sky again. Rahul left the cabin and climbed to the very summit of the
+mountain. Below lay a large green valley. The strong wind carried away his
+fatigue, and he felt joy.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

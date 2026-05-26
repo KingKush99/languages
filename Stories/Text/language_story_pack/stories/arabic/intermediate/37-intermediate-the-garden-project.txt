@@ -1,0 +1,45 @@
+Story 37: The Garden Project
+Language: Arabic
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 559-581 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+في الربيع، قضى حازم وقتاً ممتعاً في مزرعة جدته الطيبة. قررت
+الجدة تعليمه كيفية زراعة الخضار والاهتمام بها بأيديهم. قام الاثنان بتجهيز الأرض
+في الحديقة وزرعا بعض بذور الطماطم والخيار بحذر شديد.
+
+Page 2:
+كل يوم بعد انتهاء دروسه، كان حازم يسرع لمساعدة جدته وسقاية
+النباتات بالماء البارد. وبعد أسبوعين، بدأت الأوراق الخضراء الصغيرة تظهر من
+التربة الدافئة. شعر حازم بسعادة غامرة لرؤية ثمار جهدهم المشترك.
+
+Page 3:
+في الصيف، جنيا الكثير من الطماطم والخيار الطازج. أعدت الجدة
+وحازم طبق سلطة لذيذ من هذه الخضار الطازجة لوجبة العشاء. فهم الولد أن الطعام الذي
+يزرعه الإنسان بيديه يكون له دائماً المذاق الأطيب والأجمل.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In spring, Hazem spent an enjoyable time at his
+kind grandmother's farm. The grandmother decided to teach him how to grow
+vegetables and care for them with their hands. The two prepared the soil in the
+garden and planted some tomato and cucumber seeds very carefully.
+
+Page 2:
+Every day after his lessons ended, Hazem rushed to
+help his grandmother and water the plants with cold water. After two weeks,
+small green leaves began to appear from the warm soil. Hazem felt great
+happiness to see the fruits of their joint effort.
+
+Page 3:
+In summer, they harvested a lot of fresh tomatoes
+and cucumbers. His grandmother and Hazem prepared a delicious salad plate from
+these fresh vegetables for dinner. The boy understood that food grown by one's
+own hands always has the finest and most beautiful taste.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

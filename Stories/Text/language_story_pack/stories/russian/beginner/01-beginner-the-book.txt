@@ -1,0 +1,20 @@
+Story 01: The Book
+Language: Russian
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 1-9 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Я был там. Он положил его книгу на стол. Это было для
+меня, как он и говорил.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+I was there. He put his book on the table. It was
+for me, as he had said.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

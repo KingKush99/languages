@@ -1,0 +1,21 @@
+Story 09: The Large Port
+Language: Hindi
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 69-76 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+यह एक बड़ा बंदरगाह है। इस भूमि पर एक बड़ा जहाज है। आपको यहाँ
+अपना नाम सही लिखना और उसकी वर्तनी लिखनी चाहिए। जानकारी भी जोड़ें।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Here is a large port. There is a big ship on this
+land. You must write and spell your name correctly here. Information is also
+needed.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

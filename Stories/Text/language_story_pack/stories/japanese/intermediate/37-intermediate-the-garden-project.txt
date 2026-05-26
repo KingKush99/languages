@@ -1,0 +1,30 @@
+Story 37: The Garden Project
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 559-581 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+学校の裏には、長い間使われていない小さな空き地がありました。草は伸び、土は固くなっていました。クラスのみんなは先生と相談し、その場所を野菜と花の庭に変える計画を立てました。
+
+Page 2:
+ゆいは種を選ぶ係になり、友達は水やりと看板作りを担当しました。最初の作業は大変で、手も服も土で汚れました。それでも、みんなは笑いながら協力し、少しずつ庭の形を作っていきました。
+
+Page 3:
+数週間後、小さな緑の芽が並びました。やがて赤いトマトと明るい花が育ち、学校の裏は楽しい場所になりました。ゆいは、自分たちの手で育てたものには特別な味と意味があると感じました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Behind the school, there was a small unused space that had been empty for a long time. The grass had grown tall, and the soil had become hard. The class talked with the teacher and made a plan to turn the place into a vegetable and flower garden.
+
+Page 2:
+Yui became responsible for choosing seeds, while her friends took charge of watering and making signs. The first work was hard, and their hands and clothes became dirty with soil. Still, everyone cooperated while laughing and slowly shaped the garden.
+
+Page 3:
+A few weeks later, small green sprouts stood in rows. Eventually red tomatoes and bright flowers grew, and the back of the school became a cheerful place. Yui felt that things grown with their own hands had a special taste and meaning.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

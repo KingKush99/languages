@@ -2,7 +2,7 @@
   {
     "id": "mandarin-beginner-01",
     "level": "beginner",
-    "title": "Beginner 01: Morning at Home",
+    "title": "Beginner 01: The Book",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -22,19 +22,19 @@
       9
     ],
     "reviewWords": [],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/01-beginner-morning-at-home.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/01-beginner-the-book.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，安娜回家。旁边有茶和书。安娜慢慢地读，并注意到一个新词：“城市”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Anna is at home. There is tea and book nearby. Anna reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
+        "ru": "我静静地看着那张旧桌子。他曾经在这里。桌子上有一本给他朋友的书。我知道那是他的书，正如他所说。",
+        "en": "I quietly look at that old table. He was once here.\nOn the table was a book for his friend. I know that was his book, as he said."
       }
     ]
   },
   {
     "id": "mandarin-beginner-02",
     "level": "beginner",
-    "title": "Beginner 02: Tea on the Table",
+    "title": "Beginner 02: Gathering at Home",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -60,19 +60,19 @@
       7,
       9
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/02-beginner-tea-on-the-table.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/02-beginner-gathering-at-home.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，莉娜回家。旁边有茶和面包。莉娜慢慢地读，并注意到一个新词：“桌子”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Lena is at home. There is tea and bread nearby. Lena reads slowly and notices a new word: table. The day feels good, and the language feels a little closer."
+        "ru": "他们现在在这里。我的朋友们想和我在一个房子里。我们有这个安静的地方。他们很高兴在这里。",
+        "en": "They are here now. My friends want to be with me in\none house. We have this quiet place. They are very happy to be here. === END OF\nSTORY 02 ==="
       }
     ]
   },
   {
     "id": "mandarin-beginner-03",
     "level": "beginner",
-    "title": "Beginner 03: The Open Window",
+    "title": "Beginner 03: A Hot Day",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -99,19 +99,19 @@
       13,
       16
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/03-beginner-the-open-window.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/03-beginner-a-hot-day.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，伊万回家。旁边有窗户和书。伊万慢慢地读，并注意到一个新词：“图书馆”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Ivan is at home. There is window and book nearby. Ivan reads slowly and notices a new word: library. The day feels good, and the language feels a little closer."
+        "ru": "这是什么？这是我朋友来的一句话。但是今天很热。旁边有一些水。水是冷凉的。",
+        "en": "What is this? This is a word from my friend. But\ntoday is hot. There is some water by it. The water is cool."
       }
     ]
   },
   {
     "id": "mandarin-beginner-04",
     "level": "beginner",
-    "title": "Beginner 04: Walking to the Park",
+    "title": "Beginner 04: The Decision",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -140,19 +140,19 @@
       22,
       25
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/04-beginner-walking-to-the-park.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/04-beginner-the-decision.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，玛莎去公园。旁边有妈妈和哥哥。玛莎慢慢地读，并注意到一个新词：“朋友”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Masha is in the park. There is mother and brother nearby. Masha reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
+        "ru": "你和我去。是你还是我？我们有那本关于过去的书。一起去那座新城市吧。",
+        "en": "You and I will go. Is it you or me? We had that old\nbook of the past. Let us go to the new town together."
       }
     ]
   },
   {
     "id": "mandarin-beginner-05",
     "level": "beginner",
-    "title": "Beginner 05: A Quiet Street",
+    "title": "Beginner 05: The New Room",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -180,19 +180,19 @@
       31,
       34
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/05-beginner-a-quiet-street.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/05-beginner-the-new-room.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，帕维尔去街上。旁边有房子和窗户。帕维尔慢慢地读，并注意到一个新词：“街道”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Pavel is on the street. There is house and window nearby. Pavel reads slowly and notices a new word: street. The day feels good, and the language feels a little closer."
+        "ru": "我们在那个房间里。哪个房间？我们可以走出来。其他的人也出来了。",
+        "en": "We were in that room. Which room? We can walk out.\nOther people came out too."
       }
     ]
   },
   {
     "id": "mandarin-beginner-06",
     "level": "beginner",
-    "title": "Beginner 06: The First Book",
+    "title": "Beginner 06: The Plan",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -220,19 +220,19 @@
       39,
       42
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/06-beginner-the-first-book.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/06-beginner-the-plan.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，奥尔加去图书馆。旁边有书和卡片。奥尔加慢慢地读，并注意到一个新词：“词”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Olga is in the library. There is book and card nearby. Olga reads slowly and notices a new word: word. The day feels good, and the language feels a little closer."
+        "ru": "他说：“没有时间了。”如果他们做他们的工作，他们将如何做？这是一个好计划。",
+        "en": "He said: \"There is no time.\" If they do their work,\nhow will they do it? This is a good plan."
       }
     ]
   },
   {
     "id": "mandarin-beginner-07",
     "level": "beginner",
-    "title": "Beginner 07: A Good Day",
+    "title": "Beginner 07: Three Wishes",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -260,19 +260,19 @@
       47,
       50
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/07-beginner-a-good-day.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/07-beginner-three-wishes.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，尼古拉去公园。旁边有太阳和树。尼古拉慢慢地读，并注意到一个新词：“好”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Nikolay is in the park. There is sun and tree nearby. Nikolay reads slowly and notices a new word: good. The day feels good, and the language feels a little closer."
+        "ru": "我想告诉你。这里有一套三样东西。每样东西都想要新鲜的空气。这样运行得很好。",
+        "en": "I want to tell you. There is a set of three things\nhere. Each thing wants fresh air. It runs well this way."
       }
     ]
   },
   {
     "id": "mandarin-beginner-08",
     "level": "beginner",
-    "title": "Beginner 08: At School",
+    "title": "Beginner 08: A Quiet Night",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -300,19 +300,19 @@
       55,
       58
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/08-beginner-at-school.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/08-beginner-a-quiet-night.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，萨沙去学校。旁边有书桌和铅笔。萨沙慢慢地读，并注意到一个新词：“学校”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Sasha is at school. There is desk and pencil nearby. Sasha reads slowly and notices a new word: school. The day feels good, and the language feels a little closer."
+        "ru": "我在家里读一本小书。我也用手玩玩具。在一天的结束时，我把书放回书架。",
+        "en": "I read a small book at home. I also play with toys\nusing my hand. At the end of the day, I put the book back on the shelf. === END\nOF STORY 08 ==="
       }
     ]
   },
   {
     "id": "mandarin-beginner-09",
     "level": "beginner",
-    "title": "Beginner 09: At the Store",
+    "title": "Beginner 09: The Large Port",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -340,19 +340,19 @@
       63,
       66
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/09-beginner-at-the-store.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/09-beginner-the-large-port.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，伊琳娜去商店。旁边有包和食物。伊琳娜慢慢地读，并注意到一个新词：“商店”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Irina is in the store. There is bag and food nearby. Irina reads slowly and notices a new word: store. The day feels good, and the language feels a little closer."
+        "ru": "这里是一个大港口。在这片土地上有一艘大船。你必须在这里写下你的名字，甚至添加拼写。",
+        "en": "Here is a large port. There is a big ship on this\nland. You must write your name here, and even add spelling."
       }
     ]
   },
   {
     "id": "mandarin-beginner-10",
     "level": "beginner",
-    "title": "Beginner 10: At the Station",
+    "title": "Beginner 10: The Path to Change",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -380,19 +380,19 @@
       71,
       74
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/10-beginner-at-the-station.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/10-beginner-the-path-to-change.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，玛丽亚去车站。旁边有茶和票。玛丽亚慢慢地读，并注意到一个新词：“车站”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Maria is at the station. There is tea and ticket nearby. Maria reads slowly and notices a new word: station. The day feels good, and the language feels a little closer."
+        "ru": "人们去了一座高山。我问他们为什么去。他们开始行动，以此来跟随那些改变。",
+        "en": "The men went to a high mountain. I asked why they\nwent. They began to act to follow those changes."
       }
     ]
   },
   {
     "id": "mandarin-beginner-11",
     "level": "beginner",
-    "title": "Beginner 11: A Simple Call",
+    "title": "Beginner 11: The New Picture",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -420,19 +420,19 @@
       79,
       82
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/11-beginner-a-simple-call.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/11-beginner-the-new-picture.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，迪马回家。旁边有电话和笔记本。迪马慢慢地读，并注意到一个新词：“朋友”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Dima is at home. There is phone and notebook nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
+        "ru": "这个房子需要光线。请把灯关掉，再次尝试拍一张照片。一个善良的人会帮助我们。",
+        "en": "This house needs light. Please turn the light off\nand try again to take a picture. A kind person will help us."
       }
     ]
   },
   {
     "id": "mandarin-beginner-12",
     "level": "beginner",
-    "title": "Beginner 12: I Know This Word",
+    "title": "Beginner 12: Our World",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -460,19 +460,19 @@
       87,
       90
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/12-beginner-i-know-this-word.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/beginner/12-beginner-our-world.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，卡佳去房间。旁边有纸和书。卡佳慢慢地读，并注意到一个新词：“知道”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Katya is in the room. There is paper and book nearby. Katya reads slowly and notices a new word: know. The day feels good, and the language feels a little closer."
+        "ru": "我的母亲和父亲热爱地球。我们在家附近建了一个小房子，以便自己观察野生动物。这就是世界的意义。",
+        "en": "My mother and father love the earth. We built a\nsmall house near our home to observe wild animals ourselves. That is the point\nof the world."
       }
     ]
   },
   {
     "id": "mandarin-elementary-13",
     "level": "elementary",
-    "title": "Elementary 13: The Library Window",
+    "title": "Elementary 13: The Lost Dog",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -508,24 +508,24 @@
       95,
       98
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/13-elementary-the-library-window.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/13-elementary-the-lost-dog.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，帕维尔去图书馆。旁边有窗户和笔记本。帕维尔慢慢地读，并注意到一个新词：“安静”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Pavel is in the library. There is window and notebook nearby. Pavel reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
+        "ru": "有一天，一个小女孩在附近的森林里发现了一只迷路的小狗。小狗很害怕，而且觉得非常冷。女孩温柔地对它说话，让它安心。",
+        "en": "One day, a little girl found a lost dog in the\nnearby forest. The dog was very scared and felt extremely cold. The girl spoke\nto it gently and made it feel safe."
       },
       {
         "heading": "Page 2",
-        "ru": "帕维尔把“安静”写在笔记本里。然后帕维尔想一想“阅读”这个主题。这里很安静，所以帕维尔又读了一遍句子，并轻声说出来。",
-        "en": "Pavel writes the word quiet in a notebook. Then Pavel thinks about reading. The place is quiet, so Pavel reads the sentence again and says it softly."
+        "ru": "女孩把小狗带回家，给了它温热的食物。小狗高兴地摇着尾巴。她的母亲和父亲也同意让它留下来，大家都很开心。",
+        "en": "The girl took the dog home and gave it warm food.\nThe dog happily wagged its tail. Her mother and father also agreed to let it\nstay, and everyone was very happy."
       }
     ]
   },
   {
     "id": "mandarin-elementary-14",
     "level": "elementary",
-    "title": "Elementary 14: The Museum Visit",
+    "title": "Elementary 14: The New House",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -561,24 +561,24 @@
       111,
       114
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/14-elementary-the-museum-visit.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/14-elementary-the-new-house.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，尼古拉去博物馆。旁边有票和图画。尼古拉慢慢地读，并注意到一个新词：“历史”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Nikolay is in the museum. There is ticket and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
+        "ru": "我们选择了这片安静的土地来建造我们的新房子。附近有一条干净的小河，每天都能听到鸟儿美丽的歌声。新生活从今天开始。",
+        "en": "We chose this quiet land to build our new house.\nThere is a clean river nearby, and we can hear the beautiful songs of birds\nevery day. Our new life begins today."
       },
       {
         "heading": "Page 2",
-        "ru": "尼古拉把“历史”写在笔记本里。然后尼古拉想一想“记忆”这个主题。这里很安静，所以尼古拉又读了一遍句子，并轻声说出来。",
-        "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about memory. The place is quiet, so Nikolay reads the sentence again and says it softly."
+        "ru": "我和父亲开始在新房子附近建造一个小花园。我们在那里种了许多美丽的花。母亲从窗户看着我们，亲切地帮助我们。",
+        "en": "My father and I started to build a small garden\nnear our new house. We planted many beautiful flowers there. My mother watched\nus from the window and kindly helped us."
       }
     ]
   },
   {
     "id": "mandarin-elementary-15",
     "level": "elementary",
-    "title": "Elementary 15: The Cafe Notebook",
+    "title": "Elementary 15: The Mother's Advice",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -614,24 +614,24 @@
       127,
       130
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/15-elementary-the-cafe-notebook.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/15-elementary-the-mothers-advice.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，奥尔加去咖啡馆。旁边有茶和音乐。奥尔加慢慢地读，并注意到一个新词：“旋律”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Olga is in the cafe. There is tea and music nearby. Olga reads slowly and notices a new word: melody. The day feels good, and the language feels a little closer."
+        "ru": "一个小男孩正在思考学校里一道困难的题。他读了很长时间的书，但一点也无法理解正确的答案。这让他感到难过。",
+        "en": "A little boy was thinking about a difficult problem\nfor school. He read a book for a long time, but he could not understand the\ncorrect answer at all. This made him feel sad."
       },
       {
         "heading": "Page 2",
-        "ru": "奥尔加把“旋律”写在笔记本里。然后奥尔加想一想“听”这个主题。这里很安静，所以奥尔加又读了一遍句子，并轻声说出来。",
-        "en": "Olga writes the word melody in a notebook. Then Olga thinks about listening. The place is quiet, so Olga reads the sentence again and says it softly."
+        "ru": "母亲走到他身边，温柔地对他说：“再次尝试一下，从第一页开始。慢慢读，你一定会明白它的意思和答案。”男孩重新开始。",
+        "en": "His mother came to his side and said gently: \"Try\nagain, start from the first page. Read slowly, and you will surely understand\nits meaning and the answer.\" The boy started over."
       }
     ]
   },
   {
     "id": "mandarin-elementary-16",
     "level": "elementary",
-    "title": "Elementary 16: Rain Near the Door",
+    "title": "Elementary 16: Building a Bridge",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -667,24 +667,24 @@
       143,
       146
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/16-elementary-rain-near-the-door.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/16-elementary-building-a-bridge.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，迪马去书店。旁边有门和书。迪马慢慢地读，并注意到一个新词：“道路”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Dima is in the bookshop. There is door and book nearby. Dima reads slowly and notices a new word: road. The day feels good, and the language feels a little closer."
+        "ru": "我们村子附近有一条非常宽的河。为了去对岸的土地，我们过去总是要走很长很累的路。这让我们感到非常不方便。",
+        "en": "There is a very wide river near our village. In\norder to go to the land on the other side, we always had to walk a long and\ntiring road in the past. This made us feel very inconvenienced."
       },
       {
         "heading": "Page 2",
-        "ru": "迪马把“道路”写在笔记本里。然后迪马想一想“雨”这个主题。这里很安静，所以迪马又读了一遍句子，并轻声说出来。",
-        "en": "Dima writes the word road in a notebook. Then Dima thinks about rain. The place is quiet, so Dima reads the sentence again and says it softly."
+        "ru": "村民们聚在一起，决定建造一座新的木桥。大家用双手努力工作，大桥终于造好了。现在我们可以非常轻松、快速地过河。",
+        "en": "The villagers gathered together and decided to\nbuild a new wooden bridge. Everyone worked hard with their hands, and the big\nbridge was finally built. Now we can cross the river very easily and quickly."
       }
     ]
   },
   {
     "id": "mandarin-elementary-17",
     "level": "elementary",
-    "title": "Elementary 17: The Letter on the Table",
+    "title": "Elementary 17: The Picture Book",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -720,24 +720,24 @@
       159,
       162
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/17-elementary-the-letter-on-the-table.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/17-elementary-the-picture-book.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，萨沙去大学。旁边有信和桌子。萨沙慢慢地读，并注意到一个新词：“会议”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Sasha is at the university. There is letter and table nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
+        "ru": "我的祖父送给我一本古老而有趣的图画书。那本书里有许多来自世界各地的野生动物的美丽照片。我第一眼就爱上了它。",
+        "en": "My grandfather gave me an ancient and interesting\npicture book. In that book, there were many beautiful photos of wild animals\nfrom all over the world. I fell in love with it at first sight."
       },
       {
         "heading": "Page 2",
-        "ru": "萨沙把“会议”写在笔记本里。然后萨沙想一想“邀请”这个主题。这里很安静，所以萨沙又读了一遍句子，并轻声说出来。",
-        "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about invitation. The place is quiet, so Sasha reads the sentence again and says it softly."
+        "ru": "我一边读书，一边学习如何写出那些困难新词的拼写。我的母亲总是坐在我身边，亲切地帮助我正确、快速地学习。",
+        "en": "While reading, I learned how to write the spellings\nof those difficult new words. My mother always sat next to me, kindly helping me\nlearn correctly and quickly."
       }
     ]
   },
   {
     "id": "mandarin-elementary-18",
     "level": "elementary",
-    "title": "Elementary 18: Words in the Park",
+    "title": "Elementary 18: Pointing to the Sky",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -773,24 +773,24 @@
       175,
       178
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/18-elementary-words-in-the-park.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/18-elementary-pointing-to-the-sky.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，伊琳娜去公园。旁边有电话和茶。伊琳娜慢慢地读，并注意到一个新词：“三个”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Irina is in the park. There is phone and tea nearby. Irina reads slowly and notices a new word: three. The day feels good, and the language feels a little closer."
+        "ru": "当我们爬上高高的山顶时，蓝天看起来离我们非常近。风吹得又冷又大，但明亮的阳光让周围的世界变得美丽无比。",
+        "en": "When we climbed up to the top of the high mountain,\nthe blue sky looked very close to us. The wind blew cold and strong, but the\nbright sunlight made the world around us incredibly beautiful."
       },
       {
         "heading": "Page 2",
-        "ru": "伊琳娜把“三个”写在笔记本里。然后伊琳娜想一想“说话”这个主题。这里很安静，所以伊琳娜又读了一遍句子，并轻声说出来。",
-        "en": "Irina writes the word three in a notebook. Then Irina thinks about speaking. The place is quiet, so Irina reads the sentence again and says it softly."
+        "ru": "父亲用手指向天空说：“看那些美丽的大鸟，它们正一起飞往遥远而温暖的土地。”我们静静地站在那里，看着它们飞走。",
+        "en": "My father pointed to the sky with his hand and\nsaid: \"Look at those beautiful big birds. They are flying together to a distant\nand warm land.\" We stood there quietly, watching them fly away. === END OF\nSTORY 18 ==="
       }
     ]
   },
   {
     "id": "mandarin-elementary-19",
     "level": "elementary",
-    "title": "Elementary 19: The Little Plan",
+    "title": "Elementary 19: The Father's Letter",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -826,24 +826,24 @@
       191,
       194
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/19-elementary-the-little-plan.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/19-elementary-the-fathers-letter.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，莉娜去商店。旁边有地图和篮子。莉娜慢慢地读，并注意到一个新词：“计划”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Lena is in the store. There is map and basket nearby. Lena reads slowly and notices a new word: plan. The day feels good, and the language feels a little closer."
+        "ru": "我的父亲因为工作去了一个很远的大港口城市。有一天，家里收到了一封他写的信。我非常高兴，立刻打开了它。",
+        "en": "My father went to a very far and large port city\nbecause of work. One day, a letter he wrote was received at home. I was very\nhappy and opened it immediately."
       },
       {
         "heading": "Page 2",
-        "ru": "莉娜把“计划”写在笔记本里。然后莉娜想一想“购物”这个主题。这里很安静，所以莉娜又读了一遍句子，并轻声说出来。",
-        "en": "Lena writes the word plan in a notebook. Then Lena thinks about shopping. The place is quiet, so Lena reads the sentence again and says it softly."
+        "ru": "父亲在信中写到了那里美丽的大海、奇妙的地方和善良的人们。他承诺很快就会回家。我的心立刻安定了下来。",
+        "en": "Father wrote in the letter about the beautiful sea,\nwonderful places, and kind people there. He promised to come home very soon. My\nheart felt relieved immediately."
       }
     ]
   },
   {
     "id": "mandarin-elementary-20",
     "level": "elementary",
-    "title": "Elementary 20: The News Page",
+    "title": "Elementary 20: Water from the Well",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -879,24 +879,24 @@
       207,
       210
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/20-elementary-the-news-page.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/20-elementary-water-from-the-well.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，玛丽亚去车站。旁边有茶和报纸。玛丽亚慢慢地读，并注意到一个新词：“新闻”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Maria is at the station. There is tea and newspaper nearby. Maria reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
+        "ru": "那是一个非常炎热的夏天下午。屋子里没有风，我们需要凉爽干净的水。我们决定去森林附近的那口旧井里打水。",
+        "en": "That was a very hot summer afternoon. There was no\nwind in the house, and we needed cool, clean water. We decided to go draw water\nfrom that old well near the forest."
       },
       {
         "heading": "Page 2",
-        "ru": "玛丽亚把“新闻”写在笔记本里。然后玛丽亚想一想“想法”这个主题。这里很安静，所以玛丽亚又读了一遍句子，并轻声说出来。",
-        "en": "Maria writes the word news in a notebook. Then Maria thinks about thinking. The place is quiet, so Maria reads the sentence again and says it softly."
+        "ru": "我们用双手把沉重的水桶从井里拉上来。井水非常凉爽。我们喝了水，感到非常快乐和舒适。炎热的一天也变得美好了。",
+        "en": "We used our hands to pull the heavy bucket up from\nthe well. The well water was very cool. We drank the water and felt very happy\nand comfortable. The hot day became beautiful too."
       }
     ]
   },
   {
     "id": "mandarin-elementary-21",
     "level": "elementary",
-    "title": "Elementary 21: The Family Walk",
+    "title": "Elementary 21: A Day of Play",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -932,24 +932,24 @@
       223,
       226
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/21-elementary-the-family-walk.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/21-elementary-a-day-of-play.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，安娜去公园。旁边有妈妈和哥哥。安娜慢慢地读，并注意到一个新词：“房子”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Anna is in the park. There is mother and brother nearby. Anna reads slowly and notices a new word: house. The day feels good, and the language feels a little closer."
+        "ru": "今天是学校的假日。小孩子们聚集在房子附近开阔的广场上。大家开始活泼地玩耍。天气很好，吹着舒服的微风。",
+        "en": "Today is a school holiday. Small children gathered\nin the open square near the houses. Everyone started playing lively. The weather\nwas great, and a comfortable breeze was blowing."
       },
       {
         "heading": "Page 2",
-        "ru": "安娜把“房子”写在笔记本里。然后安娜想一想“家庭”这个主题。这里很安静，所以安娜又读了一遍句子，并轻声说出来。",
-        "en": "Anna writes the word house in a notebook. Then Anna thinks about family. The place is quiet, so Anna reads the sentence again and says it softly."
+        "ru": "他们一直玩到傍晚。在一天的结束时，大家在草地上坐成一个大圆圈，互相讲述着自己在书里读过的有趣故事。",
+        "en": "They played until evening. At the end of the day,\neveryone sat in a big circle on the grass, telling each other interesting\nstories they had read in books."
       }
     ]
   },
   {
     "id": "mandarin-elementary-22",
     "level": "elementary",
-    "title": "Elementary 22: The Quiet Room",
+    "title": "Elementary 22: Small Endings",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -985,24 +985,24 @@
       239,
       242
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/22-elementary-the-quiet-room.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/22-elementary-small-endings.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，伊万去房间。旁边有椅子和书。伊万慢慢地读，并注意到一个新词：“房间”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Ivan is in the room. There is chair and book nearby. Ivan reads slowly and notices a new word: room. The day feels good, and the language feels a little closer."
+        "ru": "这个世界上的每样东西都有它的结束。但是一个结束总是意味着新事物的开始。小男孩把他的旧玩具放进一个大箱子里。",
+        "en": "Every thing in this world has its end. But an\nending always means the beginning of something new. The little boy put his old\ntoys into a large box."
       },
       {
         "heading": "Page 2",
-        "ru": "伊万把“房间”写在笔记本里。然后伊万想一想“安静”这个主题。这里很安静，所以伊万又读了一遍句子，并轻声说出来。",
-        "en": "Ivan writes the word room in a notebook. Then Ivan thinks about silence. The place is quiet, so Ivan reads the sentence again and says it softly."
+        "ru": "他长大了，不再玩那些玩具。现在他需要读其他更有用的书，自己制定生活新计划。他笑着自信地走向未来。",
+        "en": "He has grown up and doesn't play with those toys\nanymore. Now he needs to read other more useful books and make new plans for\nlife himself. He smiled and walked confidently toward the future. === END OF\nSTORY 22 ==="
       }
     ]
   },
   {
     "id": "mandarin-elementary-23",
     "level": "elementary",
-    "title": "Elementary 23: The New Teacher",
+    "title": "Elementary 23: The Port City",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1037,24 +1037,24 @@
       255,
       258
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/23-elementary-the-new-teacher.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/23-elementary-the-port-city.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，玛莎去学校。旁边有老师和白板。玛莎慢慢地读，并注意到一个新词：“问题”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Masha is at school. There is teacher and board nearby. Masha reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
+        "ru": "我的家离一个非常大而繁忙的港口很近。每天清晨，来自世界各地的大船开到这里，许多人走上这片土地，非常热闹。",
+        "en": "My house is very close to a very large and busy\nport. Every morning, big ships from all over the world arrive here, and many\npeople disembark onto this land; it is very lively."
       },
       {
         "heading": "Page 2",
-        "ru": "玛莎把“问题”写在笔记本里。然后玛莎想一想“学习”这个主题。这里很安静，所以玛莎又读了一遍句子，并轻声说出来。",
-        "en": "Masha writes the word question in a notebook. Then Masha thinks about learning. The place is quiet, so Masha reads the sentence again and says it softly."
+        "ru": "傍晚，我和父亲来到水边。我们静静地看着大船驶回大海。夕阳的光洒在海浪上，这美丽的景色用语言无法形容。",
+        "en": "In the evening, my father and I come to the water.\nWe quietly watch the big ships sail back to sea. The light of the setting sun\nsprinkles on the waves, and this beautiful scenery cannot be described in words."
       }
     ]
   },
   {
     "id": "mandarin-elementary-24",
     "level": "elementary",
-    "title": "Elementary 24: The Bus Stop",
+    "title": "Elementary 24: High Lands",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1089,24 +1089,24 @@
       270,
       273
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/24-elementary-the-bus-stop.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/24-elementary-high-lands.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，帕维尔去街上。旁边有票和公交车。帕维尔慢慢地读，并注意到一个新词：“时间”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Pavel is on the street. There is ticket and bus nearby. Pavel reads slowly and notices a new word: time. The day feels good, and the language feels a little closer."
+        "ru": "我们制定了一个计划，准备爬上一座非常高的山。那座山高高地耸立在云层附近，要到达山顶需要力量和行动。",
+        "en": "We made a plan to climb a very high mountain. That\nmountain towered high near the clouds, and reaching its summit required strength\nand action."
       },
       {
         "heading": "Page 2",
-        "ru": "帕维尔把“时间”写在笔记本里。然后帕维尔想一想“等待”这个主题。这里很安静，所以帕维尔又读了一遍句子，并轻声说出来。",
-        "en": "Pavel writes the word time in a notebook. Then Pavel thinks about waiting. The place is quiet, so Pavel reads the sentence again and says it softly."
+        "ru": "当我们到达高高的山顶时，风非常冷。但从那里看下去，风景太美了。房屋和河流就像小点。我们为自己的力量感到骄傲。",
+        "en": "When we reached the high summit, the wind was very\ncold. But looking down from there, the scenery was so beautiful. Houses and\nrivers looked like small points. We were proud of our own strength. === END OF\nSTORY 24 ==="
       }
     ]
   },
   {
     "id": "mandarin-elementary-25",
     "level": "elementary",
-    "title": "Elementary 25: The Small Market",
+    "title": "Elementary 25: Trying Again",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1141,24 +1141,24 @@
       285,
       288
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/25-elementary-the-small-market.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/25-elementary-trying-again.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，奥尔加去市场。旁边有水果和包。奥尔加慢慢地读，并注意到一个新词：“钱”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Olga is at the market. There is fruit and bag nearby. Olga reads slowly and notices a new word: money. The day feels good, and the language feels a little closer."
+        "ru": "一个小女孩想用彩色的纸折一只漂亮的小动物。但是她的第一次尝试没有成功，纸被撕破了。她感到有点难过。",
+        "en": "A little girl tried to fold a beautiful small\nanimal out of colored paper. But her first attempt did not succeed, and the\npaper tore. She felt a bit sad."
       },
       {
         "heading": "Page 2",
-        "ru": "奥尔加把“钱”写在笔记本里。然后奥尔加想一想“市场”这个主题。这里很安静，所以奥尔加又读了一遍句子，并轻声说出来。",
-        "en": "Olga writes the word money in a notebook. Then Olga thinks about market. The place is quiet, so Olga reads the sentence again and says it softly."
+        "ru": "母亲走过来对她说：“再次尝试一下，让你的手动作更慢一点。”女孩拿了一张干净的新纸，终于折出了一个优秀的形状。她笑了。",
+        "en": "Her mother came over and said: \"Try again, and make\nyour hand movements a little slower.\" The girl took a clean new sheet of paper\nand was finally able to fold an excellent shape. She smiled."
       }
     ]
   },
   {
     "id": "mandarin-elementary-26",
     "level": "elementary",
-    "title": "Elementary 26: The First Conversation",
+    "title": "Elementary 26: The World of Words",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1193,24 +1193,24 @@
       300,
       303
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/26-elementary-the-first-conversation.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/elementary/26-elementary-the-world-of-words.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，迪马去咖啡馆。旁边有电话和朋友。迪马慢慢地读，并注意到一个新词：“句子”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Dima is in the cafe. There is phone and friend nearby. Dima reads slowly and notices a new word: sentence. The day feels good, and the language feels a little closer."
+        "ru": "词语为我们打开新的道路，完全改变我们对生活的理解。每天，我都研究新词的意思，并写在笔记本上以便记住它们。",
+        "en": "Words open new paths for us and completely change\nour understanding of life. Every day, I study the meanings of new words and\nwrite them in my notebook to remember them."
       },
       {
         "heading": "Page 2",
-        "ru": "迪马把“句子”写在笔记本里。然后迪马想一想“谈话”这个主题。这里很安静，所以迪马又读了一遍句子，并轻声说出来。",
-        "en": "Dima writes the word sentence in a notebook. Then Dima thinks about talk. The place is quiet, so Dima reads the sentence again and says it softly."
+        "ru": "读书帮助人建造自己独特的内心世界。通过大量的阅读，我们开始更好地理解他人，并对周围的每个人变得更加温和与善良。",
+        "en": "Reading books helps a person build their own unique\ninner world. Through a large amount of reading, we begin to better understand\nothers and become gentler and kinder to everyone around us."
       }
     ]
   },
   {
     "id": "mandarin-intermediate-27",
     "level": "intermediate",
-    "title": "Intermediate 27: The Lost Note",
+    "title": "Intermediate 27: The Old Clock",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1254,29 +1254,29 @@
       315,
       318
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/27-intermediate-the-lost-note.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/27-intermediate-the-old-clock.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，卡佳去图书馆。旁边有便条和地图。卡佳慢慢地读，并注意到一个新词：“地方”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Katya is in the library. There is note and map nearby. Katya reads slowly and notices a new word: place. The day feels good, and the language feels a little closer."
+        "ru": "在一个星期六的下午，小明决定清理家里古老的阁楼。那里放着许多旧箱子和坏掉的家具。在房间的角落里，他发现了一座高大的木制旧钟。这座钟似乎已经很多年不走了，上面落满了灰尘。",
+        "en": "On a Saturday afternoon, Xiao Ming decided to clean\nhis family's ancient attic. There were many old boxes and broken furniture. In\nthe corner of the room, he found a tall, old wooden clock. The clock did not\nseem to have run for many years, and a lot of dust had accumulated on it."
       },
       {
         "heading": "Page 2",
-        "ru": "卡佳把“地方”写在笔记本里。然后卡佳想一想“寻找”这个主题。这里很安静，所以卡佳又读了一遍句子，并轻声说出来。",
-        "en": "Katya writes the word place in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
+        "ru": "小明打开钟的玻璃门，开始检查内部。在沉重的钟摆后面，他发现了一把黄铜小钥匙。他拿起钥匙，尝试插进旧钟侧面的一处小孔中。钥匙大小正好，转动起来也非常轻松。",
+        "en": "Xiao Ming opened the clock's glass door and began\nto check the inside. Behind the heavy pendulum, he found a small brass key. He\ntook the key and tried to insert it into a small hole on the side of the old\nclock. The key fit perfectly and turned very easily."
       },
       {
         "heading": "Page 3",
-        "ru": "出现了一个小问题，但是卡佳用新词来理解。卡佳看了看便条，又看了看地图，然后做了一个简单的计划。最后，卡佳能说出一个清楚的句子。",
-        "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the note, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
+        "ru": "当他轻轻转动钥匙时，旧钟开始发出滴答滴答的亲切声音。钟表指针再次移动起来，美丽的钟声很快在屋子里响起。这个声音和祖父多年前最喜欢听的声音一模一样。小明心里感到温暖而喜悦。",
+        "en": "As he turned the key gently, the old clock began to\nmake a friendly ticking sound. The hands moved again, and a beautiful chime soon\nrang out in the house. This sound was exactly like the one his grandfather loved\nto listen to many years ago. Xiao Ming felt warm and joyful in his heart. ===\nEND OF STORY 27 ==="
       }
     ]
   },
   {
     "id": "mandarin-intermediate-28",
     "level": "intermediate",
-    "title": "Intermediate 28: A Meeting at Noon",
+    "title": "Intermediate 28: The Quiet Forest",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1320,29 +1320,29 @@
       339,
       342
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/28-intermediate-a-meeting-at-noon.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/28-intermediate-the-quiet-forest.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，萨沙去大学。旁边有钟和信。萨沙慢慢地读，并注意到一个新词：“中午”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Sasha is at the university. There is clock and letter nearby. Sasha reads slowly and notices a new word: noon. The day feels good, and the language feels a little closer."
+        "ru": "小红走在安静的森林里，这里只能听到远处鸟儿的声音。树木长得非常高，明亮的阳光只能穿过绿色的树叶洒下一点点。脚下是柔软的绿色苔藓，走在上面像地毯一样。",
+        "en": "Xiao Hong walked through the quiet forest where\nonly the distant voices of birds were heard. The trees grew very tall, and the\nbright sunlight only filtered slightly through the green leaves. Soft green moss\nlay underfoot, making it feel like walking on a carpet."
       },
       {
         "heading": "Page 2",
-        "ru": "萨沙把“中午”写在笔记本里。然后萨沙想一想“会议”这个主题。这里很安静，所以萨沙又读了一遍句子，并轻声说出来。",
-        "en": "Sasha writes the word noon in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
+        "ru": "她往更深处走去，突然眼前一亮，发现了一个美丽的小湖泊。湖里的水非常清澈，像镜子一样映照着蓝天和白云。几只小鹿站在湖边，正在安静地喝水。小红在一旁默默看着。",
+        "en": "She walked deeper, and suddenly the view opened up\nas she discovered a beautiful small lake. The water in the lake was very clear,\nreflecting the blue sky and white clouds like a mirror. A few deer stood by the\nlakeside, drinking water quietly. Xiao Hong watched them silently from the side."
       },
       {
         "heading": "Page 3",
-        "ru": "出现了一个小问题，但是萨沙用新词来理解。萨沙看了看钟，又看了看信，然后做了一个简单的计划。最后，萨沙能说出一个清楚的句子。",
-        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the clock, looks at the letter, and makes a simple plan. By the end, Sasha can say one clear sentence."
+        "ru": "小红坐在水边干燥的石头上，打开了自己的笔记本。她决定把这个故事记录下来，画下美丽的湖泊和小鹿。这个森林之行带来的温暖记忆，在她的生活中会保留很长时间。",
+        "en": "Xiao Hong sat on a dry stone near the water and\nopened her notebook. She decided to record this story and draw the beautiful\nlake and the deer. This warm memory of the walk in the forest will remain in her\nlife for a long time."
       }
     ]
   },
   {
     "id": "mandarin-intermediate-29",
     "level": "intermediate",
-    "title": "Intermediate 29: The Old Map",
+    "title": "Intermediate 29: The City by the Sea",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1386,29 +1386,29 @@
       363,
       366
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/29-intermediate-the-old-map.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/29-intermediate-the-city-by-the-sea.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，尼古拉去博物馆。旁边有地图和街道。尼古拉慢慢地读，并注意到一个新词：“城市”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Nikolay is in the museum. There is map and street nearby. Nikolay reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
+        "ru": "小杰住在一座位于蔚蓝大海边的美丽城市里。每到夏天，这里都会举办盛大的节日。港口挂起了色彩斑斓的旗帜，人们搭建起木制食品摊。随着傍晚的临近，许多快乐的人聚集在街上。",
+        "en": "Xiao Jie lived in a beautiful city on the shore of\nthe blue sea. Every summer, a grand festival was organized here. Colorful flags\nwere hung at the port, and people built wooden food stalls. As evening\napproached, many happy people gathered on the street."
       },
       {
         "heading": "Page 2",
-        "ru": "尼古拉把“城市”写在笔记本里。然后尼古拉想一想“历史”这个主题。这里很安静，所以尼古拉又读了一遍句子，并轻声说出来。",
-        "en": "Nikolay writes the word city in a notebook. Then Nikolay thinks about history. The place is quiet, so Nikolay reads the sentence again and says it softly."
+        "ru": "小杰在港口遇到了一位老渔夫。这位老爷爷向他讲述了自己年轻时在世界各大洋航行的奇妙故事，还有暴风雨和巨大鱼类。男孩听得津津有味，梦想着未来也能成为一名真正的航海家。",
+        "en": "Xiao Jie met an old fisherman at the port. The old\nman told him wonderful stories of his young days sailing across the world's\noceans, about strong storms and huge fish. The boy listened with great interest\nand dreamed of becoming a real voyager in the future."
       },
       {
         "heading": "Page 3",
-        "ru": "出现了一个小问题，但是尼古拉用新词来理解。尼古拉看了看地图，又看了看街道，然后做了一个简单的计划。最后，尼古拉能说出一个清楚的句子。",
-        "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the map, looks at the street, and makes a simple plan. By the end, Nikolay can say one clear sentence."
+        "ru": "夜幕降临时，天空中绽放起彩色的烟花。光芒飞得很高，然后落入海水中。整座城市都在快乐地闪耀，小杰为自己的海滨家园感到骄傲。",
+        "en": "When night fell, colorful fireworks bloomed in the\nsky. The lights flew very high and then fell into the sea water. The entire city\nglowed happily, and Xiao Jie felt proud of his seaside home."
       }
     ]
   },
   {
     "id": "mandarin-intermediate-30",
     "level": "intermediate",
-    "title": "Intermediate 30: The Rainy Lesson",
+    "title": "Intermediate 30: The Creative Lesson",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1452,29 +1452,29 @@
       387,
       390
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/30-intermediate-the-rainy-lesson.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/30-intermediate-the-creative-lesson.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，伊琳娜去学校。旁边有窗户和雨。伊琳娜慢慢地读，并注意到一个新词：“天气”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Irina is at school. There is window and rain nearby. Irina reads slowly and notices a new word: weather. The day feels good, and the language feels a little closer."
+        "ru": "在学校的科学课上，老师给孩子们布置了一个新的小组任务。他们需要分成小组，建造一个“未来绿色城市”的模型。四个朋友坐在一起，开始讨论使用什么样的环保技术。",
+        "en": "In school during the science class, the teacher\nassigned the children a new group task. They needed to divide into groups and\nbuild a model of a \"clean city of the future.\" Four friends sat together and\nbegan discussing what eco-friendly technologies to use."
       },
       {
         "heading": "Page 2",
-        "ru": "伊琳娜把“天气”写在笔记本里。然后伊琳娜想一想“学习”这个主题。这里很安静，所以伊琳娜又读了一遍句子，并轻声说出来。",
-        "en": "Irina writes the word weather in a notebook. Then Irina thinks about study. The place is quiet, so Irina reads the sentence again and says it softly."
+        "ru": "他们有许多好主意。他们决定在每个房子的屋顶上安装太阳能板，并设计一个收集雨水灌溉植物的系统。他们用纸张和纸板等简单的材料，分工协作。",
+        "en": "They had many great and useful ideas. They decided\nto install solar panels on the roofs of every house and design a system to\ncollect rainwater to irrigate plants. They used simple materials like paper and\ncardboard, dividing the work and cooperating."
       },
       {
         "heading": "Page 3",
-        "ru": "出现了一个小问题，但是伊琳娜用新词来理解。伊琳娜看了看窗户，又看了看雨，然后做了一个简单的计划。最后，伊琳娜能说出一个清楚的句子。",
-        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the window, looks at the rain, and makes a simple plan. By the end, Irina can say one clear sentence."
+        "ru": "第二天，所有小组都在全班同学面前展示了自己的模型。小红的队伍自信地介绍了他们未来城市的价值。通过集思广益和学会协作，每个人都获得了极好的经验。",
+        "en": "The next day, all groups presented their models in\nfront of the class. Xiao Hong's team confidently explained the value of their\nfuture city. By bringing ideas together and learning to cooperate, everyone\ngained an excellent experience."
       }
     ]
   },
   {
     "id": "mandarin-intermediate-31",
     "level": "intermediate",
-    "title": "Intermediate 31: The Museum Question",
+    "title": "Intermediate 31: The Mountain Wind",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1518,29 +1518,29 @@
       411,
       414
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/31-intermediate-the-museum-question.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/31-intermediate-the-mountain-wind.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，帕维尔去博物馆。旁边有图画和笔记本。帕维尔慢慢地读，并注意到一个新词：“问题”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Pavel is in the museum. There is picture and notebook nearby. Pavel reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
+        "ru": "清晨，小刚开始沿着窄窄的小路攀登一座高山。风吹得非常强，有些冷，但通过不断行走，他的身体暖和了起来。山路两旁长着好看的山花和野草，让他心情舒畅。",
+        "en": "Early in the morning, Xiao Gang began climbing a\nnarrow path up a high mountain. The wind blew very strongly and was a bit cold,\nbut through continuous walking, his body warmed up. Beautiful mountain flowers\nand wild grass grew on both sides of the path, cheering him up."
       },
       {
         "heading": "Page 2",
-        "ru": "帕维尔把“问题”写在笔记本里。然后帕维尔想一想“答案”这个主题。这里很安静，所以帕维尔又读了一遍句子，并轻声说出来。",
-        "en": "Pavel writes the word question in a notebook. Then Pavel thinks about answer. The place is quiet, so Pavel reads the sentence again and says it softly."
+        "ru": "中午时分，天空突然变暗，开始下起大雨。幸运的是，不远处有一座石砌的避难小屋。小刚急忙跑进小屋躲雨。屋里很干燥，他能喝一口保温瓶里的热茶。",
+        "en": "Around noon, the sky suddenly turned dark and heavy\nrain began to fall. Fortunately, a small stone shelter was not far ahead. Xiao\nGang quickly ran inside the shelter to hide from the rain. It was dry inside,\nand he was able to drink warm tea from his thermos."
       },
       {
         "heading": "Page 3",
-        "ru": "出现了一个小问题，但是帕维尔用新词来理解。帕维尔看了看图画，又看了看笔记本，然后做了一个简单的计划。最后，帕维尔能说出一个清楚的句子。",
-        "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the picture, looks at the notebook, and makes a simple plan. By the end, Pavel can say one clear sentence."
+        "ru": "不久雨停了，天空中重新出现了明亮的太阳。小刚走出小屋，登上了最高的高山之顶。下面是一片宽阔发光的绿色山谷。强风吹走了他的疲惫，他感受到了登山的真正快乐。",
+        "en": "Soon the rain stopped, and the bright sun appeared\nin the sky again. Xiao Gang left the cabin and climbed to the highest peak of\nthe mountain. Below stretched a wide, glowing green valley. The strong wind blew\naway his fatigue, and he felt the true joy of mountain climbing. === END OF\nSTORY 31 ==="
       }
     ]
   },
   {
     "id": "mandarin-intermediate-32",
     "level": "intermediate",
-    "title": "Intermediate 32: The Train Delay",
+    "title": "Intermediate 32: The Grandfather's Map",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1584,29 +1584,29 @@
       435,
       438
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/32-intermediate-the-train-delay.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/32-intermediate-the-grandfathers-map.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，玛丽亚去车站。旁边有票和钟。玛丽亚慢慢地读，并注意到一个新词：“等待”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Maria is at the station. There is ticket and clock nearby. Maria reads slowly and notices a new word: wait. The day feels good, and the language feels a little closer."
+        "ru": "小学生小明在祖父的书房里找书。他拉开旧书桌的抽屉，在最深处发现了一张旧纸。那是祖父小时候亲手画的一张附近森林的地图，上面画着一个红叉。",
+        "en": "Elementary school student Xiao Ming was looking for\na book in his grandfather's study. He opened an old desk drawer and found an old\npiece of paper at the very bottom. It was an old map of the nearby forest drawn\nby his grandfather when he was a child, with a red \"X\" marked on it."
       },
       {
         "heading": "Page 2",
-        "ru": "玛丽亚把“等待”写在笔记本里。然后玛丽亚想一想“旅行”这个主题。这里很安静，所以玛丽亚又读了一遍句子，并轻声说出来。",
-        "en": "Maria writes the word wait in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
+        "ru": "小明和他的朋友决定根据这张地图去森林。他们把古老特殊的树木作为路标，走向更深处。很快，他们发现了一口被绿色野草覆盖的旧石井，和地图上画的一模一样。",
+        "en": "Xiao Ming and his friend decided to go to the\nforest using this map. They used old, unique trees as landmarks and went deeper.\nSoon they found an old stone well covered with green wild grass, exactly like\nthe one on the map."
       },
       {
         "heading": "Page 3",
-        "ru": "出现了一个小问题，但是玛丽亚用新词来理解。玛丽亚看了看票，又看了看钟，然后做了一个简单的计划。最后，玛丽亚能说出一个清楚的句子。",
-        "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the clock, and makes a simple plan. By the end, Maria can say one clear sentence."
+        "ru": "他们往井里看去，发现了一个塑料小盒子。打开盒子，里面有一枚古旧的硬币和一张写着祖父小时候名字的字条。孩子们找到了来自过去的问候，感到非常兴奋。",
+        "en": "They looked into the well and found a small plastic\nbox. When they opened the box, inside was an old coin and a note with their\ngrandfather's childhood name. The children found a greeting from the past and\nfelt very excited."
       }
     ]
   },
   {
     "id": "mandarin-intermediate-33",
     "level": "intermediate",
-    "title": "Intermediate 33: Music in the Cafe",
+    "title": "Intermediate 33: The Painting Class",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1650,29 +1650,29 @@
       459,
       462
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/33-intermediate-music-in-the-cafe.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/33-intermediate-the-painting-class.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，奥尔加去咖啡馆。旁边有音乐和茶。奥尔加慢慢地读，并注意到一个新词：“歌曲”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Olga is in the cafe. There is music and tea nearby. Olga reads slowly and notices a new word: song. The day feels good, and the language feels a little closer."
+        "ru": "每个星期六，小红都去上绘画课。今天的任务是从教室的大窗户画外面的河流和天空风景。她准备好大画布，把美丽的彩色彩色水彩颜料倒在桌上，十分渴望开始。",
+        "en": "Every Saturday, Xiao Hong went to a painting class.\nToday's task was to paint the view of the river and sky outside from the large\nclassroom window. She prepared her large canvas and put beautiful colorful\nwatercolor paints on the table, very eager to start."
       },
       {
         "heading": "Page 2",
-        "ru": "奥尔加把“歌曲”写在笔记本里。然后奥尔加想一想“记忆”这个主题。这里很安静，所以奥尔加又读了一遍句子，并轻声说出来。",
-        "en": "Olga writes the word song in a notebook. Then Olga thinks about memory. The place is quiet, so Olga reads the sentence again and says it softly."
+        "ru": "一小时后，天空中慢慢变成了美丽的橙色。河面上出现了夕阳光芒的倒影。小红仔细地在调色盘上混合红色和黄色，用画笔在画布上画下这温暖的光线。",
+        "en": "An hour later, the sky slowly began to turn into a\nbeautiful orange. A beautiful reflection of the sunset's rays appeared on the\nriver water. Xiao Hong carefully mixed red and yellow colors on her palette,\nusing her brush to apply these warm lights onto the canvas."
       },
       {
         "heading": "Page 3",
-        "ru": "出现了一个小问题，但是奥尔加用新词来理解。奥尔加看了看音乐，又看了看茶，然后做了一个简单的计划。最后，奥尔加能说出一个清楚的句子。",
-        "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the music, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
+        "ru": "在课结束时，大家的画都被挂在了墙上。尽管所有人画的都是同一个窗外风景，但每幅画都有自己独特的个性与美。小红明白，每个人看世界的目光都各不相同。",
+        "en": "At the end of the class, everyone's paintings were\nhung on the wall. Even though everyone painted the same view from the window,\neach painting had its own unique personality and beauty. Xiao Hong understood\nthat each person sees the world with different eyes."
       }
     ]
   },
   {
     "id": "mandarin-intermediate-34",
     "level": "intermediate",
-    "title": "Intermediate 34: A Letter from a Friend",
+    "title": "Intermediate 34: The Lost Key",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1716,29 +1716,29 @@
       483,
       486
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/34-intermediate-a-letter-from-a-friend.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/34-intermediate-the-lost-key.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，迪马回家。旁边有信和电话。迪马慢慢地读，并注意到一个新词：“朋友”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Dima is at home. There is letter and phone nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
+        "ru": "星期日，小芳在公共公园里和弟弟一起玩。她把书桌的小钥匙放进外套口袋。但在草地上奔跑玩耍时，钥匙掉了出来，这让她很难过。",
+        "en": "On Sunday, Xiao Fang was playing with her younger\nbrother in the public park. She put her small desk key in her jacket pocket. But\nwhile running and playing on the grass, the key fell out, which made her very\nsad."
       },
       {
         "heading": "Page 2",
-        "ru": "迪马把“朋友”写在笔记本里。然后迪马想一想“邀请”这个主题。这里很安静，所以迪马又读了一遍句子，并轻声说出来。",
-        "en": "Dima writes the word friend in a notebook. Then Dima thinks about invitation. The place is quiet, so Dima reads the sentence again and says it softly."
+        "ru": "夜幕降临，公园里变得有些暗了。弟弟带了一个小手电筒来帮助她。两人一起在巨大的树木附近走动，把光线照向地面，仔细检查每片草地。",
+        "en": "Night fell, and it became a bit dark in the park.\nHer brother brought a small flashlight to help her. The two walked together near\nthe huge trees, pointing the light toward the ground, carefully checking every\npatch of grass."
       },
       {
         "heading": "Page 3",
-        "ru": "出现了一个小问题，但是迪马用新词来理解。迪马看了看信，又看了看电话，然后做了一个简单的计划。最后，迪马能说出一个清楚的句子。",
-        "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the letter, looks at the phone, and makes a simple plan. By the end, Dima can say one clear sentence."
+        "ru": "不久，弟弟在一块灰色小石头下注意到了金属的光亮。那是丢失的钥匙！小芳非常高兴，向弟弟道谢。回到家后，她成功打开了书桌的小抽屉。",
+        "en": "Soon her brother noticed a metallic shine under a\nsmall grey stone. It was the lost key! Xiao Fang was very happy and thanked her\nbrother. Returning home, she successfully opened her small desk drawer. === END\nOF STORY 34 ==="
       }
     ]
   },
   {
     "id": "mandarin-intermediate-35",
     "level": "intermediate",
-    "title": "Intermediate 35: The School Project",
+    "title": "Intermediate 35: The River Adventure",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1781,29 +1781,29 @@
       507,
       510
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/35-intermediate-the-school-project.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/35-intermediate-the-river-adventure.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，玛莎去学校。旁边有纸和老师。玛莎慢慢地读，并注意到一个新词：“项目”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Masha is at school. There is paper and teacher nearby. Masha reads slowly and notices a new word: project. The day feels good, and the language feels a little closer."
+        "ru": "小杰和他的朋友在学校的劳作课上做了一艘美丽的小木船。他们计划让它在附近的干净河流中航行，观察它在水面上的表现与平衡。",
+        "en": "Xiao Jie and his friend made a beautiful small\nwooden boat in their school crafts class. They planned to sail it in the clean\nnearby river, observing its performance and balance on the water surface."
       },
       {
         "heading": "Page 2",
-        "ru": "玛莎把“项目”写在笔记本里。然后玛莎想一想“小组”这个主题。这里很安静，所以玛莎又读了一遍句子，并轻声说出来。",
-        "en": "Masha writes the word project in a notebook. Then Masha thinks about group. The place is quiet, so Masha reads the sentence again and says it softly."
+        "ru": "河水流得很稳，但途中也有一些树枝和石头阻碍。两个男孩沿着岸边奔跑，心里紧张，担心他们的小木船会撞上任何河里的障碍。",
+        "en": "The river flowed smoothly, but there were some\nbranches and stones blocking the way. The two boys ran along the bank, feeling\nnervous, worried that their small wooden boat might hit any obstacles in the\nriver."
       },
       {
         "heading": "Page 3",
-        "ru": "出现了一个小问题，但是玛莎用新词来理解。玛莎看了看纸，又看了看老师，然后做了一个简单的计划。最后，玛莎能说出一个清楚的句子。",
-        "en": "A small problem appears, but Masha uses the new words to understand it. Masha checks the paper, looks at the teacher, and makes a simple plan. By the end, Masha can say one clear sentence."
+        "ru": "在河流的下流，小杰小心不让自己打湿，回收了小船。船完好无损。朋友们回到家，在笔记本上详细写下了他们对河水流动速度的观察。",
+        "en": "At the downstream end of the river, Xiao Jie\ncarefully retrieved the boat, making sure not to get wet. The boat was\ncompletely undamaged. The friends returned home and wrote down their\nobservations on the river flow's speed in detail in their notebook. === END OF\nSTORY 35 ==="
       }
     ]
   },
   {
     "id": "mandarin-intermediate-36",
     "level": "intermediate",
-    "title": "Intermediate 36: The City Walk",
+    "title": "Intermediate 36: The Starlit Sky",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1846,29 +1846,29 @@
       530,
       533
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/36-intermediate-the-city-walk.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/36-intermediate-the-starlit-sky.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，安娜去城市。旁边有街道和窗户。安娜慢慢地读，并注意到一个新词：“散步”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Anna is in the city. There is street and window nearby. Anna reads slowly and notices a new word: walk. The day feels good, and the language feels a little closer."
+        "ru": "夏天，小刚和父母一起去高山里露营。夜晚在帐篷边非常安静，因为周围没有任何城市灯光。小刚来到外面新鲜的空气中，抬头看去。",
+        "en": "In summer, Xiao Gang went camping in the high\nmountains with his parents. The night was very quiet by the tent, since there\nwas no city light around. Xiao Gang came outside into the fresh air and looked\nup."
       },
       {
         "heading": "Page 2",
-        "ru": "安娜把“散步”写在笔记本里。然后安娜想一想“地方”这个主题。这里很安静，所以安娜又读了一遍句子，并轻声说出来。",
-        "en": "Anna writes the word walk in a notebook. Then Anna thinks about place. The place is quiet, so Anna reads the sentence again and says it softly."
+        "ru": "小刚的父亲从包里拿出一本有趣的星座书。他打开微弱的手电筒，看着书指给儿子看天空中的亮星，解释星名和古老故事。",
+        "en": "Xiao Gang's father took an interesting book about\nconstellations out of his bag. He turned on a dim flashlight and, looking at the\nbook, pointed out the bright stars in the sky to his son, explaining star names\nand ancient stories."
       },
       {
         "heading": "Page 3",
-        "ru": "出现了一个小问题，但是安娜用新词来理解。安娜看了看街道，又看了看窗户，然后做了一个简单的计划。最后，安娜能说出一个清楚的句子。",
-        "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the street, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
+        "ru": "突然，一颗明亮的星星快速穿过黑夜，划出一道美丽的亮线。那是流星。小刚立刻在心里为未来和梦想许下了一个愿望。这晚星空成了他的回忆。",
+        "en": "Suddenly, a bright star quickly crossed the dark\nnight, carving a beautiful bright line. It was a shooting star. Xiao Gang\nimmediately made a wish in his heart for his future and dreams. This starlit\nnight became a memory for him."
       }
     ]
   },
   {
     "id": "mandarin-intermediate-37",
     "level": "intermediate",
-    "title": "Intermediate 37: The Bookshop Door",
+    "title": "Intermediate 37: The Garden Project",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1911,29 +1911,29 @@
       553,
       556
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/37-intermediate-the-bookshop-door.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/37-intermediate-the-garden-project.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，伊万去书店。旁边有门和书。伊万慢慢地读，并注意到一个新词：“打开”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Ivan is in the bookshop. There is door and book nearby. Ivan reads slowly and notices a new word: open. The day feels good, and the language feels a little closer."
+        "ru": "春天，小华在奶奶家的大院子里度过了愉快的一天。奶奶决定教他用双手种蔬菜。两人在花园里松土，把一些西红柿和黄瓜种子小心种下。",
+        "en": "In spring, Xiao Hua spent a pleasant day in his\ngrandmother's big yard. His grandmother decided to teach him how to grow\nvegetables with his own hands. The two tilled the soil in the garden and\ncarefully planted some tomato and cucumber seeds."
       },
       {
         "heading": "Page 2",
-        "ru": "伊万把“打开”写在笔记本里。然后伊万想一想“阅读”这个主题。这里很安静，所以伊万又读了一遍句子，并轻声说出来。",
-        "en": "Ivan writes the word open in a notebook. Then Ivan thinks about reading. The place is quiet, so Ivan reads the sentence again and says it softly."
+        "ru": "放学后，小华每天都跑去帮助奶奶，给植物浇凉水。两周后，黑色土地里钻出绿色小叶子。小明看到他们共同努力的成果，感到很高兴。",
+        "en": "After school, Xiao Hua went to help his grandmother\nevery day and watered the plants with cool water. Two weeks later, small green\nleaves emerged from the dark soil. Xiao Ming was very happy to see the fruits of\ntheir combined effort."
       },
       {
         "heading": "Page 3",
-        "ru": "出现了一个小问题，但是伊万用新词来理解。伊万看了看门，又看了看书，然后做了一个简单的计划。最后，伊万能说出一个清楚的句子。",
-        "en": "A small problem appears, but Ivan uses the new words to understand it. Ivan checks the door, looks at the book, and makes a simple plan. By the end, Ivan can say one clear sentence."
+        "ru": "夏天，他们收获了许多新鲜的西红柿和黄瓜。奶奶和小华用这些自己种的菜做了一盘美味沙拉。男孩感到自己种的菜味道最好。",
+        "en": "In summer, they harvested many fresh tomatoes and\ncucumbers. Grandmother and Xiao Hua made a delicious salad plate using these\nhome-grown vegetables. The boy felt that vegetables grown by oneself tasted\nbest."
       }
     ]
   },
   {
     "id": "mandarin-intermediate-38",
     "level": "intermediate",
-    "title": "Intermediate 38: The Family Story",
+    "title": "Intermediate 38: The Old Lighthouse",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1976,29 +1976,29 @@
       576,
       579
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/38-intermediate-the-family-story.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/38-intermediate-the-old-lighthouse.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，莉娜回家。旁边有妈妈和照片。莉娜慢慢地读，并注意到一个新词：“故事”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Lena is at home. There is mother and photo nearby. Lena reads slowly and notices a new word: story. The day feels good, and the language feels a little closer."
+        "ru": "在大海边的陡峭悬崖上，站着一座石砌的旧灯塔。由于现在船只使用先进设备，所以不再有人在这里。星期日，小丽和爸爸一起去那里散步。",
+        "en": "On a steep cliff by the sea stood an old stone\nlighthouse. Since ships now use advanced equipment, no one is here anymore. On\nSunday, Xiao Li went for a walk there with her dad."
       },
       {
         "heading": "Page 2",
-        "ru": "莉娜把“故事”写在笔记本里。然后莉娜想一想“家庭”这个主题。这里很安静，所以莉娜又读了一遍句子，并轻声说出来。",
-        "en": "Lena writes the word story in a notebook. Then Lena thinks about family. The place is quiet, so Lena reads the sentence again and says it softly."
+        "ru": "他们打开沉重的旧木门，走进了灯塔内部。里面很凉爽，有一条长长的旋转石阶。小丽牵着爸爸的手，一步一步小心地往上爬。",
+        "en": "They opened the heavy old wooden door and walked\ninto the lighthouse. It was cool inside, and there was a long spiral stone\nstaircase. Xiao Li held her dad's hand, climbing up carefully step by step."
       },
       {
         "heading": "Page 3",
-        "ru": "出现了一个小问题，但是莉娜用新词来理解。莉娜看了看妈妈，又看了看照片，然后做了一个简单的计划。最后，莉娜能说出一个清楚的句子。",
-        "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the mother, looks at the photo, and makes a simple plan. By the end, Lena can say one clear sentence."
+        "ru": "在最顶端的阳台上，风吹得很强。他们眼前是一望无际的蔚蓝大海和滚滚波涛。小丽想到了以前住在这里帮助大船的人们。",
+        "en": "At the topmost balcony, the wind blew very\nstrongly. Before them lay the boundless blue sea and rolling waves. Xiao Li\nthought of the people who used to live here helping big ships. === END OF\nSTORY 38 ==="
       }
     ]
   },
   {
     "id": "mandarin-intermediate-39",
     "level": "intermediate",
-    "title": "Intermediate 39: The Important Word",
+    "title": "Intermediate 39: The Science Fair",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -2041,29 +2041,29 @@
       599,
       602
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/39-intermediate-the-important-word.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/39-intermediate-the-science-fair.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，帕维尔去图书馆。旁边有词典和纸。帕维尔慢慢地读，并注意到一个新词：“意思”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Pavel is in the library. There is dictionary and paper nearby. Pavel reads slowly and notices a new word: meaning. The day feels good, and the language feels a little closer."
+        "ru": "每个秋天，学校都会举办一次大型的科学展示会。小刚的小组决定制作一个关于清洁能源的项目。他们建造了展示太阳能板工作的模型。",
+        "en": "Every autumn, the school holds a large science\nfair. Xiao Gang's group decided to make a project about clean energy. They built\na model showing how solar panels work."
       },
       {
         "heading": "Page 2",
-        "ru": "帕维尔把“意思”写在笔记本里。然后帕维尔想一想“语言”这个主题。这里很安静，所以帕维尔又读了一遍句子，并轻声说出来。",
-        "en": "Pavel writes the word meaning in a notebook. Then Pavel thinks about language. The place is quiet, so Pavel reads the sentence again and says it softly."
+        "ru": "展示会当天，大厅里聚集了许多老师和家长。许多人在小刚的项目前停下。男孩简单清楚地向来宾解释太阳光如何转化为电能。",
+        "en": "On the day of the fair, many teachers and parents\ngathered in the hall. Many people stopped before Xiao Gang's project. The boy\nsimply and clearly explained to the guests how sunlight is converted into\nelectrical energy."
       },
       {
         "heading": "Page 3",
-        "ru": "出现了一个小问题，但是帕维尔用新词来理解。帕维尔看了看词典，又看了看纸，然后做了一个简单的计划。最后，帕维尔能说出一个清楚的句子。",
-        "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the dictionary, looks at the paper, and makes a simple plan. By the end, Pavel can say one clear sentence."
+        "ru": "一天的最后，评委们对所有项目进行了评估。小刚组的作品获得了优秀评价，因极佳想法获得第一名。大家都为团队协作感到高兴。",
+        "en": "At the end of the day, the judges evaluated all the\nprojects. Xiao Gang's group's work received an excellent rating and won first\nplace for its great idea. Everyone was happy for the teamwork. === END OF\nSTORY 39 ==="
       }
     ]
   },
   {
     "id": "mandarin-intermediate-40",
     "level": "intermediate",
-    "title": "Intermediate 40: Closer Every Day",
+    "title": "Intermediate 40: The Sound of Music",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -2106,29 +2106,29 @@
       622,
       625
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/40-intermediate-closer-every-day.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/intermediate/40-intermediate-the-sound-of-music.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，伊琳娜去公园。旁边有笔记本和茶。伊琳娜慢慢地读，并注意到一个新词：“更近”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Irina is in the park. There is notebook and tea nearby. Irina reads slowly and notices a new word: closer. The day feels good, and the language feels a little closer."
+        "ru": "小红和母亲一起走进了城市里那座古老的音乐厅。今天那里有一场著名小提琴演奏家的音乐会。灯光熄灭了，舞台上的暖灯亮起照亮演奏者。",
+        "en": "Xiao Hong and her mother walked into the city's\nancient concert hall. Today there was a classical concert by a famous violinist.\nThe lights went out, and a warm lamp lit up on stage, illuminating the\nperformer."
       },
       {
         "heading": "Page 2",
-        "ru": "伊琳娜把“更近”写在笔记本里。然后伊琳娜想一想“复习”这个主题。这里很安静，所以伊琳娜又读了一遍句子，并轻声说出来。",
-        "en": "Irina writes the word closer in a notebook. Then Irina thinks about review. The place is quiet, so Irina reads the sentence again and says it softly."
+        "ru": "小提琴的声音非常美丽。音乐的声音时而缓慢安静，时而快速高昂。小红听着这段旋律，感到自己的心情随着声音不断起伏变化。",
+        "en": "The sound of the violin was extremely beautiful.\nThe music at times was slow and quiet, and at other times fast and loud. Xiao\nHong listened to this melody, feeling her mood rise and fall along with the\nsounds."
       },
       {
         "heading": "Page 3",
-        "ru": "出现了一个小问题，但是伊琳娜用新词来理解。伊琳娜看了看笔记本，又看了看茶，然后做了一个简单的计划。最后，伊琳娜能说出一个清楚的句子。",
-        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the notebook, looks at the tea, and makes a simple plan. By the end, Irina can say one clear sentence."
+        "ru": "音乐会结束后，所有人都热烈鼓掌。小红受到了极大的启发。回到家，她决定拿出自己小时候买的旧玩具钢琴，重新弹奏。一个梦想在她心中诞生。",
+        "en": "After the concert ended, everyone clapped warmly.\nXiao Hong was highly inspired. Returning home, she decided to take out her old\ntoy piano bought during childhood to play again. A dream was born in her heart."
       }
     ]
   },
   {
     "id": "mandarin-advanced-41",
     "level": "advanced",
-    "title": "Advanced 41: The Long Walk Through the City",
+    "title": "Advanced 41: The Forest of Tomorrow",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2183,39 +2183,39 @@
       645,
       648
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/41-advanced-the-long-walk-through-the-city.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/41-advanced-the-forest-of-tomorrow.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，安娜去城市。旁边有地图和窗户。安娜慢慢地读，并注意到一个新词：“旅程”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Anna is in the city. There is map and window nearby. Anna reads slowly and notices a new word: journey. The day feels good, and the language feels a little closer."
+        "ru": "在现代社会中，科学与技术快速发展。我们的生活变得非常便利，但美丽的自然环境也常常受到伤害。在一个小镇上，河流因为工厂而变得脏乱。年轻的科学家小明决定解决这个环境问题。",
+        "en": "In modern society, science and technology develop\nrapidly. Our lives become very convenient, but beautiful nature often suffers.\nIn one small town, the river became dirty because of factories. The young\nscientist, Xiao Ming, decided to solve this environmental problem."
       },
       {
         "heading": "Page 2",
-        "ru": "安娜把“旅程”写在笔记本里。然后安娜想一想“城市”这个主题。这里很安静，所以安娜又读了一遍句子，并轻声说出来。",
-        "en": "Anna writes the word journey in a notebook. Then Anna thinks about city. The place is quiet, so Anna reads the sentence again and says it softly."
+        "ru": "小明建议建造一个全新的净水系统。但是，工厂的负责人和一些镇上的居民反对这个计划。他们认为这太昂贵了，会损害当地的经济。小明没有放弃，而是继续进行真诚的对话。",
+        "en": "Xiao Ming proposed building a completely new water\npurification system. But the factory directors and some town residents opposed\nthe plan. They believed it was too expensive and would harm the local economy.\nXiao Ming did not give up and continued the sincere dialogue."
       },
       {
         "heading": "Page 3",
-        "ru": "出现了一个小问题，但是安娜用新词来理解。安娜看了看地图，又看了看窗户，然后做了一个简单的计划。最后，安娜能说出一个清楚的句子。",
-        "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the map, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
+        "ru": "经过长期的讨论，他们决定进行机器的第一次测试。科学家们在河边安装了设备。但是，由于机器出现故障，测试失败了。脏水再次流进河里，人们开始感到非常生气。",
+        "en": "After long discussions, they decided to conduct the\nfirst test of the machine. The scientists installed the equipment near the\nriver. But the test failed due to a machine breakdown. Dirty water flowed into\nthe river again, and people began to feel very angry."
       },
       {
         "heading": "Page 4",
-        "ru": "后来，安娜遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。安娜又写下三个词，并把它们和今天的故事连起来。",
-        "en": "Later, Anna meets another person and asks one careful question. The answer is simple, but it helps. Anna writes three more words and connects them to the story of the day."
+        "ru": "小明承认了自己的错误，并开始寻找故障的原因。他夜以继日地工作以修复设备，并使其变得非常安全。工厂的主管看到了他真诚的付出，决定给他最后一次支持的机会。",
+        "en": "Xiao Ming admitted his mistake and began looking\nfor the cause of the breakdown. He worked day and night to repair the device and\nmake it completely safe. The factory director saw his sincere effort and decided\nto give him one last, supportive opportunity."
       },
       {
         "heading": "Page 5",
-        "ru": "一天结束时，安娜大声读完整页。词语还不完美，但已经熟悉了。安娜笑了，因为学习变得可能，也变得很近。",
-        "en": "At the end of the day, Anna reads the whole page out loud. The words are not perfect yet, but they are familiar now. Anna smiles because learning feels possible and close."
+        "ru": "第二次测试非常成功。河水变得完全干净，适合使用。几年后，鱼儿又回到了河里。小镇成为了一个好榜样，展示了科学如何帮助经济与绿色自然和谐共存。",
+        "en": "The second test was a huge success. The river water\nbecame completely clean and fit for use. A few years later, fish returned to the\nriver. The town became an example of how science helps the economy live in\nharmony with green nature."
       }
     ]
   },
   {
     "id": "mandarin-advanced-42",
     "level": "advanced",
-    "title": "Advanced 42: The Forgotten Invitation",
+    "title": "Advanced 42: The Ancient Map's Secret",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2270,39 +2270,39 @@
       680,
       683
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/42-advanced-the-forgotten-invitation.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/42-advanced-the-ancient-maps-secret.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，萨沙去大学。旁边有信和电话。萨沙慢慢地读，并注意到一个新词：“邀请”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Sasha is at the university. There is letter and phone nearby. Sasha reads slowly and notices a new word: invitation. The day feels good, and the language feels a little closer."
+        "ru": "年轻的历史学者小刚在城市的老图书馆里工作。在整理旧书时，他发现了一张发黄的羊皮纸地图。上面标注了山里的一个神秘地点，而在现代地图上并没有这个地方。",
+        "en": "The young historian Xiao Gang was working in the\ncity's old library. While organizing old books, he found a yellowed parchment\nmap. On it was marked a mysterious location in the mountains that did not appear\non modern maps today."
       },
       {
         "heading": "Page 2",
-        "ru": "萨沙把“邀请”写在笔记本里。然后萨沙想一想“会议”这个主题。这里很安静，所以萨沙又读了一遍句子，并轻声说出来。",
-        "en": "Sasha writes the word invitation in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
+        "ru": "小刚决定去探索这个神秘而未知的地方。他仔细研究了该地区的历史，并准备了所有适合长途探险的设备。他知道旅途会很艰难，但对历史的强烈兴趣引导着他。",
+        "en": "Xiao Gang decided to explore this mysterious and\nunknown place. He studied the area's history well and prepared all the suitable\ndevices for his long adventure. He knew the path would be difficult, but his\nstrong interest in history guided him."
       },
       {
         "heading": "Page 3",
-        "ru": "出现了一个小问题，但是萨沙用新词来理解。萨沙看了看信，又看了看电话，然后做了一个简单的计划。最后，萨沙能说出一个清楚的句子。",
-        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the phone, and makes a simple plan. By the end, Sasha can say one clear sentence."
+        "ru": "大山非常高且十分陡峭。在路上突然下起了暴雨，天气也变得非常寒冷。小刚感到很疲惫，但他寻找历史真相的决心支持着他继续穿过茂密的森林。",
+        "en": "The mountains were very high and steep. On the way,\nheavy rain began to fall, and it became extremely cold. Xiao Gang felt tired,\nbut his determination to find the historical truth supported him to continue\nthrough the dense forest."
       },
       {
         "heading": "Page 4",
-        "ru": "后来，萨沙遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。萨沙又写下三个词，并把它们和今天的故事连起来。",
-        "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
+        "ru": "雨停后，小刚来到了两条小河交汇的地方。那里有一个美丽而壮观的瀑布。在水幕后面，他发现了一个隐藏的洞穴入口，里面放着一个古老的石盒。",
+        "en": "After the rain cleared, Xiao Gang reached the place\nwhere two rivers intersect. There was a beautiful and spectacular waterfall.\nBehind the water, he discovered a hidden entrance to a cave where an old stone\nbox lay."
       },
       {
         "heading": "Page 5",
-        "ru": "一天结束时，萨沙大声读完整页。词语还不完美，但已经熟悉了。萨沙笑了，因为学习变得可能，也变得很近。",
-        "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
+        "ru": "小刚打开石盒，找到了古老的文书。里面记录了这些地方古代居民的历史以及他们有用的草药知识。小刚把这个发现带回学校，将这段遗忘的历史展现给世界。",
+        "en": "Xiao Gang opened the box and found old papers. They\nrecorded the history of the ancient residents of these places and their useful\nherbal knowledge. Xiao Gang brought this discovery back to the university and\nrevealed the forgotten history to the world."
       }
     ]
   },
   {
     "id": "mandarin-advanced-43",
     "level": "advanced",
-    "title": "Advanced 43: The History Room",
+    "title": "Advanced 43: The Voice of the Wind",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2357,39 +2357,39 @@
       715,
       718
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/43-advanced-the-history-room.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/43-advanced-the-voice-of-the-wind.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，尼古拉去博物馆。旁边有书和图画。尼古拉慢慢地读，并注意到一个新词：“历史”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Nikolay is in the museum. There is book and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
+        "ru": "气象学者小强在山顶的气象站工作。他每天记录风速和温度的数据。最近，山上的天气开始快速发生变化。",
+        "en": "The weather observer Xiao Qiang worked at the\nweather station at the top of the mountain. He recorded wind speed and\ntemperature data daily. Recently, the weather in the mountains began to change\nrapidly."
       },
       {
         "heading": "Page 2",
-        "ru": "尼古拉把“历史”写在笔记本里。然后尼古拉想一想“过去”这个主题。这里很安静，所以尼古拉又读了一遍句子，并轻声说出来。",
-        "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about past. The place is quiet, so Nikolay reads the sentence again and says it softly."
+        "ru": "小强从读数中发现，一场危险且强烈的暴风雨正朝着山脚下的小村庄走来。他需要快速警告村民，以保护他们的房屋免受伤害。",
+        "en": "Xiao Qiang realized from the readings that a\ndangerous and strong storm was heading towards the small village at the foot of\nthe mountain. He needed to warn the residents quickly to protect their homes\nfrom harm."
       },
       {
         "heading": "Page 3",
-        "ru": "出现了一个小问题，但是尼古拉用新词来理解。尼古拉看了看书，又看了看图画，然后做了一个简单的计划。最后，尼古拉能说出一个清楚的句子。",
-        "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the book, looks at the picture, and makes a simple plan. By the end, Nikolay can say one clear sentence."
+        "ru": "他快速跑下山来到村里，告诉大家大风即将来临。开始有些人不相信仪器，但科学的数据说服了他们，同意立刻进行临时撤离。",
+        "en": "He went down quickly to the village and told\neveryone about the coming wind. Some did not believe the instruments at first,\nbut the scientific data convinced them to agree to an immediate temporary\nevacuation."
       },
       {
         "heading": "Page 4",
-        "ru": "后来，尼古拉遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。尼古拉又写下三个词，并把它们和今天的故事连起来。",
-        "en": "Later, Nikolay meets another person and asks one careful question. The answer is simple, but it helps. Nikolay writes three more words and connects them to the story of the day."
+        "ru": "夜里，狂风大作。风折断了房屋周围巨大的树枝。但幸好由于小强快速且提前的工作，所有的居民都已经在坚固的石屋里安全了。",
+        "en": "At night, a strong storm raged. The wind broke\nlarge tree branches near the houses. But fortunately, thanks to Xiao Qiang's\nquick and early work, all the residents were already safe inside a sturdy stone\nshelter."
       },
       {
         "heading": "Page 5",
-        "ru": "一天结束时，尼古拉大声读完整页。词语还不完美，但已经熟悉了。尼古拉笑了，因为学习变得可能，也变得很近。",
-        "en": "At the end of the day, Nikolay reads the whole page out loud. The words are not perfect yet, but they are familiar now. Nikolay smiles because learning feels possible and close."
+        "ru": "早晨，暴风雨离开了。村庄受到了一点损害，但人们的生命安全无虞。居民们非常感谢小强，也明白了科学技术与他工作的价值。",
+        "en": "In the morning, the storm left. The village was\nslightly damaged, but people's lives were safe and sound. The residents thanked\nXiao Qiang very much and understood the value of science, technology, and his\nwork."
       }
     ]
   },
   {
     "id": "mandarin-advanced-44",
     "level": "advanced",
-    "title": "Advanced 44: The Quiet Train",
+    "title": "Advanced 44: The Deep Ocean",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2444,39 +2444,39 @@
       750,
       753
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/44-advanced-the-quiet-train.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/44-advanced-the-deep-ocean.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，玛丽亚去火车站。旁边有票和茶。玛丽亚慢慢地读，并注意到一个新词：“安静”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Maria is on the train. There is ticket and tea nearby. Maria reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
+        "ru": "海洋学者小华建造了一台先进的潜水设备。他计划去海洋最深的地方，研究巨大而未知的深海海底的自然生命。",
+        "en": "The oceanographer Xiao Hua built an advanced diving\ndevice. He planned to go to the deepest parts of the sea to study the unknown\nnatural life of the vast deep seafloor."
       },
       {
         "heading": "Page 2",
-        "ru": "玛丽亚把“安静”写在笔记本里。然后玛丽亚想一想“旅行”这个主题。这里很安静，所以玛丽亚又读了一遍句子，并轻声说出来。",
-        "en": "Maria writes the word quiet in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
+        "ru": "在几千米深的深海里，是一片完全的黑暗。但是设备上强大的灯光照亮了一个由沙子、岩石和奇怪植物组成的神秘世界。",
+        "en": "At a depth of several thousand meters, there was\ncomplete darkness. But the powerful lights attached to the device illuminated a\nmysterious world of sand, rocks, and strange plants."
       },
       {
         "heading": "Page 3",
-        "ru": "出现了一个小问题，但是玛丽亚用新词来理解。玛丽亚看了看票，又看了看茶，然后做了一个简单的计划。最后，玛丽亚能说出一个清楚的句子。",
-        "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the tea, and makes a simple plan. By the end, Maria can say one clear sentence."
+        "ru": "突然，小华看到了一只发光的漂亮小动物。这是科学上从未记载过的新物种。他为这个神奇的生物拍摄了许多非常清晰的照片。",
+        "en": "Suddenly, Xiao Hua saw a beautiful glowing small\nanimal. This was a exciting new species unknown to science. He took many clear\npictures of this amazing creature."
       },
       {
         "heading": "Page 4",
-        "ru": "后来，玛丽亚遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。玛丽亚又写下三个词，并把它们和今天的故事连起来。",
-        "en": "Later, Maria meets another person and asks one careful question. The answer is simple, but it helps. Maria writes three more words and connects them to the story of the day."
+        "ru": "在工作时，仪器突然关闭了一秒钟。小华没有感到害怕或慌张。他非常熟悉这台设备的结构，用双手快速且冷静地修好了电路问题。",
+        "en": "During the work, the instruments suddenly turned\noff for one second. Xiao Hua did not feel afraid or panicked. He was very\nfamiliar with the structure of this device and fixed the electrical problem with\nhis hands quickly and calmly."
       },
       {
         "heading": "Page 5",
-        "ru": "一天结束时，玛丽亚大声读完整页。词语还不完美，但已经熟悉了。玛丽亚笑了，因为学习变得可能，也变得很近。",
-        "en": "At the end of the day, Maria reads the whole page out loud. The words are not perfect yet, but they are familiar now. Maria smiles because learning feels possible and close."
+        "ru": "小华安全地回到了地面，并在学校展示了他的照片。他的发现帮助人们更好地理解海洋，明白了保护水资源环境的巨大价值。",
+        "en": "Xiao Hua returned safely to the surface and\ndisplayed his photos at school. His discovery helped people better understand\nthe ocean depths and know the importance of protecting its environment. === END\nOF STORY 44 ==="
       }
     ]
   },
   {
     "id": "mandarin-advanced-45",
     "level": "advanced",
-    "title": "Advanced 45: A Plan for Tomorrow",
+    "title": "Advanced 45: The Star Tracker",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2531,39 +2531,39 @@
       785,
       788
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/45-advanced-a-plan-for-tomorrow.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/45-advanced-the-star-tracker.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，莉娜回家。旁边有地图和笔记本。莉娜慢慢地读，并注意到一个新词：“明天”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Lena is at home. There is map and notebook nearby. Lena reads slowly and notices a new word: tomorrow. The day feels good, and the language feels a little closer."
+        "ru": "天文学家小丽正在等待一颗十分罕见的彗星出现。这颗彗星每百年才接近一次地球。她希望拍摄到它明亮尾部的高质量照片。",
+        "en": "The astronomer Xiao Li was waiting for the\nappearance of a rare comet. This comet approached Earth once every hundred\nyears. She wanted to take high-quality pictures of its bright tail."
       },
       {
         "heading": "Page 2",
-        "ru": "莉娜把“明天”写在笔记本里。然后莉娜想一想“计划”这个主题。这里很安静，所以莉娜又读了一遍句子，并轻声说出来。",
-        "en": "Lena writes the word tomorrow in a notebook. Then Lena thinks about plan. The place is quiet, so Lena reads the sentence again and says it softly."
+        "ru": "小丽在城外一座高高的山丘上为对天文感兴趣的孩子们组织了一次晚间星空活动。许多孩子在父母的陪伴下前来看天空。",
+        "en": "Xiao Li organized a small evening stargazing\nactivity for children interested in astronomy on a high hill outside the city.\nMany children came accompanied by their parents to watch the sky today."
       },
       {
         "heading": "Page 3",
-        "ru": "出现了一个小问题，但是莉娜用新词来理解。莉娜看了看地图，又看了看笔记本，然后做了一个简单的计划。最后，莉娜能说出一个清楚的句子。",
-        "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the map, looks at the notebook, and makes a simple plan. By the end, Lena can say one clear sentence."
+        "ru": "小丽调整了一台巨大的望远镜，让星星清晰地展现在孩子们面前。她用简单、易懂的词语向他们解释宇宙的规律和运动。",
+        "en": "Xiao Li adjusted a large telescope and placed the\nstars clearly before the children. She explained to them the laws of the\nuniverse and planetary movement in simple, easy-to-understand words."
       },
       {
         "heading": "Page 4",
-        "ru": "后来，莉娜遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。莉娜又写下三个词，并把它们和今天的故事连起来。",
-        "en": "Later, Lena meets another person and asks one careful question. The answer is simple, but it helps. Lena writes three more words and connects them to the story of the day."
+        "ru": "终于，那颗明亮的彗星出现在黑夜中。它的光芒在天空中留下一条长长的亮线。大家都安静下来，惊叹地看着这个美妙的自然景象。",
+        "en": "Finally, the bright comet appeared in the dark sky.\nIts light left a shiny, beautiful line in the sky. Everyone fell silent and\nlooked in awe at this wonderful sight of nature."
       },
       {
         "heading": "Page 5",
-        "ru": "一天结束时，莉娜大声读完整页。词语还不完美，但已经熟悉了。莉娜笑了，因为学习变得可能，也变得很近。",
-        "en": "At the end of the day, Lena reads the whole page out loud. The words are not perfect yet, but they are familiar now. Lena smiles because learning feels possible and close."
+        "ru": "这个美丽的夜晚帮助孩子们爱上了科学和宇宙探索。一些人甚至决定未来成为天文学家。小丽明白，她的努力给社会带来了很大的价值。",
+        "en": "This beautiful evening helped the children fall in\nlove with science and space exploration. Some of them decided to become\nastronomers in the future. Xiao Li understood that her effort holds great value\nfor society."
       }
     ]
   },
   {
     "id": "mandarin-advanced-46",
     "level": "advanced",
-    "title": "Advanced 46: News from the Cafe",
+    "title": "Advanced 46: The Digital Heritage",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2618,39 +2618,39 @@
       820,
       823
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/46-advanced-news-from-the-cafe.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/46-advanced-the-digital-heritage.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，奥尔加去咖啡馆。旁边有报纸和茶。奥尔加慢慢地读，并注意到一个新词：“新闻”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Olga is in the cafe. There is newspaper and tea nearby. Olga reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
+        "ru": "程序员小军在奶奶的旧房子里发现了一本旧黑白照片相册。里面有他家族的照片，以及展示一百年前小镇上生活面貌的图片。",
+        "en": "The programmer Xiao Jun found an old\nblack-and-white photo album in his grandmother's old house. There were\nphotographs of his family and pictures of the town's life a hundred years ago."
       },
       {
         "heading": "Page 2",
-        "ru": "奥尔加把“新闻”写在笔记本里。然后奥尔加想一想“谈话”这个主题。这里很安静，所以奥尔加又读了一遍句子，并轻声说出来。",
-        "en": "Olga writes the word news in a notebook. Then Olga thinks about talk. The place is quiet, so Olga reads the sentence again and says it softly."
+        "ru": "小军决定把这些照片和图像转换成数字格式，以防止家族历史丢失。他很清楚，这些旧纸张会随着漫长时间的流逝而损坏。",
+        "en": "Xiao Jun decided to convert these photos and images\ninto a digital format to prevent family history from loss. He understood well\nthat old paper could get damaged with the passage of many years."
       },
       {
         "heading": "Page 3",
-        "ru": "出现了一个小问题，但是奥尔加用新词来理解。奥尔加看了看报纸，又看了看茶，然后做了一个简单的计划。最后，奥尔加能说出一个清楚的句子。",
-        "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the newspaper, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
+        "ru": "他使用了扫描仪，并在自己的电脑上写了一个特殊的软件。这个软件可以自动清除照片上的灰尘和划痕，使旧面孔变得非常清晰。",
+        "en": "He used a scanner and wrote a special program on\nhis computer. This program removed dust and scratches from the photos and made\nold faces clear."
       },
       {
         "heading": "Page 4",
-        "ru": "后来，奥尔加遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。奥尔加又写下三个词，并把它们和今天的故事连起来。",
-        "en": "Later, Olga meets another person and asks one careful question. The answer is simple, but it helps. Olga writes three more words and connects them to the story of the day."
+        "ru": "小军把做好的数字相册上传到互联网，并把链接发给了在其他城市的所有亲人。大家看到家族的图片，都感到非常高兴。",
+        "en": "Xiao Jun uploaded the completed album to the\ninternet and sent the link to all his relatives in other cities. Everyone was\nhappy to see their roots through the pictures."
       },
       {
         "heading": "Page 5",
-        "ru": "一天结束时，奥尔加大声读完整页。词语还不完美，但已经熟悉了。奥尔加笑了，因为学习变得可能，也变得很近。",
-        "en": "At the end of the day, Olga reads the whole page out loud. The words are not perfect yet, but they are familiar now. Olga smiles because learning feels possible and close."
+        "ru": "多亏了现代技术，家族的历史得以为未来的下一代孩子安全保存。小军明白了，自己的编程技术和知识可以在社会中服务于美好的目标。",
+        "en": "Thanks to modern technologies, the family's history\nwas saved safely for future generations of children. Xiao Jun realized that his\ncoding skills and knowledge could serve good goals in society. === END OF\nSTORY 46 ==="
       }
     ]
   },
   {
     "id": "mandarin-advanced-47",
     "level": "advanced",
-    "title": "Advanced 47: The Word That Changed the Day",
+    "title": "Advanced 47: The Green Architecture",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2705,39 +2705,39 @@
       855,
       858
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/47-advanced-the-word-that-changed-the-day.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/47-advanced-the-green-architecture.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，迪马去街上。旁边有包和书。迪马慢慢地读，并注意到一个新词：“帮助”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Dima is on the street. There is bag and book nearby. Dima reads slowly and notices a new word: help. The day feels good, and the language feels a little closer."
+        "ru": "建筑学家小建接到了在城市里设计一座新社区中心大楼的任务。他决定完全依靠大自然，使这栋大楼变得清洁、环保。",
+        "en": "The architect Xiao Jian received a request to\ndesign a new community center in the city. He decided to make this building\nclean and eco-friendly by relying on nature."
       },
       {
         "heading": "Page 2",
-        "ru": "迪马把“帮助”写在笔记本里。然后迪马想一想“道路”这个主题。这里很安静，所以迪马又读了一遍句子，并轻声说出来。",
-        "en": "Dima writes the word help in a notebook. Then Dima thinks about road. The place is quiet, so Dima reads the sentence again and says it softly."
+        "ru": "他改变了屋顶的结构与设计，允许最大程度地让自然太阳光进入新中心。这个设计有助于大大减少大楼在白天对电灯的使用。",
+        "en": "He modified the structure and design of the roof to\nallow the maximum amount of natural sunlight inside the new center building.\nThis design helped greatly reduce the use of electric lamps during the day."
       },
       {
         "heading": "Page 3",
-        "ru": "出现了一个小问题，但是迪马用新词来理解。迪马看了看包，又看了看书，然后做了一个简单的计划。最后，迪马能说出一个清楚的句子。",
-        "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the bag, looks at the book, and makes a simple plan. By the end, Dima can say one clear sentence."
+        "ru": "小建计划在新中心楼顶建造一个宽阔美丽的花园。他安装了雨水收集和灌溉系统，能无需人工协助地自动给楼顶的植物浇水。",
+        "en": "Xiao Jian planned to plant a large and beautiful\ngreen garden on the roof of the new center. He installed a rainwater collection\nand irrigation system to water the plants automatically without the need for\nhuman intervention."
       },
       {
         "heading": "Page 4",
-        "ru": "后来，迪马遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。迪马又写下三个词，并把它们和今天的故事连起来。",
-        "en": "Later, Dima meets another person and asks one careful question. The answer is simple, but it helps. Dima writes three more words and connects them to the story of the day."
+        "ru": "工人们开始工作，主要使用完全来自环保安全木头的材料。城市居民们都十分好奇地关注着这栋环保新房子的每一步。",
+        "en": "The workers began their work, mainly using safe\nmaterials made from eco-friendly wood. City residents watched every step of\nbuilding this distinct green building with great curiosity."
       },
       {
         "heading": "Page 5",
-        "ru": "一天结束时，迪马大声读完整页。词语还不完美，但已经熟悉了。迪马笑了，因为学习变得可能，也变得很近。",
-        "en": "At the end of the day, Dima reads the whole page out loud. The words are not perfect yet, but they are familiar now. Dima smiles because learning feels possible and close."
+        "ru": "新大楼成了市里最美的地方。人们喜欢去绿色树木下的花园休息、乘凉。小建向大家证明了绿色建筑理念的巨大益处。",
+        "en": "The new center became the most beautiful place in\nthe city. People liked to rest under the shade of the green trees. Xiao Jian\nproved the great benefits of green architecture ideas."
       }
     ]
   },
   {
     "id": "mandarin-advanced-48",
     "level": "advanced",
-    "title": "Advanced 48: The Meeting at the University",
+    "title": "Advanced 48: The Silent Garden",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2792,39 +2792,39 @@
       890,
       893
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/48-advanced-the-meeting-at-the-university.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/48-advanced-the-silent-garden.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，萨沙去大学。旁边有信和书桌。萨沙慢慢地读，并注意到一个新词：“会议”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Sasha is at the university. There is letter and desk nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
+        "ru": "园林设计师小红收到了一份修复古老寺庙庭院的请求。这个大花园已经被荒废了很多年，里面长满了各种高高矮矮的杂草。",
+        "en": "The landscape architect Xiao Hong received a\nrequest to restore an old temple garden. This large garden had been completely\nabandoned for many years, and wild grasses grew in it."
       },
       {
         "heading": "Page 2",
-        "ru": "萨沙把“会议”写在笔记本里。然后萨沙想一想“想法”这个主题。这里很安静，所以萨沙又读了一遍句子，并轻声说出来。",
-        "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about ideas. The place is quiet, so Sasha reads the sentence again and says it softly."
+        "ru": "小红为老庭院画了一张全新且美丽的设计图。她决定在水池旁放置一些巨大的灰色石头，并设计一条方便游客散步的小石子路。",
+        "en": "Xiao Hong drew a new and beautiful design plan for\nthe old garden. She decided to place large grey rocks near the water pool and\nmake smooth sandy paths for quiet walks for visitors."
       },
       {
         "heading": "Page 3",
-        "ru": "出现了一个小问题，但是萨沙用新词来理解。萨沙看了看信，又看了看书桌，然后做了一个简单的计划。最后，萨沙能说出一个清楚的句子。",
-        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the desk, and makes a simple plan. By the end, Sasha can say one clear sentence."
+        "ru": "小红在阴凉处种上了柔软的绿色苔藓，并在新花园正中心种了美丽的书。这些树叶的颜色会随着季节的变化而变成不同色彩。",
+        "en": "Xiao Hong planted soft green moss in the shaded\nareas and placed beautiful trees in the heart of the new garden. These beautiful\ntrees changed the colors of their leaves with the changing of the different\nseasons."
       },
       {
         "heading": "Page 4",
-        "ru": "后来，萨沙遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。萨沙又写下三个词，并把它们和今天的故事连起来。",
-        "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
+        "ru": "小红希望创造一个安静的环境。在这里人们可以暂时忘掉城市的各种烦恼和工作，静静地坐着去观察生活，了解心灵。",
+        "en": "Xiao Hong wanted to create a quiet environment\nwhere people could temporarily forget the worries and work of the city, and sit\nin complete silence to observe life and understand the soul."
       },
       {
         "heading": "Page 5",
-        "ru": "一天结束时，萨沙大声读完整页。词语还不完美，但已经熟悉了。萨沙笑了，因为学习变得可能，也变得很近。",
-        "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
+        "ru": "美丽的旧庭院成了让人们放松和感到内心平静的真正地方。人们喜欢来这里听风。小红很高兴能够用自己的双手让古老的土地恢复美丽。",
+        "en": "The beautiful old garden became a true place of\nrest and inner peace for people. They came to listen to the wind. Xiao Hong was\nhappy to have been able to return beauty to the old land with her own hands. ===\nEND OF STORY 48 ==="
       }
     ]
   },
   {
     "id": "mandarin-advanced-49",
     "level": "advanced",
-    "title": "Advanced 49: The Letter and the Map",
+    "title": "Advanced 49: The Solar Flight",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2879,39 +2879,39 @@
       925,
       928
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/49-advanced-the-letter-and-the-map.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/49-advanced-the-solar-flight.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，卡佳去图书馆。旁边有信和地图。卡佳慢慢地读，并注意到一个新词：“路线”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Katya is in the library. There is letter and map nearby. Katya reads slowly and notices a new word: route. The day feels good, and the language feels a little closer."
+        "ru": "工程师小明努力工作，发明出了一台新型飞行器。这是一台能够完全依靠太阳能进行飞行的小型无人家（无人机），不需要使用汽油。",
+        "en": "The engineer Xiao Ming worked hard to invent a new\nflying vehicle. This was a small unmanned aerial vehicle (drone) that could fly\nsolely on solar energy without gasoline."
       },
       {
         "heading": "Page 2",
-        "ru": "卡佳把“路线”写在笔记本里。然后卡佳想一想“寻找”这个主题。这里很安静，所以卡佳又读了一遍句子，并轻声说出来。",
-        "en": "Katya writes the word route in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
+        "ru": "该项目的主要目的是将急需的医疗设备和药品运输给住在遥远大山里的人们，那里的主要道路由于大雨暴风而遭到完全破坏。",
+        "en": "The main goal of the project was to transport\nmedical devices and emergency medicines to people in remote mountainous areas\nwhose main roads were completely destroyed by rain and storms."
       },
       {
         "heading": "Page 3",
-        "ru": "出现了一个小问题，但是卡佳用新词来理解。卡佳看了看信，又看了看地图，然后做了一个简单的计划。最后，卡佳能说出一个清楚的句子。",
-        "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the letter, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
+        "ru": "在一个晴朗的早晨，小明带着设备来到一片开阔的测试场地进行第一次试飞。无人机依靠光的能量，安静地飞向遥远的大山。",
+        "en": "On a sunny morning, Xiao Ming took the vehicle to a\nwide test field to conduct the first test flight. The drone quietly flew towards\nthe distant mountains using only the power of light."
       },
       {
         "heading": "Page 4",
-        "ru": "后来，卡佳遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。卡佳又写下三个词，并把它们和今天的故事连起来。",
-        "en": "Later, Katya meets another person and asks one careful question. The answer is simple, but it helps. Katya writes three more words and connects them to the story of the day."
+        "ru": "在大山里，空中突然刮起了一阵强烈的大风。但多亏了机翼坚固且巧妙的内部结构设计，它成功保持了平衡并继续朝着目标航行。",
+        "en": "In the mountains, strong winds suddenly blew in the\nair. But thanks to the durable and clever design of the wing, the plane managed\nto maintain its balance and continued its journey."
       },
       {
         "heading": "Page 5",
-        "ru": "一天结束时，卡佳大声读完整页。词语还不完美，但已经熟悉了。卡佳笑了，因为学习变得可能，也变得很近。",
-        "en": "At the end of the day, Katya reads the whole page out loud. The words are not perfect yet, but they are familiar now. Katya smiles because learning feels possible and close."
+        "ru": "无人机把急需的医疗包顺利且非常精准地送达了预定位置。小明感到很高兴，新科技被证明非常有用，保护并拯救了人们的生命。",
+        "en": "The drone successfully and accurately delivered the\nmedical cargo to the specified location. Xiao Ming felt very happy; his new\ntechnology had proved its utility and contributed to saving people's lives. ===\nEND OF STORY 49 ==="
       }
     ]
   },
   {
     "id": "mandarin-advanced-50",
     "level": "advanced",
-    "title": "Advanced 50: The Language Feels Close",
+    "title": "Advanced 50: The Circle of Life",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2966,32 +2966,32 @@
       960,
       963
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/50-advanced-the-language-feels-close.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/mandarin/advanced/50-advanced-the-circle-of-life.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "早上，伊琳娜去公园。旁边有书和电话。伊琳娜慢慢地读，并注意到一个新词：“语言”。今天很好，语言也变得更近了。",
-        "en": "In the morning, Irina is in the park. There is book and phone nearby. Irina reads slowly and notices a new word: language. The day feels good, and the language feels a little closer."
+        "ru": "生物学者小丽多年来一直在观察本地大森林的生态系统。她仔细记录下小动物如何生活以及大树如何成长和高大。",
+        "en": "The biologist Xiao Li had studied the local\nforest's ecological system for many years. She kept track of how small animals\nlive and how tall trees grow."
       },
       {
         "heading": "Page 2",
-        "ru": "伊琳娜把“语言”写在笔记本里。然后伊琳娜想一想“信心”这个主题。这里很安静，所以伊琳娜又读了一遍句子，并轻声说出来。",
-        "en": "Irina writes the word language in a notebook. Then Irina thinks about confidence. The place is quiet, so Irina reads the sentence again and says it softly."
+        "ru": "她观察到，落叶慢慢转化成肥沃的泥土，而土地又给树木生长提供力量，树木反过来又成了鸟儿们安全又温暖的家。",
+        "en": "She observed how fallen leaves turn into fertile\nsoil, the soil gives strength to big trees to grow, and the trees in turn become\na safe and warm home for birds."
       },
       {
         "heading": "Page 3",
-        "ru": "出现了一个小问题，但是伊琳娜用新词来理解。伊琳娜看了看书，又看了看电话，然后做了一个简单的计划。最后，伊琳娜能说出一个清楚的句子。",
-        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the book, looks at the phone, and makes a simple plan. By the end, Irina can say one clear sentence."
+        "ru": "在周末，小丽邀请一些小孩子们来到大自然，以便向他们说明这个连接结构。她温和地解释说：“在地球上，所有的生命连接成一个圆。”",
+        "en": "On the weekend, Xiao Li invited some children into\nnature to explain to them this connected structure. She gently explained,\nsaying: \"On our Earth, all life is connected in one circle.\""
       },
       {
         "heading": "Page 4",
-        "ru": "后来，伊琳娜遇见另一个人，并小心地问了一个问题。回答很简单，但很有帮助。伊琳娜又写下三个词，并把它们和今天的故事连起来。",
-        "en": "Later, Irina meets another person and asks one careful question. The answer is simple, but it helps. Irina writes three more words and connects them to the story of the day."
+        "ru": "孩子们亲自动手，开始在树叶下寻找小生物，充满兴趣地观察植物。他们开始明白人其实也是这个奇妙大自然之圆的一部分。",
+        "en": "The children got their hands dirty, searching for\nsmall living creatures under the leaves and watching the plants with interest.\nThey began to understand that humans are also part of this wonderful circle of\nnature."
       },
       {
         "heading": "Page 5",
-        "ru": "一天结束时，伊琳娜大声读完整页。词语还不完美，但已经熟悉了。伊琳娜笑了，因为学习变得可能，也变得很近。",
-        "en": "At the end of the day, Irina reads the whole page out loud. The words are not perfect yet, but they are familiar now. Irina smiles because learning feels possible and close."
+        "ru": "小丽看到了孩子们眼里闪耀的光亮。她知道，优质的环境保护教育是让我们在未来保护美丽地球和美好自然的最好方式。",
+        "en": "Xiao Li saw the sparkle in the children's eyes. She\nknew that high-quality environmental protection education is the best way for us\nto protect our beautiful planet and wonderful nature in the future. === END OF\nSTORY 50 ==="
       }
     ]
   }

@@ -1,0 +1,21 @@
+Story 12: Our World
+Language: Hindi
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 93-100 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+मेरी माँ और पिता पृथ्वी से प्यार करते हैं। हम अपने घर के पास
+एक छोटा घर बनाते हैं और खुद जंगली जानवरों को देखते हैं। यही दुनिया का बिंदु है।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+My mother and father love the earth. We build a
+small house near our home and observe wild animals ourselves. That is the point
+of the world.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

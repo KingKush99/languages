@@ -1,0 +1,41 @@
+Story 28: The Quiet Forest
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 345-368 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+美咲は、鳥の声しか聞こえない静かな森の中を歩いていました。木々はとても高く、太陽の光が葉の間からわずかに差し込むだけでした。足元には柔らかい緑の苔が広がっており、まるで静かな絨毯の上を歩いているようでした。
+
+Page 2:
+さらに奥へ進むと、突然目の前が開け、小さな美しい湖が現れました。湖の水は鏡のように澄んでいて、青い空と白い雲がそのまま映っていました。近くには数頭の鹿がいて、静かに水を飲んでいました。彼女は息をのんでその光景を見つめました。
+
+Page 3:
+美咲は湖の近くにある乾いた岩の上に座り、バッグからスケッチブックとペンを取り出しました。彼女は、森の静けさと美しい湖、そして鹿たちの姿を言葉と絵で書き留めました。この特別な旅の記憶は、彼女の心の中にずっと残り続けるでしょう。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Misaki was walking through a quiet forest where
+only the voices of birds could be heard. The trees were very tall, and the
+sunlight only slightly filtered through the leaves. Soft green moss spread
+underfoot, making it feel as if she were walking on a quiet carpet.
+
+Page 2:
+As she went further inside, the space in front of
+her suddenly opened up, and a small, beautiful lake appeared. The lake water was
+as clear as a mirror, reflecting the blue sky and white clouds exactly. There
+were several deer nearby, quietly drinking water. She held her breath and stared
+at the scene.
+
+Page 3:
+Misaki sat on a dry rock near the lake and took out
+a sketchbook and a pen from her bag. She wrote down the silence of the forest,
+the beautiful lake, and the appearance of the deer using words and drawings. The
+memory of this special journey will surely remain in her heart forever. === END
+OF STORY 28 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

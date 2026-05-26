@@ -1,0 +1,32 @@
+Story 13: The Lost Dog
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 101-116 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Однажды девочка нашла маленькую собаку в лесу. Собака
+потерялась и сильно замерзла. Девочка тихо подошла к ней, заговорила
+ласковым голосом и успокоила ее.
+
+Page 2:
+Она принесла собаку в свой дом и дала ей теплой еды.
+Собака радостно махала хвостом. Ее мама и отец согласились оставить
+собаку, и все они были очень счастливы.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+One day, a girl found a small dog in the forest.
+The dog was lost and very cold. The girl quietly approached it, spoke in a sweet
+voice, and calmed it down.
+
+Page 2:
+She brought the dog into her house and gave it some
+warm food. The dog wagged its tail happily. Her mother and father agreed to keep
+the dog, and all of them were very happy.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

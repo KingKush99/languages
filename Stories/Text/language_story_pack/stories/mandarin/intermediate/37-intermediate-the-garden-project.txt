@@ -1,0 +1,39 @@
+Story 37: The Garden Project
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 559-581 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+春天，小华在奶奶家的大院子里度过了愉快的一天。奶奶决定教他用双手种蔬菜。两人在花园里松土，把一些西红柿和黄瓜种子小心种下。
+
+Page 2:
+放学后，小华每天都跑去帮助奶奶，给植物浇凉水。两周后，黑色土地里钻出绿色小叶子。小明看到他们共同努力的成果，感到很高兴。
+
+Page 3:
+夏天，他们收获了许多新鲜的西红柿和黄瓜。奶奶和小华用这些自己种的菜做了一盘美味沙拉。男孩感到自己种的菜味道最好。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In spring, Xiao Hua spent a pleasant day in his
+grandmother's big yard. His grandmother decided to teach him how to grow
+vegetables with his own hands. The two tilled the soil in the garden and
+carefully planted some tomato and cucumber seeds.
+
+Page 2:
+After school, Xiao Hua went to help his grandmother
+every day and watered the plants with cool water. Two weeks later, small green
+leaves emerged from the dark soil. Xiao Ming was very happy to see the fruits of
+their combined effort.
+
+Page 3:
+In summer, they harvested many fresh tomatoes and
+cucumbers. Grandmother and Xiao Hua made a delicious salad plate using these
+home-grown vegetables. The boy felt that vegetables grown by oneself tasted
+best.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

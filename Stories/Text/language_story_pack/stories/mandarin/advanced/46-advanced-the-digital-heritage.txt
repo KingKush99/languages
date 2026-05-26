@@ -1,0 +1,53 @@
+Story 46: The Digital Heritage
+Language: Chinese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 826-860 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+程序员小军在奶奶的旧房子里发现了一本旧黑白照片相册。里面有他家族的照片，以及展示一百年前小镇上生活面貌的图片。
+
+Page 2:
+小军决定把这些照片和图像转换成数字格式，以防止家族历史丢失。他很清楚，这些旧纸张会随着漫长时间的流逝而损坏。
+
+Page 3:
+他使用了扫描仪，并在自己的电脑上写了一个特殊的软件。这个软件可以自动清除照片上的灰尘和划痕，使旧面孔变得非常清晰。
+
+Page 4:
+小军把做好的数字相册上传到互联网，并把链接发给了在其他城市的所有亲人。大家看到家族的图片，都感到非常高兴。
+
+Page 5:
+多亏了现代技术，家族的历史得以为未来的下一代孩子安全保存。小军明白了，自己的编程技术和知识可以在社会中服务于美好的目标。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The programmer Xiao Jun found an old
+black-and-white photo album in his grandmother's old house. There were
+photographs of his family and pictures of the town's life a hundred years ago.
+
+Page 2:
+Xiao Jun decided to convert these photos and images
+into a digital format to prevent family history from loss. He understood well
+that old paper could get damaged with the passage of many years.
+
+Page 3:
+He used a scanner and wrote a special program on
+his computer. This program removed dust and scratches from the photos and made
+old faces clear.
+
+Page 4:
+Xiao Jun uploaded the completed album to the
+internet and sent the link to all his relatives in other cities. Everyone was
+happy to see their roots through the pictures.
+
+Page 5:
+Thanks to modern technologies, the family's history
+was saved safely for future generations of children. Xiao Jun realized that his
+coding skills and knowledge could serve good goals in society. === END OF
+STORY 46 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

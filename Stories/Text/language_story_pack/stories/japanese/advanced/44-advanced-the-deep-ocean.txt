@@ -1,0 +1,51 @@
+Story 44: The Deep Ocean
+Language: Japanese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 756-790 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+海洋学者のケンは、新しい深海探査艇を使って、海の最も深い場所を調査する計画を立てました。
+
+Page 2:
+水深数千メートルの世界は、完全な暗闇でした。しかし、探査艇の強い光が、未知の美しい海底を照らしました。
+
+Page 3:
+ケンは、光る美しい新しい生物を発見しました。それは、科学の歴史において重要な発見になるだろうと確信しました。
+
+Page 4:
+調査中、一時的に通信システムが故障しました。地上のチームは心配しましたが、ケンは冷静に機械の構造を修復しました。
+
+Page 5:
+ケンは無事に戻り、世界中の人々に深海の美しさを写真で示しました。彼の研究は、海洋環境を保護する大きな基礎となりました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Ken, an oceanographer, made a plan to investigate
+the deepest parts of the sea using a new deep-sea explorer.
+
+Page 2:
+The world thousands of meters deep was complete
+darkness. However, the strong light of the explorer illuminated the beautiful,
+unknown seafloor.
+
+Page 3:
+Ken discovered a beautiful, glowing new creature.
+He was convinced that it would be an important discovery in the history of
+science.
+
+Page 4:
+During the investigation, the communication system
+temporarily malfunctioned. The team on the ground was worried, but Ken calmly
+repaired the machine's structure.
+
+Page 5:
+Ken returned safely and showed the beauty of the
+deep sea to people around the world through pictures. His research became a
+great foundation for protecting the marine environment.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

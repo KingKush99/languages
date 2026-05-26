@@ -1,0 +1,28 @@
+Story 26: The World of Words
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 306-320 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+言葉は私たちを新しい世界へと連れて行ってくれます。私は毎日、新しい言葉の意味を調べ、ノートに書き写して覚える練習をしています。
+
+Page 2:
+本を読むことは、自分自身を高めるための素晴らしい方法です。多くの本を読むことで、私たちは他人の考えを理解し、より親切な人になることができます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Words take us to new worlds. Every day, I look up
+the meanings of new words, copy them into my notebook, and practice memorizing
+them.
+
+Page 2:
+Reading books is a wonderful way to improve
+oneself. By reading many books, we can understand other people's thoughts and
+become kinder people.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

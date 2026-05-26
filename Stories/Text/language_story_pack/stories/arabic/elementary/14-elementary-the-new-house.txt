@@ -1,0 +1,32 @@
+Story 14: The New House
+Language: Arabic
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 117-132 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+اخترنا هذه الأرض الهادئة لنبني عليها منزلنا الجديد. يمر نهر
+نظيف بالقرب منا، ونسمع أصوات الطيور الجميلة كل يوم. تبدأ حياتنا الجديدة في هذا
+المكان الجميل اليوم.
+
+Page 2:
+بدأت أنا وأبي في زراعة حديقة صغيرة بالقرب من منزلنا الجديد.
+زرعنا هناك زهوراً ملونة وجميلة. كانت أمي تنظر إلينا من النافذة وتساعدنا بكلماتها
+الطيبة والمشجعة.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+We chose this quiet land to build our new house. A
+clean river flows near us, and we hear the beautiful voices of birds every day.
+Our new life begins in this beautiful place today.
+
+Page 2:
+My father and I started planting a small garden
+near our new house. We planted colorful and beautiful flowers there. My mother
+watched us from the window and helped us with her kind and encouraging words.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

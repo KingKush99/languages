@@ -1,0 +1,20 @@
+Story 03: A Hot Day
+Language: Arabic
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 19-27 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+ما هذا؟ هذه كلمة من صديقي. لكن الطقس حار اليوم. هناك بعض
+الماء بجانبه.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+What is this? This is a word from my friend. But
+the weather is hot today. There is some water near him.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

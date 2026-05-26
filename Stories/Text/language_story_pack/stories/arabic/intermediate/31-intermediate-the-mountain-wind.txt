@@ -1,0 +1,45 @@
+Story 31: The Mountain Wind
+Language: Arabic
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 417-440 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+في الصباح الباكر، بدأ طارق الصعود في طريق ضيق نحو الجبل
+المرتفع. كانت الرياح تهب بقوة وبرودة، لكن حركته السريعة جعلت جسده يشعر
+بالدفء. كانت هناك زهور برية جميلة تظهر على طول الطريق وتسر عينه.
+
+Page 2:
+في منتصف النهار، أصبحت السماء مظلمة فجأة وبدأ المطر يهطل
+بغزارة. ولحسن الحظ، كان هناك كوخ صغير مبني من الحجر أمامه مباشرة. ركض طارق
+بسرعة إلى الداخل ليحتمي من العاصفة ويشرب الشاي الدافئ.
+
+Page 3:
+بعد ساعة، توقف المطر وظهرت الشمس المشرقة مجدداً في السماء.
+خرج طارق من الكوخ ووصل إلى قمة الجبل. كانت هناك وادٍ أخضر كبير ممتد بالأسفل.
+أخذت الرياح القوية كل تعبه وشعر بفرحة حقيقية.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Early in the morning, Tariq began climbing a narrow
+path towards the high mountain. The wind blew strongly and coldly, but his fast
+movement kept his body warm. There were beautiful wild flowers appearing along
+the path, pleasing his eye.
+
+Page 2:
+At noon, the sky suddenly turned dark and heavy
+rain began to fall. Fortunately, there was a small cabin built of stone right in
+front of him. Tariq ran quickly inside to take shelter from the storm and drink
+warm tea.
+
+Page 3:
+After an hour, the rain stopped and the bright sun
+appeared again in the sky. Tariq left the cabin and reached the top of the
+mountain. There was a large green valley stretching out below. The strong wind
+carried away all his fatigue, and he felt true joy.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

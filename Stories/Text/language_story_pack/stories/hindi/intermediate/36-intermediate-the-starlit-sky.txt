@@ -1,0 +1,43 @@
+Story 36: The Starlit Sky
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 536-558 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+गर्मियों में रोहित अपने माता-पिता के साथ पहाड़ों में कैंपिंग
+के लिए गया था। रात को तंबू के पास सन्नाटा और अंधेरा था क्योंकि आसपास शहर की कोई
+रोशनी नहीं थी। वह बाहर आया।
+
+Page 2:
+रोहित के पिता ने बैग से तारों के बारे में एक दिलचस्प किताब
+निकाली। उन्होंने टॉर्च जलाई और किताब की मदद से बेटे को आसमान में तारे दिखाने
+लगे और उनकी कहानियाँ बताईं।
+
+Page 3:
+अचानक एक चमकीला तारा तेज़ी से आसमान से गुजरा और एक सुंदर
+रेखा छोड़ गया। वह टूटता तारा था। रोहित ने अपने भविष्य के लिए एक इच्छा
+माँगी। यह रात उसे हमेशा याद रही।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the summer, Rohit went on a camping trip to the
+mountains with his parents. At night by the tent, it was quiet and dark because
+there were no city lights around. He came outside.
+
+Page 2:
+Rohit's father took an interesting book about
+constellations from his bag. He turned on a light and, with the help of the
+book, began to show his son the stars in the sky, explaining their stories.
+
+Page 3:
+Suddenly, a bright star quickly flew across the
+dark sky, leaving a light trail behind it. It was a shooting star. Rohit managed
+to make a wish about his future. He would remember this evening forever. === END
+OF STORY 36 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

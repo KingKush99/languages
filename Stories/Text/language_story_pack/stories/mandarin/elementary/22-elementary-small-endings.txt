@@ -1,0 +1,29 @@
+Story 22: Small Endings
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 245-260 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+这个世界上的每样东西都有它的结束。但是一个结束总是意味着新事物的开始。小男孩把他的旧玩具放进一个大箱子里。
+
+Page 2:
+他长大了，不再玩那些玩具。现在他需要读其他更有用的书，自己制定生活新计划。他笑着自信地走向未来。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Every thing in this world has its end. But an
+ending always means the beginning of something new. The little boy put his old
+toys into a large box.
+
+Page 2:
+He has grown up and doesn't play with those toys
+anymore. Now he needs to read other more useful books and make new plans for
+life himself. He smiled and walked confidently toward the future. === END OF
+STORY 22 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

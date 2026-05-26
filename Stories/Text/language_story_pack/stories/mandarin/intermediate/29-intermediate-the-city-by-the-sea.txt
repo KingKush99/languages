@@ -1,0 +1,38 @@
+Story 29: The City by the Sea
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 369-392 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+小杰住在一座位于蔚蓝大海边的美丽城市里。每到夏天，这里都会举办盛大的节日。港口挂起了色彩斑斓的旗帜，人们搭建起木制食品摊。随着傍晚的临近，许多快乐的人聚集在街上。
+
+Page 2:
+小杰在港口遇到了一位老渔夫。这位老爷爷向他讲述了自己年轻时在世界各大洋航行的奇妙故事，还有暴风雨和巨大鱼类。男孩听得津津有味，梦想着未来也能成为一名真正的航海家。
+
+Page 3:
+夜幕降临时，天空中绽放起彩色的烟花。光芒飞得很高，然后落入海水中。整座城市都在快乐地闪耀，小杰为自己的海滨家园感到骄傲。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Xiao Jie lived in a beautiful city on the shore of
+the blue sea. Every summer, a grand festival was organized here. Colorful flags
+were hung at the port, and people built wooden food stalls. As evening
+approached, many happy people gathered on the street.
+
+Page 2:
+Xiao Jie met an old fisherman at the port. The old
+man told him wonderful stories of his young days sailing across the world's
+oceans, about strong storms and huge fish. The boy listened with great interest
+and dreamed of becoming a real voyager in the future.
+
+Page 3:
+When night fell, colorful fireworks bloomed in the
+sky. The lights flew very high and then fell into the sea water. The entire city
+glowed happily, and Xiao Jie felt proud of his seaside home.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

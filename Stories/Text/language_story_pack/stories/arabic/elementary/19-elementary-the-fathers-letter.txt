@@ -1,0 +1,33 @@
+Story 19: The Father's Letter
+Language: Arabic
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 197-212 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+سافر والدي للعمل في مدينة ميناء كبيرة بعيدة جداً عن منزلنا
+الهادئ. وفي أحد الأيام، وصلت إلينا رسالة مكتوبة منه. شعرت بفرح شديد وفتحتها على
+الفور.
+
+Page 2:
+كتب أبي في الرسالة عن البحر الجميل والأماكن الرائعة والناس
+الطيبين هناك. ووعدنا بأنه سوف يعود إلى المنزل قريباً جداً. اطمأنت روحي وسعدت
+العائلة بهذه الأخبار.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+My father traveled for work to a large port city
+far away from our quiet house. One day, a written letter from him arrived. I
+felt extreme joy and opened it immediately.
+
+Page 2:
+My father wrote in the letter about the beautiful
+sea, wonderful places, and kind people there. He promised us that he would
+return home very soon. My soul felt relieved, and the family was happy with this
+news.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,53 @@
+Story 47: The Green Architecture
+Language: Chinese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 861-895 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+建筑学家小建接到了在城市里设计一座新社区中心大楼的任务。他决定完全依靠大自然，使这栋大楼变得清洁、环保。
+
+Page 2:
+他改变了屋顶的结构与设计，允许最大程度地让自然太阳光进入新中心。这个设计有助于大大减少大楼在白天对电灯的使用。
+
+Page 3:
+小建计划在新中心楼顶建造一个宽阔美丽的花园。他安装了雨水收集和灌溉系统，能无需人工协助地自动给楼顶的植物浇水。
+
+Page 4:
+工人们开始工作，主要使用完全来自环保安全木头的材料。城市居民们都十分好奇地关注着这栋环保新房子的每一步。
+
+Page 5:
+新大楼成了市里最美的地方。人们喜欢去绿色树木下的花园休息、乘凉。小建向大家证明了绿色建筑理念的巨大益处。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The architect Xiao Jian received a request to
+design a new community center in the city. He decided to make this building
+clean and eco-friendly by relying on nature.
+
+Page 2:
+He modified the structure and design of the roof to
+allow the maximum amount of natural sunlight inside the new center building.
+This design helped greatly reduce the use of electric lamps during the day.
+
+Page 3:
+Xiao Jian planned to plant a large and beautiful
+green garden on the roof of the new center. He installed a rainwater collection
+and irrigation system to water the plants automatically without the need for
+human intervention.
+
+Page 4:
+The workers began their work, mainly using safe
+materials made from eco-friendly wood. City residents watched every step of
+building this distinct green building with great curiosity.
+
+Page 5:
+The new center became the most beautiful place in
+the city. People liked to rest under the shade of the green trees. Xiao Jian
+proved the great benefits of green architecture ideas.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

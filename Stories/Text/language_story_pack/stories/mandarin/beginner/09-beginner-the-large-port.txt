@@ -1,0 +1,19 @@
+Story 09: The Large Port
+Language: Chinese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 69-76 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+这里是一个大港口。在这片土地上有一艘大船。你必须在这里写下你的名字，甚至添加拼写。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Here is a large port. There is a big ship on this
+land. You must write your name here, and even add spelling.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

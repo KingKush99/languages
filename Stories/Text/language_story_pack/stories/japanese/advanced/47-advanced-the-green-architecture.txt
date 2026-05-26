@@ -1,0 +1,49 @@
+Story 47: The Green Architecture
+Language: Japanese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 861-895 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+建築家のケンジは、町の新しいコミュニティセンターを設計する仕事を任されました。彼はエコな建物を目指しました。
+
+Page 2:
+彼は、建物の構造を工夫し、太陽の光を最大限に取り入れることで、電気の使用を減らす設計をしました。
+
+Page 3:
+屋上には大きな庭園を造り、雨水を再利用して植物に水を与えるシステムを導入することにしました。
+
+Page 4:
+多くの大工や町の人々が協力して建設が始まりました。環境に優しいリサイクル素材が壁に使用されました。
+
+Page 5:
+完成したセンターは、美しく温かみのある場所になりました。環境保護のシンボルとして、人々から深く愛されています。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Kenji, an architect, was assigned the job of
+designing the town's new community center. He aimed for an eco-friendly
+building.
+
+Page 2:
+He devised the structure of the building to
+maximize sunlight, designing it to reduce electricity usage.
+
+Page 3:
+He decided to build a large garden on the rooftop
+and introduce a system to reuse rainwater to water the plants.
+
+Page 4:
+Many carpenters and townspeople cooperated to begin
+construction. Environmentally friendly recycled materials were used for the
+walls.
+
+Page 5:
+The completed center became a beautiful and warm
+place. It is deeply loved by the people as a symbol of environmental protection.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

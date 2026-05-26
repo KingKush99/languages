@@ -1,0 +1,32 @@
+Story 24: High Lands
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 276-290 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Мы решили сделать план и подняться на очень высокую гору.
+Эта гора стояла близко к облакам, и ее вершина требовала от нас силы и смелых
+действий.
+
+Page 2:
+Когда мы пришли на вершину, дул холодный ветер. Но вид на
+землю оттуда был прекрасен. Дома и реки казались маленькими точками. Мы
+гордились своей силой.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+We decided to make a plan and climb a very high
+mountain. This mountain stood close to the clouds, and its peak required
+strength and bold actions from us.
+
+Page 2:
+When we reached the top, a cold wind was blowing.
+But the view of the earth from there was beautiful. Houses and rivers seemed
+like small points. We were proud of our strength.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,32 @@
+Story 13: The Lost Dog
+Language: Hindi
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 101-116 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+एक दिन, एक छोटी लड़की को पास के जंगल में एक खोया हुआ कुत्ता
+मिला। वह कुत्ता बहुत डरा हुआ था और उसे बहुत ठंड लग रही थी। लड़की ने उससे प्यार
+से बात की और उसे शांत किया।
+
+Page 2:
+वह कुत्ते को अपने घर ले आई और उसे गर्म खाना दिया। कुत्ता
+खुशी से अपनी पूंछ हिलाने लगा। उसकी माँ और पिता भी कुत्ते को रखने के लिए
+मान गए और सब बहुत खुश हुए।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+One day, a little girl found a lost dog in the
+nearby forest. The dog was very scared and felt very cold. The girl spoke to it
+gently and made it feel safe.
+
+Page 2:
+She brought the dog back to her house and gave it
+warm food. The dog happily wagged its tail. Her mother and father also agreed to
+let it stay, and everyone was very happy.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

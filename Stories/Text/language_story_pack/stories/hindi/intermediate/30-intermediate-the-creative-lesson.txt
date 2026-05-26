@@ -1,0 +1,47 @@
+Story 30: The Creative Lesson
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 393-416 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+स्कूल में विज्ञान के पाठ के दौरान शिक्षक ने बच्चों को एक नया
+काम दिया। उन्हें समूहों में बँटना था और "भविष्य के हरे शहर" का एक मॉडल बनाना था।
+चार दोस्त एक साथ बैठे और सोचने लगे कि वे पर्यावरण को बचाने के लिए किन तकनीकों का
+उपयोग करेंगे।
+
+Page 2:
+उनके पास कई अच्छे विचार थे। उन्होंने हर घर की छत पर सौर
+ऊर्जा पैनल लगाने और पौधों को सींचने के लिए बारिश के पानी को इकट्ठा
+करने की प्रणाली बनाने का फैसला किया। उन्होंने कागज और गत्ते जैसी साधारण
+चीजों का इस्तेमाल किया।
+
+Page 3:
+अगले दिन सभी समूहों ने अपने मॉडल दिखाए। शिक्षक ने बच्चों के
+काम की तारीफ की। दोस्तों को समझ आया कि एक साथ मिलकर काम करना कितना जरूरी है।
+यह हर बच्चे के लिए एक बेहतरीन पाठ था।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+At school during the science class, the teacher
+gave the children a new task. They needed to divide into groups and build a
+model of a "city of the future." Four friends sat together and began thinking
+about eco-friendly technologies.
+
+Page 2:
+They had many good ideas. They decided to make
+solar panels on the roofs of each house and a rainwater collection system for
+plants. They used simple things like paper and cardboard, working with their
+hands.
+
+Page 3:
+The next day, all groups showed their models. The
+teacher praised the children for their work. The friends understood how
+important it is to work together toward one goal. It was an excellent lesson for
+each of them.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

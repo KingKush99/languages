@@ -1,0 +1,31 @@
+Story 21: A Day of Play
+Language: Hindi
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 229-244 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+आज स्कूल की छुट्टी थी। छोटे बच्चे घर के पास वाले खुले मैदान
+में जमा हो गए। सब मजे से खेलने लगे। मौसम बहुत अच्छा था और ठंडी हवा चल रही थी।
+
+Page 2:
+वे शाम तक खेलते रहे। दिन के अंत में, सब घास पर एक बड़े घेरे
+में बैठ गए और एक-दूसरे को उन कहानियों के बारे में बताने लगे जो उन्होंने
+किताबों में पढ़ी थीं।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Today is a school holiday. Small children gathered
+in the open square near the houses. Everyone started playing lively. The weather
+was great, and a comfortable breeze was blowing.
+
+Page 2:
+They played until evening. At the end of the day,
+everyone sat in a big circle on the grass, telling each other interesting
+stories they had read in books.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

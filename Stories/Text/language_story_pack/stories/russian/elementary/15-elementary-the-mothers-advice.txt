@@ -1,0 +1,32 @@
+Story 15: The Mother's Advice
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 133-148 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Мальчик думал над трудной задачей для школы. Он долго
+читал большую книгу, но никак не мог понять правильный ответ. Он был очень
+расстроен этим.
+
+Page 2:
+Мама подошла к нему близко и тихо сказала: «Попробуй еще
+раз с первой страницы. Если будешь читать медленно, ты обязательно поймешь
+весь смысл». Он начал снова.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The boy was thinking about a difficult task for
+school. He read a big book for a long time, but could not understand the correct
+answer. He was very upset by this.
+
+Page 2:
+His mother came close to him and quietly said: "Try
+again from the first page. If you read slowly, you will surely understand the
+whole meaning." He started again.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

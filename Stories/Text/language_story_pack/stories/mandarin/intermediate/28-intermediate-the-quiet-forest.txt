@@ -1,0 +1,39 @@
+Story 28: The Quiet Forest
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 345-368 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+小红走在安静的森林里，这里只能听到远处鸟儿的声音。树木长得非常高，明亮的阳光只能穿过绿色的树叶洒下一点点。脚下是柔软的绿色苔藓，走在上面像地毯一样。
+
+Page 2:
+她往更深处走去，突然眼前一亮，发现了一个美丽的小湖泊。湖里的水非常清澈，像镜子一样映照着蓝天和白云。几只小鹿站在湖边，正在安静地喝水。小红在一旁默默看着。
+
+Page 3:
+小红坐在水边干燥的石头上，打开了自己的笔记本。她决定把这个故事记录下来，画下美丽的湖泊和小鹿。这个森林之行带来的温暖记忆，在她的生活中会保留很长时间。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Xiao Hong walked through the quiet forest where
+only the distant voices of birds were heard. The trees grew very tall, and the
+bright sunlight only filtered slightly through the green leaves. Soft green moss
+lay underfoot, making it feel like walking on a carpet.
+
+Page 2:
+She walked deeper, and suddenly the view opened up
+as she discovered a beautiful small lake. The water in the lake was very clear,
+reflecting the blue sky and white clouds like a mirror. A few deer stood by the
+lakeside, drinking water quietly. Xiao Hong watched them silently from the side.
+
+Page 3:
+Xiao Hong sat on a dry stone near the water and
+opened her notebook. She decided to record this story and draw the beautiful
+lake and the deer. This warm memory of the walk in the forest will remain in her
+life for a long time.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

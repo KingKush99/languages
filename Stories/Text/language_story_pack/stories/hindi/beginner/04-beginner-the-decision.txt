@@ -1,0 +1,20 @@
+Story 04: The Decision
+Language: Hindi
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 28-36 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+आप और मैं जाते हैं। क्या यह आप हैं या मैं? हमारे पास अतीत की
+एक पुरानी किताब थी। साथ में नए शहर की ओर चलें।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+You and I will go. Is it you or me? We had that old
+book of the past. Let us go to the new town together.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

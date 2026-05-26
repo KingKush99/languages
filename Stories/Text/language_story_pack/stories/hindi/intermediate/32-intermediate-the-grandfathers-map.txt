@@ -1,0 +1,44 @@
+Story 32: The Grandfather's Map
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 441-464 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+रोहन अपने दादाजी के कमरे में एक किताब ढूंढ रहा था। उसने मेज
+का एक पुराना दराज खोला और नीचे एक कागज पाया। यह जंगल का एक पुराना नक्शा था
+जिसे दादाजी ने तब बनाया था जब वे छोटे थे।
+
+Page 2:
+रोहन और उसके दोस्त ने इस नक्शे की मदद से जंगल जाने का फैसला
+किया। उन्होंने पुराने पेड़ों को रास्ते के निशान के रूप में इस्तेमाल किया। जल्द
+ही उन्हें पत्थरों से बना एक पुराना कुआँ मिला जो घास से ढका था। सब कुछ नक्शे जैसा
+ही था।
+
+Page 3:
+उन्होंने कुएं के अंदर झांका और एक छोटा प्लास्टिक का डिब्बा
+देखा। अंदर एक पुराना सिक्का और दादाजी के नाम की पर्ची थी। बच्चों को अतीत से
+एक संदेश मिला और वे बहुत खुश हुए।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The boy Rohan was looking for a book in his
+grandfather's room. He opened an old desk drawer and found a paper at the very
+bottom. It was an old map of the forest that his grandfather had drawn himself
+when he was a small child.
+
+Page 2:
+Rohan and his friend decided to go into the forest
+using this map. They used old trees as landmarks and went deeper. Soon they
+found an old stone well covered with green grass, exactly like on the map.
+
+Page 3:
+They peered inside and saw a small plastic box.
+Inside lay an old coin and a note with their grandfather's name. The boys had
+found a real greeting from the past and felt very excited.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

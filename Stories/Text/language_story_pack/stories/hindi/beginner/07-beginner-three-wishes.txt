@@ -1,0 +1,20 @@
+Story 07: Three Wishes
+Language: Hindi
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 53-60 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+मैं आपको बताना चाहता हूँ। यहाँ तीन चीजों का एक सेट है। हर
+चीज को ताजी हवा की जरूरत होती है। यह अच्छी तरह से काम करता है।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+I want to tell you. There is a set of three things
+here. Each thing needs fresh air. It works well.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

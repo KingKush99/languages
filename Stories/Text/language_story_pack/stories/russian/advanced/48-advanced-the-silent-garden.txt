@@ -1,0 +1,61 @@
+Story 48: The Silent Garden
+Language: Russian
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 896-930 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Садовник Елена получила просьбу восстановить сад старого
+монастыря в пригороде. Этот сад был заброшен много лет назад и зарос дикой
+травой.
+
+Page 2:
+Она нарисовала новый план сада. Она решила положить
+большие серые камни у воды и сделать маленькие песчаные дорожки для тихих
+прогулок людей.
+
+Page 3:
+Елена посадила мягкий зеленый мох в тени и красивые
+деревья в центре сада. Эти деревья должны были менять свой цвет в разное
+время года.
+
+Page 4:
+Она хотела создать место, где каждый человек мог бы забыть
+про городские проблемы, сесть в тишине и подумать о своей жизни и душе.
+
+Page 5:
+Сад стал настоящим местом покоя для людей. Они приходили
+слушать воду и ветер. Елена была рада, что смогла вернуть красоту старой
+земле.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The gardener Yelena received a request to restore
+the garden of an old monastery in the suburbs. This garden had been abandoned
+many years ago and was overgrown with wild grass.
+
+Page 2:
+She drew a new plan for the garden. She decided to
+place large grey stones near the water and make small sandy paths for quiet
+walks of people.
+
+Page 3:
+Yelena planted soft green moss in the shade and
+beautiful trees in the center of the garden. These trees were supposed to change
+their color at different times of the year.
+
+Page 4:
+She wanted to create a place where every person
+could forget about city problems, sit in silence, and think about their life and
+soul.
+
+Page 5:
+The garden became a true place of peace for people.
+They came to listen to the water and the wind. Yelena was glad she could return
+beauty to the old land.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,32 @@
+Story 17: The Picture Book
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 165-180 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Мой дедушка подарил мне старую интересную книгу. В этой
+книге было много красивых картинок с дикими животными со всего мира. Я сразу
+полюбил эту книгу.
+
+Page 2:
+Я читал книгу и учился писать новые трудные слова по
+буквам. Моя мама сидела рядом со мной и помогала мне делать это правильно
+и быстро.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+My grandfather gave me an interesting old book. In
+this book, there were many beautiful pictures of wild animals from all over the
+world. I loved this book immediately.
+
+Page 2:
+I read the book and learned to write new difficult
+words by spelling them out. My mother sat next to me and helped me do it
+correctly and quickly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,43 @@
+Story 39: The Science Fair
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 605-627 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+हर साल स्कूल में एक बड़ा विज्ञान मेला होता था। राहुल के
+ग्रुप ने स्वच्छ ऊर्जा पर एक प्रोजेक्ट तैयार करने का फैसला किया।
+उन्होंने एक मॉडल बनाया जो सौर पैनलों के काम को दिखाता था।
+
+Page 2:
+मेले के दिन बहुत से शिक्षक और माता-पिता वहाँ जमा हुए। कई लोग
+राहुल के प्रोजेक्ट के पास रुके। लड़के ने मेहमानों को आसानी से समझाया कि कैसे
+सूरज की रोशनी बिजली में बदलती है।
+
+Page 3:
+दिन के अंत में जजों ने सभी प्रोजेक्ट्स का मूल्यांकन किया।
+राहुल के ग्रुप के काम को बहुत पसंद किया गया और उन्हें पहला स्थान मिला। सब
+बहुत खुश हुए और टीमवर्क का महत्व समझा।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Every autumn, a big science fair took place at
+school. Rahul's group decided to prepare a project on clean energy. They built a
+model that demonstrated the work of solar panels.
+
+Page 2:
+On the day of the fair, many teachers and parents
+gathered in the hall. Many stopped at Rahul's project. The boy explained to the
+guests simply and clearly how the light of the sun turns into electricity.
+
+Page 3:
+At the end of the day, the judges evaluated all
+projects. The work of Rahul's group received a high rating and first place. The
+children were very glad and understood how important teamwork is. === END OF
+STORY 39 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

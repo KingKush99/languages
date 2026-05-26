@@ -1,0 +1,53 @@
+Story 49: The Solar Flight
+Language: Chinese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 931-965 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+工程师小明努力工作，发明出了一台新型飞行器。这是一台能够完全依靠太阳能进行飞行的小型无人家（无人机），不需要使用汽油。
+
+Page 2:
+该项目的主要目的是将急需的医疗设备和药品运输给住在遥远大山里的人们，那里的主要道路由于大雨暴风而遭到完全破坏。
+
+Page 3:
+在一个晴朗的早晨，小明带着设备来到一片开阔的测试场地进行第一次试飞。无人机依靠光的能量，安静地飞向遥远的大山。
+
+Page 4:
+在大山里，空中突然刮起了一阵强烈的大风。但多亏了机翼坚固且巧妙的内部结构设计，它成功保持了平衡并继续朝着目标航行。
+
+Page 5:
+无人机把急需的医疗包顺利且非常精准地送达了预定位置。小明感到很高兴，新科技被证明非常有用，保护并拯救了人们的生命。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The engineer Xiao Ming worked hard to invent a new
+flying vehicle. This was a small unmanned aerial vehicle (drone) that could fly
+solely on solar energy without gasoline.
+
+Page 2:
+The main goal of the project was to transport
+medical devices and emergency medicines to people in remote mountainous areas
+whose main roads were completely destroyed by rain and storms.
+
+Page 3:
+On a sunny morning, Xiao Ming took the vehicle to a
+wide test field to conduct the first test flight. The drone quietly flew towards
+the distant mountains using only the power of light.
+
+Page 4:
+In the mountains, strong winds suddenly blew in the
+air. But thanks to the durable and clever design of the wing, the plane managed
+to maintain its balance and continued its journey.
+
+Page 5:
+The drone successfully and accurately delivered the
+medical cargo to the specified location. Xiao Ming felt very happy; his new
+technology had proved its utility and contributed to saving people's lives. ===
+END OF STORY 49 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

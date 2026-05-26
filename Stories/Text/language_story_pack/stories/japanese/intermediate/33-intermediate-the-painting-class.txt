@@ -1,0 +1,41 @@
+Story 33: The Painting Class
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 465-488 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+あおいは、毎週土曜日に絵画のクラスに通っていました。今日の授業は、教室の窓から見える川と空の景色を描くことでした。彼女は大きなキャンバスを準備し、水彩の絵の具をパレットの上にいくつか出しました。どんな絵を描くかワクワクしていました。
+
+Page 2:
+時間が経つと、外の空がゆっくりとオレンジ色に変わり始めました。川の水面には夕日の美しい光が反射していました。あおいは、その変化する美しい色を表現するために、赤と黄色の絵の具を慎重に混ぜ、ブラシを使ってキャンバスに色を乗せました。
+
+Page 3:
+クラスの終わりに、みんなの絵が壁に並べられました。同じ窓からの景色を描いたにもかかわらず、それぞれの絵には違った個性や美しさがありました。あおいは、他人の表現を見ることで深く学び、自分の絵の価値と可能性を改めて感じました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Aoi attended a painting class every Saturday.
+Today's lesson was to paint the scenery of the river and sky seen from the
+classroom window. She prepared a large canvas and put out several watercolor
+paints on the palette. She was excited about what kind of painting she would
+make.
+
+Page 2:
+As time passed, the sky outside slowly began to
+turn orange. The beautiful light of the sunset reflected on the river's water
+surface. To express those changing, beautiful colors, Aoi carefully mixed red
+and yellow paints and applied the colors to the canvas using a brush.
+
+Page 3:
+At the end of the class, everyone's paintings were
+lined up on the wall. Despite painting the scenery from the same window, each
+painting had a different individuality and beauty. Aoi learned deeply by looking
+at other people's expressions and felt once again the value and potential of her
+own art.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

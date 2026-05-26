@@ -1,0 +1,46 @@
+Story 35: The River Adventure
+Language: Arabic
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 513-535 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+صنع يوسف وصديقه قاربًا خشبيًا جميلاً في حصة الأشغال اليدوية
+بالمدرسة. وقررا إطلاقه في رحلة مائية على طول النهر النظيف الموجود بالقرب من
+منزلهما لمعرفة كيفية حركته وتوازنه على الماء.
+
+Page 2:
+كان مجرى النهر هادئاً، لكن في طريقه كانت توجد بعض الأغصان
+المتساقطة والحجارة الكبيرة. جرى الولدان على طول الشاطئ وكانا يشعران بالقلق
+خوفاً من أن يصطدم قاربهما الصغير بأي من هذه الحواجز المائية.
+
+Page 3:
+في نهاية النهر، أمسك يوسف بالقارب بحذر شديد لئلا يبتل. كان
+القارب سليماً تماماً ولم يصب بأي ضرر. عاد الصديقان إلى المنزل ودونا بالتفصيل في
+دفتر الملاحظات نتائجهما حول سرعة تدفق مياه النهر.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Youssef and his friend made a beautiful wooden boat
+in their school crafts class. They decided to launch it on a water voyage along
+the clean river located near their house to see its movement and balance on the
+water.
+
+Page 2:
+The river flow was calm, but along its path there
+were some fallen branches and big stones. The two boys ran along the bank and
+felt anxious, fearing that their small boat might collide with any of these
+water obstacles.
+
+Page 3:
+At the end of the river, Youssef caught the boat
+very carefully so as not to get wet. The boat was completely intact and did not
+suffer any damage. The two friends returned home and recorded their results
+regarding the speed of the river water flow in detail in their notebook. === END
+OF STORY 35 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

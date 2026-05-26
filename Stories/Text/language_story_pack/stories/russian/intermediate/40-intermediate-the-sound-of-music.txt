@@ -1,0 +1,44 @@
+Story 40: The Sound of Music
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 628-650 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Аня вместе с мамой пришла в старый городской концертный
+зал. Сегодня там проходил вечер скрипичной музыки. В зале погас свет, и на
+сцене загорелась теплая лампа, осветившая музыканта.
+
+Page 2:
+Скрипка зазвучала очень красиво. Звуки музыки то текли
+медленно и тихо, то взлетали быстро и громко. Аня слушала эту мелодию,
+чувствуя, как меняется ее настроение вместе со звуками.
+
+Page 3:
+После концерта все громко хлопали. Аня была очень
+вдохновлена. Дома она решила достать свое маленькое детское пианино и
+попробовать снова поиграть на нем простые песни. В ней родилась мечта.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Anya came with her mom to the old city concert
+hall. Today, an evening of violin music was taking place there. The lights went
+out in the hall, and a warm lamp lit up on the stage, illuminating the musician.
+
+Page 2:
+The violin sounded very beautiful. The sounds of
+the music flowed slowly and quietly at times, and at others soared fast and
+loud. Anya listened to this melody, feeling how her mood changed along with the
+sounds.
+
+Page 3:
+After the concert, everyone clapped loudly. Anya
+was highly inspired. At home, she decided to take out her small children's piano
+and try to play simple songs on it again. A dream was born in her. === END OF
+STORY 40 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,40 @@
+Story 31: The Mountain Wind
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 417-440 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+清晨，小刚开始沿着窄窄的小路攀登一座高山。风吹得非常强，有些冷，但通过不断行走，他的身体暖和了起来。山路两旁长着好看的山花和野草，让他心情舒畅。
+
+Page 2:
+中午时分，天空突然变暗，开始下起大雨。幸运的是，不远处有一座石砌的避难小屋。小刚急忙跑进小屋躲雨。屋里很干燥，他能喝一口保温瓶里的热茶。
+
+Page 3:
+不久雨停了，天空中重新出现了明亮的太阳。小刚走出小屋，登上了最高的高山之顶。下面是一片宽阔发光的绿色山谷。强风吹走了他的疲惫，他感受到了登山的真正快乐。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Early in the morning, Xiao Gang began climbing a
+narrow path up a high mountain. The wind blew very strongly and was a bit cold,
+but through continuous walking, his body warmed up. Beautiful mountain flowers
+and wild grass grew on both sides of the path, cheering him up.
+
+Page 2:
+Around noon, the sky suddenly turned dark and heavy
+rain began to fall. Fortunately, a small stone shelter was not far ahead. Xiao
+Gang quickly ran inside the shelter to hide from the rain. It was dry inside,
+and he was able to drink warm tea from his thermos.
+
+Page 3:
+Soon the rain stopped, and the bright sun appeared
+in the sky again. Xiao Gang left the cabin and climbed to the highest peak of
+the mountain. Below stretched a wide, glowing green valley. The strong wind blew
+away his fatigue, and he felt the true joy of mountain climbing. === END OF
+STORY 31 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

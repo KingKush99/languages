@@ -1,0 +1,20 @@
+Story 02: Gathering at Home
+Language: Russian
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 10-18 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Они сейчас здесь. Мои друзья хотят быть со мной в одном
+доме. У нас есть это тихое место.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+They are here now. My friends want to be with me in
+one house. We have this quiet place.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

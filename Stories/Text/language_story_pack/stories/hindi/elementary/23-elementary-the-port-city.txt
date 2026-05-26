@@ -1,0 +1,32 @@
+Story 23: The Port City
+Language: Hindi
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 261-275 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+मेरा घर एक बहुत बड़े और व्यस्त बंदरगाह के पास है। हर सुबह
+दुनिया भर से बड़े जहाज यहाँ आते हैं और कई लोग इस ज़मीन पर उतरते हैं। यहाँ
+बहुत चहल-पहल होती है।
+
+Page 2:
+शाम को मैं और पिताजी पानी के किनारे जाते हैं। हम बड़े जहाजों
+को वापस समुद्र में जाते हुए देखते हैं। सूरज की रोशनी लहरों पर पड़ती है और यह
+नजारा बहुत सुंदर लगता है।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+My house is very close to a very large and busy
+port. Every morning, big ships from all over the world arrive here, and many
+people disembark onto this land; it is very lively.
+
+Page 2:
+In the evening, my father and I come to the water.
+We quietly watch the big ships sail back to sea. The light of the setting sun
+sprinkles on the waves, and this beautiful scenery cannot be described in words.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

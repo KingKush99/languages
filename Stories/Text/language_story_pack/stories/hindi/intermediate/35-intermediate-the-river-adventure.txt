@@ -1,0 +1,43 @@
+Story 35: The River Adventure
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 513-535 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+अमित और सुमित ने स्कूल में लकड़ी से एक सुंदर नाव बनाई।
+उन्होंने अपनी नाव को साफ नदी के पानी में चलाने का फैसला किया ताकि वे
+देख सकें कि नाव पानी पर कैसे चलती है।
+
+Page 2:
+नदी का बहाव शांत था, लेकिन रास्ते में गिरी हुई टहनियाँ और
+बड़े पत्थर थे। लड़के किनारे पर दौड़ रहे थे और परेशान थे कि क्या उनकी नाव
+इन बाधाओं से बच पाएगी।
+
+Page 3:
+आगे जाकर अमित ने नाव को पानी से सुरक्षित निकाल लिया। नाव
+बिल्कुल ठीक थी। लड़के घर लौटे और अपनी डायरी में नदी के पानी की गति के
+बारे में सब कुछ लिखा।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Amit and Sumit made a beautiful wooden boat during
+their school craft lesson. They decided to launch it in the clean river to see
+how it kept on the water.
+
+Page 2:
+The river current was calm, but along the boat's
+path, there were fallen branches and large stones. The boys ran along the bank,
+worrying whether their boat could bypass all these obstacles.
+
+Page 3:
+Downstream, Amit safely retrieved the boat from the
+water. It was completely undamaged. The boys returned home and recorded their
+observations of the river current's speed in detail in their journal. === END OF
+STORY 35 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

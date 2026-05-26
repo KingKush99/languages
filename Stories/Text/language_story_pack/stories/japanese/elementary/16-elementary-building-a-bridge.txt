@@ -1,0 +1,29 @@
+Story 16: Building a Bridge
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 149-164 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+私たちの村の近くには大きな川があります。向こう側の土地に行くには、いつも遠い道を歩かなければなりませんでした。それはとても不便でした。
+
+Page 2:
+人々は集まり、木を使って新しい橋を建てることにしました。みんなで手を使って一生懸命働き、ついに大きな橋が完成しました。これで簡単に行き来ができます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+There is a large river near our village. To go to
+the land on the other side, we always had to walk a long way. It was very
+inconvenient.
+
+Page 2:
+The people gathered and decided to build a new
+bridge using wood. Everyone worked hard using their hands, and finally, a large
+bridge was completed. Now we can cross back and forth easily. === END OF
+STORY 16 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

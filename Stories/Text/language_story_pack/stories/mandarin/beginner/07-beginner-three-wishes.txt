@@ -1,0 +1,19 @@
+Story 07: Three Wishes
+Language: Chinese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 53-60 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+我想告诉你。这里有一套三样东西。每样东西都想要新鲜的空气。这样运行得很好。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+I want to tell you. There is a set of three things
+here. Each thing wants fresh air. It runs well this way.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

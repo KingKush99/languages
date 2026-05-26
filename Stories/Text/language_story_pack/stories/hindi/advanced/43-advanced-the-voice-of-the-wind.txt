@@ -1,0 +1,61 @@
+Story 43: The Voice of the Wind
+Language: Hindi
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 721-755 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+वैज्ञानिक अमित पहाड़ों में एक मौसम स्टेशन पर काम करते थे। वह
+हवा की गति और तापमान को रिकॉर्ड करते थे। हाल ही में पहाड़ों में मौसम तेजी से
+बदलने लगा था।
+
+Page 2:
+अमित ने समझा कि पहाड़ के नीचे वाले छोटे गाँव की तरफ एक
+खतरनाक तूफ़ान आ रहा है। उसे लोगों को जल्दी सावधान करना था ताकि उनके
+घरों को बचाया जा सके।
+
+Page 3:
+वह जल्दी से गाँव में आया और लोगों को हवा के बारे में बताया।
+शुरू में कुछ लोगों ने विश्वास नहीं किया, लेकिन वैज्ञानिक आँकड़ों ने उन्हें
+तुरंत सुरक्षित जगह जाने के लिए मान लिया।
+
+Page 4:
+रात को एक बड़ा तूफ़ान आया। हवा ने घरों के पास के पेड़ों को
+तोड़ दिया। लेकिन अमित के काम के कारण सभी लोग पहले से ही एक मजबूत पत्थर के
+आश्रय में सुरक्षित थे।
+
+Page 5:
+सुबह तूफ़ान चला गया। गाँव को थोड़ा नुकसान हुआ, लेकिन लोगों
+की जान बच गई। लोगों ने अमित को धन्यवाद दिया और विज्ञान की उपयोगिता को समझा।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The scientist Amit worked at a weather station high
+in the mountains. He recorded wind speed and temperature. Recently, the weather
+in the mountains began to change rapidly.
+
+Page 2:
+Amit realized that a dangerous storm was heading
+towards the small village at the foot of the mountain. He needed to warn the
+people quickly to protect their homes.
+
+Page 3:
+He went down quickly to the village and told the
+people about the wind. Some did not believe at first, but the scientific data
+convinced them to agree to a temporary evacuation.
+
+Page 4:
+At night, a large storm raged. The wind broke trees
+near the houses. But thanks to Amit's work, all the residents were already safe
+inside a sturdy stone shelter.
+
+Page 5:
+In the morning, the storm left. The village was
+slightly damaged, but people's lives were saved. The residents thanked Amit and
+understood the utility of science.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

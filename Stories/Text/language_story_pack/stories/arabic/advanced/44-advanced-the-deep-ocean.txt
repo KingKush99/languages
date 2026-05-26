@@ -1,0 +1,63 @@
+Story 44: The Deep Ocean
+Language: Arabic
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 756-790 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+قام عالم المحيطات طارق ببناء جهاز غوص جديد ومتقدم. كان يخطط
+للنزول إلى أعمق نقطة في البحر لدراسة طبيعة الحياة المجهولة في قاع المحيط الشاسع.
+
+Page 2:
+على عمق عدة آلاف من الأمتار، كان هناك ظلام دامس وتام. لكن
+المصابيح القوية والحديثة الملحقة بالجهاز أضاءت عالماً غامضاً من الرمال والصخور
+والنباتات الغريبة.
+
+Page 3:
+فجأة، رأى طارق كائناً حياً صغيراً ومضيئاً بشكل رائع. كان
+هذا نوعاً جديداً ومثيراً غير معروف للعلم من قبل. التقط صوراً واضحة لل غاية
+لهذا الكائن الجميل.
+
+Page 4:
+أثناء العمل، انطفأت الأجهزة فجأة لثانية واحدة. لم يشعر طارق
+بالخوف أو الذعر. كان يعرف هيكل وبناء الجهاز جيداً، وأصلح المشكلة الكهربائية
+بيديه بسرعة وهدوء.
+
+Page 5:
+عاد طارق إلى السطح وعرض صوره على علماء العالم. ساعد اكتشافه
+الرائع الناس على فهم أعماق المحيط بشكل أفضل ومعرفة أهمية حماية طبيعته وبيئته
+المائية.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The oceanographer Tariq built a new and advanced
+diving device. He was planning to descend to the deepest point in the sea to
+study the nature of unknown life on the bottom of the vast ocean.
+
+Page 2:
+At a depth of several thousand meters, there was
+pitch and total darkness. But the powerful and modern lamps attached to the
+device illuminated a mysterious world of sand, rocks, and strange plants.
+
+Page 3:
+Suddenly, Tariq saw a small and beautifully glowing
+living creature. This was a exciting new species unknown to science before. He
+took extremely clear pictures of this beautiful creature.
+
+Page 4:
+During the work, the instruments suddenly turned
+off for one second. Tariq did not feel fear or panic. He knew the structure and
+build of the device well, and fixed the electrical problem with his hands
+quickly and calmly.
+
+Page 5:
+Tariq returned to the surface and displayed his
+pictures to the world's scientists. His wonderful discovery helped people better
+understand the ocean depths and know the importance of protecting its nature and
+marine environment.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

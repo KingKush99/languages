@@ -1,0 +1,32 @@
+Story 26: The World of Words
+Language: Arabic
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 306-320 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+تفتح الكلمات لنا طرقاً جديدة وتغير فهمنا للحياة كلياً. وفي
+كل يوم، أدرس معاني الكلمات الجديدة وأكتبها في دفتري لكي أتذكرها دائماً دون
+نسيان.
+
+Page 2:
+تساعد قراءة الكتب الإنسان في بناء عالمه الداخلي الخاص به.
+ومن خلال القراءة الكثيرة، نبدأ في فهم الآخرين بشكل أفضل ونصبح أكثر عطفاً
+ولطفاً مع الجميع.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Words open new paths for us and change our
+understanding of life entirely. Every day, I study the meanings of new words and
+write them in my notebook so that I always remember them without forgetting.
+
+Page 2:
+Reading books helps a person build their own inner
+world. Through reading a lot, we begin to understand others better and become
+more compassionate and kind to everyone.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

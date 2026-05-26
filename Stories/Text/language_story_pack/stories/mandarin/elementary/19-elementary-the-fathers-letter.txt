@@ -1,0 +1,28 @@
+Story 19: The Father's Letter
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 197-212 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+我的父亲因为工作去了一个很远的大港口城市。有一天，家里收到了一封他写的信。我非常高兴，立刻打开了它。
+
+Page 2:
+父亲在信中写到了那里美丽的大海、奇妙的地方和善良的人们。他承诺很快就会回家。我的心立刻安定了下来。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+My father went to a very far and large port city
+because of work. One day, a letter he wrote was received at home. I was very
+happy and opened it immediately.
+
+Page 2:
+Father wrote in the letter about the beautiful sea,
+wonderful places, and kind people there. He promised to come home very soon. My
+heart felt relieved immediately.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

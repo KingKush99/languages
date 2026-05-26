@@ -1,0 +1,39 @@
+Story 33: The Painting Class
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 465-488 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+每个星期六，小红都去上绘画课。今天的任务是从教室的大窗户画外面的河流和天空风景。她准备好大画布，把美丽的彩色彩色水彩颜料倒在桌上，十分渴望开始。
+
+Page 2:
+一小时后，天空中慢慢变成了美丽的橙色。河面上出现了夕阳光芒的倒影。小红仔细地在调色盘上混合红色和黄色，用画笔在画布上画下这温暖的光线。
+
+Page 3:
+在课结束时，大家的画都被挂在了墙上。尽管所有人画的都是同一个窗外风景，但每幅画都有自己独特的个性与美。小红明白，每个人看世界的目光都各不相同。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Every Saturday, Xiao Hong went to a painting class.
+Today's task was to paint the view of the river and sky outside from the large
+classroom window. She prepared her large canvas and put beautiful colorful
+watercolor paints on the table, very eager to start.
+
+Page 2:
+An hour later, the sky slowly began to turn into a
+beautiful orange. A beautiful reflection of the sunset's rays appeared on the
+river water. Xiao Hong carefully mixed red and yellow colors on her palette,
+using her brush to apply these warm lights onto the canvas.
+
+Page 3:
+At the end of the class, everyone's paintings were
+hung on the wall. Even though everyone painted the same view from the window,
+each painting had its own unique personality and beauty. Xiao Hong understood
+that each person sees the world with different eyes.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

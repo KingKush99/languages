@@ -1,0 +1,28 @@
+Story 13: The Lost Dog
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 101-116 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+有一天，一个小女孩在附近的森林里发现了一只迷路的小狗。小狗很害怕，而且觉得非常冷。女孩温柔地对它说话，让它安心。
+
+Page 2:
+女孩把小狗带回家，给了它温热的食物。小狗高兴地摇着尾巴。她的母亲和父亲也同意让它留下来，大家都很开心。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+One day, a little girl found a lost dog in the
+nearby forest. The dog was very scared and felt extremely cold. The girl spoke
+to it gently and made it feel safe.
+
+Page 2:
+The girl took the dog home and gave it warm food.
+The dog happily wagged its tail. Her mother and father also agreed to let it
+stay, and everyone was very happy.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

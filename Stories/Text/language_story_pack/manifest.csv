@@ -1,251 +1,251 @@
 language,story_number,title,level,pages,word_range,new_words,filename
-Russian,1,Morning at Home,Beginner,1,1-9,9,stories/russian/beginner/01-beginner-morning-at-home.txt
-Russian,2,Tea on the Table,Beginner,1,10-18,9,stories/russian/beginner/02-beginner-tea-on-the-table.txt
-Russian,3,The Open Window,Beginner,1,19-27,9,stories/russian/beginner/03-beginner-the-open-window.txt
-Russian,4,Walking to the Park,Beginner,1,28-36,9,stories/russian/beginner/04-beginner-walking-to-the-park.txt
-Russian,5,A Quiet Street,Beginner,1,37-44,8,stories/russian/beginner/05-beginner-a-quiet-street.txt
-Russian,6,The First Book,Beginner,1,45-52,8,stories/russian/beginner/06-beginner-the-first-book.txt
-Russian,7,A Good Day,Beginner,1,53-60,8,stories/russian/beginner/07-beginner-a-good-day.txt
-Russian,8,At School,Beginner,1,61-68,8,stories/russian/beginner/08-beginner-at-school.txt
-Russian,9,At the Store,Beginner,1,69-76,8,stories/russian/beginner/09-beginner-at-the-store.txt
-Russian,10,At the Station,Beginner,1,77-84,8,stories/russian/beginner/10-beginner-at-the-station.txt
-Russian,11,A Simple Call,Beginner,1,85-92,8,stories/russian/beginner/11-beginner-a-simple-call.txt
-Russian,12,I Know This Word,Beginner,1,93-100,8,stories/russian/beginner/12-beginner-i-know-this-word.txt
-Russian,13,The Library Window,Elementary,2,101-116,16,stories/russian/elementary/13-elementary-the-library-window.txt
-Russian,14,The Museum Visit,Elementary,2,117-132,16,stories/russian/elementary/14-elementary-the-museum-visit.txt
-Russian,15,The Cafe Notebook,Elementary,2,133-148,16,stories/russian/elementary/15-elementary-the-cafe-notebook.txt
-Russian,16,Rain Near the Door,Elementary,2,149-164,16,stories/russian/elementary/16-elementary-rain-near-the-door.txt
-Russian,17,The Letter on the Table,Elementary,2,165-180,16,stories/russian/elementary/17-elementary-the-letter-on-the-table.txt
-Russian,18,Words in the Park,Elementary,2,181-196,16,stories/russian/elementary/18-elementary-words-in-the-park.txt
-Russian,19,The Little Plan,Elementary,2,197-212,16,stories/russian/elementary/19-elementary-the-little-plan.txt
-Russian,20,The News Page,Elementary,2,213-228,16,stories/russian/elementary/20-elementary-the-news-page.txt
-Russian,21,The Family Walk,Elementary,2,229-244,16,stories/russian/elementary/21-elementary-the-family-walk.txt
-Russian,22,The Quiet Room,Elementary,2,245-260,16,stories/russian/elementary/22-elementary-the-quiet-room.txt
-Russian,23,The New Teacher,Elementary,2,261-275,15,stories/russian/elementary/23-elementary-the-new-teacher.txt
-Russian,24,The Bus Stop,Elementary,2,276-290,15,stories/russian/elementary/24-elementary-the-bus-stop.txt
-Russian,25,The Small Market,Elementary,2,291-305,15,stories/russian/elementary/25-elementary-the-small-market.txt
-Russian,26,The First Conversation,Elementary,2,306-320,15,stories/russian/elementary/26-elementary-the-first-conversation.txt
-Russian,27,The Lost Note,Intermediate,3,321-344,24,stories/russian/intermediate/27-intermediate-the-lost-note.txt
-Russian,28,A Meeting at Noon,Intermediate,3,345-368,24,stories/russian/intermediate/28-intermediate-a-meeting-at-noon.txt
-Russian,29,The Old Map,Intermediate,3,369-392,24,stories/russian/intermediate/29-intermediate-the-old-map.txt
-Russian,30,The Rainy Lesson,Intermediate,3,393-416,24,stories/russian/intermediate/30-intermediate-the-rainy-lesson.txt
-Russian,31,The Museum Question,Intermediate,3,417-440,24,stories/russian/intermediate/31-intermediate-the-museum-question.txt
-Russian,32,The Train Delay,Intermediate,3,441-464,24,stories/russian/intermediate/32-intermediate-the-train-delay.txt
-Russian,33,Music in the Cafe,Intermediate,3,465-488,24,stories/russian/intermediate/33-intermediate-music-in-the-cafe.txt
-Russian,34,A Letter from a Friend,Intermediate,3,489-512,24,stories/russian/intermediate/34-intermediate-a-letter-from-a-friend.txt
-Russian,35,The School Project,Intermediate,3,513-535,23,stories/russian/intermediate/35-intermediate-the-school-project.txt
-Russian,36,The City Walk,Intermediate,3,536-558,23,stories/russian/intermediate/36-intermediate-the-city-walk.txt
-Russian,37,The Bookshop Door,Intermediate,3,559-581,23,stories/russian/intermediate/37-intermediate-the-bookshop-door.txt
-Russian,38,The Family Story,Intermediate,3,582-604,23,stories/russian/intermediate/38-intermediate-the-family-story.txt
-Russian,39,The Important Word,Intermediate,3,605-627,23,stories/russian/intermediate/39-intermediate-the-important-word.txt
-Russian,40,Closer Every Day,Intermediate,3,628-650,23,stories/russian/intermediate/40-intermediate-closer-every-day.txt
-Russian,41,The Long Walk Through the City,Advanced,5,651-685,35,stories/russian/advanced/41-advanced-the-long-walk-through-the-city.txt
-Russian,42,The Forgotten Invitation,Advanced,5,686-720,35,stories/russian/advanced/42-advanced-the-forgotten-invitation.txt
-Russian,43,The History Room,Advanced,5,721-755,35,stories/russian/advanced/43-advanced-the-history-room.txt
-Russian,44,The Quiet Train,Advanced,5,756-790,35,stories/russian/advanced/44-advanced-the-quiet-train.txt
-Russian,45,A Plan for Tomorrow,Advanced,5,791-825,35,stories/russian/advanced/45-advanced-a-plan-for-tomorrow.txt
-Russian,46,News from the Cafe,Advanced,5,826-860,35,stories/russian/advanced/46-advanced-news-from-the-cafe.txt
-Russian,47,The Word That Changed the Day,Advanced,5,861-895,35,stories/russian/advanced/47-advanced-the-word-that-changed-the-day.txt
-Russian,48,The Meeting at the University,Advanced,5,896-930,35,stories/russian/advanced/48-advanced-the-meeting-at-the-university.txt
-Russian,49,The Letter and the Map,Advanced,5,931-965,35,stories/russian/advanced/49-advanced-the-letter-and-the-map.txt
-Russian,50,The Language Feels Close,Advanced,5,966-1000,35,stories/russian/advanced/50-advanced-the-language-feels-close.txt
-Hindi,1,Morning at Home,Beginner,1,1-9,9,stories/hindi/beginner/01-beginner-morning-at-home.txt
-Hindi,2,Tea on the Table,Beginner,1,10-18,9,stories/hindi/beginner/02-beginner-tea-on-the-table.txt
-Hindi,3,The Open Window,Beginner,1,19-27,9,stories/hindi/beginner/03-beginner-the-open-window.txt
-Hindi,4,Walking to the Park,Beginner,1,28-36,9,stories/hindi/beginner/04-beginner-walking-to-the-park.txt
-Hindi,5,A Quiet Street,Beginner,1,37-44,8,stories/hindi/beginner/05-beginner-a-quiet-street.txt
-Hindi,6,The First Book,Beginner,1,45-52,8,stories/hindi/beginner/06-beginner-the-first-book.txt
-Hindi,7,A Good Day,Beginner,1,53-60,8,stories/hindi/beginner/07-beginner-a-good-day.txt
-Hindi,8,At School,Beginner,1,61-68,8,stories/hindi/beginner/08-beginner-at-school.txt
-Hindi,9,At the Store,Beginner,1,69-76,8,stories/hindi/beginner/09-beginner-at-the-store.txt
-Hindi,10,At the Station,Beginner,1,77-84,8,stories/hindi/beginner/10-beginner-at-the-station.txt
-Hindi,11,A Simple Call,Beginner,1,85-92,8,stories/hindi/beginner/11-beginner-a-simple-call.txt
-Hindi,12,I Know This Word,Beginner,1,93-100,8,stories/hindi/beginner/12-beginner-i-know-this-word.txt
-Hindi,13,The Library Window,Elementary,2,101-116,16,stories/hindi/elementary/13-elementary-the-library-window.txt
-Hindi,14,The Museum Visit,Elementary,2,117-132,16,stories/hindi/elementary/14-elementary-the-museum-visit.txt
-Hindi,15,The Cafe Notebook,Elementary,2,133-148,16,stories/hindi/elementary/15-elementary-the-cafe-notebook.txt
-Hindi,16,Rain Near the Door,Elementary,2,149-164,16,stories/hindi/elementary/16-elementary-rain-near-the-door.txt
-Hindi,17,The Letter on the Table,Elementary,2,165-180,16,stories/hindi/elementary/17-elementary-the-letter-on-the-table.txt
-Hindi,18,Words in the Park,Elementary,2,181-196,16,stories/hindi/elementary/18-elementary-words-in-the-park.txt
-Hindi,19,The Little Plan,Elementary,2,197-212,16,stories/hindi/elementary/19-elementary-the-little-plan.txt
-Hindi,20,The News Page,Elementary,2,213-228,16,stories/hindi/elementary/20-elementary-the-news-page.txt
-Hindi,21,The Family Walk,Elementary,2,229-244,16,stories/hindi/elementary/21-elementary-the-family-walk.txt
-Hindi,22,The Quiet Room,Elementary,2,245-260,16,stories/hindi/elementary/22-elementary-the-quiet-room.txt
-Hindi,23,The New Teacher,Elementary,2,261-275,15,stories/hindi/elementary/23-elementary-the-new-teacher.txt
-Hindi,24,The Bus Stop,Elementary,2,276-290,15,stories/hindi/elementary/24-elementary-the-bus-stop.txt
-Hindi,25,The Small Market,Elementary,2,291-305,15,stories/hindi/elementary/25-elementary-the-small-market.txt
-Hindi,26,The First Conversation,Elementary,2,306-320,15,stories/hindi/elementary/26-elementary-the-first-conversation.txt
-Hindi,27,The Lost Note,Intermediate,3,321-344,24,stories/hindi/intermediate/27-intermediate-the-lost-note.txt
-Hindi,28,A Meeting at Noon,Intermediate,3,345-368,24,stories/hindi/intermediate/28-intermediate-a-meeting-at-noon.txt
-Hindi,29,The Old Map,Intermediate,3,369-392,24,stories/hindi/intermediate/29-intermediate-the-old-map.txt
-Hindi,30,The Rainy Lesson,Intermediate,3,393-416,24,stories/hindi/intermediate/30-intermediate-the-rainy-lesson.txt
-Hindi,31,The Museum Question,Intermediate,3,417-440,24,stories/hindi/intermediate/31-intermediate-the-museum-question.txt
-Hindi,32,The Train Delay,Intermediate,3,441-464,24,stories/hindi/intermediate/32-intermediate-the-train-delay.txt
-Hindi,33,Music in the Cafe,Intermediate,3,465-488,24,stories/hindi/intermediate/33-intermediate-music-in-the-cafe.txt
-Hindi,34,A Letter from a Friend,Intermediate,3,489-512,24,stories/hindi/intermediate/34-intermediate-a-letter-from-a-friend.txt
-Hindi,35,The School Project,Intermediate,3,513-535,23,stories/hindi/intermediate/35-intermediate-the-school-project.txt
-Hindi,36,The City Walk,Intermediate,3,536-558,23,stories/hindi/intermediate/36-intermediate-the-city-walk.txt
-Hindi,37,The Bookshop Door,Intermediate,3,559-581,23,stories/hindi/intermediate/37-intermediate-the-bookshop-door.txt
-Hindi,38,The Family Story,Intermediate,3,582-604,23,stories/hindi/intermediate/38-intermediate-the-family-story.txt
-Hindi,39,The Important Word,Intermediate,3,605-627,23,stories/hindi/intermediate/39-intermediate-the-important-word.txt
-Hindi,40,Closer Every Day,Intermediate,3,628-650,23,stories/hindi/intermediate/40-intermediate-closer-every-day.txt
-Hindi,41,The Long Walk Through the City,Advanced,5,651-685,35,stories/hindi/advanced/41-advanced-the-long-walk-through-the-city.txt
-Hindi,42,The Forgotten Invitation,Advanced,5,686-720,35,stories/hindi/advanced/42-advanced-the-forgotten-invitation.txt
-Hindi,43,The History Room,Advanced,5,721-755,35,stories/hindi/advanced/43-advanced-the-history-room.txt
-Hindi,44,The Quiet Train,Advanced,5,756-790,35,stories/hindi/advanced/44-advanced-the-quiet-train.txt
-Hindi,45,A Plan for Tomorrow,Advanced,5,791-825,35,stories/hindi/advanced/45-advanced-a-plan-for-tomorrow.txt
-Hindi,46,News from the Cafe,Advanced,5,826-860,35,stories/hindi/advanced/46-advanced-news-from-the-cafe.txt
-Hindi,47,The Word That Changed the Day,Advanced,5,861-895,35,stories/hindi/advanced/47-advanced-the-word-that-changed-the-day.txt
-Hindi,48,The Meeting at the University,Advanced,5,896-930,35,stories/hindi/advanced/48-advanced-the-meeting-at-the-university.txt
-Hindi,49,The Letter and the Map,Advanced,5,931-965,35,stories/hindi/advanced/49-advanced-the-letter-and-the-map.txt
-Hindi,50,The Language Feels Close,Advanced,5,966-1000,35,stories/hindi/advanced/50-advanced-the-language-feels-close.txt
-Arabic,1,Morning at Home,Beginner,1,1-9,9,stories/arabic/beginner/01-beginner-morning-at-home.txt
-Arabic,2,Tea on the Table,Beginner,1,10-18,9,stories/arabic/beginner/02-beginner-tea-on-the-table.txt
-Arabic,3,The Open Window,Beginner,1,19-27,9,stories/arabic/beginner/03-beginner-the-open-window.txt
-Arabic,4,Walking to the Park,Beginner,1,28-36,9,stories/arabic/beginner/04-beginner-walking-to-the-park.txt
-Arabic,5,A Quiet Street,Beginner,1,37-44,8,stories/arabic/beginner/05-beginner-a-quiet-street.txt
-Arabic,6,The First Book,Beginner,1,45-52,8,stories/arabic/beginner/06-beginner-the-first-book.txt
-Arabic,7,A Good Day,Beginner,1,53-60,8,stories/arabic/beginner/07-beginner-a-good-day.txt
-Arabic,8,At School,Beginner,1,61-68,8,stories/arabic/beginner/08-beginner-at-school.txt
-Arabic,9,At the Store,Beginner,1,69-76,8,stories/arabic/beginner/09-beginner-at-the-store.txt
-Arabic,10,At the Station,Beginner,1,77-84,8,stories/arabic/beginner/10-beginner-at-the-station.txt
-Arabic,11,A Simple Call,Beginner,1,85-92,8,stories/arabic/beginner/11-beginner-a-simple-call.txt
-Arabic,12,I Know This Word,Beginner,1,93-100,8,stories/arabic/beginner/12-beginner-i-know-this-word.txt
-Arabic,13,The Library Window,Elementary,2,101-116,16,stories/arabic/elementary/13-elementary-the-library-window.txt
-Arabic,14,The Museum Visit,Elementary,2,117-132,16,stories/arabic/elementary/14-elementary-the-museum-visit.txt
-Arabic,15,The Cafe Notebook,Elementary,2,133-148,16,stories/arabic/elementary/15-elementary-the-cafe-notebook.txt
-Arabic,16,Rain Near the Door,Elementary,2,149-164,16,stories/arabic/elementary/16-elementary-rain-near-the-door.txt
-Arabic,17,The Letter on the Table,Elementary,2,165-180,16,stories/arabic/elementary/17-elementary-the-letter-on-the-table.txt
-Arabic,18,Words in the Park,Elementary,2,181-196,16,stories/arabic/elementary/18-elementary-words-in-the-park.txt
-Arabic,19,The Little Plan,Elementary,2,197-212,16,stories/arabic/elementary/19-elementary-the-little-plan.txt
-Arabic,20,The News Page,Elementary,2,213-228,16,stories/arabic/elementary/20-elementary-the-news-page.txt
-Arabic,21,The Family Walk,Elementary,2,229-244,16,stories/arabic/elementary/21-elementary-the-family-walk.txt
-Arabic,22,The Quiet Room,Elementary,2,245-260,16,stories/arabic/elementary/22-elementary-the-quiet-room.txt
-Arabic,23,The New Teacher,Elementary,2,261-275,15,stories/arabic/elementary/23-elementary-the-new-teacher.txt
-Arabic,24,The Bus Stop,Elementary,2,276-290,15,stories/arabic/elementary/24-elementary-the-bus-stop.txt
-Arabic,25,The Small Market,Elementary,2,291-305,15,stories/arabic/elementary/25-elementary-the-small-market.txt
-Arabic,26,The First Conversation,Elementary,2,306-320,15,stories/arabic/elementary/26-elementary-the-first-conversation.txt
-Arabic,27,The Lost Note,Intermediate,3,321-344,24,stories/arabic/intermediate/27-intermediate-the-lost-note.txt
-Arabic,28,A Meeting at Noon,Intermediate,3,345-368,24,stories/arabic/intermediate/28-intermediate-a-meeting-at-noon.txt
-Arabic,29,The Old Map,Intermediate,3,369-392,24,stories/arabic/intermediate/29-intermediate-the-old-map.txt
-Arabic,30,The Rainy Lesson,Intermediate,3,393-416,24,stories/arabic/intermediate/30-intermediate-the-rainy-lesson.txt
-Arabic,31,The Museum Question,Intermediate,3,417-440,24,stories/arabic/intermediate/31-intermediate-the-museum-question.txt
-Arabic,32,The Train Delay,Intermediate,3,441-464,24,stories/arabic/intermediate/32-intermediate-the-train-delay.txt
-Arabic,33,Music in the Cafe,Intermediate,3,465-488,24,stories/arabic/intermediate/33-intermediate-music-in-the-cafe.txt
-Arabic,34,A Letter from a Friend,Intermediate,3,489-512,24,stories/arabic/intermediate/34-intermediate-a-letter-from-a-friend.txt
-Arabic,35,The School Project,Intermediate,3,513-535,23,stories/arabic/intermediate/35-intermediate-the-school-project.txt
-Arabic,36,The City Walk,Intermediate,3,536-558,23,stories/arabic/intermediate/36-intermediate-the-city-walk.txt
-Arabic,37,The Bookshop Door,Intermediate,3,559-581,23,stories/arabic/intermediate/37-intermediate-the-bookshop-door.txt
-Arabic,38,The Family Story,Intermediate,3,582-604,23,stories/arabic/intermediate/38-intermediate-the-family-story.txt
-Arabic,39,The Important Word,Intermediate,3,605-627,23,stories/arabic/intermediate/39-intermediate-the-important-word.txt
-Arabic,40,Closer Every Day,Intermediate,3,628-650,23,stories/arabic/intermediate/40-intermediate-closer-every-day.txt
-Arabic,41,The Long Walk Through the City,Advanced,5,651-685,35,stories/arabic/advanced/41-advanced-the-long-walk-through-the-city.txt
-Arabic,42,The Forgotten Invitation,Advanced,5,686-720,35,stories/arabic/advanced/42-advanced-the-forgotten-invitation.txt
-Arabic,43,The History Room,Advanced,5,721-755,35,stories/arabic/advanced/43-advanced-the-history-room.txt
-Arabic,44,The Quiet Train,Advanced,5,756-790,35,stories/arabic/advanced/44-advanced-the-quiet-train.txt
-Arabic,45,A Plan for Tomorrow,Advanced,5,791-825,35,stories/arabic/advanced/45-advanced-a-plan-for-tomorrow.txt
-Arabic,46,News from the Cafe,Advanced,5,826-860,35,stories/arabic/advanced/46-advanced-news-from-the-cafe.txt
-Arabic,47,The Word That Changed the Day,Advanced,5,861-895,35,stories/arabic/advanced/47-advanced-the-word-that-changed-the-day.txt
-Arabic,48,The Meeting at the University,Advanced,5,896-930,35,stories/arabic/advanced/48-advanced-the-meeting-at-the-university.txt
-Arabic,49,The Letter and the Map,Advanced,5,931-965,35,stories/arabic/advanced/49-advanced-the-letter-and-the-map.txt
-Arabic,50,The Language Feels Close,Advanced,5,966-1000,35,stories/arabic/advanced/50-advanced-the-language-feels-close.txt
-Japanese,1,Morning at Home,Beginner,1,1-9,9,stories/japanese/beginner/01-beginner-morning-at-home.txt
-Japanese,2,Tea on the Table,Beginner,1,10-18,9,stories/japanese/beginner/02-beginner-tea-on-the-table.txt
-Japanese,3,The Open Window,Beginner,1,19-27,9,stories/japanese/beginner/03-beginner-the-open-window.txt
-Japanese,4,Walking to the Park,Beginner,1,28-36,9,stories/japanese/beginner/04-beginner-walking-to-the-park.txt
-Japanese,5,A Quiet Street,Beginner,1,37-44,8,stories/japanese/beginner/05-beginner-a-quiet-street.txt
-Japanese,6,The First Book,Beginner,1,45-52,8,stories/japanese/beginner/06-beginner-the-first-book.txt
-Japanese,7,A Good Day,Beginner,1,53-60,8,stories/japanese/beginner/07-beginner-a-good-day.txt
-Japanese,8,At School,Beginner,1,61-68,8,stories/japanese/beginner/08-beginner-at-school.txt
-Japanese,9,At the Store,Beginner,1,69-76,8,stories/japanese/beginner/09-beginner-at-the-store.txt
-Japanese,10,At the Station,Beginner,1,77-84,8,stories/japanese/beginner/10-beginner-at-the-station.txt
-Japanese,11,A Simple Call,Beginner,1,85-92,8,stories/japanese/beginner/11-beginner-a-simple-call.txt
-Japanese,12,I Know This Word,Beginner,1,93-100,8,stories/japanese/beginner/12-beginner-i-know-this-word.txt
-Japanese,13,The Library Window,Elementary,2,101-116,16,stories/japanese/elementary/13-elementary-the-library-window.txt
-Japanese,14,The Museum Visit,Elementary,2,117-132,16,stories/japanese/elementary/14-elementary-the-museum-visit.txt
-Japanese,15,The Cafe Notebook,Elementary,2,133-148,16,stories/japanese/elementary/15-elementary-the-cafe-notebook.txt
-Japanese,16,Rain Near the Door,Elementary,2,149-164,16,stories/japanese/elementary/16-elementary-rain-near-the-door.txt
-Japanese,17,The Letter on the Table,Elementary,2,165-180,16,stories/japanese/elementary/17-elementary-the-letter-on-the-table.txt
-Japanese,18,Words in the Park,Elementary,2,181-196,16,stories/japanese/elementary/18-elementary-words-in-the-park.txt
-Japanese,19,The Little Plan,Elementary,2,197-212,16,stories/japanese/elementary/19-elementary-the-little-plan.txt
-Japanese,20,The News Page,Elementary,2,213-228,16,stories/japanese/elementary/20-elementary-the-news-page.txt
-Japanese,21,The Family Walk,Elementary,2,229-244,16,stories/japanese/elementary/21-elementary-the-family-walk.txt
-Japanese,22,The Quiet Room,Elementary,2,245-260,16,stories/japanese/elementary/22-elementary-the-quiet-room.txt
-Japanese,23,The New Teacher,Elementary,2,261-275,15,stories/japanese/elementary/23-elementary-the-new-teacher.txt
-Japanese,24,The Bus Stop,Elementary,2,276-290,15,stories/japanese/elementary/24-elementary-the-bus-stop.txt
-Japanese,25,The Small Market,Elementary,2,291-305,15,stories/japanese/elementary/25-elementary-the-small-market.txt
-Japanese,26,The First Conversation,Elementary,2,306-320,15,stories/japanese/elementary/26-elementary-the-first-conversation.txt
-Japanese,27,The Lost Note,Intermediate,3,321-344,24,stories/japanese/intermediate/27-intermediate-the-lost-note.txt
-Japanese,28,A Meeting at Noon,Intermediate,3,345-368,24,stories/japanese/intermediate/28-intermediate-a-meeting-at-noon.txt
-Japanese,29,The Old Map,Intermediate,3,369-392,24,stories/japanese/intermediate/29-intermediate-the-old-map.txt
-Japanese,30,The Rainy Lesson,Intermediate,3,393-416,24,stories/japanese/intermediate/30-intermediate-the-rainy-lesson.txt
-Japanese,31,The Museum Question,Intermediate,3,417-440,24,stories/japanese/intermediate/31-intermediate-the-museum-question.txt
-Japanese,32,The Train Delay,Intermediate,3,441-464,24,stories/japanese/intermediate/32-intermediate-the-train-delay.txt
-Japanese,33,Music in the Cafe,Intermediate,3,465-488,24,stories/japanese/intermediate/33-intermediate-music-in-the-cafe.txt
-Japanese,34,A Letter from a Friend,Intermediate,3,489-512,24,stories/japanese/intermediate/34-intermediate-a-letter-from-a-friend.txt
-Japanese,35,The School Project,Intermediate,3,513-535,23,stories/japanese/intermediate/35-intermediate-the-school-project.txt
-Japanese,36,The City Walk,Intermediate,3,536-558,23,stories/japanese/intermediate/36-intermediate-the-city-walk.txt
-Japanese,37,The Bookshop Door,Intermediate,3,559-581,23,stories/japanese/intermediate/37-intermediate-the-bookshop-door.txt
-Japanese,38,The Family Story,Intermediate,3,582-604,23,stories/japanese/intermediate/38-intermediate-the-family-story.txt
-Japanese,39,The Important Word,Intermediate,3,605-627,23,stories/japanese/intermediate/39-intermediate-the-important-word.txt
-Japanese,40,Closer Every Day,Intermediate,3,628-650,23,stories/japanese/intermediate/40-intermediate-closer-every-day.txt
-Japanese,41,The Long Walk Through the City,Advanced,5,651-685,35,stories/japanese/advanced/41-advanced-the-long-walk-through-the-city.txt
-Japanese,42,The Forgotten Invitation,Advanced,5,686-720,35,stories/japanese/advanced/42-advanced-the-forgotten-invitation.txt
-Japanese,43,The History Room,Advanced,5,721-755,35,stories/japanese/advanced/43-advanced-the-history-room.txt
-Japanese,44,The Quiet Train,Advanced,5,756-790,35,stories/japanese/advanced/44-advanced-the-quiet-train.txt
-Japanese,45,A Plan for Tomorrow,Advanced,5,791-825,35,stories/japanese/advanced/45-advanced-a-plan-for-tomorrow.txt
-Japanese,46,News from the Cafe,Advanced,5,826-860,35,stories/japanese/advanced/46-advanced-news-from-the-cafe.txt
-Japanese,47,The Word That Changed the Day,Advanced,5,861-895,35,stories/japanese/advanced/47-advanced-the-word-that-changed-the-day.txt
-Japanese,48,The Meeting at the University,Advanced,5,896-930,35,stories/japanese/advanced/48-advanced-the-meeting-at-the-university.txt
-Japanese,49,The Letter and the Map,Advanced,5,931-965,35,stories/japanese/advanced/49-advanced-the-letter-and-the-map.txt
-Japanese,50,The Language Feels Close,Advanced,5,966-1000,35,stories/japanese/advanced/50-advanced-the-language-feels-close.txt
-Chinese,1,Morning at Home,Beginner,1,1-9,9,stories/mandarin/beginner/01-beginner-morning-at-home.txt
-Chinese,2,Tea on the Table,Beginner,1,10-18,9,stories/mandarin/beginner/02-beginner-tea-on-the-table.txt
-Chinese,3,The Open Window,Beginner,1,19-27,9,stories/mandarin/beginner/03-beginner-the-open-window.txt
-Chinese,4,Walking to the Park,Beginner,1,28-36,9,stories/mandarin/beginner/04-beginner-walking-to-the-park.txt
-Chinese,5,A Quiet Street,Beginner,1,37-44,8,stories/mandarin/beginner/05-beginner-a-quiet-street.txt
-Chinese,6,The First Book,Beginner,1,45-52,8,stories/mandarin/beginner/06-beginner-the-first-book.txt
-Chinese,7,A Good Day,Beginner,1,53-60,8,stories/mandarin/beginner/07-beginner-a-good-day.txt
-Chinese,8,At School,Beginner,1,61-68,8,stories/mandarin/beginner/08-beginner-at-school.txt
-Chinese,9,At the Store,Beginner,1,69-76,8,stories/mandarin/beginner/09-beginner-at-the-store.txt
-Chinese,10,At the Station,Beginner,1,77-84,8,stories/mandarin/beginner/10-beginner-at-the-station.txt
-Chinese,11,A Simple Call,Beginner,1,85-92,8,stories/mandarin/beginner/11-beginner-a-simple-call.txt
-Chinese,12,I Know This Word,Beginner,1,93-100,8,stories/mandarin/beginner/12-beginner-i-know-this-word.txt
-Chinese,13,The Library Window,Elementary,2,101-116,16,stories/mandarin/elementary/13-elementary-the-library-window.txt
-Chinese,14,The Museum Visit,Elementary,2,117-132,16,stories/mandarin/elementary/14-elementary-the-museum-visit.txt
-Chinese,15,The Cafe Notebook,Elementary,2,133-148,16,stories/mandarin/elementary/15-elementary-the-cafe-notebook.txt
-Chinese,16,Rain Near the Door,Elementary,2,149-164,16,stories/mandarin/elementary/16-elementary-rain-near-the-door.txt
-Chinese,17,The Letter on the Table,Elementary,2,165-180,16,stories/mandarin/elementary/17-elementary-the-letter-on-the-table.txt
-Chinese,18,Words in the Park,Elementary,2,181-196,16,stories/mandarin/elementary/18-elementary-words-in-the-park.txt
-Chinese,19,The Little Plan,Elementary,2,197-212,16,stories/mandarin/elementary/19-elementary-the-little-plan.txt
-Chinese,20,The News Page,Elementary,2,213-228,16,stories/mandarin/elementary/20-elementary-the-news-page.txt
-Chinese,21,The Family Walk,Elementary,2,229-244,16,stories/mandarin/elementary/21-elementary-the-family-walk.txt
-Chinese,22,The Quiet Room,Elementary,2,245-260,16,stories/mandarin/elementary/22-elementary-the-quiet-room.txt
-Chinese,23,The New Teacher,Elementary,2,261-275,15,stories/mandarin/elementary/23-elementary-the-new-teacher.txt
-Chinese,24,The Bus Stop,Elementary,2,276-290,15,stories/mandarin/elementary/24-elementary-the-bus-stop.txt
-Chinese,25,The Small Market,Elementary,2,291-305,15,stories/mandarin/elementary/25-elementary-the-small-market.txt
-Chinese,26,The First Conversation,Elementary,2,306-320,15,stories/mandarin/elementary/26-elementary-the-first-conversation.txt
-Chinese,27,The Lost Note,Intermediate,3,321-344,24,stories/mandarin/intermediate/27-intermediate-the-lost-note.txt
-Chinese,28,A Meeting at Noon,Intermediate,3,345-368,24,stories/mandarin/intermediate/28-intermediate-a-meeting-at-noon.txt
-Chinese,29,The Old Map,Intermediate,3,369-392,24,stories/mandarin/intermediate/29-intermediate-the-old-map.txt
-Chinese,30,The Rainy Lesson,Intermediate,3,393-416,24,stories/mandarin/intermediate/30-intermediate-the-rainy-lesson.txt
-Chinese,31,The Museum Question,Intermediate,3,417-440,24,stories/mandarin/intermediate/31-intermediate-the-museum-question.txt
-Chinese,32,The Train Delay,Intermediate,3,441-464,24,stories/mandarin/intermediate/32-intermediate-the-train-delay.txt
-Chinese,33,Music in the Cafe,Intermediate,3,465-488,24,stories/mandarin/intermediate/33-intermediate-music-in-the-cafe.txt
-Chinese,34,A Letter from a Friend,Intermediate,3,489-512,24,stories/mandarin/intermediate/34-intermediate-a-letter-from-a-friend.txt
-Chinese,35,The School Project,Intermediate,3,513-535,23,stories/mandarin/intermediate/35-intermediate-the-school-project.txt
-Chinese,36,The City Walk,Intermediate,3,536-558,23,stories/mandarin/intermediate/36-intermediate-the-city-walk.txt
-Chinese,37,The Bookshop Door,Intermediate,3,559-581,23,stories/mandarin/intermediate/37-intermediate-the-bookshop-door.txt
-Chinese,38,The Family Story,Intermediate,3,582-604,23,stories/mandarin/intermediate/38-intermediate-the-family-story.txt
-Chinese,39,The Important Word,Intermediate,3,605-627,23,stories/mandarin/intermediate/39-intermediate-the-important-word.txt
-Chinese,40,Closer Every Day,Intermediate,3,628-650,23,stories/mandarin/intermediate/40-intermediate-closer-every-day.txt
-Chinese,41,The Long Walk Through the City,Advanced,5,651-685,35,stories/mandarin/advanced/41-advanced-the-long-walk-through-the-city.txt
-Chinese,42,The Forgotten Invitation,Advanced,5,686-720,35,stories/mandarin/advanced/42-advanced-the-forgotten-invitation.txt
-Chinese,43,The History Room,Advanced,5,721-755,35,stories/mandarin/advanced/43-advanced-the-history-room.txt
-Chinese,44,The Quiet Train,Advanced,5,756-790,35,stories/mandarin/advanced/44-advanced-the-quiet-train.txt
-Chinese,45,A Plan for Tomorrow,Advanced,5,791-825,35,stories/mandarin/advanced/45-advanced-a-plan-for-tomorrow.txt
-Chinese,46,News from the Cafe,Advanced,5,826-860,35,stories/mandarin/advanced/46-advanced-news-from-the-cafe.txt
-Chinese,47,The Word That Changed the Day,Advanced,5,861-895,35,stories/mandarin/advanced/47-advanced-the-word-that-changed-the-day.txt
-Chinese,48,The Meeting at the University,Advanced,5,896-930,35,stories/mandarin/advanced/48-advanced-the-meeting-at-the-university.txt
-Chinese,49,The Letter and the Map,Advanced,5,931-965,35,stories/mandarin/advanced/49-advanced-the-letter-and-the-map.txt
-Chinese,50,The Language Feels Close,Advanced,5,966-1000,35,stories/mandarin/advanced/50-advanced-the-language-feels-close.txt
+Russian,1,The Book,Beginner,1,1-9,9,stories/russian/beginner/01-beginner-the-book.txt
+Russian,2,Gathering at Home,Beginner,1,10-18,9,stories/russian/beginner/02-beginner-gathering-at-home.txt
+Russian,3,A Hot Day,Beginner,1,19-27,9,stories/russian/beginner/03-beginner-a-hot-day.txt
+Russian,4,The Choice,Beginner,1,28-36,9,stories/russian/beginner/04-beginner-the-choice.txt
+Russian,5,The New Room,Beginner,1,37-44,8,stories/russian/beginner/05-beginner-the-new-room.txt
+Russian,6,The Plan,Beginner,1,45-52,8,stories/russian/beginner/06-beginner-the-plan.txt
+Russian,7,Three Wishes,Beginner,1,53-60,8,stories/russian/beginner/07-beginner-three-wishes.txt
+Russian,8,A Quiet Night,Beginner,1,61-68,8,stories/russian/beginner/08-beginner-a-quiet-night.txt
+Russian,9,The Large Port,Beginner,1,69-76,8,stories/russian/beginner/09-beginner-the-large-port.txt
+Russian,10,The Path to Change,Beginner,1,77-84,8,stories/russian/beginner/10-beginner-the-path-to-change.txt
+Russian,11,The New Picture,Beginner,1,85-92,8,stories/russian/beginner/11-beginner-the-new-picture.txt
+Russian,12,Our World,Beginner,1,93-100,8,stories/russian/beginner/12-beginner-our-world.txt
+Russian,13,The Lost Dog,Elementary,2,101-116,16,stories/russian/elementary/13-elementary-the-lost-dog.txt
+Russian,14,The New House,Elementary,2,117-132,16,stories/russian/elementary/14-elementary-the-new-house.txt
+Russian,15,The Mother's Advice,Elementary,2,133-148,16,stories/russian/elementary/15-elementary-the-mothers-advice.txt
+Russian,16,Building a Bridge,Elementary,2,149-164,16,stories/russian/elementary/16-elementary-building-a-bridge.txt
+Russian,17,The Picture Book,Elementary,2,165-180,16,stories/russian/elementary/17-elementary-the-picture-book.txt
+Russian,18,Pointing to the Sky,Elementary,2,181-196,16,stories/russian/elementary/18-elementary-pointing-to-the-sky.txt
+Russian,19,The Father's Letter,Elementary,2,197-212,16,stories/russian/elementary/19-elementary-the-fathers-letter.txt
+Russian,20,Water from the Well,Elementary,2,213-228,16,stories/russian/elementary/20-elementary-water-from-the-well.txt
+Russian,21,A Day of Play,Elementary,2,229-244,16,stories/russian/elementary/21-elementary-a-day-of-play.txt
+Russian,22,Small Endings,Elementary,2,245-260,16,stories/russian/elementary/22-elementary-small-endings.txt
+Russian,23,The Port City,Elementary,2,261-275,15,stories/russian/elementary/23-elementary-the-port-city.txt
+Russian,24,High Lands,Elementary,2,276-290,15,stories/russian/elementary/24-elementary-high-lands.txt
+Russian,25,Trying Again,Elementary,2,291-305,15,stories/russian/elementary/25-elementary-trying-again.txt
+Russian,26,The World of Words,Elementary,2,306-320,15,stories/russian/elementary/26-elementary-the-world-of-words.txt
+Russian,27,The Old Clock,Intermediate,3,321-344,24,stories/russian/intermediate/27-intermediate-the-old-clock.txt
+Russian,28,The Quiet Forest,Intermediate,3,345-368,24,stories/russian/intermediate/28-intermediate-the-quiet-forest.txt
+Russian,29,The City by the Sea,Intermediate,3,369-392,24,stories/russian/intermediate/29-intermediate-the-city-by-the-sea.txt
+Russian,30,The Creative Lesson,Intermediate,3,393-416,24,stories/russian/intermediate/30-intermediate-the-creative-lesson.txt
+Russian,31,The Mountain Wind,Intermediate,3,417-440,24,stories/russian/intermediate/31-intermediate-the-mountain-wind.txt
+Russian,32,The Grandfather's Map,Intermediate,3,441-464,24,stories/russian/intermediate/32-intermediate-the-grandfathers-map.txt
+Russian,33,The Painting Class,Intermediate,3,465-488,24,stories/russian/intermediate/33-intermediate-the-painting-class.txt
+Russian,34,The Lost Key,Intermediate,3,489-512,24,stories/russian/intermediate/34-intermediate-the-lost-key.txt
+Russian,35,The River Adventure,Intermediate,3,513-535,23,stories/russian/intermediate/35-intermediate-the-river-adventure.txt
+Russian,36,The Starlit Sky,Intermediate,3,536-558,23,stories/russian/intermediate/36-intermediate-the-starlit-sky.txt
+Russian,37,The Garden Project,Intermediate,3,559-581,23,stories/russian/intermediate/37-intermediate-the-garden-project.txt
+Russian,38,The Old Lighthouse,Intermediate,3,582-604,23,stories/russian/intermediate/38-intermediate-the-old-lighthouse.txt
+Russian,39,The Science Fair,Intermediate,3,605-627,23,stories/russian/intermediate/39-intermediate-the-science-fair.txt
+Russian,40,The Sound of Music,Intermediate,3,628-650,23,stories/russian/intermediate/40-intermediate-the-sound-of-music.txt
+Russian,41,The Forest of Tomorrow,Advanced,5,651-685,35,stories/russian/advanced/41-advanced-the-forest-of-tomorrow.txt
+Russian,42,The Ancient Map's Secret,Advanced,5,686-720,35,stories/russian/advanced/42-advanced-the-ancient-maps-secret.txt
+Russian,43,The Voice of the Wind,Advanced,5,721-755,35,stories/russian/advanced/43-advanced-the-voice-of-the-wind.txt
+Russian,44,The Deep Ocean,Advanced,5,756-790,35,stories/russian/advanced/44-advanced-the-deep-ocean.txt
+Russian,45,The Star Tracker,Advanced,5,791-825,35,stories/russian/advanced/45-advanced-the-star-tracker.txt
+Russian,46,The Digital Heritage,Advanced,5,826-860,35,stories/russian/advanced/46-advanced-the-digital-heritage.txt
+Russian,47,The Green Architecture,Advanced,5,861-895,35,stories/russian/advanced/47-advanced-the-green-architecture.txt
+Russian,48,The Silent Garden,Advanced,5,896-930,35,stories/russian/advanced/48-advanced-the-silent-garden.txt
+Russian,49,The Solar Flight,Advanced,5,931-965,35,stories/russian/advanced/49-advanced-the-solar-flight.txt
+Russian,50,The Circle of Life,Advanced,5,966-1000,35,stories/russian/advanced/50-advanced-the-circle-of-life.txt
+Hindi,1,The Book,Beginner,1,1-9,9,stories/hindi/beginner/01-beginner-the-book.txt
+Hindi,2,Gathering at Home,Beginner,1,10-18,9,stories/hindi/beginner/02-beginner-gathering-at-home.txt
+Hindi,3,A Hot Day,Beginner,1,19-27,9,stories/hindi/beginner/03-beginner-a-hot-day.txt
+Hindi,4,The Decision,Beginner,1,28-36,9,stories/hindi/beginner/04-beginner-the-decision.txt
+Hindi,5,The New Room,Beginner,1,37-44,8,stories/hindi/beginner/05-beginner-the-new-room.txt
+Hindi,6,The Plan,Beginner,1,45-52,8,stories/hindi/beginner/06-beginner-the-plan.txt
+Hindi,7,Three Wishes,Beginner,1,53-60,8,stories/hindi/beginner/07-beginner-three-wishes.txt
+Hindi,8,A Quiet Night,Beginner,1,61-68,8,stories/hindi/beginner/08-beginner-a-quiet-night.txt
+Hindi,9,The Large Port,Beginner,1,69-76,8,stories/hindi/beginner/09-beginner-the-large-port.txt
+Hindi,10,The Path to Change,Beginner,1,77-84,8,stories/hindi/beginner/10-beginner-the-path-to-change.txt
+Hindi,11,The New Picture,Beginner,1,85-92,8,stories/hindi/beginner/11-beginner-the-new-picture.txt
+Hindi,12,Our World,Beginner,1,93-100,8,stories/hindi/beginner/12-beginner-our-world.txt
+Hindi,13,The Lost Dog,Elementary,2,101-116,16,stories/hindi/elementary/13-elementary-the-lost-dog.txt
+Hindi,14,The New House,Elementary,2,117-132,16,stories/hindi/elementary/14-elementary-the-new-house.txt
+Hindi,15,The Mother's Advice,Elementary,2,133-148,16,stories/hindi/elementary/15-elementary-the-mothers-advice.txt
+Hindi,16,Building a Bridge,Elementary,2,149-164,16,stories/hindi/elementary/16-elementary-building-a-bridge.txt
+Hindi,17,The Picture Book,Elementary,2,165-180,16,stories/hindi/elementary/17-elementary-the-picture-book.txt
+Hindi,18,Pointing to the Sky,Elementary,2,181-196,16,stories/hindi/elementary/18-elementary-pointing-to-the-sky.txt
+Hindi,19,The Father's Letter,Elementary,2,197-212,16,stories/hindi/elementary/19-elementary-the-fathers-letter.txt
+Hindi,20,Water from the Well,Elementary,2,213-228,16,stories/hindi/elementary/20-elementary-water-from-the-well.txt
+Hindi,21,A Day of Play,Elementary,2,229-244,16,stories/hindi/elementary/21-elementary-a-day-of-play.txt
+Hindi,22,Small Endings,Elementary,2,245-260,16,stories/hindi/elementary/22-elementary-small-endings.txt
+Hindi,23,The Port City,Elementary,2,261-275,15,stories/hindi/elementary/23-elementary-the-port-city.txt
+Hindi,24,High Lands,Elementary,2,276-290,15,stories/hindi/elementary/24-elementary-high-lands.txt
+Hindi,25,Trying Again,Elementary,2,291-305,15,stories/hindi/elementary/25-elementary-trying-again.txt
+Hindi,26,The World of Words,Elementary,2,306-320,15,stories/hindi/elementary/26-elementary-the-world-of-words.txt
+Hindi,27,The Old Clock,Intermediate,3,321-344,24,stories/hindi/intermediate/27-intermediate-the-old-clock.txt
+Hindi,28,The Quiet Forest,Intermediate,3,345-368,24,stories/hindi/intermediate/28-intermediate-the-quiet-forest.txt
+Hindi,29,The City by the Sea,Intermediate,3,369-392,24,stories/hindi/intermediate/29-intermediate-the-city-by-the-sea.txt
+Hindi,30,The Creative Lesson,Intermediate,3,393-416,24,stories/hindi/intermediate/30-intermediate-the-creative-lesson.txt
+Hindi,31,The Mountain Wind,Intermediate,3,417-440,24,stories/hindi/intermediate/31-intermediate-the-mountain-wind.txt
+Hindi,32,The Grandfather's Map,Intermediate,3,441-464,24,stories/hindi/intermediate/32-intermediate-the-grandfathers-map.txt
+Hindi,33,The Painting Class,Intermediate,3,465-488,24,stories/hindi/intermediate/33-intermediate-the-painting-class.txt
+Hindi,34,The Lost Key,Intermediate,3,489-512,24,stories/hindi/intermediate/34-intermediate-the-lost-key.txt
+Hindi,35,The River Adventure,Intermediate,3,513-535,23,stories/hindi/intermediate/35-intermediate-the-river-adventure.txt
+Hindi,36,The Starlit Sky,Intermediate,3,536-558,23,stories/hindi/intermediate/36-intermediate-the-starlit-sky.txt
+Hindi,37,The Garden Project,Intermediate,3,559-581,23,stories/hindi/intermediate/37-intermediate-the-garden-project.txt
+Hindi,38,The Old Lighthouse,Intermediate,3,582-604,23,stories/hindi/intermediate/38-intermediate-the-old-lighthouse.txt
+Hindi,39,The Science Fair,Intermediate,3,605-627,23,stories/hindi/intermediate/39-intermediate-the-science-fair.txt
+Hindi,40,The Sound of Music,Intermediate,3,628-650,23,stories/hindi/intermediate/40-intermediate-the-sound-of-music.txt
+Hindi,41,The Forest of Tomorrow,Advanced,5,651-685,35,stories/hindi/advanced/41-advanced-the-forest-of-tomorrow.txt
+Hindi,42,The Ancient Map's Secret,Advanced,5,686-720,35,stories/hindi/advanced/42-advanced-the-ancient-maps-secret.txt
+Hindi,43,The Voice of the Wind,Advanced,5,721-755,35,stories/hindi/advanced/43-advanced-the-voice-of-the-wind.txt
+Hindi,44,The Deep Ocean,Advanced,5,756-790,35,stories/hindi/advanced/44-advanced-the-deep-ocean.txt
+Hindi,45,The Star Tracker,Advanced,5,791-825,35,stories/hindi/advanced/45-advanced-the-star-tracker.txt
+Hindi,46,The Digital Heritage,Advanced,5,826-860,35,stories/hindi/advanced/46-advanced-the-digital-heritage.txt
+Hindi,47,The Green Architecture,Advanced,5,861-895,35,stories/hindi/advanced/47-advanced-the-green-architecture.txt
+Hindi,48,The Silent Garden,Advanced,5,896-930,35,stories/hindi/advanced/48-advanced-the-silent-garden.txt
+Hindi,49,The Solar Flight,Advanced,5,931-965,35,stories/hindi/advanced/49-advanced-the-solar-flight.txt
+Hindi,50,The Circle of Life,Advanced,5,966-1000,35,stories/hindi/advanced/50-advanced-the-circle-of-life.txt
+Arabic,1,The Book,Beginner,1,1-9,9,stories/arabic/beginner/01-beginner-the-book.txt
+Arabic,2,Gathering at Home,Beginner,1,10-18,9,stories/arabic/beginner/02-beginner-gathering-at-home.txt
+Arabic,3,A Hot Day,Beginner,1,19-27,9,stories/arabic/beginner/03-beginner-a-hot-day.txt
+Arabic,4,The Decision,Beginner,1,28-36,9,stories/arabic/beginner/04-beginner-the-decision.txt
+Arabic,5,The New Room,Beginner,1,37-44,8,stories/arabic/beginner/05-beginner-the-new-room.txt
+Arabic,6,The Plan,Beginner,1,45-52,8,stories/arabic/beginner/06-beginner-the-plan.txt
+Arabic,7,Three Wishes,Beginner,1,53-60,8,stories/arabic/beginner/07-beginner-three-wishes.txt
+Arabic,8,A Quiet Night,Beginner,1,61-68,8,stories/arabic/beginner/08-beginner-a-quiet-night.txt
+Arabic,9,The Large Port,Beginner,1,69-76,8,stories/arabic/beginner/09-beginner-the-large-port.txt
+Arabic,10,The Path to Change,Beginner,1,77-84,8,stories/arabic/beginner/10-beginner-the-path-to-change.txt
+Arabic,11,The New Picture,Beginner,1,85-92,8,stories/arabic/beginner/11-beginner-the-new-picture.txt
+Arabic,12,Our World,Beginner,1,93-100,8,stories/arabic/beginner/12-beginner-our-world.txt
+Arabic,13,The Lost Dog,Elementary,2,101-116,16,stories/arabic/elementary/13-elementary-the-lost-dog.txt
+Arabic,14,The New House,Elementary,2,117-132,16,stories/arabic/elementary/14-elementary-the-new-house.txt
+Arabic,15,The Mother's Advice,Elementary,2,133-148,16,stories/arabic/elementary/15-elementary-the-mothers-advice.txt
+Arabic,16,Building a Bridge,Elementary,2,149-164,16,stories/arabic/elementary/16-elementary-building-a-bridge.txt
+Arabic,17,The Picture Book,Elementary,2,165-180,16,stories/arabic/elementary/17-elementary-the-picture-book.txt
+Arabic,18,Pointing to the Sky,Elementary,2,181-196,16,stories/arabic/elementary/18-elementary-pointing-to-the-sky.txt
+Arabic,19,The Father's Letter,Elementary,2,197-212,16,stories/arabic/elementary/19-elementary-the-fathers-letter.txt
+Arabic,20,Water from the Well,Elementary,2,213-228,16,stories/arabic/elementary/20-elementary-water-from-the-well.txt
+Arabic,21,A Day of Play,Elementary,2,229-244,16,stories/arabic/elementary/21-elementary-a-day-of-play.txt
+Arabic,22,Small Endings,Elementary,2,245-260,16,stories/arabic/elementary/22-elementary-small-endings.txt
+Arabic,23,The Port City,Elementary,2,261-275,15,stories/arabic/elementary/23-elementary-the-port-city.txt
+Arabic,24,High Lands,Elementary,2,276-290,15,stories/arabic/elementary/24-elementary-high-lands.txt
+Arabic,25,Trying Again,Elementary,2,291-305,15,stories/arabic/elementary/25-elementary-trying-again.txt
+Arabic,26,The World of Words,Elementary,2,306-320,15,stories/arabic/elementary/26-elementary-the-world-of-words.txt
+Arabic,27,The Old Clock,Intermediate,3,321-344,24,stories/arabic/intermediate/27-intermediate-the-old-clock.txt
+Arabic,28,The Quiet Forest,Intermediate,3,345-368,24,stories/arabic/intermediate/28-intermediate-the-quiet-forest.txt
+Arabic,29,The City by the Sea,Intermediate,3,369-392,24,stories/arabic/intermediate/29-intermediate-the-city-by-the-sea.txt
+Arabic,30,The Creative Lesson,Intermediate,3,393-416,24,stories/arabic/intermediate/30-intermediate-the-creative-lesson.txt
+Arabic,31,The Mountain Wind,Intermediate,3,417-440,24,stories/arabic/intermediate/31-intermediate-the-mountain-wind.txt
+Arabic,32,The Grandfather's Map,Intermediate,3,441-464,24,stories/arabic/intermediate/32-intermediate-the-grandfathers-map.txt
+Arabic,33,The Painting Class,Intermediate,3,465-488,24,stories/arabic/intermediate/33-intermediate-the-painting-class.txt
+Arabic,34,The Lost Key,Intermediate,3,489-512,24,stories/arabic/intermediate/34-intermediate-the-lost-key.txt
+Arabic,35,The River Adventure,Intermediate,3,513-535,23,stories/arabic/intermediate/35-intermediate-the-river-adventure.txt
+Arabic,36,The Starlit Sky,Intermediate,3,536-558,23,stories/arabic/intermediate/36-intermediate-the-starlit-sky.txt
+Arabic,37,The Garden Project,Intermediate,3,559-581,23,stories/arabic/intermediate/37-intermediate-the-garden-project.txt
+Arabic,38,The Old Lighthouse,Intermediate,3,582-604,23,stories/arabic/intermediate/38-intermediate-the-old-lighthouse.txt
+Arabic,39,The Science Fair,Intermediate,3,605-627,23,stories/arabic/intermediate/39-intermediate-the-science-fair.txt
+Arabic,40,The Sound of Music,Intermediate,3,628-650,23,stories/arabic/intermediate/40-intermediate-the-sound-of-music.txt
+Arabic,41,The Forest of Tomorrow,Advanced,5,651-685,35,stories/arabic/advanced/41-advanced-the-forest-of-tomorrow.txt
+Arabic,42,The Ancient Map's Secret,Advanced,5,686-720,35,stories/arabic/advanced/42-advanced-the-ancient-maps-secret.txt
+Arabic,43,The Voice of the Wind,Advanced,5,721-755,35,stories/arabic/advanced/43-advanced-the-voice-of-the-wind.txt
+Arabic,44,The Deep Ocean,Advanced,5,756-790,35,stories/arabic/advanced/44-advanced-the-deep-ocean.txt
+Arabic,45,The Star Tracker,Advanced,5,791-825,35,stories/arabic/advanced/45-advanced-the-star-tracker.txt
+Arabic,46,The Digital Heritage,Advanced,5,826-860,35,stories/arabic/advanced/46-advanced-the-digital-heritage.txt
+Arabic,47,The Green Architecture,Advanced,5,861-895,35,stories/arabic/advanced/47-advanced-the-green-architecture.txt
+Arabic,48,The Silent Garden,Advanced,5,896-930,35,stories/arabic/advanced/48-advanced-the-silent-garden.txt
+Arabic,49,The Solar Flight,Advanced,5,931-965,35,stories/arabic/advanced/49-advanced-the-solar-flight.txt
+Arabic,50,The Circle of Life,Advanced,5,966-1000,35,stories/arabic/advanced/50-advanced-the-circle-of-life.txt
+Japanese,1,His Book,Beginner,1,1-9,9,stories/japanese/beginner/01-beginner-his-book.txt
+Japanese,2,Gathering at Home,Beginner,1,10-18,9,stories/japanese/beginner/02-beginner-gathering-at-home.txt
+Japanese,3,A Hot Day,Beginner,1,19-27,9,stories/japanese/beginner/03-beginner-a-hot-day.txt
+Japanese,4,The Old Book,Beginner,1,28-36,9,stories/japanese/beginner/04-beginner-the-old-book.txt
+Japanese,5,The New Room,Beginner,1,37-44,8,stories/japanese/beginner/05-beginner-the-new-room.txt
+Japanese,6,The Plan,Beginner,1,45-52,8,stories/japanese/beginner/06-beginner-the-plan.txt
+Japanese,7,Three Wishes,Beginner,1,53-60,8,stories/japanese/beginner/07-beginner-three-wishes.txt
+Japanese,8,A Quiet Night,Beginner,1,61-68,8,stories/japanese/beginner/08-beginner-a-quiet-night.txt
+Japanese,9,The Large Port,Beginner,1,69-76,8,stories/japanese/beginner/09-beginner-the-large-port.txt
+Japanese,10,The Path to Change,Beginner,1,77-84,8,stories/japanese/beginner/10-beginner-the-path-to-change.txt
+Japanese,11,The New Picture,Beginner,1,85-92,8,stories/japanese/beginner/11-beginner-the-new-picture.txt
+Japanese,12,Our World,Beginner,1,93-100,8,stories/japanese/beginner/12-beginner-our-world.txt
+Japanese,13,The Lost Dog,Elementary,2,101-116,16,stories/japanese/elementary/13-elementary-the-lost-dog.txt
+Japanese,14,The New House,Elementary,2,117-132,16,stories/japanese/elementary/14-elementary-the-new-house.txt
+Japanese,15,The Mother's Advice,Elementary,2,133-148,16,stories/japanese/elementary/15-elementary-the-mothers-advice.txt
+Japanese,16,Building a Bridge,Elementary,2,149-164,16,stories/japanese/elementary/16-elementary-building-a-bridge.txt
+Japanese,17,The Picture Book,Elementary,2,165-180,16,stories/japanese/elementary/17-elementary-the-picture-book.txt
+Japanese,18,Pointing to the Sky,Elementary,2,181-196,16,stories/japanese/elementary/18-elementary-pointing-to-the-sky.txt
+Japanese,19,The Father's Letter,Elementary,2,197-212,16,stories/japanese/elementary/19-elementary-the-fathers-letter.txt
+Japanese,20,Water from the Well,Elementary,2,213-228,16,stories/japanese/elementary/20-elementary-water-from-the-well.txt
+Japanese,21,A Day of Play,Elementary,2,229-244,16,stories/japanese/elementary/21-elementary-a-day-of-play.txt
+Japanese,22,Small Endings,Elementary,2,245-260,16,stories/japanese/elementary/22-elementary-small-endings.txt
+Japanese,23,The Port City,Elementary,2,261-275,15,stories/japanese/elementary/23-elementary-the-port-city.txt
+Japanese,24,High Lands,Elementary,2,276-290,15,stories/japanese/elementary/24-elementary-high-lands.txt
+Japanese,25,Trying Again,Elementary,2,291-305,15,stories/japanese/elementary/25-elementary-trying-again.txt
+Japanese,26,The World of Words,Elementary,2,306-320,15,stories/japanese/elementary/26-elementary-the-world-of-words.txt
+Japanese,27,The Old Clock,Intermediate,3,321-344,24,stories/japanese/intermediate/27-intermediate-the-old-clock.txt
+Japanese,28,The Quiet Forest,Intermediate,3,345-368,24,stories/japanese/intermediate/28-intermediate-the-quiet-forest.txt
+Japanese,29,The City by the Sea,Intermediate,3,369-392,24,stories/japanese/intermediate/29-intermediate-the-city-by-the-sea.txt
+Japanese,30,The Creative Lesson,Intermediate,3,393-416,24,stories/japanese/intermediate/30-intermediate-the-creative-lesson.txt
+Japanese,31,The Mountain Wind,Intermediate,3,417-440,24,stories/japanese/intermediate/31-intermediate-the-mountain-wind.txt
+Japanese,32,The Grandfather's Map,Intermediate,3,441-464,24,stories/japanese/intermediate/32-intermediate-the-grandfathers-map.txt
+Japanese,33,The Painting Class,Intermediate,3,465-488,24,stories/japanese/intermediate/33-intermediate-the-painting-class.txt
+Japanese,34,The Lost Key,Intermediate,3,489-512,24,stories/japanese/intermediate/34-intermediate-the-lost-key.txt
+Japanese,35,The River Adventure,Intermediate,3,513-535,23,stories/japanese/intermediate/35-intermediate-the-river-adventure.txt
+Japanese,36,The Starlit Sky,Intermediate,3,536-558,23,stories/japanese/intermediate/36-intermediate-the-starlit-sky.txt
+Japanese,37,The Garden Project,Intermediate,3,559-581,23,stories/japanese/intermediate/37-intermediate-the-garden-project.txt
+Japanese,38,The Old Lighthouse,Intermediate,3,582-604,23,stories/japanese/intermediate/38-intermediate-the-old-lighthouse.txt
+Japanese,39,The Science Fair,Intermediate,3,605-627,23,stories/japanese/intermediate/39-intermediate-the-science-fair.txt
+Japanese,40,The Sound of Music,Intermediate,3,628-650,23,stories/japanese/intermediate/40-intermediate-the-sound-of-music.txt
+Japanese,41,The Forest of Tomorrow,Advanced,5,651-685,35,stories/japanese/advanced/41-advanced-the-forest-of-tomorrow.txt
+Japanese,42,The Ancient Map's Secret,Advanced,5,686-720,35,stories/japanese/advanced/42-advanced-the-ancient-maps-secret.txt
+Japanese,43,The Voice of the Wind,Advanced,5,721-755,35,stories/japanese/advanced/43-advanced-the-voice-of-the-wind.txt
+Japanese,44,The Deep Ocean,Advanced,5,756-790,35,stories/japanese/advanced/44-advanced-the-deep-ocean.txt
+Japanese,45,The Star Tracker,Advanced,5,791-825,35,stories/japanese/advanced/45-advanced-the-star-tracker.txt
+Japanese,46,The Digital Heritage,Advanced,5,826-860,35,stories/japanese/advanced/46-advanced-the-digital-heritage.txt
+Japanese,47,The Green Architecture,Advanced,5,861-895,35,stories/japanese/advanced/47-advanced-the-green-architecture.txt
+Japanese,48,The Silent Garden,Advanced,5,896-930,35,stories/japanese/advanced/48-advanced-the-silent-garden.txt
+Japanese,49,The Solar Flight,Advanced,5,931-965,35,stories/japanese/advanced/49-advanced-the-solar-flight.txt
+Japanese,50,The Circle of Life,Advanced,5,966-1000,35,stories/japanese/advanced/50-advanced-the-circle-of-life.txt
+Chinese,1,The Book,Beginner,1,1-9,9,stories/mandarin/beginner/01-beginner-the-book.txt
+Chinese,2,Gathering at Home,Beginner,1,10-18,9,stories/mandarin/beginner/02-beginner-gathering-at-home.txt
+Chinese,3,A Hot Day,Beginner,1,19-27,9,stories/mandarin/beginner/03-beginner-a-hot-day.txt
+Chinese,4,The Decision,Beginner,1,28-36,9,stories/mandarin/beginner/04-beginner-the-decision.txt
+Chinese,5,The New Room,Beginner,1,37-44,8,stories/mandarin/beginner/05-beginner-the-new-room.txt
+Chinese,6,The Plan,Beginner,1,45-52,8,stories/mandarin/beginner/06-beginner-the-plan.txt
+Chinese,7,Three Wishes,Beginner,1,53-60,8,stories/mandarin/beginner/07-beginner-three-wishes.txt
+Chinese,8,A Quiet Night,Beginner,1,61-68,8,stories/mandarin/beginner/08-beginner-a-quiet-night.txt
+Chinese,9,The Large Port,Beginner,1,69-76,8,stories/mandarin/beginner/09-beginner-the-large-port.txt
+Chinese,10,The Path to Change,Beginner,1,77-84,8,stories/mandarin/beginner/10-beginner-the-path-to-change.txt
+Chinese,11,The New Picture,Beginner,1,85-92,8,stories/mandarin/beginner/11-beginner-the-new-picture.txt
+Chinese,12,Our World,Beginner,1,93-100,8,stories/mandarin/beginner/12-beginner-our-world.txt
+Chinese,13,The Lost Dog,Elementary,2,101-116,16,stories/mandarin/elementary/13-elementary-the-lost-dog.txt
+Chinese,14,The New House,Elementary,2,117-132,16,stories/mandarin/elementary/14-elementary-the-new-house.txt
+Chinese,15,The Mother's Advice,Elementary,2,133-148,16,stories/mandarin/elementary/15-elementary-the-mothers-advice.txt
+Chinese,16,Building a Bridge,Elementary,2,149-164,16,stories/mandarin/elementary/16-elementary-building-a-bridge.txt
+Chinese,17,The Picture Book,Elementary,2,165-180,16,stories/mandarin/elementary/17-elementary-the-picture-book.txt
+Chinese,18,Pointing to the Sky,Elementary,2,181-196,16,stories/mandarin/elementary/18-elementary-pointing-to-the-sky.txt
+Chinese,19,The Father's Letter,Elementary,2,197-212,16,stories/mandarin/elementary/19-elementary-the-fathers-letter.txt
+Chinese,20,Water from the Well,Elementary,2,213-228,16,stories/mandarin/elementary/20-elementary-water-from-the-well.txt
+Chinese,21,A Day of Play,Elementary,2,229-244,16,stories/mandarin/elementary/21-elementary-a-day-of-play.txt
+Chinese,22,Small Endings,Elementary,2,245-260,16,stories/mandarin/elementary/22-elementary-small-endings.txt
+Chinese,23,The Port City,Elementary,2,261-275,15,stories/mandarin/elementary/23-elementary-the-port-city.txt
+Chinese,24,High Lands,Elementary,2,276-290,15,stories/mandarin/elementary/24-elementary-high-lands.txt
+Chinese,25,Trying Again,Elementary,2,291-305,15,stories/mandarin/elementary/25-elementary-trying-again.txt
+Chinese,26,The World of Words,Elementary,2,306-320,15,stories/mandarin/elementary/26-elementary-the-world-of-words.txt
+Chinese,27,The Old Clock,Intermediate,3,321-344,24,stories/mandarin/intermediate/27-intermediate-the-old-clock.txt
+Chinese,28,The Quiet Forest,Intermediate,3,345-368,24,stories/mandarin/intermediate/28-intermediate-the-quiet-forest.txt
+Chinese,29,The City by the Sea,Intermediate,3,369-392,24,stories/mandarin/intermediate/29-intermediate-the-city-by-the-sea.txt
+Chinese,30,The Creative Lesson,Intermediate,3,393-416,24,stories/mandarin/intermediate/30-intermediate-the-creative-lesson.txt
+Chinese,31,The Mountain Wind,Intermediate,3,417-440,24,stories/mandarin/intermediate/31-intermediate-the-mountain-wind.txt
+Chinese,32,The Grandfather's Map,Intermediate,3,441-464,24,stories/mandarin/intermediate/32-intermediate-the-grandfathers-map.txt
+Chinese,33,The Painting Class,Intermediate,3,465-488,24,stories/mandarin/intermediate/33-intermediate-the-painting-class.txt
+Chinese,34,The Lost Key,Intermediate,3,489-512,24,stories/mandarin/intermediate/34-intermediate-the-lost-key.txt
+Chinese,35,The River Adventure,Intermediate,3,513-535,23,stories/mandarin/intermediate/35-intermediate-the-river-adventure.txt
+Chinese,36,The Starlit Sky,Intermediate,3,536-558,23,stories/mandarin/intermediate/36-intermediate-the-starlit-sky.txt
+Chinese,37,The Garden Project,Intermediate,3,559-581,23,stories/mandarin/intermediate/37-intermediate-the-garden-project.txt
+Chinese,38,The Old Lighthouse,Intermediate,3,582-604,23,stories/mandarin/intermediate/38-intermediate-the-old-lighthouse.txt
+Chinese,39,The Science Fair,Intermediate,3,605-627,23,stories/mandarin/intermediate/39-intermediate-the-science-fair.txt
+Chinese,40,The Sound of Music,Intermediate,3,628-650,23,stories/mandarin/intermediate/40-intermediate-the-sound-of-music.txt
+Chinese,41,The Forest of Tomorrow,Advanced,5,651-685,35,stories/mandarin/advanced/41-advanced-the-forest-of-tomorrow.txt
+Chinese,42,The Ancient Map's Secret,Advanced,5,686-720,35,stories/mandarin/advanced/42-advanced-the-ancient-maps-secret.txt
+Chinese,43,The Voice of the Wind,Advanced,5,721-755,35,stories/mandarin/advanced/43-advanced-the-voice-of-the-wind.txt
+Chinese,44,The Deep Ocean,Advanced,5,756-790,35,stories/mandarin/advanced/44-advanced-the-deep-ocean.txt
+Chinese,45,The Star Tracker,Advanced,5,791-825,35,stories/mandarin/advanced/45-advanced-the-star-tracker.txt
+Chinese,46,The Digital Heritage,Advanced,5,826-860,35,stories/mandarin/advanced/46-advanced-the-digital-heritage.txt
+Chinese,47,The Green Architecture,Advanced,5,861-895,35,stories/mandarin/advanced/47-advanced-the-green-architecture.txt
+Chinese,48,The Silent Garden,Advanced,5,896-930,35,stories/mandarin/advanced/48-advanced-the-silent-garden.txt
+Chinese,49,The Solar Flight,Advanced,5,931-965,35,stories/mandarin/advanced/49-advanced-the-solar-flight.txt
+Chinese,50,The Circle of Life,Advanced,5,966-1000,35,stories/mandarin/advanced/50-advanced-the-circle-of-life.txt

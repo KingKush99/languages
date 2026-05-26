@@ -1,0 +1,54 @@
+Story 48: The Silent Garden
+Language: Chinese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 896-930 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+园林设计师小红收到了一份修复古老寺庙庭院的请求。这个大花园已经被荒废了很多年，里面长满了各种高高矮矮的杂草。
+
+Page 2:
+小红为老庭院画了一张全新且美丽的设计图。她决定在水池旁放置一些巨大的灰色石头，并设计一条方便游客散步的小石子路。
+
+Page 3:
+小红在阴凉处种上了柔软的绿色苔藓，并在新花园正中心种了美丽的书。这些树叶的颜色会随着季节的变化而变成不同色彩。
+
+Page 4:
+小红希望创造一个安静的环境。在这里人们可以暂时忘掉城市的各种烦恼和工作，静静地坐着去观察生活，了解心灵。
+
+Page 5:
+美丽的旧庭院成了让人们放松和感到内心平静的真正地方。人们喜欢来这里听风。小红很高兴能够用自己的双手让古老的土地恢复美丽。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The landscape architect Xiao Hong received a
+request to restore an old temple garden. This large garden had been completely
+abandoned for many years, and wild grasses grew in it.
+
+Page 2:
+Xiao Hong drew a new and beautiful design plan for
+the old garden. She decided to place large grey rocks near the water pool and
+make smooth sandy paths for quiet walks for visitors.
+
+Page 3:
+Xiao Hong planted soft green moss in the shaded
+areas and placed beautiful trees in the heart of the new garden. These beautiful
+trees changed the colors of their leaves with the changing of the different
+seasons.
+
+Page 4:
+Xiao Hong wanted to create a quiet environment
+where people could temporarily forget the worries and work of the city, and sit
+in complete silence to observe life and understand the soul.
+
+Page 5:
+The beautiful old garden became a true place of
+rest and inner peace for people. They came to listen to the wind. Xiao Hong was
+happy to have been able to return beauty to the old land with her own hands. ===
+END OF STORY 48 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

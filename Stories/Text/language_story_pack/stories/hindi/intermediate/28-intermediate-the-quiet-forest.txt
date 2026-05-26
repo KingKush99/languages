@@ -1,0 +1,44 @@
+Story 28: The Quiet Forest
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 345-368 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+आरती एक शांत जंगल से होकर गुजर रही थी, जहाँ केवल पक्षियों की
+दूर की आवाज़ें सुनाई दे रही थीं। पेड़ बहुत ऊँचे थे और सूरज की रोशनी हरी शाखाओं
+से होकर बहुत कम छन कर आ रही थी। पैरों के नीचे नरम हरी काई की चादर बिछी थी।
+
+Page 2:
+वह और अंदर गई और अचानक उसने एक छोटी और सुंदर झील देखी। उसका
+पानी आईने की तरह साफ था, जिसमें नीला आसमान और सफेद बादल दिखाई दे रहे थे। पास
+ही कुछ हिरण खड़े पानी पी रहे थे। लड़की ने चुपचाप उन्हें देखा।
+
+Page 3:
+आरती पानी के पास एक सूखी चट्टान पर बैठ गई और अपनी डायरी
+खोली। उसने इस कहानी को लिखने और झील व हिरणों का चित्र बनाने का फैसला
+किया। जंगल की सैर की यह प्यारी याद लंबे समय तक उसके साथ रहेगी।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Aarti was walking through a quiet forest where only
+the distant voices of birds were heard. The trees were tall, and the light of
+the sun barely filtered through the green branches. Soft green moss lay
+underfoot, looking like a carpet.
+
+Page 2:
+She went deeper and suddenly saw a small, beautiful
+lake. The water in it was clean as a mirror, reflecting the blue sky and white
+clouds. Nearby stood several deer drinking water. The girl watched them quietly.
+
+Page 3:
+Aarti sat on a dry stone by the water and opened
+her notebook. She decided to write down this story and draw the lake and the
+deer. This warm memory of the walk in the forest will stay with her for a long
+time.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

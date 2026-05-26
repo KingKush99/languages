@@ -1,0 +1,52 @@
+Story 43: The Voice of the Wind
+Language: Japanese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 721-755 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+科学者のリクは、山の上の気象観測所で風の動きを調べていました。最近、山の天気が急激に変化していました。
+
+Page 2:
+リクは、強い嵐が村に向かっていることを知りました。彼は、村を保護するために新しい警告システムを開発していました。
+
+Page 3:
+彼は村に降り、人々に嵐の危険を説明しました。最初は信じない人もいましたが、リクの科学的なデータを理解し、避難に同意しました。
+
+Page 4:
+嵐の夜、強い風と雨が村を襲いました。しかし、リクのシステムのおかげで、すべての人々が安全な場所に避難していました。
+
+Page 5:
+翌朝、嵐は去りました。家は少し壊れましたが、人々の命は守られました。村の人々はリクに深く感謝し、科学技術の価値を実感しました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Riku, a scientist, was studying the movement of the
+wind at a weather station on the mountain. Recently, the mountain weather was
+changing rapidly.
+
+Page 2:
+Riku learned that a strong storm was heading
+towards the village. He was developing a new warning system to protect the
+village.
+
+Page 3:
+He went down to the village and explained the
+danger of the storm to the people. At first, some did not believe him, but they
+understood Riku's scientific data and agreed to evacuate.
+
+Page 4:
+On the night of the storm, strong wind and rain hit
+the village. However, thanks to Riku's system, all the people had evacuated to a
+safe place.
+
+Page 5:
+The next morning, the storm left. The houses were
+slightly damaged, but people's lives were saved. The villagers deeply thanked
+Riku and realized the value of science and technology.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

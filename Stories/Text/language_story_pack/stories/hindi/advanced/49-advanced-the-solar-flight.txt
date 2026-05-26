@@ -1,0 +1,58 @@
+Story 49: The Solar Flight
+Language: Hindi
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 931-965 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+इंजीनियर अमित एक नई मशीन बनाने पर काम कर रहे थे। यह एक छोटा
+ड्रोन था जो बिना पेट्रोल के केवल सौर ऊर्जा पर उड़ सकता था।
+
+Page 2:
+इस प्रोजेक्ट का लक्ष्य पहाड़ों के दूर के इलाकों में उन लोगों
+तक दवाइयाँ पहुँचाना था, जहाँ भूस्खलन के कारण रास्ते पूरी तरह नष्ट हो गए थे।
+
+Page 3:
+एक धूप वाली सुबह, अमित मशीन को एक बड़े मैदान में ले गए।
+ड्रोन केवल रोशनी की शक्ति का उपयोग करके हवा में उठा और पहाड़ों की ओर
+उड़ गया।
+
+Page 4:
+पहाड़ों में तेज़ हवा चलने लगी। लेकिन पंख की मजबूत बनावट के
+कारण ड्रोन अपना संतुलन बनाए रखने में सफल रहा और आगे बढ़ता रहा।
+
+Page 5:
+ड्रोन ने सामान को सुरक्षित पहुँचा दिया। अमित बहुत खुश थे।
+उनकी इस तकनीक ने अपनी उपयोगिता साबित की और जीवन बचाने की दिशा में एक कदम
+बढ़ाया।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The engineer Amit worked on creating a new vehicle.
+It was a small drone that could fly solely on solar energy without gasoline.
+
+Page 2:
+The goal of the project was to deliver medical
+devices and medicines to people in hard-to-reach mountain areas where roads were
+destroyed by landslides.
+
+Page 3:
+On a sunny morning, Amit took the vehicle out to a
+wide field. The drone quietly rose into the air and flew towards the mountains
+using only the power of light.
+
+Page 4:
+A strong wind arose in the mountains. But thanks to
+the durable structure of the wing, the drone was able to maintain balance and
+continued moving on course.
+
+Page 5:
+The drone successfully delivered the cargo to the
+destination. Amit was happy. His new technology proved its utility and helped
+make a step toward saving lives.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

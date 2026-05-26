@@ -1,0 +1,20 @@
+Story 11: The New Picture
+Language: Hindi
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 85-92 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+इस घर को प्रकाश की जरूरत है। कृपया लाइट बंद करके इसकी फिर से
+तस्वीर लेने की कोशिश करें। एक दयालु व्यक्ति हमारी मदद करता है।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+This house needs light. Please turn the light off
+and try to take a picture again. A kind person will help us.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,66 @@
+Story 43: The Voice of the Wind
+Language: Arabic
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 721-755 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+كان الراصد الجوي عمار يعمل في محطة الأرصاد في قمة الجبل.
+كان يسجل سرعة الرياح ودرجات الحرارة يومياً. وفي الآونة الأخيرة، بدأ الطقس في
+الجبال يتغير بسرعة غير عادية.
+
+Page 2:
+فهم عمار من القراءات أن هناك عاصفة قوية وخطيرة تتجه نحو
+القرية الصغيرة عند قاعدة الجبل. كان بحاجة إلى تحذير السكان بسرعة لحماية
+منازلهم من الخطر والرياح.
+
+Page 3:
+نزل عمار بسرعة إلى القرية وأخبر الناس بالرياح القادمة. لم
+يصدق بعضهم الأجهزة في البداية، لكن البيانات العلمية الدقيقة أقنعتهم بالموافقة
+على الإخلاء المؤقت الفوري.
+
+Page 4:
+في الليل، بدأت عاصفة قوية جداً. كانت الرياح تكسر أغصان
+الأشجار الكبيرة بالقرب من البيوت. لكن بفضل عمل عمار السريع والمبكر، كان
+جميع السكان بسلام داخل ملجأ حجري متين.
+
+Page 5:
+في الصباح، تراجعت العاصفة وهدأت الرياح. تضررت القرية
+قليلاً، لكن أرواح الناس كانت آمنة وسليمة. شكر السكان الراصد الشاب بامتنان
+كبير وفهموا أهمية علمه وعمله الجاد.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The weather observer Ammar was working at the
+weather station at the top of the mountain. He recorded wind speed and
+temperature daily. Recently, the weather in the mountains began to change with
+unusual speed.
+
+Page 2:
+Ammar understood from the readings that a strong
+and dangerous storm was heading towards the small village at the base of the
+mountain. He needed to warn the residents quickly to protect their homes from
+danger and wind.
+
+Page 3:
+Ammar went down quickly to the village and told the
+people about the coming wind. Some did not believe the instruments at first, but
+the accurate scientific data convinced them to agree to immediate temporary
+evacuation.
+
+Page 4:
+At night, a very strong storm began. The wind was
+breaking large tree branches near the houses. But thanks to Ammar's quick and
+early work, all the residents were safe inside a durable stone shelter.
+
+Page 5:
+In the morning, the storm retreated and the wind
+calmed. The village was slightly damaged, but people's lives were safe and
+sound. The residents thanked the young observer with great gratitude and
+understood the importance of his science and hard work.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

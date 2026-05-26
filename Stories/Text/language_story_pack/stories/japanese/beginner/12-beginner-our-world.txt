@@ -1,0 +1,18 @@
+Story 12: Our World
+Language: Japanese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 93-100 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+私の母と父は地球を愛しています。私たちは家の近くに小さな家を建て、自分で野生動物を観察します。それが世界の意味です。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+My mother and father love the earth. We build a small house near our home and observe wild animals ourselves. That is the point of the world.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

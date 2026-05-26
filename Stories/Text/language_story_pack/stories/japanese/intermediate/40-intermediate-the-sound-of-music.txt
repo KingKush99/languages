@@ -1,0 +1,30 @@
+Story 40: The Sound of Music
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 628-650 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+あやは母と一緒に、町の古い音楽室を訪れました。その日は子供たちのための小さな演奏会がありました。部屋の明かりが少し暗くなると、舞台の上でバイオリンが静かに光りました。
+
+Page 2:
+演奏が始まると、音はゆっくり流れたり、急に高く跳ねたりしました。あやは目を閉じて、音の中に雨、風、明るい朝の景色を感じました。言葉がなくても、音楽は気持ちを伝えられるのだと思いました。
+
+Page 3:
+演奏会の後、みんなは大きな拍手をしました。家に帰ると、あやは昔使っていた小さなピアノを開きました。まだ上手ではありませんでしたが、もう一度練習したいという新しい夢が生まれました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Aya visited the town's old music room with her mother. That day there was a small concert for children. When the room lights became a little dim, a violin quietly shone on the stage.
+
+Page 2:
+When the performance began, the sounds flowed slowly and sometimes jumped suddenly high. Aya closed her eyes and felt rain, wind, and a bright morning scene inside the music. She thought that even without words, music could communicate feelings.
+
+Page 3:
+After the concert, everyone clapped loudly. When she returned home, Aya opened the small piano she had used long ago. She was not skilled yet, but a new dream was born: she wanted to practice again.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

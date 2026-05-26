@@ -1,0 +1,39 @@
+Story 30: The Creative Lesson
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 393-416 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+在学校的科学课上，老师给孩子们布置了一个新的小组任务。他们需要分成小组，建造一个“未来绿色城市”的模型。四个朋友坐在一起，开始讨论使用什么样的环保技术。
+
+Page 2:
+他们有许多好主意。他们决定在每个房子的屋顶上安装太阳能板，并设计一个收集雨水灌溉植物的系统。他们用纸张和纸板等简单的材料，分工协作。
+
+Page 3:
+第二天，所有小组都在全班同学面前展示了自己的模型。小红的队伍自信地介绍了他们未来城市的价值。通过集思广益和学会协作，每个人都获得了极好的经验。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In school during the science class, the teacher
+assigned the children a new group task. They needed to divide into groups and
+build a model of a "clean city of the future." Four friends sat together and
+began discussing what eco-friendly technologies to use.
+
+Page 2:
+They had many great and useful ideas. They decided
+to install solar panels on the roofs of every house and design a system to
+collect rainwater to irrigate plants. They used simple materials like paper and
+cardboard, dividing the work and cooperating.
+
+Page 3:
+The next day, all groups presented their models in
+front of the class. Xiao Hong's team confidently explained the value of their
+future city. By bringing ideas together and learning to cooperate, everyone
+gained an excellent experience.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

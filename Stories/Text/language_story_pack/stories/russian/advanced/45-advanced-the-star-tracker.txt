@@ -1,0 +1,62 @@
+Story 45: The Star Tracker
+Language: Russian
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 791-825 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Астроном Мария ждала появления редкой кометы. Эта комета
+подлетала к Земле один раз в сто лет. Она хотела сделать качественные снимки
+ее хвоста.
+
+Page 2:
+Она организовала маленькую вечернюю школу для детей на
+холме за городом. Многие дети пришли вместе с родителями, чтобы посмотреть
+на небо.
+
+Page 3:
+Мария настроила большой телескоп и показала детям
+созвездия. Она объясняла им законы космоса простыми и понятными
+словами. Дети слушали с интересом.
+
+Page 4:
+Наконец комета появилась в темном небе. Ее яркий свет
+оставил длинную линию в небесах. Все замолчали и смотрели на это чудо
+природы.
+
+Page 5:
+Этот вечер помог детям полюбить науку. Некоторые из них
+решили стать астрономами в будущем. Мария поняла, что ее работа имеет большую
+ценность.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The astronomer Maria was waiting for the appearance
+of a rare comet. This comet approached Earth once every hundred years. She
+wanted to take high-quality pictures of its tail.
+
+Page 2:
+She organized a small evening school for children
+on a hill outside the town. Many children came with their parents to look at the
+sky.
+
+Page 3:
+Maria adjusted the large telescope and showed the
+children constellations. She explained the laws of space to them in simple and
+clear words. The children listened with interest.
+
+Page 4:
+Finally, the comet appeared in the dark sky. Its
+bright light left a long line in the heavens. Everyone fell silent and looked at
+this miracle of nature.
+
+Page 5:
+This evening helped the children fall in love with
+science. Some of them decided to become astronomers in the future. Maria
+realized that her work holds great value.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

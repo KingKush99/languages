@@ -1,0 +1,30 @@
+Story 35: The River Adventure
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 513-535 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+夏休みの朝、はるとは友達と川辺へ行きました。水は透明で、浅い場所では小さな魚が銀色に光っていました。先生から遠くへ行きすぎないように言われていたので、みんなは岸の近くで遊ぶことにしました。
+
+Page 2:
+突然、強い風が吹いて、友達の帽子が川に落ちました。帽子はゆっくり流れ始めましたが、はるとは慌てませんでした。彼は長い枝を見つけ、岸から安全に手を伸ばして帽子を引き寄せました。
+
+Page 3:
+帽子が戻ると、友達は大きな声で喜びました。はるとは、川は美しいけれど注意が必要だと思いました。帰る前に、みんなは次に来る時も規則を守り、自然を大切にしようと約束しました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+On a summer vacation morning, Haruto went to the riverside with his friends. The water was clear, and in the shallow places small fish shone silver. Their teacher had told them not to go too far, so everyone decided to play near the bank.
+
+Page 2:
+Suddenly, a strong wind blew, and a friend's hat fell into the river. The hat began to float away slowly, but Haruto did not panic. He found a long branch and safely reached from the bank to pull the hat closer.
+
+Page 3:
+When the hat returned, his friends cheered loudly. Haruto thought that the river was beautiful but required care. Before going home, everyone promised to follow the rules next time too and take care of nature.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

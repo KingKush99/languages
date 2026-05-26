@@ -1,0 +1,33 @@
+Story 21: A Day of Play
+Language: Arabic
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 229-244 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+اليوم كان عطلة مدرسية سعيدة. اجتمع الأطفال الصغار في الساحة
+المفتوحة بالقرب من المنازل. بدأ الجميع يلعبون ويمرحون بنشاط. كان الطقس جميلاً
+والرياح خفيفة ومنعشة.
+
+Page 2:
+جرى الأطفال ولعبوا حتى وقت المساء. وفي نهاية اليوم، جلس
+الجميع في دائرة كبيرة على العشب الأخضر. وأخذوا يخبرون بعضهم البعض عن قصصهم
+المفضلة في الكتب.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Today was a happy school holiday. The small
+children gathered in the open square near the houses. Everyone began playing and
+having fun energetically. The weather was beautiful and the wind was light and
+refreshing.
+
+Page 2:
+The children ran and played until evening. At the
+end of the day, everyone sat in a large circle on the green grass. They began
+telling each other about their favorite stories in books.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

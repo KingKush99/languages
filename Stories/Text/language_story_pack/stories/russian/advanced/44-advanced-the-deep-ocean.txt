@@ -1,0 +1,60 @@
+Story 44: The Deep Ocean
+Language: Russian
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 756-790 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Океанолог Игорь построил новый подводный аппарат. Он
+планировал опуститься в самую глубокую точку моря, чтобы изучить жизнь на
+дне океана.
+
+Page 2:
+На глубине нескольких тысяч метров была полная темнота. Но
+мощные лампы аппарата осветили неизвестный мир песка, камней и странных
+растений.
+
+Page 3:
+Вдруг Игорь увидел маленькое светящееся животное. Это был
+новый вид, неизвестный науке. Он сделал много фотографий этого красивого
+существа.
+
+Page 4:
+Во время работы приборы на секунду выключились. Игорь не
+стал паниковать. Он знал структуру аппарата и быстро исправил электрическую
+проблему руками.
+
+Page 5:
+Игорь поднялся наверх и показал свои снимки ученым мира.
+Его открытие помогло людям лучше понять океан и важность защиты его экологии.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The oceanographer Igor built a new underwater
+vehicle. He planned to descend to the deepest point of the sea to study life on
+the ocean floor.
+
+Page 2:
+At a depth of several thousand meters, there was
+complete darkness. But the vehicle's powerful lamps illuminated an unknown world
+of sand, stones, and strange plants.
+
+Page 3:
+Suddenly, Igor saw a small glowing animal. It was a
+new species unknown to science. He took many photos of this beautiful creature.
+
+Page 4:
+During the operation, the instruments turned off
+for a second. Igor did not panic. He knew the vehicle's structure and quickly
+fixed the electrical problem with his hands.
+
+Page 5:
+Igor ascended and showed his pictures to the
+scientists of the world. His discovery helped people better understand the ocean
+and the importance of protecting its ecology.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,38 @@
+Story 40: The Sound of Music
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 628-650 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+小红和母亲一起走进了城市里那座古老的音乐厅。今天那里有一场著名小提琴演奏家的音乐会。灯光熄灭了，舞台上的暖灯亮起照亮演奏者。
+
+Page 2:
+小提琴的声音非常美丽。音乐的声音时而缓慢安静，时而快速高昂。小红听着这段旋律，感到自己的心情随着声音不断起伏变化。
+
+Page 3:
+音乐会结束后，所有人都热烈鼓掌。小红受到了极大的启发。回到家，她决定拿出自己小时候买的旧玩具钢琴，重新弹奏。一个梦想在她心中诞生。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Xiao Hong and her mother walked into the city's
+ancient concert hall. Today there was a classical concert by a famous violinist.
+The lights went out, and a warm lamp lit up on stage, illuminating the
+performer.
+
+Page 2:
+The sound of the violin was extremely beautiful.
+The music at times was slow and quiet, and at other times fast and loud. Xiao
+Hong listened to this melody, feeling her mood rise and fall along with the
+sounds.
+
+Page 3:
+After the concert ended, everyone clapped warmly.
+Xiao Hong was highly inspired. Returning home, she decided to take out her old
+toy piano bought during childhood to play again. A dream was born in her heart.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

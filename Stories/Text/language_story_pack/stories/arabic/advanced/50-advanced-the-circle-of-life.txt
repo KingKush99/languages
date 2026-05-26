@@ -1,0 +1,65 @@
+Story 50: The Circle of Life
+Language: Arabic
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 966-1000 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+كانت عالمة الأحياء هبة تدرس النظام البيئي الدقيق للغابة
+المحلية منذ سنوات طويلة. كانت تراقب عن كثب كيف تعيش الحيوانات الصغيرة وكيف
+تنمو وتتطور الأشجار العالية.
+
+Page 2:
+لاحظت هبة كيف تتحول الأوراق المتساقطة إلى تربة خصبة،
+والتربة تمنح القوة للأشجار الكبيرة لتنمو، والأشجار بدورها تصبح بيتاً
+آمناً ودافئاً للطيور والحيوانات الصغيرة.
+
+Page 3:
+في عطلة نهاية الأسبوع، دعت هبة الأطفال الصغار إلى الغابة
+لتوضح لهم هذا الهيكل المترابط. وكانت تشرح لهم بحب قائلة: "على أرضنا الجميلة،
+كل أشكال الحياة متصلة بدائرة واحدة".
+
+Page 4:
+بدأ الأطفال يستكشفون بأنفسهم ويبحثون عن الكائنات الحية
+الصغيرة تحت الأوراق وينظرون إلى النباتات بذهول. وفهموا أن الإنسان أيضاً
+يمثل جزءاً كبيراً من دائرة الطبيعة المترابطة.
+
+Page 5:
+شاهدت هبة الاهتمام واللمعان في عيون الأطفال. وأدركت جيداً
+أن التعليم البيئي السليم هو الطريقة الفضلى والوحيدة لحماية طبيعة كوكبنا الجميل
+وبيئته الرائعة في المستقبل.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The biologist Heba had studied the delicate
+ecological system of the local forest for many years. She closely monitored how
+small animals live and how tall trees grow and develop.
+
+Page 2:
+Heba observed how fallen leaves turn into fertile
+soil, the soil gives strength to big trees to grow, and the trees in turn become
+a safe and warm home for birds and small animals.
+
+Page 3:
+On the weekend, Heba invited young children into
+the forest to explain to them this interconnected structure. She lovingly
+explained to them, saying: "On our beautiful earth, all forms of life are
+connected in one circle."
+
+Page 4:
+The children began to explore for themselves,
+searching for small living creatures under the leaves and looking at plants in
+awe. They understood that humans also represent a big part of nature's
+interconnected circle.
+
+Page 5:
+Heba watched the interest and sparkle in the
+children's eyes. She realized well that sound environmental education is the
+best and only way to protect the nature and wonderful environment of our
+beautiful planet in the future.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

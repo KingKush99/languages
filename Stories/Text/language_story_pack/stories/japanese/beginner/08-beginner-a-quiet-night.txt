@@ -1,0 +1,18 @@
+Story 08: A Quiet Night
+Language: Japanese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 61-68 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+私は家で小さな本を読みます。また、手を使って静かに遊びます。一日の終わりに本を棚に置きます。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+I read a small book at home. I also play quietly using my hand. At the end of the day, I put the book on the shelf.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

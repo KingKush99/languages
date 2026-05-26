@@ -1,0 +1,32 @@
+Story 23: The Port City
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 261-275 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Мой дом стоит очень близко к большому порту. Каждое утро
+корабли со всего мира приходят сюда. Многие люди сходят на эту землю, и вокруг
+становится шумно.
+
+Page 2:
+Вечером я и мой отец идем к воде. Мы смотрим, как большие
+корабли уходят обратно в море. Свет солнца ложится на волны, и этот вид красив
+без всяких слов.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+My house stands very close to a big port. Every
+morning, ships from all over the world come here. Many people step onto this
+land, and it becomes noisy all around.
+
+Page 2:
+In the evening, my father and I go to the water. We
+watch as the big ships head back out to sea. The light of the sun rests on the
+waves, and this view is beautiful beyond any words.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

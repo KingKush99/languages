@@ -1,0 +1,46 @@
+Story 32: The Grandfather's Map
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 441-464 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Мальчик Рома искал книгу в комнате своего дедушки. Он
+открыл старый ящик стола и на самом дне нашел бумагу. Это была старая карта
+леса, которую дедушка нарисовал сам, когда был маленьким ребенком.
+
+Page 2:
+Рома и его друг решили пойти в лес по этой карте. Они
+использовали старые деревья как ориентиры и шли глубже в лес. Скоро они
+нашли старый каменный колодец, покрытый зеленой травой. Все было точно как
+на карте.
+
+Page 3:
+Они заглянули внутрь и увидели маленькую пластиковую
+коробку. Внутри лежала старая монетка и записка с именем дедушки. Мальчики
+нашли настоящий привет из прошлого и почувствовали себя героями большой истории.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The boy Roma was looking for a book in his
+grandfather's room. He opened an old desk drawer and found a paper at the very
+bottom. It was an old map of the forest that his grandfather had drawn himself
+when he was a small child.
+
+Page 2:
+Roma and his friend decided to go into the forest
+using this map. They used old trees as landmarks and went deeper into the
+forest. Soon they found an old stone well covered with green grass. Everything
+was exactly as shown on the map.
+
+Page 3:
+They peered inside and saw a small plastic box.
+Inside lay an old coin and a note with their grandfather's name. The boys had
+found a real greeting from the past and felt like heroes of a grand story. ===
+END OF STORY 32 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

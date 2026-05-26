@@ -1,0 +1,32 @@
+Story 25: Trying Again
+Language: Hindi
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 291-305 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+एक छोटी लड़की रंगीन कागज़ से एक सुंदर छोटा जानवर बनाने की
+कोशिश कर रही थी। लेकिन उसकी पहली कोशिश सफल नहीं हुई और कागज़ फट गया। उसे
+थोड़ा दुख हुआ।
+
+Page 2:
+माँ उसके पास आईं और बोलीं, "एक बार फिर कोशिश करो। अपने हाथों
+को थोड़ा धीरे चलाओ।" लड़की ने एक नया साफ़ कागज़ लिया और अंत में एक सुंदर खिलौना
+बना लिया। वह मुस्कुराई।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+A little girl tried to fold a beautiful small
+animal out of colored paper. But her first attempt did not succeed, and the
+paper tore. She felt a bit sad.
+
+Page 2:
+Her mother came over and said: "Try again, and make
+your hand movements a little slower." The girl took a clean new sheet of paper
+and was finally able to fold an excellent shape. She smiled.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

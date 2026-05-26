@@ -1,0 +1,20 @@
+Story 12: Our World
+Language: Chinese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 93-100 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+我的母亲和父亲热爱地球。我们在家附近建了一个小房子，以便自己观察野生动物。这就是世界的意义。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+My mother and father love the earth. We built a
+small house near our home to observe wild animals ourselves. That is the point
+of the world.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

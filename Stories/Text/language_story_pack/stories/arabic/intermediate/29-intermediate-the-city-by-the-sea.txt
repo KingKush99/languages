@@ -1,0 +1,45 @@
+Story 29: The City by the Sea
+Language: Arabic
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 369-392 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+كان عادل يعيش في مدينة جميلة تقع على شاطئ البحر الأزرق. وفي
+كل صيف، كان يقام هناك مهرجان كبير. تُعلق الأعلام الملونة في الميناء، ويبني الناس
+أكشاكاً خشبية لبيع الطعام. ومع اقتراب المساء، تجمّع الكثير من الناس السعداء.
+
+Page 2:
+التقى عادل في الميناء ببحار عجوز قضى حياته في البحر. أخبره
+العجوز عن رحلاته الطويلة في محيطات الأرض، وعن العواصف القوية والأسماك الضخمة.
+استمع الولد إليه باهتمام كبير وحلم بأن يصبح بحاراً حقيقياً في المستقبل.
+
+Page 3:
+عندما حل الظلام، بدأت الألعاب النارية الملونة تضيء السماء.
+كانت الأضواء تطير عالياً في الهواء ثم تسقط في ماء البحر لترسم لوحة رائعة. كانت
+المدينة كلها تضيء بسعادة، وشعر عادل بالفخر بمدينته الساحلية الرائعة.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Adel lived in a beautiful city located on the shore
+of the blue sea. Every summer, a big festival was organized there. Colorful
+flags were hung in the port, and people built wooden stalls to sell food. As
+evening approached, many happy people gathered.
+
+Page 2:
+Adel met an old sailor at the port who spent his
+life at sea. The old man told him about his long voyages across the earth's
+oceans, about strong storms and huge fish. The boy listened to him with great
+interest and dreamed of becoming a real sailor in the future.
+
+Page 3:
+When darkness fell, colorful fireworks began to
+light up the sky. The lights flew high into the air and then fell into the sea
+water to paint a wonderful picture. The whole city glowed with happiness, and
+Adel felt proud of his wonderful coastal city.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

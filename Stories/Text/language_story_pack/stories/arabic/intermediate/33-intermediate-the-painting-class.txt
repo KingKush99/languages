@@ -1,0 +1,46 @@
+Story 33: The Painting Class
+Language: Arabic
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 465-488 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+في كل سبت، كانت ليلى تذهب إلى دروس الرسم. اليوم كان عليهم
+رسم منظر النهر والسماء من نافذة الصف الكبيرة. جهزت لوحتها ووضعت ألواناً مائية
+زاهية على الطاولة. كانت متشوقة جداً لبدء العمل والنشاط.
+
+Page 2:
+بعد ساعة، بدأت السماء في الخارج تغير لونها ببطء إلى اللون
+البرتقالي الجميل. وظهر انعكاس رائع لأشعة الشمس فوق ماء النهر. خلطت ليلى
+الألوان الحمراء والصفراء بحذر على لوحتها لتنقل هذا الضوء الدافئ والجميل.
+
+Page 3:
+في نهاية الدرس، عُلقت كل اللوحات على الجدار. وعلى الرغم من
+أن الجميع رسموا نفس المنظر من النافذة، كانت لكل لوحة شخصيتها وجمالها الفريد.
+فهمت ليلى أن كل إنسان يرى العالم بطريقته الخاصة والجميلة.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Every Saturday, Layla went to painting class. Today
+they had to paint the view of the river and sky from the large classroom window.
+She prepared her canvas and put bright watercolors on the table. She was very
+excited to start her work and activity.
+
+Page 2:
+An hour later, the sky outside began to slowly
+change its color to a beautiful orange. A wonderful reflection of the sun's rays
+appeared on the river water. Layla carefully mixed red and yellow colors on her
+canvas to convey this warm and beautiful light.
+
+Page 3:
+At the end of the lesson, all paintings were hung
+on the wall. Even though everyone painted the same view from the window, each
+painting had its own unique personality and beauty. Layla understood that every
+person sees the world in their own special and beautiful way. === END OF
+STORY 33 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

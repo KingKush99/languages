@@ -1,0 +1,33 @@
+Story 24: High Lands
+Language: Hindi
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 276-290 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+हमने एक बहुत ऊँचे पहाड़ पर चढ़ने की योजना बनाई। वह पहाड़
+बादलों के पास खड़ा था और वहाँ तक पहुँचने के लिए हमें ताकत और कोशिश की
+ज़रूरत थी।
+
+Page 2:
+जब हम पहाड़ की चोटी पर पहुँचे तो वहाँ हवा बहुत ठंडी थी।
+लेकिन वहाँ से नीचे का नज़ारा बहुत सुंदर था। घर और नदियाँ छोटी लग रही
+थीं। हमें गर्व महसूस हुआ।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+We made a plan to climb a very high mountain. That
+mountain towered high near the clouds, and reaching its summit required strength
+and action.
+
+Page 2:
+When we reached the high summit, the wind was very
+cold. But looking down from there, the scenery was so beautiful. Houses and
+rivers looked like small points. We were proud of our own strength. === END OF
+STORY 24 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

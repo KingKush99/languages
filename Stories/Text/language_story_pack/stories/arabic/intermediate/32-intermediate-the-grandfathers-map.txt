@@ -1,0 +1,45 @@
+Story 32: The Grandfather's Map
+Language: Arabic
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 441-464 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+كان سمير يبحث عن كتاب في غرفة مكتب جده القديمة. وعندما فتح
+درجاً قديماً من أدراج المكتبة، وجد في قاعه ورقة مطوية. كانت خريطة قديمة للغابة
+القريبة رسمها جده بيده عندما كان طفلاً صغيراً.
+
+Page 2:
+قرر سمير وصديقه الذهاب إلى الغابة باستخدام هذه الخريطة.
+استخدموا الأشجار القديمة المميزة كعلامات للطريق وساروا في عمق أكبر. وسرعان
+ما وجدوا بئراً حجرية قديمة مغطاة بالعشب الأخضر، تماماً كما في الخريطة.
+
+Page 3:
+نظر الولدان داخل البئر ووجدا صندوقاً بلاستيكياً صغيراً. في
+الداخل كانت عملة معدنية قديمة ورسالة صغيرة تحمل اسم جده عندما كان طفلاً. شعر
+الولدان بسعادة غامرة وكأنهما في مغامرة تاريخية حقيقية.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Samir was looking for a book in his grandfather's
+old study room. When he opened an old drawer of the desk, he found a folded
+paper at the bottom. It was an old map of the nearby forest drawn by his
+grandfather when he was a young child.
+
+Page 2:
+Samir and his friend decided to go to the forest
+using this map. They used old, unique trees as landmarks and walked deeper into
+the forest. Soon they found an old stone well covered with green grass, exactly
+like on the map.
+
+Page 3:
+The two boys looked inside the well and found a
+small plastic box. Inside was an old coin and a small note with their
+grandfather's name when he was a child. The boys felt immense joy as if they
+were in a real historical adventure.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

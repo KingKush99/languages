@@ -1,0 +1,30 @@
+Story 39: The Science Fair
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 605-627 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+毎年秋に、学校では大きな科学展が開かれます。まなは水の浄化について発表することにしました。彼女は砂、石、布を使って小さな装置を作り、汚れた水が少しずつきれいになる様子を調べました。
+
+Page 2:
+最初の実験では、水は思ったほどきれいになりませんでした。まなは落ち込みましたが、先生は失敗も大切なデータだと言いました。彼女は材料の順番を変え、何度も試しました。
+
+Page 3:
+発表の日、まなの装置はうまく動きました。見に来た人たちは、水が透明に近づく様子を見て驚きました。まなは、科学は答えを覚えるだけでなく、質問し続ける力だと感じました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Every autumn, the school holds a large science fair. Mana decided to present about water purification. She made a small device using sand, stones, and cloth, and studied how dirty water gradually became cleaner.
+
+Page 2:
+In the first experiment, the water did not become as clean as she expected. Mana felt discouraged, but her teacher said failure was also important data. She changed the order of the materials and tried many times.
+
+Page 3:
+On presentation day, Mana's device worked well. The visitors were surprised to see the water become closer to clear. Mana felt that science was not only memorizing answers, but also the power to keep asking questions.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

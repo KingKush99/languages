@@ -1,0 +1,19 @@
+Story 05: The New Room
+Language: Chinese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 37-44 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+我们在那个房间里。哪个房间？我们可以走出来。其他的人也出来了。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+We were in that room. Which room? We can walk out.
+Other people came out too.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

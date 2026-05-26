@@ -1,0 +1,40 @@
+Story 27: The Old Clock
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 321-344 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+在一个星期六的下午，小明决定清理家里古老的阁楼。那里放着许多旧箱子和坏掉的家具。在房间的角落里，他发现了一座高大的木制旧钟。这座钟似乎已经很多年不走了，上面落满了灰尘。
+
+Page 2:
+小明打开钟的玻璃门，开始检查内部。在沉重的钟摆后面，他发现了一把黄铜小钥匙。他拿起钥匙，尝试插进旧钟侧面的一处小孔中。钥匙大小正好，转动起来也非常轻松。
+
+Page 3:
+当他轻轻转动钥匙时，旧钟开始发出滴答滴答的亲切声音。钟表指针再次移动起来，美丽的钟声很快在屋子里响起。这个声音和祖父多年前最喜欢听的声音一模一样。小明心里感到温暖而喜悦。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+On a Saturday afternoon, Xiao Ming decided to clean
+his family's ancient attic. There were many old boxes and broken furniture. In
+the corner of the room, he found a tall, old wooden clock. The clock did not
+seem to have run for many years, and a lot of dust had accumulated on it.
+
+Page 2:
+Xiao Ming opened the clock's glass door and began
+to check the inside. Behind the heavy pendulum, he found a small brass key. He
+took the key and tried to insert it into a small hole on the side of the old
+clock. The key fit perfectly and turned very easily.
+
+Page 3:
+As he turned the key gently, the old clock began to
+make a friendly ticking sound. The hands moved again, and a beautiful chime soon
+rang out in the house. This sound was exactly like the one his grandfather loved
+to listen to many years ago. Xiao Ming felt warm and joyful in his heart. ===
+END OF STORY 27 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

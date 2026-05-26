@@ -1,0 +1,50 @@
+Story 45: The Star Tracker
+Language: Japanese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 791-825 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+天文学者のサクラは、数十年に一度だけ地球に接近する珍しい彗星を観察する準備をしていました。
+
+Page 2:
+彼女は、地域の子どもたちのために、山の上に小さな観測会を企画しました。多くの家族が集まりました。
+
+Page 3:
+彼女は大きな望遠鏡を調整し、子どもたちに美しい星空をのぞかせました。「宇宙はとても広い」と子どもたちは言いました。
+
+Page 4:
+ついに、彗星が夜空に現れました。長い尾を引くその美しい光に、誰もが言葉を失い、静かに見つめました。
+
+Page 5:
+この体験は、多くの子どもたちに科学への情熱と宇宙への憧れを与えました。サクラは、未来の科学者を育てる価値を実感しました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Sakura, an astronomer, was preparing to observe a
+rare comet that approaches Earth only once in several decades.
+
+Page 2:
+She planned a small observation meeting on the
+mountain for local children. Many families gathered.
+
+Page 3:
+She adjusted the large telescope and let the
+children peer at the beautiful starlit sky. "The universe is so wide," the
+children said.
+
+Page 4:
+Finally, the comet appeared in the night sky. With
+its beautiful light trailing a long tail, everyone lost their words and watched
+quietly.
+
+Page 5:
+This experience gave many children a passion for
+science and a longing for space. Sakura realized the value of nurturing future
+scientists.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

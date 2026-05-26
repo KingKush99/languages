@@ -1,0 +1,33 @@
+Story 13: The Lost Dog
+Language: Arabic
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 101-116 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+في يوم من الأيام، وجدت فتاة صغيرة كلباً مفقوداً في الغابة
+القريبة. كان الكلب خائفاً ويشعر بالبرد الشديد. اقتربت منه الفتاة بلطف وتحدثت
+معه بصوت هادئ حتى يطمئن.
+
+Page 2:
+أخذت الفتاة الكلب إلى منزلها وأعطته طعاماً دافئاً. بدأ
+الكلب يهز ذيله بسعادة. وافقت والدتها وأبوها على بقاء الكلب معهم كفرد من
+العائلة، وكان الجميع سعداء جداً.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+One day, a young girl found a lost dog in the
+nearby forest. The dog was afraid and felt very cold. The girl approached it
+gently and spoke to it in a quiet voice until it felt safe.
+
+Page 2:
+The girl took the dog to her house and gave it warm
+food. The dog began to wag its tail happily. Her mother and father agreed to let
+the dog stay with them as a family member, and everyone was very happy. === END
+OF STORY 13 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,32 @@
+Story 26: The World of Words
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 306-320 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Слова открывают нам новые пути и меняют наше понимание
+жизни. Каждый день я изучаю смысл новых слов и записываю их в свою тетрадь,
+чтобы помнить.
+
+Page 2:
+Чтение книг помогает человеку строить свой собственный
+внутренний мир. Читая много, мы начинаем лучше понимать других людей и
+становимся добрее ко всем вокруг.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Words open up new paths for us and change our
+understanding of life. Every day I study the meaning of new words and write them
+in my notebook to remember.
+
+Page 2:
+Reading books helps a person build their own inner
+world. By reading a lot, we begin to better understand other people and become
+kinder to everyone around us.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

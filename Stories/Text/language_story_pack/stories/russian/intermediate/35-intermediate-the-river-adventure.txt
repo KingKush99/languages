@@ -1,0 +1,43 @@
+Story 35: The River Adventure
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 513-535 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Рома и Денис сделали красивую деревянную лодку на школьном
+уроке труда. Они решили запустить ее в плавание по чистой местной реке, чтобы
+посмотреть, как она держится на воде.
+
+Page 2:
+Течение реки было спокойным, но на пути лодки встречались
+упавшие ветки и большие камни. Мальчики бежали по берегу и переживали, сможет
+ли их лодка обойти все эти препятствия.
+
+Page 3:
+Ниже по течению Рома аккуратно достал лодку из воды. Она
+была совершенно целой. Мальчики вернулись домой и подробно записали в свой
+дневник наблюдения за скоростью течения реки.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Roma and Denis made a beautiful wooden boat during
+their school craft lesson. They decided to launch it on a voyage along the clean
+local river to see how it kept on the water.
+
+Page 2:
+The river current was calm, but along the boat's
+path, there were fallen branches and large stones. The boys ran along the bank,
+worrying whether their boat could bypass all these obstacles.
+
+Page 3:
+Downstream, Roma carefully retrieved the boat from
+the water. It was completely undamaged. The boys returned home and recorded
+their observations of the river current's speed in detail in their journal. ===
+END OF STORY 35 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

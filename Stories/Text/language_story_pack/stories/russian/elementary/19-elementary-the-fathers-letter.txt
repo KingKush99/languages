@@ -1,0 +1,31 @@
+Story 19: The Father's Letter
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 197-212 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Мой отец уехал по работе в большой портовый город далеко
+от дома. Однажды нам пришло письмо от него. Я был так рад и сразу открыл его.
+
+Page 2:
+В письме отец писал о красивых местах, море и новых людях,
+которых встретил. Он обещал скоро вернуться домой к нам. Моя душа сразу
+успокоилась.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+My father left for work to a large port city far
+from home. One day, a letter from him came to us. I was so glad and opened it
+immediately.
+
+Page 2:
+In the letter, father wrote about the beautiful
+places, the sea, and new people he met. He promised to return home to us soon.
+My soul felt relieved immediately.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

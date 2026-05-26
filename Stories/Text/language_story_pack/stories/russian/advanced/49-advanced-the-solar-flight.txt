@@ -1,0 +1,59 @@
+Story 49: The Solar Flight
+Language: Russian
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 931-965 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Инженер Юрий работал над созданием нового аппарата. Это
+был маленький дрон, который мог летать только на солнечной энергии без
+бензина.
+
+Page 2:
+Целью проекта было доставлять медицинские приборы и
+лекарства людям в труднодоступные районы гор, где дороги были разрушены
+оползнями.
+
+Page 3:
+В одно солнечное утро Юрий вывез аппарат на широкое поле.
+Дрон тихо поднялся в воздух и полетел к горам, используя только силу света.
+
+Page 4:
+В горах поднялся сильный ветер. Но благодаря прочной
+структуре крыла дрон смог сохранить баланс и продолжил движение по курсу.
+
+Page 5:
+Дрон успешно доставил груз на место. Юрий был счастлив.
+Его новая технология доказала свою пользу и помогла сделать шаг к спасению
+жизней.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The engineer Yuri worked on creating a new vehicle.
+It was a small drone that could fly solely on solar energy without gasoline.
+
+Page 2:
+The goal of the project was to deliver medical
+devices and medicines to people in hard-to-reach mountain areas where roads were
+destroyed by landslides.
+
+Page 3:
+On a sunny morning, Yuri took the vehicle out to a
+wide field. The drone quietly rose into the air and flew towards the mountains
+using only the power of light.
+
+Page 4:
+A strong wind arose in the mountains. But thanks to
+the durable structure of the wing, the drone was able to maintain balance and
+continued moving on course.
+
+Page 5:
+The drone successfully delivered the cargo to the
+destination. Yuri was happy. His new technology proved its utility and helped
+make a step toward saving lives.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

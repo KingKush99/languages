@@ -1,0 +1,64 @@
+Story 45: The Star Tracker
+Language: Arabic
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 791-825 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+كانت عالمة الفلك ليلى تنتظر ظهور مذنب نادر ومميز للغاية.
+يقترب هذا المذنب من الأرض مرة واحدة كل مئة عام فقط. كانت تريد التقاط صور
+عالية الجودة لذيله الساطع.
+
+Page 2:
+نظمت ليلى مدرسة مسائية صغيرة وممتعة للأطفال المهتمين بالفلك
+على تلة مرتفعة خارج المدينة. جاء الكثير من الأطفال الصغار برفقة والديهم لمشاهدة
+السماء الرائعة اليوم.
+
+Page 3:
+قامت ليلى بتعديل تلسكوب كبير ووضعت النجوم بوضوح أمام
+الأطفال. كانت تشرح لهم قوانين الكون وحركة الكواكب بكلمات بسيطة وسهلة
+الفهم. استمع الجميع بشغف واهتمام.
+
+Page 4:
+وأخيراً، ظهر المذنب الساطع في السماء المظلمة. ترك ضوؤه خطاً
+لامعاً وجميلاً في الأعالي. صمت الجميع ونظروا بذهول إلى هذا المشهد الرائع والجميل
+من مشاهد الطبيعة.
+
+Page 5:
+ساعد هذا المساء الجميل الأطفال على حب العلوم واستكشاف
+الفضاء. قرر بعضهم أن يصبحوا علماء فلك في المستقبل. فهمت ليلى أن عملها
+وجهدها يحملان قيمة كبيرة للمجتمع.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The astronomer Layla was waiting for the appearance
+of a rare and very distinct comet. This comet approaches Earth only once every
+hundred years. She wanted to take high-quality pictures of its bright tail.
+
+Page 2:
+Layla organized a small and fun evening school for
+children interested in astronomy on a high hill outside the city. Many young
+children came accompanied by their parents to watch the wonderful sky today.
+
+Page 3:
+Layla adjusted a large telescope and placed the
+stars clearly before the children. She explained to them the laws of the
+universe and planetary movement in simple, easy-to-understand words. Everyone
+listened with passion and interest.
+
+Page 4:
+Finally, the bright comet appeared in the dark sky.
+Its light left a shiny, beautiful line in the heights. Everyone fell silent and
+looked in awe at this wonderful and beautiful sight of nature.
+
+Page 5:
+This beautiful evening helped the children fall in
+love with science and space exploration. Some of them decided to become
+astronomers in the future. Layla understood that her work and effort hold great
+value for society.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

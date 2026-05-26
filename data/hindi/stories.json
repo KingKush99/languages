@@ -2,7 +2,7 @@
   {
     "id": "hindi-beginner-01",
     "level": "beginner",
-    "title": "Beginner 01: Morning at Home",
+    "title": "Beginner 01: The Book",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -22,19 +22,19 @@
       9
     ],
     "reviewWords": [],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/01-beginner-morning-at-home.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/01-beginner-the-book.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह अन्ना घर जाती है। वहाँ पास में चाय और किताब है। अन्ना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “शहर।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Anna is at home. There is tea and book nearby. Anna reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
+        "ru": "मैं वहाँ था। उसने अपनी पुस्तक मेज पर रख दी। वह मेरे लिए था,\nजैसा उसने कहा था।",
+        "en": "I was there. He put his book on the table. It was\nfor me, as he had said."
       }
     ]
   },
   {
     "id": "hindi-beginner-02",
     "level": "beginner",
-    "title": "Beginner 02: Tea on the Table",
+    "title": "Beginner 02: Gathering at Home",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -60,19 +60,19 @@
       7,
       9
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/02-beginner-tea-on-the-table.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/02-beginner-gathering-at-home.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह लीना घर जाती है। वहाँ पास में चाय और रोटी है। लीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “मेज़।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Lena is at home. There is tea and bread nearby. Lena reads slowly and notices a new word: table. The day feels good, and the language feels a little closer."
+        "ru": "वे अब यहाँ हैं। मेरे दोस्त एक घर में मेरे साथ रहना चाहते\nहैं। हमारे पास यह शांत जगह है।",
+        "en": "They are here now. My friends want to be with me in\none house. We have this quiet place."
       }
     ]
   },
   {
     "id": "hindi-beginner-03",
     "level": "beginner",
-    "title": "Beginner 03: The Open Window",
+    "title": "Beginner 03: A Hot Day",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -99,19 +99,19 @@
       13,
       16
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/03-beginner-the-open-window.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/03-beginner-a-hot-day.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह इवान घर जाता है। वहाँ पास में खिड़की और किताब है। इवान धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “पुस्तकालय।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Ivan is at home. There is window and book nearby. Ivan reads slowly and notices a new word: library. The day feels good, and the language feels a little closer."
+        "ru": "यह क्या है? यह मेरे दोस्त का एक शब्द है। लेकिन आज बहुत गर्मी\nहै। इसके पास कुछ पानी है।",
+        "en": "What is this? This is a word from my friend. But\ntoday is hot. There is some water by it."
       }
     ]
   },
   {
     "id": "hindi-beginner-04",
     "level": "beginner",
-    "title": "Beginner 04: Walking to the Park",
+    "title": "Beginner 04: The Decision",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -140,19 +140,19 @@
       22,
       25
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/04-beginner-walking-to-the-park.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/04-beginner-the-decision.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह माशा पार्क जाती है। वहाँ पास में माँ और भाई है। माशा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “दोस्त।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Masha is in the park. There is mother and brother nearby. Masha reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
+        "ru": "आप और मैं जाते हैं। क्या यह आप हैं या मैं? हमारे पास अतीत की\nएक पुरानी किताब थी। साथ में नए शहर की ओर चलें।",
+        "en": "You and I will go. Is it you or me? We had that old\nbook of the past. Let us go to the new town together."
       }
     ]
   },
   {
     "id": "hindi-beginner-05",
     "level": "beginner",
-    "title": "Beginner 05: A Quiet Street",
+    "title": "Beginner 05: The New Room",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -180,19 +180,19 @@
       31,
       34
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/05-beginner-a-quiet-street.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/05-beginner-the-new-room.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह पावेल सड़क जाता है। वहाँ पास में घर और खिड़की है। पावेल धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “सड़क।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Pavel is on the street. There is house and window nearby. Pavel reads slowly and notices a new word: street. The day feels good, and the language feels a little closer."
+        "ru": "हम उस कमरे में थे। कौन सा कमरा? हम बाहर जा सकते हैं। अन्य\nलोग भी बाहर थे।",
+        "en": "We were in that room. Which room? We can go out.\nOther people were outside too."
       }
     ]
   },
   {
     "id": "hindi-beginner-06",
     "level": "beginner",
-    "title": "Beginner 06: The First Book",
+    "title": "Beginner 06: The Plan",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -220,19 +220,19 @@
       39,
       42
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/06-beginner-the-first-book.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/06-beginner-the-plan.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह ओल्गा पुस्तकालय जाती है। वहाँ पास में किताब और कार्ड है। ओल्गा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “शब्द।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Olga is in the library. There is book and card nearby. Olga reads slowly and notices a new word: word. The day feels good, and the language feels a little closer."
+        "ru": "उसने कहा, \"समय नहीं है।\" यदि वे अपना काम करते हैं, तो वे इसे\nकैसे करेंगे? यह एक अच्छी योजना होगी।",
+        "en": "He said, \"There is no time.\" If they do their work,\nhow will they do it? It will be a good plan."
       }
     ]
   },
   {
     "id": "hindi-beginner-07",
     "level": "beginner",
-    "title": "Beginner 07: A Good Day",
+    "title": "Beginner 07: Three Wishes",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -260,19 +260,19 @@
       47,
       50
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/07-beginner-a-good-day.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/07-beginner-three-wishes.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह निकोलाई पार्क जाता है। वहाँ पास में सूरज और पेड़ है। निकोलाई धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “अच्छा।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Nikolay is in the park. There is sun and tree nearby. Nikolay reads slowly and notices a new word: good. The day feels good, and the language feels a little closer."
+        "ru": "मैं आपको बताना चाहता हूँ। यहाँ तीन चीजों का एक सेट है। हर\nचीज को ताजी हवा की जरूरत होती है। यह अच्छी तरह से काम करता है।",
+        "en": "I want to tell you. There is a set of three things\nhere. Each thing needs fresh air. It works well."
       }
     ]
   },
   {
     "id": "hindi-beginner-08",
     "level": "beginner",
-    "title": "Beginner 08: At School",
+    "title": "Beginner 08: A Quiet Night",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -300,19 +300,19 @@
       55,
       58
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/08-beginner-at-school.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/08-beginner-a-quiet-night.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह साशा स्कूल जाता है। वहाँ पास में डेस्क और पेंसिल है। साशा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “स्कूल।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Sasha is at school. There is desk and pencil nearby. Sasha reads slowly and notices a new word: school. The day feels good, and the language feels a little closer."
+        "ru": "मैं घर पर एक छोटी किताब पढ़ता हूँ। मैं अपने हाथों से खेलता\nभी हूँ। दिन के अंत में, मैं किताब शेल्फ पर रख देता हूँ।",
+        "en": "I read a small book at home. I also play quietly\nusing my hand. At the end of the day, I put the book on the shelf. === END OF\nSTORY 08 ==="
       }
     ]
   },
   {
     "id": "hindi-beginner-09",
     "level": "beginner",
-    "title": "Beginner 09: At the Store",
+    "title": "Beginner 09: The Large Port",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -340,19 +340,19 @@
       63,
       66
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/09-beginner-at-the-store.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/09-beginner-the-large-port.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह इरीना दुकान जाती है। वहाँ पास में बैग और खाना है। इरीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “दुकान।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Irina is in the store. There is bag and food nearby. Irina reads slowly and notices a new word: store. The day feels good, and the language feels a little closer."
+        "ru": "यह एक बड़ा बंदरगाह है। इस भूमि पर एक बड़ा जहाज है। आपको यहाँ\nअपना नाम सही लिखना और उसकी वर्तनी लिखनी चाहिए। जानकारी भी जोड़ें।",
+        "en": "Here is a large port. There is a big ship on this\nland. You must write and spell your name correctly here. Information is also\nneeded."
       }
     ]
   },
   {
     "id": "hindi-beginner-10",
     "level": "beginner",
-    "title": "Beginner 10: At the Station",
+    "title": "Beginner 10: The Path to Change",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -380,19 +380,19 @@
       71,
       74
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/10-beginner-at-the-station.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/10-beginner-the-path-to-change.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह मारिया स्टेशन जाती है। वहाँ पास में चाय और टिकट है। मारिया धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “स्टेशन।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Maria is at the station. There is tea and ticket nearby. Maria reads slowly and notices a new word: station. The day feels good, and the language feels a little closer."
+        "ru": "लोग एक ऊँचे पर्वत पर गए। मैंने पूछा कि वे क्यों गए। वे इस\nतरह के बदलाव का पालन करने के लिए कार्य करते हैं।",
+        "en": "The men went to a high mountain. I asked why they\nwent. They acted and followed the change."
       }
     ]
   },
   {
     "id": "hindi-beginner-11",
     "level": "beginner",
-    "title": "Beginner 11: A Simple Call",
+    "title": "Beginner 11: The New Picture",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -420,19 +420,19 @@
       79,
       82
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/11-beginner-a-simple-call.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/11-beginner-the-new-picture.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह दीमा घर जाता है। वहाँ पास में फ़ोन और कॉपी है। दीमा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “दोस्त।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Dima is at home. There is phone and notebook nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
+        "ru": "इस घर को प्रकाश की जरूरत है। कृपया लाइट बंद करके इसकी फिर से\nतस्वीर लेने की कोशिश करें। एक दयालु व्यक्ति हमारी मदद करता है।",
+        "en": "This house needs light. Please turn the light off\nand try to take a picture again. A kind person will help us."
       }
     ]
   },
   {
     "id": "hindi-beginner-12",
     "level": "beginner",
-    "title": "Beginner 12: I Know This Word",
+    "title": "Beginner 12: Our World",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -460,19 +460,19 @@
       87,
       90
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/12-beginner-i-know-this-word.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/beginner/12-beginner-our-world.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह कात्या कमरे जाती है। वहाँ पास में कागज़ और किताब है। कात्या धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “जानना।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Katya is in the room. There is paper and book nearby. Katya reads slowly and notices a new word: know. The day feels good, and the language feels a little closer."
+        "ru": "मेरी माँ और पिता पृथ्वी से प्यार करते हैं। हम अपने घर के पास\nएक छोटा घर बनाते हैं और खुद जंगली जानवरों को देखते हैं। यही दुनिया का बिंदु है।",
+        "en": "My mother and father love the earth. We build a\nsmall house near our home and observe wild animals ourselves. That is the point\nof the world."
       }
     ]
   },
   {
     "id": "hindi-elementary-13",
     "level": "elementary",
-    "title": "Elementary 13: The Library Window",
+    "title": "Elementary 13: The Lost Dog",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -508,24 +508,24 @@
       95,
       98
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/13-elementary-the-library-window.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/13-elementary-the-lost-dog.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह पावेल पुस्तकालय जाता है। वहाँ पास में खिड़की और कॉपी है। पावेल धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “शांत।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Pavel is in the library. There is window and notebook nearby. Pavel reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
+        "ru": "एक दिन, एक छोटी लड़की को पास के जंगल में एक खोया हुआ कुत्ता\nमिला। वह कुत्ता बहुत डरा हुआ था और उसे बहुत ठंड लग रही थी। लड़की ने उससे प्यार\nसे बात की और उसे शांत किया।",
+        "en": "One day, a little girl found a lost dog in the\nnearby forest. The dog was very scared and felt very cold. The girl spoke to it\ngently and made it feel safe."
       },
       {
         "heading": "Page 2",
-        "ru": "पावेल अपनी कॉपी में “शांत” शब्द लिखता है। फिर पावेल “पढ़ना” के बारे में सोचता है। जगह शांत है, इसलिए पावेल वाक्य को फिर से पढ़कर धीरे से बोलता है.",
-        "en": "Pavel writes the word quiet in a notebook. Then Pavel thinks about reading. The place is quiet, so Pavel reads the sentence again and says it softly."
+        "ru": "वह कुत्ते को अपने घर ले आई और उसे गर्म खाना दिया। कुत्ता\nखुशी से अपनी पूंछ हिलाने लगा। उसकी माँ और पिता भी कुत्ते को रखने के लिए\nमान गए और सब बहुत खुश हुए।",
+        "en": "She brought the dog back to her house and gave it\nwarm food. The dog happily wagged its tail. Her mother and father also agreed to\nlet it stay, and everyone was very happy."
       }
     ]
   },
   {
     "id": "hindi-elementary-14",
     "level": "elementary",
-    "title": "Elementary 14: The Museum Visit",
+    "title": "Elementary 14: The New House",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -561,24 +561,24 @@
       111,
       114
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/14-elementary-the-museum-visit.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/14-elementary-the-new-house.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह निकोलाई संग्रहालय जाता है। वहाँ पास में टिकट और तस्वीर है। निकोलाई धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “इतिहास।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Nikolay is in the museum. There is ticket and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
+        "ru": "हमने अपना नया घर बनाने के लिए इस शांत भूमि को चुना। पास ही\nएक साफ नदी है और हर दिन सुंदर पक्षियों का गाना सुनाई देता है। आज से हमारा\nनया जीवन शुरू होता है।",
+        "en": "We chose this quiet land to build our new house.\nThere is a clean river nearby, and we can hear the beautiful songs of birds\nevery day. Our new life begins today."
       },
       {
         "heading": "Page 2",
-        "ru": "निकोलाई अपनी कॉपी में “इतिहास” शब्द लिखता है। फिर निकोलाई “याद” के बारे में सोचता है। जगह शांत है, इसलिए निकोलाई वाक्य को फिर से पढ़कर धीरे से बोलता है.",
-        "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about memory. The place is quiet, so Nikolay reads the sentence again and says it softly."
+        "ru": "पिताजी और मैंने नए घर के पास एक छोटा बगीचा बनाना शुरू किया।\nहमने वहाँ कई सुंदर फूल लगाए। माँ खिड़की से हमें देख रही थीं और प्यार से हमारी\nमदद कर रही थीं।",
+        "en": "My father and I started to build a small garden\nnear our new house. We planted many beautiful flowers there. My mother watched\nus from the window and kindly helped us."
       }
     ]
   },
   {
     "id": "hindi-elementary-15",
     "level": "elementary",
-    "title": "Elementary 15: The Cafe Notebook",
+    "title": "Elementary 15: The Mother's Advice",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -614,24 +614,24 @@
       127,
       130
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/15-elementary-the-cafe-notebook.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/15-elementary-the-mothers-advice.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह ओल्गा कैफ़े जाती है। वहाँ पास में चाय और संगीत है। ओल्गा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “धुन।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Olga is in the cafe. There is tea and music nearby. Olga reads slowly and notices a new word: melody. The day feels good, and the language feels a little closer."
+        "ru": "एक छोटा लड़का स्कूल के एक कठिन सवाल के बारे में सोच रहा था।\nउसने बहुत समय तक किताब पढ़ी, लेकिन उसे सही उत्तर बिल्कुल समझ नहीं आया। इससे वह\nउदास हो गया।",
+        "en": "A little boy was thinking about a difficult problem\nfor school. He read a book for a long time, but he could not understand the\ncorrect answer at all. This made him feel sad."
       },
       {
         "heading": "Page 2",
-        "ru": "ओल्गा अपनी कॉपी में “धुन” शब्द लिखती है। फिर ओल्गा “सुनना” के बारे में सोचती है। जगह शांत है, इसलिए ओल्गा वाक्य को फिर से पढ़कर धीरे से बोलती है.",
-        "en": "Olga writes the word melody in a notebook. Then Olga thinks about listening. The place is quiet, so Olga reads the sentence again and says it softly."
+        "ru": "माँ उसके पास आईं और प्यार से बोलीं, \"एक बार फिर कोशिश करो,\nपहले पन्ने से शुरू करो। धीरे-धीरे पढ़ो, तुम इसका मतलब और उत्तर जरूर समझ\nजाओगे।\" लड़के ने फिर से शुरुआत की।",
+        "en": "His mother came to his side and said gently: \"Try\nagain, start from the first page. Read slowly, and you will surely understand\nits meaning and the answer.\" The boy started over."
       }
     ]
   },
   {
     "id": "hindi-elementary-16",
     "level": "elementary",
-    "title": "Elementary 16: Rain Near the Door",
+    "title": "Elementary 16: Building a Bridge",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -667,24 +667,24 @@
       143,
       146
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/16-elementary-rain-near-the-door.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/16-elementary-building-a-bridge.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह दीमा किताबों की दुकान जाता है। वहाँ पास में दरवाज़ा और किताब है। दीमा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “रास्ता।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Dima is in the bookshop. There is door and book nearby. Dima reads slowly and notices a new word: road. The day feels good, and the language feels a little closer."
+        "ru": "हमारे गाँव के पास एक बहुत चौड़ी नदी है। नदी के उस पार जाने\nके लिए हमें पहले हमेशा बहुत लंबा और थका देने वाला रास्ता तय करना पड़ता था।\nइससे हमें बहुत परेशानी होती थी।",
+        "en": "There is a very wide river near our village. In\norder to go to the land on the other side, we always had to walk a long and\ntiring road in the past. This made us feel very inconvenienced."
       },
       {
         "heading": "Page 2",
-        "ru": "दीमा अपनी कॉपी में “रास्ता” शब्द लिखता है। फिर दीमा “बारिश” के बारे में सोचता है। जगह शांत है, इसलिए दीमा वाक्य को फिर से पढ़कर धीरे से बोलता है.",
-        "en": "Dima writes the word road in a notebook. Then Dima thinks about rain. The place is quiet, so Dima reads the sentence again and says it softly."
+        "ru": "गाँव के लोग एक साथ आए और उन्होंने एक नया लकड़ी का पुल बनाने\nका फैसला किया। सबने अपने हाथों से कड़ी मेहनत की और पुल बन गया। अब हम बहुत\nआसानी से नदी पार कर सकते हैं।",
+        "en": "The villagers gathered together and decided to\nbuild a new wooden bridge. Everyone worked hard with their hands, and the big\nbridge was finally built. Now we can cross the river very easily and quickly."
       }
     ]
   },
   {
     "id": "hindi-elementary-17",
     "level": "elementary",
-    "title": "Elementary 17: The Letter on the Table",
+    "title": "Elementary 17: The Picture Book",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -720,24 +720,24 @@
       159,
       162
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/17-elementary-the-letter-on-the-table.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/17-elementary-the-picture-book.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह साशा विश्वविद्यालय जाता है। वहाँ पास में पत्र और मेज़ है। साशा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “मुलाकात।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Sasha is at the university. There is letter and table nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
+        "ru": "मेरे दादाजी ने मुझे एक पुरानी और दिलचस्प चित्रों वाली पुस्तक\nदी। उस किताब में दुनिया भर के जंगली जानवरों की कई सुंदर तस्वीरें थीं। मुझे वह\nपहली नज़र में ही पसंद आ गई।",
+        "en": "My grandfather gave me an ancient and interesting\npicture book. In that book, there were many beautiful photos of wild animals\nfrom all over the world. I fell in love with it at first sight."
       },
       {
         "heading": "Page 2",
-        "ru": "साशा अपनी कॉपी में “मुलाकात” शब्द लिखता है। फिर साशा “निमंत्रण” के बारे में सोचता है। जगह शांत है, इसलिए साशा वाक्य को फिर से पढ़कर धीरे से बोलता है.",
-        "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about invitation. The place is quiet, so Sasha reads the sentence again and says it softly."
+        "ru": "मैं किताब पढ़ रहा था और नए कठिन शब्दों की वर्तनी लिखना सीख\nरहा था। मेरी माँ हमेशा मेरे पास बैठती थीं और मुझे सही और जल्दी सीखने में\nप्यार से मदद करती थीं।",
+        "en": "While reading, I learned how to write the spellings\nof those difficult new words. My mother always sat next to me, kindly helping me\nlearn correctly and quickly."
       }
     ]
   },
   {
     "id": "hindi-elementary-18",
     "level": "elementary",
-    "title": "Elementary 18: Words in the Park",
+    "title": "Elementary 18: Pointing to the Sky",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -773,24 +773,24 @@
       175,
       178
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/18-elementary-words-in-the-park.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/18-elementary-pointing-to-the-sky.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह इरीना पार्क जाती है। वहाँ पास में फ़ोन और चाय है। इरीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “तीन।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Irina is in the park. There is phone and tea nearby. Irina reads slowly and notices a new word: three. The day feels good, and the language feels a little closer."
+        "ru": "जब हम ऊँचे पहाड़ की चोटी पर पहुँचे, तो नीला आसमान हमारे बहुत\nपास लग रहा था। हवा ठंडी और तेज़ चल रही थी, लेकिन तेज़ धूप ने चारों ओर की दुनिया\nको सुंदर बना दिया था।",
+        "en": "When we climbed up to the top of the high mountain,\nthe blue sky seemed very close to us. The wind blew cold and strong, but the\nbright sunlight made the world around us incredibly beautiful."
       },
       {
         "heading": "Page 2",
-        "ru": "इरीना अपनी कॉपी में “तीन” शब्द लिखती है। फिर इरीना “बोलना” के बारे में सोचती है। जगह शांत है, इसलिए इरीना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
-        "en": "Irina writes the word three in a notebook. Then Irina thinks about speaking. The place is quiet, so Irina reads the sentence again and says it softly."
+        "ru": "पिताजी ने हाथ से आसमान की ओर इशारा किया और कहा, \"उन बड़े\nपक्षियों को देखो, वे सब एक साथ दूर और गर्म देश की ओर उड़ रहे हैं।\" हम\nवहीं खड़े होकर उन्हें देखते रहे।",
+        "en": "My father pointed to the sky with his hand and\nsaid: \"Look at those beautiful big birds. They are flying together to a distant\nand warm land.\" We stood there quietly, watching them fly away. === END OF\nSTORY 18 ==="
       }
     ]
   },
   {
     "id": "hindi-elementary-19",
     "level": "elementary",
-    "title": "Elementary 19: The Little Plan",
+    "title": "Elementary 19: The Father's Letter",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -826,24 +826,24 @@
       191,
       194
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/19-elementary-the-little-plan.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/19-elementary-the-fathers-letter.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह लीना दुकान जाती है। वहाँ पास में नक्शा और टोकरी है। लीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “योजना।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Lena is in the store. There is map and basket nearby. Lena reads slowly and notices a new word: plan. The day feels good, and the language feels a little closer."
+        "ru": "मेरे पिता काम की वजह से बहुत दूर एक बड़े बंदरगाह के शहर में\nगए थे। एक दिन घर पर उनका लिखा हुआ पत्र मिला। मैं बहुत खुश हुआ और मैंने तुरंत\nउसे खोल लिया।",
+        "en": "My father went to a very far and large port city\nbecause of work. One day, a letter he wrote was received at home. I was very\nhappy and opened it immediately."
       },
       {
         "heading": "Page 2",
-        "ru": "लीना अपनी कॉपी में “योजना” शब्द लिखती है। फिर लीना “खरीदारी” के बारे में सोचती है। जगह शांत है, इसलिए लीना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
-        "en": "Lena writes the word plan in a notebook. Then Lena thinks about shopping. The place is quiet, so Lena reads the sentence again and says it softly."
+        "ru": "पिताजी ने पत्र में वहाँ के सुंदर समुद्र, अद्भुत जगहों और\nअच्छे लोगों के बारे में लिखा था। उन्होंने वादा किया कि वे बहुत जल्द घर\nआएँगे। मेरा दिल शांत हो गया।",
+        "en": "Father wrote in the letter about the beautiful sea,\nwonderful places, and kind people there. He promised to come home very soon. My\nheart felt relieved immediately."
       }
     ]
   },
   {
     "id": "hindi-elementary-20",
     "level": "elementary",
-    "title": "Elementary 20: The News Page",
+    "title": "Elementary 20: Water from the Well",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -879,24 +879,24 @@
       207,
       210
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/20-elementary-the-news-page.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/20-elementary-water-from-the-well.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह मारिया स्टेशन जाती है। वहाँ पास में चाय और अख़बार है। मारिया धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “समाचार।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Maria is at the station. There is tea and newspaper nearby. Maria reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
+        "ru": "वह गर्मियों की एक बहुत गर्म दोपहर थी। घर में हवा नहीं चल रही\nथी और हमें ठंडे पानी की ज़रूरत थी। हमने जंगल के पास वाले पुराने कुएं से पानी\nलाने का फैसला किया।",
+        "en": "That was a very hot summer afternoon. There was no\nwind in the house, and we needed cool, clean water. We decided to go draw water\nfrom that old well near the forest."
       },
       {
         "heading": "Page 2",
-        "ru": "मारिया अपनी कॉपी में “समाचार” शब्द लिखती है। फिर मारिया “सोच” के बारे में सोचती है। जगह शांत है, इसलिए मारिया वाक्य को फिर से पढ़कर धीरे से बोलती है.",
-        "en": "Maria writes the word news in a notebook. Then Maria thinks about thinking. The place is quiet, so Maria reads the sentence again and says it softly."
+        "ru": "हमने अपने हाथों से भारी बाल्टी को कुएं से ऊपर खींचा। कुएं का\nपानी बहुत ठंडा था। हमने पानी पिया और हमें बहुत अच्छा लगा। वह गर्म दिन भी सुंदर\nबन गया।",
+        "en": "We used our hands to pull the heavy bucket up from\nthe well. The well water was very cool. We drank the water and felt very happy\nand comfortable. The hot day became beautiful too."
       }
     ]
   },
   {
     "id": "hindi-elementary-21",
     "level": "elementary",
-    "title": "Elementary 21: The Family Walk",
+    "title": "Elementary 21: A Day of Play",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -932,24 +932,24 @@
       223,
       226
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/21-elementary-the-family-walk.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/21-elementary-a-day-of-play.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह अन्ना पार्क जाती है। वहाँ पास में माँ और भाई है। अन्ना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “घर।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Anna is in the park. There is mother and brother nearby. Anna reads slowly and notices a new word: house. The day feels good, and the language feels a little closer."
+        "ru": "आज स्कूल की छुट्टी थी। छोटे बच्चे घर के पास वाले खुले मैदान\nमें जमा हो गए। सब मजे से खेलने लगे। मौसम बहुत अच्छा था और ठंडी हवा चल रही थी।",
+        "en": "Today is a school holiday. Small children gathered\nin the open square near the houses. Everyone started playing lively. The weather\nwas great, and a comfortable breeze was blowing."
       },
       {
         "heading": "Page 2",
-        "ru": "अन्ना अपनी कॉपी में “घर” शब्द लिखती है। फिर अन्ना “परिवार” के बारे में सोचती है। जगह शांत है, इसलिए अन्ना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
-        "en": "Anna writes the word house in a notebook. Then Anna thinks about family. The place is quiet, so Anna reads the sentence again and says it softly."
+        "ru": "वे शाम तक खेलते रहे। दिन के अंत में, सब घास पर एक बड़े घेरे\nमें बैठ गए और एक-दूसरे को उन कहानियों के बारे में बताने लगे जो उन्होंने\nकिताबों में पढ़ी थीं।",
+        "en": "They played until evening. At the end of the day,\neveryone sat in a big circle on the grass, telling each other interesting\nstories they had read in books."
       }
     ]
   },
   {
     "id": "hindi-elementary-22",
     "level": "elementary",
-    "title": "Elementary 22: The Quiet Room",
+    "title": "Elementary 22: Small Endings",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -985,24 +985,24 @@
       239,
       242
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/22-elementary-the-quiet-room.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/22-elementary-small-endings.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह इवान कमरे जाता है। वहाँ पास में कुर्सी और किताब है। इवान धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “कमरा।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Ivan is in the room. There is chair and book nearby. Ivan reads slowly and notices a new word: room. The day feels good, and the language feels a little closer."
+        "ru": "इस दुनिया में हर चीज़ का एक अंत होता है। लेकिन एक अंत का\nमतलब हमेशा कुछ नया शुरू होना होता है। छोटे लड़के ने अपने पुराने खिलौने\nएक बड़े बक्से में रख दिए।",
+        "en": "Every thing in this world has its end. But an\nending always means the beginning of something new. The little boy put his old\ntoys into a large box."
       },
       {
         "heading": "Page 2",
-        "ru": "इवान अपनी कॉपी में “कमरा” शब्द लिखता है। फिर इवान “शांति” के बारे में सोचता है। जगह शांत है, इसलिए इवान वाक्य को फिर से पढ़कर धीरे से बोलता है.",
-        "en": "Ivan writes the word room in a notebook. Then Ivan thinks about silence. The place is quiet, so Ivan reads the sentence again and says it softly."
+        "ru": "अब वह बड़ा हो गया था और खिलौनों से नहीं खेलता था। अब उसे\nदूसरी अच्छी किताबें पढ़नी थीं और खुद जीवन की योजना बनानी थी। वह\nमुस्कुराया और आगे बढ़ गया।",
+        "en": "He has grown up and doesn't play with those toys\nanymore. Now he needs to read other more useful books and make new plans for\nlife himself. He smiled and walked confidently toward the future. === END OF\nSTORY 22 ==="
       }
     ]
   },
   {
     "id": "hindi-elementary-23",
     "level": "elementary",
-    "title": "Elementary 23: The New Teacher",
+    "title": "Elementary 23: The Port City",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1037,24 +1037,24 @@
       255,
       258
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/23-elementary-the-new-teacher.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/23-elementary-the-port-city.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह माशा स्कूल जाती है। वहाँ पास में शिक्षक और बोर्ड है। माशा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “प्रश्न।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Masha is at school. There is teacher and board nearby. Masha reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
+        "ru": "मेरा घर एक बहुत बड़े और व्यस्त बंदरगाह के पास है। हर सुबह\nदुनिया भर से बड़े जहाज यहाँ आते हैं और कई लोग इस ज़मीन पर उतरते हैं। यहाँ\nबहुत चहल-पहल होती है।",
+        "en": "My house is very close to a very large and busy\nport. Every morning, big ships from all over the world arrive here, and many\npeople disembark onto this land; it is very lively."
       },
       {
         "heading": "Page 2",
-        "ru": "माशा अपनी कॉपी में “प्रश्न” शब्द लिखती है। फिर माशा “सीखना” के बारे में सोचती है। जगह शांत है, इसलिए माशा वाक्य को फिर से पढ़कर धीरे से बोलती है.",
-        "en": "Masha writes the word question in a notebook. Then Masha thinks about learning. The place is quiet, so Masha reads the sentence again and says it softly."
+        "ru": "शाम को मैं और पिताजी पानी के किनारे जाते हैं। हम बड़े जहाजों\nको वापस समुद्र में जाते हुए देखते हैं। सूरज की रोशनी लहरों पर पड़ती है और यह\nनजारा बहुत सुंदर लगता है।",
+        "en": "In the evening, my father and I come to the water.\nWe quietly watch the big ships sail back to sea. The light of the setting sun\nsprinkles on the waves, and this beautiful scenery cannot be described in words."
       }
     ]
   },
   {
     "id": "hindi-elementary-24",
     "level": "elementary",
-    "title": "Elementary 24: The Bus Stop",
+    "title": "Elementary 24: High Lands",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1089,24 +1089,24 @@
       270,
       273
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/24-elementary-the-bus-stop.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/24-elementary-high-lands.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह पावेल सड़क जाता है। वहाँ पास में टिकट और बस है। पावेल धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “समय।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Pavel is on the street. There is ticket and bus nearby. Pavel reads slowly and notices a new word: time. The day feels good, and the language feels a little closer."
+        "ru": "हमने एक बहुत ऊँचे पहाड़ पर चढ़ने की योजना बनाई। वह पहाड़\nबादलों के पास खड़ा था और वहाँ तक पहुँचने के लिए हमें ताकत और कोशिश की\nज़रूरत थी।",
+        "en": "We made a plan to climb a very high mountain. That\nmountain towered high near the clouds, and reaching its summit required strength\nand action."
       },
       {
         "heading": "Page 2",
-        "ru": "पावेल अपनी कॉपी में “समय” शब्द लिखता है। फिर पावेल “इंतज़ार” के बारे में सोचता है। जगह शांत है, इसलिए पावेल वाक्य को फिर से पढ़कर धीरे से बोलता है.",
-        "en": "Pavel writes the word time in a notebook. Then Pavel thinks about waiting. The place is quiet, so Pavel reads the sentence again and says it softly."
+        "ru": "जब हम पहाड़ की चोटी पर पहुँचे तो वहाँ हवा बहुत ठंडी थी।\nलेकिन वहाँ से नीचे का नज़ारा बहुत सुंदर था। घर और नदियाँ छोटी लग रही\nथीं। हमें गर्व महसूस हुआ।",
+        "en": "When we reached the high summit, the wind was very\ncold. But looking down from there, the scenery was so beautiful. Houses and\nrivers looked like small points. We were proud of our own strength. === END OF\nSTORY 24 ==="
       }
     ]
   },
   {
     "id": "hindi-elementary-25",
     "level": "elementary",
-    "title": "Elementary 25: The Small Market",
+    "title": "Elementary 25: Trying Again",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1141,24 +1141,24 @@
       285,
       288
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/25-elementary-the-small-market.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/25-elementary-trying-again.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह ओल्गा बाज़ार जाती है। वहाँ पास में फल और बैग है। ओल्गा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “पैसा।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Olga is at the market. There is fruit and bag nearby. Olga reads slowly and notices a new word: money. The day feels good, and the language feels a little closer."
+        "ru": "एक छोटी लड़की रंगीन कागज़ से एक सुंदर छोटा जानवर बनाने की\nकोशिश कर रही थी। लेकिन उसकी पहली कोशिश सफल नहीं हुई और कागज़ फट गया। उसे\nथोड़ा दुख हुआ।",
+        "en": "A little girl tried to fold a beautiful small\nanimal out of colored paper. But her first attempt did not succeed, and the\npaper tore. She felt a bit sad."
       },
       {
         "heading": "Page 2",
-        "ru": "ओल्गा अपनी कॉपी में “पैसा” शब्द लिखती है। फिर ओल्गा “बाज़ार” के बारे में सोचती है। जगह शांत है, इसलिए ओल्गा वाक्य को फिर से पढ़कर धीरे से बोलती है.",
-        "en": "Olga writes the word money in a notebook. Then Olga thinks about market. The place is quiet, so Olga reads the sentence again and says it softly."
+        "ru": "माँ उसके पास आईं और बोलीं, \"एक बार फिर कोशिश करो। अपने हाथों\nको थोड़ा धीरे चलाओ।\" लड़की ने एक नया साफ़ कागज़ लिया और अंत में एक सुंदर खिलौना\nबना लिया। वह मुस्कुराई।",
+        "en": "Her mother came over and said: \"Try again, and make\nyour hand movements a little slower.\" The girl took a clean new sheet of paper\nand was finally able to fold an excellent shape. She smiled."
       }
     ]
   },
   {
     "id": "hindi-elementary-26",
     "level": "elementary",
-    "title": "Elementary 26: The First Conversation",
+    "title": "Elementary 26: The World of Words",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1193,24 +1193,24 @@
       300,
       303
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/26-elementary-the-first-conversation.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/elementary/26-elementary-the-world-of-words.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह दीमा कैफ़े जाता है। वहाँ पास में फ़ोन और दोस्त है। दीमा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “वाक्य।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Dima is in the cafe. There is phone and friend nearby. Dima reads slowly and notices a new word: sentence. The day feels good, and the language feels a little closer."
+        "ru": "शब्द हमारे लिए नए रास्ते खोलते हैं और जीवन के प्रति हमारी\nसमझ को पूरी तरह बदल देते हैं। हर दिन मैं नए शब्दों का अर्थ सीखता हूँ और\nउन्हें अपनी डायरी में लिखता हूँ।",
+        "en": "Words open new paths for us and completely change\nour understanding of life. Every day, I study the meanings of new words and\nwrite them in my notebook to remember them."
       },
       {
         "heading": "Page 2",
-        "ru": "दीमा अपनी कॉपी में “वाक्य” शब्द लिखता है। फिर दीमा “बातचीत” के बारे में सोचता है। जगह शांत है, इसलिए दीमा वाक्य को फिर से पढ़कर धीरे से बोलता है.",
-        "en": "Dima writes the word sentence in a notebook. Then Dima thinks about talk. The place is quiet, so Dima reads the sentence again and says it softly."
+        "ru": "किताबें पढ़ना इंसान को अपना खुद का एक सुंदर आंतरिक संसार\nबनाने में मदद करता है। बहुत पढ़ने से हम दूसरों को बेहतर ढंग से समझने\nलगते हैं और सभी के लिए दयालु बनते हैं।",
+        "en": "Reading books helps a person build their own unique\ninner world. Through a large amount of reading, we begin to better understand\nothers and become gentler and kinder to everyone around us."
       }
     ]
   },
   {
     "id": "hindi-intermediate-27",
     "level": "intermediate",
-    "title": "Intermediate 27: The Lost Note",
+    "title": "Intermediate 27: The Old Clock",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1254,29 +1254,29 @@
       315,
       318
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/27-intermediate-the-lost-note.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/27-intermediate-the-old-clock.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह कात्या पुस्तकालय जाती है। वहाँ पास में नोट और नक्शा है। कात्या धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “जगह।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Katya is in the library. There is note and map nearby. Katya reads slowly and notices a new word: place. The day feels good, and the language feels a little closer."
+        "ru": "एक शनिवार की दोपहर, अमित ने अपने घर की पुरानी अटारी को साफ\nकरने का फैसला किया। वहाँ कई पुराने बक्से और टूटे हुए फर्नीचर रखे थे। कमरे के\nकोने में, उसे एक बड़ी पुरानी लकड़ी की घड़ी खड़ी मिली। ऐसा लग रहा था कि वह घड़ी\nसालों से चली नहीं थी और उस पर धूल जमी थी।",
+        "en": "On a Saturday afternoon, Amit decided to clean the\nold attic of his house. There were many old boxes and broken furniture. In the\ncorner of the room, he found a large, old wooden clock standing. The clock did\nnot seem to have run for many years, and a lot of dust had accumulated on it."
       },
       {
         "heading": "Page 2",
-        "ru": "कात्या अपनी कॉपी में “जगह” शब्द लिखती है। फिर कात्या “खोज” के बारे में सोचती है। जगह शांत है, इसलिए कात्या वाक्य को फिर से पढ़कर धीरे से बोलती है.",
-        "en": "Katya writes the word place in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
+        "ru": "अमित ने घड़ी का कांच का दरवाजा खोला और अंदर की जांच शुरू की।\nभारी पेंडुलम के पीछे उसे एक पीतल की छोटी चाबी मिली। उसने चाबी ली और उसे घड़ी के\nकिनारे बने एक छोटे छेद में डालने की कोशिश की। चाबी पूरी तरह और आसानी से फिट हो\nगई।",
+        "en": "Amit opened the clock's glass door and began to\ncheck the inside. Behind the heavy pendulum, he found a small brass key. He took\nthe key and tried to insert it into a small hole on the side of the clock. The\nkey fit perfectly and easily."
       },
       {
         "heading": "Page 3",
-        "ru": "एक छोटी-सी समस्या आती है, लेकिन कात्या नए शब्दों का इस्तेमाल करती है। कात्या नोट को देखती है, फिर नक्शा को देखती है, और एक आसान योजना बनाती है। अंत में कात्या एक साफ़ वाक्य कह सकती है।",
-        "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the note, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
+        "ru": "जब उसने धीरे से चाबी घुमाई, तो घड़ी से टिक-टिक की प्यारी\nआवाज़ आने लगी। घड़ी की सुइयां फिर से चलने लगीं और जल्द ही घर में एक\nसुंदर घंटी बजी। यह आवाज़ वैसी ही थी जैसी उसके दादाजी सालों पहले सुनते\nथे। अमित को अपने दिल में खुशी महसूस हुई।",
+        "en": "As he turned the key gently, the clock began to\nmake a friendly ticking sound. The hands moved again, and a beautiful chime soon\nrang out in the house. This sound was exactly like the one his grandfather loved\nto listen to many years ago. Amit felt joyful in his heart."
       }
     ]
   },
   {
     "id": "hindi-intermediate-28",
     "level": "intermediate",
-    "title": "Intermediate 28: A Meeting at Noon",
+    "title": "Intermediate 28: The Quiet Forest",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1320,29 +1320,29 @@
       339,
       342
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/28-intermediate-a-meeting-at-noon.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/28-intermediate-the-quiet-forest.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह साशा विश्वविद्यालय जाता है। वहाँ पास में घड़ी और पत्र है। साशा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “दोपहर।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Sasha is at the university. There is clock and letter nearby. Sasha reads slowly and notices a new word: noon. The day feels good, and the language feels a little closer."
+        "ru": "आरती एक शांत जंगल से होकर गुजर रही थी, जहाँ केवल पक्षियों की\nदूर की आवाज़ें सुनाई दे रही थीं। पेड़ बहुत ऊँचे थे और सूरज की रोशनी हरी शाखाओं\nसे होकर बहुत कम छन कर आ रही थी। पैरों के नीचे नरम हरी काई की चादर बिछी थी।",
+        "en": "Aarti was walking through a quiet forest where only\nthe distant voices of birds were heard. The trees were tall, and the light of\nthe sun barely filtered through the green branches. Soft green moss lay\nunderfoot, looking like a carpet."
       },
       {
         "heading": "Page 2",
-        "ru": "साशा अपनी कॉपी में “दोपहर” शब्द लिखता है। फिर साशा “मुलाकात” के बारे में सोचता है। जगह शांत है, इसलिए साशा वाक्य को फिर से पढ़कर धीरे से बोलता है.",
-        "en": "Sasha writes the word noon in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
+        "ru": "वह और अंदर गई और अचानक उसने एक छोटी और सुंदर झील देखी। उसका\nपानी आईने की तरह साफ था, जिसमें नीला आसमान और सफेद बादल दिखाई दे रहे थे। पास\nही कुछ हिरण खड़े पानी पी रहे थे। लड़की ने चुपचाप उन्हें देखा।",
+        "en": "She went deeper and suddenly saw a small, beautiful\nlake. The water in it was clean as a mirror, reflecting the blue sky and white\nclouds. Nearby stood several deer drinking water. The girl watched them quietly."
       },
       {
         "heading": "Page 3",
-        "ru": "एक छोटी-सी समस्या आती है, लेकिन साशा नए शब्दों का इस्तेमाल करता है। साशा घड़ी को देखता है, फिर पत्र को देखता है, और एक आसान योजना बनाता है। अंत में साशा एक साफ़ वाक्य कह सकता है।",
-        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the clock, looks at the letter, and makes a simple plan. By the end, Sasha can say one clear sentence."
+        "ru": "आरती पानी के पास एक सूखी चट्टान पर बैठ गई और अपनी डायरी\nखोली। उसने इस कहानी को लिखने और झील व हिरणों का चित्र बनाने का फैसला\nकिया। जंगल की सैर की यह प्यारी याद लंबे समय तक उसके साथ रहेगी।",
+        "en": "Aarti sat on a dry stone by the water and opened\nher notebook. She decided to write down this story and draw the lake and the\ndeer. This warm memory of the walk in the forest will stay with her for a long\ntime."
       }
     ]
   },
   {
     "id": "hindi-intermediate-29",
     "level": "intermediate",
-    "title": "Intermediate 29: The Old Map",
+    "title": "Intermediate 29: The City by the Sea",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1386,29 +1386,29 @@
       363,
       366
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/29-intermediate-the-old-map.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/29-intermediate-the-city-by-the-sea.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह निकोलाई संग्रहालय जाता है। वहाँ पास में नक्शा और सड़क है। निकोलाई धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “शहर।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Nikolay is in the museum. There is map and street nearby. Nikolay reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
+        "ru": "अमन नीले समुद्र के किनारे बसे एक सुंदर शहर में रहता था। हर\nगर्मी में यहाँ एक बड़ा त्योहार मनाया जाता था। बंदरगाह पर रंग-बिरंगे झंडे\nलगाए जाते थे और लोग लकड़ी की छोटी दुकानें बनाते थे। शाम तक बहुत से लोग\nवहाँ जमा हो गए।",
+        "en": "Aman lived in a beautiful city by the blue sea.\nEvery summer a big festival was organized here. Bright flags were hung in the\nport, and people built small wooden food stalls. By evening, many people\ngathered on the street."
       },
       {
         "heading": "Page 2",
-        "ru": "निकोलाई अपनी कॉपी में “शहर” शब्द लिखता है। फिर निकोलाई “इतिहास” के बारे में सोचता है। जगह शांत है, इसलिए निकोलाई वाक्य को फिर से पढ़कर धीरे से बोलता है.",
-        "en": "Nikolay writes the word city in a notebook. Then Nikolay thinks about history. The place is quiet, so Nikolay reads the sentence again and says it softly."
+        "ru": "अमन बंदरगाह पर एक बूढ़े नाविक से मिला। नाविक ने उसे दुनिया\nके बड़े समुद्रों की लंबी यात्राओं, तेज़ तूफ़ानों और बड़ी मछलियों के बारे में\nबताया। लड़का उसकी बातें बड़े ध्यान से सुनता था और भविष्य में खुद नाविक बनने का\nसपना देखने लगा।",
+        "en": "Aman met an old sailor in the port. The old man\ntold him about his long voyages across the oceans of the earth, about strong\nstorms and big fish. The boy listened to him with great interest and dreamed of\nalso becoming a real sailor in the future."
       },
       {
         "heading": "Page 3",
-        "ru": "एक छोटी-सी समस्या आती है, लेकिन निकोलाई नए शब्दों का इस्तेमाल करता है। निकोलाई नक्शा को देखता है, फिर सड़क को देखता है, और एक आसान योजना बनाता है। अंत में निकोलाई एक साफ़ वाक्य कह सकता है।",
-        "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the map, looks at the street, and makes a simple plan. By the end, Nikolay can say one clear sentence."
+        "ru": "जब अंधेरा हुआ तो आसमान में रंग-बिरंगे पटाखे चलने लगे। उनकी\nरोशनी हवा में बहुत ऊपर जाती और फिर समुद्र के पानी में गिरती। पूरा शहर चमक\nरहा था और लोग तालियाँ बजा रहे थे। अमन को अपने बंदरगाह वाले शहर पर गर्व\nमहसूस हुआ।",
+        "en": "When it became dark, bright fireworks began in the\nsky. The lights flew high into the air and fell into the sea water. The whole\ncity glowed, and people clapped their hands. Aman felt pride in his beautiful\nport city."
       }
     ]
   },
   {
     "id": "hindi-intermediate-30",
     "level": "intermediate",
-    "title": "Intermediate 30: The Rainy Lesson",
+    "title": "Intermediate 30: The Creative Lesson",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1452,29 +1452,29 @@
       387,
       390
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/30-intermediate-the-rainy-lesson.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/30-intermediate-the-creative-lesson.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह इरीना स्कूल जाती है। वहाँ पास में खिड़की और बारिश है। इरीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “मौसम।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Irina is at school. There is window and rain nearby. Irina reads slowly and notices a new word: weather. The day feels good, and the language feels a little closer."
+        "ru": "स्कूल में विज्ञान के पाठ के दौरान शिक्षक ने बच्चों को एक नया\nकाम दिया। उन्हें समूहों में बँटना था और \"भविष्य के हरे शहर\" का एक मॉडल बनाना था।\nचार दोस्त एक साथ बैठे और सोचने लगे कि वे पर्यावरण को बचाने के लिए किन तकनीकों का\nउपयोग करेंगे।",
+        "en": "At school during the science class, the teacher\ngave the children a new task. They needed to divide into groups and build a\nmodel of a \"city of the future.\" Four friends sat together and began thinking\nabout eco-friendly technologies."
       },
       {
         "heading": "Page 2",
-        "ru": "इरीना अपनी कॉपी में “मौसम” शब्द लिखती है। फिर इरीना “पढ़ाई” के बारे में सोचती है। जगह शांत है, इसलिए इरीना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
-        "en": "Irina writes the word weather in a notebook. Then Irina thinks about study. The place is quiet, so Irina reads the sentence again and says it softly."
+        "ru": "उनके पास कई अच्छे विचार थे। उन्होंने हर घर की छत पर सौर\nऊर्जा पैनल लगाने और पौधों को सींचने के लिए बारिश के पानी को इकट्ठा\nकरने की प्रणाली बनाने का फैसला किया। उन्होंने कागज और गत्ते जैसी साधारण\nचीजों का इस्तेमाल किया।",
+        "en": "They had many good ideas. They decided to make\nsolar panels on the roofs of each house and a rainwater collection system for\nplants. They used simple things like paper and cardboard, working with their\nhands."
       },
       {
         "heading": "Page 3",
-        "ru": "एक छोटी-सी समस्या आती है, लेकिन इरीना नए शब्दों का इस्तेमाल करती है। इरीना खिड़की को देखती है, फिर बारिश को देखती है, और एक आसान योजना बनाती है। अंत में इरीना एक साफ़ वाक्य कह सकती है।",
-        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the window, looks at the rain, and makes a simple plan. By the end, Irina can say one clear sentence."
+        "ru": "अगले दिन सभी समूहों ने अपने मॉडल दिखाए। शिक्षक ने बच्चों के\nकाम की तारीफ की। दोस्तों को समझ आया कि एक साथ मिलकर काम करना कितना जरूरी है।\nयह हर बच्चे के लिए एक बेहतरीन पाठ था।",
+        "en": "The next day, all groups showed their models. The\nteacher praised the children for their work. The friends understood how\nimportant it is to work together toward one goal. It was an excellent lesson for\neach of them."
       }
     ]
   },
   {
     "id": "hindi-intermediate-31",
     "level": "intermediate",
-    "title": "Intermediate 31: The Museum Question",
+    "title": "Intermediate 31: The Mountain Wind",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1518,29 +1518,29 @@
       411,
       414
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/31-intermediate-the-museum-question.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/31-intermediate-the-mountain-wind.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह पावेल संग्रहालय जाता है। वहाँ पास में तस्वीर और कॉपी है। पावेल धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “प्रश्न।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Pavel is in the museum. There is picture and notebook nearby. Pavel reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
+        "ru": "सुबह जल्दी राहुल ने एक ऊंचे पहाड़ के संकरे रास्ते पर चढ़ना\nशुरू किया। हवा बहुत ठंडी चल रही थी, लेकिन चलने से उसका शरीर गर्म हो गया था।\nचारों ओर सुंदर पहाड़ी फूल और घास उगे थे जो उसकी आँखों को खुशी दे रहे थे।",
+        "en": "Early in the morning, Rahul began climbing a narrow\ntrail up a high mountain. A cold wind was blowing, but the boy walked quickly\nand felt warm. Beautiful mountain flowers and herbs grew around him, pleasing\nhis eye."
       },
       {
         "heading": "Page 2",
-        "ru": "पावेल अपनी कॉपी में “प्रश्न” शब्द लिखता है। फिर पावेल “उत्तर” के बारे में सोचता है। जगह शांत है, इसलिए पावेल वाक्य को फिर से पढ़कर धीरे से बोलता है.",
-        "en": "Pavel writes the word question in a notebook. Then Pavel thinks about answer. The place is quiet, so Pavel reads the sentence again and says it softly."
+        "ru": "दोपहर में आसमान में अंधेरा छा गया और तेज़ बारिश होने लगी।\nखुशकिस्मती से, आगे पत्थर का बना एक छोटा केबिन था। राहुल बारिश से बचने के\nलिए जल्दी से वहाँ गया। अंदर सूखा था और वह थर्मस से गर्म चाय पी सका।",
+        "en": "By afternoon, the sky grew dark and heavy rain\nfell. Fortunately, a small stone cabin stood ahead. Rahul ran there quickly to\nwait out the rain. Inside it was dry, and he was able to drink warm tea from his\nthermos."
       },
       {
         "heading": "Page 3",
-        "ru": "एक छोटी-सी समस्या आती है, लेकिन पावेल नए शब्दों का इस्तेमाल करता है। पावेल तस्वीर को देखता है, फिर कॉपी को देखता है, और एक आसान योजना बनाता है। अंत में पावेल एक साफ़ वाक्य कह सकता है।",
-        "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the picture, looks at the notebook, and makes a simple plan. By the end, Pavel can say one clear sentence."
+        "ru": "जल्द ही बारिश रुक गई और आसमान में फिर से चमकीला सूरज निकल\nआया। राहुल केबिन से बाहर आया और पहाड़ की चोटी पर पहुँच गया। नीचे एक बड़ी\nहरी घाटी थी। तेज़ हवा ने उसकी थकान दूर कर दी और उसे बहुत खुशी हुई।",
+        "en": "Soon the rain ended, and the bright sun appeared in\nthe sky again. Rahul left the cabin and climbed to the very summit of the\nmountain. Below lay a large green valley. The strong wind carried away his\nfatigue, and he felt joy."
       }
     ]
   },
   {
     "id": "hindi-intermediate-32",
     "level": "intermediate",
-    "title": "Intermediate 32: The Train Delay",
+    "title": "Intermediate 32: The Grandfather's Map",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1584,29 +1584,29 @@
       435,
       438
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/32-intermediate-the-train-delay.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/32-intermediate-the-grandfathers-map.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह मारिया स्टेशन जाती है। वहाँ पास में टिकट और घड़ी है। मारिया धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “रुकना।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Maria is at the station. There is ticket and clock nearby. Maria reads slowly and notices a new word: wait. The day feels good, and the language feels a little closer."
+        "ru": "रोहन अपने दादाजी के कमरे में एक किताब ढूंढ रहा था। उसने मेज\nका एक पुराना दराज खोला और नीचे एक कागज पाया। यह जंगल का एक पुराना नक्शा था\nजिसे दादाजी ने तब बनाया था जब वे छोटे थे।",
+        "en": "The boy Rohan was looking for a book in his\ngrandfather's room. He opened an old desk drawer and found a paper at the very\nbottom. It was an old map of the forest that his grandfather had drawn himself\nwhen he was a small child."
       },
       {
         "heading": "Page 2",
-        "ru": "मारिया अपनी कॉपी में “रुकना” शब्द लिखती है। फिर मारिया “यात्रा” के बारे में सोचती है। जगह शांत है, इसलिए मारिया वाक्य को फिर से पढ़कर धीरे से बोलती है.",
-        "en": "Maria writes the word wait in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
+        "ru": "रोहन और उसके दोस्त ने इस नक्शे की मदद से जंगल जाने का फैसला\nकिया। उन्होंने पुराने पेड़ों को रास्ते के निशान के रूप में इस्तेमाल किया। जल्द\nही उन्हें पत्थरों से बना एक पुराना कुआँ मिला जो घास से ढका था। सब कुछ नक्शे जैसा\nही था।",
+        "en": "Rohan and his friend decided to go into the forest\nusing this map. They used old trees as landmarks and went deeper. Soon they\nfound an old stone well covered with green grass, exactly like on the map."
       },
       {
         "heading": "Page 3",
-        "ru": "एक छोटी-सी समस्या आती है, लेकिन मारिया नए शब्दों का इस्तेमाल करती है। मारिया टिकट को देखती है, फिर घड़ी को देखती है, और एक आसान योजना बनाती है। अंत में मारिया एक साफ़ वाक्य कह सकती है।",
-        "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the clock, and makes a simple plan. By the end, Maria can say one clear sentence."
+        "ru": "उन्होंने कुएं के अंदर झांका और एक छोटा प्लास्टिक का डिब्बा\nदेखा। अंदर एक पुराना सिक्का और दादाजी के नाम की पर्ची थी। बच्चों को अतीत से\nएक संदेश मिला और वे बहुत खुश हुए।",
+        "en": "They peered inside and saw a small plastic box.\nInside lay an old coin and a note with their grandfather's name. The boys had\nfound a real greeting from the past and felt very excited."
       }
     ]
   },
   {
     "id": "hindi-intermediate-33",
     "level": "intermediate",
-    "title": "Intermediate 33: Music in the Cafe",
+    "title": "Intermediate 33: The Painting Class",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1650,29 +1650,29 @@
       459,
       462
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/33-intermediate-music-in-the-cafe.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/33-intermediate-the-painting-class.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह ओल्गा कैफ़े जाती है। वहाँ पास में संगीत और चाय है। ओल्गा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “गीत।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Olga is in the cafe. There is music and tea nearby. Olga reads slowly and notices a new word: song. The day feels good, and the language feels a little closer."
+        "ru": "हर शनिवार नेहा चित्रकारी सीखने जाती थी। आज उन्हें कक्षा की\nबड़ी खिड़की से नदी का दृश्य बनाना था। उसने कैनवास तैयार किया और मेज पर\nचमकीले रंग रख दिए। वह काम शुरू करने के लिए बहुत उत्सुक थी।",
+        "en": "Every Saturday Neha went to painting classes. Today\nthey needed to paint the view of the river from the large classroom window. She\nprepared the canvas and put bright paints on the table. She really wanted to\nstart the work."
       },
       {
         "heading": "Page 2",
-        "ru": "ओल्गा अपनी कॉपी में “गीत” शब्द लिखती है। फिर ओल्गा “याद” के बारे में सोचती है। जगह शांत है, इसलिए ओल्गा वाक्य को फिर से पढ़कर धीरे से बोलती है.",
-        "en": "Olga writes the word song in a notebook. Then Olga thinks about memory. The place is quiet, so Olga reads the sentence again and says it softly."
+        "ru": "एक घंटे बाद, बाहर आसमान का रंग धीरे-धीरे नारंगी होने लगा।\nनदी के पानी पर सूरज की रोशनी की सुंदर परछाईं दिखाई देने लगी। नेहा ने\nकैनवास पर इस गर्म रोशनी को उतारने के लिए रंगों को मिलाया।",
+        "en": "An hour later, the sky outside began slowly\nchanging its color to orange. A beautiful reflection of the sun appeared on the\nriver water. Neha mixed colors to convey this warm light on the canvas."
       },
       {
         "heading": "Page 3",
-        "ru": "एक छोटी-सी समस्या आती है, लेकिन ओल्गा नए शब्दों का इस्तेमाल करती है। ओल्गा संगीत को देखती है, फिर चाय को देखती है, और एक आसान योजना बनाती है। अंत में ओल्गा एक साफ़ वाक्य कह सकती है।",
-        "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the music, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
+        "ru": "कक्षा के अंत में सभी चित्रों को दीवार पर लटका दिया गया।\nहालांकि सभी ने एक ही खिड़की से देखकर चित्र बनाया था, लेकिन हर किसी का\nचित्र अनोखा और सुंदर था। नेहा समझ गई कि हर कोई दुनिया को अपने तरीके से देखता\nहै।",
+        "en": "At the end of the lesson, all paintings were hung\non the wall. Although everyone painted the exact same view from the window, each\nperson ended up with their own unique painting. Neha understood that each person\nsees the world in their own way."
       }
     ]
   },
   {
     "id": "hindi-intermediate-34",
     "level": "intermediate",
-    "title": "Intermediate 34: A Letter from a Friend",
+    "title": "Intermediate 34: The Lost Key",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1716,29 +1716,29 @@
       483,
       486
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/34-intermediate-a-letter-from-a-friend.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/34-intermediate-the-lost-key.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह दीमा घर जाता है। वहाँ पास में पत्र और फ़ोन है। दीमा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “दोस्त।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Dima is at home. There is letter and phone nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
+        "ru": "रविवार को पूजा अपने भाई के साथ पार्क में घूम रही थी। उसने\nअपनी मेज की छोटी चाबी जैकेट की जेब में रखी थी। लेकिन घास पर खेलते समय चाबी\nगिर गई और वह बहुत परेशान हो गई।",
+        "en": "On Sunday, Pooja was walking in the park with her\nbrother. She put her small desk key in her jacket pocket. But while playing on\nthe grass, the key fell out, and she became very upset."
       },
       {
         "heading": "Page 2",
-        "ru": "दीमा अपनी कॉपी में “दोस्त” शब्द लिखता है। फिर दीमा “निमंत्रण” के बारे में सोचता है। जगह शांत है, इसलिए दीमा वाक्य को फिर से पढ़कर धीरे से बोलता है.",
-        "en": "Dima writes the word friend in a notebook. Then Dima thinks about invitation. The place is quiet, so Dima reads the sentence again and says it softly."
+        "ru": "शाम हो गई थी और काफी अंधेरा था। पूजा का भाई एक छोटा टॉर्च\nलाया ताकि उसकी मदद कर सके। वे दोनों बड़े पेड़ों के पास गए और जमीन पर रोशनी\nडालकर घास को ध्यान से देखने लगे।",
+        "en": "Evening arrived, and it was quite dark. Pooja's\nbrother brought a small flashlight to help her. They walked together near the\nlarge trees and shone light on the ground, carefully checking the grass."
       },
       {
         "heading": "Page 3",
-        "ru": "एक छोटी-सी समस्या आती है, लेकिन दीमा नए शब्दों का इस्तेमाल करता है। दीमा पत्र को देखता है, फिर फ़ोन को देखता है, और एक आसान योजना बनाता है। अंत में दीमा एक साफ़ वाक्य कह सकता है।",
-        "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the letter, looks at the phone, and makes a simple plan. By the end, Dima can say one clear sentence."
+        "ru": "जल्द ही भाई ने एक छोटे भूरे पत्थर के नीचे कुछ चमकता हुआ\nदेखा। वह खोई हुई चाबी थी! पूजा बहुत खुश हुई और उसने अपने भाई को धन्यवाद\nदिया। घर जाकर उसने अपनी मेज का दराज खोल लिया।",
+        "en": "Soon her brother noticed something shining under a\nsmall grey stone. It was the lost key! Pooja was very happy and thanked her\nbrother. Returning home, she was able to open her desk drawer. === END OF\nSTORY 34 ==="
       }
     ]
   },
   {
     "id": "hindi-intermediate-35",
     "level": "intermediate",
-    "title": "Intermediate 35: The School Project",
+    "title": "Intermediate 35: The River Adventure",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1781,29 +1781,29 @@
       507,
       510
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/35-intermediate-the-school-project.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/35-intermediate-the-river-adventure.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह माशा स्कूल जाती है। वहाँ पास में कागज़ और शिक्षक है। माशा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “परियोजना।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Masha is at school. There is paper and teacher nearby. Masha reads slowly and notices a new word: project. The day feels good, and the language feels a little closer."
+        "ru": "अमित और सुमित ने स्कूल में लकड़ी से एक सुंदर नाव बनाई।\nउन्होंने अपनी नाव को साफ नदी के पानी में चलाने का फैसला किया ताकि वे\nदेख सकें कि नाव पानी पर कैसे चलती है।",
+        "en": "Amit and Sumit made a beautiful wooden boat during\ntheir school craft lesson. They decided to launch it in the clean river to see\nhow it kept on the water."
       },
       {
         "heading": "Page 2",
-        "ru": "माशा अपनी कॉपी में “परियोजना” शब्द लिखती है। फिर माशा “समूह” के बारे में सोचती है। जगह शांत है, इसलिए माशा वाक्य को फिर से पढ़कर धीरे से बोलती है.",
-        "en": "Masha writes the word project in a notebook. Then Masha thinks about group. The place is quiet, so Masha reads the sentence again and says it softly."
+        "ru": "नदी का बहाव शांत था, लेकिन रास्ते में गिरी हुई टहनियाँ और\nबड़े पत्थर थे। लड़के किनारे पर दौड़ रहे थे और परेशान थे कि क्या उनकी नाव\nइन बाधाओं से बच पाएगी।",
+        "en": "The river current was calm, but along the boat's\npath, there were fallen branches and large stones. The boys ran along the bank,\nworrying whether their boat could bypass all these obstacles."
       },
       {
         "heading": "Page 3",
-        "ru": "एक छोटी-सी समस्या आती है, लेकिन माशा नए शब्दों का इस्तेमाल करती है। माशा कागज़ को देखती है, फिर शिक्षक को देखती है, और एक आसान योजना बनाती है। अंत में माशा एक साफ़ वाक्य कह सकती है।",
-        "en": "A small problem appears, but Masha uses the new words to understand it. Masha checks the paper, looks at the teacher, and makes a simple plan. By the end, Masha can say one clear sentence."
+        "ru": "आगे जाकर अमित ने नाव को पानी से सुरक्षित निकाल लिया। नाव\nबिल्कुल ठीक थी। लड़के घर लौटे और अपनी डायरी में नदी के पानी की गति के\nबारे में सब कुछ लिखा।",
+        "en": "Downstream, Amit safely retrieved the boat from the\nwater. It was completely undamaged. The boys returned home and recorded their\nobservations of the river current's speed in detail in their journal. === END OF\nSTORY 35 ==="
       }
     ]
   },
   {
     "id": "hindi-intermediate-36",
     "level": "intermediate",
-    "title": "Intermediate 36: The City Walk",
+    "title": "Intermediate 36: The Starlit Sky",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1846,29 +1846,29 @@
       530,
       533
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/36-intermediate-the-city-walk.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/36-intermediate-the-starlit-sky.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह अन्ना शहर जाती है। वहाँ पास में सड़क और खिड़की है। अन्ना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “सैर।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Anna is in the city. There is street and window nearby. Anna reads slowly and notices a new word: walk. The day feels good, and the language feels a little closer."
+        "ru": "गर्मियों में रोहित अपने माता-पिता के साथ पहाड़ों में कैंपिंग\nके लिए गया था। रात को तंबू के पास सन्नाटा और अंधेरा था क्योंकि आसपास शहर की कोई\nरोशनी नहीं थी। वह बाहर आया।",
+        "en": "In the summer, Rohit went on a camping trip to the\nmountains with his parents. At night by the tent, it was quiet and dark because\nthere were no city lights around. He came outside."
       },
       {
         "heading": "Page 2",
-        "ru": "अन्ना अपनी कॉपी में “सैर” शब्द लिखती है। फिर अन्ना “जगह” के बारे में सोचती है। जगह शांत है, इसलिए अन्ना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
-        "en": "Anna writes the word walk in a notebook. Then Anna thinks about place. The place is quiet, so Anna reads the sentence again and says it softly."
+        "ru": "रोहित के पिता ने बैग से तारों के बारे में एक दिलचस्प किताब\nनिकाली। उन्होंने टॉर्च जलाई और किताब की मदद से बेटे को आसमान में तारे दिखाने\nलगे और उनकी कहानियाँ बताईं।",
+        "en": "Rohit's father took an interesting book about\nconstellations from his bag. He turned on a light and, with the help of the\nbook, began to show his son the stars in the sky, explaining their stories."
       },
       {
         "heading": "Page 3",
-        "ru": "एक छोटी-सी समस्या आती है, लेकिन अन्ना नए शब्दों का इस्तेमाल करती है। अन्ना सड़क को देखती है, फिर खिड़की को देखती है, और एक आसान योजना बनाती है। अंत में अन्ना एक साफ़ वाक्य कह सकती है।",
-        "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the street, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
+        "ru": "अचानक एक चमकीला तारा तेज़ी से आसमान से गुजरा और एक सुंदर\nरेखा छोड़ गया। वह टूटता तारा था। रोहित ने अपने भविष्य के लिए एक इच्छा\nमाँगी। यह रात उसे हमेशा याद रही।",
+        "en": "Suddenly, a bright star quickly flew across the\ndark sky, leaving a light trail behind it. It was a shooting star. Rohit managed\nto make a wish about his future. He would remember this evening forever. === END\nOF STORY 36 ==="
       }
     ]
   },
   {
     "id": "hindi-intermediate-37",
     "level": "intermediate",
-    "title": "Intermediate 37: The Bookshop Door",
+    "title": "Intermediate 37: The Garden Project",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1911,29 +1911,29 @@
       553,
       556
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/37-intermediate-the-bookshop-door.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/37-intermediate-the-garden-project.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह इवान किताबों की दुकान जाता है। वहाँ पास में दरवाज़ा और किताब है। इवान धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “खोलना।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Ivan is in the bookshop. There is door and book nearby. Ivan reads slowly and notices a new word: open. The day feels good, and the language feels a little closer."
+        "ru": "बसंत में विकास अपनी दादी के घर पर था। दादी ने उसे खुद\nसब्जियां उगाना सिखाने का फैसला किया। उन्होंने बगीचे में मिट्टी\nतैयार की और टमाटर और खीरे के बीज बोए।",
+        "en": "In the spring, Vikas was spending time at his\ngrandmother's house. His grandmother decided to teach him how to grow vegetables\nwith his own hands. They prepared the soil in the garden and planted tomato and\ncucumber seeds."
       },
       {
         "heading": "Page 2",
-        "ru": "इवान अपनी कॉपी में “खोलना” शब्द लिखता है। फिर इवान “पढ़ना” के बारे में सोचता है। जगह शांत है, इसलिए इवान वाक्य को फिर से पढ़कर धीरे से बोलता है.",
-        "en": "Ivan writes the word open in a notebook. Then Ivan thinks about reading. The place is quiet, so Ivan reads the sentence again and says it softly."
+        "ru": "हर दिन स्कूल के बाद विकास पौधों को पानी देने में मदद करता\nथा। दो सप्ताह के बाद मिट्टी से छोटे हरे पत्ते बाहर आने लगे। विकास को अपनी\nमेहनत का फल देखकर बहुत खुशी हुई।",
+        "en": "Every day after school, Vikas helped water the\ngarden beds. Two weeks later, the first green leaves appeared from the warm\nsoil. Vikas was very happy to see the fruits of their common labor."
       },
       {
         "heading": "Page 3",
-        "ru": "एक छोटी-सी समस्या आती है, लेकिन इवान नए शब्दों का इस्तेमाल करता है। इवान दरवाज़ा को देखता है, फिर किताब को देखता है, और एक आसान योजना बनाता है। अंत में इवान एक साफ़ वाक्य कह सकता है।",
-        "en": "A small problem appears, but Ivan uses the new words to understand it. Ivan checks the door, looks at the book, and makes a simple plan. By the end, Ivan can say one clear sentence."
+        "ru": "गर्मियों में उन्होंने बहुत सारे टमाटर और खीरे तोड़े। दादी और\nविकास ने उनसे रात के खाने के लिए सलाद बनाया। लड़के को लगा कि अपने हाथों से उगाई\nगई सब्जी का स्वाद सबसे अच्छा होता है।",
+        "en": "In the summer, they harvested many fresh tomatoes\nand cucumbers. Grandmother and Vikas made a delicious salad out of them for\ndinner. The boy understood that food grown with one's own hands has the best\ntaste."
       }
     ]
   },
   {
     "id": "hindi-intermediate-38",
     "level": "intermediate",
-    "title": "Intermediate 38: The Family Story",
+    "title": "Intermediate 38: The Old Lighthouse",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1976,29 +1976,29 @@
       576,
       579
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/38-intermediate-the-family-story.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/38-intermediate-the-old-lighthouse.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह लीना घर जाती है। वहाँ पास में माँ और फ़ोटो है। लीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “कहानी।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Lena is at home. There is mother and photo nearby. Lena reads slowly and notices a new word: story. The day feels good, and the language feels a little closer."
+        "ru": "समुद्र के किनारे एक ऊँची चट्टान पर एक पुराना पत्थर का\nप्रकाशस्तंभ खड़ा था। अब वह काम नहीं करता था क्योंकि जहाज आधुनिक\nप्रणालियों का उपयोग करते थे। सीमा और उसके पिता वहाँ गए।",
+        "en": "On a high cliff by the sea stood an old stone\nlighthouse. It was no longer active now, because ships used modern systems.\nSeema and her dad went there on Sunday."
       },
       {
         "heading": "Page 2",
-        "ru": "लीना अपनी कॉपी में “कहानी” शब्द लिखती है। फिर लीना “परिवार” के बारे में सोचती है। जगह शांत है, इसलिए लीना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
-        "en": "Lena writes the word story in a notebook. Then Lena thinks about family. The place is quiet, so Lena reads the sentence again and says it softly."
+        "ru": "उन्होंने भारी लकड़ी का दरवाजा खोला और प्रकाशस्तंभ के अंदर\nगए। अंदर ठंडक थी और ऊपर की ओर लंबी पत्थर की सीढ़ियाँ जा रही थीं। सीमा\nसावधानी से सीढ़ियाँ चढ़ने लगी।",
+        "en": "They opened the heavy wooden door and went inside\nthe lighthouse. It was cool inside, and a long stone staircase led upward. Seema\nclimbed carefully step by step, holding her dad's hand."
       },
       {
         "heading": "Page 3",
-        "ru": "एक छोटी-सी समस्या आती है, लेकिन लीना नए शब्दों का इस्तेमाल करती है। लीना माँ को देखती है, फिर फ़ोटो को देखती है, और एक आसान योजना बनाती है। अंत में लीना एक साफ़ वाक्य कह सकती है।",
-        "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the mother, looks at the photo, and makes a simple plan. By the end, Lena can say one clear sentence."
+        "ru": "ऊपर बालकनी पर तेज हवा चल रही थी। उनके सामने बड़ी लहरों वाले\nनीले समुद्र का सुंदर नजारा था। सीमा ने उन लोगों के बारे में सोचा जो कभी यहाँ\nरहते थे और जहाजों की मदद करते थे।",
+        "en": "At the top on the balcony, a strong wind was\nblowing. Before them opened a view of the vast blue sea with big waves. Seema\nthought of the people who once lived here and helped ships during storms. ===\nEND OF STORY 38 ==="
       }
     ]
   },
   {
     "id": "hindi-intermediate-39",
     "level": "intermediate",
-    "title": "Intermediate 39: The Important Word",
+    "title": "Intermediate 39: The Science Fair",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -2041,29 +2041,29 @@
       599,
       602
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/39-intermediate-the-important-word.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/39-intermediate-the-science-fair.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह पावेल पुस्तकालय जाता है। वहाँ पास में शब्दकोश और कागज़ है। पावेल धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “अर्थ।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Pavel is in the library. There is dictionary and paper nearby. Pavel reads slowly and notices a new word: meaning. The day feels good, and the language feels a little closer."
+        "ru": "हर साल स्कूल में एक बड़ा विज्ञान मेला होता था। राहुल के\nग्रुप ने स्वच्छ ऊर्जा पर एक प्रोजेक्ट तैयार करने का फैसला किया।\nउन्होंने एक मॉडल बनाया जो सौर पैनलों के काम को दिखाता था।",
+        "en": "Every autumn, a big science fair took place at\nschool. Rahul's group decided to prepare a project on clean energy. They built a\nmodel that demonstrated the work of solar panels."
       },
       {
         "heading": "Page 2",
-        "ru": "पावेल अपनी कॉपी में “अर्थ” शब्द लिखता है। फिर पावेल “भाषा” के बारे में सोचता है। जगह शांत है, इसलिए पावेल वाक्य को फिर से पढ़कर धीरे से बोलता है.",
-        "en": "Pavel writes the word meaning in a notebook. Then Pavel thinks about language. The place is quiet, so Pavel reads the sentence again and says it softly."
+        "ru": "मेले के दिन बहुत से शिक्षक और माता-पिता वहाँ जमा हुए। कई लोग\nराहुल के प्रोजेक्ट के पास रुके। लड़के ने मेहमानों को आसानी से समझाया कि कैसे\nसूरज की रोशनी बिजली में बदलती है।",
+        "en": "On the day of the fair, many teachers and parents\ngathered in the hall. Many stopped at Rahul's project. The boy explained to the\nguests simply and clearly how the light of the sun turns into electricity."
       },
       {
         "heading": "Page 3",
-        "ru": "एक छोटी-सी समस्या आती है, लेकिन पावेल नए शब्दों का इस्तेमाल करता है। पावेल शब्दकोश को देखता है, फिर कागज़ को देखता है, और एक आसान योजना बनाता है। अंत में पावेल एक साफ़ वाक्य कह सकता है।",
-        "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the dictionary, looks at the paper, and makes a simple plan. By the end, Pavel can say one clear sentence."
+        "ru": "दिन के अंत में जजों ने सभी प्रोजेक्ट्स का मूल्यांकन किया।\nराहुल के ग्रुप के काम को बहुत पसंद किया गया और उन्हें पहला स्थान मिला। सब\nबहुत खुश हुए और टीमवर्क का महत्व समझा।",
+        "en": "At the end of the day, the judges evaluated all\nprojects. The work of Rahul's group received a high rating and first place. The\nchildren were very glad and understood how important teamwork is. === END OF\nSTORY 39 ==="
       }
     ]
   },
   {
     "id": "hindi-intermediate-40",
     "level": "intermediate",
-    "title": "Intermediate 40: Closer Every Day",
+    "title": "Intermediate 40: The Sound of Music",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -2106,29 +2106,29 @@
       622,
       625
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/40-intermediate-closer-every-day.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/intermediate/40-intermediate-the-sound-of-music.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह इरीना पार्क जाती है। वहाँ पास में कॉपी और चाय है। इरीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “करीब।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Irina is in the park. There is notebook and tea nearby. Irina reads slowly and notices a new word: closer. The day feels good, and the language feels a little closer."
+        "ru": "अंजलि अपनी माँ के साथ पुराने संगीत हॉल में आई। आज वहाँ एक\nप्रसिद्ध कलाकार का संगीत कार्यक्रम था। हॉल की बत्तियाँ बंद हो गईं और मंच\nपर एक रोशनी जली जिसने कलाकार को दिखाया।",
+        "en": "Anjali came with her mom to the old city concert\nhall. Today, an evening of violin music was taking place there. The lights went\nout in the hall, and a warm lamp lit up on the stage, illuminating the musician."
       },
       {
         "heading": "Page 2",
-        "ru": "इरीना अपनी कॉपी में “करीब” शब्द लिखती है। फिर इरीना “दोहराना” के बारे में सोचती है। जगह शांत है, इसलिए इरीना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
-        "en": "Irina writes the word closer in a notebook. Then Irina thinks about review. The place is quiet, so Irina reads the sentence again and says it softly."
+        "ru": "संगीत बहुत सुंदर बज रहा था। संगीत की आवाज़ कभी धीमी और शांत\nहो जाती तो कभी बहुत तेज़ और ऊँची। अंजलि इस धुन को सुन रही थी और उसका मन संगीत\nके साथ बदल रहा था।",
+        "en": "The music sounded very beautiful. The sounds of the\nmusic flowed slowly and quietly at times, and at others soared fast and loud.\nAnjali listened to this melody, feeling how her mood changed along with the\nsounds."
       },
       {
         "heading": "Page 3",
-        "ru": "एक छोटी-सी समस्या आती है, लेकिन इरीना नए शब्दों का इस्तेमाल करती है। इरीना कॉपी को देखती है, फिर चाय को देखती है, और एक आसान योजना बनाती है। अंत में इरीना एक साफ़ वाक्य कह सकती है।",
-        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the notebook, looks at the tea, and makes a simple plan. By the end, Irina can say one clear sentence."
+        "ru": "कॉन्सर्ट के बाद सभी ने बहुत तालियाँ बजाईं। अंजलि बहुत\nप्रेरित हुई थी। घर जाकर उसने अपना छोटा पियानो निकाला और उस पर गाने\nबजाने की कोशिश की। उसमें एक नया सपना जागा।",
+        "en": "After the concert, everyone clapped loudly. Anjali\nwas highly inspired. At home, she decided to take out her small children's piano\nand try to play songs on it again. A dream was born in her."
       }
     ]
   },
   {
     "id": "hindi-advanced-41",
     "level": "advanced",
-    "title": "Advanced 41: The Long Walk Through the City",
+    "title": "Advanced 41: The Forest of Tomorrow",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2183,39 +2183,39 @@
       645,
       648
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/41-advanced-the-long-walk-through-the-city.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/41-advanced-the-forest-of-tomorrow.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह अन्ना शहर जाती है। वहाँ पास में नक्शा और खिड़की है। अन्ना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “यात्रा।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Anna is in the city. There is map and window nearby. Anna reads slowly and notices a new word: journey. The day feels good, and the language feels a little closer."
+        "ru": "आज के आधुनिक समाज में विज्ञान और तकनीक तेजी से बढ़ रहे हैं।\nहमारा जीवन बहुत आसान हो गया है, लेकिन सुंदर प्रकृति को अक्सर नुकसान पहुँचता\nहै। एक छोटे शहर में फैक्ट्रियों की वजह से नदी गंदी हो गई थी। युवा\nवैज्ञानिक अमित ने इस पर्यावरणीय समस्या को ठीक करने का फैसला\nकिया।",
+        "en": "In today's modern society, science and technology\nare developing rapidly. Our lives have become very easy, but beautiful nature\noften suffers. In one small town, the river became dirty because of factories. A\nyoung scientist, Amit, decided to fix this environmental problem."
       },
       {
         "heading": "Page 2",
-        "ru": "अन्ना अपनी कॉपी में “यात्रा” शब्द लिखती है। फिर अन्ना “शहर” के बारे में सोचती है। जगह शांत है, इसलिए अन्ना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
-        "en": "Anna writes the word journey in a notebook. Then Anna thinks about city. The place is quiet, so Anna reads the sentence again and says it softly."
+        "ru": "अमित ने पानी साफ करने का एक नया सिस्टम बनाने का सुझाव दिया।\nलेकिन फैक्ट्रियों के मालिकों और कुछ लोगों ने इसका विरोध किया। उनका मानना था कि\nयह बहुत महंगा है और इससे स्थानीय काम को नुकसान पहुँचेगा। अमित ने हार नहीं मानी\nऔर बातचीत जारी रखी।",
+        "en": "Amit proposed building a new water purification\nsystem. But the factory owners and some people opposed it. They believed it was\ntoo expensive and would harm local work. Amit did not give up and kept up the\ndialogue."
       },
       {
         "heading": "Page 3",
-        "ru": "एक छोटी-सी समस्या आती है, लेकिन अन्ना नए शब्दों का इस्तेमाल करती है। अन्ना नक्शा को देखती है, फिर खिड़की को देखती है, और एक आसान योजना बनाती है। अंत में अन्ना एक साफ़ वाक्य कह सकती है।",
-        "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the map, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
+        "ru": "लंबी बातचीत के बाद उन्होंने पहला टेस्ट करने का फैसला किया।\nवैज्ञानिकों ने नदी के पास मशीनें लगाईं। लेकिन मशीन की खराबी के कारण टेस्ट\nविफल हो गया। गंदा पानी फिर से नदी में बहने लगा और लोग गुस्सा होने लगे।",
+        "en": "After long discussions, they decided to conduct the\nfirst test. The scientists installed the equipment near the river. But the test\nfailed due to a machine breakdown. Dirty water flowed into the river again, and\npeople began to get angry."
       },
       {
         "heading": "Page 4",
-        "ru": "बाद में अन्ना एक व्यक्ति से मिलती है और एक सावधान प्रश्न पूछती है। उत्तर सरल है, पर मदद करता है। अन्ना तीन और शब्द लिखती है और उन्हें दिन की कहानी से जोड़ती है.",
-        "en": "Later, Anna meets another person and asks one careful question. The answer is simple, but it helps. Anna writes three more words and connects them to the story of the day."
+        "ru": "अमित ने अपनी गलती मानी और मशीन की खराबी का कारण ढूंढने लगा।\nउसने रात में काम किया ताकि मशीन को ठीक कर सके और उसे सुरक्षित बना सके।\nफैक्ट्री के मालिक ने उसका सच्चा काम देखा और उसे एक आखिरी मौका\nदेने का फैसला किया।",
+        "en": "Amit admitted his mistake and began looking for the\ncause of the breakdown. He worked at night to repair the device and make it\nsafe. The factory owner saw his sincere work and decided to give him one last\nchance."
       },
       {
         "heading": "Page 5",
-        "ru": "दिन के अंत में अन्ना पूरा पृष्ठ ज़ोर से पढ़ती है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। अन्ना मुस्कुराती है, क्योंकि सीखना अब संभव और पास लगता है.",
-        "en": "At the end of the day, Anna reads the whole page out loud. The words are not perfect yet, but they are familiar now. Anna smiles because learning feels possible and close."
+        "ru": "दूसरा टेस्ट सफल रहा। नदी का पानी पूरी तरह साफ हो गया। कुछ\nसालों के बाद नदी में मछलियां वापस आ गईं। यह शहर एक उदाहरण बन गया कि कैसे\nविज्ञान प्रकृति के साथ मिलकर काम कर सकता है।",
+        "en": "The second test was successful. The water in the\nriver became completely clean. A few years later, fish returned to the river.\nThe town became an example of how science can work together in harmony with\nnature."
       }
     ]
   },
   {
     "id": "hindi-advanced-42",
     "level": "advanced",
-    "title": "Advanced 42: The Forgotten Invitation",
+    "title": "Advanced 42: The Ancient Map's Secret",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2270,39 +2270,39 @@
       680,
       683
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/42-advanced-the-forgotten-invitation.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/42-advanced-the-ancient-maps-secret.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह साशा विश्वविद्यालय जाता है। वहाँ पास में पत्र और फ़ोन है। साशा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “निमंत्रण।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Sasha is at the university. There is letter and phone nearby. Sasha reads slowly and notices a new word: invitation. The day feels good, and the language feels a little closer."
+        "ru": "एक युवा इतिहासकार दिनेश शहर के पुराने पुस्तकालय में काम करता\nथा। पुरानी किताबों के बीच उसे एक पीला पुराना नक्शा मिला। उस पर पहाड़ों में एक\nऐसी जगह दिखाई गई थी जो आधुनिक नक्शों पर नहीं थी।",
+        "en": "A young historian, Dinesh, was working in the\ncity's old library. Among the old books, he found a yellow, old map. On it was\nmarked a place in the mountains that was not on modern maps."
       },
       {
         "heading": "Page 2",
-        "ru": "साशा अपनी कॉपी में “निमंत्रण” शब्द लिखता है। फिर साशा “मुलाकात” के बारे में सोचता है। जगह शांत है, इसलिए साशा वाक्य को फिर से पढ़कर धीरे से बोलता है.",
-        "en": "Sasha writes the word invitation in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
+        "ru": "दिनेश ने इस रहस्यमयी जगह की खोज करने का फैसला किया। उसने\nक्षेत्र के इतिहास का अध्ययन किया और लंबी यात्रा के लिए सभी उपकरण तैयार\nकिए। वह जानता था कि रास्ता कठिन होगा, लेकिन इतिहास में उसकी रुचि ने उसे\nरास्ता दिखाया।",
+        "en": "Dinesh decided to investigate this mysterious\nplace. He studied the area's history and prepared all the devices for the long\nhike. He knew the path would be difficult, but his interest in history guided\nhim."
       },
       {
         "heading": "Page 3",
-        "ru": "एक छोटी-सी समस्या आती है, लेकिन साशा नए शब्दों का इस्तेमाल करता है। साशा पत्र को देखता है, फिर फ़ोन को देखता है, और एक आसान योजना बनाता है। अंत में साशा एक साफ़ वाक्य कह सकता है।",
-        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the phone, and makes a simple plan. By the end, Sasha can say one clear sentence."
+        "ru": "पहाड़ बहुत ऊँचे और सीधे थे। रास्ते में तेज़ बारिश शुरू हो गई\nऔर ठंड बढ़ गई। दिनेश थक गया था, लेकिन सच को जानने की उसकी इच्छा ने उसे जंगल के\nरास्ते आगे बढ़ने में मदद की।",
+        "en": "The mountains were very high and steep. Along the\nway, heavy rain began and it became cold. Dinesh was tired, but his desire to\nfind the truth helped him move further through the forest."
       },
       {
         "heading": "Page 4",
-        "ru": "बाद में साशा एक व्यक्ति से मिलता है और एक सावधान प्रश्न पूछता है। उत्तर सरल है, पर मदद करता है। साशा तीन और शब्द लिखता है और उन्हें दिन की कहानी से जोड़ता है.",
-        "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
+        "ru": "जब बारिश रुकी तो दिनेश उस जगह पहुँचा जहाँ दो नदियाँ बहती\nथीं। वहाँ एक सुंदर झरना था। पानी के पीछे उसे एक गुफा का छिपा हुआ रास्ता\nमिला जहाँ एक पुराना पत्थरों का बक्सा रखा था।",
+        "en": "When the rain stopped, Dinesh came to the place\nwhere two rivers flowed. There was a beautiful waterfall. Behind the water, he\nfound a hidden entrance to a cave where an old stone box was placed."
       },
       {
         "heading": "Page 5",
-        "ru": "दिन के अंत में साशा पूरा पृष्ठ ज़ोर से पढ़ता है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। साशा मुस्कुराता है, क्योंकि सीखना अब संभव और पास लगता है.",
-        "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
+        "ru": "दिनेश ने बक्सा खोला और उसमें पुराने कागज़ पाए। उनमें इन\nजगहों के पुराने लोगों का इतिहास और उनकी उपयोगी जानकारी लिखी थी। दिनेश\nने इस खोज को यूनिवर्सिटी में दिखाया और दुनिया को पुराना इतिहास बताया।",
+        "en": "Dinesh opened the box and found old papers inside.\nIn them was recorded the history of the ancient people of these places and their\nuseful information. Dinesh showed this discovery at the university and revealed\nthe old history to the world."
       }
     ]
   },
   {
     "id": "hindi-advanced-43",
     "level": "advanced",
-    "title": "Advanced 43: The History Room",
+    "title": "Advanced 43: The Voice of the Wind",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2357,39 +2357,39 @@
       715,
       718
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/43-advanced-the-history-room.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/43-advanced-the-voice-of-the-wind.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह निकोलाई संग्रहालय जाता है। वहाँ पास में किताब और तस्वीर है। निकोलाई धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “इतिहास।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Nikolay is in the museum. There is book and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
+        "ru": "वैज्ञानिक अमित पहाड़ों में एक मौसम स्टेशन पर काम करते थे। वह\nहवा की गति और तापमान को रिकॉर्ड करते थे। हाल ही में पहाड़ों में मौसम तेजी से\nबदलने लगा था।",
+        "en": "The scientist Amit worked at a weather station high\nin the mountains. He recorded wind speed and temperature. Recently, the weather\nin the mountains began to change rapidly."
       },
       {
         "heading": "Page 2",
-        "ru": "निकोलाई अपनी कॉपी में “इतिहास” शब्द लिखता है। फिर निकोलाई “अतीत” के बारे में सोचता है। जगह शांत है, इसलिए निकोलाई वाक्य को फिर से पढ़कर धीरे से बोलता है.",
-        "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about past. The place is quiet, so Nikolay reads the sentence again and says it softly."
+        "ru": "अमित ने समझा कि पहाड़ के नीचे वाले छोटे गाँव की तरफ एक\nखतरनाक तूफ़ान आ रहा है। उसे लोगों को जल्दी सावधान करना था ताकि उनके\nघरों को बचाया जा सके।",
+        "en": "Amit realized that a dangerous storm was heading\ntowards the small village at the foot of the mountain. He needed to warn the\npeople quickly to protect their homes."
       },
       {
         "heading": "Page 3",
-        "ru": "एक छोटी-सी समस्या आती है, लेकिन निकोलाई नए शब्दों का इस्तेमाल करता है। निकोलाई किताब को देखता है, फिर तस्वीर को देखता है, और एक आसान योजना बनाता है। अंत में निकोलाई एक साफ़ वाक्य कह सकता है।",
-        "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the book, looks at the picture, and makes a simple plan. By the end, Nikolay can say one clear sentence."
+        "ru": "वह जल्दी से गाँव में आया और लोगों को हवा के बारे में बताया।\nशुरू में कुछ लोगों ने विश्वास नहीं किया, लेकिन वैज्ञानिक आँकड़ों ने उन्हें\nतुरंत सुरक्षित जगह जाने के लिए मान लिया।",
+        "en": "He went down quickly to the village and told the\npeople about the wind. Some did not believe at first, but the scientific data\nconvinced them to agree to a temporary evacuation."
       },
       {
         "heading": "Page 4",
-        "ru": "बाद में निकोलाई एक व्यक्ति से मिलता है और एक सावधान प्रश्न पूछता है। उत्तर सरल है, पर मदद करता है। निकोलाई तीन और शब्द लिखता है और उन्हें दिन की कहानी से जोड़ता है.",
-        "en": "Later, Nikolay meets another person and asks one careful question. The answer is simple, but it helps. Nikolay writes three more words and connects them to the story of the day."
+        "ru": "रात को एक बड़ा तूफ़ान आया। हवा ने घरों के पास के पेड़ों को\nतोड़ दिया। लेकिन अमित के काम के कारण सभी लोग पहले से ही एक मजबूत पत्थर के\nआश्रय में सुरक्षित थे।",
+        "en": "At night, a large storm raged. The wind broke trees\nnear the houses. But thanks to Amit's work, all the residents were already safe\ninside a sturdy stone shelter."
       },
       {
         "heading": "Page 5",
-        "ru": "दिन के अंत में निकोलाई पूरा पृष्ठ ज़ोर से पढ़ता है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। निकोलाई मुस्कुराता है, क्योंकि सीखना अब संभव और पास लगता है.",
-        "en": "At the end of the day, Nikolay reads the whole page out loud. The words are not perfect yet, but they are familiar now. Nikolay smiles because learning feels possible and close."
+        "ru": "सुबह तूफ़ान चला गया। गाँव को थोड़ा नुकसान हुआ, लेकिन लोगों\nकी जान बच गई। लोगों ने अमित को धन्यवाद दिया और विज्ञान की उपयोगिता को समझा।",
+        "en": "In the morning, the storm left. The village was\nslightly damaged, but people's lives were saved. The residents thanked Amit and\nunderstood the utility of science."
       }
     ]
   },
   {
     "id": "hindi-advanced-44",
     "level": "advanced",
-    "title": "Advanced 44: The Quiet Train",
+    "title": "Advanced 44: The Deep Ocean",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2444,39 +2444,39 @@
       750,
       753
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/44-advanced-the-quiet-train.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/44-advanced-the-deep-ocean.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह मारिया ट्रेन जाती है। वहाँ पास में टिकट और चाय है। मारिया धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “शांत।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Maria is on the train. There is ticket and tea nearby. Maria reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
+        "ru": "वैज्ञानिक रोहन ने पानी के नीचे जाने वाली एक नई मशीन बनाई।\nउन्होंने समुद्र के सबसे गहरे बिंदु पर जाने की योजना बनाई ताकि वे वहाँ की\nअनदेखी दुनिया को देख सकें।",
+        "en": "The scientist Rohan built a new underwater vehicle.\nHe planned to descend to the deepest point of the sea to study the unknown life\non the ocean floor."
       },
       {
         "heading": "Page 2",
-        "ru": "मारिया अपनी कॉपी में “शांत” शब्द लिखती है। फिर मारिया “यात्रा” के बारे में सोचती है। जगह शांत है, इसलिए मारिया वाक्य को फिर से पढ़कर धीरे से बोलती है.",
-        "en": "Maria writes the word quiet in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
+        "ru": "कई हज़ार मीटर की गहराई पर पूरा अंधेरा था। लेकिन मशीन की\nशक्तिशाली रोशनी ने रेत, पत्थरों और अजीब पौधों की एक अनजान दुनिया को\nदिखाया।",
+        "en": "At a depth of several thousand meters, there was\ncomplete darkness. But the vehicle's powerful lamps illuminated an unknown world\nof sand, stones, and strange plants."
       },
       {
         "heading": "Page 3",
-        "ru": "एक छोटी-सी समस्या आती है, लेकिन मारिया नए शब्दों का इस्तेमाल करती है। मारिया टिकट को देखती है, फिर चाय को देखती है, और एक आसान योजना बनाती है। अंत में मारिया एक साफ़ वाक्य कह सकती है।",
-        "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the tea, and makes a simple plan. By the end, Maria can say one clear sentence."
+        "ru": "अचानक रोहन ने एक छोटा चमकता हुआ जीव देखा। यह एक नई प्रजाति\nथी जिसके बारे में विज्ञान को पता नहीं था। उन्होंने उस सुंदर जीव की कई\nतस्वीरें लीं।",
+        "en": "Suddenly, Rohan saw a small glowing animal. It was\na new species unknown to science. He took many photos of this beautiful\ncreature."
       },
       {
         "heading": "Page 4",
-        "ru": "बाद में मारिया एक व्यक्ति से मिलती है और एक सावधान प्रश्न पूछती है। उत्तर सरल है, पर मदद करता है। मारिया तीन और शब्द लिखती है और उन्हें दिन की कहानी से जोड़ती है.",
-        "en": "Later, Maria meets another person and asks one careful question. The answer is simple, but it helps. Maria writes three more words and connects them to the story of the day."
+        "ru": "काम के दौरान मशीन की बत्तियाँ कुछ पलों के लिए बंद हो गईं।\nरोहन डरे नहीं। वह मशीन की संरचना को जानते थे और उन्होंने अपने हाथों से\nबिजली की समस्या को ठीक कर दिया।",
+        "en": "During the operation, the instruments turned off\nfor a second. Rohan did not panic. He knew the vehicle's structure and quickly\nfixed the electrical problem with his hands."
       },
       {
         "heading": "Page 5",
-        "ru": "दिन के अंत में मारिया पूरा पृष्ठ ज़ोर से पढ़ती है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। मारिया मुस्कुराती है, क्योंकि सीखना अब संभव और पास लगता है.",
-        "en": "At the end of the day, Maria reads the whole page out loud. The words are not perfect yet, but they are familiar now. Maria smiles because learning feels possible and close."
+        "ru": "रोहन ऊपर आए और अपनी तस्वीरें दुनिया के वैज्ञानिकों को\nदिखाईं। उनकी खोज ने लोगों को महासागर और उसके पर्यावरण की रक्षा के\nमहत्व को बेहतर ढंग से समझने में मदद की।",
+        "en": "Rohan ascended and showed his pictures to the\nworld's scientists. His discovery helped people better understand the ocean\ndepths and know the importance of protecting its ecology."
       }
     ]
   },
   {
     "id": "hindi-advanced-45",
     "level": "advanced",
-    "title": "Advanced 45: A Plan for Tomorrow",
+    "title": "Advanced 45: The Star Tracker",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2531,39 +2531,39 @@
       785,
       788
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/45-advanced-a-plan-for-tomorrow.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/45-advanced-the-star-tracker.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह लीना घर जाती है। वहाँ पास में नक्शा और कॉपी है। लीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “कल।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Lena is at home. There is map and notebook nearby. Lena reads slowly and notices a new word: tomorrow. The day feels good, and the language feels a little closer."
+        "ru": "वैज्ञानिक सीमा एक दुर्लभ धूमकेतु के आने का इंतजार कर रही\nथीं। यह धूमकेतु सौ साल में एक बार पृथ्वी के पास आता था। वह उसकी पूंछ की\nतस्वीरें लेना चाहती थीं।",
+        "en": "The astronomer Seema was waiting for the appearance\nof a rare comet. This comet approached Earth once every hundred years. She\nwanted to take high-quality pictures of its tail."
       },
       {
         "heading": "Page 2",
-        "ru": "लीना अपनी कॉपी में “कल” शब्द लिखती है। फिर लीना “योजना” के बारे में सोचती है। जगह शांत है, इसलिए लीना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
-        "en": "Lena writes the word tomorrow in a notebook. Then Lena thinks about plan. The place is quiet, so Lena reads the sentence again and says it softly."
+        "ru": "उन्होंने शहर के बाहर एक पहाड़ी पर बच्चों के लिए तारों को\nदेखने का एक छोटा कार्यक्रम रखा। कई बच्चे अपने माता-पिता के साथ आसमान\nदेखने आए।",
+        "en": "She organized a small evening school for children\non a hill outside the town. Many children came with their parents to look at the\nsky."
       },
       {
         "heading": "Page 3",
-        "ru": "एक छोटी-सी समस्या आती है, लेकिन लीना नए शब्दों का इस्तेमाल करती है। लीना नक्शा को देखती है, फिर कॉपी को देखती है, और एक आसान योजना बनाती है। अंत में लीना एक साफ़ वाक्य कह सकती है।",
-        "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the map, looks at the notebook, and makes a simple plan. By the end, Lena can say one clear sentence."
+        "ru": "सीमा ने एक बड़ा टेलीस्कोप ठीक किया और बच्चों को तारे दिखाए।\nवह उन्हें अंतरिक्ष के नियम आसान शब्दों में समझा रही थीं। बच्चों ने ध्यान से\nसुना।",
+        "en": "Seema adjusted the large telescope and showed the\nchildren constellations. She explained the laws of space to them in simple and\nclear words. The children listened with interest."
       },
       {
         "heading": "Page 4",
-        "ru": "बाद में लीना एक व्यक्ति से मिलती है और एक सावधान प्रश्न पूछती है। उत्तर सरल है, पर मदद करता है। लीना तीन और शब्द लिखती है और उन्हें दिन की कहानी से जोड़ती है.",
-        "en": "Later, Lena meets another person and asks one careful question. The answer is simple, but it helps. Lena writes three more words and connects them to the story of the day."
+        "ru": "आखिरकार चमकीला धूमकेतु आसमान में आ गया। उसकी रोशनी ने रात\nमें एक सुंदर रेखा बनाई। सब चुप हो गए और प्रकृति के इस सुंदर नज़ारे को\nदेखने लगे।",
+        "en": "Finally, the bright comet appeared in the dark sky.\nIts bright light left a long line in the heavens. Everyone fell silent and\nlooked in awe at this miracle of nature."
       },
       {
         "heading": "Page 5",
-        "ru": "दिन के अंत में लीना पूरा पृष्ठ ज़ोर से पढ़ती है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। लीना मुस्कुराती है, क्योंकि सीखना अब संभव और पास लगता है.",
-        "en": "At the end of the day, Lena reads the whole page out loud. The words are not perfect yet, but they are familiar now. Lena smiles because learning feels possible and close."
+        "ru": "इस शाम ने बच्चों को विज्ञान से प्यार करना सिखाया। उनमें से\nकुछ ने भविष्य में वैज्ञानिक बनने का फैसला किया। सीमा ने समझा कि उनके काम का\nबड़ा मूल्य है।",
+        "en": "This evening helped the children fall in love with\nscience. Some of them decided to become astronomers in the future. Seema\nrealized that her work holds great value."
       }
     ]
   },
   {
     "id": "hindi-advanced-46",
     "level": "advanced",
-    "title": "Advanced 46: News from the Cafe",
+    "title": "Advanced 46: The Digital Heritage",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2618,39 +2618,39 @@
       820,
       823
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/46-advanced-news-from-the-cafe.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/46-advanced-the-digital-heritage.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह ओल्गा कैफ़े जाती है। वहाँ पास में अख़बार और चाय है। ओल्गा धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “समाचार।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Olga is in the cafe. There is newspaper and tea nearby. Olga reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
+        "ru": "प्रोग्रामर विकास ने अपनी दादी के घर में एक पुराना ब्लैक एंड\nव्हाइट फोटो एल्बम पाया। वहाँ उनके परिवार की तस्वीरें और सौ साल पहले के शहर के\nचित्र थे।",
+        "en": "The programmer Vikas found an old black-and-white\nphoto album in his grandmother's house. There were photographs of his family and\npictures of the town's life a hundred years ago."
       },
       {
         "heading": "Page 2",
-        "ru": "ओल्गा अपनी कॉपी में “समाचार” शब्द लिखती है। फिर ओल्गा “बातचीत” के बारे में सोचती है। जगह शांत है, इसलिए ओल्गा वाक्य को फिर से पढ़कर धीरे से बोलती है.",
-        "en": "Olga writes the word news in a notebook. Then Olga thinks about talk. The place is quiet, so Olga reads the sentence again and says it softly."
+        "ru": "विकास ने इन तस्वीरों को डिजिटल रूप में बदलने का फैसला किया\nताकि परिवार का इतिहास सुरक्षित रहे। वह जानता था कि कागज समय के साथ खराब हो\nसकता है।",
+        "en": "Vikas decided to convert these pictures into a\ndigital format to preserve the family's history. He understood that paper could\ndeteriorate over time."
       },
       {
         "heading": "Page 3",
-        "ru": "एक छोटी-सी समस्या आती है, लेकिन ओल्गा नए शब्दों का इस्तेमाल करती है। ओल्गा अख़बार को देखती है, फिर चाय को देखती है, और एक आसान योजना बनाती है। अंत में ओल्गा एक साफ़ वाक्य कह सकती है।",
-        "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the newspaper, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
+        "ru": "उसने एक स्कैनर का इस्तेमाल किया और कंप्यूटर पर एक विशेष\nप्रोग्राम लिखा। प्रोग्राम ने तस्वीरों से धूल साफ की और पुराने चेहरों\nको साफ दिखाया।",
+        "en": "He used a scanner and wrote a special program on\nhis computer. The program removed dust from the images and made old faces clear."
       },
       {
         "heading": "Page 4",
-        "ru": "बाद में ओल्गा एक व्यक्ति से मिलती है और एक सावधान प्रश्न पूछती है। उत्तर सरल है, पर मदद करता है। ओल्गा तीन और शब्द लिखती है और उन्हें दिन की कहानी से जोड़ती है.",
-        "en": "Later, Olga meets another person and asks one careful question. The answer is simple, but it helps. Olga writes three more words and connects them to the story of the day."
+        "ru": "विकास ने तैयार एल्बम को इंटरनेट पर डाला और सभी रिश्तेदारों\nको लिंक भेजा। अपनी पुरानी तस्वीरें देखकर सभी रिश्तेदार बहुत खुश हुए।",
+        "en": "Vikas uploaded the completed album to the internet\nand sent the link to all his relatives in other cities. Everyone was happy to\nsee their roots through the pictures."
       },
       {
         "heading": "Page 5",
-        "ru": "दिन के अंत में ओल्गा पूरा पृष्ठ ज़ोर से पढ़ती है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। ओल्गा मुस्कुराती है, क्योंकि सीखना अब संभव और पास लगता है.",
-        "en": "At the end of the day, Olga reads the whole page out loud. The words are not perfect yet, but they are familiar now. Olga smiles because learning feels possible and close."
+        "ru": "आधुनिक तकनीक के कारण परिवार का इतिहास आने वाले बच्चों के लिए\nसुरक्षित हो गया। विकास ने समझा कि उसका ज्ञान समाज के अच्छे कामों में मदद कर सकता\nहै।",
+        "en": "Thanks to modern technologies, the family's history\nwas saved safely for future generations of children. Vikas realized that his\ncoding skills and knowledge could serve good goals in society. === END OF\nSTORY 46 ==="
       }
     ]
   },
   {
     "id": "hindi-advanced-47",
     "level": "advanced",
-    "title": "Advanced 47: The Word That Changed the Day",
+    "title": "Advanced 47: The Green Architecture",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2705,39 +2705,39 @@
       855,
       858
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/47-advanced-the-word-that-changed-the-day.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/47-advanced-the-green-architecture.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह दीमा सड़क जाता है। वहाँ पास में बैग और किताब है। दीमा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “मदद।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Dima is on the street. There is bag and book nearby. Dima reads slowly and notices a new word: help. The day feels good, and the language feels a little closer."
+        "ru": "वास्तुकार अनिल को शहर में एक नया सामुदायिक केंद्र बनाने का\nकाम मिला। उन्होंने इस इमारत को पूरी तरह से पर्यावरण के अनुकूल और साफ बनाने\nका फैसला किया।",
+        "en": "The architect Anil received an order to create a\nnew community center in the city. He decided to make the building as\neco-friendly and clean as possible."
       },
       {
         "heading": "Page 2",
-        "ru": "दीमा अपनी कॉपी में “मदद” शब्द लिखता है। फिर दीमा “रास्ता” के बारे में सोचता है। जगह शांत है, इसलिए दीमा वाक्य को फिर से पढ़कर धीरे से बोलता है.",
-        "en": "Dima writes the word help in a notebook. Then Dima thinks about road. The place is quiet, so Dima reads the sentence again and says it softly."
+        "ru": "उन्होंने छत के डिजाइन को बदला ताकि इमारत के अंदर अधिक धूप आ\nसके। इससे दिन के समय बिजली के बल्बों का उपयोग कम करने में मदद मिली।",
+        "en": "He changed the structure of the roof to let more\nsunlight inside the building. This helped reduce the use of electric lamps\nduring the day."
       },
       {
         "heading": "Page 3",
-        "ru": "एक छोटी-सी समस्या आती है, लेकिन दीमा नए शब्दों का इस्तेमाल करता है। दीमा बैग को देखता है, फिर किताब को देखता है, और एक आसान योजना बनाता है। अंत में दीमा एक साफ़ वाक्य कह सकता है।",
-        "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the bag, looks at the book, and makes a simple plan. By the end, Dima can say one clear sentence."
+        "ru": "अनिल ने केंद्र की छत पर एक हरा बगीचा बनाने की योजना बनाई।\nबारिश के पानी को इकट्ठा करने की प्रणाली अपने आप पौधों को पानी दे सकती थी।",
+        "en": "Anil planned to plant a green garden on the roof of\nthe new center. A rainwater collection system was supposed to water the plants\nautomatically without human involvement."
       },
       {
         "heading": "Page 4",
-        "ru": "बाद में दीमा एक व्यक्ति से मिलता है और एक सावधान प्रश्न पूछता है। उत्तर सरल है, पर मदद करता है। दीमा तीन और शब्द लिखता है और उन्हें दिन की कहानी से जोड़ता है.",
-        "en": "Later, Dima meets another person and asks one careful question. The answer is simple, but it helps. Dima writes three more words and connects them to the story of the day."
+        "ru": "बनाने वालों ने काम शुरू किया और सुरक्षित लकड़ी की सामग्री का\nउपयोग किया। शहर के लोग रुचि के साथ इस नए घर के बनने को देख रहे थे।",
+        "en": "Builders started the work, using safe materials\nmade from recycled wood. City residents watched the creation of the new building\nwith interest."
       },
       {
         "heading": "Page 5",
-        "ru": "दिन के अंत में दीमा पूरा पृष्ठ ज़ोर से पढ़ता है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। दीमा मुस्कुराता है, क्योंकि सीखना अब संभव और पास लगता है.",
-        "en": "At the end of the day, Dima reads the whole page out loud. The words are not perfect yet, but they are familiar now. Dima smiles because learning feels possible and close."
+        "ru": "नया केंद्र शहर की सबसे सुंदर जगह बन गया। लोग वहाँ हरे पेड़ों\nके नीचे आराम करने आते थे। अनिल ने पर्यावरण के अनुकूल वास्तुकला की उपयोगिता साबित\nकी।",
+        "en": "The new center became the most beautiful place in\nthe city. People came there to rest under green trees. Anil proved the benefit\nof green architecture."
       }
     ]
   },
   {
     "id": "hindi-advanced-48",
     "level": "advanced",
-    "title": "Advanced 48: The Meeting at the University",
+    "title": "Advanced 48: The Silent Garden",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2792,39 +2792,39 @@
       890,
       893
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/48-advanced-the-meeting-at-the-university.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/48-advanced-the-silent-garden.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह साशा विश्वविद्यालय जाता है। वहाँ पास में पत्र और डेस्क है। साशा धीरे-धीरे पढ़ता है और एक नया शब्द देखता है: “मुलाकात।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Sasha is at the university. There is letter and desk nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
+        "ru": "माली गीता को शहर के बाहर एक पुराने मंदिर के बगीचे को ठीक\nकरने का काम मिला। यह बगीचा कई सालों से खाली पड़ा था और जंगली घास से भरा\nथा।",
+        "en": "The gardener Geeta received a request to restore\nthe garden of an old monastery in the suburbs. This garden had been abandoned\nmany years ago and was overgrown with wild grass."
       },
       {
         "heading": "Page 2",
-        "ru": "साशा अपनी कॉपी में “मुलाकात” शब्द लिखता है। फिर साशा “विचार” के बारे में सोचता है। जगह शांत है, इसलिए साशा वाक्य को फिर से पढ़कर धीरे से बोलता है.",
-        "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about ideas. The place is quiet, so Sasha reads the sentence again and says it softly."
+        "ru": "उसने बगीचे का नया नक्शा बनाया। उसने पानी के पास बड़े भूरे\nपत्थर रखने और लोगों के घूमने के लिए छोटे रास्ते बनाने का फैसला किया।",
+        "en": "She drew a new plan for the garden. She decided to\nplace large grey stones near the water pool and make smooth sandy paths for\nquiet walks for visitors."
       },
       {
         "heading": "Page 3",
-        "ru": "एक छोटी-सी समस्या आती है, लेकिन साशा नए शब्दों का इस्तेमाल करता है। साशा पत्र को देखता है, फिर डेस्क को देखता है, और एक आसान योजना बनाता है। अंत में साशा एक साफ़ वाक्य कह सकता है।",
-        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the desk, and makes a simple plan. By the end, Sasha can say one clear sentence."
+        "ru": "गीता ने छायादार जगह पर नरम हरी काई लगाई और बगीचे के बीच में\nसुंदर पेड़ लगाए। ये पेड़ साल के अलग-अलग समय में अपना रंग बदलते थे।",
+        "en": "Geeta planted soft green moss in the shade and\nbeautiful trees in the center of the garden. These trees were supposed to change\ntheir color at different times of the year."
       },
       {
         "heading": "Page 4",
-        "ru": "बाद में साशा एक व्यक्ति से मिलता है और एक सावधान प्रश्न पूछता है। उत्तर सरल है, पर मदद करता है। साशा तीन और शब्द लिखता है और उन्हें दिन की कहानी से जोड़ता है.",
-        "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
+        "ru": "वह एक ऐसी जगह बनाना चाहती थी जहाँ कोई भी शहर की समस्याओं को\nभूल सके, शांति से बैठ सके और अपने जीवन के बारे में सोच सके।",
+        "en": "She wanted to create a place where every person\ncould forget about city problems, sit in silence, and think about their life and\nsoul."
       },
       {
         "heading": "Page 5",
-        "ru": "दिन के अंत में साशा पूरा पृष्ठ ज़ोर से पढ़ता है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। साशा मुस्कुराता है, क्योंकि सीखना अब संभव और पास लगता है.",
-        "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
+        "ru": "बगीचा लोगों के लिए शांति का असली स्थान बन गया। लोग वहाँ पानी\nऔर हवा की आवाज़ सुनने आते थे। गीता खुश थी कि वह पुरानी ज़मीन की सुंदरता वापस ला\nसकी।",
+        "en": "The garden became a true place of peace for people.\nThey came to listen to the water and the wind. Geeta was glad she could return\nbeauty to the old land."
       }
     ]
   },
   {
     "id": "hindi-advanced-49",
     "level": "advanced",
-    "title": "Advanced 49: The Letter and the Map",
+    "title": "Advanced 49: The Solar Flight",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2879,39 +2879,39 @@
       925,
       928
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/49-advanced-the-letter-and-the-map.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/49-advanced-the-solar-flight.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह कात्या पुस्तकालय जाती है। वहाँ पास में पत्र और नक्शा है। कात्या धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “रास्ता।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Katya is in the library. There is letter and map nearby. Katya reads slowly and notices a new word: route. The day feels good, and the language feels a little closer."
+        "ru": "इंजीनियर अमित एक नई मशीन बनाने पर काम कर रहे थे। यह एक छोटा\nड्रोन था जो बिना पेट्रोल के केवल सौर ऊर्जा पर उड़ सकता था।",
+        "en": "The engineer Amit worked on creating a new vehicle.\nIt was a small drone that could fly solely on solar energy without gasoline."
       },
       {
         "heading": "Page 2",
-        "ru": "कात्या अपनी कॉपी में “रास्ता” शब्द लिखती है। फिर कात्या “खोज” के बारे में सोचती है। जगह शांत है, इसलिए कात्या वाक्य को फिर से पढ़कर धीरे से बोलती है.",
-        "en": "Katya writes the word route in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
+        "ru": "इस प्रोजेक्ट का लक्ष्य पहाड़ों के दूर के इलाकों में उन लोगों\nतक दवाइयाँ पहुँचाना था, जहाँ भूस्खलन के कारण रास्ते पूरी तरह नष्ट हो गए थे।",
+        "en": "The goal of the project was to deliver medical\ndevices and medicines to people in hard-to-reach mountain areas where roads were\ndestroyed by landslides."
       },
       {
         "heading": "Page 3",
-        "ru": "एक छोटी-सी समस्या आती है, लेकिन कात्या नए शब्दों का इस्तेमाल करती है। कात्या पत्र को देखती है, फिर नक्शा को देखती है, और एक आसान योजना बनाती है। अंत में कात्या एक साफ़ वाक्य कह सकती है।",
-        "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the letter, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
+        "ru": "एक धूप वाली सुबह, अमित मशीन को एक बड़े मैदान में ले गए।\nड्रोन केवल रोशनी की शक्ति का उपयोग करके हवा में उठा और पहाड़ों की ओर\nउड़ गया।",
+        "en": "On a sunny morning, Amit took the vehicle out to a\nwide field. The drone quietly rose into the air and flew towards the mountains\nusing only the power of light."
       },
       {
         "heading": "Page 4",
-        "ru": "बाद में कात्या एक व्यक्ति से मिलती है और एक सावधान प्रश्न पूछती है। उत्तर सरल है, पर मदद करता है। कात्या तीन और शब्द लिखती है और उन्हें दिन की कहानी से जोड़ती है.",
-        "en": "Later, Katya meets another person and asks one careful question. The answer is simple, but it helps. Katya writes three more words and connects them to the story of the day."
+        "ru": "पहाड़ों में तेज़ हवा चलने लगी। लेकिन पंख की मजबूत बनावट के\nकारण ड्रोन अपना संतुलन बनाए रखने में सफल रहा और आगे बढ़ता रहा।",
+        "en": "A strong wind arose in the mountains. But thanks to\nthe durable structure of the wing, the drone was able to maintain balance and\ncontinued moving on course."
       },
       {
         "heading": "Page 5",
-        "ru": "दिन के अंत में कात्या पूरा पृष्ठ ज़ोर से पढ़ती है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। कात्या मुस्कुराती है, क्योंकि सीखना अब संभव और पास लगता है.",
-        "en": "At the end of the day, Katya reads the whole page out loud. The words are not perfect yet, but they are familiar now. Katya smiles because learning feels possible and close."
+        "ru": "ड्रोन ने सामान को सुरक्षित पहुँचा दिया। अमित बहुत खुश थे।\nउनकी इस तकनीक ने अपनी उपयोगिता साबित की और जीवन बचाने की दिशा में एक कदम\nबढ़ाया।",
+        "en": "The drone successfully delivered the cargo to the\ndestination. Amit was happy. His new technology proved its utility and helped\nmake a step toward saving lives."
       }
     ]
   },
   {
     "id": "hindi-advanced-50",
     "level": "advanced",
-    "title": "Advanced 50: The Language Feels Close",
+    "title": "Advanced 50: The Circle of Life",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2966,32 +2966,32 @@
       960,
       963
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/50-advanced-the-language-feels-close.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/hindi/advanced/50-advanced-the-circle-of-life.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "सुबह इरीना पार्क जाती है। वहाँ पास में किताब और फ़ोन है। इरीना धीरे-धीरे पढ़ती है और एक नया शब्द देखती है: “भाषा।” दिन अच्छा है, और भाषा थोड़ी करीब लगती है.",
-        "en": "In the morning, Irina is in the park. There is book and phone nearby. Irina reads slowly and notices a new word: language. The day feels good, and the language feels a little closer."
+        "ru": "वैज्ञानिक सीमा ने कई सालों तक स्थानीय जंगल की पर्यावरण\nप्रणाली का अध्ययन किया। वह देखती थीं कि छोटे जानवर कैसे रहते हैं और\nपेड़ कैसे बढ़ते हैं।",
+        "en": "The biologist Seema had studied the local forest's\necological system for many years. She kept track of how small animals live and\nhow tall trees grow."
       },
       {
         "heading": "Page 2",
-        "ru": "इरीना अपनी कॉपी में “भाषा” शब्द लिखती है। फिर इरीना “आत्मविश्वास” के बारे में सोचती है। जगह शांत है, इसलिए इरीना वाक्य को फिर से पढ़कर धीरे से बोलती है.",
-        "en": "Irina writes the word language in a notebook. Then Irina thinks about confidence. The place is quiet, so Irina reads the sentence again and says it softly."
+        "ru": "वह देखती थीं कि कैसे गिरी हुई पत्तियां मिट्टी में बदल जाती\nहैं, मिट्टी पेड़ों को बढ़ने की शक्ति देती है और पेड़ पक्षियों के लिए घर बनते\nहैं।",
+        "en": "She observed how fallen leaves turn into fertile\nsoil, the soil gives strength to big trees to grow, and the trees serve as a\nhome for birds."
       },
       {
         "heading": "Page 3",
-        "ru": "एक छोटी-सी समस्या आती है, लेकिन इरीना नए शब्दों का इस्तेमाल करती है। इरीना किताब को देखती है, फिर फ़ोन को देखती है, और एक आसान योजना बनाती है। अंत में इरीना एक साफ़ वाक्य कह सकती है।",
-        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the book, looks at the phone, and makes a simple plan. By the end, Irina can say one clear sentence."
+        "ru": "सप्ताहांत में सीमा बच्चों को जंगल में ले आईं ताकि उन्हें यह\nसंबंध दिखा सकें। उन्होंने बच्चों को समझाया कि पृथ्वी पर सारा जीवन एक चक्र में\nजुड़ा है।",
+        "en": "On the weekend, Seema brought children to the\nforest to show them this structure. She explained to them that on our Earth, all\nlife is connected in one circle."
       },
       {
         "heading": "Page 4",
-        "ru": "बाद में इरीना एक व्यक्ति से मिलती है और एक सावधान प्रश्न पूछती है। उत्तर सरल है, पर मदद करता है। इरीना तीन और शब्द लिखती है और उन्हें दिन की कहानी से जोड़ती है.",
-        "en": "Later, Irina meets another person and asks one careful question. The answer is simple, but it helps. Irina writes three more words and connects them to the story of the day."
+        "ru": "बच्चों ने खुद पत्तियों के नीचे कीड़े ढूंढे और पौधों को देखा।\nवे समझ गए कि मनुष्य भी प्रकृति के इस बड़े चक्र का एक हिस्सा है।",
+        "en": "The children searched for insects under leaves\nthemselves and looked at plants. They understood that humans are also part of\nthis large circle of nature."
       },
       {
         "heading": "Page 5",
-        "ru": "दिन के अंत में इरीना पूरा पृष्ठ ज़ोर से पढ़ती है। शब्द अभी परिपूर्ण नहीं हैं, लेकिन अब वे परिचित हैं। इरीना मुस्कुराती है, क्योंकि सीखना अब संभव और पास लगता है.",
-        "en": "At the end of the day, Irina reads the whole page out loud. The words are not perfect yet, but they are familiar now. Irina smiles because learning feels possible and close."
+        "ru": "सीमा ने बच्चों की आँखों में रुचि देखी। वह समझ गईं कि\nपर्यावरण शिक्षा ही भविष्य में हमारी पृथ्वी की प्रकृति को बचाने\nका सबसे अच्छा तरीका है।",
+        "en": "Seema saw interest in the children's eyes. She\nunderstood that environmental education is the best way to protect our planet's\nnature in the future."
       }
     ]
   }

@@ -1,0 +1,71 @@
+Story 41: The Forest of Tomorrow
+Language: Hindi
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 651-685 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+आज के आधुनिक समाज में विज्ञान और तकनीक तेजी से बढ़ रहे हैं।
+हमारा जीवन बहुत आसान हो गया है, लेकिन सुंदर प्रकृति को अक्सर नुकसान पहुँचता
+है। एक छोटे शहर में फैक्ट्रियों की वजह से नदी गंदी हो गई थी। युवा
+वैज्ञानिक अमित ने इस पर्यावरणीय समस्या को ठीक करने का फैसला
+किया।
+
+Page 2:
+अमित ने पानी साफ करने का एक नया सिस्टम बनाने का सुझाव दिया।
+लेकिन फैक्ट्रियों के मालिकों और कुछ लोगों ने इसका विरोध किया। उनका मानना था कि
+यह बहुत महंगा है और इससे स्थानीय काम को नुकसान पहुँचेगा। अमित ने हार नहीं मानी
+और बातचीत जारी रखी।
+
+Page 3:
+लंबी बातचीत के बाद उन्होंने पहला टेस्ट करने का फैसला किया।
+वैज्ञानिकों ने नदी के पास मशीनें लगाईं। लेकिन मशीन की खराबी के कारण टेस्ट
+विफल हो गया। गंदा पानी फिर से नदी में बहने लगा और लोग गुस्सा होने लगे।
+
+Page 4:
+अमित ने अपनी गलती मानी और मशीन की खराबी का कारण ढूंढने लगा।
+उसने रात में काम किया ताकि मशीन को ठीक कर सके और उसे सुरक्षित बना सके।
+फैक्ट्री के मालिक ने उसका सच्चा काम देखा और उसे एक आखिरी मौका
+देने का फैसला किया।
+
+Page 5:
+दूसरा टेस्ट सफल रहा। नदी का पानी पूरी तरह साफ हो गया। कुछ
+सालों के बाद नदी में मछलियां वापस आ गईं। यह शहर एक उदाहरण बन गया कि कैसे
+विज्ञान प्रकृति के साथ मिलकर काम कर सकता है।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In today's modern society, science and technology
+are developing rapidly. Our lives have become very easy, but beautiful nature
+often suffers. In one small town, the river became dirty because of factories. A
+young scientist, Amit, decided to fix this environmental problem.
+
+Page 2:
+Amit proposed building a new water purification
+system. But the factory owners and some people opposed it. They believed it was
+too expensive and would harm local work. Amit did not give up and kept up the
+dialogue.
+
+Page 3:
+After long discussions, they decided to conduct the
+first test. The scientists installed the equipment near the river. But the test
+failed due to a machine breakdown. Dirty water flowed into the river again, and
+people began to get angry.
+
+Page 4:
+Amit admitted his mistake and began looking for the
+cause of the breakdown. He worked at night to repair the device and make it
+safe. The factory owner saw his sincere work and decided to give him one last
+chance.
+
+Page 5:
+The second test was successful. The water in the
+river became completely clean. A few years later, fish returned to the river.
+The town became an example of how science can work together in harmony with
+nature.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

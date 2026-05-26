@@ -1,0 +1,48 @@
+Story 46: The Digital Heritage
+Language: Japanese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 826-860 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+ソースコードを書くプログラマーのタクヤは、祖母の家で古びた白黒の写真アルバムをたくさん見つけました。
+
+Page 2:
+写真には、昔の町の様子や家族の歴史が記録されていました。タクヤは、これらをデジタル化して保存する計画を立てました。
+
+Page 3:
+彼は特別なスキャナーとソフトウェアを使い、古い画像のノイズを取り除き、色を鮮やかに復元しました。
+
+Page 4:
+彼は完成したデジタルアルバムを、インターネットを使って世界中にいる親戚たちと共有しました。親戚たちはとても喜びました。
+
+Page 5:
+デジタル技術によって、家族の歴史は未来の世代へと安全に引き継がれました。タクヤは、技術の本当の価値を再認識しました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Takuya, a programmer who writes source code, found
+many faded black-and-white photo albums at his grandmother's house.
+
+Page 2:
+The photos recorded the old town's appearance and
+family history. Takuya made a plan to digitalize and save them.
+
+Page 3:
+Using a special scanner and software, he removed
+noise from the old images and restored the colors vividly.
+
+Page 4:
+He shared the completed digital album with
+relatives all over the world using the internet. The relatives were very happy.
+
+Page 5:
+Through digital technology, the family history was
+safely passed down to future generations. Takuya reaffirmed the true value of
+technology.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

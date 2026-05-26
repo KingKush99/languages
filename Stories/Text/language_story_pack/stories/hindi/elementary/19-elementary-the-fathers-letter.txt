@@ -1,0 +1,32 @@
+Story 19: The Father's Letter
+Language: Hindi
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 197-212 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+मेरे पिता काम की वजह से बहुत दूर एक बड़े बंदरगाह के शहर में
+गए थे। एक दिन घर पर उनका लिखा हुआ पत्र मिला। मैं बहुत खुश हुआ और मैंने तुरंत
+उसे खोल लिया।
+
+Page 2:
+पिताजी ने पत्र में वहाँ के सुंदर समुद्र, अद्भुत जगहों और
+अच्छे लोगों के बारे में लिखा था। उन्होंने वादा किया कि वे बहुत जल्द घर
+आएँगे। मेरा दिल शांत हो गया।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+My father went to a very far and large port city
+because of work. One day, a letter he wrote was received at home. I was very
+happy and opened it immediately.
+
+Page 2:
+Father wrote in the letter about the beautiful sea,
+wonderful places, and kind people there. He promised to come home very soon. My
+heart felt relieved immediately.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

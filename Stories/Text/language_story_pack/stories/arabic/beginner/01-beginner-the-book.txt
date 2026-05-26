@@ -1,0 +1,20 @@
+Story 01: The Book
+Language: Arabic
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 1-9 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+أنا في البيت. كان هو هناك. وضعت الكتاب على الطاولة. كان هذا
+له، كما قلت دائماً.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+I am in the house. He was there. I put the book on
+the table. This was for him, as I always said.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

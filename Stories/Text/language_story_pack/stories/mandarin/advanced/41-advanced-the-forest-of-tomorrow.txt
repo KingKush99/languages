@@ -1,0 +1,57 @@
+Story 41: The Forest of Tomorrow
+Language: Chinese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 651-685 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+在现代社会中，科学与技术快速发展。我们的生活变得非常便利，但美丽的自然环境也常常受到伤害。在一个小镇上，河流因为工厂而变得脏乱。年轻的科学家小明决定解决这个环境问题。
+
+Page 2:
+小明建议建造一个全新的净水系统。但是，工厂的负责人和一些镇上的居民反对这个计划。他们认为这太昂贵了，会损害当地的经济。小明没有放弃，而是继续进行真诚的对话。
+
+Page 3:
+经过长期的讨论，他们决定进行机器的第一次测试。科学家们在河边安装了设备。但是，由于机器出现故障，测试失败了。脏水再次流进河里，人们开始感到非常生气。
+
+Page 4:
+小明承认了自己的错误，并开始寻找故障的原因。他夜以继日地工作以修复设备，并使其变得非常安全。工厂的主管看到了他真诚的付出，决定给他最后一次支持的机会。
+
+Page 5:
+第二次测试非常成功。河水变得完全干净，适合使用。几年后，鱼儿又回到了河里。小镇成为了一个好榜样，展示了科学如何帮助经济与绿色自然和谐共存。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In modern society, science and technology develop
+rapidly. Our lives become very convenient, but beautiful nature often suffers.
+In one small town, the river became dirty because of factories. The young
+scientist, Xiao Ming, decided to solve this environmental problem.
+
+Page 2:
+Xiao Ming proposed building a completely new water
+purification system. But the factory directors and some town residents opposed
+the plan. They believed it was too expensive and would harm the local economy.
+Xiao Ming did not give up and continued the sincere dialogue.
+
+Page 3:
+After long discussions, they decided to conduct the
+first test of the machine. The scientists installed the equipment near the
+river. But the test failed due to a machine breakdown. Dirty water flowed into
+the river again, and people began to feel very angry.
+
+Page 4:
+Xiao Ming admitted his mistake and began looking
+for the cause of the breakdown. He worked day and night to repair the device and
+make it completely safe. The factory director saw his sincere effort and decided
+to give him one last, supportive opportunity.
+
+Page 5:
+The second test was a huge success. The river water
+became completely clean and fit for use. A few years later, fish returned to the
+river. The town became an example of how science helps the economy live in
+harmony with green nature.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

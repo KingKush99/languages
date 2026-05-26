@@ -1,0 +1,40 @@
+Story 30: The Creative Lesson
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 393-416 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+木村先生の理科のクラスで、新しいグループワークの課題が出されました。それは、「未来のクリーンな街」の模型を作ることでした。生徒たちは４人のチームに分かれ、どのようなエネルギーを使い、どのように環境を守るかを話し合い始めました。
+
+Page 2:
+さくらのチームでは、たくさんのユニークなアイデアが出ました。太陽光パネルをすべての家の屋根に設置することや、雨水をためて植物に与えるシステムなどです。彼らは紙や段ボールなど、シンプルな素材を使って、協力しながら模型を組み立てていきました。
+
+Page 3:
+発表の日、それぞれのチームが素晴らしい模型をクラスの前で見せました。さくらのチームは、自分たちの未来の街の価値を自信を持って説明しました。みんなでアイデアを合わせ、協力することの大切さを学び、彼らは素晴らしい経験を得ました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In Mr. Kimura's science class, a new group work
+assignment was given. It was to build a model of a "clean city of the future."
+The students divided into teams of four and began to discuss what kind of energy
+to use and how to protect the environment.
+
+Page 2:
+In Sakura's team, many unique ideas came up. These
+included installing solar panels on the roofs of all houses and a system to
+collect rainwater to feed plants. They used simple materials such as paper and
+cardboard, cooperating as they assembled the model.
+
+Page 3:
+On the presentation day, each team showed their
+wonderful models in front of the class. Sakura's team confidently explained the
+value of their future city. By bringing ideas together and learning the
+importance of cooperation, they gained a wonderful experience. === END OF
+STORY 30 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

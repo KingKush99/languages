@@ -1,0 +1,28 @@
+Story 20: Water from the Well
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 213-228 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+那是一个非常炎热的夏天下午。屋子里没有风，我们需要凉爽干净的水。我们决定去森林附近的那口旧井里打水。
+
+Page 2:
+我们用双手把沉重的水桶从井里拉上来。井水非常凉爽。我们喝了水，感到非常快乐和舒适。炎热的一天也变得美好了。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+That was a very hot summer afternoon. There was no
+wind in the house, and we needed cool, clean water. We decided to go draw water
+from that old well near the forest.
+
+Page 2:
+We used our hands to pull the heavy bucket up from
+the well. The well water was very cool. We drank the water and felt very happy
+and comfortable. The hot day became beautiful too.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

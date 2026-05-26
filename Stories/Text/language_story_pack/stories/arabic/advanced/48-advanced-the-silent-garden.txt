@@ -1,0 +1,66 @@
+Story 48: The Silent Garden
+Language: Arabic
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 896-930 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+تلقّت مهندسة الحدائق منى طلباً متميزاً لإعادة تخطيط حديقة
+دير قديم في ضواحي المدينة. كانت هذه الحديقة الكبيرة مهجورة ومنسية بالكامل منذ
+سنوات طويلة ونمت فيها الحشائش البرية.
+
+Page 2:
+رسمت منى خطة تصميم جديدة ومتميزة للحديقة القديمة. وقررت وضع
+صخور رمادية كبيرة بالقرب من بركة الماء وصنع مسارات رملية ناعمة من أجل نزهات
+هادئة وصامتة للزوار.
+
+Page 3:
+زرعت منى طحالب خضراء ناعمة في الأماكن الظليلة، ووضعت
+أشجاراً جميلة ومميزة في قلب الحديقة الجديدة. كانت هذه الأشجار الجميلة
+تغير ألوان أوراقها مع تغير الفصول المختلفة للعام.
+
+Page 4:
+كانت منى تريد خلق بيئة هادئة ومساحة آمنة حيث يمكن لكل شخص
+زيارة المكان ونسيان هموم ومشاكل المدينة، والجلوس بصمت تام لمراجعة حياته وتأمل
+ذاته وروحه.
+
+Page 5:
+غدت الحديقة القديمة مكاناً حقيقياً للراحة والسلام الداخلي
+للناس. كانوا يأتون للاستماع لصوت الماء وحركة الرياح بلطف. كانت منى سعيدة
+بتمكنها من إعادة الجمال والروح لتلك الأرض القديمة.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The landscape architect Mona received a distinct
+request to re-plan the garden of an old monastery in the suburbs of the city.
+This large garden had been completely abandoned and forgotten for many years,
+and wild grasses grew in it.
+
+Page 2:
+Mona drew a new and distinct design plan for the
+old garden. She decided to place large grey rocks near the water pool and make
+smooth sandy paths for quiet and silent walks for visitors.
+
+Page 3:
+Mona planted soft green moss in the shaded areas
+and placed beautiful and distinct trees in the heart of the new garden. These
+beautiful trees changed the colors of their leaves with the changing of the
+different seasons of the year.
+
+Page 4:
+Mona wanted to create a quiet environment and a
+safe space where every person could visit the place and forget the worries and
+problems of the city, and sit in complete silence to review their life and
+contemplate their self and soul.
+
+Page 5:
+The old garden became a true place of rest and
+inner peace for people. They came to listen to the sound of water and the
+movement of the wind gently. Mona was happy to have been able to return beauty
+and spirit to that old land.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

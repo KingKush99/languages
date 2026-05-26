@@ -1,0 +1,53 @@
+Story 45: The Star Tracker
+Language: Chinese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 791-825 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+天文学家小丽正在等待一颗十分罕见的彗星出现。这颗彗星每百年才接近一次地球。她希望拍摄到它明亮尾部的高质量照片。
+
+Page 2:
+小丽在城外一座高高的山丘上为对天文感兴趣的孩子们组织了一次晚间星空活动。许多孩子在父母的陪伴下前来看天空。
+
+Page 3:
+小丽调整了一台巨大的望远镜，让星星清晰地展现在孩子们面前。她用简单、易懂的词语向他们解释宇宙的规律和运动。
+
+Page 4:
+终于，那颗明亮的彗星出现在黑夜中。它的光芒在天空中留下一条长长的亮线。大家都安静下来，惊叹地看着这个美妙的自然景象。
+
+Page 5:
+这个美丽的夜晚帮助孩子们爱上了科学和宇宙探索。一些人甚至决定未来成为天文学家。小丽明白，她的努力给社会带来了很大的价值。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The astronomer Xiao Li was waiting for the
+appearance of a rare comet. This comet approached Earth once every hundred
+years. She wanted to take high-quality pictures of its bright tail.
+
+Page 2:
+Xiao Li organized a small evening stargazing
+activity for children interested in astronomy on a high hill outside the city.
+Many children came accompanied by their parents to watch the sky today.
+
+Page 3:
+Xiao Li adjusted a large telescope and placed the
+stars clearly before the children. She explained to them the laws of the
+universe and planetary movement in simple, easy-to-understand words.
+
+Page 4:
+Finally, the bright comet appeared in the dark sky.
+Its light left a shiny, beautiful line in the sky. Everyone fell silent and
+looked in awe at this wonderful sight of nature.
+
+Page 5:
+This beautiful evening helped the children fall in
+love with science and space exploration. Some of them decided to become
+astronomers in the future. Xiao Li understood that her effort holds great value
+for society.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

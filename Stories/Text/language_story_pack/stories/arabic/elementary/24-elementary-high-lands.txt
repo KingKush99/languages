@@ -1,0 +1,32 @@
+Story 24: High Lands
+Language: Arabic
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 276-290 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+قررنا وضع خطة للصعود إلى جبل مرتفع جداً. كان هذا الجبل
+يرتفع عالياً بالقرب من السحاب، وكان الوصول إلى قمته يتطلب منا قوة وعملاً
+جاداً.
+
+Page 2:
+عندما وصلنا إلى القمة المرتفعة، كانت الرياح باردة جداً. لكن
+المنظر للأرض من هناك كان رائعاً؛ بدت البيوت والأنهار كنقاط صغيرة. شعرنا بالفخر
+بقوتنا الذاتية.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+We decided to make a plan to climb a very high
+mountain. This mountain rose high near the clouds, and reaching its summit
+required strength and hard work from us.
+
+Page 2:
+When we reached the high summit, the wind was very
+cold. But the view of the earth from there was wonderful; houses and rivers
+looked like small points. We felt proud of our own strength.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,45 @@
+Story 30: The Creative Lesson
+Language: Arabic
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 393-416 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+في المدرسة، أعطى المعلم الأطفال مهمة جديدة في حصة العلوم.
+كان عليهم التقسيم إلى مجموعات وبناء نموذج لـ "مدينة المستقبل". جلس أربعة
+أصدقاء معاً وبدأوا يفكرون في التقنيات الصديقة للبيئة.
+
+Page 2:
+كان لديهم الكثير من الأفكار الرائعة والمفيدة. قرروا وضع
+خلايا شمسية على أسطح كل المنازل، ونظام لجمع مياه الأمطار من أجل سقاية
+النباتات. استخدموا أشياء بسيطة مثل الورق والكرتون بأيديهم.
+
+Page 3:
+في اليوم التالي، عرضت كل المجموعات نماذجها الرائعة. مدح
+المعلم الطلاب على جهدهم الكبير وعملهم الجاد. فهم الأصدقاء أهمية العمل معاً
+ومساعدة بعضهم البعض من أجل تحقيق هدف مفيد للجميع.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+At school, the teacher gave the children a new task
+in science class. They had to divide into groups and build a model of a "city of
+the future." Four friends sat together and began thinking about eco-friendly
+technologies.
+
+Page 2:
+They had many great and useful ideas. They decided
+to put solar panels on the roofs of all houses, and a system to collect
+rainwater to water the plants. They used simple things like paper and cardboard
+with their hands.
+
+Page 3:
+The next day, all groups displayed their wonderful
+models. The teacher praised the students for their great effort and hard work.
+The friends understood the importance of working together and helping one
+another to achieve a useful goal for everyone.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,30 @@
+Story 34: The Lost Key
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 489-512 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+放課後、すみれは家の小さな庭でなくした鍵を探していました。朝から雨が降っていたので、土は柔らかく、草には水の粒が残っていました。弟も一緒に来て、二人で石の下や植木鉢の近くを丁寧に見ました。
+
+Page 2:
+すみれは古いベンチのそばで、泥の中に細い線を見つけました。それは誰かが何かを引きずった跡のようでした。弟は葉をどかしながら、「ここをもう一度見よう」と言いました。二人は急がず、静かに手がかりを追いました。
+
+Page 3:
+最後に、灰色の小さな石の下で金色の光が見えました。すみれが石を持ち上げると、そこに鍵がありました。彼女はほっとして笑い、弟に感謝しました。その日、二人は注意深く見ることの大切さを学びました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+After school, Sumire was looking for a lost key in the small garden at home. Because it had rained since morning, the soil was soft and drops of water remained on the grass. Her younger brother came too, and they carefully looked under stones and near the flowerpots.
+
+Page 2:
+Near an old bench, Sumire found a thin line in the mud. It looked like a mark left by something being dragged. Her brother moved the leaves aside and said, "Let's look here one more time." The two followed the clue quietly without rushing.
+
+Page 3:
+At last, a golden shine appeared under a small gray stone. When Sumire lifted the stone, the key was there. She smiled with relief and thanked her brother. That day, they learned the importance of looking carefully.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

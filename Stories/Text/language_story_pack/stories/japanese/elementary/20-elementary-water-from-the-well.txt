@@ -1,0 +1,28 @@
+Story 20: Water from the Well
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 213-228 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+非常に暑い夏の午後でした。家の中は風がなく、私たちは冷たい水を必要としていました。近くの古い井戸に水を取りに行くことにしました。
+
+Page 2:
+私たちは手を使って重い桶を引き上げました。井戸の水はとても冷たく、私たちは生き返るような気持ちになりました。自然の恵みに感謝しました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+It was an extremely hot summer afternoon. There was
+no wind inside the house, and we needed cold water. We decided to go get water
+from the old nearby well.
+
+Page 2:
+We used our hands to pull up the heavy bucket. The
+well water was very cold, and we felt as though we were brought back to life. We
+thanked nature's blessing.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

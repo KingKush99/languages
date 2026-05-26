@@ -2,7 +2,7 @@
   {
     "id": "russian-beginner-01",
     "level": "beginner",
-    "title": "Beginner 01: Morning at Home",
+    "title": "Beginner 01: The Book",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -22,19 +22,19 @@
       9
     ],
     "reviewWords": [],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/01-beginner-morning-at-home.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/01-beginner-the-book.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Анна идёт домой. Там рядом есть чай и книга. Анна читает медленно и замечает новое слово: «город». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Anna is at home. There is tea and book nearby. Anna reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
+        "ru": "Я был там. Он положил его книгу на стол. Это было для\nменя, как он и говорил.",
+        "en": "I was there. He put his book on the table. It was\nfor me, as he had said."
       }
     ]
   },
   {
     "id": "russian-beginner-02",
     "level": "beginner",
-    "title": "Beginner 02: Tea on the Table",
+    "title": "Beginner 02: Gathering at Home",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -60,19 +60,19 @@
       7,
       9
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/02-beginner-tea-on-the-table.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/02-beginner-gathering-at-home.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Лена идёт домой. Там рядом есть чай и хлеб. Лена читает медленно и замечает новое слово: «стол». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Lena is at home. There is tea and bread nearby. Lena reads slowly and notices a new word: table. The day feels good, and the language feels a little closer."
+        "ru": "Они сейчас здесь. Мои друзья хотят быть со мной в одном\nдоме. У нас есть это тихое место.",
+        "en": "They are here now. My friends want to be with me in\none house. We have this quiet place."
       }
     ]
   },
   {
     "id": "russian-beginner-03",
     "level": "beginner",
-    "title": "Beginner 03: The Open Window",
+    "title": "Beginner 03: A Hot Day",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -99,19 +99,19 @@
       13,
       16
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/03-beginner-the-open-window.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/03-beginner-a-hot-day.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Иван идёт домой. Там рядом есть окно и книга. Иван читает медленно и замечает новое слово: «библиотека». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Ivan is at home. There is window and book nearby. Ivan reads slowly and notices a new word: library. The day feels good, and the language feels a little closer."
+        "ru": "Что это? Это слово от моего друга. Но сегодня жарко. Здесь\nесть немного воды у него.",
+        "en": "What is this? This is a word from my friend. But\ntoday is hot. There is some water near him."
       }
     ]
   },
   {
     "id": "russian-beginner-04",
     "level": "beginner",
-    "title": "Beginner 04: Walking to the Park",
+    "title": "Beginner 04: The Choice",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -140,19 +140,19 @@
       22,
       25
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/04-beginner-walking-to-the-park.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/04-beginner-the-choice.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Маша идёт в парк. Там рядом есть мама и брат. Маша читает медленно и замечает новое слово: «друг». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Masha is in the park. There is mother and brother nearby. Masha reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
+        "ru": "Ты и я идем. Это ты или я? У нас была старая книга о\nпрошлом.",
+        "en": "You and I go. Is it you or me? We had an old book\nof the past."
       }
     ]
   },
   {
     "id": "russian-beginner-05",
     "level": "beginner",
-    "title": "Beginner 05: A Quiet Street",
+    "title": "Beginner 05: The New Room",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -180,19 +180,19 @@
       31,
       34
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/05-beginner-a-quiet-street.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/05-beginner-the-new-room.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Павел идёт на улицу. Там рядом есть дом и окно. Павел читает медленно и замечает новое слово: «улица». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Pavel is on the street. There is house and window nearby. Pavel reads slowly and notices a new word: street. The day feels good, and the language feels a little closer."
+        "ru": "Мы были в одной комнате. В какой? Мы можем выйти. Другие\nлюди тоже были там.",
+        "en": "We were in a room. Which room? We can go out. Other\npeople were there too."
       }
     ]
   },
   {
     "id": "russian-beginner-06",
     "level": "beginner",
-    "title": "Beginner 06: The First Book",
+    "title": "Beginner 06: The Plan",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -220,19 +220,19 @@
       39,
       42
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/06-beginner-the-first-book.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/06-beginner-the-plan.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Ольга идёт в библиотеку. Там рядом есть книга и карточка. Ольга читает медленно и замечает новое слово: «слово». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Olga is in the library. There is book and card nearby. Olga reads slowly and notices a new word: word. The day feels good, and the language feels a little closer."
+        "ru": "Он сказал: «Времени нет». Если они будут делать свою\nработу, как они это сделают? Это отличный план.",
+        "en": "He said, \"There is no time.\" If they do their work,\nhow will they do it? It will be a great plan."
       }
     ]
   },
   {
     "id": "russian-beginner-07",
     "level": "beginner",
-    "title": "Beginner 07: A Good Day",
+    "title": "Beginner 07: Three Wishes",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -260,19 +260,19 @@
       47,
       50
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/07-beginner-a-good-day.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/07-beginner-three-wishes.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Николай идёт в парк. Там рядом есть солнце и дерево. Николай читает медленно и замечает новое слово: «хороший». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Nikolay is in the park. There is sun and tree nearby. Nikolay reads slowly and notices a new word: good. The day feels good, and the language feels a little closer."
+        "ru": "Я хочу сказать тебе. Есть набор из трех вещей. Каждая вещь\nнуждается в воздухе. Это работает хорошо.",
+        "en": "I want to tell you. There is a set of three things.\nEach thing needs air. It works well."
       }
     ]
   },
   {
     "id": "russian-beginner-08",
     "level": "beginner",
-    "title": "Beginner 08: At School",
+    "title": "Beginner 08: A Quiet Night",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -300,19 +300,19 @@
       55,
       58
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/08-beginner-at-school.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/08-beginner-a-quiet-night.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Саша идёт в школу. Там рядом есть парта и карандаш. Саша читает медленно и замечает новое слово: «школа». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Sasha is at school. There is desk and pencil nearby. Sasha reads slowly and notices a new word: school. The day feels good, and the language feels a little closer."
+        "ru": "Я читаю маленькую книгу дома. Я также играю своими руками.\nВ конце дня я откладываю книгу.",
+        "en": "I read a small book at home. I also play using my\nhands. At the end of the day, I put the book away."
       }
     ]
   },
   {
     "id": "russian-beginner-09",
     "level": "beginner",
-    "title": "Beginner 09: At the Store",
+    "title": "Beginner 09: The Large Port",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -340,19 +340,19 @@
       63,
       66
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/09-beginner-at-the-store.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/09-beginner-the-large-port.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Ирина идёт в магазин. Там рядом есть сумка и еда. Ирина читает медленно и замечает новое слово: «магазин». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Irina is in the store. There is bag and food nearby. Irina reads slowly and notices a new word: store. The day feels good, and the language feels a little closer."
+        "ru": "Здесь находится большой порт. На этой земле стоит большой\nкорабль. Вы должны написать свое имя здесь.",
+        "en": "Here is a large port. There is a big ship on this\nland. You must write your name here."
       }
     ]
   },
   {
     "id": "russian-beginner-10",
     "level": "beginner",
-    "title": "Beginner 10: At the Station",
+    "title": "Beginner 10: The Path to Change",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -380,19 +380,19 @@
       71,
       74
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/10-beginner-at-the-station.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/10-beginner-the-path-to-change.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Мария идёт на станцию. Там рядом есть чай и билет. Мария читает медленно и замечает новое слово: «станция». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Maria is at the station. There is tea and ticket nearby. Maria reads slowly and notices a new word: station. The day feels good, and the language feels a little closer."
+        "ru": "Люди пошли на высокую гору. Я спросил, почему они пошли.\nОни действовали, чтобы следовать за таким изменением.",
+        "en": "The men went to a high mountain. I asked why they\nwent. They acted to follow such a change."
       }
     ]
   },
   {
     "id": "russian-beginner-11",
     "level": "beginner",
-    "title": "Beginner 11: A Simple Call",
+    "title": "Beginner 11: The New Picture",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -420,19 +420,19 @@
       79,
       82
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/11-beginner-a-simple-call.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/11-beginner-the-new-picture.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Дима идёт домой. Там рядом есть телефон и тетрадь. Дима читает медленно и замечает новое слово: «друг». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Dima is at home. There is phone and notebook nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
+        "ru": "Этому дому нужен свет. Попробуйте сделать его снимок еще\nраз с выключенным светом. Добрый человек помогает нам.",
+        "en": "This house needs light. Try to take a picture of it\nagain with the light off. A kind person helps us."
       }
     ]
   },
   {
     "id": "russian-beginner-12",
     "level": "beginner",
-    "title": "Beginner 12: I Know This Word",
+    "title": "Beginner 12: Our World",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -460,19 +460,19 @@
       87,
       90
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/12-beginner-i-know-this-word.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/beginner/12-beginner-our-world.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Катя идёт в комнату. Там рядом есть бумага и книга. Катя читает медленно и замечает новое слово: «знать». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Katya is in the room. There is paper and book nearby. Katya reads slowly and notices a new word: know. The day feels good, and the language feels a little closer."
+        "ru": "Мои мать и отец любят землю. Мы строим маленький дом рядом\nс животными, чтобы самим наблюдать за ними. В этом весь смысл нашего мира.",
+        "en": "My mother and father love the earth. We build a\nsmall house near the animals to observe them ourselves. That is the point of our\nworld."
       }
     ]
   },
   {
     "id": "russian-elementary-13",
     "level": "elementary",
-    "title": "Elementary 13: The Library Window",
+    "title": "Elementary 13: The Lost Dog",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -508,24 +508,24 @@
       95,
       98
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/13-elementary-the-library-window.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/13-elementary-the-lost-dog.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Павел идёт в библиотеку. Там рядом есть окно и тетрадь. Павел читает медленно и замечает новое слово: «тихо». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Pavel is in the library. There is window and notebook nearby. Pavel reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
+        "ru": "Однажды девочка нашла маленькую собаку в лесу. Собака\nпотерялась и сильно замерзла. Девочка тихо подошла к ней, заговорила\nласковым голосом и успокоила ее.",
+        "en": "One day, a girl found a small dog in the forest.\nThe dog was lost and very cold. The girl quietly approached it, spoke in a sweet\nvoice, and calmed it down."
       },
       {
         "heading": "Page 2",
-        "ru": "Павел пишет слово «тихо» в тетради. Потом Павел думает о теме «чтение». В этом месте тихо, поэтому Павел снова читает предложение и произносит его вслух.",
-        "en": "Pavel writes the word quiet in a notebook. Then Pavel thinks about reading. The place is quiet, so Pavel reads the sentence again and says it softly."
+        "ru": "Она принесла собаку в свой дом и дала ей теплой еды.\nСобака радостно махала хвостом. Ее мама и отец согласились оставить\nсобаку, и все они были очень счастливы.",
+        "en": "She brought the dog into her house and gave it some\nwarm food. The dog wagged its tail happily. Her mother and father agreed to keep\nthe dog, and all of them were very happy."
       }
     ]
   },
   {
     "id": "russian-elementary-14",
     "level": "elementary",
-    "title": "Elementary 14: The Museum Visit",
+    "title": "Elementary 14: The New House",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -561,24 +561,24 @@
       111,
       114
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/14-elementary-the-museum-visit.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/14-elementary-the-new-house.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Николай идёт в музей. Там рядом есть билет и картина. Николай читает медленно и замечает новое слово: «история». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Nikolay is in the museum. There is ticket and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
+        "ru": "Мы выбрали эту тихую землю, чтобы построить наш новый дом.\nРядом течет чистая река, и каждый день слышны голоса птиц. Наша новая жизнь\nначинается на этом месте сегодня.",
+        "en": "We chose this quiet land to build our new house. A\nclean river flows nearby, and the voices of birds are heard every day. Our new\nlife begins at this place today."
       },
       {
         "heading": "Page 2",
-        "ru": "Николай пишет слово «история» в тетради. Потом Николай думает о теме «память». В этом месте тихо, поэтому Николай снова читает предложение и произносит его вслух.",
-        "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about memory. The place is quiet, so Nikolay reads the sentence again and says it softly."
+        "ru": "Отец и я начали делать маленький сад около нашего дома. Мы\nпосадили там красивые цветы. Мама смотрела на нас из окна дома и очень\nпо-доброму помогала нам.",
+        "en": "Father and I started making a small garden near our\nhouse. We planted beautiful flowers there. Mom watched us from the house window\nand helped us very kindly."
       }
     ]
   },
   {
     "id": "russian-elementary-15",
     "level": "elementary",
-    "title": "Elementary 15: The Cafe Notebook",
+    "title": "Elementary 15: The Mother's Advice",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -614,24 +614,24 @@
       127,
       130
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/15-elementary-the-cafe-notebook.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/15-elementary-the-mothers-advice.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Ольга идёт в кафе. Там рядом есть чай и музыка. Ольга читает медленно и замечает новое слово: «мелодия». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Olga is in the cafe. There is tea and music nearby. Olga reads slowly and notices a new word: melody. The day feels good, and the language feels a little closer."
+        "ru": "Мальчик думал над трудной задачей для школы. Он долго\nчитал большую книгу, но никак не мог понять правильный ответ. Он был очень\nрасстроен этим.",
+        "en": "The boy was thinking about a difficult task for\nschool. He read a big book for a long time, but could not understand the correct\nanswer. He was very upset by this."
       },
       {
         "heading": "Page 2",
-        "ru": "Ольга пишет слово «мелодия» в тетради. Потом Ольга думает о теме «слушание». В этом месте тихо, поэтому Ольга снова читает предложение и произносит его вслух.",
-        "en": "Olga writes the word melody in a notebook. Then Olga thinks about listening. The place is quiet, so Olga reads the sentence again and says it softly."
+        "ru": "Мама подошла к нему близко и тихо сказала: «Попробуй еще\nраз с первой страницы. Если будешь читать медленно, ты обязательно поймешь\nвесь смысл». Он начал снова.",
+        "en": "His mother came close to him and quietly said: \"Try\nagain from the first page. If you read slowly, you will surely understand the\nwhole meaning.\" He started again."
       }
     ]
   },
   {
     "id": "russian-elementary-16",
     "level": "elementary",
-    "title": "Elementary 16: Rain Near the Door",
+    "title": "Elementary 16: Building a Bridge",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -667,24 +667,24 @@
       143,
       146
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/16-elementary-rain-near-the-door.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/16-elementary-building-a-bridge.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Дима идёт в книжный магазин. Там рядом есть дверь и книга. Дима читает медленно и замечает новое слово: «дорога». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Dima is in the bookshop. There is door and book nearby. Dima reads slowly and notices a new word: road. The day feels good, and the language feels a little closer."
+        "ru": "Рядом с нашей деревней течет очень широкая река. Чтобы\nперейти на другую сторону земли, нам всегда приходилось идти по долгой и\nтрудной дороге. Это было неудобно.",
+        "en": "A very wide river flows near our village. To cross\nto the other side of the land, we always had to walk along a long and difficult\nroad. It was inconvenient."
       },
       {
         "heading": "Page 2",
-        "ru": "Дима пишет слово «дорога» в тетради. Потом Дима думает о теме «дождь». В этом месте тихо, поэтому Дима снова читает предложение и произносит его вслух.",
-        "en": "Dima writes the word road in a notebook. Then Dima thinks about rain. The place is quiet, so Dima reads the sentence again and says it softly."
+        "ru": "Люди собрались вместе и решили построить новый деревянный\nмост. Все усердно работали своими руками, и большой мост был готов. Теперь мы\nможем ходить легко.",
+        "en": "The people gathered together and decided to build a\nnew wooden bridge. Everyone worked hard with their hands, and the big bridge was\nready. Now we can walk easily."
       }
     ]
   },
   {
     "id": "russian-elementary-17",
     "level": "elementary",
-    "title": "Elementary 17: The Letter on the Table",
+    "title": "Elementary 17: The Picture Book",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -720,24 +720,24 @@
       159,
       162
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/17-elementary-the-letter-on-the-table.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/17-elementary-the-picture-book.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Саша идёт в университет. Там рядом есть письмо и стол. Саша читает медленно и замечает новое слово: «встреча». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Sasha is at the university. There is letter and table nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
+        "ru": "Мой дедушка подарил мне старую интересную книгу. В этой\nкниге было много красивых картинок с дикими животными со всего мира. Я сразу\nполюбил эту книгу.",
+        "en": "My grandfather gave me an interesting old book. In\nthis book, there were many beautiful pictures of wild animals from all over the\nworld. I loved this book immediately."
       },
       {
         "heading": "Page 2",
-        "ru": "Саша пишет слово «встреча» в тетради. Потом Саша думает о теме «приглашение». В этом месте тихо, поэтому Саша снова читает предложение и произносит его вслух.",
-        "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about invitation. The place is quiet, so Sasha reads the sentence again and says it softly."
+        "ru": "Я читал книгу и учился писать новые трудные слова по\nбуквам. Моя мама сидела рядом со мной и помогала мне делать это правильно\nи быстро.",
+        "en": "I read the book and learned to write new difficult\nwords by spelling them out. My mother sat next to me and helped me do it\ncorrectly and quickly."
       }
     ]
   },
   {
     "id": "russian-elementary-18",
     "level": "elementary",
-    "title": "Elementary 18: Words in the Park",
+    "title": "Elementary 18: Pointing to the Sky",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -773,24 +773,24 @@
       175,
       178
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/18-elementary-words-in-the-park.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/18-elementary-pointing-to-the-sky.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Ирина идёт в парк. Там рядом есть телефон и чай. Ирина читает медленно и замечает новое слово: «три». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Irina is in the park. There is phone and tea nearby. Irina reads slowly and notices a new word: three. The day feels good, and the language feels a little closer."
+        "ru": "Когда мы поднялись на вершину высокой горы, синее небо\nпоказалось очень близким. Дул сильный холодный ветер, но яркий свет солнца\nделал мир вокруг прекрасным.",
+        "en": "When we climbed to the top of the high mountain,\nthe blue sky seemed very close. A strong, cold wind was blowing, but the bright\nlight of the sun made the world around us beautiful."
       },
       {
         "heading": "Page 2",
-        "ru": "Ирина пишет слово «три» в тетради. Потом Ирина думает о теме «речь». В этом месте тихо, поэтому Ирина снова читает предложение и произносит его вслух.",
-        "en": "Irina writes the word three in a notebook. Then Irina thinks about speaking. The place is quiet, so Irina reads the sentence again and says it softly."
+        "ru": "Отец указал рукой на небо и сказал: «Посмотри на этих\nбольших птиц. Они летят в далекие теплые края». Мы долго стояли и тихо\nпровожали их глазами.",
+        "en": "Father pointed his hand to the sky and said: \"Look\nat those big birds. They are flying to distant, warm lands.\" We stood for a long\ntime and quietly followed them with our eyes."
       }
     ]
   },
   {
     "id": "russian-elementary-19",
     "level": "elementary",
-    "title": "Elementary 19: The Little Plan",
+    "title": "Elementary 19: The Father's Letter",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -826,24 +826,24 @@
       191,
       194
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/19-elementary-the-little-plan.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/19-elementary-the-fathers-letter.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Лена идёт в магазин. Там рядом есть карта и корзина. Лена читает медленно и замечает новое слово: «план». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Lena is in the store. There is map and basket nearby. Lena reads slowly and notices a new word: plan. The day feels good, and the language feels a little closer."
+        "ru": "Мой отец уехал по работе в большой портовый город далеко\nот дома. Однажды нам пришло письмо от него. Я был так рад и сразу открыл его.",
+        "en": "My father left for work to a large port city far\nfrom home. One day, a letter from him came to us. I was so glad and opened it\nimmediately."
       },
       {
         "heading": "Page 2",
-        "ru": "Лена пишет слово «план» в тетради. Потом Лена думает о теме «покупки». В этом месте тихо, поэтому Лена снова читает предложение и произносит его вслух.",
-        "en": "Lena writes the word plan in a notebook. Then Lena thinks about shopping. The place is quiet, so Lena reads the sentence again and says it softly."
+        "ru": "В письме отец писал о красивых местах, море и новых людях,\nкоторых встретил. Он обещал скоро вернуться домой к нам. Моя душа сразу\nуспокоилась.",
+        "en": "In the letter, father wrote about the beautiful\nplaces, the sea, and new people he met. He promised to return home to us soon.\nMy soul felt relieved immediately."
       }
     ]
   },
   {
     "id": "russian-elementary-20",
     "level": "elementary",
-    "title": "Elementary 20: The News Page",
+    "title": "Elementary 20: Water from the Well",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -879,24 +879,24 @@
       207,
       210
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/20-elementary-the-news-page.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/20-elementary-water-from-the-well.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Мария идёт на станцию. Там рядом есть чай и газета. Мария читает медленно и замечает новое слово: «новость». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Maria is at the station. There is tea and newspaper nearby. Maria reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
+        "ru": "Это был очень жаркий день. В нашем доме было душно, и мы\nвсе нуждались в прохладной и чистой воде. Мы решили пойти к старому колодцу,\nкоторый стоял близко к лесу.",
+        "en": "It was a very hot day. It was stuffy inside our\nhouse, and we all needed cool and clean water. We decided to go to the old well\nthat stood near the forest."
       },
       {
         "heading": "Page 2",
-        "ru": "Мария пишет слово «новость» в тетради. Потом Мария думает о теме «мысль». В этом месте тихо, поэтому Мария снова читает предложение и произносит его вслух.",
-        "en": "Maria writes the word news in a notebook. Then Maria thinks about thinking. The place is quiet, so Maria reads the sentence again and says it softly."
+        "ru": "Мы использовали наши руки, чтобы поднять тяжелое ведро.\nВода из колодца была удивительно холодной. Мы выпили ее и почувствовали себя\nсчастливыми. Наш день стал намного лучше.",
+        "en": "We used our hands to pull up the heavy bucket. The\nwell water was surprisingly cold. We drank it and felt happy. Our day became\nmuch better."
       }
     ]
   },
   {
     "id": "russian-elementary-21",
     "level": "elementary",
-    "title": "Elementary 21: The Family Walk",
+    "title": "Elementary 21: A Day of Play",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -932,24 +932,24 @@
       223,
       226
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/21-elementary-the-family-walk.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/21-elementary-a-day-of-play.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Анна идёт в парк. Там рядом есть мама и брат. Анна читает медленно и замечает новое слово: «дом». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Anna is in the park. There is mother and brother nearby. Anna reads slowly and notices a new word: house. The day feels good, and the language feels a little closer."
+        "ru": "Сегодня в школе не было уроков. Маленькие дети собрались\nна открытом месте возле дома. Они начали играть вместе. Солнце светило ярко, и\nдул приятный ветер.",
+        "en": "Today there were no classes at school. Small\nchildren gathered in an open place near the house. They started playing\ntogether. The sun was shining brightly, and a pleasant wind blew."
       },
       {
         "heading": "Page 2",
-        "ru": "Анна пишет слово «дом» в тетради. Потом Анна думает о теме «семья». В этом месте тихо, поэтому Анна снова читает предложение и произносит его вслух.",
-        "en": "Anna writes the word house in a notebook. Then Anna thinks about family. The place is quiet, so Anna reads the sentence again and says it softly."
+        "ru": "Они бегали и играли до самого вечера. В конце дня все\nуселись в один большой круг на траве. Они рассказывали друг другу\nинтересные истории, которые читали в книгах.",
+        "en": "They ran and played until the very evening. At the\nend of the day, everyone sat down in one big circle on the grass. They told each\nother interesting stories they had read in books."
       }
     ]
   },
   {
     "id": "russian-elementary-22",
     "level": "elementary",
-    "title": "Elementary 22: The Quiet Room",
+    "title": "Elementary 22: Small Endings",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -985,24 +985,24 @@
       239,
       242
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/22-elementary-the-quiet-room.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/22-elementary-small-endings.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Иван идёт в комнату. Там рядом есть стул и книга. Иван читает медленно и замечает новое слово: «комната». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Ivan is in the room. There is chair and book nearby. Ivan reads slowly and notices a new word: room. The day feels good, and the language feels a little closer."
+        "ru": "Каждая вещь имеет свой конец. Но один конец всегда\nозначает начало чего-то нового. Мальчик сложил все свои маленькие\nигрушки в большую коробку.",
+        "en": "Every thing has its end. But one ending always\nmeans the beginning of something new. The boy put all his small toys into a big\nbox."
       },
       {
         "heading": "Page 2",
-        "ru": "Иван пишет слово «комната» в тетради. Потом Иван думает о теме «тишина». В этом месте тихо, поэтому Иван снова читает предложение и произносит его вслух.",
-        "en": "Ivan writes the word room in a notebook. Then Ivan thinks about silence. The place is quiet, so Ivan reads the sentence again and says it softly."
+        "ru": "Он стал старше и больше не играл в них. Теперь ему нужно\nчитать другие книги и самому делать новые планы на жизнь. Он улыбнулся и\nуверенно пошел вперед в свое будущее.",
+        "en": "He grew older and did not play with them anymore.\nNow he needs to read other books and make new plans for life himself. He smiled\nand confidently walked forward into his future."
       }
     ]
   },
   {
     "id": "russian-elementary-23",
     "level": "elementary",
-    "title": "Elementary 23: The New Teacher",
+    "title": "Elementary 23: The Port City",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1037,24 +1037,24 @@
       255,
       258
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/23-elementary-the-new-teacher.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/23-elementary-the-port-city.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Маша идёт в школу. Там рядом есть учитель и доска. Маша читает медленно и замечает новое слово: «вопрос». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Masha is at school. There is teacher and board nearby. Masha reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
+        "ru": "Мой дом стоит очень близко к большому порту. Каждое утро\nкорабли со всего мира приходят сюда. Многие люди сходят на эту землю, и вокруг\nстановится шумно.",
+        "en": "My house stands very close to a big port. Every\nmorning, ships from all over the world come here. Many people step onto this\nland, and it becomes noisy all around."
       },
       {
         "heading": "Page 2",
-        "ru": "Маша пишет слово «вопрос» в тетради. Потом Маша думает о теме «обучение». В этом месте тихо, поэтому Маша снова читает предложение и произносит его вслух.",
-        "en": "Masha writes the word question in a notebook. Then Masha thinks about learning. The place is quiet, so Masha reads the sentence again and says it softly."
+        "ru": "Вечером я и мой отец идем к воде. Мы смотрим, как большие\nкорабли уходят обратно в море. Свет солнца ложится на волны, и этот вид красив\nбез всяких слов.",
+        "en": "In the evening, my father and I go to the water. We\nwatch as the big ships head back out to sea. The light of the sun rests on the\nwaves, and this view is beautiful beyond any words."
       }
     ]
   },
   {
     "id": "russian-elementary-24",
     "level": "elementary",
-    "title": "Elementary 24: The Bus Stop",
+    "title": "Elementary 24: High Lands",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1089,24 +1089,24 @@
       270,
       273
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/24-elementary-the-bus-stop.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/24-elementary-high-lands.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Павел идёт на улицу. Там рядом есть билет и автобус. Павел читает медленно и замечает новое слово: «время». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Pavel is on the street. There is ticket and bus nearby. Pavel reads slowly and notices a new word: time. The day feels good, and the language feels a little closer."
+        "ru": "Мы решили сделать план и подняться на очень высокую гору.\nЭта гора стояла близко к облакам, и ее вершина требовала от нас силы и смелых\nдействий.",
+        "en": "We decided to make a plan and climb a very high\nmountain. This mountain stood close to the clouds, and its peak required\nstrength and bold actions from us."
       },
       {
         "heading": "Page 2",
-        "ru": "Павел пишет слово «время» в тетради. Потом Павел думает о теме «ожидание». В этом месте тихо, поэтому Павел снова читает предложение и произносит его вслух.",
-        "en": "Pavel writes the word time in a notebook. Then Pavel thinks about waiting. The place is quiet, so Pavel reads the sentence again and says it softly."
+        "ru": "Когда мы пришли на вершину, дул холодный ветер. Но вид на\nземлю оттуда был прекрасен. Дома и реки казались маленькими точками. Мы\nгордились своей силой.",
+        "en": "When we reached the top, a cold wind was blowing.\nBut the view of the earth from there was beautiful. Houses and rivers seemed\nlike small points. We were proud of our strength."
       }
     ]
   },
   {
     "id": "russian-elementary-25",
     "level": "elementary",
-    "title": "Elementary 25: The Small Market",
+    "title": "Elementary 25: Trying Again",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1141,24 +1141,24 @@
       285,
       288
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/25-elementary-the-small-market.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/25-elementary-trying-again.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Ольга идёт на рынок. Там рядом есть фрукты и сумка. Ольга читает медленно и замечает новое слово: «деньги». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Olga is at the market. There is fruit and bag nearby. Olga reads slowly and notices a new word: money. The day feels good, and the language feels a little closer."
+        "ru": "Девочка пыталась сделать красивое животное из бумаги. Но\nее первая попытка не удалась, и бумага порвалась. Ей стало немного грустно, и\nона хотела бросить работу.",
+        "en": "The girl tried to make a beautiful animal out of\npaper. But her first attempt did not succeed, and the paper tore. She felt a\nlittle sad and wanted to quit the work."
       },
       {
         "heading": "Page 2",
-        "ru": "Ольга пишет слово «деньги» в тетради. Потом Ольга думает о теме «рынок». В этом месте тихо, поэтому Ольга снова читает предложение и произносит его вслух.",
-        "en": "Olga writes the word money in a notebook. Then Olga thinks about market. The place is quiet, so Olga reads the sentence again and says it softly."
+        "ru": "Мама подошла и сказала: «Попробуй еще раз. Сделай движение\nрук медленнее». Девочка взяла чистый лист и смогла сделать отличную фигуру. Она\nулыбнулась.",
+        "en": "Mom came over and said: \"Try again. Make your hand\nmovements slower.\" The girl took a clean sheet and was able to make an excellent\nfigure. She smiled."
       }
     ]
   },
   {
     "id": "russian-elementary-26",
     "level": "elementary",
-    "title": "Elementary 26: The First Conversation",
+    "title": "Elementary 26: The World of Words",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1193,24 +1193,24 @@
       300,
       303
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/26-elementary-the-first-conversation.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/elementary/26-elementary-the-world-of-words.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Дима идёт в кафе. Там рядом есть телефон и друг. Дима читает медленно и замечает новое слово: «предложение». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Dima is in the cafe. There is phone and friend nearby. Dima reads slowly and notices a new word: sentence. The day feels good, and the language feels a little closer."
+        "ru": "Слова открывают нам новые пути и меняют наше понимание\nжизни. Каждый день я изучаю смысл новых слов и записываю их в свою тетрадь,\nчтобы помнить.",
+        "en": "Words open up new paths for us and change our\nunderstanding of life. Every day I study the meaning of new words and write them\nin my notebook to remember."
       },
       {
         "heading": "Page 2",
-        "ru": "Дима пишет слово «предложение» в тетради. Потом Дима думает о теме «разговор». В этом месте тихо, поэтому Дима снова читает предложение и произносит его вслух.",
-        "en": "Dima writes the word sentence in a notebook. Then Dima thinks about talk. The place is quiet, so Dima reads the sentence again and says it softly."
+        "ru": "Чтение книг помогает человеку строить свой собственный\nвнутренний мир. Читая много, мы начинаем лучше понимать других людей и\nстановимся добрее ко всем вокруг.",
+        "en": "Reading books helps a person build their own inner\nworld. By reading a lot, we begin to better understand other people and become\nkinder to everyone around us."
       }
     ]
   },
   {
     "id": "russian-intermediate-27",
     "level": "intermediate",
-    "title": "Intermediate 27: The Lost Note",
+    "title": "Intermediate 27: The Old Clock",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1254,29 +1254,29 @@
       315,
       318
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/27-intermediate-the-lost-note.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/27-intermediate-the-old-clock.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Катя идёт в библиотеку. Там рядом есть записка и карта. Катя читает медленно и замечает новое слово: «место». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Katya is in the library. There is note and map nearby. Katya reads slowly and notices a new word: place. The day feels good, and the language feels a little closer."
+        "ru": "В одну субботу Антон решил убраться на старом чердаке\nсвоего дома. Там лежало много старых коробок и сломанной мебели. В углу\nкомнаты он заметил большие старинные деревянные часы. Они не двигались много\nлет и были покрыты пылью.",
+        "en": "On a Saturday, Anton decided to clean up the old\nattic of his house. There were many old boxes and broken furniture. In the\ncorner of the room, he noticed a large, antique wooden clock. It had not moved\nfor many years and was covered in dust."
       },
       {
         "heading": "Page 2",
-        "ru": "Катя пишет слово «место» в тетради. Потом Катя думает о теме «поиск». В этом месте тихо, поэтому Катя снова читает предложение и произносит его вслух.",
-        "en": "Katya writes the word place in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
+        "ru": "Антон открыл стеклянную дверцу часов и стал осматривать их\nизнутри. За тяжелым маятником он нашел маленький медный ключ. Он взял его в руку\nи попробовал вставить в отверстие сбоку. Ключ подошел очень легко и мягко.",
+        "en": "Anton opened the clock's glass door and began\nexamining it from the inside. Behind the heavy pendulum, he found a small brass\nkey. He took it in his hand and tried inserting it into a hole on the side. The\nkey fit very easily and softly."
       },
       {
         "heading": "Page 3",
-        "ru": "Появляется маленькая трудность, но Катя использует новые слова. Катя смотрит на записка, потом на карта, и составляет простой план. В конце Катя может сказать одно понятное предложение.",
-        "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the note, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
+        "ru": "Он медленно повернул ключ, и часы начали тихо тикать.\nСтрелки пошли по кругу, и вскоре по дому разнесся красивый звук\nколокольчика. Этот звук любил слушать его дедушка много лет назад.\nНа душе Антона стало тепло и радостно.",
+        "en": "He slowly turned the key, and the clock began to\ntick quietly. The hands moved in a circle, and soon the beautiful sound of a\nchime spread through the house. His grandfather had loved listening to this\nsound many years ago. Anton felt warm and happy in his soul."
       }
     ]
   },
   {
     "id": "russian-intermediate-28",
     "level": "intermediate",
-    "title": "Intermediate 28: A Meeting at Noon",
+    "title": "Intermediate 28: The Quiet Forest",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1320,29 +1320,29 @@
       339,
       342
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/28-intermediate-a-meeting-at-noon.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/28-intermediate-the-quiet-forest.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Саша идёт в университет. Там рядом есть часы и письмо. Саша читает медленно и замечает новое слово: «полдень». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Sasha is at the university. There is clock and letter nearby. Sasha reads slowly and notices a new word: noon. The day feels good, and the language feels a little closer."
+        "ru": "Анна гуляла по лесу, где были слышны только далекие голоса\nптиц. Деревья были высокими, и свет солнца едва проходил сквозь зеленые ветви.\nПод ногами лежал мягкий зеленый мох, похожий на большой ковер.",
+        "en": "Anna was walking through the forest, where only the\ndistant voices of birds were heard. The trees were tall, and the light of the\nsun barely passed through the green branches. Underfoot lay soft green moss,\nlooking like a large carpet."
       },
       {
         "heading": "Page 2",
-        "ru": "Саша пишет слово «полдень» в тетради. Потом Саша думает о теме «встреча». В этом месте тихо, поэтому Саша снова читает предложение и произносит его вслух.",
-        "en": "Sasha writes the word noon in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
+        "ru": "Она пошла глубже и вдруг увидела маленькое красивое озеро.\nВода в нем была чистой, как зеркало, и в ней отражались небо и белые облака.\nРядом стояли несколько оленей и пили воду. Девочка тихо смотрела на них.",
+        "en": "She went deeper and suddenly saw a small, beautiful\nlake. The water in it was clean as a mirror, reflecting the sky and white\nclouds. Nearby stood several deer drinking water. The girl watched them quietly."
       },
       {
         "heading": "Page 3",
-        "ru": "Появляется маленькая трудность, но Саша использует новые слова. Саша смотрит на часы, потом на письмо, и составляет простой план. В конце Саша может сказать одно понятное предложение.",
-        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the clock, looks at the letter, and makes a simple plan. By the end, Sasha can say one clear sentence."
+        "ru": "Анна села на сухой камень у воды и открыла свой блокнот.\nОна решила записать эту историю и нарисовать озеро и оленей. Эта теплая память\nо прогулке в лесу останется с ней на долгое время.",
+        "en": "Anna sat on a dry stone by the water and opened her\nnotebook. She decided to write down this story and draw the lake and the deer.\nThis warm memory of the walk in the forest will stay with her for a long time."
       }
     ]
   },
   {
     "id": "russian-intermediate-29",
     "level": "intermediate",
-    "title": "Intermediate 29: The Old Map",
+    "title": "Intermediate 29: The City by the Sea",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1386,29 +1386,29 @@
       363,
       366
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/29-intermediate-the-old-map.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/29-intermediate-the-city-by-the-sea.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Николай идёт в музей. Там рядом есть карта и улица. Николай читает медленно и замечает новое слово: «город». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Nikolay is in the museum. There is map and street nearby. Nikolay reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
+        "ru": "Миша жил в красивом городе у самого синего моря. Каждое\nлето здесь устраивали большой праздник. В порту вешали яркие флаги, и люди\nстроили маленькие деревянные лавки с едой. К вечеру на улице собралось много\nвеселых людей.",
+        "en": "Misha lived in a beautiful city by the blue sea.\nEvery summer a big festival was organized here. Bright flags were hung in the\nport, and people built small wooden food stalls. By evening, many cheerful\npeople gathered on the street."
       },
       {
         "heading": "Page 2",
-        "ru": "Николай пишет слово «город» в тетради. Потом Николай думает о теме «история». В этом месте тихо, поэтому Николай снова читает предложение и произносит его вслух.",
-        "en": "Nikolay writes the word city in a notebook. Then Nikolay thinks about history. The place is quiet, so Nikolay reads the sentence again and says it softly."
+        "ru": "Миша встретил в порту старого моряка. Старик рассказал ему\nо своих долгих плаваниях по океанам земли, о сильных штормах и больших рыбах.\nМальчик слушал его с большим интересом и мечтал тоже стать настоящим моряком.",
+        "en": "Misha met an old sailor in the port. The old man\ntold him about his long voyages across the oceans of the earth, about strong\nstorms and big fish. The boy listened to him with great interest and dreamed of\nalso becoming a real sailor."
       },
       {
         "heading": "Page 3",
-        "ru": "Появляется маленькая трудность, но Николай использует новые слова. Николай смотрит на карта, потом на улица, и составляет простой план. В конце Николай может сказать одно понятное предложение.",
-        "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the map, looks at the street, and makes a simple plan. By the end, Nikolay can say one clear sentence."
+        "ru": "Когда стало темно, в небе начался яркий салют. Огни\nвзлетали высоко в воздух и падали в воду моря. Весь город светился, и\nлюди хлопали в ладоши. Миша чувствовал гордость за свой красивый портовый\nгород.",
+        "en": "When it became dark, a bright firework display\nbegan in the sky. Lights flew high into the air and fell into the sea water. The\nwhole city glowed, and people clapped their hands. Misha felt pride in his\nbeautiful port city."
       }
     ]
   },
   {
     "id": "russian-intermediate-30",
     "level": "intermediate",
-    "title": "Intermediate 30: The Rainy Lesson",
+    "title": "Intermediate 30: The Creative Lesson",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1452,29 +1452,29 @@
       387,
       390
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/30-intermediate-the-rainy-lesson.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/30-intermediate-the-creative-lesson.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Ирина идёт в школу. Там рядом есть окно и дождь. Ирина читает медленно и замечает новое слово: «погода». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Irina is at school. There is window and rain nearby. Irina reads slowly and notices a new word: weather. The day feels good, and the language feels a little closer."
+        "ru": "В школе на уроке учитель дал детям новую задачу. Им нужно\nбыло разделиться на группы и построить модель «города будущего». Четыре друга\nсели вместе и начали думать, какие технологии они будут использовать для\nсохранения природы.",
+        "en": "At school during the lesson, the teacher gave the\nchildren a new task. They needed to divide into groups and build a model of a\n\"city of the future.\" Four friends sat together and began to think about what\ntechnologies they would use to preserve nature."
       },
       {
         "heading": "Page 2",
-        "ru": "Ирина пишет слово «погода» в тетради. Потом Ирина думает о теме «учёба». В этом месте тихо, поэтому Ирина снова читает предложение и произносит его вслух.",
-        "en": "Irina writes the word weather in a notebook. Then Irina thinks about study. The place is quiet, so Irina reads the sentence again and says it softly."
+        "ru": "У них было много хороших идей. Они решили сделать\nсолнечные батареи на крышах каждого дома и систему сбора дождевой воды\nдля растений. Они использовали простые вещи: бумагу и картон, работая дружно\nсвоими руками.",
+        "en": "They had many good ideas. They decided to make\nsolar panels on the roofs of each house and a rainwater collection system for\nplants. They used simple things like paper and cardboard, working harmoniously\nwith their hands."
       },
       {
         "heading": "Page 3",
-        "ru": "Появляется маленькая трудность, но Ирина использует новые слова. Ирина смотрит на окно, потом на дождь, и составляет простой план. В конце Ирина может сказать одно понятное предложение.",
-        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the window, looks at the rain, and makes a simple plan. By the end, Irina can say one clear sentence."
+        "ru": "На следующий день все группы показали свои модели. Учитель\nпохвалил ребят за их труд. Друзья поняли, как важно помогать друг другу и\nработать вместе ради одной цели. Это был отличный урок для каждого из\nних.",
+        "en": "The next day, all groups showed their models. The\nteacher praised the children for their work. The friends understood how\nimportant it is to help each other and work together toward one goal. It was an\nexcellent lesson for each of them."
       }
     ]
   },
   {
     "id": "russian-intermediate-31",
     "level": "intermediate",
-    "title": "Intermediate 31: The Museum Question",
+    "title": "Intermediate 31: The Mountain Wind",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1518,29 +1518,29 @@
       411,
       414
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/31-intermediate-the-museum-question.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/31-intermediate-the-mountain-wind.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Павел идёт в музей. Там рядом есть картина и тетрадь. Павел читает медленно и замечает новое слово: «вопрос». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Pavel is in the museum. There is picture and notebook nearby. Pavel reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
+        "ru": "Рано утром Коля начал подниматься по узкой тропе на\nвысокую гору. Дул сильный холодный ветер, но мальчик быстро шел, и ему\nбыло тепло. Вокруг росли красивые горные цветы и травы, которые радовали его\nглаз.",
+        "en": "Early in the morning, Kolya began climbing a narrow\ntrail up a high mountain. A strong cold wind was blowing, but the boy walked\nquickly and felt warm. Beautiful mountain flowers and herbs grew around him,\npleasing his eye."
       },
       {
         "heading": "Page 2",
-        "ru": "Павел пишет слово «вопрос» в тетради. Потом Павел думает о теме «ответ». В этом месте тихо, поэтому Павел снова читает предложение и произносит его вслух.",
-        "en": "Pavel writes the word question in a notebook. Then Pavel thinks about answer. The place is quiet, so Pavel reads the sentence again and says it softly."
+        "ru": "Днем небо потемнело и пошел сильный дождь. К счастью,\nвпереди стоял маленький домик из камня. Коля быстро побежал туда, чтобы\nпереждать дождь. Внутри было сухо, и он смог выпить теплого чая из своего\nтермоса.",
+        "en": "By afternoon, the sky grew dark and heavy rain\nfell. Fortunately, a small stone cabin stood ahead. Kolya ran there quickly to\nwait out the rain. Inside it was dry, and he was able to drink warm tea from his\nthermos."
       },
       {
         "heading": "Page 3",
-        "ru": "Появляется маленькая трудность, но Павел использует новые слова. Павел смотрит на картина, потом на тетрадь, и составляет простой план. В конце Павел может сказать одно понятное предложение.",
-        "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the picture, looks at the notebook, and makes a simple plan. By the end, Pavel can say one clear sentence."
+        "ru": "Скоро дождь закончился, и на небе снова появилось яркое\nсолнце. Коля вышел из домика и поднялся на самую вершину горы. Внизу лежала\nбольшая зеленая долина. Сильный ветер унес его усталость, и он почувствовал\nрадость.",
+        "en": "Soon the rain ended, and the bright sun appeared in\nthe sky again. Kolya left the cabin and climbed to the very summit of the\nmountain. Below lay a large green valley. The strong wind carried away his\nfatigue, and he felt joy."
       }
     ]
   },
   {
     "id": "russian-intermediate-32",
     "level": "intermediate",
-    "title": "Intermediate 32: The Train Delay",
+    "title": "Intermediate 32: The Grandfather's Map",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1584,29 +1584,29 @@
       435,
       438
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/32-intermediate-the-train-delay.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/32-intermediate-the-grandfathers-map.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Мария идёт на станцию. Там рядом есть билет и часы. Мария читает медленно и замечает новое слово: «ждать». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Maria is at the station. There is ticket and clock nearby. Maria reads slowly and notices a new word: wait. The day feels good, and the language feels a little closer."
+        "ru": "Мальчик Рома искал книгу в комнате своего дедушки. Он\nоткрыл старый ящик стола и на самом дне нашел бумагу. Это была старая карта\nлеса, которую дедушка нарисовал сам, когда был маленьким ребенком.",
+        "en": "The boy Roma was looking for a book in his\ngrandfather's room. He opened an old desk drawer and found a paper at the very\nbottom. It was an old map of the forest that his grandfather had drawn himself\nwhen he was a small child."
       },
       {
         "heading": "Page 2",
-        "ru": "Мария пишет слово «ждать» в тетради. Потом Мария думает о теме «поездка». В этом месте тихо, поэтому Мария снова читает предложение и произносит его вслух.",
-        "en": "Maria writes the word wait in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
+        "ru": "Рома и его друг решили пойти в лес по этой карте. Они\nиспользовали старые деревья как ориентиры и шли глубже в лес. Скоро они\nнашли старый каменный колодец, покрытый зеленой травой. Все было точно как\nна карте.",
+        "en": "Roma and his friend decided to go into the forest\nusing this map. They used old trees as landmarks and went deeper into the\nforest. Soon they found an old stone well covered with green grass. Everything\nwas exactly as shown on the map."
       },
       {
         "heading": "Page 3",
-        "ru": "Появляется маленькая трудность, но Мария использует новые слова. Мария смотрит на билет, потом на часы, и составляет простой план. В конце Мария может сказать одно понятное предложение.",
-        "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the clock, and makes a simple plan. By the end, Maria can say one clear sentence."
+        "ru": "Они заглянули внутрь и увидели маленькую пластиковую\nкоробку. Внутри лежала старая монетка и записка с именем дедушки. Мальчики\nнашли настоящий привет из прошлого и почувствовали себя героями большой истории.",
+        "en": "They peered inside and saw a small plastic box.\nInside lay an old coin and a note with their grandfather's name. The boys had\nfound a real greeting from the past and felt like heroes of a grand story. ===\nEND OF STORY 32 ==="
       }
     ]
   },
   {
     "id": "russian-intermediate-33",
     "level": "intermediate",
-    "title": "Intermediate 33: Music in the Cafe",
+    "title": "Intermediate 33: The Painting Class",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1650,29 +1650,29 @@
       459,
       462
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/33-intermediate-music-in-the-cafe.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/33-intermediate-the-painting-class.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Ольга идёт в кафе. Там рядом есть музыка и чай. Ольга читает медленно и замечает новое слово: «песня». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Olga is in the cafe. There is music and tea nearby. Olga reads slowly and notices a new word: song. The day feels good, and the language feels a little closer."
+        "ru": "Каждую субботу Лена ходила на уроки рисования. Сегодня им\nнужно было нарисовать вид на реку из большого окна класса. Она подготовила\nхолст и положила на стол яркие краски. Ей очень хотелось начать работу.",
+        "en": "Every Saturday Lena went to painting classes. Today\nthey needed to paint the view of the river from the large classroom window. She\nprepared the canvas and put bright paints on the table. She really wanted to\nstart the work."
       },
       {
         "heading": "Page 2",
-        "ru": "Ольга пишет слово «песня» в тетради. Потом Ольга думает о теме «память». В этом месте тихо, поэтому Ольга снова читает предложение и произносит его вслух.",
-        "en": "Olga writes the word song in a notebook. Then Olga thinks about memory. The place is quiet, so Olga reads the sentence again and says it softly."
+        "ru": "Через час небо на улице стало медленно менять свой цвет на\nоранжевый. На воде реки появилось красивое отражение солнца. Лена смешала\nкрасную и желтую краски на бумаге, чтобы передать этот теплый свет.",
+        "en": "An hour later, the sky outside began slowly\nchanging its color to orange. A beautiful reflection of the sun appeared on the\nriver water. Lena mixed red and yellow paints on paper to convey this warm\nlight."
       },
       {
         "heading": "Page 3",
-        "ru": "Появляется маленькая трудность, но Ольга использует новые слова. Ольга смотрит на музыка, потом на чай, и составляет простой план. В конце Ольга может сказать одно понятное предложение.",
-        "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the music, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
+        "ru": "В конце урока все рисунки повесили на стену. Хотя все\nрисовали один и тот же вид из окна, у каждого получилась своя уникальная\nкартина. Лена поняла, что каждый человек видит мир по-своему, и это очень\nкрасиво.",
+        "en": "At the end of the lesson, all paintings were hung\non the wall. Although everyone painted the exact same view from the window, each\nperson ended up with their own unique painting. Lena understood that each person\nsees the world in their own way, and that is very beautiful."
       }
     ]
   },
   {
     "id": "russian-intermediate-34",
     "level": "intermediate",
-    "title": "Intermediate 34: A Letter from a Friend",
+    "title": "Intermediate 34: The Lost Key",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1716,29 +1716,29 @@
       483,
       486
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/34-intermediate-a-letter-from-a-friend.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/34-intermediate-the-lost-key.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Дима идёт домой. Там рядом есть письмо и телефон. Дима читает медленно и замечает новое слово: «друг». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Dima is at home. There is letter and phone nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
+        "ru": "В воскресенье Света со своим братом гуляла в парке. Она\nположила маленький ключ от стола в карман куртки. Но во время игры на траве\nключ выпал, и девочка очень расстроилась.",
+        "en": "On Sunday, Sveta was walking in the park with her\nbrother. She put a small desk key in her jacket pocket. But during a game on the\ngrass, the key fell out, and the girl became very upset."
       },
       {
         "heading": "Page 2",
-        "ru": "Дима пишет слово «друг» в тетради. Потом Дима думает о теме «приглашение». В этом месте тихо, поэтому Дима снова читает предложение и произносит его вслух.",
-        "en": "Dima writes the word friend in a notebook. Then Dima thinks about invitation. The place is quiet, so Dima reads the sentence again and says it softly."
+        "ru": "Наступил вечер, и стало довольно темно. Брат Светы принес\nмаленький фонарик, чтобы помочь ей. Они вместе ходили около больших деревьев и\nсветили на землю, внимательно проверяя каждую травинку.",
+        "en": "Evening arrived, and it became quite dark. Sveta's\nbrother brought a small flashlight to help her. They walked together near the\nlarge trees and shone light on the ground, carefully checking every blade of\ngrass."
       },
       {
         "heading": "Page 3",
-        "ru": "Появляется маленькая трудность, но Дима использует новые слова. Дима смотрит на письмо, потом на телефон, и составляет простой план. В конце Дима может сказать одно понятное предложение.",
-        "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the letter, looks at the phone, and makes a simple plan. By the end, Dima can say one clear sentence."
+        "ru": "Вскоре брат заметил металлический блеск под небольшим\nсерым камнем. Это был потерянный ключ! Света очень обрадовалась и\nпоблагодарила брата. Дома она смогла открыть ящик своего стола.",
+        "en": "Soon her brother noticed a metallic gleam under a\nsmall grey stone. It was the lost key! Sveta was very happy and thanked her\nbrother. At home, she was able to open her desk drawer."
       }
     ]
   },
   {
     "id": "russian-intermediate-35",
     "level": "intermediate",
-    "title": "Intermediate 35: The School Project",
+    "title": "Intermediate 35: The River Adventure",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1781,29 +1781,29 @@
       507,
       510
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/35-intermediate-the-school-project.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/35-intermediate-the-river-adventure.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Маша идёт в школу. Там рядом есть бумага и учитель. Маша читает медленно и замечает новое слово: «проект». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Masha is at school. There is paper and teacher nearby. Masha reads slowly and notices a new word: project. The day feels good, and the language feels a little closer."
+        "ru": "Рома и Денис сделали красивую деревянную лодку на школьном\nуроке труда. Они решили запустить ее в плавание по чистой местной реке, чтобы\nпосмотреть, как она держится на воде.",
+        "en": "Roma and Denis made a beautiful wooden boat during\ntheir school craft lesson. They decided to launch it on a voyage along the clean\nlocal river to see how it kept on the water."
       },
       {
         "heading": "Page 2",
-        "ru": "Маша пишет слово «проект» в тетради. Потом Маша думает о теме «группа». В этом месте тихо, поэтому Маша снова читает предложение и произносит его вслух.",
-        "en": "Masha writes the word project in a notebook. Then Masha thinks about group. The place is quiet, so Masha reads the sentence again and says it softly."
+        "ru": "Течение реки было спокойным, но на пути лодки встречались\nупавшие ветки и большие камни. Мальчики бежали по берегу и переживали, сможет\nли их лодка обойти все эти препятствия.",
+        "en": "The river current was calm, but along the boat's\npath, there were fallen branches and large stones. The boys ran along the bank,\nworrying whether their boat could bypass all these obstacles."
       },
       {
         "heading": "Page 3",
-        "ru": "Появляется маленькая трудность, но Маша использует новые слова. Маша смотрит на бумага, потом на учитель, и составляет простой план. В конце Маша может сказать одно понятное предложение.",
-        "en": "A small problem appears, but Masha uses the new words to understand it. Masha checks the paper, looks at the teacher, and makes a simple plan. By the end, Masha can say one clear sentence."
+        "ru": "Ниже по течению Рома аккуратно достал лодку из воды. Она\nбыла совершенно целой. Мальчики вернулись домой и подробно записали в свой\nдневник наблюдения за скоростью течения реки.",
+        "en": "Downstream, Roma carefully retrieved the boat from\nthe water. It was completely undamaged. The boys returned home and recorded\ntheir observations of the river current's speed in detail in their journal. ===\nEND OF STORY 35 ==="
       }
     ]
   },
   {
     "id": "russian-intermediate-36",
     "level": "intermediate",
-    "title": "Intermediate 36: The City Walk",
+    "title": "Intermediate 36: The Starlit Sky",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1846,29 +1846,29 @@
       530,
       533
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/36-intermediate-the-city-walk.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/36-intermediate-the-starlit-sky.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Анна идёт в город. Там рядом есть улица и окно. Анна читает медленно и замечает новое слово: «прогулка». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Anna is in the city. There is street and window nearby. Anna reads slowly and notices a new word: walk. The day feels good, and the language feels a little closer."
+        "ru": "Летом Миша с родителями отправился в поход в горы. Ночью у\nпалатки было тихо и темно, так как вокруг не было никаких городских огней. Миша\nвышел на свежий воздух и поднял глаза вверх.",
+        "en": "In the summer, Misha went on a camping trip to the\nmountains with his parents. At night by the tent, it was quiet and dark because\nthere were no city lights around. Misha went out into the fresh air and looked\nup."
       },
       {
         "heading": "Page 2",
-        "ru": "Анна пишет слово «прогулка» в тетради. Потом Анна думает о теме «место». В этом месте тихо, поэтому Анна снова читает предложение и произносит его вслух.",
-        "en": "Anna writes the word walk in a notebook. Then Anna thinks about place. The place is quiet, so Anna reads the sentence again and says it softly."
+        "ru": "Отец Миши достал из сумки интересную книгу о созвездиях.\nОн включил неяркий фонарь и, глядя в книгу, стал показывать сыну звезды в\nнебе, объясняя их названия и древние истории.",
+        "en": "Misha's father took an interesting book about\nconstellations from his bag. He turned on a dim light and, looking at the book,\nbegan to show his son the stars in the sky, explaining their names and ancient\nstories."
       },
       {
         "heading": "Page 3",
-        "ru": "Появляется маленькая трудность, но Анна использует новые слова. Анна смотрит на улица, потом на окно, и составляет простой план. В конце Анна может сказать одно понятное предложение.",
-        "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the street, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
+        "ru": "Вдруг одна яркая звезда быстро пролетела по темному небу,\nоставив за собой светлый след. Это был метеор. Миша успел тихо загадать желание\nо своем будущем. Этот вечер запомнился ему навсегда.",
+        "en": "Suddenly, a bright star quickly flew across the\ndark sky, leaving a light trail behind it. It was a meteor. Misha managed to\nquietly make a wish about his future. He would remember this evening forever."
       }
     ]
   },
   {
     "id": "russian-intermediate-37",
     "level": "intermediate",
-    "title": "Intermediate 37: The Bookshop Door",
+    "title": "Intermediate 37: The Garden Project",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1911,29 +1911,29 @@
       553,
       556
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/37-intermediate-the-bookshop-door.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/37-intermediate-the-garden-project.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Иван идёт в книжный магазин. Там рядом есть дверь и книга. Иван читает медленно и замечает новое слово: «открыть». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Ivan is in the bookshop. There is door and book nearby. Ivan reads slowly and notices a new word: open. The day feels good, and the language feels a little closer."
+        "ru": "Весной Дима проводил время на даче у бабушки. Бабушка\nрешила научить его выращивать овощи своими руками. Они подготовили землю в\nсаду и посадили несколько семян помидоров и огурцов.",
+        "en": "In the spring, Dima was spending time at his\ngrandmother's dacha. His grandmother decided to teach him how to grow vegetables\nwith his own hands. They prepared the soil in the garden and planted several\ntomato and cucumber seeds."
       },
       {
         "heading": "Page 2",
-        "ru": "Иван пишет слово «открыть» в тетради. Потом Иван думает о теме «чтение». В этом месте тихо, поэтому Иван снова читает предложение и произносит его вслух.",
-        "en": "Ivan writes the word open in a notebook. Then Ivan thinks about reading. The place is quiet, so Ivan reads the sentence again and says it softly."
+        "ru": "Каждый день после учебы Дима помогал поливать грядки.\nЧерез две недели из теплой земли показались первые зеленые листья. Дима был\nочень рад увидеть плоды их общего труда.",
+        "en": "Every day after studying, Dima helped water the\ngarden beds. Two weeks later, the first green leaves appeared from the warm\nsoil. Dima was very happy to see the fruits of their common labor."
       },
       {
         "heading": "Page 3",
-        "ru": "Появляется маленькая трудность, но Иван использует новые слова. Иван смотрит на дверь, потом на книга, и составляет простой план. В конце Иван может сказать одно понятное предложение.",
-        "en": "A small problem appears, but Ivan uses the new words to understand it. Ivan checks the door, looks at the book, and makes a simple plan. By the end, Ivan can say one clear sentence."
+        "ru": "Летом они собрали много свежих помидоров и огурцов.\nБабушка и Дима сделали из них вкусный салат на ужин. Мальчик понял, что\nеда, выращенная своими руками, имеет самый лучший вкус.",
+        "en": "In the summer, they harvested many fresh tomatoes\nand cucumbers. Grandmother and Dima made a delicious salad out of them for\ndinner. The boy understood that food grown with one's own hands has the best\ntaste."
       }
     ]
   },
   {
     "id": "russian-intermediate-38",
     "level": "intermediate",
-    "title": "Intermediate 38: The Family Story",
+    "title": "Intermediate 38: The Old Lighthouse",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1976,29 +1976,29 @@
       576,
       579
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/38-intermediate-the-family-story.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/38-intermediate-the-old-lighthouse.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Лена идёт домой. Там рядом есть мама и фото. Лена читает медленно и замечает новое слово: «история». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Lena is at home. There is mother and photo nearby. Lena reads slowly and notices a new word: story. The day feels good, and the language feels a little closer."
+        "ru": "На высоком утесе у моря стоял старый каменный маяк. Сейчас\nон уже не работал, так как корабли использовали современные системы. Лена и ее\nпапа решили сходить туда на прогулку в воскресенье.",
+        "en": "On a high cliff by the sea stood an old stone\nlighthouse. It was no longer active now, because ships used modern systems. Lena\nand her dad decided to go there for a walk on Sunday."
       },
       {
         "heading": "Page 2",
-        "ru": "Лена пишет слово «история» в тетради. Потом Лена думает о теме «семья». В этом месте тихо, поэтому Лена снова читает предложение и произносит его вслух.",
-        "en": "Lena writes the word story in a notebook. Then Lena thinks about family. The place is quiet, so Lena reads the sentence again and says it softly."
+        "ru": "Они открыли тяжелую деревянную дверь и вошли внутрь маяка.\nВнутри было прохладно, и наверх вела длинная каменная лестница. Лена осторожно\nподнималась шаг за шагом, держа папу за руку.",
+        "en": "They opened the heavy wooden door and went inside\nthe lighthouse. It was cool inside, and a long stone staircase led upward. Lena\nclimbed carefully step by step, holding her dad's hand."
       },
       {
         "heading": "Page 3",
-        "ru": "Появляется маленькая трудность, но Лена использует новые слова. Лена смотрит на мама, потом на фото, и составляет простой план. В конце Лена может сказать одно понятное предложение.",
-        "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the mother, looks at the photo, and makes a simple plan. By the end, Lena can say one clear sentence."
+        "ru": "Наверху на балконе дул сильный ветер. Перед ними открылся\nвид на огромное синее море с большими волнами. Лена подумала о людях, которые\nкогда-то жили здесь и помогали кораблям в шторм.",
+        "en": "At the top on the balcony, a strong wind was\nblowing. Before them opened a view of the vast blue sea with big waves. Lena\nthought of the people who once lived here and helped ships during storms. ===\nEND OF STORY 38 ==="
       }
     ]
   },
   {
     "id": "russian-intermediate-39",
     "level": "intermediate",
-    "title": "Intermediate 39: The Important Word",
+    "title": "Intermediate 39: The Science Fair",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -2041,29 +2041,29 @@
       599,
       602
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/39-intermediate-the-important-word.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/39-intermediate-the-science-fair.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Павел идёт в библиотеку. Там рядом есть словарь и бумага. Павел читает медленно и замечает новое слово: «значение». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Pavel is in the library. There is dictionary and paper nearby. Pavel reads slowly and notices a new word: meaning. The day feels good, and the language feels a little closer."
+        "ru": "Каждую осень в школе проходила большая научная выставка.\nГруппа Егора решила подготовить проект по чистой энергии. Они построили\nмодель, которая показывала работу солнечных батарей.",
+        "en": "Every autumn, a big science fair took place at\nschool. Egor's group decided to prepare a project on clean energy. They built a\nmodel that demonstrated the work of solar panels."
       },
       {
         "heading": "Page 2",
-        "ru": "Павел пишет слово «значение» в тетради. Потом Павел думает о теме «язык». В этом месте тихо, поэтому Павел снова читает предложение и произносит его вслух.",
-        "en": "Pavel writes the word meaning in a notebook. Then Pavel thinks about language. The place is quiet, so Pavel reads the sentence again and says it softly."
+        "ru": "В день выставки в зале собралось много учителей и\nродителей. Многие останавливались у проекта Егора. Мальчик просто и\nпонятно объяснял гостям, как свет солнца превращается в электрический ток.",
+        "en": "On the day of the fair, many teachers and parents\ngathered in the hall. Many stopped at Egor's project. The boy explained to the\nguests simply and clearly how the light of the sun turns into an electric\ncurrent."
       },
       {
         "heading": "Page 3",
-        "ru": "Появляется маленькая трудность, но Павел использует новые слова. Павел смотрит на словарь, потом на бумага, и составляет простой план. В конце Павел может сказать одно понятное предложение.",
-        "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the dictionary, looks at the paper, and makes a simple plan. By the end, Pavel can say one clear sentence."
+        "ru": "В конце дня судьи оценили все проекты. Работа группы Егора\nполучила высокую оценку и первое место за полезную идею. Ребята были очень рады\nи поняли, как важен труд команды.",
+        "en": "At the end of the day, the judges evaluated all\nprojects. The work of Egor's group received a high rating and first place for a\nuseful idea. The children were very glad and understood how important teamwork\nis."
       }
     ]
   },
   {
     "id": "russian-intermediate-40",
     "level": "intermediate",
-    "title": "Intermediate 40: Closer Every Day",
+    "title": "Intermediate 40: The Sound of Music",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -2106,29 +2106,29 @@
       622,
       625
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/40-intermediate-closer-every-day.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/intermediate/40-intermediate-the-sound-of-music.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Ирина идёт в парк. Там рядом есть тетрадь и чай. Ирина читает медленно и замечает новое слово: «ближе». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Irina is in the park. There is notebook and tea nearby. Irina reads slowly and notices a new word: closer. The day feels good, and the language feels a little closer."
+        "ru": "Аня вместе с мамой пришла в старый городской концертный\nзал. Сегодня там проходил вечер скрипичной музыки. В зале погас свет, и на\nсцене загорелась теплая лампа, осветившая музыканта.",
+        "en": "Anya came with her mom to the old city concert\nhall. Today, an evening of violin music was taking place there. The lights went\nout in the hall, and a warm lamp lit up on the stage, illuminating the musician."
       },
       {
         "heading": "Page 2",
-        "ru": "Ирина пишет слово «ближе» в тетради. Потом Ирина думает о теме «повторение». В этом месте тихо, поэтому Ирина снова читает предложение и произносит его вслух.",
-        "en": "Irina writes the word closer in a notebook. Then Irina thinks about review. The place is quiet, so Irina reads the sentence again and says it softly."
+        "ru": "Скрипка зазвучала очень красиво. Звуки музыки то текли\nмедленно и тихо, то взлетали быстро и громко. Аня слушала эту мелодию,\nчувствуя, как меняется ее настроение вместе со звуками.",
+        "en": "The violin sounded very beautiful. The sounds of\nthe music flowed slowly and quietly at times, and at others soared fast and\nloud. Anya listened to this melody, feeling how her mood changed along with the\nsounds."
       },
       {
         "heading": "Page 3",
-        "ru": "Появляется маленькая трудность, но Ирина использует новые слова. Ирина смотрит на тетрадь, потом на чай, и составляет простой план. В конце Ирина может сказать одно понятное предложение.",
-        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the notebook, looks at the tea, and makes a simple plan. By the end, Irina can say one clear sentence."
+        "ru": "После концерта все громко хлопали. Аня была очень\nвдохновлена. Дома она решила достать свое маленькое детское пианино и\nпопробовать снова поиграть на нем простые песни. В ней родилась мечта.",
+        "en": "After the concert, everyone clapped loudly. Anya\nwas highly inspired. At home, she decided to take out her small children's piano\nand try to play simple songs on it again. A dream was born in her. === END OF\nSTORY 40 ==="
       }
     ]
   },
   {
     "id": "russian-advanced-41",
     "level": "advanced",
-    "title": "Advanced 41: The Long Walk Through the City",
+    "title": "Advanced 41: The Forest of Tomorrow",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2183,39 +2183,39 @@
       645,
       648
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/41-advanced-the-long-walk-through-the-city.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/41-advanced-the-forest-of-tomorrow.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Анна идёт в город. Там рядом есть карта и окно. Анна читает медленно и замечает новое слово: «путь». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Anna is in the city. There is map and window nearby. Anna reads slowly and notices a new word: journey. The day feels good, and the language feels a little closer."
+        "ru": "В современном обществе наука и технологии быстро\nразвиваются. Наша жизнь становится удобной, но красивая природа часто\nстрадает. В одном маленьком городе река стала грязной из-за заводов. Молодой\nученый Александр решил исправить эту экологическую проблему.",
+        "en": "In modern society, science and technology develop\nrapidly. Our lives become convenient, but beautiful nature often suffers. In one\nsmall town, the river became dirty because of factories. A young scientist,\nAlexander, decided to fix this environmental problem."
       },
       {
         "heading": "Page 2",
-        "ru": "Анна пишет слово «путь» в тетради. Потом Анна думает о теме «город». В этом месте тихо, поэтому Анна снова читает предложение и произносит его вслух.",
-        "en": "Anna writes the word journey in a notebook. Then Anna thinks about city. The place is quiet, so Anna reads the sentence again and says it softly."
+        "ru": "Александр предложил построить новую систему очистки воды.\nНо директора заводов и некоторые жители города были против. Они считали, что\nэто слишком дорого и повредит местной экономике. Александр не сдавался и\nпродолжал диалог.",
+        "en": "Alexander proposed building a new water\npurification system. But the factory directors and some town residents were\nagainst it. They believed it was too expensive and would harm the local economy.\nAlexander did not give up and continued the dialogue."
       },
       {
         "heading": "Page 3",
-        "ru": "Появляется маленькая трудность, но Анна использует новые слова. Анна смотрит на карта, потом на окно, и составляет простой план. В конце Анна может сказать одно понятное предложение.",
-        "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the map, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
+        "ru": "После долгих споров они решили провести первый тест.\nУченые установили оборудование у реки. Но тест прошел неудачно из-за\nполомки машины. Грязная вода снова потекла в реку, и люди начали злиться.",
+        "en": "After long arguments, they decided to conduct the\nfirst test. The scientists installed the equipment near the river. But the test\nfailed due to a machine breakdown. Dirty water flowed into the river again, and\npeople started getting angry."
       },
       {
         "heading": "Page 4",
-        "ru": "Позже Анна встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Анна пишет ещё три слова и связывает их с историей этого дня.",
-        "en": "Later, Anna meets another person and asks one careful question. The answer is simple, but it helps. Anna writes three more words and connects them to the story of the day."
+        "ru": "Александр признал свою ошибку и стал искать причину\nполомки. Он работал ночью, чтобы починить прибор и сделать его\nбезопасным. Директор завода увидел его честный труд и решил дать ему\nпоследний шанс.",
+        "en": "Alexander admitted his mistake and began looking\nfor the cause of the breakdown. He worked at night to repair the device and make\nit safe. The factory director saw his honest labor and decided to give him one\nlast chance."
       },
       {
         "heading": "Page 5",
-        "ru": "В конце дня Анна читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Анна улыбается, потому что учиться теперь легче.",
-        "en": "At the end of the day, Anna reads the whole page out loud. The words are not perfect yet, but they are familiar now. Anna smiles because learning feels possible and close."
+        "ru": "Второй тест прошел успешно. Вода в реке стала полностью\nчистой. Через несколько лет в реку вернулась рыба. Город стал примером того,\nкак наука помогает экономике жить в гармонии с природой.",
+        "en": "The second test was successful. The water in the\nriver became completely clean. A few years later, fish returned to the river.\nThe town became an example of how science helps the economy live in harmony with\nnature."
       }
     ]
   },
   {
     "id": "russian-advanced-42",
     "level": "advanced",
-    "title": "Advanced 42: The Forgotten Invitation",
+    "title": "Advanced 42: The Ancient Map's Secret",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2270,39 +2270,39 @@
       680,
       683
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/42-advanced-the-forgotten-invitation.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/42-advanced-the-ancient-maps-secret.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Саша идёт в университет. Там рядом есть письмо и телефон. Саша читает медленно и замечает новое слово: «приглашение». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Sasha is at the university. There is letter and phone nearby. Sasha reads slowly and notices a new word: invitation. The day feels good, and the language feels a little closer."
+        "ru": "Молодой историк Дмитрий работал в старой библиотеке\nгорода. Среди старых книг он нашел пожелтевшую карту. На ней было отмечено\nместо в горах, которого не было на современных картах.",
+        "en": "The young historian Dmitry was working in the\ncity's old library. Among the old books, he found a yellowed map. On it was\nmarked a place in the mountains that was not on modern maps."
       },
       {
         "heading": "Page 2",
-        "ru": "Саша пишет слово «приглашение» в тетради. Потом Саша думает о теме «встреча». В этом месте тихо, поэтому Саша снова читает предложение и произносит его вслух.",
-        "en": "Sasha writes the word invitation in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
+        "ru": "Дмитрий решил исследовать это загадочное место. Он изучил\nисторию района и подготовил все приборы для долгого похода. Он знал, что путь\nбудет трудным, но его вел интерес к истории.",
+        "en": "Dmitry decided to investigate this mysterious\nplace. He studied the history of the area and prepared all the devices for a\nlong hike. He knew the path would be difficult, but his interest in history led\nhim."
       },
       {
         "heading": "Page 3",
-        "ru": "Появляется маленькая трудность, но Саша использует новые слова. Саша смотрит на письмо, потом на телефон, и составляет простой план. В конце Саша может сказать одно понятное предложение.",
-        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the phone, and makes a simple plan. By the end, Sasha can say one clear sentence."
+        "ru": "Горы были очень высокими и крутыми. По дороге начался\nсильный дождь, и стало холодно. Дмитрий устал, но его желание найти истину\nпомогало ему двигаться дальше через лес.",
+        "en": "The mountains were very high and steep. Along the\nway, a heavy rain began, and it became cold. Dmitry was tired, but his desire to\nfind the truth helped him move further through the forest."
       },
       {
         "heading": "Page 4",
-        "ru": "Позже Саша встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Саша пишет ещё три слова и связывает их с историей этого дня.",
-        "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
+        "ru": "Когда дождь прошел, Дмитрий пришел к месту, где текли две\nреки. Там был красивый водопад. За водой он обнаружил скрытый вход в пещеру,\nгде лежал старый каменный ящик.",
+        "en": "When the rain stopped, Dmitry came to the place\nwhere two rivers flowed. There was a beautiful waterfall. Behind the water, he\ndiscovered a hidden entrance to a cave where an old stone box lay."
       },
       {
         "heading": "Page 5",
-        "ru": "В конце дня Саша читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Саша улыбается, потому что учиться теперь легче.",
-        "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
+        "ru": "Дмитрий открыл ящик и нашел старые бумаги. В них была\nзаписана история древних жителей этих мест и их полезные знания. Дмитрий\nпринес находку в университет и открыл забытую историю миру.",
+        "en": "Dmitry opened the box and found old papers. In them\nwas recorded the history of the ancient residents of these places and their\nuseful knowledge. Dmitry brought the find to the university and revealed the\nforgotten history to the world."
       }
     ]
   },
   {
     "id": "russian-advanced-43",
     "level": "advanced",
-    "title": "Advanced 43: The History Room",
+    "title": "Advanced 43: The Voice of the Wind",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2357,39 +2357,39 @@
       715,
       718
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/43-advanced-the-history-room.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/43-advanced-the-voice-of-the-wind.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Николай идёт в музей. Там рядом есть книга и картина. Николай читает медленно и замечает новое слово: «история». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Nikolay is in the museum. There is book and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
+        "ru": "Ученый Коля работал на метеостанции высоко в горах. Он\nзаписывал показатели ветра и температуры. В последнее время погода в горах\nстала быстро меняться.",
+        "en": "The scientist Kolya worked at a weather station\nhigh in the mountains. He recorded wind and temperature indicators. Recently,\nthe weather in the mountains began to change rapidly."
       },
       {
         "heading": "Page 2",
-        "ru": "Николай пишет слово «история» в тетради. Потом Николай думает о теме «прошлое». В этом месте тихо, поэтому Николай снова читает предложение и произносит его вслух.",
-        "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about past. The place is quiet, so Nikolay reads the sentence again and says it softly."
+        "ru": "Коля понял, что к маленькой деревне у подножия горы идет\nопасный шторм. Ему нужно было предупредить людей, чтобы защитить их дома от\nразрушения.",
+        "en": "Kolya realized that a dangerous storm was heading\ntowards the small village at the foot of the mountain. He needed to warn the\npeople to protect their homes from destruction."
       },
       {
         "heading": "Page 3",
-        "ru": "Появляется маленькая трудность, но Николай использует новые слова. Николай смотрит на книга, потом на картина, и составляет простой план. В конце Николай может сказать одно понятное предложение.",
-        "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the book, looks at the picture, and makes a simple plan. By the end, Nikolay can say one clear sentence."
+        "ru": "Он спустился в деревню и рассказал людям о ветре.\nНекоторые не верили его приборам, но научные данные убедили их\nсогласиться на временную эвакуацию.",
+        "en": "He descended to the village and told the people\nabout the wind. Some did not believe his instruments, but the scientific data\nconvinced them to agree to a temporary evacuation."
       },
       {
         "heading": "Page 4",
-        "ru": "Позже Николай встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Николай пишет ещё три слова и связывает их с историей этого дня.",
-        "en": "Later, Nikolay meets another person and asks one careful question. The answer is simple, but it helps. Nikolay writes three more words and connects them to the story of the day."
+        "ru": "Ночью начался сильный ураган. Ветер ломал деревья около\nдомов. Но благодаря быстрой работе Коли все жители уже были в безопасности в\nкаменном укрытии.",
+        "en": "At night, a strong hurricane began. The wind broke\ntrees near the houses. But thanks to Kolya's quick work, all the residents were\nalready safe in a stone shelter."
       },
       {
         "heading": "Page 5",
-        "ru": "В конце дня Николай читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Николай улыбается, потому что учиться теперь легче.",
-        "en": "At the end of the day, Nikolay reads the whole page out loud. The words are not perfect yet, but they are familiar now. Nikolay smiles because learning feels possible and close."
+        "ru": "Утром шторм ушел. Деревня немного пострадала, но жизни\nлюдей были спасены. Жители благодарили молодого ученого и поняли ценность\nего работы и науки.",
+        "en": "In the morning, the storm left. The village was\nslightly damaged, but people's lives were saved. The residents thanked the young\nscientist and understood the value of his work and science."
       }
     ]
   },
   {
     "id": "russian-advanced-44",
     "level": "advanced",
-    "title": "Advanced 44: The Quiet Train",
+    "title": "Advanced 44: The Deep Ocean",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2444,39 +2444,39 @@
       750,
       753
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/44-advanced-the-quiet-train.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/44-advanced-the-deep-ocean.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Мария идёт к поезду. Там рядом есть билет и чай. Мария читает медленно и замечает новое слово: «тихо». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Maria is on the train. There is ticket and tea nearby. Maria reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
+        "ru": "Океанолог Игорь построил новый подводный аппарат. Он\nпланировал опуститься в самую глубокую точку моря, чтобы изучить жизнь на\nдне океана.",
+        "en": "The oceanographer Igor built a new underwater\nvehicle. He planned to descend to the deepest point of the sea to study life on\nthe ocean floor."
       },
       {
         "heading": "Page 2",
-        "ru": "Мария пишет слово «тихо» в тетради. Потом Мария думает о теме «поездка». В этом месте тихо, поэтому Мария снова читает предложение и произносит его вслух.",
-        "en": "Maria writes the word quiet in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
+        "ru": "На глубине нескольких тысяч метров была полная темнота. Но\nмощные лампы аппарата осветили неизвестный мир песка, камней и странных\nрастений.",
+        "en": "At a depth of several thousand meters, there was\ncomplete darkness. But the vehicle's powerful lamps illuminated an unknown world\nof sand, stones, and strange plants."
       },
       {
         "heading": "Page 3",
-        "ru": "Появляется маленькая трудность, но Мария использует новые слова. Мария смотрит на билет, потом на чай, и составляет простой план. В конце Мария может сказать одно понятное предложение.",
-        "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the tea, and makes a simple plan. By the end, Maria can say one clear sentence."
+        "ru": "Вдруг Игорь увидел маленькое светящееся животное. Это был\nновый вид, неизвестный науке. Он сделал много фотографий этого красивого\nсущества.",
+        "en": "Suddenly, Igor saw a small glowing animal. It was a\nnew species unknown to science. He took many photos of this beautiful creature."
       },
       {
         "heading": "Page 4",
-        "ru": "Позже Мария встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Мария пишет ещё три слова и связывает их с историей этого дня.",
-        "en": "Later, Maria meets another person and asks one careful question. The answer is simple, but it helps. Maria writes three more words and connects them to the story of the day."
+        "ru": "Во время работы приборы на секунду выключились. Игорь не\nстал паниковать. Он знал структуру аппарата и быстро исправил электрическую\nпроблему руками.",
+        "en": "During the operation, the instruments turned off\nfor a second. Igor did not panic. He knew the vehicle's structure and quickly\nfixed the electrical problem with his hands."
       },
       {
         "heading": "Page 5",
-        "ru": "В конце дня Мария читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Мария улыбается, потому что учиться теперь легче.",
-        "en": "At the end of the day, Maria reads the whole page out loud. The words are not perfect yet, but they are familiar now. Maria smiles because learning feels possible and close."
+        "ru": "Игорь поднялся наверх и показал свои снимки ученым мира.\nЕго открытие помогло людям лучше понять океан и важность защиты его экологии.",
+        "en": "Igor ascended and showed his pictures to the\nscientists of the world. His discovery helped people better understand the ocean\nand the importance of protecting its ecology."
       }
     ]
   },
   {
     "id": "russian-advanced-45",
     "level": "advanced",
-    "title": "Advanced 45: A Plan for Tomorrow",
+    "title": "Advanced 45: The Star Tracker",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2531,39 +2531,39 @@
       785,
       788
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/45-advanced-a-plan-for-tomorrow.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/45-advanced-the-star-tracker.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Лена идёт домой. Там рядом есть карта и тетрадь. Лена читает медленно и замечает новое слово: «завтра». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Lena is at home. There is map and notebook nearby. Lena reads slowly and notices a new word: tomorrow. The day feels good, and the language feels a little closer."
+        "ru": "Астроном Мария ждала появления редкой кометы. Эта комета\nподлетала к Земле один раз в сто лет. Она хотела сделать качественные снимки\nее хвоста.",
+        "en": "The astronomer Maria was waiting for the appearance\nof a rare comet. This comet approached Earth once every hundred years. She\nwanted to take high-quality pictures of its tail."
       },
       {
         "heading": "Page 2",
-        "ru": "Лена пишет слово «завтра» в тетради. Потом Лена думает о теме «план». В этом месте тихо, поэтому Лена снова читает предложение и произносит его вслух.",
-        "en": "Lena writes the word tomorrow in a notebook. Then Lena thinks about plan. The place is quiet, so Lena reads the sentence again and says it softly."
+        "ru": "Она организовала маленькую вечернюю школу для детей на\nхолме за городом. Многие дети пришли вместе с родителями, чтобы посмотреть\nна небо.",
+        "en": "She organized a small evening school for children\non a hill outside the town. Many children came with their parents to look at the\nsky."
       },
       {
         "heading": "Page 3",
-        "ru": "Появляется маленькая трудность, но Лена использует новые слова. Лена смотрит на карта, потом на тетрадь, и составляет простой план. В конце Лена может сказать одно понятное предложение.",
-        "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the map, looks at the notebook, and makes a simple plan. By the end, Lena can say one clear sentence."
+        "ru": "Мария настроила большой телескоп и показала детям\nсозвездия. Она объясняла им законы космоса простыми и понятными\nсловами. Дети слушали с интересом.",
+        "en": "Maria adjusted the large telescope and showed the\nchildren constellations. She explained the laws of space to them in simple and\nclear words. The children listened with interest."
       },
       {
         "heading": "Page 4",
-        "ru": "Позже Лена встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Лена пишет ещё три слова и связывает их с историей этого дня.",
-        "en": "Later, Lena meets another person and asks one careful question. The answer is simple, but it helps. Lena writes three more words and connects them to the story of the day."
+        "ru": "Наконец комета появилась в темном небе. Ее яркий свет\nоставил длинную линию в небесах. Все замолчали и смотрели на это чудо\nприроды.",
+        "en": "Finally, the comet appeared in the dark sky. Its\nbright light left a long line in the heavens. Everyone fell silent and looked at\nthis miracle of nature."
       },
       {
         "heading": "Page 5",
-        "ru": "В конце дня Лена читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Лена улыбается, потому что учиться теперь легче.",
-        "en": "At the end of the day, Lena reads the whole page out loud. The words are not perfect yet, but they are familiar now. Lena smiles because learning feels possible and close."
+        "ru": "Этот вечер помог детям полюбить науку. Некоторые из них\nрешили стать астрономами в будущем. Мария поняла, что ее работа имеет большую\nценность.",
+        "en": "This evening helped the children fall in love with\nscience. Some of them decided to become astronomers in the future. Maria\nrealized that her work holds great value."
       }
     ]
   },
   {
     "id": "russian-advanced-46",
     "level": "advanced",
-    "title": "Advanced 46: News from the Cafe",
+    "title": "Advanced 46: The Digital Heritage",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2618,39 +2618,39 @@
       820,
       823
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/46-advanced-news-from-the-cafe.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/46-advanced-the-digital-heritage.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Ольга идёт в кафе. Там рядом есть газета и чай. Ольга читает медленно и замечает новое слово: «новость». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Olga is in the cafe. There is newspaper and tea nearby. Olga reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
+        "ru": "Программист Алексей нашел в доме бабушки старый\nчерно-белый фотоальбом. Там были фотографии его семьи и картины жизни\nгорода сто лет назад.",
+        "en": "The programmer Alexey found an old black-and-white\nphoto album in his grandmother's house. There were photographs of his family and\npictures of the town's life a hundred years ago."
       },
       {
         "heading": "Page 2",
-        "ru": "Ольга пишет слово «новость» в тетради. Потом Ольга думает о теме «разговор». В этом месте тихо, поэтому Ольга снова читает предложение и произносит его вслух.",
-        "en": "Olga writes the word news in a notebook. Then Olga thinks about talk. The place is quiet, so Olga reads the sentence again and says it softly."
+        "ru": "Алексей решил перевести эти снимки в цифровой формат,\nчтобы сохранить историю семьи. Он понимал, что бумага со временем может\nиспортиться.",
+        "en": "Alexey decided to convert these pictures into a\ndigital format to preserve the family's history. He understood that paper could\ndeteriorate over time."
       },
       {
         "heading": "Page 3",
-        "ru": "Появляется маленькая трудность, но Ольга использует новые слова. Ольга смотрит на газета, потом на чай, и составляет простой план. В конце Ольга может сказать одно понятное предложение.",
-        "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the newspaper, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
+        "ru": "Он использовал сканер и написал специальную программу на\nкомпьютере. Программа удаляла пыль с изображений и делала старые лица четкими.",
+        "en": "He used a scanner and wrote a special program on\nhis computer. The program removed dust from the images and made old faces clear."
       },
       {
         "heading": "Page 4",
-        "ru": "Позже Ольга встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Ольга пишет ещё три слова и связывает их с историей этого дня.",
-        "en": "Later, Olga meets another person and asks one careful question. The answer is simple, but it helps. Olga writes three more words and connects them to the story of the day."
+        "ru": "Алексей выложил готовый альбом в интернет и отправил\nссылку всем родственникам в другие города. Все были удивлены и рады\nувидеть свои корни.",
+        "en": "Alexey uploaded the completed album to the internet\nand sent the link to all relatives in other cities. Everyone was surprised and\nglad to see their roots."
       },
       {
         "heading": "Page 5",
-        "ru": "В конце дня Ольга читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Ольга улыбается, потому что учиться теперь легче.",
-        "en": "At the end of the day, Olga reads the whole page out loud. The words are not perfect yet, but they are familiar now. Olga smiles because learning feels possible and close."
+        "ru": "Благодаря современным технологиям история семьи была\nспасена для будущих детей. Алексей понял, что его знания могут служить\nдобрым целям общества.",
+        "en": "Thanks to modern technologies, the family's history\nwas saved for future children. Alexey realized that his knowledge could serve\nthe good goals of society."
       }
     ]
   },
   {
     "id": "russian-advanced-47",
     "level": "advanced",
-    "title": "Advanced 47: The Word That Changed the Day",
+    "title": "Advanced 47: The Green Architecture",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2705,39 +2705,39 @@
       855,
       858
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/47-advanced-the-word-that-changed-the-day.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/47-advanced-the-green-architecture.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Дима идёт на улицу. Там рядом есть сумка и книга. Дима читает медленно и замечает новое слово: «помощь». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Dima is on the street. There is bag and book nearby. Dima reads slowly and notices a new word: help. The day feels good, and the language feels a little closer."
+        "ru": "Архитектор Андрей получил заказ на создание нового\nобщественного центра в городе. Он решил сделать здание максимально\nэкологичным и чистым.",
+        "en": "The architect Andrey received an order to create a\nnew community center in the city. He decided to make the building as\neco-friendly and clean as possible."
       },
       {
         "heading": "Page 2",
-        "ru": "Дима пишет слово «помощь» в тетради. Потом Дима думает о теме «дорога». В этом месте тихо, поэтому Дима снова читает предложение и произносит его вслух.",
-        "en": "Dima writes the word help in a notebook. Then Dima thinks about road. The place is quiet, so Dima reads the sentence again and says it softly."
+        "ru": "Он изменил структуру крыши, чтобы пропускать больше\nсолнечного света внутрь здания. Это помогало уменьшить использование\nэлектрических ламп днем.",
+        "en": "He changed the structure of the roof to let more\nsunlight inside the building. This helped reduce the use of electric lamps\nduring the day."
       },
       {
         "heading": "Page 3",
-        "ru": "Появляется маленькая трудность, но Дима использует новые слова. Дима смотрит на сумка, потом на книга, и составляет простой план. В конце Дима может сказать одно понятное предложение.",
-        "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the bag, looks at the book, and makes a simple plan. By the end, Dima can say one clear sentence."
+        "ru": "На крыше центра Андрей запланировал посадить зеленый сад.\nСистема сбора дождевой воды должна была поливать растения автоматически без\nучастия человека.",
+        "en": "On the roof of the center, Andrey planned to plant\na green garden. A rainwater collection system was supposed to water the plants\nautomatically without human involvement."
       },
       {
         "heading": "Page 4",
-        "ru": "Позже Дима встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Дима пишет ещё три слова и связывает их с историей этого дня.",
-        "en": "Later, Dima meets another person and asks one careful question. The answer is simple, but it helps. Dima writes three more words and connects them to the story of the day."
+        "ru": "Строители начали работу, используя безопасные материалы из\nпереработанного дерева. Жители города с интересом следили за созданием нового\nдома.",
+        "en": "Builders started the work, using safe materials\nmade from recycled wood. City residents watched the creation of the new building\nwith interest."
       },
       {
         "heading": "Page 5",
-        "ru": "В конце дня Дима читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Дима улыбается, потому что учиться теперь легче.",
-        "en": "At the end of the day, Dima reads the whole page out loud. The words are not perfect yet, but they are familiar now. Dima smiles because learning feels possible and close."
+        "ru": "Новый центр стал самым красивым местом в городе. Люди\nприходили туда отдыхать под зелеными деревьями. Андрей доказал пользу\nзеленой архитектуры.",
+        "en": "The new center became the most beautiful place in\nthe city. People came there to rest under green trees. Andrey proved the benefit\nof green architecture."
       }
     ]
   },
   {
     "id": "russian-advanced-48",
     "level": "advanced",
-    "title": "Advanced 48: The Meeting at the University",
+    "title": "Advanced 48: The Silent Garden",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2792,39 +2792,39 @@
       890,
       893
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/48-advanced-the-meeting-at-the-university.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/48-advanced-the-silent-garden.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Саша идёт в университет. Там рядом есть письмо и парта. Саша читает медленно и замечает новое слово: «встреча». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Sasha is at the university. There is letter and desk nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
+        "ru": "Садовник Елена получила просьбу восстановить сад старого\nмонастыря в пригороде. Этот сад был заброшен много лет назад и зарос дикой\nтравой.",
+        "en": "The gardener Yelena received a request to restore\nthe garden of an old monastery in the suburbs. This garden had been abandoned\nmany years ago and was overgrown with wild grass."
       },
       {
         "heading": "Page 2",
-        "ru": "Саша пишет слово «встреча» в тетради. Потом Саша думает о теме «идеи». В этом месте тихо, поэтому Саша снова читает предложение и произносит его вслух.",
-        "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about ideas. The place is quiet, so Sasha reads the sentence again and says it softly."
+        "ru": "Она нарисовала новый план сада. Она решила положить\nбольшие серые камни у воды и сделать маленькие песчаные дорожки для тихих\nпрогулок людей.",
+        "en": "She drew a new plan for the garden. She decided to\nplace large grey stones near the water and make small sandy paths for quiet\nwalks of people."
       },
       {
         "heading": "Page 3",
-        "ru": "Появляется маленькая трудность, но Саша использует новые слова. Саша смотрит на письмо, потом на парта, и составляет простой план. В конце Саша может сказать одно понятное предложение.",
-        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the desk, and makes a simple plan. By the end, Sasha can say one clear sentence."
+        "ru": "Елена посадила мягкий зеленый мох в тени и красивые\nдеревья в центре сада. Эти деревья должны были менять свой цвет в разное\nвремя года.",
+        "en": "Yelena planted soft green moss in the shade and\nbeautiful trees in the center of the garden. These trees were supposed to change\ntheir color at different times of the year."
       },
       {
         "heading": "Page 4",
-        "ru": "Позже Саша встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Саша пишет ещё три слова и связывает их с историей этого дня.",
-        "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
+        "ru": "Она хотела создать место, где каждый человек мог бы забыть\nпро городские проблемы, сесть в тишине и подумать о своей жизни и душе.",
+        "en": "She wanted to create a place where every person\ncould forget about city problems, sit in silence, and think about their life and\nsoul."
       },
       {
         "heading": "Page 5",
-        "ru": "В конце дня Саша читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Саша улыбается, потому что учиться теперь легче.",
-        "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
+        "ru": "Сад стал настоящим местом покоя для людей. Они приходили\nслушать воду и ветер. Елена была рада, что смогла вернуть красоту старой\nземле.",
+        "en": "The garden became a true place of peace for people.\nThey came to listen to the water and the wind. Yelena was glad she could return\nbeauty to the old land."
       }
     ]
   },
   {
     "id": "russian-advanced-49",
     "level": "advanced",
-    "title": "Advanced 49: The Letter and the Map",
+    "title": "Advanced 49: The Solar Flight",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2879,39 +2879,39 @@
       925,
       928
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/49-advanced-the-letter-and-the-map.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/49-advanced-the-solar-flight.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Катя идёт в библиотеку. Там рядом есть письмо и карта. Катя читает медленно и замечает новое слово: «маршрут». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Katya is in the library. There is letter and map nearby. Katya reads slowly and notices a new word: route. The day feels good, and the language feels a little closer."
+        "ru": "Инженер Юрий работал над созданием нового аппарата. Это\nбыл маленький дрон, который мог летать только на солнечной энергии без\nбензина.",
+        "en": "The engineer Yuri worked on creating a new vehicle.\nIt was a small drone that could fly solely on solar energy without gasoline."
       },
       {
         "heading": "Page 2",
-        "ru": "Катя пишет слово «маршрут» в тетради. Потом Катя думает о теме «поиск». В этом месте тихо, поэтому Катя снова читает предложение и произносит его вслух.",
-        "en": "Katya writes the word route in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
+        "ru": "Целью проекта было доставлять медицинские приборы и\nлекарства людям в труднодоступные районы гор, где дороги были разрушены\nоползнями.",
+        "en": "The goal of the project was to deliver medical\ndevices and medicines to people in hard-to-reach mountain areas where roads were\ndestroyed by landslides."
       },
       {
         "heading": "Page 3",
-        "ru": "Появляется маленькая трудность, но Катя использует новые слова. Катя смотрит на письмо, потом на карта, и составляет простой план. В конце Катя может сказать одно понятное предложение.",
-        "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the letter, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
+        "ru": "В одно солнечное утро Юрий вывез аппарат на широкое поле.\nДрон тихо поднялся в воздух и полетел к горам, используя только силу света.",
+        "en": "On a sunny morning, Yuri took the vehicle out to a\nwide field. The drone quietly rose into the air and flew towards the mountains\nusing only the power of light."
       },
       {
         "heading": "Page 4",
-        "ru": "Позже Катя встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Катя пишет ещё три слова и связывает их с историей этого дня.",
-        "en": "Later, Katya meets another person and asks one careful question. The answer is simple, but it helps. Katya writes three more words and connects them to the story of the day."
+        "ru": "В горах поднялся сильный ветер. Но благодаря прочной\nструктуре крыла дрон смог сохранить баланс и продолжил движение по курсу.",
+        "en": "A strong wind arose in the mountains. But thanks to\nthe durable structure of the wing, the drone was able to maintain balance and\ncontinued moving on course."
       },
       {
         "heading": "Page 5",
-        "ru": "В конце дня Катя читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Катя улыбается, потому что учиться теперь легче.",
-        "en": "At the end of the day, Katya reads the whole page out loud. The words are not perfect yet, but they are familiar now. Katya smiles because learning feels possible and close."
+        "ru": "Дрон успешно доставил груз на место. Юрий был счастлив.\nЕго новая технология доказала свою пользу и помогла сделать шаг к спасению\nжизней.",
+        "en": "The drone successfully delivered the cargo to the\ndestination. Yuri was happy. His new technology proved its utility and helped\nmake a step toward saving lives."
       }
     ]
   },
   {
     "id": "russian-advanced-50",
     "level": "advanced",
-    "title": "Advanced 50: The Language Feels Close",
+    "title": "Advanced 50: The Circle of Life",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2966,32 +2966,32 @@
       960,
       963
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/50-advanced-the-language-feels-close.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/russian/advanced/50-advanced-the-circle-of-life.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "Утром Ирина идёт в парк. Там рядом есть книга и телефон. Ирина читает медленно и замечает новое слово: «язык». День хороший, и русский язык становится ближе.",
-        "en": "In the morning, Irina is in the park. There is book and phone nearby. Irina reads slowly and notices a new word: language. The day feels good, and the language feels a little closer."
+        "ru": "Биолог Анна много лет изучала экологическую систему\nместного леса. Она следила за тем, как живут маленькие животные и как\nрастут деревья.",
+        "en": "The biologist Anna had studied the local forest's\necological system for many years. She kept track of how small animals live and\nhow trees grow."
       },
       {
         "heading": "Page 2",
-        "ru": "Ирина пишет слово «язык» в тетради. Потом Ирина думает о теме «уверенность». В этом месте тихо, поэтому Ирина снова читает предложение и произносит его вслух.",
-        "en": "Irina writes the word language in a notebook. Then Irina thinks about confidence. The place is quiet, so Irina reads the sentence again and says it softly."
+        "ru": "Она наблюдала за тем, как упавшие листья превращаются в\nземлю, земля дает силу большим деревьям, а деревья служат домом для птиц.",
+        "en": "She observed how fallen leaves turn into soil, the\nsoil gives strength to big trees, and the trees serve as a home for birds."
       },
       {
         "heading": "Page 3",
-        "ru": "Появляется маленькая трудность, но Ирина использует новые слова. Ирина смотрит на книга, потом на телефон, и составляет простой план. В конце Ирина может сказать одно понятное предложение.",
-        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the book, looks at the phone, and makes a simple plan. By the end, Irina can say one clear sentence."
+        "ru": "В выходные Анна привела детей в лес, чтобы показать им эту\nструктуру. Она объясняла им, что на нашей Земле вся жизнь связана в один круг.",
+        "en": "On the weekend, Anna brought children to the forest\nto show them this structure. She explained to them that on our Earth, all life\nis connected in one circle."
       },
       {
         "heading": "Page 4",
-        "ru": "Позже Ирина встречает человека и задаёт один осторожный вопрос. Ответ простой, но он помогает. Ирина пишет ещё три слова и связывает их с историей этого дня.",
-        "en": "Later, Irina meets another person and asks one careful question. The answer is simple, but it helps. Irina writes three more words and connects them to the story of the day."
+        "ru": "Дети сами искали насекомых под листьями и смотрели на\nрастения. Они поняли, что человек тоже является частью этого большого круга\nприроды.",
+        "en": "The children searched for insects under leaves\nthemselves and looked at plants. They understood that humans are also part of\nthis large circle of nature."
       },
       {
         "heading": "Page 5",
-        "ru": "В конце дня Ирина читает всю страницу вслух. Слова ещё не идеальные, но они уже знакомые. Ирина улыбается, потому что учиться теперь легче.",
-        "en": "At the end of the day, Irina reads the whole page out loud. The words are not perfect yet, but they are familiar now. Irina smiles because learning feels possible and close."
+        "ru": "Анна увидела интерес в глазах детей. Она поняла, что\nэкологическое образование — это лучший способ защитить природу нашей\nпланеты в будущем.",
+        "en": "Anna saw interest in the children's eyes. She\nunderstood that environmental education is the best way to protect our planet's\nnature in the future."
       }
     ]
   }

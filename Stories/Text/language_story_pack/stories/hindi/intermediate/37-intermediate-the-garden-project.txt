@@ -1,0 +1,44 @@
+Story 37: The Garden Project
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 559-581 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+बसंत में विकास अपनी दादी के घर पर था। दादी ने उसे खुद
+सब्जियां उगाना सिखाने का फैसला किया। उन्होंने बगीचे में मिट्टी
+तैयार की और टमाटर और खीरे के बीज बोए।
+
+Page 2:
+हर दिन स्कूल के बाद विकास पौधों को पानी देने में मदद करता
+था। दो सप्ताह के बाद मिट्टी से छोटे हरे पत्ते बाहर आने लगे। विकास को अपनी
+मेहनत का फल देखकर बहुत खुशी हुई।
+
+Page 3:
+गर्मियों में उन्होंने बहुत सारे टमाटर और खीरे तोड़े। दादी और
+विकास ने उनसे रात के खाने के लिए सलाद बनाया। लड़के को लगा कि अपने हाथों से उगाई
+गई सब्जी का स्वाद सबसे अच्छा होता है।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In the spring, Vikas was spending time at his
+grandmother's house. His grandmother decided to teach him how to grow vegetables
+with his own hands. They prepared the soil in the garden and planted tomato and
+cucumber seeds.
+
+Page 2:
+Every day after school, Vikas helped water the
+garden beds. Two weeks later, the first green leaves appeared from the warm
+soil. Vikas was very happy to see the fruits of their common labor.
+
+Page 3:
+In the summer, they harvested many fresh tomatoes
+and cucumbers. Grandmother and Vikas made a delicious salad out of them for
+dinner. The boy understood that food grown with one's own hands has the best
+taste.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

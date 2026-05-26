@@ -1,0 +1,32 @@
+Story 25: Trying Again
+Language: Russian
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 291-305 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Девочка пыталась сделать красивое животное из бумаги. Но
+ее первая попытка не удалась, и бумага порвалась. Ей стало немного грустно, и
+она хотела бросить работу.
+
+Page 2:
+Мама подошла и сказала: «Попробуй еще раз. Сделай движение
+рук медленнее». Девочка взяла чистый лист и смогла сделать отличную фигуру. Она
+улыбнулась.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The girl tried to make a beautiful animal out of
+paper. But her first attempt did not succeed, and the paper tore. She felt a
+little sad and wanted to quit the work.
+
+Page 2:
+Mom came over and said: "Try again. Make your hand
+movements slower." The girl took a clean sheet and was able to make an excellent
+figure. She smiled.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

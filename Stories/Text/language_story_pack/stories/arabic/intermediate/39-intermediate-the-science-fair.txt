@@ -1,0 +1,45 @@
+Story 39: The Science Fair
+Language: Arabic
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 605-627 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+في كل خريف، كان يقام في المدرسة معرض علمي كبير وجميل. قررت
+مجموعة مازن تجهيز مشروع متميز يتحدث عن الطاقة النظيفة والصديقة للبيئة. وقاموا
+ببناء نموذج صغير يوضح عمل الخلايا الشمسية.
+
+Page 2:
+في يوم المعرض، تجمع الكثير من المعلمين والأولياء في القاعة
+الكبيرة. وتوقف العديد منهم أمام مشروع مازن. كان الولد يشرح للضيوف ببساطة ووضوح
+تام كيف تتحول أشعة الشمس إلى طاقة تيار كهربائي مفيد.
+
+Page 3:
+في نهاية اليوم، قام الحكام بتقييم جميع المشاريع المعروضة.
+حصل مشروع مجموعة مازن على تقييم مرتفع جداً والمركز الأول بفضل فكرته المفيدة
+والممتازة. شعر الأصدقاء بالفرح والسرور لنجاح عملهم الجماعي المشترك.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Every autumn, a large and beautiful science fair
+was held at the school. Mazen's group decided to prepare a distinct project
+about clean and eco-friendly energy. They built a small model demonstrating how
+solar panels work.
+
+Page 2:
+On the day of the exhibition, many teachers and
+parents gathered in the large hall. Many of them stopped in front of Mazen's
+project. The boy explained to the guests simply and clearly how the sun's rays
+transform into useful electric current energy.
+
+Page 3:
+At the end of the day, the judges evaluated all the
+presented projects. Mazen's group project received a very high rating and won
+first place thanks to its useful and excellent idea. The friends felt joy and
+happiness at the success of their joint collective work.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

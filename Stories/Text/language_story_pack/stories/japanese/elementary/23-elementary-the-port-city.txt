@@ -1,0 +1,28 @@
+Story 23: The Port City
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 261-275 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+私の家は大きな港の近くにあります。毎日、世界中から大きな船がやってきて、たくさんの人々がこの土地に降ります。ここはとても賑やかです。
+
+Page 2:
+夕方、私は父と一緒に海の近くに行き、船が外に出ていくのを見ます。夕日の光が海を赤く照らし、その光景は言葉にできないほど美しいです。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+My house is near a large port. Every day, big ships
+arrive from all over the world, and many people disembark onto this land. This
+place is very lively.
+
+Page 2:
+In the evening, I go near the sea with my father
+and watch the ships head out. The light of the setting sun paints the sea red,
+and the scenery is too beautiful for words.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

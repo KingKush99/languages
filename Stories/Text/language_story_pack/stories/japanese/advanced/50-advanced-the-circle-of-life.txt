@@ -1,0 +1,52 @@
+Story 50: The Circle of Life
+Language: Japanese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 966-1000 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+生物学者のハナは、地元の豊かな森に入り、植物や小動物の生態系を調べる調査を何年も続けていました。
+
+Page 2:
+彼女は、落ち葉が土になり、その土が大きな木を育て、その木が動物たちの家になる命の循環を観察しました。
+
+Page 3:
+週末、彼女は子どもたちを森に招待し、自然の構造を説明しました。「この地球のすべての命は繋がっている」と彼女は言いました。
+
+Page 4:
+子どもたちは自分で虫や花を観察し、自然の美しさに驚いていました。彼らは自分たちもその一部であることを理解しました。
+
+Page 5:
+ハナは、子どもたちの輝く目を見て、自然保護の教育こそが、未来の美しい地球を守るために最も重要であると確信しました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Hana, a biologist, had been continuing her research
+for years, entering the local rich forest to study the ecosystem of plants and
+small animals.
+
+Page 2:
+She observed the circle of life, where fallen
+leaves became soil, the soil grew large trees, and the trees became homes for
+animals.
+
+Page 3:
+On weekends, she invited children into the forest
+and explained the structure of nature. "All life on this earth is connected,"
+she said.
+
+Page 4:
+The children observed insects and flowers by
+themselves, marveling at the beauty of nature. They understood that they too
+were a part of it.
+
+Page 5:
+Seeing the children's shining eyes, Hana was
+convinced that environmental education is the most important factor in
+protecting the future's beautiful Earth.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

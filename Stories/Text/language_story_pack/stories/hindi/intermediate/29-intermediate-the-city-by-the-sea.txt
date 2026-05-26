@@ -1,0 +1,48 @@
+Story 29: The City by the Sea
+Language: Hindi
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 369-392 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+अमन नीले समुद्र के किनारे बसे एक सुंदर शहर में रहता था। हर
+गर्मी में यहाँ एक बड़ा त्योहार मनाया जाता था। बंदरगाह पर रंग-बिरंगे झंडे
+लगाए जाते थे और लोग लकड़ी की छोटी दुकानें बनाते थे। शाम तक बहुत से लोग
+वहाँ जमा हो गए।
+
+Page 2:
+अमन बंदरगाह पर एक बूढ़े नाविक से मिला। नाविक ने उसे दुनिया
+के बड़े समुद्रों की लंबी यात्राओं, तेज़ तूफ़ानों और बड़ी मछलियों के बारे में
+बताया। लड़का उसकी बातें बड़े ध्यान से सुनता था और भविष्य में खुद नाविक बनने का
+सपना देखने लगा।
+
+Page 3:
+जब अंधेरा हुआ तो आसमान में रंग-बिरंगे पटाखे चलने लगे। उनकी
+रोशनी हवा में बहुत ऊपर जाती और फिर समुद्र के पानी में गिरती। पूरा शहर चमक
+रहा था और लोग तालियाँ बजा रहे थे। अमन को अपने बंदरगाह वाले शहर पर गर्व
+महसूस हुआ।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Aman lived in a beautiful city by the blue sea.
+Every summer a big festival was organized here. Bright flags were hung in the
+port, and people built small wooden food stalls. By evening, many people
+gathered on the street.
+
+Page 2:
+Aman met an old sailor in the port. The old man
+told him about his long voyages across the oceans of the earth, about strong
+storms and big fish. The boy listened to him with great interest and dreamed of
+also becoming a real sailor in the future.
+
+Page 3:
+When it became dark, bright fireworks began in the
+sky. The lights flew high into the air and fell into the sea water. The whole
+city glowed, and people clapped their hands. Aman felt pride in his beautiful
+port city.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

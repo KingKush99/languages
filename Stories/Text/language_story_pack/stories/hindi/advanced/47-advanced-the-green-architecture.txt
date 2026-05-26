@@ -1,0 +1,59 @@
+Story 47: The Green Architecture
+Language: Hindi
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 861-895 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+वास्तुकार अनिल को शहर में एक नया सामुदायिक केंद्र बनाने का
+काम मिला। उन्होंने इस इमारत को पूरी तरह से पर्यावरण के अनुकूल और साफ बनाने
+का फैसला किया।
+
+Page 2:
+उन्होंने छत के डिजाइन को बदला ताकि इमारत के अंदर अधिक धूप आ
+सके। इससे दिन के समय बिजली के बल्बों का उपयोग कम करने में मदद मिली।
+
+Page 3:
+अनिल ने केंद्र की छत पर एक हरा बगीचा बनाने की योजना बनाई।
+बारिश के पानी को इकट्ठा करने की प्रणाली अपने आप पौधों को पानी दे सकती थी।
+
+Page 4:
+बनाने वालों ने काम शुरू किया और सुरक्षित लकड़ी की सामग्री का
+उपयोग किया। शहर के लोग रुचि के साथ इस नए घर के बनने को देख रहे थे।
+
+Page 5:
+नया केंद्र शहर की सबसे सुंदर जगह बन गया। लोग वहाँ हरे पेड़ों
+के नीचे आराम करने आते थे। अनिल ने पर्यावरण के अनुकूल वास्तुकला की उपयोगिता साबित
+की।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The architect Anil received an order to create a
+new community center in the city. He decided to make the building as
+eco-friendly and clean as possible.
+
+Page 2:
+He changed the structure of the roof to let more
+sunlight inside the building. This helped reduce the use of electric lamps
+during the day.
+
+Page 3:
+Anil planned to plant a green garden on the roof of
+the new center. A rainwater collection system was supposed to water the plants
+automatically without human involvement.
+
+Page 4:
+Builders started the work, using safe materials
+made from recycled wood. City residents watched the creation of the new building
+with interest.
+
+Page 5:
+The new center became the most beautiful place in
+the city. People came there to rest under green trees. Anil proved the benefit
+of green architecture.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

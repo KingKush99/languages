@@ -2,7 +2,7 @@
   {
     "id": "arabic-beginner-01",
     "level": "beginner",
-    "title": "Beginner 01: Morning at Home",
+    "title": "Beginner 01: The Book",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -22,19 +22,19 @@
       9
     ],
     "reviewWords": [],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/01-beginner-morning-at-home.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/01-beginner-the-book.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب آنا إلى البيت. هناك شاي وكتاب بالقرب منه. تقرأ آنا ببطء وتلاحظ كلمة جديدة: «مدينة». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Anna is at home. There is tea and book nearby. Anna reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
+        "ru": "أنا في البيت. كان هو هناك. وضعت الكتاب على الطاولة. كان هذا\nله، كما قلت دائماً.",
+        "en": "I am in the house. He was there. I put the book on\nthe table. This was for him, as I always said."
       }
     ]
   },
   {
     "id": "arabic-beginner-02",
     "level": "beginner",
-    "title": "Beginner 02: Tea on the Table",
+    "title": "Beginner 02: Gathering at Home",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -60,19 +60,19 @@
       7,
       9
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/02-beginner-tea-on-the-table.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/02-beginner-gathering-at-home.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب لينا إلى البيت. هناك شاي وخبز بالقرب منه. تقرأ لينا ببطء وتلاحظ كلمة جديدة: «طاولة». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Lena is at home. There is tea and bread nearby. Lena reads slowly and notices a new word: table. The day feels good, and the language feels a little closer."
+        "ru": "هم هنا الآن. أصدقائي يريدون أن يكونوا معي في بيت واحد.\nلدينا هذا المكان الهادئ.",
+        "en": "They are here now. My friends want to be with me in\none house. We have this quiet place."
       }
     ]
   },
   {
     "id": "arabic-beginner-03",
     "level": "beginner",
-    "title": "Beginner 03: The Open Window",
+    "title": "Beginner 03: A Hot Day",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -99,19 +99,19 @@
       13,
       16
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/03-beginner-the-open-window.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/03-beginner-a-hot-day.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، يذهب إيفان إلى البيت. هناك نافذة وكتاب بالقرب منه. يقرأ إيفان ببطء ويلاحظ كلمة جديدة: «مكتبة». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Ivan is at home. There is window and book nearby. Ivan reads slowly and notices a new word: library. The day feels good, and the language feels a little closer."
+        "ru": "ما هذا؟ هذه كلمة من صديقي. لكن الطقس حار اليوم. هناك بعض\nالماء بجانبه.",
+        "en": "What is this? This is a word from my friend. But\nthe weather is hot today. There is some water near him."
       }
     ]
   },
   {
     "id": "arabic-beginner-04",
     "level": "beginner",
-    "title": "Beginner 04: Walking to the Park",
+    "title": "Beginner 04: The Decision",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -140,19 +140,19 @@
       22,
       25
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/04-beginner-walking-to-the-park.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/04-beginner-the-decision.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب ماشا إلى الحديقة. هناك الأم والأخ بالقرب منه. تقرأ ماشا ببطء وتلاحظ كلمة جديدة: «صديق». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Masha is in the park. There is mother and brother nearby. Masha reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
+        "ru": "أنت وأنا نذهب. هل هو لك أو لي؟ كان لدينا كتاب قديم من\nالماضي.",
+        "en": "You and I go. Is it you or me? We had an old book\nof the past."
       }
     ]
   },
   {
     "id": "arabic-beginner-05",
     "level": "beginner",
-    "title": "Beginner 05: A Quiet Street",
+    "title": "Beginner 05: The New Room",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -180,19 +180,19 @@
       31,
       34
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/05-beginner-a-quiet-street.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/05-beginner-the-new-room.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، يذهب بافل إلى الشارع. هناك بيت ونافذة بالقرب منه. يقرأ بافل ببطء ويلاحظ كلمة جديدة: «شارع». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Pavel is on the street. There is house and window nearby. Pavel reads slowly and notices a new word: street. The day feels good, and the language feels a little closer."
+        "ru": "كنا في غرفة واحدة. أي غرفة؟ يمكننا الخروج الآن. كان هناك\nأشخاص آخرون أيضاً.",
+        "en": "We were in a room. Which room? We can go out now.\nOther people were there too."
       }
     ]
   },
   {
     "id": "arabic-beginner-06",
     "level": "beginner",
-    "title": "Beginner 06: The First Book",
+    "title": "Beginner 06: The Plan",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -220,19 +220,19 @@
       39,
       42
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/06-beginner-the-first-book.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/06-beginner-the-plan.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب أولغا إلى المكتبة. هناك كتاب وبطاقة بالقرب منه. تقرأ أولغا ببطء وتلاحظ كلمة جديدة: «كلمة». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Olga is in the library. There is book and card nearby. Olga reads slowly and notices a new word: word. The day feels good, and the language feels a little closer."
+        "ru": "قال: \"لا يوجد وقت\". إذا قاموا بعملهم، كيف سيفعلون ذلك؟ هذه\nخطة جيدة.",
+        "en": "He said: \"There is no time.\" If they do their work,\nhow will they do it? This is a good plan."
       }
     ]
   },
   {
     "id": "arabic-beginner-07",
     "level": "beginner",
-    "title": "Beginner 07: A Good Day",
+    "title": "Beginner 07: Three Wishes",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -260,19 +260,19 @@
       47,
       50
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/07-beginner-a-good-day.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/07-beginner-three-wishes.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، يذهب نيكولاي إلى الحديقة. هناك شمس وشجرة بالقرب منه. يقرأ نيكولاي ببطء ويلاحظ كلمة جديدة: «جيد». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Nikolay is in the park. There is sun and tree nearby. Nikolay reads slowly and notices a new word: good. The day feels good, and the language feels a little closer."
+        "ru": "أريد أن أقول لك. هناك مجموعة من ثلاثة أشياء. كل شيء يحتاج\nإلى الهواء. هذا يعمل بشكل جيد.",
+        "en": "I want to tell you. There is a set of three things.\nEach thing needs air. This works well."
       }
     ]
   },
   {
     "id": "arabic-beginner-08",
     "level": "beginner",
-    "title": "Beginner 08: At School",
+    "title": "Beginner 08: A Quiet Night",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -300,19 +300,19 @@
       55,
       58
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/08-beginner-at-school.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/08-beginner-a-quiet-night.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، يذهب ساشا إلى المدرسة. هناك مكتب وقلم رصاص بالقرب منه. يقرأ ساشا ببطء ويلاحظ كلمة جديدة: «مدرسة». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Sasha is at school. There is desk and pencil nearby. Sasha reads slowly and notices a new word: school. The day feels good, and the language feels a little closer."
+        "ru": "أقرأ كتاباً صغيراً في المنزل. كما ألعب بيدي أيضاً. في نهاية\nاليوم، أضع الكتاب جانباً.",
+        "en": "I read a small book at home. I also play with my\nhand. At the end of the day, I put the book aside."
       }
     ]
   },
   {
     "id": "arabic-beginner-09",
     "level": "beginner",
-    "title": "Beginner 09: At the Store",
+    "title": "Beginner 09: The Large Port",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -340,19 +340,19 @@
       63,
       66
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/09-beginner-at-the-store.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/09-beginner-the-large-port.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب إيرينا إلى المتجر. هناك حقيبة وطعام بالقرب منه. تقرأ إيرينا ببطء وتلاحظ كلمة جديدة: «متجر». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Irina is in the store. There is bag and food nearby. Irina reads slowly and notices a new word: store. The day feels good, and the language feels a little closer."
+        "ru": "هنا ميناء كبير. هناك سفينة ضخمة على هذه الأرض. يجب عليك\nكتابة اسمك أو تهجئته، بل وإضافة التفاصيل.",
+        "en": "Here is a large port. There is a big ship on this\nland. You must write or spell your name, and even add details. === END OF\nSTORY 09 ==="
       }
     ]
   },
   {
     "id": "arabic-beginner-10",
     "level": "beginner",
-    "title": "Beginner 10: At the Station",
+    "title": "Beginner 10: The Path to Change",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -380,19 +380,19 @@
       71,
       74
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/10-beginner-at-the-station.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/10-beginner-the-path-to-change.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب ماريا إلى المحطة. هناك شاي وتذكرة بالقرب منه. تقرأ ماريا ببطء وتلاحظ كلمة جديدة: «محطة». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Maria is at the station. There is tea and ticket nearby. Maria reads slowly and notices a new word: station. The day feels good, and the language feels a little closer."
+        "ru": "ذهب الرجال إلى جبل مرتفع. أتساءل لماذا ذهبوا. إنهم يعملون\nعلى متابعة مثل هذا التغيير.",
+        "en": "The men went to a high mountain. I ask why they\nwent. They act to follow such a change."
       }
     ]
   },
   {
     "id": "arabic-beginner-11",
     "level": "beginner",
-    "title": "Beginner 11: A Simple Call",
+    "title": "Beginner 11: The New Picture",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -420,19 +420,19 @@
       79,
       82
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/11-beginner-a-simple-call.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/11-beginner-the-new-picture.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، يذهب ديما إلى البيت. هناك هاتف ودفتر بالقرب منه. يقرأ ديما ببطء ويلاحظ كلمة جديدة: «صديق». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Dima is at home. There is phone and notebook nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
+        "ru": "هذا البيت يحتاج إلى ضوء. يرجى محاولة التقاط صورة له مرة\nأخرى دون إضاءة. شخص طيب يساعدنا.",
+        "en": "This house needs light. Please try to take a\npicture of it again with the light off. A kind person helps us. === END OF\nSTORY 11 ==="
       }
     ]
   },
   {
     "id": "arabic-beginner-12",
     "level": "beginner",
-    "title": "Beginner 12: I Know This Word",
+    "title": "Beginner 12: Our World",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -460,19 +460,19 @@
       87,
       90
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/12-beginner-i-know-this-word.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/beginner/12-beginner-our-world.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب كاتيا إلى الغرفة. هناك ورقة وكتاب بالقرب منه. تقرأ كاتيا ببطء وتلاحظ كلمة جديدة: «يعرف». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Katya is in the room. There is paper and book nearby. Katya reads slowly and notices a new word: know. The day feels good, and the language feels a little closer."
+        "ru": "أمي وأبي يحبان الأرض. نحن نبني بيتاً صغيراً بالقرب من\nالحيوانات لنلاحظ الطبيعة بأنفسنا. هذا هو المغزى في عالمنا.",
+        "en": "My mother and father love the earth. We build a\nsmall home near the animals to observe nature ourselves. That is the point in\nour world."
       }
     ]
   },
   {
     "id": "arabic-elementary-13",
     "level": "elementary",
-    "title": "Elementary 13: The Library Window",
+    "title": "Elementary 13: The Lost Dog",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -508,24 +508,24 @@
       95,
       98
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/13-elementary-the-library-window.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/13-elementary-the-lost-dog.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، يذهب بافل إلى المكتبة. هناك نافذة ودفتر بالقرب منه. يقرأ بافل ببطء ويلاحظ كلمة جديدة: «هدوء». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Pavel is in the library. There is window and notebook nearby. Pavel reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
+        "ru": "في يوم من الأيام، وجدت فتاة صغيرة كلباً مفقوداً في الغابة\nالقريبة. كان الكلب خائفاً ويشعر بالبرد الشديد. اقتربت منه الفتاة بلطف وتحدثت\nمعه بصوت هادئ حتى يطمئن.",
+        "en": "One day, a young girl found a lost dog in the\nnearby forest. The dog was afraid and felt very cold. The girl approached it\ngently and spoke to it in a quiet voice until it felt safe."
       },
       {
         "heading": "Page 2",
-        "ru": "يكتب بافل كلمة «هدوء» في الدفتر. ثم يفكر في موضوع «قراءة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
-        "en": "Pavel writes the word quiet in a notebook. Then Pavel thinks about reading. The place is quiet, so Pavel reads the sentence again and says it softly."
+        "ru": "أخذت الفتاة الكلب إلى منزلها وأعطته طعاماً دافئاً. بدأ\nالكلب يهز ذيله بسعادة. وافقت والدتها وأبوها على بقاء الكلب معهم كفرد من\nالعائلة، وكان الجميع سعداء جداً.",
+        "en": "The girl took the dog to her house and gave it warm\nfood. The dog began to wag its tail happily. Her mother and father agreed to let\nthe dog stay with them as a family member, and everyone was very happy. === END\nOF STORY 13 ==="
       }
     ]
   },
   {
     "id": "arabic-elementary-14",
     "level": "elementary",
-    "title": "Elementary 14: The Museum Visit",
+    "title": "Elementary 14: The New House",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -561,24 +561,24 @@
       111,
       114
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/14-elementary-the-museum-visit.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/14-elementary-the-new-house.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، يذهب نيكولاي إلى المتحف. هناك تذكرة وصورة بالقرب منه. يقرأ نيكولاي ببطء ويلاحظ كلمة جديدة: «تاريخ». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Nikolay is in the museum. There is ticket and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
+        "ru": "اخترنا هذه الأرض الهادئة لنبني عليها منزلنا الجديد. يمر نهر\nنظيف بالقرب منا، ونسمع أصوات الطيور الجميلة كل يوم. تبدأ حياتنا الجديدة في هذا\nالمكان الجميل اليوم.",
+        "en": "We chose this quiet land to build our new house. A\nclean river flows near us, and we hear the beautiful voices of birds every day.\nOur new life begins in this beautiful place today."
       },
       {
         "heading": "Page 2",
-        "ru": "يكتب نيكولاي كلمة «تاريخ» في الدفتر. ثم يفكر في موضوع «ذاكرة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
-        "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about memory. The place is quiet, so Nikolay reads the sentence again and says it softly."
+        "ru": "بدأت أنا وأبي في زراعة حديقة صغيرة بالقرب من منزلنا الجديد.\nزرعنا هناك زهوراً ملونة وجميلة. كانت أمي تنظر إلينا من النافذة وتساعدنا بكلماتها\nالطيبة والمشجعة.",
+        "en": "My father and I started planting a small garden\nnear our new house. We planted colorful and beautiful flowers there. My mother\nwatched us from the window and helped us with her kind and encouraging words."
       }
     ]
   },
   {
     "id": "arabic-elementary-15",
     "level": "elementary",
-    "title": "Elementary 15: The Cafe Notebook",
+    "title": "Elementary 15: The Mother's Advice",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -614,24 +614,24 @@
       127,
       130
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/15-elementary-the-cafe-notebook.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/15-elementary-the-mothers-advice.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب أولغا إلى المقهى. هناك شاي وموسيقى بالقرب منه. تقرأ أولغا ببطء وتلاحظ كلمة جديدة: «لحن». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Olga is in the cafe. There is tea and music nearby. Olga reads slowly and notices a new word: melody. The day feels good, and the language feels a little closer."
+        "ru": "كان ولد صغير يفكر في مسألة صعبة للمدرسة. قرأ كتاباً كبيراً\nلوقت طويل، لكنه لم يستطع فهم الجواب الصحيح على الإطلاق. كان الولد حزيناً\nومشوّشاً بسبب ذلك.",
+        "en": "A young boy was thinking about a difficult problem\nfor school. He read a big book for a long time, but he could not understand the\ncorrect answer at all. The boy was sad and confused because of that."
       },
       {
         "heading": "Page 2",
-        "ru": "تكتب أولغا كلمة «لحن» في الدفتر. ثم تفكر في موضوع «استماع». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
-        "en": "Olga writes the word melody in a notebook. Then Olga thinks about listening. The place is quiet, so Olga reads the sentence again and says it softly."
+        "ru": "اقتربت أمه منه وقالت له بلطف: \"حاول مرة أخرى وابدأ من\nالصفحة الأولى. إذا قرأت ببطء وهدوء، سوف تفهم المغزى والحل بالتأكيد\". بدأ\nالولد القراءة مجدداً بنجاح.",
+        "en": "His mother approached him and said gently: \"Try\nagain and start from the first page. If you read slowly and quietly, you will\nsurely understand the meaning and the solution.\" The boy started reading again\nwith success."
       }
     ]
   },
   {
     "id": "arabic-elementary-16",
     "level": "elementary",
-    "title": "Elementary 16: Rain Near the Door",
+    "title": "Elementary 16: Building a Bridge",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -667,24 +667,24 @@
       143,
       146
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/16-elementary-rain-near-the-door.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/16-elementary-building-a-bridge.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، يذهب ديما إلى متجر الكتب. هناك باب وكتاب بالقرب منه. يقرأ ديما ببطء ويلاحظ كلمة جديدة: «طريق». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Dima is in the bookshop. There is door and book nearby. Dima reads slowly and notices a new word: road. The day feels good, and the language feels a little closer."
+        "ru": "يمر نهر واسع جداً بالقرب من قريتنا الصغيرة. للذهاب إلى\nالجانب الآخر من الأرض، كان يجب علينا دائماً السير في طريق طويل ومتعب. كان\nهذا الأمر غير مريح لنا.",
+        "en": "A very wide river flows near our small village. To\ngo to the other side of the land, we always had to walk along a long and tiring\nroad. This was very inconvenient for us."
       },
       {
         "heading": "Page 2",
-        "ru": "يكتب ديما كلمة «طريق» في الدفتر. ثم يفكر في موضوع «مطر». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
-        "en": "Dima writes the word road in a notebook. Then Dima thinks about rain. The place is quiet, so Dima reads the sentence again and says it softly."
+        "ru": "اجتمع أهل القرية وقرروا بناء جسر خشبي جديد. عمل الجميع بجد\nمستخدمين أيديهم، وأصبح الجسر الكبير جاهزاً. الآن يمكننا العبور إلى الطرف الآخر\nبسهولة وسرعة كبيرة.",
+        "en": "The villagers gathered and decided to build a new\nwooden bridge. Everyone worked hard using their hands, and the big bridge became\nready. Now we can cross to the other side easily and very quickly. === END OF\nSTORY 16 ==="
       }
     ]
   },
   {
     "id": "arabic-elementary-17",
     "level": "elementary",
-    "title": "Elementary 17: The Letter on the Table",
+    "title": "Elementary 17: The Picture Book",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -720,24 +720,24 @@
       159,
       162
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/17-elementary-the-letter-on-the-table.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/17-elementary-the-picture-book.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، يذهب ساشا إلى الجامعة. هناك رسالة وطاولة بالقرب منه. يقرأ ساشا ببطء ويلاحظ كلمة جديدة: «لقاء». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Sasha is at the university. There is letter and table nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
+        "ru": "أهداني جدي كتاب صور قديم ومثير للاهتمام. كان في هذا الكتاب\nالعديد من الصور الجميلة لحيوانات برية من جميع أنحاء العالم. أحببت هذا الكتاب\nالرائع من أول لحظة.",
+        "en": "My grandfather gave me an old and interesting\npicture book. In this book, there were many beautiful pictures of wild animals\nfrom all over the world. I loved this wonderful book from the first moment."
       },
       {
         "heading": "Page 2",
-        "ru": "يكتب ساشا كلمة «لقاء» في الدفتر. ثم يفكر في موضوع «دعوة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
-        "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about invitation. The place is quiet, so Sasha reads the sentence again and says it softly."
+        "ru": "كنت أقرأ الكتاب وأتعلم كيفية كتابة وتهجئة الكلمات الجديدة\nوالصعبة. كانت أمي تجلس بجانبي دائماً وتساعدني في القيام بذلك بشكل صحيح وسريع\nدون أخطاء.",
+        "en": "I was reading the book and learning how to write\nand spell the new and difficult words. My mother always sat beside me and helped\nme do that correctly and quickly without mistakes."
       }
     ]
   },
   {
     "id": "arabic-elementary-18",
     "level": "elementary",
-    "title": "Elementary 18: Words in the Park",
+    "title": "Elementary 18: Pointing to the Sky",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -773,24 +773,24 @@
       175,
       178
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/18-elementary-words-in-the-park.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/18-elementary-pointing-to-the-sky.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب إيرينا إلى الحديقة. هناك هاتف وشاي بالقرب منه. تقرأ إيرينا ببطء وتلاحظ كلمة جديدة: «ثلاثة». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Irina is in the park. There is phone and tea nearby. Irina reads slowly and notices a new word: three. The day feels good, and the language feels a little closer."
+        "ru": "عندما صعدنا إلى قمة الجبل المرتفع، بدت السماء الزرقاء قريبة\nجداً منا. كانت الرياح تهب ببرودة وقوة، لكن ضوء الشمس المشرق جعل العالم من حولنا\nجميلاً ورائعاً.",
+        "en": "When we climbed to the top of the high mountain,\nthe blue sky seemed very close to us. The wind was blowing coldly and strongly,\nbut the bright light of the sun made the world around us beautiful and\nwonderful."
       },
       {
         "heading": "Page 2",
-        "ru": "تكتب إيرينا كلمة «ثلاثة» في الدفتر. ثم تفكر في موضوع «كلام». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
-        "en": "Irina writes the word three in a notebook. Then Irina thinks about speaking. The place is quiet, so Irina reads the sentence again and says it softly."
+        "ru": "أشار والدي بيده إلى السماء وقال: \"انظر إلى تلك الطيور\nالكبيرة والجميلة. إنها تطير معاً إلى بلاد دافئة وبعيدة\". وقفنا هناك طويلاً\nنراقب حركتها بهدوء تام.",
+        "en": "My father pointed with his hand to the sky and\nsaid: \"Look at those big, beautiful birds. They are flying together to warm,\ndistant lands.\" We stood there for a long time watching their movement in\ncomplete quiet."
       }
     ]
   },
   {
     "id": "arabic-elementary-19",
     "level": "elementary",
-    "title": "Elementary 19: The Little Plan",
+    "title": "Elementary 19: The Father's Letter",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -826,24 +826,24 @@
       191,
       194
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/19-elementary-the-little-plan.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/19-elementary-the-fathers-letter.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب لينا إلى المتجر. هناك خريطة وسلة بالقرب منه. تقرأ لينا ببطء وتلاحظ كلمة جديدة: «خطة». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Lena is in the store. There is map and basket nearby. Lena reads slowly and notices a new word: plan. The day feels good, and the language feels a little closer."
+        "ru": "سافر والدي للعمل في مدينة ميناء كبيرة بعيدة جداً عن منزلنا\nالهادئ. وفي أحد الأيام، وصلت إلينا رسالة مكتوبة منه. شعرت بفرح شديد وفتحتها على\nالفور.",
+        "en": "My father traveled for work to a large port city\nfar away from our quiet house. One day, a written letter from him arrived. I\nfelt extreme joy and opened it immediately."
       },
       {
         "heading": "Page 2",
-        "ru": "تكتب لينا كلمة «خطة» في الدفتر. ثم تفكر في موضوع «تسوق». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
-        "en": "Lena writes the word plan in a notebook. Then Lena thinks about shopping. The place is quiet, so Lena reads the sentence again and says it softly."
+        "ru": "كتب أبي في الرسالة عن البحر الجميل والأماكن الرائعة والناس\nالطيبين هناك. ووعدنا بأنه سوف يعود إلى المنزل قريباً جداً. اطمأنت روحي وسعدت\nالعائلة بهذه الأخبار.",
+        "en": "My father wrote in the letter about the beautiful\nsea, wonderful places, and kind people there. He promised us that he would\nreturn home very soon. My soul felt relieved, and the family was happy with this\nnews."
       }
     ]
   },
   {
     "id": "arabic-elementary-20",
     "level": "elementary",
-    "title": "Elementary 20: The News Page",
+    "title": "Elementary 20: Water from the Well",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -879,24 +879,24 @@
       207,
       210
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/20-elementary-the-news-page.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/20-elementary-water-from-the-well.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب ماريا إلى المحطة. هناك شاي وجريدة بالقرب منه. تقرأ ماريا ببطء وتلاحظ كلمة جديدة: «خبر». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Maria is at the station. There is tea and newspaper nearby. Maria reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
+        "ru": "كان هذا يوماً حاراً جداً في الصيف. كان الهواء داخل المنزل\nدافئاً وثقيلاً، وكنا بحاجة إلى ماء بارد ونظيف. قررنا الذهاب إلى البئر القديمة\nالقريبة من الغابة.",
+        "en": "This was a very hot day in summer. The air inside\nthe house was warm and heavy, and we needed cold, clean water. We decided to go\nto the old well near the forest."
       },
       {
         "heading": "Page 2",
-        "ru": "تكتب ماريا كلمة «خبر» في الدفتر. ثم تفكر في موضوع «تفكير». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
-        "en": "Maria writes the word news in a notebook. Then Maria thinks about thinking. The place is quiet, so Maria reads the sentence again and says it softly."
+        "ru": "استخدمنا أيدينا لسحب الدلو الثقيل من البئر. كان الماء\nبارداً جداً ومنعشاً. شربنا منه وشعرنا بسعادة ونشاط كبيرين، وأصبح يومنا\nالحار أفضل بكثير من قبل.",
+        "en": "We used our hands to pull up the heavy bucket from\nthe well. The water was very cold and refreshing. We drank from it and felt\ngreat happiness and energy, and our hot day became much better than before. ===\nEND OF STORY 20 ==="
       }
     ]
   },
   {
     "id": "arabic-elementary-21",
     "level": "elementary",
-    "title": "Elementary 21: The Family Walk",
+    "title": "Elementary 21: A Day of Play",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -932,24 +932,24 @@
       223,
       226
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/21-elementary-the-family-walk.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/21-elementary-a-day-of-play.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب آنا إلى الحديقة. هناك الأم والأخ بالقرب منه. تقرأ آنا ببطء وتلاحظ كلمة جديدة: «بيت». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Anna is in the park. There is mother and brother nearby. Anna reads slowly and notices a new word: house. The day feels good, and the language feels a little closer."
+        "ru": "اليوم كان عطلة مدرسية سعيدة. اجتمع الأطفال الصغار في الساحة\nالمفتوحة بالقرب من المنازل. بدأ الجميع يلعبون ويمرحون بنشاط. كان الطقس جميلاً\nوالرياح خفيفة ومنعشة.",
+        "en": "Today was a happy school holiday. The small\nchildren gathered in the open square near the houses. Everyone began playing and\nhaving fun energetically. The weather was beautiful and the wind was light and\nrefreshing."
       },
       {
         "heading": "Page 2",
-        "ru": "تكتب آنا كلمة «بيت» في الدفتر. ثم تفكر في موضوع «عائلة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
-        "en": "Anna writes the word house in a notebook. Then Anna thinks about family. The place is quiet, so Anna reads the sentence again and says it softly."
+        "ru": "جرى الأطفال ولعبوا حتى وقت المساء. وفي نهاية اليوم، جلس\nالجميع في دائرة كبيرة على العشب الأخضر. وأخذوا يخبرون بعضهم البعض عن قصصهم\nالمفضلة في الكتب.",
+        "en": "The children ran and played until evening. At the\nend of the day, everyone sat in a large circle on the green grass. They began\ntelling each other about their favorite stories in books."
       }
     ]
   },
   {
     "id": "arabic-elementary-22",
     "level": "elementary",
-    "title": "Elementary 22: The Quiet Room",
+    "title": "Elementary 22: Small Endings",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -985,24 +985,24 @@
       239,
       242
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/22-elementary-the-quiet-room.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/22-elementary-small-endings.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، يذهب إيفان إلى الغرفة. هناك كرسي وكتاب بالقرب منه. يقرأ إيفان ببطء ويلاحظ كلمة جديدة: «غرفة». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Ivan is in the room. There is chair and book nearby. Ivan reads slowly and notices a new word: room. The day feels good, and the language feels a little closer."
+        "ru": "كل شيء في هذا العالم له نهاية. لكن أي نهاية تعني دائماً\nبداية لشيء جديد ومثير. وضع الولد الصغير كل ألعابه القديمة في صندوق كبير\nومغلق.",
+        "en": "Every thing in this world has an end. But any end\nalways means a beginning for something new and exciting. The young boy put all\nhis old toys in a large, closed box."
       },
       {
         "heading": "Page 2",
-        "ru": "يكتب إيفان كلمة «غرفة» في الدفتر. ثم يفكر في موضوع «صمت». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
-        "en": "Ivan writes the word room in a notebook. Then Ivan thinks about silence. The place is quiet, so Ivan reads the sentence again and says it softly."
+        "ru": "لقد أصبح الولد أكبر الآن ولم يعد يلعب بتلك الألعاب. يجب\nعليه الآن قراءة كتب مفيدة ووضع خطط جديدة لحياته. ابتسم ومضى يبني مستقبله\nبثقة.",
+        "en": "The boy has become older now and does not play with\nthose toys anymore. He must now read useful books and make new plans for his\nlife. He smiled and went on to build his future with confidence. === END OF\nSTORY 22 ==="
       }
     ]
   },
   {
     "id": "arabic-elementary-23",
     "level": "elementary",
-    "title": "Elementary 23: The New Teacher",
+    "title": "Elementary 23: The Port City",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1037,24 +1037,24 @@
       255,
       258
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/23-elementary-the-new-teacher.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/23-elementary-the-port-city.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب ماشا إلى المدرسة. هناك معلم ولوحة بالقرب منه. تقرأ ماشا ببطء وتلاحظ كلمة جديدة: «سؤال». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Masha is at school. There is teacher and board nearby. Masha reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
+        "ru": "يقع منزلي بالقرب من ميناء كبير جداً ونشيط. وفي كل صباح، تصل\nسفن ضخمة من جميع أنحاء العالم. ينزل الكثير من الناس إلى هذه الأرض وتصبح الحركة\nمزدحمة.",
+        "en": "My house is located near a very large and busy\nport. Every morning, huge ships arrive from all over the world. Many people\ndisembark onto this land, and the movement becomes crowded."
       },
       {
         "heading": "Page 2",
-        "ru": "تكتب ماشا كلمة «سؤال» في الدفتر. ثم تفكر في موضوع «تعلم». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
-        "en": "Masha writes the word question in a notebook. Then Masha thinks about learning. The place is quiet, so Masha reads the sentence again and says it softly."
+        "ru": "في المساء، أذهب مع والدي إلى الماء. نقف لنشاهد السفن\nالكبيرة وهي تخرج عائدة إلى عرض البحر. يغطي ضوء الشمس الأمواج، ويبدو هذا\nالمنظر جميلاً بلا كلمات.",
+        "en": "In the evening, I go with my father to the water.\nWe stand to watch the large ships as they head back out to the open sea. The\nsun's light covers the waves, and this view looks beautiful beyond words. ===\nEND OF STORY 23 ==="
       }
     ]
   },
   {
     "id": "arabic-elementary-24",
     "level": "elementary",
-    "title": "Elementary 24: The Bus Stop",
+    "title": "Elementary 24: High Lands",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1089,24 +1089,24 @@
       270,
       273
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/24-elementary-the-bus-stop.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/24-elementary-high-lands.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، يذهب بافل إلى الشارع. هناك تذكرة وحافلة بالقرب منه. يقرأ بافل ببطء ويلاحظ كلمة جديدة: «وقت». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Pavel is on the street. There is ticket and bus nearby. Pavel reads slowly and notices a new word: time. The day feels good, and the language feels a little closer."
+        "ru": "قررنا وضع خطة للصعود إلى جبل مرتفع جداً. كان هذا الجبل\nيرتفع عالياً بالقرب من السحاب، وكان الوصول إلى قمته يتطلب منا قوة وعملاً\nجاداً.",
+        "en": "We decided to make a plan to climb a very high\nmountain. This mountain rose high near the clouds, and reaching its summit\nrequired strength and hard work from us."
       },
       {
         "heading": "Page 2",
-        "ru": "يكتب بافل كلمة «وقت» في الدفتر. ثم يفكر في موضوع «انتظار». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
-        "en": "Pavel writes the word time in a notebook. Then Pavel thinks about waiting. The place is quiet, so Pavel reads the sentence again and says it softly."
+        "ru": "عندما وصلنا إلى القمة المرتفعة، كانت الرياح باردة جداً. لكن\nالمنظر للأرض من هناك كان رائعاً؛ بدت البيوت والأنهار كنقاط صغيرة. شعرنا بالفخر\nبقوتنا الذاتية.",
+        "en": "When we reached the high summit, the wind was very\ncold. But the view of the earth from there was wonderful; houses and rivers\nlooked like small points. We felt proud of our own strength."
       }
     ]
   },
   {
     "id": "arabic-elementary-25",
     "level": "elementary",
-    "title": "Elementary 25: The Small Market",
+    "title": "Elementary 25: Trying Again",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1141,24 +1141,24 @@
       285,
       288
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/25-elementary-the-small-market.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/25-elementary-trying-again.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب أولغا إلى السوق. هناك فاكهة وحقيبة بالقرب منه. تقرأ أولغا ببطء وتلاحظ كلمة جديدة: «مال». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Olga is at the market. There is fruit and bag nearby. Olga reads slowly and notices a new word: money. The day feels good, and the language feels a little closer."
+        "ru": "حاولت فتاة صغيرة صنع حيوان جميل من الورق الملون. لكن\nمحاولتها الأولى لم تنجح، وتمزق الورق. شعرت بالحزن الشديد وأرادت التوقف عن\nالعمل تماماً.",
+        "en": "A young girl tried to make a beautiful animal out\nof colored paper. But her first attempt did not succeed, and the paper tore. She\nfelt very sad and wanted to stop the work completely."
       },
       {
         "heading": "Page 2",
-        "ru": "تكتب أولغا كلمة «مال» في الدفتر. ثم تفكر في موضوع «سوق». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
-        "en": "Olga writes the word money in a notebook. Then Olga thinks about market. The place is quiet, so Olga reads the sentence again and says it softly."
+        "ru": "اقتربت منها أمها وقالت: \"حاولي مرة أخرى واجعلي حركة يدك\nأبطأ\". أخذت الفتاة ورقة جديدة ونظيفة واستطاعت صنع شكل ممتاز. ابتسمت وشعرت\nبالفرح والنجاح.",
+        "en": "Her mother came near her and said: \"Try again and\nmake your hand movement slower.\" The girl took a new, clean sheet of paper and\nwas able to make an excellent shape. She smiled and felt joy and success. ===\nEND OF STORY 25 ==="
       }
     ]
   },
   {
     "id": "arabic-elementary-26",
     "level": "elementary",
-    "title": "Elementary 26: The First Conversation",
+    "title": "Elementary 26: The World of Words",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1193,24 +1193,24 @@
       300,
       303
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/26-elementary-the-first-conversation.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/elementary/26-elementary-the-world-of-words.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، يذهب ديما إلى المقهى. هناك هاتف وصديق بالقرب منه. يقرأ ديما ببطء ويلاحظ كلمة جديدة: «جملة». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Dima is in the cafe. There is phone and friend nearby. Dima reads slowly and notices a new word: sentence. The day feels good, and the language feels a little closer."
+        "ru": "تفتح الكلمات لنا طرقاً جديدة وتغير فهمنا للحياة كلياً. وفي\nكل يوم، أدرس معاني الكلمات الجديدة وأكتبها في دفتري لكي أتذكرها دائماً دون\nنسيان.",
+        "en": "Words open new paths for us and change our\nunderstanding of life entirely. Every day, I study the meanings of new words and\nwrite them in my notebook so that I always remember them without forgetting."
       },
       {
         "heading": "Page 2",
-        "ru": "يكتب ديما كلمة «جملة» في الدفتر. ثم يفكر في موضوع «حديث». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
-        "en": "Dima writes the word sentence in a notebook. Then Dima thinks about talk. The place is quiet, so Dima reads the sentence again and says it softly."
+        "ru": "تساعد قراءة الكتب الإنسان في بناء عالمه الداخلي الخاص به.\nومن خلال القراءة الكثيرة، نبدأ في فهم الآخرين بشكل أفضل ونصبح أكثر عطفاً\nولطفاً مع الجميع.",
+        "en": "Reading books helps a person build their own inner\nworld. Through reading a lot, we begin to understand others better and become\nmore compassionate and kind to everyone."
       }
     ]
   },
   {
     "id": "arabic-intermediate-27",
     "level": "intermediate",
-    "title": "Intermediate 27: The Lost Note",
+    "title": "Intermediate 27: The Old Clock",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1254,29 +1254,29 @@
       315,
       318
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/27-intermediate-the-lost-note.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/27-intermediate-the-old-clock.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب كاتيا إلى المكتبة. هناك ملاحظة وخريطة بالقرب منه. تقرأ كاتيا ببطء وتلاحظ كلمة جديدة: «مكان». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Katya is in the library. There is note and map nearby. Katya reads slowly and notices a new word: place. The day feels good, and the language feels a little closer."
+        "ru": "في أحد أيام السبت، قرر ماجد تنظيف علية منزله القديمة. كان\nهناك الكثير من الصناديق والأثاث المكسور. وفي زاوية الغرفة، لاحظ ساعة خشبية\nقديمة كبيرة. كانت تبدو وكأنها لم تعمل منذ سنوات طويلة، ومغطاة بالغبار.",
+        "en": "On a Saturday, Majid decided to clean the old attic\nof his house. There were many old boxes and broken furniture. In the corner of\nthe room, he noticed a large, antique wooden clock. It looked as if it had not\nworked for many years and was covered in dust."
       },
       {
         "heading": "Page 2",
-        "ru": "تكتب كاتيا كلمة «مكان» في الدفتر. ثم تفكر في موضوع «بحث». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
-        "en": "Katya writes the word place in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
+        "ru": "فتح ماجد الباب الزجاجي للساعة وبدأ يفحصها من الداخل. وخلف\nالبندول الثقيل، وجد مفتاحاً نحاسياً صغيراً. أخذه في يده وحاول إدخاله في فتحة\nصغيرة على جانب الساعة. تطابق المفتاح تماماً وبسهولة.",
+        "en": "Majid opened the clock's glass door and began\nexamining it from the inside. Behind the heavy pendulum, he found a small brass\nkey. He took it in his hand and tried inserting it into a small hole on the\nside. The key fit perfectly and easily."
       },
       {
         "heading": "Page 3",
-        "ru": "تظهر مشكلة صغيرة، لكن كاتيا تستخدم الكلمات الجديدة. تنظر إلى ملاحظة، ثم إلى خريطة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
-        "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the note, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
+        "ru": "أدار المفتاح ببطء، وبدأت الساعة تصدر صوت تكتكة مألوفاً.\nتحركت العقارب في دائرة، وسرعان ما رن جرس جميل في أرجاء المنزل. كان هذا الصوت\nهو نفسه الذي كان جده يحب سماعه قبل سنوات طويلة. شعر ماجد بالدفء والسرور.",
+        "en": "He turned the key slowly, and the clock began to\nmake a familiar ticking sound. The hands moved in a circle, and soon a beautiful\nchime rang throughout the house. This sound was the same one his grandfather\nloved listening to many years ago. Majid felt warm and joyful. === END OF\nSTORY 27 ==="
       }
     ]
   },
   {
     "id": "arabic-intermediate-28",
     "level": "intermediate",
-    "title": "Intermediate 28: A Meeting at Noon",
+    "title": "Intermediate 28: The Quiet Forest",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1320,29 +1320,29 @@
       339,
       342
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/28-intermediate-a-meeting-at-noon.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/28-intermediate-the-quiet-forest.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، يذهب ساشا إلى الجامعة. هناك ساعة ورسالة بالقرب منه. يقرأ ساشا ببطء ويلاحظ كلمة جديدة: «ظهر». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Sasha is at the university. There is clock and letter nearby. Sasha reads slowly and notices a new word: noon. The day feels good, and the language feels a little closer."
+        "ru": "كانت مريم تسير في غابة هادئة، حيث لم يكن يُسمع سوى أصوات\nالطيور البعيدة. كانت الأشجار عالية جداً، وضوء الشمس يمر بالكاد بين الأغصان\nالخضراء. وتحت قدميها كان هناك بساط من الطحالب الخضراء الناعمة.",
+        "en": "Maryam was walking through a quiet forest where\nonly the distant voices of birds were heard. The trees were very tall, and the\nlight of the sun barely passed through the green branches. Underfoot lay a\ncarpet of soft green moss."
       },
       {
         "heading": "Page 2",
-        "ru": "يكتب ساشا كلمة «ظهر» في الدفتر. ثم يفكر في موضوع «لقاء». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
-        "en": "Sasha writes the word noon in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
+        "ru": "مشيت مريم إلى عمق أكبر وفجأة رأت بحيرة صغيرة وجميلة. كان\nالماء فيها صافياً كأنه مرآة، وتنعكس عليه السماء الصافية والغيوم البيضاء.\nوبالقرب منها كانت تقف بعض الغزلان وهي تشرب الماء بهدوء ونظرت إليها مريم\nبصمت.",
+        "en": "Maryam walked deeper and suddenly saw a small,\nbeautiful lake. The water in it was clean as a mirror, reflecting the clear sky\nand white clouds. Nearby stood several deer drinking water quietly, and Maryam\nwatched them in silence."
       },
       {
         "heading": "Page 3",
-        "ru": "تظهر مشكلة صغيرة، لكن ساشا يستخدم الكلمات الجديدة. ينظر إلى ساعة، ثم إلى رسالة، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
-        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the clock, looks at the letter, and makes a simple plan. By the end, Sasha can say one clear sentence."
+        "ru": "جلست مريم على صخرة جافة بالقرب من الماء وفتحت دفترها. قررت\nكتابة هذه القصة ورسم البحيرة والغزلان. ستبقى هذه الذكرى الدافئة والجميلة\nلرحلتها في الغابة معها لوقت طويل جداً في حياتها.",
+        "en": "Maryam sat on a dry rock near the water and opened\nher notebook. She decided to write down this story and draw the lake and the\ndeer. This warm and beautiful memory of her trip in the forest will stay with\nher for a very long time in her life."
       }
     ]
   },
   {
     "id": "arabic-intermediate-29",
     "level": "intermediate",
-    "title": "Intermediate 29: The Old Map",
+    "title": "Intermediate 29: The City by the Sea",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1386,29 +1386,29 @@
       363,
       366
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/29-intermediate-the-old-map.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/29-intermediate-the-city-by-the-sea.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، يذهب نيكولاي إلى المتحف. هناك خريطة وشارع بالقرب منه. يقرأ نيكولاي ببطء ويلاحظ كلمة جديدة: «مدينة». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Nikolay is in the museum. There is map and street nearby. Nikolay reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
+        "ru": "كان عادل يعيش في مدينة جميلة تقع على شاطئ البحر الأزرق. وفي\nكل صيف، كان يقام هناك مهرجان كبير. تُعلق الأعلام الملونة في الميناء، ويبني الناس\nأكشاكاً خشبية لبيع الطعام. ومع اقتراب المساء، تجمّع الكثير من الناس السعداء.",
+        "en": "Adel lived in a beautiful city located on the shore\nof the blue sea. Every summer, a big festival was organized there. Colorful\nflags were hung in the port, and people built wooden stalls to sell food. As\nevening approached, many happy people gathered."
       },
       {
         "heading": "Page 2",
-        "ru": "يكتب نيكولاي كلمة «مدينة» في الدفتر. ثم يفكر في موضوع «تاريخ». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
-        "en": "Nikolay writes the word city in a notebook. Then Nikolay thinks about history. The place is quiet, so Nikolay reads the sentence again and says it softly."
+        "ru": "التقى عادل في الميناء ببحار عجوز قضى حياته في البحر. أخبره\nالعجوز عن رحلاته الطويلة في محيطات الأرض، وعن العواصف القوية والأسماك الضخمة.\nاستمع الولد إليه باهتمام كبير وحلم بأن يصبح بحاراً حقيقياً في المستقبل.",
+        "en": "Adel met an old sailor at the port who spent his\nlife at sea. The old man told him about his long voyages across the earth's\noceans, about strong storms and huge fish. The boy listened to him with great\ninterest and dreamed of becoming a real sailor in the future."
       },
       {
         "heading": "Page 3",
-        "ru": "تظهر مشكلة صغيرة، لكن نيكولاي يستخدم الكلمات الجديدة. ينظر إلى خريطة، ثم إلى شارع، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
-        "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the map, looks at the street, and makes a simple plan. By the end, Nikolay can say one clear sentence."
+        "ru": "عندما حل الظلام، بدأت الألعاب النارية الملونة تضيء السماء.\nكانت الأضواء تطير عالياً في الهواء ثم تسقط في ماء البحر لترسم لوحة رائعة. كانت\nالمدينة كلها تضيء بسعادة، وشعر عادل بالفخر بمدينته الساحلية الرائعة.",
+        "en": "When darkness fell, colorful fireworks began to\nlight up the sky. The lights flew high into the air and then fell into the sea\nwater to paint a wonderful picture. The whole city glowed with happiness, and\nAdel felt proud of his wonderful coastal city."
       }
     ]
   },
   {
     "id": "arabic-intermediate-30",
     "level": "intermediate",
-    "title": "Intermediate 30: The Rainy Lesson",
+    "title": "Intermediate 30: The Creative Lesson",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1452,29 +1452,29 @@
       387,
       390
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/30-intermediate-the-rainy-lesson.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/30-intermediate-the-creative-lesson.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب إيرينا إلى المدرسة. هناك نافذة ومطر بالقرب منه. تقرأ إيرينا ببطء وتلاحظ كلمة جديدة: «طقس». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Irina is at school. There is window and rain nearby. Irina reads slowly and notices a new word: weather. The day feels good, and the language feels a little closer."
+        "ru": "في المدرسة، أعطى المعلم الأطفال مهمة جديدة في حصة العلوم.\nكان عليهم التقسيم إلى مجموعات وبناء نموذج لـ \"مدينة المستقبل\". جلس أربعة\nأصدقاء معاً وبدأوا يفكرون في التقنيات الصديقة للبيئة.",
+        "en": "At school, the teacher gave the children a new task\nin science class. They had to divide into groups and build a model of a \"city of\nthe future.\" Four friends sat together and began thinking about eco-friendly\ntechnologies."
       },
       {
         "heading": "Page 2",
-        "ru": "تكتب إيرينا كلمة «طقس» في الدفتر. ثم تفكر في موضوع «دراسة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
-        "en": "Irina writes the word weather in a notebook. Then Irina thinks about study. The place is quiet, so Irina reads the sentence again and says it softly."
+        "ru": "كان لديهم الكثير من الأفكار الرائعة والمفيدة. قرروا وضع\nخلايا شمسية على أسطح كل المنازل، ونظام لجمع مياه الأمطار من أجل سقاية\nالنباتات. استخدموا أشياء بسيطة مثل الورق والكرتون بأيديهم.",
+        "en": "They had many great and useful ideas. They decided\nto put solar panels on the roofs of all houses, and a system to collect\nrainwater to water the plants. They used simple things like paper and cardboard\nwith their hands."
       },
       {
         "heading": "Page 3",
-        "ru": "تظهر مشكلة صغيرة، لكن إيرينا تستخدم الكلمات الجديدة. تنظر إلى نافذة، ثم إلى مطر، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
-        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the window, looks at the rain, and makes a simple plan. By the end, Irina can say one clear sentence."
+        "ru": "في اليوم التالي، عرضت كل المجموعات نماذجها الرائعة. مدح\nالمعلم الطلاب على جهدهم الكبير وعملهم الجاد. فهم الأصدقاء أهمية العمل معاً\nومساعدة بعضهم البعض من أجل تحقيق هدف مفيد للجميع.",
+        "en": "The next day, all groups displayed their wonderful\nmodels. The teacher praised the students for their great effort and hard work.\nThe friends understood the importance of working together and helping one\nanother to achieve a useful goal for everyone."
       }
     ]
   },
   {
     "id": "arabic-intermediate-31",
     "level": "intermediate",
-    "title": "Intermediate 31: The Museum Question",
+    "title": "Intermediate 31: The Mountain Wind",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1518,29 +1518,29 @@
       411,
       414
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/31-intermediate-the-museum-question.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/31-intermediate-the-mountain-wind.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، يذهب بافل إلى المتحف. هناك صورة ودفتر بالقرب منه. يقرأ بافل ببطء ويلاحظ كلمة جديدة: «سؤال». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Pavel is in the museum. There is picture and notebook nearby. Pavel reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
+        "ru": "في الصباح الباكر، بدأ طارق الصعود في طريق ضيق نحو الجبل\nالمرتفع. كانت الرياح تهب بقوة وبرودة، لكن حركته السريعة جعلت جسده يشعر\nبالدفء. كانت هناك زهور برية جميلة تظهر على طول الطريق وتسر عينه.",
+        "en": "Early in the morning, Tariq began climbing a narrow\npath towards the high mountain. The wind blew strongly and coldly, but his fast\nmovement kept his body warm. There were beautiful wild flowers appearing along\nthe path, pleasing his eye."
       },
       {
         "heading": "Page 2",
-        "ru": "يكتب بافل كلمة «سؤال» في الدفتر. ثم يفكر في موضوع «جواب». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
-        "en": "Pavel writes the word question in a notebook. Then Pavel thinks about answer. The place is quiet, so Pavel reads the sentence again and says it softly."
+        "ru": "في منتصف النهار، أصبحت السماء مظلمة فجأة وبدأ المطر يهطل\nبغزارة. ولحسن الحظ، كان هناك كوخ صغير مبني من الحجر أمامه مباشرة. ركض طارق\nبسرعة إلى الداخل ليحتمي من العاصفة ويشرب الشاي الدافئ.",
+        "en": "At noon, the sky suddenly turned dark and heavy\nrain began to fall. Fortunately, there was a small cabin built of stone right in\nfront of him. Tariq ran quickly inside to take shelter from the storm and drink\nwarm tea."
       },
       {
         "heading": "Page 3",
-        "ru": "تظهر مشكلة صغيرة، لكن بافل يستخدم الكلمات الجديدة. ينظر إلى صورة، ثم إلى دفتر، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
-        "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the picture, looks at the notebook, and makes a simple plan. By the end, Pavel can say one clear sentence."
+        "ru": "بعد ساعة، توقف المطر وظهرت الشمس المشرقة مجدداً في السماء.\nخرج طارق من الكوخ ووصل إلى قمة الجبل. كانت هناك وادٍ أخضر كبير ممتد بالأسفل.\nأخذت الرياح القوية كل تعبه وشعر بفرحة حقيقية.",
+        "en": "After an hour, the rain stopped and the bright sun\nappeared again in the sky. Tariq left the cabin and reached the top of the\nmountain. There was a large green valley stretching out below. The strong wind\ncarried away all his fatigue, and he felt true joy."
       }
     ]
   },
   {
     "id": "arabic-intermediate-32",
     "level": "intermediate",
-    "title": "Intermediate 32: The Train Delay",
+    "title": "Intermediate 32: The Grandfather's Map",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1584,29 +1584,29 @@
       435,
       438
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/32-intermediate-the-train-delay.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/32-intermediate-the-grandfathers-map.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب ماريا إلى المحطة. هناك تذكرة وساعة بالقرب منه. تقرأ ماريا ببطء وتلاحظ كلمة جديدة: «ينتظر». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Maria is at the station. There is ticket and clock nearby. Maria reads slowly and notices a new word: wait. The day feels good, and the language feels a little closer."
+        "ru": "كان سمير يبحث عن كتاب في غرفة مكتب جده القديمة. وعندما فتح\nدرجاً قديماً من أدراج المكتبة، وجد في قاعه ورقة مطوية. كانت خريطة قديمة للغابة\nالقريبة رسمها جده بيده عندما كان طفلاً صغيراً.",
+        "en": "Samir was looking for a book in his grandfather's\nold study room. When he opened an old drawer of the desk, he found a folded\npaper at the bottom. It was an old map of the nearby forest drawn by his\ngrandfather when he was a young child."
       },
       {
         "heading": "Page 2",
-        "ru": "تكتب ماريا كلمة «ينتظر» في الدفتر. ثم تفكر في موضوع «سفر». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
-        "en": "Maria writes the word wait in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
+        "ru": "قرر سمير وصديقه الذهاب إلى الغابة باستخدام هذه الخريطة.\nاستخدموا الأشجار القديمة المميزة كعلامات للطريق وساروا في عمق أكبر. وسرعان\nما وجدوا بئراً حجرية قديمة مغطاة بالعشب الأخضر، تماماً كما في الخريطة.",
+        "en": "Samir and his friend decided to go to the forest\nusing this map. They used old, unique trees as landmarks and walked deeper into\nthe forest. Soon they found an old stone well covered with green grass, exactly\nlike on the map."
       },
       {
         "heading": "Page 3",
-        "ru": "تظهر مشكلة صغيرة، لكن ماريا تستخدم الكلمات الجديدة. تنظر إلى تذكرة، ثم إلى ساعة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
-        "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the clock, and makes a simple plan. By the end, Maria can say one clear sentence."
+        "ru": "نظر الولدان داخل البئر ووجدا صندوقاً بلاستيكياً صغيراً. في\nالداخل كانت عملة معدنية قديمة ورسالة صغيرة تحمل اسم جده عندما كان طفلاً. شعر\nالولدان بسعادة غامرة وكأنهما في مغامرة تاريخية حقيقية.",
+        "en": "The two boys looked inside the well and found a\nsmall plastic box. Inside was an old coin and a small note with their\ngrandfather's name when he was a child. The boys felt immense joy as if they\nwere in a real historical adventure."
       }
     ]
   },
   {
     "id": "arabic-intermediate-33",
     "level": "intermediate",
-    "title": "Intermediate 33: Music in the Cafe",
+    "title": "Intermediate 33: The Painting Class",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1650,29 +1650,29 @@
       459,
       462
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/33-intermediate-music-in-the-cafe.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/33-intermediate-the-painting-class.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب أولغا إلى المقهى. هناك موسيقى وشاي بالقرب منه. تقرأ أولغا ببطء وتلاحظ كلمة جديدة: «أغنية». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Olga is in the cafe. There is music and tea nearby. Olga reads slowly and notices a new word: song. The day feels good, and the language feels a little closer."
+        "ru": "في كل سبت، كانت ليلى تذهب إلى دروس الرسم. اليوم كان عليهم\nرسم منظر النهر والسماء من نافذة الصف الكبيرة. جهزت لوحتها ووضعت ألواناً مائية\nزاهية على الطاولة. كانت متشوقة جداً لبدء العمل والنشاط.",
+        "en": "Every Saturday, Layla went to painting class. Today\nthey had to paint the view of the river and sky from the large classroom window.\nShe prepared her canvas and put bright watercolors on the table. She was very\nexcited to start her work and activity."
       },
       {
         "heading": "Page 2",
-        "ru": "تكتب أولغا كلمة «أغنية» في الدفتر. ثم تفكر في موضوع «ذاكرة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
-        "en": "Olga writes the word song in a notebook. Then Olga thinks about memory. The place is quiet, so Olga reads the sentence again and says it softly."
+        "ru": "بعد ساعة، بدأت السماء في الخارج تغير لونها ببطء إلى اللون\nالبرتقالي الجميل. وظهر انعكاس رائع لأشعة الشمس فوق ماء النهر. خلطت ليلى\nالألوان الحمراء والصفراء بحذر على لوحتها لتنقل هذا الضوء الدافئ والجميل.",
+        "en": "An hour later, the sky outside began to slowly\nchange its color to a beautiful orange. A wonderful reflection of the sun's rays\nappeared on the river water. Layla carefully mixed red and yellow colors on her\ncanvas to convey this warm and beautiful light."
       },
       {
         "heading": "Page 3",
-        "ru": "تظهر مشكلة صغيرة، لكن أولغا تستخدم الكلمات الجديدة. تنظر إلى موسيقى، ثم إلى شاي، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
-        "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the music, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
+        "ru": "في نهاية الدرس، عُلقت كل اللوحات على الجدار. وعلى الرغم من\nأن الجميع رسموا نفس المنظر من النافذة، كانت لكل لوحة شخصيتها وجمالها الفريد.\nفهمت ليلى أن كل إنسان يرى العالم بطريقته الخاصة والجميلة.",
+        "en": "At the end of the lesson, all paintings were hung\non the wall. Even though everyone painted the same view from the window, each\npainting had its own unique personality and beauty. Layla understood that every\nperson sees the world in their own special and beautiful way. === END OF\nSTORY 33 ==="
       }
     ]
   },
   {
     "id": "arabic-intermediate-34",
     "level": "intermediate",
-    "title": "Intermediate 34: A Letter from a Friend",
+    "title": "Intermediate 34: The Lost Key",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1716,29 +1716,29 @@
       483,
       486
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/34-intermediate-a-letter-from-a-friend.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/34-intermediate-the-lost-key.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، يذهب ديما إلى البيت. هناك رسالة وهاتف بالقرب منه. يقرأ ديما ببطء ويلاحظ كلمة جديدة: «صديق». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Dima is at home. There is letter and phone nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
+        "ru": "يوم الأحد، كانت ياسمين تلعب مع أخيها الصغير في الحديقة\nالعامة. وضعت ياسمين مفتاح مكتبها الصغير في جيب سترتها. لكن خلال اللعب\nوالجري على العشب الأخضر، سقط المفتاح وحزنت الفتاة كثيراً.",
+        "en": "On Sunday, Yasmin was playing with her younger\nbrother in the public park. Yasmin put her small desk key in her jacket pocket.\nBut during playing and running on the green grass, the key fell out, and the\ngirl was very sad."
       },
       {
         "heading": "Page 2",
-        "ru": "يكتب ديما كلمة «صديق» في الدفتر. ثم يفكر في موضوع «دعوة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
-        "en": "Dima writes the word friend in a notebook. Then Dima thinks about invitation. The place is quiet, so Dima reads the sentence again and says it softly."
+        "ru": "جاء وقت المساء، وأصبح الجو مظلماً بعض الشيء في الحديقة.\nأحضر شقيقها مصباحاً يدوياً صغيراً ليساعدها في البحث. مشى الاثنان معاً بالقرب\nمن الأشجار الكبيرة ووجها الضوء نحو الأرض لمراقبة العشب بدقة.",
+        "en": "Evening arrived, and it became a bit dark in the\npark. Her brother brought a small flashlight to help her search. The two walked\ntogether near the large trees and pointed the light towards the ground to\nexamine the grass closely."
       },
       {
         "heading": "Page 3",
-        "ru": "تظهر مشكلة صغيرة، لكن ديما يستخدم الكلمات الجديدة. ينظر إلى رسالة، ثم إلى هاتف، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
-        "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the letter, looks at the phone, and makes a simple plan. By the end, Dima can say one clear sentence."
+        "ru": "بعد قليل، لاحظ شقيقها لمعاناً معدنياً تحت صخرة رمادية\nصغيرة. كان هذا هو المفتاح المفقود! فرحت ياسمين كثيراً وشكرت شقيقها بامتنان.\nوعندما عادوا إلى المنزل، استطاعت فتح درج مكتبها الصغير بنجاح.",
+        "en": "After a short while, her brother noticed a metallic\nshine under a small grey stone. It was the lost key! Yasmin was very happy and\nthanked her brother with gratitude. When they returned home, she was able to\nopen her small desk drawer successfully."
       }
     ]
   },
   {
     "id": "arabic-intermediate-35",
     "level": "intermediate",
-    "title": "Intermediate 35: The School Project",
+    "title": "Intermediate 35: The River Adventure",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1781,29 +1781,29 @@
       507,
       510
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/35-intermediate-the-school-project.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/35-intermediate-the-river-adventure.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب ماشا إلى المدرسة. هناك ورقة ومعلم بالقرب منه. تقرأ ماشا ببطء وتلاحظ كلمة جديدة: «مشروع». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Masha is at school. There is paper and teacher nearby. Masha reads slowly and notices a new word: project. The day feels good, and the language feels a little closer."
+        "ru": "صنع يوسف وصديقه قاربًا خشبيًا جميلاً في حصة الأشغال اليدوية\nبالمدرسة. وقررا إطلاقه في رحلة مائية على طول النهر النظيف الموجود بالقرب من\nمنزلهما لمعرفة كيفية حركته وتوازنه على الماء.",
+        "en": "Youssef and his friend made a beautiful wooden boat\nin their school crafts class. They decided to launch it on a water voyage along\nthe clean river located near their house to see its movement and balance on the\nwater."
       },
       {
         "heading": "Page 2",
-        "ru": "تكتب ماشا كلمة «مشروع» في الدفتر. ثم تفكر في موضوع «مجموعة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
-        "en": "Masha writes the word project in a notebook. Then Masha thinks about group. The place is quiet, so Masha reads the sentence again and says it softly."
+        "ru": "كان مجرى النهر هادئاً، لكن في طريقه كانت توجد بعض الأغصان\nالمتساقطة والحجارة الكبيرة. جرى الولدان على طول الشاطئ وكانا يشعران بالقلق\nخوفاً من أن يصطدم قاربهما الصغير بأي من هذه الحواجز المائية.",
+        "en": "The river flow was calm, but along its path there\nwere some fallen branches and big stones. The two boys ran along the bank and\nfelt anxious, fearing that their small boat might collide with any of these\nwater obstacles."
       },
       {
         "heading": "Page 3",
-        "ru": "تظهر مشكلة صغيرة، لكن ماشا تستخدم الكلمات الجديدة. تنظر إلى ورقة، ثم إلى معلم، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
-        "en": "A small problem appears, but Masha uses the new words to understand it. Masha checks the paper, looks at the teacher, and makes a simple plan. By the end, Masha can say one clear sentence."
+        "ru": "في نهاية النهر، أمسك يوسف بالقارب بحذر شديد لئلا يبتل. كان\nالقارب سليماً تماماً ولم يصب بأي ضرر. عاد الصديقان إلى المنزل ودونا بالتفصيل في\nدفتر الملاحظات نتائجهما حول سرعة تدفق مياه النهر.",
+        "en": "At the end of the river, Youssef caught the boat\nvery carefully so as not to get wet. The boat was completely intact and did not\nsuffer any damage. The two friends returned home and recorded their results\nregarding the speed of the river water flow in detail in their notebook. === END\nOF STORY 35 ==="
       }
     ]
   },
   {
     "id": "arabic-intermediate-36",
     "level": "intermediate",
-    "title": "Intermediate 36: The City Walk",
+    "title": "Intermediate 36: The Starlit Sky",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1846,29 +1846,29 @@
       530,
       533
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/36-intermediate-the-city-walk.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/36-intermediate-the-starlit-sky.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب آنا إلى المدينة. هناك شارع ونافذة بالقرب منه. تقرأ آنا ببطء وتلاحظ كلمة جديدة: «نزهة». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Anna is in the city. There is street and window nearby. Anna reads slowly and notices a new word: walk. The day feels good, and the language feels a little closer."
+        "ru": "في الصيف، ذهب كريم مع والديه في رحلة تخييم في الجبال\nالمرتفعة. كانت الليلة هادئة ومظلمة جداً لعدم وجود أي أضواء للمدينة حولهم.\nخرج كريم إلى الهواء النقي ورفع عينيه لمشاهدة السماء الرائعة.",
+        "en": "In the summer, Karim went with his parents on a\ncamping trip in the high mountains. The night was very quiet and dark because\nthere were no city lights around them. Karim went out into the fresh air and\nraised his eyes to watch the wonderful sky."
       },
       {
         "heading": "Page 2",
-        "ru": "تكتب آنا كلمة «نزهة» في الدفتر. ثم تفكر في موضوع «مكان». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
-        "en": "Anna writes the word walk in a notebook. Then Anna thinks about place. The place is quiet, so Anna reads the sentence again and says it softly."
+        "ru": "أخرج والد كريم من حقيبته كتاباً رائعاً عن المجموعات\nالنجمية. قام بتشغيل مصباح يدوي ضعيف، وبدأ وهو ينظر في الكتاب يوضح لابنه\nأسماء النجوم البراقة في السماء، ويشرح له أسمائها وقصصها القديمة.",
+        "en": "Karim's father took a wonderful book about\nconstellations from his bag. He turned on a dim flashlight and, looking at the\nbook, began to show his son the bright stars in the sky, explaining their names\nand ancient stories."
       },
       {
         "heading": "Page 3",
-        "ru": "تظهر مشكلة صغيرة، لكن آنا تستخدم الكلمات الجديدة. تنظر إلى شارع، ثم إلى نافذة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
-        "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the street, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
+        "ru": "فجأة، طار نجم ساطع بسرعة عبر السماء المظلمة، تاركاً خلفه\nخطاً مضيئاً وجميلاً. كان هذا شهاباً. تمكن كريم من تمني أمنية سريعة لقلبه\nبخصوص مستقبله وأحلامه. كانت هذه الليلة تجربة دافئة وجميلة بالنسبة له.",
+        "en": "Suddenly, a bright star flew quickly across the\ndark sky, leaving a glowing and beautiful line behind it. This was a shooting\nstar. Karim managed to quickly make a wish in his heart about his future and\ndreams. This night was a warm and beautiful experience for him. === END OF\nSTORY 36 ==="
       }
     ]
   },
   {
     "id": "arabic-intermediate-37",
     "level": "intermediate",
-    "title": "Intermediate 37: The Bookshop Door",
+    "title": "Intermediate 37: The Garden Project",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1911,29 +1911,29 @@
       553,
       556
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/37-intermediate-the-bookshop-door.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/37-intermediate-the-garden-project.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، يذهب إيفان إلى متجر الكتب. هناك باب وكتاب بالقرب منه. يقرأ إيفان ببطء ويلاحظ كلمة جديدة: «يفتح». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Ivan is in the bookshop. There is door and book nearby. Ivan reads slowly and notices a new word: open. The day feels good, and the language feels a little closer."
+        "ru": "في الربيع، قضى حازم وقتاً ممتعاً في مزرعة جدته الطيبة. قررت\nالجدة تعليمه كيفية زراعة الخضار والاهتمام بها بأيديهم. قام الاثنان بتجهيز الأرض\nفي الحديقة وزرعا بعض بذور الطماطم والخيار بحذر شديد.",
+        "en": "In spring, Hazem spent an enjoyable time at his\nkind grandmother's farm. The grandmother decided to teach him how to grow\nvegetables and care for them with their hands. The two prepared the soil in the\ngarden and planted some tomato and cucumber seeds very carefully."
       },
       {
         "heading": "Page 2",
-        "ru": "يكتب إيفان كلمة «يفتح» في الدفتر. ثم يفكر في موضوع «قراءة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
-        "en": "Ivan writes the word open in a notebook. Then Ivan thinks about reading. The place is quiet, so Ivan reads the sentence again and says it softly."
+        "ru": "كل يوم بعد انتهاء دروسه، كان حازم يسرع لمساعدة جدته وسقاية\nالنباتات بالماء البارد. وبعد أسبوعين، بدأت الأوراق الخضراء الصغيرة تظهر من\nالتربة الدافئة. شعر حازم بسعادة غامرة لرؤية ثمار جهدهم المشترك.",
+        "en": "Every day after his lessons ended, Hazem rushed to\nhelp his grandmother and water the plants with cold water. After two weeks,\nsmall green leaves began to appear from the warm soil. Hazem felt great\nhappiness to see the fruits of their joint effort."
       },
       {
         "heading": "Page 3",
-        "ru": "تظهر مشكلة صغيرة، لكن إيفان يستخدم الكلمات الجديدة. ينظر إلى باب، ثم إلى كتاب، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
-        "en": "A small problem appears, but Ivan uses the new words to understand it. Ivan checks the door, looks at the book, and makes a simple plan. By the end, Ivan can say one clear sentence."
+        "ru": "في الصيف، جنيا الكثير من الطماطم والخيار الطازج. أعدت الجدة\nوحازم طبق سلطة لذيذ من هذه الخضار الطازجة لوجبة العشاء. فهم الولد أن الطعام الذي\nيزرعه الإنسان بيديه يكون له دائماً المذاق الأطيب والأجمل.",
+        "en": "In summer, they harvested a lot of fresh tomatoes\nand cucumbers. His grandmother and Hazem prepared a delicious salad plate from\nthese fresh vegetables for dinner. The boy understood that food grown by one's\nown hands always has the finest and most beautiful taste."
       }
     ]
   },
   {
     "id": "arabic-intermediate-38",
     "level": "intermediate",
-    "title": "Intermediate 38: The Family Story",
+    "title": "Intermediate 38: The Old Lighthouse",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1976,29 +1976,29 @@
       576,
       579
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/38-intermediate-the-family-story.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/38-intermediate-the-old-lighthouse.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب لينا إلى البيت. هناك الأم وصورة بالقرب منه. تقرأ لينا ببطء وتلاحظ كلمة جديدة: «قصة». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Lena is at home. There is mother and photo nearby. Lena reads slowly and notices a new word: story. The day feels good, and the language feels a little closer."
+        "ru": "على جرف صخري مرتفع يقع على البحر الأزرق، كانت تقف منارة\nحجرية قديمة. في الوقت الحالي، لم تكن تعمل بسبب استخدام السفن للأنظمة الحديثة\nوالمتقدمة. قررت هند ووالدها الذهاب إلى هناك في رحلة ترفيهية يوم الأحد.",
+        "en": "On a high rocky cliff by the blue sea, an old stone\nlighthouse stood. At the present time, it did not work due to ships using modern\nand advanced systems. Hind and her father decided to go there on a leisure trip\non Sunday."
       },
       {
         "heading": "Page 2",
-        "ru": "تكتب لينا كلمة «قصة» في الدفتر. ثم تفكر في موضوع «عائلة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
-        "en": "Lena writes the word story in a notebook. Then Lena thinks about family. The place is quiet, so Lena reads the sentence again and says it softly."
+        "ru": "فتح الاثنان الباب الخشبي الثقيل ودخلا إلى المنارة. كان الجو\nفي الداخل بارداً، وكان هناك درج حجري طويل ملتف يقود إلى الأعلى. بدأت هند في\nالصعود بحذر شديد خطوة بخطوة وهي تمسك بيد والدها بقوة.",
+        "en": "The two opened the heavy wooden door and entered\nthe lighthouse. It was cool inside, and there was a long, spiral stone staircase\nleading upward. Hind began to climb carefully step by step, holding her father's\nhand tightly."
       },
       {
         "heading": "Page 3",
-        "ru": "تظهر مشكلة صغيرة، لكن لينا تستخدم الكلمات الجديدة. تنظر إلى الأم، ثم إلى صورة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
-        "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the mother, looks at the photo, and makes a simple plan. By the end, Lena can say one clear sentence."
+        "ru": "في الأعلى على الشرفة، كانت الرياح تهب بقوة. ظهر أمامهم منظر\nرائع للبحر الأزرق الواسع وأمواجه الكبيرة. فكرت هند في الأشخاص الطيبين الذين\nعاشوا هناك ذات يوم وكانوا يساعدون السفن ويحمون حياتها أثناء العواصف\nالشديدة.",
+        "en": "At the top on the balcony, the wind was blowing\nstrongly. A wonderful view of the vast blue sea and its large waves opened up\nbefore them. Hind thought of the kind people who once lived there and helped\nships and saved lives during severe storms."
       }
     ]
   },
   {
     "id": "arabic-intermediate-39",
     "level": "intermediate",
-    "title": "Intermediate 39: The Important Word",
+    "title": "Intermediate 39: The Science Fair",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -2041,29 +2041,29 @@
       599,
       602
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/39-intermediate-the-important-word.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/39-intermediate-the-science-fair.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، يذهب بافل إلى المكتبة. هناك قاموس وورقة بالقرب منه. يقرأ بافل ببطء ويلاحظ كلمة جديدة: «معنى». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Pavel is in the library. There is dictionary and paper nearby. Pavel reads slowly and notices a new word: meaning. The day feels good, and the language feels a little closer."
+        "ru": "في كل خريف، كان يقام في المدرسة معرض علمي كبير وجميل. قررت\nمجموعة مازن تجهيز مشروع متميز يتحدث عن الطاقة النظيفة والصديقة للبيئة. وقاموا\nببناء نموذج صغير يوضح عمل الخلايا الشمسية.",
+        "en": "Every autumn, a large and beautiful science fair\nwas held at the school. Mazen's group decided to prepare a distinct project\nabout clean and eco-friendly energy. They built a small model demonstrating how\nsolar panels work."
       },
       {
         "heading": "Page 2",
-        "ru": "يكتب بافل كلمة «معنى» في الدفتر. ثم يفكر في موضوع «لغة». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
-        "en": "Pavel writes the word meaning in a notebook. Then Pavel thinks about language. The place is quiet, so Pavel reads the sentence again and says it softly."
+        "ru": "في يوم المعرض، تجمع الكثير من المعلمين والأولياء في القاعة\nالكبيرة. وتوقف العديد منهم أمام مشروع مازن. كان الولد يشرح للضيوف ببساطة ووضوح\nتام كيف تتحول أشعة الشمس إلى طاقة تيار كهربائي مفيد.",
+        "en": "On the day of the exhibition, many teachers and\nparents gathered in the large hall. Many of them stopped in front of Mazen's\nproject. The boy explained to the guests simply and clearly how the sun's rays\ntransform into useful electric current energy."
       },
       {
         "heading": "Page 3",
-        "ru": "تظهر مشكلة صغيرة، لكن بافل يستخدم الكلمات الجديدة. ينظر إلى قاموس، ثم إلى ورقة، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
-        "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the dictionary, looks at the paper, and makes a simple plan. By the end, Pavel can say one clear sentence."
+        "ru": "في نهاية اليوم، قام الحكام بتقييم جميع المشاريع المعروضة.\nحصل مشروع مجموعة مازن على تقييم مرتفع جداً والمركز الأول بفضل فكرته المفيدة\nوالممتازة. شعر الأصدقاء بالفرح والسرور لنجاح عملهم الجماعي المشترك.",
+        "en": "At the end of the day, the judges evaluated all the\npresented projects. Mazen's group project received a very high rating and won\nfirst place thanks to its useful and excellent idea. The friends felt joy and\nhappiness at the success of their joint collective work."
       }
     ]
   },
   {
     "id": "arabic-intermediate-40",
     "level": "intermediate",
-    "title": "Intermediate 40: Closer Every Day",
+    "title": "Intermediate 40: The Sound of Music",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -2106,29 +2106,29 @@
       622,
       625
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/40-intermediate-closer-every-day.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/intermediate/40-intermediate-the-sound-of-music.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب إيرينا إلى الحديقة. هناك دفتر وشاي بالقرب منه. تقرأ إيرينا ببطء وتلاحظ كلمة جديدة: «أقرب». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Irina is in the park. There is notebook and tea nearby. Irina reads slowly and notices a new word: closer. The day feels good, and the language feels a little closer."
+        "ru": "جاءت سلمى مع والدتها الطيبة إلى قاعة الحفلات القديمة\nبالمدينة. اليوم كان هناك حفل موسيقي يعزف فيه عازف كمان مشهور. انطفأت\nالأضواء في القاعة المظلمة، وأضيئت شمعة دافئة على المسرح لتنير المكان.",
+        "en": "Salma came with her kind mother to the town's old\nconcert hall. Today, there was a musical concert in which a famous violinist was\nplaying. The lights went out in the dark hall, and a warm candle was lit on the\nstage to illuminate the place."
       },
       {
         "heading": "Page 2",
-        "ru": "تكتب إيرينا كلمة «أقرب» في الدفتر. ثم تفكر في موضوع «مراجعة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
-        "en": "Irina writes the word closer in a notebook. Then Irina thinks about review. The place is quiet, so Irina reads the sentence again and says it softly."
+        "ru": "عندما بدأ العزف، بدت ألحان الكمان دافئة وجميلة للغاية. كانت\nأصوات الموسيقى تتغير تارة ببطء وهدوء شديد، وتارة أخرى ترتفع بسرعة وقوة لتأخذ\nقلوب الجميع. شعرت سلمى بسعادة وراحة نفسية كبيرة مع الألحان.",
+        "en": "When the performance began, the violin melodies\nsounded extremely warm and beautiful. The sounds of the music changed at times\nslowly and quietly, and at other times rose quickly and strongly to capture\neveryone's hearts. Salma felt great happiness and mental comfort with the\nmelodies."
       },
       {
         "heading": "Page 3",
-        "ru": "تظهر مشكلة صغيرة، لكن إيرينا تستخدم الكلمات الجديدة. تنظر إلى دفتر، ثم إلى شاي، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
-        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the notebook, looks at the tea, and makes a simple plan. By the end, Irina can say one clear sentence."
+        "ru": "بعد الحفل، صفق الجميع بحرارة وقوة كبيرة. شعرت سلمى بإلهام\nكبير ورغبة حقيقية. وعندما عادت إلى المنزل، قررت إخراج بيانو ألعاب طفولتها\nالقديم لتجرب العزف مجدداً وسماع نغماته. ولد فيها حلم جديد اليوم.",
+        "en": "After the concert, everyone clapped warmly and with\ngreat strength. Salma felt highly inspired and had a genuine desire. When she\nreturned home, she decided to take out her old childhood toy piano to try\nplaying again and hearing its tones. A new dream was born in her today. === END\nOF STORY 40 ==="
       }
     ]
   },
   {
     "id": "arabic-advanced-41",
     "level": "advanced",
-    "title": "Advanced 41: The Long Walk Through the City",
+    "title": "Advanced 41: The Forest of Tomorrow",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2183,39 +2183,39 @@
       645,
       648
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/41-advanced-the-long-walk-through-the-city.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/41-advanced-the-forest-of-tomorrow.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب آنا إلى المدينة. هناك خريطة ونافذة بالقرب منه. تقرأ آنا ببطء وتلاحظ كلمة جديدة: «رحلة». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Anna is in the city. There is map and window nearby. Anna reads slowly and notices a new word: journey. The day feels good, and the language feels a little closer."
+        "ru": "في المجتمع الحديث، تتطور العلوم والتكنولوجيا بسرعة كبيرة.\nتصبح حياتنا مريحة، لكن الطبيعة الجميلة تعاني غالباً. وفي إحدى المدن الصغيرة،\nأصبح النهر متسخاً بسبب المصانع. قرر العالم الشاب فريد إصلاح هذه المشكلة\nالبيئية.",
+        "en": "In modern society, science and technology develop\nvery rapidly. Our lives become convenient, but beautiful nature often suffers.\nIn one small town, the river became dirty because of factories. The young\nscientist, Fred, decided to fix this environmental problem."
       },
       {
         "heading": "Page 2",
-        "ru": "تكتب آنا كلمة «رحلة» في الدفتر. ثم تفكر في موضوع «مدينة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
-        "en": "Anna writes the word journey in a notebook. Then Anna thinks about city. The place is quiet, so Anna reads the sentence again and says it softly."
+        "ru": "اقترح فريد بناء نظام جديد لتنقية المياه. لكن مدراء المصانع\nوبعض سكان المدينة كانوا ضد الفكرة. كانوا يعتقدون أن هذا مكلف للغاية وسوف يضر\nبالاقتصاد المحلي. لم يستسلم فريد واحتفظ بلغة الحوار المستمر.",
+        "en": "Fred proposed building a new water purification\nsystem. But the factory directors and some town residents were against the idea.\nThey believed that this was too expensive and would harm the local economy. Fred\ndid not give up and kept up the continuous dialogue."
       },
       {
         "heading": "Page 3",
-        "ru": "تظهر مشكلة صغيرة، لكن آنا تستخدم الكلمات الجديدة. تنظر إلى خريطة، ثم إلى نافذة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
-        "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the map, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
+        "ru": "بعد نقاشات طويلة، قرروا إجراء الاختبار الأول للآلة. وضع\nالعلماء الأجهزة عند النهر. لكن الاختبار فشل بسبب عطل مفاجئ في المحرك. تدفقت\nالمياه المتسخة مجدداً إلى النهر، وبدأ الناس يشعرون بالغضب الشديد.",
+        "en": "After long discussions, they decided to conduct the\nfirst test of the machine. The scientists placed the equipment near the river.\nBut the test failed due to a sudden engine breakdown. Dirty water flowed into\nthe river again, and people began to feel very angry."
       },
       {
         "heading": "Page 4",
-        "ru": "لاحقًا، تلتقي آنا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.",
-        "en": "Later, Anna meets another person and asks one careful question. The answer is simple, but it helps. Anna writes three more words and connects them to the story of the day."
+        "ru": "اعترف فريد بخطئه وبدأ يبحث عن سبب العطل بحرص. عمل طوال\nالليل لإصلاح الجهاز وجعله آمناً تماماً. رأى مدير المصنع عمله المخلص وجهده\nالكبير، وقرر أن يعطيه فرصة أخيرة وداعمة.",
+        "en": "Fred admitted his mistake and began carefully\nlooking for the cause of the breakdown. He worked all night to repair the device\nand make it completely safe. The factory director saw his sincere work and great\neffort, and decided to give him one last, supportive opportunity."
       },
       {
         "heading": "Page 5",
-        "ru": "في نهاية اليوم، تقرأ آنا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم آنا لأن التعلم صار ممكنًا وقريبًا.",
-        "en": "At the end of the day, Anna reads the whole page out loud. The words are not perfect yet, but they are familiar now. Anna smiles because learning feels possible and close."
+        "ru": "نجح الاختبار الثاني نجاحاً كبيراً. أصبحت مياه النهر نظيفة\nتماماً وصالحة للاستخدام. وبعد سنوات قليلة، عادت الأسماك إلى النهر. غدت المدينة\nنموذجاً متميزاً للانسجام التام بين التطور والاقتصاد وحماية الطبيعة الخضراء.",
+        "en": "The second test was a great success. The river\nwater became completely clean and fit for use. A few years later, fish returned\nto the river. The city became a distinct model of complete harmony between\ndevelopment, economy, and protecting green nature."
       }
     ]
   },
   {
     "id": "arabic-advanced-42",
     "level": "advanced",
-    "title": "Advanced 42: The Forgotten Invitation",
+    "title": "Advanced 42: The Ancient Map's Secret",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2270,39 +2270,39 @@
       680,
       683
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/42-advanced-the-forgotten-invitation.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/42-advanced-the-ancient-maps-secret.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، يذهب ساشا إلى الجامعة. هناك رسالة وهاتف بالقرب منه. يقرأ ساشا ببطء ويلاحظ كلمة جديدة: «دعوة». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Sasha is at the university. There is letter and phone nearby. Sasha reads slowly and notices a new word: invitation. The day feels good, and the language feels a little closer."
+        "ru": "كان المؤرخ الشاب شادي يعمل في المكتبة القديمة للمدينة. وبين\nالكتب القديمة، وجد خريطة ورقية صفراء ومميزة. كانت هذه الخريطة توضح موقعاً غامضاً\nفي الجبال لم يظهر على الخرائط الحديثة اليوم.",
+        "en": "The young historian Shady was working in the city's\nold library. Among the old books, he found a yellow, distinct paper map. This\nmap showed a mysterious location in the mountains that did not appear on modern\nmaps today."
       },
       {
         "heading": "Page 2",
-        "ru": "يكتب ساشا كلمة «دعوة» في الدفتر. ثم يفكر في موضوع «لقاء». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
-        "en": "Sasha writes the word invitation in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
+        "ru": "قرر شادي استكشاف هذا الموقع الغامض والمجهول. درس تاريخ\nالمنطقة جيداً وجهز كافة الأجهزة المناسبة لرحلته الطويلة والمثيرة. كان يعلم\nأن الطريق سيكون صعباً، لكن رغبته في كشف التاريخ قادته بثقة.",
+        "en": "Shady decided to explore this mysterious and\nunknown location. He studied the area's history well and prepared all the\nsuitable devices for his long and exciting trip. He knew the path would be\ndifficult, but his desire to uncover history led him confidently."
       },
       {
         "heading": "Page 3",
-        "ru": "تظهر مشكلة صغيرة، لكن ساشا يستخدم الكلمات الجديدة. ينظر إلى رسالة، ثم إلى هاتف، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
-        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the phone, and makes a simple plan. By the end, Sasha can say one clear sentence."
+        "ru": "كانت الجبال عالية جداً ومنحدرة بشكل خطير. وفي الطريق، بدأ\nمطر غزير يهطل وأصبح الجو بارداً للغاية. شعر شادي بالتعب، لكن إصراره على معرفة\nالحقيقة ساعده على مواصلة الحركة عبر الغابة الكثيفة.",
+        "en": "The mountains were very high and dangerously steep.\nOn the way, heavy rain began to fall, and it became extremely cold. Shady felt\ntired, but his insistence on knowing the truth helped him continue moving\nthrough the dense forest."
       },
       {
         "heading": "Page 4",
-        "ru": "لاحقًا، يلتقي ساشا شخصًا آخر ويسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. يكتب ثلاث كلمات أخرى ويربطها بقصة اليوم.",
-        "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
+        "ru": "عندما توقف المطر، وصل شادي إلى مكان يلتقي فيه نهران جميلان.\nكان هناك شلال رائع ومبهر. وخلف الماء، اكتشف مدخلاً مخفياً لكهف مظلم، حيث وجد\nصندوقاً حجرياً قديماً مغلقاً.",
+        "en": "When the rain stopped, Shady reached a place where\ntwo beautiful rivers meet. There was a wonderful and dazzling waterfall. Behind\nthe water, he discovered a hidden entrance to a dark cave, where he found a\nclosed, old stone box."
       },
       {
         "heading": "Page 5",
-        "ru": "في نهاية اليوم، يقرأ ساشا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. يبتسم ساشا لأن التعلم صار ممكنًا وقريبًا.",
-        "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
+        "ru": "فتح شادي الصندوق وعثر على أوراق قديمة. كانت تحتوي على تاريخ\nسكان تلك المنطقة المجهولين ومعارفهم الطبية والزراعية المفيدة. أحضر شادي هذا\nالاكتشاف العظيم إلى الجامعة ليعرض التاريخ المفقود على العالم كله.",
+        "en": "Shady opened the box and found old papers. They\ncontained the history of the unknown residents of that area and their useful\nmedical and agricultural knowledge. Shady brought this great discovery to the\nuniversity to display the lost history to the whole world."
       }
     ]
   },
   {
     "id": "arabic-advanced-43",
     "level": "advanced",
-    "title": "Advanced 43: The History Room",
+    "title": "Advanced 43: The Voice of the Wind",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2357,39 +2357,39 @@
       715,
       718
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/43-advanced-the-history-room.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/43-advanced-the-voice-of-the-wind.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، يذهب نيكولاي إلى المتحف. هناك كتاب وصورة بالقرب منه. يقرأ نيكولاي ببطء ويلاحظ كلمة جديدة: «تاريخ». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Nikolay is in the museum. There is book and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
+        "ru": "كان الراصد الجوي عمار يعمل في محطة الأرصاد في قمة الجبل.\nكان يسجل سرعة الرياح ودرجات الحرارة يومياً. وفي الآونة الأخيرة، بدأ الطقس في\nالجبال يتغير بسرعة غير عادية.",
+        "en": "The weather observer Ammar was working at the\nweather station at the top of the mountain. He recorded wind speed and\ntemperature daily. Recently, the weather in the mountains began to change with\nunusual speed."
       },
       {
         "heading": "Page 2",
-        "ru": "يكتب نيكولاي كلمة «تاريخ» في الدفتر. ثم يفكر في موضوع «ماضٍ». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
-        "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about past. The place is quiet, so Nikolay reads the sentence again and says it softly."
+        "ru": "فهم عمار من القراءات أن هناك عاصفة قوية وخطيرة تتجه نحو\nالقرية الصغيرة عند قاعدة الجبل. كان بحاجة إلى تحذير السكان بسرعة لحماية\nمنازلهم من الخطر والرياح.",
+        "en": "Ammar understood from the readings that a strong\nand dangerous storm was heading towards the small village at the base of the\nmountain. He needed to warn the residents quickly to protect their homes from\ndanger and wind."
       },
       {
         "heading": "Page 3",
-        "ru": "تظهر مشكلة صغيرة، لكن نيكولاي يستخدم الكلمات الجديدة. ينظر إلى كتاب، ثم إلى صورة، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
-        "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the book, looks at the picture, and makes a simple plan. By the end, Nikolay can say one clear sentence."
+        "ru": "نزل عمار بسرعة إلى القرية وأخبر الناس بالرياح القادمة. لم\nيصدق بعضهم الأجهزة في البداية، لكن البيانات العلمية الدقيقة أقنعتهم بالموافقة\nعلى الإخلاء المؤقت الفوري.",
+        "en": "Ammar went down quickly to the village and told the\npeople about the coming wind. Some did not believe the instruments at first, but\nthe accurate scientific data convinced them to agree to immediate temporary\nevacuation."
       },
       {
         "heading": "Page 4",
-        "ru": "لاحقًا، يلتقي نيكولاي شخصًا آخر ويسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. يكتب ثلاث كلمات أخرى ويربطها بقصة اليوم.",
-        "en": "Later, Nikolay meets another person and asks one careful question. The answer is simple, but it helps. Nikolay writes three more words and connects them to the story of the day."
+        "ru": "في الليل، بدأت عاصفة قوية جداً. كانت الرياح تكسر أغصان\nالأشجار الكبيرة بالقرب من البيوت. لكن بفضل عمل عمار السريع والمبكر، كان\nجميع السكان بسلام داخل ملجأ حجري متين.",
+        "en": "At night, a very strong storm began. The wind was\nbreaking large tree branches near the houses. But thanks to Ammar's quick and\nearly work, all the residents were safe inside a durable stone shelter."
       },
       {
         "heading": "Page 5",
-        "ru": "في نهاية اليوم، يقرأ نيكولاي الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. يبتسم نيكولاي لأن التعلم صار ممكنًا وقريبًا.",
-        "en": "At the end of the day, Nikolay reads the whole page out loud. The words are not perfect yet, but they are familiar now. Nikolay smiles because learning feels possible and close."
+        "ru": "في الصباح، تراجعت العاصفة وهدأت الرياح. تضررت القرية\nقليلاً، لكن أرواح الناس كانت آمنة وسليمة. شكر السكان الراصد الشاب بامتنان\nكبير وفهموا أهمية علمه وعمله الجاد.",
+        "en": "In the morning, the storm retreated and the wind\ncalmed. The village was slightly damaged, but people's lives were safe and\nsound. The residents thanked the young observer with great gratitude and\nunderstood the importance of his science and hard work."
       }
     ]
   },
   {
     "id": "arabic-advanced-44",
     "level": "advanced",
-    "title": "Advanced 44: The Quiet Train",
+    "title": "Advanced 44: The Deep Ocean",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2444,39 +2444,39 @@
       750,
       753
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/44-advanced-the-quiet-train.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/44-advanced-the-deep-ocean.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب ماريا إلى القطار. هناك تذكرة وشاي بالقرب منه. تقرأ ماريا ببطء وتلاحظ كلمة جديدة: «هدوء». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Maria is on the train. There is ticket and tea nearby. Maria reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
+        "ru": "قام عالم المحيطات طارق ببناء جهاز غوص جديد ومتقدم. كان يخطط\nللنزول إلى أعمق نقطة في البحر لدراسة طبيعة الحياة المجهولة في قاع المحيط الشاسع.",
+        "en": "The oceanographer Tariq built a new and advanced\ndiving device. He was planning to descend to the deepest point in the sea to\nstudy the nature of unknown life on the bottom of the vast ocean."
       },
       {
         "heading": "Page 2",
-        "ru": "تكتب ماريا كلمة «هدوء» في الدفتر. ثم تفكر في موضوع «سفر». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
-        "en": "Maria writes the word quiet in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
+        "ru": "على عمق عدة آلاف من الأمتار، كان هناك ظلام دامس وتام. لكن\nالمصابيح القوية والحديثة الملحقة بالجهاز أضاءت عالماً غامضاً من الرمال والصخور\nوالنباتات الغريبة.",
+        "en": "At a depth of several thousand meters, there was\npitch and total darkness. But the powerful and modern lamps attached to the\ndevice illuminated a mysterious world of sand, rocks, and strange plants."
       },
       {
         "heading": "Page 3",
-        "ru": "تظهر مشكلة صغيرة، لكن ماريا تستخدم الكلمات الجديدة. تنظر إلى تذكرة، ثم إلى شاي، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
-        "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the tea, and makes a simple plan. By the end, Maria can say one clear sentence."
+        "ru": "فجأة، رأى طارق كائناً حياً صغيراً ومضيئاً بشكل رائع. كان\nهذا نوعاً جديداً ومثيراً غير معروف للعلم من قبل. التقط صوراً واضحة لل غاية\nلهذا الكائن الجميل.",
+        "en": "Suddenly, Tariq saw a small and beautifully glowing\nliving creature. This was a exciting new species unknown to science before. He\ntook extremely clear pictures of this beautiful creature."
       },
       {
         "heading": "Page 4",
-        "ru": "لاحقًا، تلتقي ماريا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.",
-        "en": "Later, Maria meets another person and asks one careful question. The answer is simple, but it helps. Maria writes three more words and connects them to the story of the day."
+        "ru": "أثناء العمل، انطفأت الأجهزة فجأة لثانية واحدة. لم يشعر طارق\nبالخوف أو الذعر. كان يعرف هيكل وبناء الجهاز جيداً، وأصلح المشكلة الكهربائية\nبيديه بسرعة وهدوء.",
+        "en": "During the work, the instruments suddenly turned\noff for one second. Tariq did not feel fear or panic. He knew the structure and\nbuild of the device well, and fixed the electrical problem with his hands\nquickly and calmly."
       },
       {
         "heading": "Page 5",
-        "ru": "في نهاية اليوم، تقرأ ماريا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم ماريا لأن التعلم صار ممكنًا وقريبًا.",
-        "en": "At the end of the day, Maria reads the whole page out loud. The words are not perfect yet, but they are familiar now. Maria smiles because learning feels possible and close."
+        "ru": "عاد طارق إلى السطح وعرض صوره على علماء العالم. ساعد اكتشافه\nالرائع الناس على فهم أعماق المحيط بشكل أفضل ومعرفة أهمية حماية طبيعته وبيئته\nالمائية.",
+        "en": "Tariq returned to the surface and displayed his\npictures to the world's scientists. His wonderful discovery helped people better\nunderstand the ocean depths and know the importance of protecting its nature and\nmarine environment."
       }
     ]
   },
   {
     "id": "arabic-advanced-45",
     "level": "advanced",
-    "title": "Advanced 45: A Plan for Tomorrow",
+    "title": "Advanced 45: The Star Tracker",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2531,39 +2531,39 @@
       785,
       788
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/45-advanced-a-plan-for-tomorrow.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/45-advanced-the-star-tracker.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب لينا إلى البيت. هناك خريطة ودفتر بالقرب منه. تقرأ لينا ببطء وتلاحظ كلمة جديدة: «غد». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Lena is at home. There is map and notebook nearby. Lena reads slowly and notices a new word: tomorrow. The day feels good, and the language feels a little closer."
+        "ru": "كانت عالمة الفلك ليلى تنتظر ظهور مذنب نادر ومميز للغاية.\nيقترب هذا المذنب من الأرض مرة واحدة كل مئة عام فقط. كانت تريد التقاط صور\nعالية الجودة لذيله الساطع.",
+        "en": "The astronomer Layla was waiting for the appearance\nof a rare and very distinct comet. This comet approaches Earth only once every\nhundred years. She wanted to take high-quality pictures of its bright tail."
       },
       {
         "heading": "Page 2",
-        "ru": "تكتب لينا كلمة «غد» في الدفتر. ثم تفكر في موضوع «خطة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
-        "en": "Lena writes the word tomorrow in a notebook. Then Lena thinks about plan. The place is quiet, so Lena reads the sentence again and says it softly."
+        "ru": "نظمت ليلى مدرسة مسائية صغيرة وممتعة للأطفال المهتمين بالفلك\nعلى تلة مرتفعة خارج المدينة. جاء الكثير من الأطفال الصغار برفقة والديهم لمشاهدة\nالسماء الرائعة اليوم.",
+        "en": "Layla organized a small and fun evening school for\nchildren interested in astronomy on a high hill outside the city. Many young\nchildren came accompanied by their parents to watch the wonderful sky today."
       },
       {
         "heading": "Page 3",
-        "ru": "تظهر مشكلة صغيرة، لكن لينا تستخدم الكلمات الجديدة. تنظر إلى خريطة، ثم إلى دفتر، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
-        "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the map, looks at the notebook, and makes a simple plan. By the end, Lena can say one clear sentence."
+        "ru": "قامت ليلى بتعديل تلسكوب كبير ووضعت النجوم بوضوح أمام\nالأطفال. كانت تشرح لهم قوانين الكون وحركة الكواكب بكلمات بسيطة وسهلة\nالفهم. استمع الجميع بشغف واهتمام.",
+        "en": "Layla adjusted a large telescope and placed the\nstars clearly before the children. She explained to them the laws of the\nuniverse and planetary movement in simple, easy-to-understand words. Everyone\nlistened with passion and interest."
       },
       {
         "heading": "Page 4",
-        "ru": "لاحقًا، تلتقي لينا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.",
-        "en": "Later, Lena meets another person and asks one careful question. The answer is simple, but it helps. Lena writes three more words and connects them to the story of the day."
+        "ru": "وأخيراً، ظهر المذنب الساطع في السماء المظلمة. ترك ضوؤه خطاً\nلامعاً وجميلاً في الأعالي. صمت الجميع ونظروا بذهول إلى هذا المشهد الرائع والجميل\nمن مشاهد الطبيعة.",
+        "en": "Finally, the bright comet appeared in the dark sky.\nIts light left a shiny, beautiful line in the heights. Everyone fell silent and\nlooked in awe at this wonderful and beautiful sight of nature."
       },
       {
         "heading": "Page 5",
-        "ru": "في نهاية اليوم، تقرأ لينا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم لينا لأن التعلم صار ممكنًا وقريبًا.",
-        "en": "At the end of the day, Lena reads the whole page out loud. The words are not perfect yet, but they are familiar now. Lena smiles because learning feels possible and close."
+        "ru": "ساعد هذا المساء الجميل الأطفال على حب العلوم واستكشاف\nالفضاء. قرر بعضهم أن يصبحوا علماء فلك في المستقبل. فهمت ليلى أن عملها\nوجهدها يحملان قيمة كبيرة للمجتمع.",
+        "en": "This beautiful evening helped the children fall in\nlove with science and space exploration. Some of them decided to become\nastronomers in the future. Layla understood that her work and effort hold great\nvalue for society."
       }
     ]
   },
   {
     "id": "arabic-advanced-46",
     "level": "advanced",
-    "title": "Advanced 46: News from the Cafe",
+    "title": "Advanced 46: The Digital Heritage",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2618,39 +2618,39 @@
       820,
       823
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/46-advanced-news-from-the-cafe.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/46-advanced-the-digital-heritage.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب أولغا إلى المقهى. هناك جريدة وشاي بالقرب منه. تقرأ أولغا ببطء وتلاحظ كلمة جديدة: «خبر». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Olga is in the cafe. There is newspaper and tea nearby. Olga reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
+        "ru": "عثر المبرمج سمير في منزل جدته القديم على ألبوم صور أسود\nوأبيض قديم جداً. كانت هناك صور لعائلته ولقطات توضح معالم الحياة في المدينة\nقبل مئة عام.",
+        "en": "The programmer Samir found a very old\nblack-and-white photo album in his grandmother's old house. There were photos of\nhis family and shots illustrating the features of life in the city a hundred\nyears ago."
       },
       {
         "heading": "Page 2",
-        "ru": "تكتب أولغا كلمة «خبر» في الدفتر. ثم تفكر في موضوع «حديث». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
-        "en": "Olga writes the word news in a notebook. Then Olga thinks about talk. The place is quiet, so Olga reads the sentence again and says it softly."
+        "ru": "قرر سمير تحويل هذه الصور واللقطات إلى تنسيق رقمي حديث لحفظ\nتاريخ العائلة من الضياع. كان يدرك جيداً أن الورق القديم قد يتلف مع مرور السنوات\nالطويلة.",
+        "en": "Samir decided to convert these photos and shots\ninto a modern digital format to preserve the family history from loss. He\nunderstood well that old paper could get damaged with the passage of many years."
       },
       {
         "heading": "Page 3",
-        "ru": "تظهر مشكلة صغيرة، لكن أولغا تستخدم الكلمات الجديدة. تنظر إلى جريدة، ثم إلى شاي، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
-        "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the newspaper, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
+        "ru": "استخدم سمير جهاز المسح الضوئي وكتب برنامجاً خاصاً على\nحاسوبه الشخصي. كان هذا البرنامج يزيل الغبار والخدوش من الصور ويجعل الوجوه\nالقديمة واضحة وجميلة للغاية.",
+        "en": "Samir used a scanner and wrote a special program on\nhis personal computer. This program removed dust and scratches from the photos\nand made old faces extremely clear and beautiful."
       },
       {
         "heading": "Page 4",
-        "ru": "لاحقًا، تلتقي أولغا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.",
-        "en": "Later, Olga meets another person and asks one careful question. The answer is simple, but it helps. Olga writes three more words and connects them to the story of the day."
+        "ru": "نشر سمير الألبوم الرقمي الجاهز على شبكة الإنترنت وأرسل\nالرابط إلى جميع أقاربه في المدن الأخرى. غمرت السعادة قلوب الجميع لرؤية\nجذورهم وتاريخ عائلتهم المشترك بالصور.",
+        "en": "Samir published the completed digital album on the\ninternet and sent the link to all his relatives in other cities. Happiness\nfilled everyone's hearts to see their roots and shared family history through\nthe pictures."
       },
       {
         "heading": "Page 5",
-        "ru": "في نهاية اليوم، تقرأ أولغا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم أولغا لأن التعلم صار ممكنًا وقريبًا.",
-        "en": "At the end of the day, Olga reads the whole page out loud. The words are not perfect yet, but they are familiar now. Olga smiles because learning feels possible and close."
+        "ru": "بفضل التكنولوجيا الحديثة والمتقدمة، تم حفظ تاريخ العائلة\nبأمان تام للأطفال والأجيال القادمة. فهم سمير أن مهاراته التقنية يمكنها أن\nتخدم أهدافاً طيبة ونبيلة في المجتمع.",
+        "en": "Thanks to modern and advanced technology, the\nfamily history was saved completely safely for children and future generations.\nSamir understood that his technical skills could serve kind and noble goals in\nsociety."
       }
     ]
   },
   {
     "id": "arabic-advanced-47",
     "level": "advanced",
-    "title": "Advanced 47: The Word That Changed the Day",
+    "title": "Advanced 47: The Green Architecture",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2705,39 +2705,39 @@
       855,
       858
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/47-advanced-the-word-that-changed-the-day.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/47-advanced-the-green-architecture.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، يذهب ديما إلى الشارع. هناك حقيبة وكتاب بالقرب منه. يقرأ ديما ببطء ويلاحظ كلمة جديدة: «مساعدة». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Dima is on the street. There is bag and book nearby. Dima reads slowly and notices a new word: help. The day feels good, and the language feels a little closer."
+        "ru": "حصل المهندس المعماري أنس على طلب لتصميم مركز مجتمعي جديد\nومتميز في المدينة. وقرر جعل هذا المبنى صديقاً للبيئة ونظيفاً تماماً بالاعتماد\nعلى الطبيعة.",
+        "en": "The architect Anas received a request to design a\nnew and distinct community center in the city. He decided to make this building\neco-friendly and completely clean by relying on nature."
       },
       {
         "heading": "Page 2",
-        "ru": "يكتب ديما كلمة «مساعدة» في الدفتر. ثم يفكر في موضوع «طريق». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
-        "en": "Dima writes the word help in a notebook. Then Dima thinks about road. The place is quiet, so Dima reads the sentence again and says it softly."
+        "ru": "قام أنس بتعديل هيكل وتصميم السقف للسماح بمرور أكبر قدر من\nضوء الشمس الطبيعي داخل مبنى المركز الجديد. ساعد هذا الحل في تقليل استخدام\nالمصابيح الكهربائية نهاراً.",
+        "en": "Anas modified the structure and design of the roof\nto allow the maximum amount of natural sunlight inside the new center building.\nThis solution helped reduce the use of electric lamps during the day."
       },
       {
         "heading": "Page 3",
-        "ru": "تظهر مشكلة صغيرة، لكن ديما يستخدم الكلمات الجديدة. ينظر إلى حقيبة، ثم إلى كتاب، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
-        "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the bag, looks at the book, and makes a simple plan. By the end, Dima can say one clear sentence."
+        "ru": "خطط أنس لزراعة حديقة خضراء واسعة وجميلة على سقف المركز\nالجديد. وقام بوضع نظام ذكي لجمع مياه الأمطار وري النباتات تلقائياً دون\nالحاجة إلى تدخل بشري دائم.",
+        "en": "Anas planned to plant a large and beautiful green\ngarden on the roof of the new center. He placed a smart system to collect\nrainwater and water the plants automatically without the need for constant human\nintervention."
       },
       {
         "heading": "Page 4",
-        "ru": "لاحقًا، يلتقي ديما شخصًا آخر ويسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. يكتب ثلاث كلمات أخرى ويربطها بقصة اليوم.",
-        "en": "Later, Dima meets another person and asks one careful question. The answer is simple, but it helps. Dima writes three more words and connects them to the story of the day."
+        "ru": "بدأ البناء والعمال عملهم بنشاط باستخدام مواد آمنة ومصنوعة\nبالكامل من الخشب المعتمد بيئياً. كان سكان المدينة يتابعون ببالغ الاهتمام خطوات\nبناء هذا المبنى الأخضر والمميز.",
+        "en": "The construction and the workers began their work\nenergetically, using safe materials made entirely from environmentally certified\nwood. The city residents followed with great interest the steps of building this\ndistinct green building."
       },
       {
         "heading": "Page 5",
-        "ru": "في نهاية اليوم، يقرأ ديما الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. يبتسم ديما لأن التعلم صار ممكنًا وقريبًا.",
-        "en": "At the end of the day, Dima reads the whole page out loud. The words are not perfect yet, but they are familiar now. Dima smiles because learning feels possible and close."
+        "ru": "غدا المركز الجديد أجمل مكان في المدينة كلها. كان الناس\nيزورونه للاسترخاء والراحة تحت ظلال الأشجار الخضراء. أثبت أنس للجميع الفوائد\nالكبيرة والنبيلة لأفكار العمارة الخضراء.",
+        "en": "The new center became the most beautiful place in\nthe entire city. People visited it to relax and rest under the shade of the\ngreen trees. Anas proved to everyone the great and noble benefits of green\narchitecture ideas."
       }
     ]
   },
   {
     "id": "arabic-advanced-48",
     "level": "advanced",
-    "title": "Advanced 48: The Meeting at the University",
+    "title": "Advanced 48: The Silent Garden",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2792,39 +2792,39 @@
       890,
       893
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/48-advanced-the-meeting-at-the-university.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/48-advanced-the-silent-garden.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، يذهب ساشا إلى الجامعة. هناك رسالة ومكتب بالقرب منه. يقرأ ساشا ببطء ويلاحظ كلمة جديدة: «لقاء». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Sasha is at the university. There is letter and desk nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
+        "ru": "تلقّت مهندسة الحدائق منى طلباً متميزاً لإعادة تخطيط حديقة\nدير قديم في ضواحي المدينة. كانت هذه الحديقة الكبيرة مهجورة ومنسية بالكامل منذ\nسنوات طويلة ونمت فيها الحشائش البرية.",
+        "en": "The landscape architect Mona received a distinct\nrequest to re-plan the garden of an old monastery in the suburbs of the city.\nThis large garden had been completely abandoned and forgotten for many years,\nand wild grasses grew in it."
       },
       {
         "heading": "Page 2",
-        "ru": "يكتب ساشا كلمة «لقاء» في الدفتر. ثم يفكر في موضوع «أفكار». المكان هادئ، لذلك يقرأ الجملة مرة أخرى ويقولها بصوت منخفض.",
-        "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about ideas. The place is quiet, so Sasha reads the sentence again and says it softly."
+        "ru": "رسمت منى خطة تصميم جديدة ومتميزة للحديقة القديمة. وقررت وضع\nصخور رمادية كبيرة بالقرب من بركة الماء وصنع مسارات رملية ناعمة من أجل نزهات\nهادئة وصامتة للزوار.",
+        "en": "Mona drew a new and distinct design plan for the\nold garden. She decided to place large grey rocks near the water pool and make\nsmooth sandy paths for quiet and silent walks for visitors."
       },
       {
         "heading": "Page 3",
-        "ru": "تظهر مشكلة صغيرة، لكن ساشا يستخدم الكلمات الجديدة. ينظر إلى رسالة، ثم إلى مكتب، ويصنع خطة بسيطة. في النهاية، يستطيع أن يقول جملة واضحة.",
-        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the desk, and makes a simple plan. By the end, Sasha can say one clear sentence."
+        "ru": "زرعت منى طحالب خضراء ناعمة في الأماكن الظليلة، ووضعت\nأشجاراً جميلة ومميزة في قلب الحديقة الجديدة. كانت هذه الأشجار الجميلة\nتغير ألوان أوراقها مع تغير الفصول المختلفة للعام.",
+        "en": "Mona planted soft green moss in the shaded areas\nand placed beautiful and distinct trees in the heart of the new garden. These\nbeautiful trees changed the colors of their leaves with the changing of the\ndifferent seasons of the year."
       },
       {
         "heading": "Page 4",
-        "ru": "لاحقًا، يلتقي ساشا شخصًا آخر ويسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. يكتب ثلاث كلمات أخرى ويربطها بقصة اليوم.",
-        "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
+        "ru": "كانت منى تريد خلق بيئة هادئة ومساحة آمنة حيث يمكن لكل شخص\nزيارة المكان ونسيان هموم ومشاكل المدينة، والجلوس بصمت تام لمراجعة حياته وتأمل\nذاته وروحه.",
+        "en": "Mona wanted to create a quiet environment and a\nsafe space where every person could visit the place and forget the worries and\nproblems of the city, and sit in complete silence to review their life and\ncontemplate their self and soul."
       },
       {
         "heading": "Page 5",
-        "ru": "في نهاية اليوم، يقرأ ساشا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. يبتسم ساشا لأن التعلم صار ممكنًا وقريبًا.",
-        "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
+        "ru": "غدت الحديقة القديمة مكاناً حقيقياً للراحة والسلام الداخلي\nللناس. كانوا يأتون للاستماع لصوت الماء وحركة الرياح بلطف. كانت منى سعيدة\nبتمكنها من إعادة الجمال والروح لتلك الأرض القديمة.",
+        "en": "The old garden became a true place of rest and\ninner peace for people. They came to listen to the sound of water and the\nmovement of the wind gently. Mona was happy to have been able to return beauty\nand spirit to that old land."
       }
     ]
   },
   {
     "id": "arabic-advanced-49",
     "level": "advanced",
-    "title": "Advanced 49: The Letter and the Map",
+    "title": "Advanced 49: The Solar Flight",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2879,39 +2879,39 @@
       925,
       928
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/49-advanced-the-letter-and-the-map.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/49-advanced-the-solar-flight.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب كاتيا إلى المكتبة. هناك رسالة وخريطة بالقرب منه. تقرأ كاتيا ببطء وتلاحظ كلمة جديدة: «مسار». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Katya is in the library. There is letter and map nearby. Katya reads slowly and notices a new word: route. The day feels good, and the language feels a little closer."
+        "ru": "كان المهندس يوسف يعمل بجد على تطوير واختراع طائرة صغيرة\nبدون طيار (درون). كانت هذه الطائرة تتميز بقدرتها على الطيران بالاعتماد\nالكامل على طاقة الشمس النظيفة فقط.",
+        "en": "The engineer Youssef was working hard on developing\nand inventing a small unmanned aerial vehicle (drone). This plane was\ndistinguished by its ability to fly relying completely on clean solar energy\nalone."
       },
       {
         "heading": "Page 2",
-        "ru": "تكتب كاتيا كلمة «مسار» في الدفتر. ثم تفكر في موضوع «بحث». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
-        "en": "Katya writes the word route in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
+        "ru": "كان الهدف الرئيسي للمشروع هو نقل الأجهزة الطبية والأدوية\nالطارئة للناس المحتاجين في المناطق الجبلية النائية التي دمرت العواصف والأمطار\nالطرق والمسارات المؤدية إليها بالكامل.",
+        "en": "The main goal of the project was to transport\nmedical devices and emergency medicines to needy people in remote mountainous\nareas whose roads and paths leading to them were completely destroyed by storms\nand rain."
       },
       {
         "heading": "Page 3",
-        "ru": "تظهر مشكلة صغيرة، لكن كاتيا تستخدم الكلمات الجديدة. تنظر إلى رسالة، ثم إلى خريطة، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
-        "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the letter, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
+        "ru": "في صباح يوم مشمس وجميل، أخذ يوسف الطائرة إلى حقل واسع\nلإجراء الاختبار الأول. طارت الطائرة بدون طيار بهدوء وصمت نحو الجبال\nالبعيدة مستخدمة قوة ضوء الشمس فقط.",
+        "en": "On a sunny and beautiful morning, Youssef took the\nplane to a wide field to conduct the first test. The drone flew quietly and\nsilently towards the distant mountains using only the power of sunlight."
       },
       {
         "heading": "Page 4",
-        "ru": "لاحقًا، تلتقي كاتيا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.",
-        "en": "Later, Katya meets another person and asks one careful question. The answer is simple, but it helps. Katya writes three more words and connects them to the story of the day."
+        "ru": "في الجبال، بدأت رياح قوية ومفاجئة تهب في الأعالي. لكن بفضل\nالهيكل المتين والتصميم الذكي للجناح، تمكنت الطائرة من الحفاظ على توازنها الكامل\nوواصلت رحلتها بثقة تامة.",
+        "en": "In the mountains, strong and sudden winds began to\nblow in the heights. But thanks to the durable structure and smart design of the\nwing, the plane managed to maintain its complete balance and continued its\njourney with full confidence."
       },
       {
         "heading": "Page 5",
-        "ru": "في نهاية اليوم، تقرأ كاتيا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم كاتيا لأن التعلم صار ممكنًا وقريبًا.",
-        "en": "At the end of the day, Katya reads the whole page out loud. The words are not perfect yet, but they are familiar now. Katya smiles because learning feels possible and close."
+        "ru": "أوصلت الطائرة الحمولة الطبية بنجاح كبير ودقة تامة إلى\nالموقع المحدد. كان يوسف سعيداً؛ فقد أثبتت تكنولوجياه الجديدة فائدتها\nوساهمت في عمل خطوة نحو إنقاذ حياة الناس.",
+        "en": "The plane delivered the medical cargo with great\nsuccess and complete accuracy to the specified location. Youssef was happy; his\nnew technology had proved its utility and contributed to making a step toward\nsaving people's lives."
       }
     ]
   },
   {
     "id": "arabic-advanced-50",
     "level": "advanced",
-    "title": "Advanced 50: The Language Feels Close",
+    "title": "Advanced 50: The Circle of Life",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2966,32 +2966,32 @@
       960,
       963
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/50-advanced-the-language-feels-close.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/arabic/advanced/50-advanced-the-circle-of-life.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "في الصباح، تذهب إيرينا إلى الحديقة. هناك كتاب وهاتف بالقرب منه. تقرأ إيرينا ببطء وتلاحظ كلمة جديدة: «لغة». اليوم جيد، واللغة تصبح أقرب.",
-        "en": "In the morning, Irina is in the park. There is book and phone nearby. Irina reads slowly and notices a new word: language. The day feels good, and the language feels a little closer."
+        "ru": "كانت عالمة الأحياء هبة تدرس النظام البيئي الدقيق للغابة\nالمحلية منذ سنوات طويلة. كانت تراقب عن كثب كيف تعيش الحيوانات الصغيرة وكيف\nتنمو وتتطور الأشجار العالية.",
+        "en": "The biologist Heba had studied the delicate\necological system of the local forest for many years. She closely monitored how\nsmall animals live and how tall trees grow and develop."
       },
       {
         "heading": "Page 2",
-        "ru": "تكتب إيرينا كلمة «لغة» في الدفتر. ثم تفكر في موضوع «ثقة». المكان هادئ، لذلك تقرأ الجملة مرة أخرى وتقولها بصوت منخفض.",
-        "en": "Irina writes the word language in a notebook. Then Irina thinks about confidence. The place is quiet, so Irina reads the sentence again and says it softly."
+        "ru": "لاحظت هبة كيف تتحول الأوراق المتساقطة إلى تربة خصبة،\nوالتربة تمنح القوة للأشجار الكبيرة لتنمو، والأشجار بدورها تصبح بيتاً\nآمناً ودافئاً للطيور والحيوانات الصغيرة.",
+        "en": "Heba observed how fallen leaves turn into fertile\nsoil, the soil gives strength to big trees to grow, and the trees in turn become\na safe and warm home for birds and small animals."
       },
       {
         "heading": "Page 3",
-        "ru": "تظهر مشكلة صغيرة، لكن إيرينا تستخدم الكلمات الجديدة. تنظر إلى كتاب، ثم إلى هاتف، وتصنع خطة بسيطة. في النهاية، تستطيع أن تقول جملة واضحة.",
-        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the book, looks at the phone, and makes a simple plan. By the end, Irina can say one clear sentence."
+        "ru": "في عطلة نهاية الأسبوع، دعت هبة الأطفال الصغار إلى الغابة\nلتوضح لهم هذا الهيكل المترابط. وكانت تشرح لهم بحب قائلة: \"على أرضنا الجميلة،\nكل أشكال الحياة متصلة بدائرة واحدة\".",
+        "en": "On the weekend, Heba invited young children into\nthe forest to explain to them this interconnected structure. She lovingly\nexplained to them, saying: \"On our beautiful earth, all forms of life are\nconnected in one circle.\""
       },
       {
         "heading": "Page 4",
-        "ru": "لاحقًا، تلتقي إيرينا شخصًا آخر وتسأل سؤالًا حذرًا. الجواب بسيط، لكنه يساعد. تكتب ثلاث كلمات أخرى وتربطها بقصة اليوم.",
-        "en": "Later, Irina meets another person and asks one careful question. The answer is simple, but it helps. Irina writes three more words and connects them to the story of the day."
+        "ru": "بدأ الأطفال يستكشفون بأنفسهم ويبحثون عن الكائنات الحية\nالصغيرة تحت الأوراق وينظرون إلى النباتات بذهول. وفهموا أن الإنسان أيضاً\nيمثل جزءاً كبيراً من دائرة الطبيعة المترابطة.",
+        "en": "The children began to explore for themselves,\nsearching for small living creatures under the leaves and looking at plants in\nawe. They understood that humans also represent a big part of nature's\ninterconnected circle."
       },
       {
         "heading": "Page 5",
-        "ru": "في نهاية اليوم، تقرأ إيرينا الصفحة كلها بصوت عالٍ. الكلمات ليست كاملة بعد، لكنها أصبحت مألوفة. تبتسم إيرينا لأن التعلم صار ممكنًا وقريبًا.",
-        "en": "At the end of the day, Irina reads the whole page out loud. The words are not perfect yet, but they are familiar now. Irina smiles because learning feels possible and close."
+        "ru": "شاهدت هبة الاهتمام واللمعان في عيون الأطفال. وأدركت جيداً\nأن التعليم البيئي السليم هو الطريقة الفضلى والوحيدة لحماية طبيعة كوكبنا الجميل\nوبيئته الرائعة في المستقبل.",
+        "en": "Heba watched the interest and sparkle in the\nchildren's eyes. She realized well that sound environmental education is the\nbest and only way to protect the nature and wonderful environment of our\nbeautiful planet in the future."
       }
     ]
   }

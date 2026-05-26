@@ -1,0 +1,54 @@
+Story 44: The Deep Ocean
+Language: Chinese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 756-790 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+海洋学者小华建造了一台先进的潜水设备。他计划去海洋最深的地方，研究巨大而未知的深海海底的自然生命。
+
+Page 2:
+在几千米深的深海里，是一片完全的黑暗。但是设备上强大的灯光照亮了一个由沙子、岩石和奇怪植物组成的神秘世界。
+
+Page 3:
+突然，小华看到了一只发光的漂亮小动物。这是科学上从未记载过的新物种。他为这个神奇的生物拍摄了许多非常清晰的照片。
+
+Page 4:
+在工作时，仪器突然关闭了一秒钟。小华没有感到害怕或慌张。他非常熟悉这台设备的结构，用双手快速且冷静地修好了电路问题。
+
+Page 5:
+小华安全地回到了地面，并在学校展示了他的照片。他的发现帮助人们更好地理解海洋，明白了保护水资源环境的巨大价值。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The oceanographer Xiao Hua built an advanced diving
+device. He planned to go to the deepest parts of the sea to study the unknown
+natural life of the vast deep seafloor.
+
+Page 2:
+At a depth of several thousand meters, there was
+complete darkness. But the powerful lights attached to the device illuminated a
+mysterious world of sand, rocks, and strange plants.
+
+Page 3:
+Suddenly, Xiao Hua saw a beautiful glowing small
+animal. This was a exciting new species unknown to science. He took many clear
+pictures of this amazing creature.
+
+Page 4:
+During the work, the instruments suddenly turned
+off for one second. Xiao Hua did not feel afraid or panicked. He was very
+familiar with the structure of this device and fixed the electrical problem with
+his hands quickly and calmly.
+
+Page 5:
+Xiao Hua returned safely to the surface and
+displayed his photos at school. His discovery helped people better understand
+the ocean depths and know the importance of protecting its environment. === END
+OF STORY 44 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

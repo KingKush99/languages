@@ -1,0 +1,41 @@
+Story 32: The Grandfather's Map
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 441-464 (24 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+小学生の蓮は、祖父の古い勉強部屋で本を探していました。机の古い引き出しを引くと、その奥から一枚の手書きの地図が出てきました。それは、祖父が子供の頃に描いた地元の森の地図で、赤いバツ印が一つだけ描かれていました。
+
+Page 2:
+蓮は、友達の陸と一緒に、地図を頼りに森へ行くことにしました。地図に描かれている古い特徴的な木を目印にして、彼らは奥へと進みました。しばらく歩くと、草やツタに覆われた古い石造りの井戸が姿を現しました。地図の場所とぴったりでした。
+
+Page 3:
+井戸の隙間をのぞくと、古いプラスチックの小さな箱が置かれているのを見つけました。箱を開けると、中には古い硬貨と、祖父が子供の時の名前が書かれたメモが入っていました。彼らは歴史のかけらを見つけ、まるでタイムトラベルをしたような気持ちになりました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Elementary school student Ren was looking for a
+book in his grandfather's old study room. When he pulled an old desk drawer, a
+hand-drawn map came out from the back. It was a map of the local forest drawn by
+his grandfather when he was a child, with only one red 'X' marked on it.
+
+Page 2:
+Ren decided to go to the forest with his friend
+Riku, relying on the map. Using the old characteristic tree drawn on the map as
+a landmark, they headed deeper inside. After walking for a while, an old stone
+well covered with grass and ivy revealed itself. It matched the map's location
+perfectly.
+
+Page 3:
+Peering through a gap in the well, they found a
+small, old plastic box placed inside. When they opened the box, inside was an
+old coin and a memo with their grandfather's childhood name written on it. They
+found a piece of history and felt as if they had traveled through time. === END
+OF STORY 32 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

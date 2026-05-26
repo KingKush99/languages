@@ -1,0 +1,28 @@
+Story 25: Trying Again
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 291-305 (15 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+女の子は紙で小さな動物の形を折ろうとしていました。しかし、最初の試みは失敗し、紙は破れてしまいました。彼女は少し悲しくなりました。
+
+Page 2:
+お母さんは彼女に「もう一度試してみて。次はもっとゆっくり折るといいよ」と言いました。彼女は新しい紙を使い、ついに美しい形を折ることができました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The girl was trying to fold a paper into the shape
+of a small animal. However, her first attempt failed, and the paper tore. She
+became a little sad.
+
+Page 2:
+Her mother told her, "Try again. Next time, it's
+better to fold it more slowly." Using a new sheet of paper, she was finally able
+to fold a beautiful shape.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

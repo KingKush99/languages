@@ -1,0 +1,18 @@
+Story 01: His Book
+Language: Japanese
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 1-9 (9 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+私は彼を静かに見ます。彼はその本をテーブルの上に置きました。それは彼のための本でした。彼は静かでした、まるで猫のように。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+I look at him quietly. He put that book on the table. It was a book for him. He was quiet, just like a cat.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

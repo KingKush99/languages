@@ -1,0 +1,20 @@
+Story 10: The Path to Change
+Language: Russian
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 77-84 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Люди пошли на высокую гору. Я спросил, почему они пошли.
+Они действовали, чтобы следовать за таким изменением.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The men went to a high mountain. I asked why they
+went. They acted to follow such a change.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

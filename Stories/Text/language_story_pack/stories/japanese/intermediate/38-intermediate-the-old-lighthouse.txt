@@ -1,0 +1,30 @@
+Story 38: The Old Lighthouse
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 582-604 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+海辺の町には、長い間使われていない古い灯台がありました。壁の色は薄くなり、階段にはほこりが積もっていました。けれども、町の人々はその灯台を大切な記憶として守りたいと思っていました。
+
+Page 2:
+けんとは友達と一緒に掃除を手伝いました。窓を磨くと、遠くの海が青く見えました。大人たちは壊れたランプを修理し、子供たちは古い写真を並べて、小さな展示を作りました。
+
+Page 3:
+夕方、灯台の光が久しぶりに海へ向かって伸びました。町の人々は拍手し、けんとは胸が熱くなりました。古い建物でも、みんなで力を合わせれば新しい役目を持てるのだと彼は知りました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In a seaside town, there was an old lighthouse that had not been used for a long time. The wall color had faded, and dust covered the stairs. Even so, the people of the town wanted to protect the lighthouse as an important memory.
+
+Page 2:
+Kento helped clean with his friends. When they polished the windows, the distant sea looked blue. The adults repaired the broken lamp, and the children arranged old photographs to make a small display.
+
+Page 3:
+In the evening, the lighthouse light reached out toward the sea for the first time in a long while. The townspeople clapped, and Kento felt moved. He learned that even an old building could have a new role if everyone worked together.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

@@ -1,0 +1,28 @@
+Story 21: A Day of Play
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 229-244 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+今日は学校がお休みです。小さな子供たちが近くの広場に集まって、みんなで元気に遊び始めました。天気は良く、気持ちの良い風が吹いていました。
+
+Page 2:
+彼らは夕方まで走り回りました。一日の終わりに、みんなで大きな輪を作って座り、今日読んだ面白い本についてお互いに話し合いました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Today is a school holiday. Small children gathered
+in the nearby square and all began playing energetically. The weather was good,
+and a pleasant wind was blowing.
+
+Page 2:
+They ran around until evening. At the end of the
+day, everyone made a big circle and sat, talking to each other about the
+interesting books they read today.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

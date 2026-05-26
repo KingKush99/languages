@@ -1,0 +1,70 @@
+Story 41: The Forest of Tomorrow
+Language: Russian
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 651-685 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+В современном обществе наука и технологии быстро
+развиваются. Наша жизнь становится удобной, но красивая природа часто
+страдает. В одном маленьком городе река стала грязной из-за заводов. Молодой
+ученый Александр решил исправить эту экологическую проблему.
+
+Page 2:
+Александр предложил построить новую систему очистки воды.
+Но директора заводов и некоторые жители города были против. Они считали, что
+это слишком дорого и повредит местной экономике. Александр не сдавался и
+продолжал диалог.
+
+Page 3:
+После долгих споров они решили провести первый тест.
+Ученые установили оборудование у реки. Но тест прошел неудачно из-за
+поломки машины. Грязная вода снова потекла в реку, и люди начали злиться.
+
+Page 4:
+Александр признал свою ошибку и стал искать причину
+поломки. Он работал ночью, чтобы починить прибор и сделать его
+безопасным. Директор завода увидел его честный труд и решил дать ему
+последний шанс.
+
+Page 5:
+Второй тест прошел успешно. Вода в реке стала полностью
+чистой. Через несколько лет в реку вернулась рыба. Город стал примером того,
+как наука помогает экономике жить в гармонии с природой.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+In modern society, science and technology develop
+rapidly. Our lives become convenient, but beautiful nature often suffers. In one
+small town, the river became dirty because of factories. A young scientist,
+Alexander, decided to fix this environmental problem.
+
+Page 2:
+Alexander proposed building a new water
+purification system. But the factory directors and some town residents were
+against it. They believed it was too expensive and would harm the local economy.
+Alexander did not give up and continued the dialogue.
+
+Page 3:
+After long arguments, they decided to conduct the
+first test. The scientists installed the equipment near the river. But the test
+failed due to a machine breakdown. Dirty water flowed into the river again, and
+people started getting angry.
+
+Page 4:
+Alexander admitted his mistake and began looking
+for the cause of the breakdown. He worked at night to repair the device and make
+it safe. The factory director saw his honest labor and decided to give him one
+last chance.
+
+Page 5:
+The second test was successful. The water in the
+river became completely clean. A few years later, fish returned to the river.
+The town became an example of how science helps the economy live in harmony with
+nature.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

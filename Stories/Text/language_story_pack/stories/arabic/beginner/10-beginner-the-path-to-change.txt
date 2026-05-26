@@ -1,0 +1,20 @@
+Story 10: The Path to Change
+Language: Arabic
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 77-84 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+ذهب الرجال إلى جبل مرتفع. أتساءل لماذا ذهبوا. إنهم يعملون
+على متابعة مثل هذا التغيير.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The men went to a high mountain. I ask why they
+went. They act to follow such a change.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

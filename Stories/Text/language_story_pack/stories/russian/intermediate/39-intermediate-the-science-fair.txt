@@ -1,0 +1,44 @@
+Story 39: The Science Fair
+Language: Russian
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 605-627 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Каждую осень в школе проходила большая научная выставка.
+Группа Егора решила подготовить проект по чистой энергии. Они построили
+модель, которая показывала работу солнечных батарей.
+
+Page 2:
+В день выставки в зале собралось много учителей и
+родителей. Многие останавливались у проекта Егора. Мальчик просто и
+понятно объяснял гостям, как свет солнца превращается в электрический ток.
+
+Page 3:
+В конце дня судьи оценили все проекты. Работа группы Егора
+получила высокую оценку и первое место за полезную идею. Ребята были очень рады
+и поняли, как важен труд команды.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Every autumn, a big science fair took place at
+school. Egor's group decided to prepare a project on clean energy. They built a
+model that demonstrated the work of solar panels.
+
+Page 2:
+On the day of the fair, many teachers and parents
+gathered in the hall. Many stopped at Egor's project. The boy explained to the
+guests simply and clearly how the light of the sun turns into an electric
+current.
+
+Page 3:
+At the end of the day, the judges evaluated all
+projects. The work of Egor's group received a high rating and first place for a
+useful idea. The children were very glad and understood how important teamwork
+is.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

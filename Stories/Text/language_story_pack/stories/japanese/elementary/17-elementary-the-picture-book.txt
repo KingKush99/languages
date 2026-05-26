@@ -1,0 +1,28 @@
+Story 17: The Picture Book
+Language: Japanese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 165-180 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+祖父は私に一冊の古い絵本をくれました。その本には、世界中の動物たちの美しい写真がたくさん載っていました。私はその本が大好きになりました。
+
+Page 2:
+私は本を読みながら、いくつかの言葉のスペルを覚える練習をしました。母は私の隣に座って、私が正しく綴ることができるように親切に教えてくれました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+My grandfather gave me an old picture book. In that
+book, there were many beautiful pictures of animals from all over the world. I
+fell in love with that book.
+
+Page 2:
+While reading the book, I practiced remembering the
+spelling of some words. Sitting next to me, my mother kindly taught me so that I
+could spell them correctly.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

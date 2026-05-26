@@ -1,0 +1,30 @@
+Story 36: The Starlit Sky
+Language: Japanese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 536-558 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+秋の週末、りくは家族と山へキャンプに行きました。夜になると空気が冷たくなり、町の明かりは遠くに小さく見えました。父は毛布を出し、みんなで外に座って空を見上げました。
+
+Page 2:
+空には数えきれないほどの星がありました。母は星座の名前を教え、りくは指で形をなぞりました。彼は、昔の人々も同じ星を見ながら旅をしたのだろうと想像しました。
+
+Page 3:
+流れ星が一つ、空を横切りました。りくは目を閉じて、もっと多くのことを学びたいと願いました。翌朝、彼は小さなノートに星の絵を描き、宇宙への興味を忘れないようにしました。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+On an autumn weekend, Riku went camping in the mountains with his family. At night the air became cold, and the lights of the town looked small in the distance. His father brought out blankets, and everyone sat outside looking up at the sky.
+
+Page 2:
+There were more stars in the sky than he could count. His mother taught him the names of constellations, and Riku traced their shapes with his finger. He imagined that people long ago must have traveled while looking at the same stars.
+
+Page 3:
+One shooting star crossed the sky. Riku closed his eyes and wished to learn many more things. The next morning, he drew stars in a small notebook so he would not forget his interest in space.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

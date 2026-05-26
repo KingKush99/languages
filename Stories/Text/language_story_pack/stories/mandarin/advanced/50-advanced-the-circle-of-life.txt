@@ -1,0 +1,54 @@
+Story 50: The Circle of Life
+Language: Chinese
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 966-1000 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+生物学者小丽多年来一直在观察本地大森林的生态系统。她仔细记录下小动物如何生活以及大树如何成长和高大。
+
+Page 2:
+她观察到，落叶慢慢转化成肥沃的泥土，而土地又给树木生长提供力量，树木反过来又成了鸟儿们安全又温暖的家。
+
+Page 3:
+在周末，小丽邀请一些小孩子们来到大自然，以便向他们说明这个连接结构。她温和地解释说：“在地球上，所有的生命连接成一个圆。”
+
+Page 4:
+孩子们亲自动手，开始在树叶下寻找小生物，充满兴趣地观察植物。他们开始明白人其实也是这个奇妙大自然之圆的一部分。
+
+Page 5:
+小丽看到了孩子们眼里闪耀的光亮。她知道，优质的环境保护教育是让我们在未来保护美丽地球和美好自然的最好方式。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The biologist Xiao Li had studied the local
+forest's ecological system for many years. She kept track of how small animals
+live and how tall trees grow.
+
+Page 2:
+She observed how fallen leaves turn into fertile
+soil, the soil gives strength to big trees to grow, and the trees in turn become
+a safe and warm home for birds.
+
+Page 3:
+On the weekend, Xiao Li invited some children into
+nature to explain to them this connected structure. She gently explained,
+saying: "On our Earth, all life is connected in one circle."
+
+Page 4:
+The children got their hands dirty, searching for
+small living creatures under the leaves and watching the plants with interest.
+They began to understand that humans are also part of this wonderful circle of
+nature.
+
+Page 5:
+Xiao Li saw the sparkle in the children's eyes. She
+knew that high-quality environmental protection education is the best way for us
+to protect our beautiful planet and wonderful nature in the future. === END OF
+STORY 50 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

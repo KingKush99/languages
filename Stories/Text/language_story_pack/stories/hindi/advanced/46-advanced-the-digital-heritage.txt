@@ -1,0 +1,61 @@
+Story 46: The Digital Heritage
+Language: Hindi
+Level: Advanced
+Pages: 5
+Assigned new-word slots: 826-860 (35 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+प्रोग्रामर विकास ने अपनी दादी के घर में एक पुराना ब्लैक एंड
+व्हाइट फोटो एल्बम पाया। वहाँ उनके परिवार की तस्वीरें और सौ साल पहले के शहर के
+चित्र थे।
+
+Page 2:
+विकास ने इन तस्वीरों को डिजिटल रूप में बदलने का फैसला किया
+ताकि परिवार का इतिहास सुरक्षित रहे। वह जानता था कि कागज समय के साथ खराब हो
+सकता है।
+
+Page 3:
+उसने एक स्कैनर का इस्तेमाल किया और कंप्यूटर पर एक विशेष
+प्रोग्राम लिखा। प्रोग्राम ने तस्वीरों से धूल साफ की और पुराने चेहरों
+को साफ दिखाया।
+
+Page 4:
+विकास ने तैयार एल्बम को इंटरनेट पर डाला और सभी रिश्तेदारों
+को लिंक भेजा। अपनी पुरानी तस्वीरें देखकर सभी रिश्तेदार बहुत खुश हुए।
+
+Page 5:
+आधुनिक तकनीक के कारण परिवार का इतिहास आने वाले बच्चों के लिए
+सुरक्षित हो गया। विकास ने समझा कि उसका ज्ञान समाज के अच्छे कामों में मदद कर सकता
+है।
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+The programmer Vikas found an old black-and-white
+photo album in his grandmother's house. There were photographs of his family and
+pictures of the town's life a hundred years ago.
+
+Page 2:
+Vikas decided to convert these pictures into a
+digital format to preserve the family's history. He understood that paper could
+deteriorate over time.
+
+Page 3:
+He used a scanner and wrote a special program on
+his computer. The program removed dust from the images and made old faces clear.
+
+Page 4:
+Vikas uploaded the completed album to the internet
+and sent the link to all his relatives in other cities. Everyone was happy to
+see their roots through the pictures.
+
+Page 5:
+Thanks to modern technologies, the family's history
+was saved safely for future generations of children. Vikas realized that his
+coding skills and knowledge could serve good goals in society. === END OF
+STORY 46 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

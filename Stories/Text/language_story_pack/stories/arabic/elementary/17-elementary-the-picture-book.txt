@@ -1,0 +1,32 @@
+Story 17: The Picture Book
+Language: Arabic
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 165-180 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+أهداني جدي كتاب صور قديم ومثير للاهتمام. كان في هذا الكتاب
+العديد من الصور الجميلة لحيوانات برية من جميع أنحاء العالم. أحببت هذا الكتاب
+الرائع من أول لحظة.
+
+Page 2:
+كنت أقرأ الكتاب وأتعلم كيفية كتابة وتهجئة الكلمات الجديدة
+والصعبة. كانت أمي تجلس بجانبي دائماً وتساعدني في القيام بذلك بشكل صحيح وسريع
+دون أخطاء.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+My grandfather gave me an old and interesting
+picture book. In this book, there were many beautiful pictures of wild animals
+from all over the world. I loved this wonderful book from the first moment.
+
+Page 2:
+I was reading the book and learning how to write
+and spell the new and difficult words. My mother always sat beside me and helped
+me do that correctly and quickly without mistakes.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

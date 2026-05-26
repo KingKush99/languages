@@ -1,0 +1,20 @@
+Story 11: The New Picture
+Language: Russian
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 85-92 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Этому дому нужен свет. Попробуйте сделать его снимок еще
+раз с выключенным светом. Добрый человек помогает нам.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+This house needs light. Try to take a picture of it
+again with the light off. A kind person helps us.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

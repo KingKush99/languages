@@ -1,0 +1,38 @@
+Story 39: The Science Fair
+Language: Chinese
+Level: Intermediate
+Pages: 3
+Assigned new-word slots: 605-627 (23 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+每个秋天，学校都会举办一次大型的科学展示会。小刚的小组决定制作一个关于清洁能源的项目。他们建造了展示太阳能板工作的模型。
+
+Page 2:
+展示会当天，大厅里聚集了许多老师和家长。许多人在小刚的项目前停下。男孩简单清楚地向来宾解释太阳光如何转化为电能。
+
+Page 3:
+一天的最后，评委们对所有项目进行了评估。小刚组的作品获得了优秀评价，因极佳想法获得第一名。大家都为团队协作感到高兴。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+Every autumn, the school holds a large science
+fair. Xiao Gang's group decided to make a project about clean energy. They built
+a model showing how solar panels work.
+
+Page 2:
+On the day of the fair, many teachers and parents
+gathered in the hall. Many people stopped before Xiao Gang's project. The boy
+simply and clearly explained to the guests how sunlight is converted into
+electrical energy.
+
+Page 3:
+At the end of the day, the judges evaluated all the
+projects. Xiao Gang's group's work received an excellent rating and won first
+place for its great idea. Everyone was happy for the teamwork. === END OF
+STORY 39 ===
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

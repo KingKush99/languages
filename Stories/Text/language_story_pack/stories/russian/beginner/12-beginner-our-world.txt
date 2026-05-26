@@ -1,0 +1,21 @@
+Story 12: Our World
+Language: Russian
+Level: Beginner
+Pages: 1
+Assigned new-word slots: 93-100 (8 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+Мои мать и отец любят землю. Мы строим маленький дом рядом
+с животными, чтобы самим наблюдать за ними. В этом весь смысл нашего мира.
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+My mother and father love the earth. We build a
+small house near the animals to observe them ourselves. That is the point of our
+world.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

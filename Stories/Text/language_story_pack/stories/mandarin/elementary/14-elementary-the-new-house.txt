@@ -1,0 +1,28 @@
+Story 14: The New House
+Language: Chinese
+Level: Elementary
+Pages: 2
+Assigned new-word slots: 117-132 (16 new words)
+
+TARGET LANGUAGE STORY
+----------------------
+Page 1:
+我们选择了这片安静的土地来建造我们的新房子。附近有一条干净的小河，每天都能听到鸟儿美丽的歌声。新生活从今天开始。
+
+Page 2:
+我和父亲开始在新房子附近建造一个小花园。我们在那里种了许多美丽的花。母亲从窗户看着我们，亲切地帮助我们。
+
+ENGLISH TRANSLATION
+-------------------
+Page 1:
+We chose this quiet land to build our new house.
+There is a clean river nearby, and we can hear the beautiful songs of birds
+every day. Our new life begins today.
+
+Page 2:
+My father and I started to build a small garden
+near our new house. We planted many beautiful flowers there. My mother watched
+us from the window and kindly helped us.
+
+Implementation note:
+Use the shared cozy storybook art style, but base the image only on this story. No white border. Do not add blackboards, posters, extra books, thought bubbles, or objects unless the page text says they are there.

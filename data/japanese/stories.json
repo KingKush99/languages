@@ -2,7 +2,7 @@
   {
     "id": "japanese-beginner-01",
     "level": "beginner",
-    "title": "Beginner 01: Morning at Home",
+    "title": "Beginner 01: His Book",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -22,19 +22,19 @@
       9
     ],
     "reviewWords": [],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/01-beginner-morning-at-home.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/01-beginner-his-book.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、アンナは家へ行きます。近くにお茶と本があります。アンナはゆっくり読み、新しい言葉「町」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Anna is at home. There is tea and book nearby. Anna reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
+        "ru": "私は彼を静かに見ます。彼はその本をテーブルの上に置きました。それは彼のための本でした。彼は静かでした、まるで猫のように。",
+        "en": "I look at him quietly. He put that book on the table. It was a book for him. He was quiet, just like a cat."
       }
     ]
   },
   {
     "id": "japanese-beginner-02",
     "level": "beginner",
-    "title": "Beginner 02: Tea on the Table",
+    "title": "Beginner 02: Gathering at Home",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -60,19 +60,19 @@
       7,
       9
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/02-beginner-tea-on-the-table.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/02-beginner-gathering-at-home.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、レナは家へ行きます。近くにお茶とパンがあります。レナはゆっくり読み、新しい言葉「テーブル」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Lena is at home. There is tea and bread nearby. Lena reads slowly and notices a new word: table. The day feels good, and the language feels a little closer."
+        "ru": "彼らは今ここにいます。私の友達は、一つの家で私と一緒にいたいと思っています。私たちはこの静かな場所を持っています。",
+        "en": "They are here now. My friends want to be with me in one house. We have this quiet place."
       }
     ]
   },
   {
     "id": "japanese-beginner-03",
     "level": "beginner",
-    "title": "Beginner 03: The Open Window",
+    "title": "Beginner 03: A Hot Day",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -99,19 +99,19 @@
       13,
       16
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/03-beginner-the-open-window.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/03-beginner-a-hot-day.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、イワンは家へ行きます。近くに窓と本があります。イワンはゆっくり読み、新しい言葉「図書館」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Ivan is at home. There is window and book nearby. Ivan reads slowly and notices a new word: library. The day feels good, and the language feels a little closer."
+        "ru": "これは何ですか？これは彼からの言葉です。しかし、今日は暑いです。近くにいくつかの水があります。それは冷たいです。",
+        "en": "What is this? This is a word from him. But today is hot. There is some water nearby. It is cold."
       }
     ]
   },
   {
     "id": "japanese-beginner-04",
     "level": "beginner",
-    "title": "Beginner 04: Walking to the Park",
+    "title": "Beginner 04: The Old Book",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -140,19 +140,19 @@
       22,
       25
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/04-beginner-walking-to-the-park.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/04-beginner-the-old-book.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、マーシャは公園へ行きます。近くに母と兄弟があります。マーシャはゆっくり読み、新しい言葉「友だち」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Masha is in the park. There is mother and brother nearby. Masha reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
+        "ru": "あなたと私は行きます。それはあなた、または私ですか？私たちはその古い本を持っていました。一緒に新しい町に行きましょう。",
+        "en": "You and I will go. Is it you or me? We had that old book. Let us go to the new town together."
       }
     ]
   },
   {
     "id": "japanese-beginner-05",
     "level": "beginner",
-    "title": "Beginner 05: A Quiet Street",
+    "title": "Beginner 05: The New Room",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -180,19 +180,19 @@
       31,
       34
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/05-beginner-a-quiet-street.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/05-beginner-the-new-room.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、パーヴェルは通りへ行きます。近くに家と窓があります。パーヴェルはゆっくり読み、新しい言葉「通り」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Pavel is on the street. There is house and window nearby. Pavel reads slowly and notices a new word: street. The day feels good, and the language feels a little closer."
+        "ru": "私たちはその部屋の中にいました。どの部屋ですか？私たちは外に出ることができます。他の人々も外にいました。",
+        "en": "We were in that room. Which room? We can go out. Other people were outside too."
       }
     ]
   },
   {
     "id": "japanese-beginner-06",
     "level": "beginner",
-    "title": "Beginner 06: The First Book",
+    "title": "Beginner 06: The Plan",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -220,19 +220,19 @@
       39,
       42
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/06-beginner-the-first-book.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/06-beginner-the-plan.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、オリガは図書館へ行きます。近くに本とカードがあります。オリガはゆっくり読み、新しい言葉「言葉」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Olga is in the library. There is book and card nearby. Olga reads slowly and notices a new word: word. The day feels good, and the language feels a little closer."
+        "ru": "彼は「時間がない」と言いました。もし彼らが仕事をするなら、どのようにしますか？それは良い計画になるでしょう。",
+        "en": "He said, \"There is no time.\" If they do their work, how will they do it? It will be a good plan."
       }
     ]
   },
   {
     "id": "japanese-beginner-07",
     "level": "beginner",
-    "title": "Beginner 07: A Good Day",
+    "title": "Beginner 07: Three Wishes",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -260,19 +260,19 @@
       47,
       50
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/07-beginner-a-good-day.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/07-beginner-three-wishes.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、ニコライは公園へ行きます。近くに太陽と木があります。ニコライはゆっくり読み、新しい言葉「よい」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Nikolay is in the park. There is sun and tree nearby. Nikolay reads slowly and notices a new word: good. The day feels good, and the language feels a little closer."
+        "ru": "私はあなたに教えたいです。三つのものがあります。それぞれのものがきれいな空気を必要とします。それはうまく機能します。",
+        "en": "I want to tell you. There are three things. Each thing needs clean air. It works well."
       }
     ]
   },
   {
     "id": "japanese-beginner-08",
     "level": "beginner",
-    "title": "Beginner 08: At School",
+    "title": "Beginner 08: A Quiet Night",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -300,19 +300,19 @@
       55,
       58
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/08-beginner-at-school.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/08-beginner-a-quiet-night.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、サーシャは学校へ行きます。近くに机と鉛筆があります。サーシャはゆっくり読み、新しい言葉「学校」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Sasha is at school. There is desk and pencil nearby. Sasha reads slowly and notices a new word: school. The day feels good, and the language feels a little closer."
+        "ru": "私は家で小さな本を読みます。また、手を使って静かに遊びます。一日の終わりに本を棚に置きます。",
+        "en": "I read a small book at home. I also play quietly using my hand. At the end of the day, I put the book on the shelf."
       }
     ]
   },
   {
     "id": "japanese-beginner-09",
     "level": "beginner",
-    "title": "Beginner 09: At the Store",
+    "title": "Beginner 09: The Large Port",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -340,19 +340,19 @@
       63,
       66
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/09-beginner-at-the-store.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/09-beginner-the-large-port.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、イリーナは店へ行きます。近くにかばんと食べ物があります。イリーナはゆっくり読み、新しい言葉「店」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Irina is in the store. There is bag and food nearby. Irina reads slowly and notices a new word: store. The day feels good, and the language feels a little closer."
+        "ru": "ここは大きな港です。この土地には大きな船があります。ここに名前を正しく書き、綴らなければなりません。追加も必要です。",
+        "en": "Here is a large port. There is a big ship on this land. You must write and spell your name correctly here. Addition is also needed."
       }
     ]
   },
   {
     "id": "japanese-beginner-10",
     "level": "beginner",
-    "title": "Beginner 10: At the Station",
+    "title": "Beginner 10: The Path to Change",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -380,19 +380,19 @@
       71,
       74
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/10-beginner-at-the-station.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/10-beginner-the-path-to-change.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、マリアは駅へ行きます。近くにお茶と切符があります。マリアはゆっくり読み、新しい言葉「駅」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Maria is at the station. There is tea and ticket nearby. Maria reads slowly and notices a new word: station. The day feels good, and the language feels a little closer."
+        "ru": "人々は高い山に行きました。なぜ行くのかと尋ねました。彼らは行動し、その変化に従いました。",
+        "en": "The men went to a high mountain. I asked why they went. They acted and followed the change."
       }
     ]
   },
   {
     "id": "japanese-beginner-11",
     "level": "beginner",
-    "title": "Beginner 11: A Simple Call",
+    "title": "Beginner 11: The New Picture",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -420,19 +420,19 @@
       79,
       82
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/11-beginner-a-simple-call.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/11-beginner-the-new-picture.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、ディマは家へ行きます。近くに電話とノートがあります。ディマはゆっくり読み、新しい言葉「友だち」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Dima is at home. There is phone and notebook nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
+        "ru": "この家には光が必要です。電気を消して、もう一度写真を撮ってみてください。親切な人が私たちを助けてくれます。",
+        "en": "This house needs light. Please turn the light off and try to take a picture again. A kind person will help us."
       }
     ]
   },
   {
     "id": "japanese-beginner-12",
     "level": "beginner",
-    "title": "Beginner 12: I Know This Word",
+    "title": "Beginner 12: Our World",
     "difficulty": "Beginner page",
     "band": 1,
     "wordRange": [
@@ -460,19 +460,19 @@
       87,
       90
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/12-beginner-i-know-this-word.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/beginner/12-beginner-our-world.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、カーチャは部屋へ行きます。近くに紙と本があります。カーチャはゆっくり読み、新しい言葉「知る」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Katya is in the room. There is paper and book nearby. Katya reads slowly and notices a new word: know. The day feels good, and the language feels a little closer."
+        "ru": "私の母と父は地球を愛しています。私たちは家の近くに小さな家を建て、自分で野生動物を観察します。それが世界の意味です。",
+        "en": "My mother and father love the earth. We build a small house near our home and observe wild animals ourselves. That is the point of the world."
       }
     ]
   },
   {
     "id": "japanese-elementary-13",
     "level": "elementary",
-    "title": "Elementary 13: The Library Window",
+    "title": "Elementary 13: The Lost Dog",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -508,24 +508,24 @@
       95,
       98
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/13-elementary-the-library-window.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/13-elementary-the-lost-dog.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、パーヴェルは図書館へ行きます。近くに窓とノートがあります。パーヴェルはゆっくり読み、新しい言葉「静か」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Pavel is in the library. There is window and notebook nearby. Pavel reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
+        "ru": "ある日、女の子は近くの森で小さな犬を見つけました。その犬は迷子になっていたようで、とても寒そうにしていました。女の子は優しく話しかけ、犬を安心させました。",
+        "en": "One day, a girl found a small dog in the nearby\nforest. The dog seemed to be lost and looked very cold. The girl spoke to it\ngently and made it feel safe."
       },
       {
         "heading": "Page 2",
-        "ru": "パーヴェルはノートに「静か」を書きます。それから「読むこと」について考えます。そこは静かなので、パーヴェルは文をもう一度読み、小さな声で言います。",
-        "en": "Pavel writes the word quiet in a notebook. Then Pavel thinks about reading. The place is quiet, so Pavel reads the sentence again and says it softly."
+        "ru": "彼女は犬を自分の家に連れて帰り、温かい食べ物を与えました。犬は嬉しそうに尾を振りました。彼女の母と父も犬を家族として迎え入れることに同意し、みんな幸せになりました。",
+        "en": "She took the dog back to her house and gave it warm\nfood. The dog wagged its tail happily. Her mother and father also agreed to\nwelcome the dog as a family member, and everyone became happy. === END OF\nSTORY 13 ==="
       }
     ]
   },
   {
     "id": "japanese-elementary-14",
     "level": "elementary",
-    "title": "Elementary 14: The Museum Visit",
+    "title": "Elementary 14: The New House",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -561,24 +561,24 @@
       111,
       114
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/14-elementary-the-museum-visit.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/14-elementary-the-new-house.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、ニコライは博物館へ行きます。近くに切符と絵があります。ニコライはゆっくり読み、新しい言葉「歴史」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Nikolay is in the museum. There is ticket and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
+        "ru": "私たちは新しい家を建てるために、この静かな土地を選びました。近くには川があり、毎日鳥の歌声が聞こえます。今日からここで新しい生活が始まります。",
+        "en": "We chose this quiet land to build a new house.\nThere is a river nearby, and we can hear birds singing every day. A new life\nbegins here starting today."
       },
       {
         "heading": "Page 2",
-        "ru": "ニコライはノートに「歴史」を書きます。それから「記憶」について考えます。そこは静かなので、ニコライは文をもう一度読み、小さな声で言います。",
-        "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about memory. The place is quiet, so Nikolay reads the sentence again and says it softly."
+        "ru": "父と私は、家の近くに小さな庭を造り始めました。私たちはそこにきれいな花を植えました。母は庭を窓から見て、とても親切に私たちを助けてくれました。",
+        "en": "My father and I began to build a small garden near\nthe house. We planted beautiful flowers there. Watching from the window, my\nmother helped us very kindly."
       }
     ]
   },
   {
     "id": "japanese-elementary-15",
     "level": "elementary",
-    "title": "Elementary 15: The Cafe Notebook",
+    "title": "Elementary 15: The Mother's Advice",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -614,24 +614,24 @@
       127,
       130
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/15-elementary-the-cafe-notebook.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/15-elementary-the-mothers-advice.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、オリガはカフェへ行きます。近くにお茶と音楽があります。オリガはゆっくり読み、新しい言葉「メロディー」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Olga is in the cafe. There is tea and music nearby. Olga reads slowly and notices a new word: melody. The day feels good, and the language feels a little closer."
+        "ru": "男の子は学校の難しい問題を考えていました。彼は長い時間、その本を読みましたが、答えが分かりませんでした。彼はとても困っていました。",
+        "en": "The boy was thinking about a difficult school\nproblem. He read that book for a long time, but did not understand the answer.\nHe was very troubled."
       },
       {
         "heading": "Page 2",
-        "ru": "オリガはノートに「メロディー」を書きます。それから「聞くこと」について考えます。そこは静かなので、オリガは文をもう一度読み、小さな声で言います。",
-        "en": "Olga writes the word melody in a notebook. Then Olga thinks about listening. The place is quiet, so Olga reads the sentence again and says it softly."
+        "ru": "母は彼の近くに来て、優しく言いました。「もう一度、最初のページから試してみて。ゆっくり読めば、その意味がきっとよく分かるわ。」彼は再び挑戦しました。",
+        "en": "His mother came near him and said gently, \"Try\nagain from the first page. If you read slowly, you will surely understand the\npoint well.\" He challenged it again."
       }
     ]
   },
   {
     "id": "japanese-elementary-16",
     "level": "elementary",
-    "title": "Elementary 16: Rain Near the Door",
+    "title": "Elementary 16: Building a Bridge",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -667,24 +667,24 @@
       143,
       146
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/16-elementary-rain-near-the-door.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/16-elementary-building-a-bridge.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、ディマは本屋へ行きます。近くにドアと本があります。ディマはゆっくり読み、新しい言葉「道」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Dima is in the bookshop. There is door and book nearby. Dima reads slowly and notices a new word: road. The day feels good, and the language feels a little closer."
+        "ru": "私たちの村の近くには大きな川があります。向こう側の土地に行くには、いつも遠い道を歩かなければなりませんでした。それはとても不便でした。",
+        "en": "There is a large river near our village. To go to\nthe land on the other side, we always had to walk a long way. It was very\ninconvenient."
       },
       {
         "heading": "Page 2",
-        "ru": "ディマはノートに「道」を書きます。それから「雨」について考えます。そこは静かなので、ディマは文をもう一度読み、小さな声で言います。",
-        "en": "Dima writes the word road in a notebook. Then Dima thinks about rain. The place is quiet, so Dima reads the sentence again and says it softly."
+        "ru": "人々は集まり、木を使って新しい橋を建てることにしました。みんなで手を使って一生懸命働き、ついに大きな橋が完成しました。これで簡単に行き来ができます。",
+        "en": "The people gathered and decided to build a new\nbridge using wood. Everyone worked hard using their hands, and finally, a large\nbridge was completed. Now we can cross back and forth easily. === END OF\nSTORY 16 ==="
       }
     ]
   },
   {
     "id": "japanese-elementary-17",
     "level": "elementary",
-    "title": "Elementary 17: The Letter on the Table",
+    "title": "Elementary 17: The Picture Book",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -720,24 +720,24 @@
       159,
       162
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/17-elementary-the-letter-on-the-table.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/17-elementary-the-picture-book.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、サーシャは大学へ行きます。近くに手紙とテーブルがあります。サーシャはゆっくり読み、新しい言葉「会議」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Sasha is at the university. There is letter and table nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
+        "ru": "祖父は私に一冊の古い絵本をくれました。その本には、世界中の動物たちの美しい写真がたくさん載っていました。私はその本が大好きになりました。",
+        "en": "My grandfather gave me an old picture book. In that\nbook, there were many beautiful pictures of animals from all over the world. I\nfell in love with that book."
       },
       {
         "heading": "Page 2",
-        "ru": "サーシャはノートに「会議」を書きます。それから「招待」について考えます。そこは静かなので、サーシャは文をもう一度読み、小さな声で言います。",
-        "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about invitation. The place is quiet, so Sasha reads the sentence again and says it softly."
+        "ru": "私は本を読みながら、いくつかの言葉のスペルを覚える練習をしました。母は私の隣に座って、私が正しく綴ることができるように親切に教えてくれました。",
+        "en": "While reading the book, I practiced remembering the\nspelling of some words. Sitting next to me, my mother kindly taught me so that I\ncould spell them correctly."
       }
     ]
   },
   {
     "id": "japanese-elementary-18",
     "level": "elementary",
-    "title": "Elementary 18: Words in the Park",
+    "title": "Elementary 18: Pointing to the Sky",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -773,24 +773,24 @@
       175,
       178
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/18-elementary-words-in-the-park.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/18-elementary-pointing-to-the-sky.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、イリーナは公園へ行きます。近くに電話とお茶があります。イリーナはゆっくり読み、新しい言葉「三つ」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Irina is in the park. There is phone and tea nearby. Irina reads slowly and notices a new word: three. The day feels good, and the language feels a little closer."
+        "ru": "高い山の上に登ると、空がとても近くに見えました。風は強く吹いていましたが、光が満ちていて、世界が広く感じられました。",
+        "en": "When we climbed up the high mountain, the sky\nlooked very close. Although the wind was blowing strongly, it was filled with\nlight, and the world felt wide."
       },
       {
         "heading": "Page 2",
-        "ru": "イリーナはノートに「三つ」を書きます。それから「話すこと」について考えます。そこは静かなので、イリーナは文をもう一度読み、小さな声で言います。",
-        "en": "Irina writes the word three in a notebook. Then Irina thinks about speaking. The place is quiet, so Irina reads the sentence again and says it softly."
+        "ru": "父は空を指して、「あの大きな鳥たちを見てごらん。彼らは遠い土地へ飛んでいくんだよ」と言いました。私たちは鳥の動きを静かに見守りました。",
+        "en": "Pointing to the sky, my father said, \"Look at those\nbig birds. They are flying to a distant land.\" We quietly watched the birds'\nmovement."
       }
     ]
   },
   {
     "id": "japanese-elementary-19",
     "level": "elementary",
-    "title": "Elementary 19: The Little Plan",
+    "title": "Elementary 19: The Father's Letter",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -826,24 +826,24 @@
       191,
       194
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/19-elementary-the-little-plan.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/19-elementary-the-fathers-letter.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、レナは店へ行きます。近くに地図とかごがあります。レナはゆっくり読み、新しい言葉「計画」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Lena is in the store. There is map and basket nearby. Lena reads slowly and notices a new word: plan. The day feels good, and the language feels a little closer."
+        "ru": "父は仕事のために遠い大きな港の町に行っていました。ある日、家にお父さんからの手紙が届きました。私は嬉しくて、すぐに封筒を開けました。",
+        "en": "My father went to a distant, large port town for\nwork. One day, a letter from my father arrived at the house. I was happy and\nopened the envelope immediately."
       },
       {
         "heading": "Page 2",
-        "ru": "レナはノートに「計画」を書きます。それから「買い物」について考えます。そこは静かなので、レナは文をもう一度読み、小さな声で言います。",
-        "en": "Lena writes the word plan in a notebook. Then Lena thinks about shopping. The place is quiet, so Lena reads the sentence again and says it softly."
+        "ru": "手紙には、その土地の美しい景色や、新しい人々との出会いについて書かれていました。父は「またすぐに帰るよ」と書いていました。私は安心しました。",
+        "en": "Written in the letter were details about the\nbeautiful scenery of that land and meetings with new people. My father wrote, \"I\nwill return again soon.\" I felt relieved."
       }
     ]
   },
   {
     "id": "japanese-elementary-20",
     "level": "elementary",
-    "title": "Elementary 20: The News Page",
+    "title": "Elementary 20: Water from the Well",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -879,24 +879,24 @@
       207,
       210
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/20-elementary-the-news-page.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/20-elementary-water-from-the-well.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、マリアは駅へ行きます。近くにお茶と新聞があります。マリアはゆっくり読み、新しい言葉「ニュース」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Maria is at the station. There is tea and newspaper nearby. Maria reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
+        "ru": "非常に暑い夏の午後でした。家の中は風がなく、私たちは冷たい水を必要としていました。近くの古い井戸に水を取りに行くことにしました。",
+        "en": "It was an extremely hot summer afternoon. There was\nno wind inside the house, and we needed cold water. We decided to go get water\nfrom the old nearby well."
       },
       {
         "heading": "Page 2",
-        "ru": "マリアはノートに「ニュース」を書きます。それから「考え」について考えます。そこは静かなので、マリアは文をもう一度読み、小さな声で言います。",
-        "en": "Maria writes the word news in a notebook. Then Maria thinks about thinking. The place is quiet, so Maria reads the sentence again and says it softly."
+        "ru": "私たちは手を使って重い桶を引き上げました。井戸の水はとても冷たく、私たちは生き返るような気持ちになりました。自然の恵みに感謝しました。",
+        "en": "We used our hands to pull up the heavy bucket. The\nwell water was very cold, and we felt as though we were brought back to life. We\nthanked nature's blessing."
       }
     ]
   },
   {
     "id": "japanese-elementary-21",
     "level": "elementary",
-    "title": "Elementary 21: The Family Walk",
+    "title": "Elementary 21: A Day of Play",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -932,24 +932,24 @@
       223,
       226
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/21-elementary-the-family-walk.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/21-elementary-a-day-of-play.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、アンナは公園へ行きます。近くに母と兄弟があります。アンナはゆっくり読み、新しい言葉「家」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Anna is in the park. There is mother and brother nearby. Anna reads slowly and notices a new word: house. The day feels good, and the language feels a little closer."
+        "ru": "今日は学校がお休みです。小さな子供たちが近くの広場に集まって、みんなで元気に遊び始めました。天気は良く、気持ちの良い風が吹いていました。",
+        "en": "Today is a school holiday. Small children gathered\nin the nearby square and all began playing energetically. The weather was good,\nand a pleasant wind was blowing."
       },
       {
         "heading": "Page 2",
-        "ru": "アンナはノートに「家」を書きます。それから「家族」について考えます。そこは静かなので、アンナは文をもう一度読み、小さな声で言います。",
-        "en": "Anna writes the word house in a notebook. Then Anna thinks about family. The place is quiet, so Anna reads the sentence again and says it softly."
+        "ru": "彼らは夕方まで走り回りました。一日の終わりに、みんなで大きな輪を作って座り、今日読んだ面白い本についてお互いに話し合いました。",
+        "en": "They ran around until evening. At the end of the\nday, everyone made a big circle and sat, talking to each other about the\ninteresting books they read today."
       }
     ]
   },
   {
     "id": "japanese-elementary-22",
     "level": "elementary",
-    "title": "Elementary 22: The Quiet Room",
+    "title": "Elementary 22: Small Endings",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -985,24 +985,24 @@
       239,
       242
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/22-elementary-the-quiet-room.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/22-elementary-small-endings.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、イワンは部屋へ行きます。近くに椅子と本があります。イワンはゆっくり読み、新しい言葉「部屋」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Ivan is in the room. There is chair and book nearby. Ivan reads slowly and notices a new word: room. The day feels good, and the language feels a little closer."
+        "ru": "すべてのことには終わりがあります。しかし、一つの終わりは、常に新しいことの始まりを意味しています。男の子は古いおもちゃを箱に置きました。",
+        "en": "There is an end to all things. However, one ending\nalways means the beginning of something new. The boy put his old toys in the\nbox."
       },
       {
         "heading": "Page 2",
-        "ru": "イワンはノートに「部屋」を書きます。それから「静けさ」について考えます。そこは静かなので、イワンは文をもう一度読み、小さな声で言います。",
-        "en": "Ivan writes the word room in a notebook. Then Ivan thinks about silence. The place is quiet, so Ivan reads the sentence again and says it softly."
+        "ru": "彼はもう大きくなりました。彼は新しい本を読み、自分で新しい計画を立てる必要があります。彼は未来に向かって笑顔で歩き始めました。",
+        "en": "He has already grown up. He needs to read new books\nand make new plans himself. He began walking toward the future with a smile. ===\nEND OF STORY 22 ==="
       }
     ]
   },
   {
     "id": "japanese-elementary-23",
     "level": "elementary",
-    "title": "Elementary 23: The New Teacher",
+    "title": "Elementary 23: The Port City",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1037,24 +1037,24 @@
       255,
       258
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/23-elementary-the-new-teacher.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/23-elementary-the-port-city.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、マーシャは学校へ行きます。近くに先生とボードがあります。マーシャはゆっくり読み、新しい言葉「質問」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Masha is at school. There is teacher and board nearby. Masha reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
+        "ru": "私の家は大きな港の近くにあります。毎日、世界中から大きな船がやってきて、たくさんの人々がこの土地に降ります。ここはとても賑やかです。",
+        "en": "My house is near a large port. Every day, big ships\narrive from all over the world, and many people disembark onto this land. This\nplace is very lively."
       },
       {
         "heading": "Page 2",
-        "ru": "マーシャはノートに「質問」を書きます。それから「学び」について考えます。そこは静かなので、マーシャは文をもう一度読み、小さな声で言います。",
-        "en": "Masha writes the word question in a notebook. Then Masha thinks about learning. The place is quiet, so Masha reads the sentence again and says it softly."
+        "ru": "夕方、私は父と一緒に海の近くに行き、船が外に出ていくのを見ます。夕日の光が海を赤く照らし、その光景は言葉にできないほど美しいです。",
+        "en": "In the evening, I go near the sea with my father\nand watch the ships head out. The light of the setting sun paints the sea red,\nand the scenery is too beautiful for words."
       }
     ]
   },
   {
     "id": "japanese-elementary-24",
     "level": "elementary",
-    "title": "Elementary 24: The Bus Stop",
+    "title": "Elementary 24: High Lands",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1089,24 +1089,24 @@
       270,
       273
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/24-elementary-the-bus-stop.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/24-elementary-high-lands.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、パーヴェルは通りへ行きます。近くに切符とバスがあります。パーヴェルはゆっくり読み、新しい言葉「時間」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Pavel is on the street. There is ticket and bus nearby. Pavel reads slowly and notices a new word: time. The day feels good, and the language feels a little closer."
+        "ru": "私たちは高い山を登る計画を立てました。その山は雲の近くまで高くそびえ立っており、登るには強い意志と行動が必要でした。",
+        "en": "We made a plan to climb a high mountain. That\nmountain towered high near the clouds, and climbing it required strong will and\naction."
       },
       {
         "heading": "Page 2",
-        "ru": "パーヴェルはノートに「時間」を書きます。それから「待つこと」について考えます。そこは静かなので、パーヴェルは文をもう一度読み、小さな声で言います。",
-        "en": "Pavel writes the word time in a notebook. Then Pavel thinks about waiting. The place is quiet, so Pavel reads the sentence again and says it softly."
+        "ru": "山頂に着くと、冷たい風が吹いていました。そこから見る世界は非常に広く、家や川が小さく見えました。私たちは自分自身の力でここまで来られたことを誇りに思いました。",
+        "en": "When we reached the summit, a cold wind was\nblowing. The world seen from there was extremely wide; houses and rivers looked\nsmall. We were proud to have come this far through our own strength. === END OF\nSTORY 24 ==="
       }
     ]
   },
   {
     "id": "japanese-elementary-25",
     "level": "elementary",
-    "title": "Elementary 25: The Small Market",
+    "title": "Elementary 25: Trying Again",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1141,24 +1141,24 @@
       285,
       288
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/25-elementary-the-small-market.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/25-elementary-trying-again.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、オリガは市場へ行きます。近くに果物とかばんがあります。オリガはゆっくり読み、新しい言葉「お金」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Olga is at the market. There is fruit and bag nearby. Olga reads slowly and notices a new word: money. The day feels good, and the language feels a little closer."
+        "ru": "女の子は紙で小さな動物の形を折ろうとしていました。しかし、最初の試みは失敗し、紙は破れてしまいました。彼女は少し悲しくなりました。",
+        "en": "The girl was trying to fold a paper into the shape\nof a small animal. However, her first attempt failed, and the paper tore. She\nbecame a little sad."
       },
       {
         "heading": "Page 2",
-        "ru": "オリガはノートに「お金」を書きます。それから「市場」について考えます。そこは静かなので、オリガは文をもう一度読み、小さな声で言います。",
-        "en": "Olga writes the word money in a notebook. Then Olga thinks about market. The place is quiet, so Olga reads the sentence again and says it softly."
+        "ru": "お母さんは彼女に「もう一度試してみて。次はもっとゆっくり折るといいよ」と言いました。彼女は新しい紙を使い、ついに美しい形を折ることができました。",
+        "en": "Her mother told her, \"Try again. Next time, it's\nbetter to fold it more slowly.\" Using a new sheet of paper, she was finally able\nto fold a beautiful shape."
       }
     ]
   },
   {
     "id": "japanese-elementary-26",
     "level": "elementary",
-    "title": "Elementary 26: The First Conversation",
+    "title": "Elementary 26: The World of Words",
     "difficulty": "Elementary pages",
     "band": 2,
     "wordRange": [
@@ -1193,24 +1193,24 @@
       300,
       303
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/26-elementary-the-first-conversation.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/elementary/26-elementary-the-world-of-words.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、ディマはカフェへ行きます。近くに電話と友だちがあります。ディマはゆっくり読み、新しい言葉「文」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Dima is in the cafe. There is phone and friend nearby. Dima reads slowly and notices a new word: sentence. The day feels good, and the language feels a little closer."
+        "ru": "言葉は私たちを新しい世界へと連れて行ってくれます。私は毎日、新しい言葉の意味を調べ、ノートに書き写して覚える練習をしています。",
+        "en": "Words take us to new worlds. Every day, I look up\nthe meanings of new words, copy them into my notebook, and practice memorizing\nthem."
       },
       {
         "heading": "Page 2",
-        "ru": "ディマはノートに「文」を書きます。それから「会話」について考えます。そこは静かなので、ディマは文をもう一度読み、小さな声で言います。",
-        "en": "Dima writes the word sentence in a notebook. Then Dima thinks about talk. The place is quiet, so Dima reads the sentence again and says it softly."
+        "ru": "本を読むことは、自分自身を高めるための素晴らしい方法です。多くの本を読むことで、私たちは他人の考えを理解し、より親切な人になることができます。",
+        "en": "Reading books is a wonderful way to improve\noneself. By reading many books, we can understand other people's thoughts and\nbecome kinder people."
       }
     ]
   },
   {
     "id": "japanese-intermediate-27",
     "level": "intermediate",
-    "title": "Intermediate 27: The Lost Note",
+    "title": "Intermediate 27: The Old Clock",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1254,29 +1254,29 @@
       315,
       318
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/27-intermediate-the-lost-note.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/27-intermediate-the-old-clock.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、カーチャは図書館へ行きます。近くにメモと地図があります。カーチャはゆっくり読み、新しい言葉「場所」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Katya is in the library. There is note and map nearby. Katya reads slowly and notices a new word: place. The day feels good, and the language feels a little closer."
+        "ru": "ある土曜日の午後、健太は家の古い屋根裏部屋を掃除していました。そこには、多くの古い箱や家具が置かれていました。部屋の隅に、大きな木製の古い時計が立っているのを見つけました。その時計はもう何年も動いていないようで、ほこりがたくさん積もっていました。",
+        "en": "On a Saturday afternoon, Kenta was cleaning the old\nattic of his house. Many old boxes and furniture were placed there. In the\ncorner of the room, he found a large, old wooden clock standing. The clock did\nnot seem to have moved for many years, and a lot of dust had accumulated on it."
       },
       {
         "heading": "Page 2",
-        "ru": "カーチャはノートに「場所」を書きます。それから「探すこと」について考えます。そこは静かなので、カーチャは文をもう一度読み、小さな声で言います。",
-        "en": "Katya writes the word place in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
+        "ru": "健太は時計のガラスの扉を開けて、中を調べてみました。すると、振り子の後ろに小さな真鍮の鍵が隠されているのを見つけました。彼はその鍵を手に取り、時計の側面にある小さな穴に差し込んでみました。鍵はぴったりと合いました。",
+        "en": "Kenta opened the clock's glass door and examined\nthe inside. Then, he found a small brass key hidden behind the pendulum. He took\nthe key in his hand and tried inserting it into a small hole on the side of the\nclock. The key fit perfectly."
       },
       {
         "heading": "Page 3",
-        "ru": "小さな問題が出ますが、カーチャは新しい言葉を使います。メモを見て、次に地図を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
-        "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the note, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
+        "ru": "彼が鍵をゆっくりと回すと、カチカチという懐かしい音が聞こえ始めました。時計の針が再び動き出し、美しい鐘の音が部屋中に響きました。それは、祖父が昔よく聞いていた音と同じでした。健太は暖かい気持ちになり、時間の不思議さを感じました。",
+        "en": "As he turned the key slowly, a nostalgic ticking\nsound began to be heard. The hands of the clock started moving again, and the\nbeautiful sound of a chime echoed throughout the room. It was the same sound his\ngrandfather used to listen to long ago. Kenta felt a warm feeling and\nexperienced the wonder of time."
       }
     ]
   },
   {
     "id": "japanese-intermediate-28",
     "level": "intermediate",
-    "title": "Intermediate 28: A Meeting at Noon",
+    "title": "Intermediate 28: The Quiet Forest",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1320,29 +1320,29 @@
       339,
       342
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/28-intermediate-a-meeting-at-noon.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/28-intermediate-the-quiet-forest.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、サーシャは大学へ行きます。近くに時計と手紙があります。サーシャはゆっくり読み、新しい言葉「正午」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Sasha is at the university. There is clock and letter nearby. Sasha reads slowly and notices a new word: noon. The day feels good, and the language feels a little closer."
+        "ru": "美咲は、鳥の声しか聞こえない静かな森の中を歩いていました。木々はとても高く、太陽の光が葉の間からわずかに差し込むだけでした。足元には柔らかい緑の苔が広がっており、まるで静かな絨毯の上を歩いているようでした。",
+        "en": "Misaki was walking through a quiet forest where\nonly the voices of birds could be heard. The trees were very tall, and the\nsunlight only slightly filtered through the leaves. Soft green moss spread\nunderfoot, making it feel as if she were walking on a quiet carpet."
       },
       {
         "heading": "Page 2",
-        "ru": "サーシャはノートに「正午」を書きます。それから「会議」について考えます。そこは静かなので、サーシャは文をもう一度読み、小さな声で言います。",
-        "en": "Sasha writes the word noon in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
+        "ru": "さらに奥へ進むと、突然目の前が開け、小さな美しい湖が現れました。湖の水は鏡のように澄んでいて、青い空と白い雲がそのまま映っていました。近くには数頭の鹿がいて、静かに水を飲んでいました。彼女は息をのんでその光景を見つめました。",
+        "en": "As she went further inside, the space in front of\nher suddenly opened up, and a small, beautiful lake appeared. The lake water was\nas clear as a mirror, reflecting the blue sky and white clouds exactly. There\nwere several deer nearby, quietly drinking water. She held her breath and stared\nat the scene."
       },
       {
         "heading": "Page 3",
-        "ru": "小さな問題が出ますが、サーシャは新しい言葉を使います。時計を見て、次に手紙を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
-        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the clock, looks at the letter, and makes a simple plan. By the end, Sasha can say one clear sentence."
+        "ru": "美咲は湖の近くにある乾いた岩の上に座り、バッグからスケッチブックとペンを取り出しました。彼女は、森の静けさと美しい湖、そして鹿たちの姿を言葉と絵で書き留めました。この特別な旅の記憶は、彼女の心の中にずっと残り続けるでしょう。",
+        "en": "Misaki sat on a dry rock near the lake and took out\na sketchbook and a pen from her bag. She wrote down the silence of the forest,\nthe beautiful lake, and the appearance of the deer using words and drawings. The\nmemory of this special journey will surely remain in her heart forever. === END\nOF STORY 28 ==="
       }
     ]
   },
   {
     "id": "japanese-intermediate-29",
     "level": "intermediate",
-    "title": "Intermediate 29: The Old Map",
+    "title": "Intermediate 29: The City by the Sea",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1386,29 +1386,29 @@
       363,
       366
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/29-intermediate-the-old-map.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/29-intermediate-the-city-by-the-sea.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、ニコライは博物館へ行きます。近くに地図と通りがあります。ニコライはゆっくり読み、新しい言葉「町」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Nikolay is in the museum. There is map and street nearby. Nikolay reads slowly and notices a new word: city. The day feels good, and the language feels a little closer."
+        "ru": "拓海は、海沿いにある美しい港町に住んでいました。毎年夏になると、この町では大きなお祭りが開催されます。港には色とりどりの旗が飾られ、美味しい食べ物の屋台がたくさん並びます。夕方になると、多くの人々が浴衣を着て集まり始めました。",
+        "en": "Takumi lived in a beautiful port town along the\nsea. Every summer, a large festival is held in this town. Various colorful flags\nare decorated at the port, and many stalls of delicious food stand in a row. As\nevening approached, many people wearing yukata began to gather."
       },
       {
         "heading": "Page 2",
-        "ru": "ニコライはノートに「町」を書きます。それから「歴史」について考えます。そこは静かなので、ニコライは文をもう一度読み、小さな声で言います。",
-        "en": "Nikolay writes the word city in a notebook. Then Nikolay thinks about history. The place is quiet, so Nikolay reads the sentence again and says it softly."
+        "ru": "拓海は、港の近くで古い漁師の源さんに出会いました。源さんは、若い頃に経験した遠い海への航海の話をしてくれました。嵐の中で見た不思議な青い光や、巨大な魚の話に、拓海は目を輝かせて聞き入りました。それは冒険への憧れを強くさせるものでした。",
+        "en": "Takumi met Gen-san, an old fisherman, near the\nport. Gen-san told him stories of sea voyages to distant oceans that he had\nexperienced when he was young. Takumi listened with shining eyes to the stories\nof the mysterious blue light seen in the storm and the giant fish. It was\nsomething that strengthened his longing for adventure."
       },
       {
         "heading": "Page 3",
-        "ru": "小さな問題が出ますが、ニコライは新しい言葉を使います。地図を見て、次に通りを見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
-        "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the map, looks at the street, and makes a simple plan. By the end, Nikolay can say one clear sentence."
+        "ru": "夜が深まると、お祭りのハイライトである花火が始まりました。大きな音が響き、暗い空に美しい光の大輪の花が次々と咲きました。海の水面にもその光が映り、街全体が輝いているようでした。拓海は、この美しい故郷の景色を誇りに思いました。",
+        "en": "As the night deepened, the fireworks, which were\nthe highlight of the festival, began. A loud sound echoed, and large flowers of\nbeautiful light bloomed one after another in the dark sky. The light was also\nreflected on the sea's surface, making the entire town look as if it were\nglowing. Takumi felt proud of the beautiful scenery of his hometown. === END OF\nSTORY 29 ==="
       }
     ]
   },
   {
     "id": "japanese-intermediate-30",
     "level": "intermediate",
-    "title": "Intermediate 30: The Rainy Lesson",
+    "title": "Intermediate 30: The Creative Lesson",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1452,29 +1452,29 @@
       387,
       390
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/30-intermediate-the-rainy-lesson.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/30-intermediate-the-creative-lesson.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、イリーナは学校へ行きます。近くに窓と雨があります。イリーナはゆっくり読み、新しい言葉「天気」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Irina is at school. There is window and rain nearby. Irina reads slowly and notices a new word: weather. The day feels good, and the language feels a little closer."
+        "ru": "木村先生の理科のクラスで、新しいグループワークの課題が出されました。それは、「未来のクリーンな街」の模型を作ることでした。生徒たちは４人のチームに分かれ、どのようなエネルギーを使い、どのように環境を守るかを話し合い始めました。",
+        "en": "In Mr. Kimura's science class, a new group work\nassignment was given. It was to build a model of a \"clean city of the future.\"\nThe students divided into teams of four and began to discuss what kind of energy\nto use and how to protect the environment."
       },
       {
         "heading": "Page 2",
-        "ru": "イリーナはノートに「天気」を書きます。それから「勉強」について考えます。そこは静かなので、イリーナは文をもう一度読み、小さな声で言います。",
-        "en": "Irina writes the word weather in a notebook. Then Irina thinks about study. The place is quiet, so Irina reads the sentence again and says it softly."
+        "ru": "さくらのチームでは、たくさんのユニークなアイデアが出ました。太陽光パネルをすべての家の屋根に設置することや、雨水をためて植物に与えるシステムなどです。彼らは紙や段ボールなど、シンプルな素材を使って、協力しながら模型を組み立てていきました。",
+        "en": "In Sakura's team, many unique ideas came up. These\nincluded installing solar panels on the roofs of all houses and a system to\ncollect rainwater to feed plants. They used simple materials such as paper and\ncardboard, cooperating as they assembled the model."
       },
       {
         "heading": "Page 3",
-        "ru": "小さな問題が出ますが、イリーナは新しい言葉を使います。窓を見て、次に雨を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
-        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the window, looks at the rain, and makes a simple plan. By the end, Irina can say one clear sentence."
+        "ru": "発表の日、それぞれのチームが素晴らしい模型をクラスの前で見せました。さくらのチームは、自分たちの未来の街の価値を自信を持って説明しました。みんなでアイデアを合わせ、協力することの大切さを学び、彼らは素晴らしい経験を得ました。",
+        "en": "On the presentation day, each team showed their\nwonderful models in front of the class. Sakura's team confidently explained the\nvalue of their future city. By bringing ideas together and learning the\nimportance of cooperation, they gained a wonderful experience. === END OF\nSTORY 30 ==="
       }
     ]
   },
   {
     "id": "japanese-intermediate-31",
     "level": "intermediate",
-    "title": "Intermediate 31: The Museum Question",
+    "title": "Intermediate 31: The Mountain Wind",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1518,29 +1518,29 @@
       411,
       414
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/31-intermediate-the-museum-question.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/31-intermediate-the-mountain-wind.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、パーヴェルは博物館へ行きます。近くに絵とノートがあります。パーヴェルはゆっくり読み、新しい言葉「質問」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Pavel is in the museum. There is picture and notebook nearby. Pavel reads slowly and notices a new word: question. The day feels good, and the language feels a little closer."
+        "ru": "翔太は、朝早くから高い山の登山道を進んでいました。風が非常に強く吹いていて、少し寒さを感じましたが、体は歩くことで暖まっていました。登山道の周りには、珍しい山の植物や小さな花が咲いていて、彼の目を励ましてくれました。",
+        "en": "Shota was making his way up a high mountain path\nfrom early morning. The wind was blowing very strongly, and he felt a little\ncold, but his body warmed up by walking. Around the mountain trail, rare\nmountain plants and small flowers were blooming, encouraging his eyes."
       },
       {
         "heading": "Page 2",
-        "ru": "パーヴェルはノートに「質問」を書きます。それから「答え」について考えます。そこは静かなので、パーヴェルは文をもう一度読み、小さな声で言います。",
-        "en": "Pavel writes the word question in a notebook. Then Pavel thinks about answer. The place is quiet, so Pavel reads the sentence again and says it softly."
+        "ru": "昼頃、突然空が暗くなり、激しい雨が降り始めました。幸いなことに、少し進んだところに石で造られた小さな避難小屋がありました。翔太は急いでその小屋の中に逃げ込み、雨が通り過ぎるのを待ちました。彼はそこで温かいお茶を飲みました。",
+        "en": "Around noon, the sky suddenly turned dark, and\nheavy rain began to fall. Fortunately, a short distance ahead, there was a small\nshelter built of stone. Shota quickly took refuge inside the shelter and waited\nfor the rain to pass. He drank warm tea there."
       },
       {
         "heading": "Page 3",
-        "ru": "小さな問題が出ますが、パーヴェルは新しい言葉を使います。絵を見て、次にノートを見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
-        "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the picture, looks at the notebook, and makes a simple plan. By the end, Pavel can say one clear sentence."
+        "ru": "一時間ほどすると、雨は止み、空には美しい青空が戻ってきました。翔太が小屋を出て山頂に到達したとき、眼下には雨に洗われて輝く広い谷が広がっていました。強い風が彼の疲れを吹き飛ばし、彼は登山の本当の楽しさを実感しました。",
+        "en": "After about an hour, the rain stopped, and the\nbeautiful blue sky returned. When Shota left the shelter and reached the summit,\na wide valley washed clean by the rain spread out shining below him. The strong\nwind blew away his fatigue, and he truly realized the real joy of mountain\nclimbing."
       }
     ]
   },
   {
     "id": "japanese-intermediate-32",
     "level": "intermediate",
-    "title": "Intermediate 32: The Train Delay",
+    "title": "Intermediate 32: The Grandfather's Map",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1584,29 +1584,29 @@
       435,
       438
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/32-intermediate-the-train-delay.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/32-intermediate-the-grandfathers-map.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、マリアは駅へ行きます。近くに切符と時計があります。マリアはゆっくり読み、新しい言葉「待つ」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Maria is at the station. There is ticket and clock nearby. Maria reads slowly and notices a new word: wait. The day feels good, and the language feels a little closer."
+        "ru": "小学生の蓮は、祖父の古い勉強部屋で本を探していました。机の古い引き出しを引くと、その奥から一枚の手書きの地図が出てきました。それは、祖父が子供の頃に描いた地元の森の地図で、赤いバツ印が一つだけ描かれていました。",
+        "en": "Elementary school student Ren was looking for a\nbook in his grandfather's old study room. When he pulled an old desk drawer, a\nhand-drawn map came out from the back. It was a map of the local forest drawn by\nhis grandfather when he was a child, with only one red 'X' marked on it."
       },
       {
         "heading": "Page 2",
-        "ru": "マリアはノートに「待つ」を書きます。それから「旅」について考えます。そこは静かなので、マリアは文をもう一度読み、小さな声で言います。",
-        "en": "Maria writes the word wait in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
+        "ru": "蓮は、友達の陸と一緒に、地図を頼りに森へ行くことにしました。地図に描かれている古い特徴的な木を目印にして、彼らは奥へと進みました。しばらく歩くと、草やツタに覆われた古い石造りの井戸が姿を現しました。地図の場所とぴったりでした。",
+        "en": "Ren decided to go to the forest with his friend\nRiku, relying on the map. Using the old characteristic tree drawn on the map as\na landmark, they headed deeper inside. After walking for a while, an old stone\nwell covered with grass and ivy revealed itself. It matched the map's location\nperfectly."
       },
       {
         "heading": "Page 3",
-        "ru": "小さな問題が出ますが、マリアは新しい言葉を使います。切符を見て、次に時計を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
-        "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the clock, and makes a simple plan. By the end, Maria can say one clear sentence."
+        "ru": "井戸の隙間をのぞくと、古いプラスチックの小さな箱が置かれているのを見つけました。箱を開けると、中には古い硬貨と、祖父が子供の時の名前が書かれたメモが入っていました。彼らは歴史のかけらを見つけ、まるでタイムトラベルをしたような気持ちになりました。",
+        "en": "Peering through a gap in the well, they found a\nsmall, old plastic box placed inside. When they opened the box, inside was an\nold coin and a memo with their grandfather's childhood name written on it. They\nfound a piece of history and felt as if they had traveled through time. === END\nOF STORY 32 ==="
       }
     ]
   },
   {
     "id": "japanese-intermediate-33",
     "level": "intermediate",
-    "title": "Intermediate 33: Music in the Cafe",
+    "title": "Intermediate 33: The Painting Class",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1650,29 +1650,29 @@
       459,
       462
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/33-intermediate-music-in-the-cafe.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/33-intermediate-the-painting-class.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、オリガはカフェへ行きます。近くに音楽とお茶があります。オリガはゆっくり読み、新しい言葉「歌」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Olga is in the cafe. There is music and tea nearby. Olga reads slowly and notices a new word: song. The day feels good, and the language feels a little closer."
+        "ru": "あおいは、毎週土曜日に絵画のクラスに通っていました。今日の授業は、教室の窓から見える川と空の景色を描くことでした。彼女は大きなキャンバスを準備し、水彩の絵の具をパレットの上にいくつか出しました。どんな絵を描くかワクワクしていました。",
+        "en": "Aoi attended a painting class every Saturday.\nToday's lesson was to paint the scenery of the river and sky seen from the\nclassroom window. She prepared a large canvas and put out several watercolor\npaints on the palette. She was excited about what kind of painting she would\nmake."
       },
       {
         "heading": "Page 2",
-        "ru": "オリガはノートに「歌」を書きます。それから「記憶」について考えます。そこは静かなので、オリガは文をもう一度読み、小さな声で言います。",
-        "en": "Olga writes the word song in a notebook. Then Olga thinks about memory. The place is quiet, so Olga reads the sentence again and says it softly."
+        "ru": "時間が経つと、外の空がゆっくりとオレンジ色に変わり始めました。川の水面には夕日の美しい光が反射していました。あおいは、その変化する美しい色を表現するために、赤と黄色の絵の具を慎重に混ぜ、ブラシを使ってキャンバスに色を乗せました。",
+        "en": "As time passed, the sky outside slowly began to\nturn orange. The beautiful light of the sunset reflected on the river's water\nsurface. To express those changing, beautiful colors, Aoi carefully mixed red\nand yellow paints and applied the colors to the canvas using a brush."
       },
       {
         "heading": "Page 3",
-        "ru": "小さな問題が出ますが、オリガは新しい言葉を使います。音楽を見て、次にお茶を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
-        "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the music, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
+        "ru": "クラスの終わりに、みんなの絵が壁に並べられました。同じ窓からの景色を描いたにもかかわらず、それぞれの絵には違った個性や美しさがありました。あおいは、他人の表現を見ることで深く学び、自分の絵の価値と可能性を改めて感じました。",
+        "en": "At the end of the class, everyone's paintings were\nlined up on the wall. Despite painting the scenery from the same window, each\npainting had a different individuality and beauty. Aoi learned deeply by looking\nat other people's expressions and felt once again the value and potential of her\nown art."
       }
     ]
   },
   {
     "id": "japanese-intermediate-34",
     "level": "intermediate",
-    "title": "Intermediate 34: A Letter from a Friend",
+    "title": "Intermediate 34: The Lost Key",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1716,29 +1716,29 @@
       483,
       486
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/34-intermediate-a-letter-from-a-friend.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/34-intermediate-the-lost-key.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、ディマは家へ行きます。近くに手紙と電話があります。ディマはゆっくり読み、新しい言葉「友だち」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Dima is at home. There is letter and phone nearby. Dima reads slowly and notices a new word: friend. The day feels good, and the language feels a little closer."
+        "ru": "放課後、すみれは家の小さな庭でなくした鍵を探していました。朝から雨が降っていたので、土は柔らかく、草には水の粒が残っていました。弟も一緒に来て、二人で石の下や植木鉢の近くを丁寧に見ました。",
+        "en": "After school, Sumire was looking for a lost key in the small garden at home. Because it had rained since morning, the soil was soft and drops of water remained on the grass. Her younger brother came too, and they carefully looked under stones and near the flowerpots."
       },
       {
         "heading": "Page 2",
-        "ru": "ディマはノートに「友だち」を書きます。それから「招待」について考えます。そこは静かなので、ディマは文をもう一度読み、小さな声で言います。",
-        "en": "Dima writes the word friend in a notebook. Then Dima thinks about invitation. The place is quiet, so Dima reads the sentence again and says it softly."
+        "ru": "すみれは古いベンチのそばで、泥の中に細い線を見つけました。それは誰かが何かを引きずった跡のようでした。弟は葉をどかしながら、「ここをもう一度見よう」と言いました。二人は急がず、静かに手がかりを追いました。",
+        "en": "Near an old bench, Sumire found a thin line in the mud. It looked like a mark left by something being dragged. Her brother moved the leaves aside and said, \"Let's look here one more time.\" The two followed the clue quietly without rushing."
       },
       {
         "heading": "Page 3",
-        "ru": "小さな問題が出ますが、ディマは新しい言葉を使います。手紙を見て、次に電話を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
-        "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the letter, looks at the phone, and makes a simple plan. By the end, Dima can say one clear sentence."
+        "ru": "最後に、灰色の小さな石の下で金色の光が見えました。すみれが石を持ち上げると、そこに鍵がありました。彼女はほっとして笑い、弟に感謝しました。その日、二人は注意深く見ることの大切さを学びました。",
+        "en": "At last, a golden shine appeared under a small gray stone. When Sumire lifted the stone, the key was there. She smiled with relief and thanked her brother. That day, they learned the importance of looking carefully."
       }
     ]
   },
   {
     "id": "japanese-intermediate-35",
     "level": "intermediate",
-    "title": "Intermediate 35: The School Project",
+    "title": "Intermediate 35: The River Adventure",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1781,29 +1781,29 @@
       507,
       510
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/35-intermediate-the-school-project.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/35-intermediate-the-river-adventure.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、マーシャは学校へ行きます。近くに紙と先生があります。マーシャはゆっくり読み、新しい言葉「プロジェクト」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Masha is at school. There is paper and teacher nearby. Masha reads slowly and notices a new word: project. The day feels good, and the language feels a little closer."
+        "ru": "夏休みの朝、はるとは友達と川辺へ行きました。水は透明で、浅い場所では小さな魚が銀色に光っていました。先生から遠くへ行きすぎないように言われていたので、みんなは岸の近くで遊ぶことにしました。",
+        "en": "On a summer vacation morning, Haruto went to the riverside with his friends. The water was clear, and in the shallow places small fish shone silver. Their teacher had told them not to go too far, so everyone decided to play near the bank."
       },
       {
         "heading": "Page 2",
-        "ru": "マーシャはノートに「プロジェクト」を書きます。それから「グループ」について考えます。そこは静かなので、マーシャは文をもう一度読み、小さな声で言います。",
-        "en": "Masha writes the word project in a notebook. Then Masha thinks about group. The place is quiet, so Masha reads the sentence again and says it softly."
+        "ru": "突然、強い風が吹いて、友達の帽子が川に落ちました。帽子はゆっくり流れ始めましたが、はるとは慌てませんでした。彼は長い枝を見つけ、岸から安全に手を伸ばして帽子を引き寄せました。",
+        "en": "Suddenly, a strong wind blew, and a friend's hat fell into the river. The hat began to float away slowly, but Haruto did not panic. He found a long branch and safely reached from the bank to pull the hat closer."
       },
       {
         "heading": "Page 3",
-        "ru": "小さな問題が出ますが、マーシャは新しい言葉を使います。紙を見て、次に先生を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
-        "en": "A small problem appears, but Masha uses the new words to understand it. Masha checks the paper, looks at the teacher, and makes a simple plan. By the end, Masha can say one clear sentence."
+        "ru": "帽子が戻ると、友達は大きな声で喜びました。はるとは、川は美しいけれど注意が必要だと思いました。帰る前に、みんなは次に来る時も規則を守り、自然を大切にしようと約束しました。",
+        "en": "When the hat returned, his friends cheered loudly. Haruto thought that the river was beautiful but required care. Before going home, everyone promised to follow the rules next time too and take care of nature."
       }
     ]
   },
   {
     "id": "japanese-intermediate-36",
     "level": "intermediate",
-    "title": "Intermediate 36: The City Walk",
+    "title": "Intermediate 36: The Starlit Sky",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1846,29 +1846,29 @@
       530,
       533
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/36-intermediate-the-city-walk.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/36-intermediate-the-starlit-sky.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、アンナは町へ行きます。近くに通りと窓があります。アンナはゆっくり読み、新しい言葉「散歩」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Anna is in the city. There is street and window nearby. Anna reads slowly and notices a new word: walk. The day feels good, and the language feels a little closer."
+        "ru": "秋の週末、りくは家族と山へキャンプに行きました。夜になると空気が冷たくなり、町の明かりは遠くに小さく見えました。父は毛布を出し、みんなで外に座って空を見上げました。",
+        "en": "On an autumn weekend, Riku went camping in the mountains with his family. At night the air became cold, and the lights of the town looked small in the distance. His father brought out blankets, and everyone sat outside looking up at the sky."
       },
       {
         "heading": "Page 2",
-        "ru": "アンナはノートに「散歩」を書きます。それから「場所」について考えます。そこは静かなので、アンナは文をもう一度読み、小さな声で言います。",
-        "en": "Anna writes the word walk in a notebook. Then Anna thinks about place. The place is quiet, so Anna reads the sentence again and says it softly."
+        "ru": "空には数えきれないほどの星がありました。母は星座の名前を教え、りくは指で形をなぞりました。彼は、昔の人々も同じ星を見ながら旅をしたのだろうと想像しました。",
+        "en": "There were more stars in the sky than he could count. His mother taught him the names of constellations, and Riku traced their shapes with his finger. He imagined that people long ago must have traveled while looking at the same stars."
       },
       {
         "heading": "Page 3",
-        "ru": "小さな問題が出ますが、アンナは新しい言葉を使います。通りを見て、次に窓を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
-        "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the street, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
+        "ru": "流れ星が一つ、空を横切りました。りくは目を閉じて、もっと多くのことを学びたいと願いました。翌朝、彼は小さなノートに星の絵を描き、宇宙への興味を忘れないようにしました。",
+        "en": "One shooting star crossed the sky. Riku closed his eyes and wished to learn many more things. The next morning, he drew stars in a small notebook so he would not forget his interest in space."
       }
     ]
   },
   {
     "id": "japanese-intermediate-37",
     "level": "intermediate",
-    "title": "Intermediate 37: The Bookshop Door",
+    "title": "Intermediate 37: The Garden Project",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1911,29 +1911,29 @@
       553,
       556
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/37-intermediate-the-bookshop-door.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/37-intermediate-the-garden-project.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、イワンは本屋へ行きます。近くにドアと本があります。イワンはゆっくり読み、新しい言葉「開ける」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Ivan is in the bookshop. There is door and book nearby. Ivan reads slowly and notices a new word: open. The day feels good, and the language feels a little closer."
+        "ru": "学校の裏には、長い間使われていない小さな空き地がありました。草は伸び、土は固くなっていました。クラスのみんなは先生と相談し、その場所を野菜と花の庭に変える計画を立てました。",
+        "en": "Behind the school, there was a small unused space that had been empty for a long time. The grass had grown tall, and the soil had become hard. The class talked with the teacher and made a plan to turn the place into a vegetable and flower garden."
       },
       {
         "heading": "Page 2",
-        "ru": "イワンはノートに「開ける」を書きます。それから「読むこと」について考えます。そこは静かなので、イワンは文をもう一度読み、小さな声で言います。",
-        "en": "Ivan writes the word open in a notebook. Then Ivan thinks about reading. The place is quiet, so Ivan reads the sentence again and says it softly."
+        "ru": "ゆいは種を選ぶ係になり、友達は水やりと看板作りを担当しました。最初の作業は大変で、手も服も土で汚れました。それでも、みんなは笑いながら協力し、少しずつ庭の形を作っていきました。",
+        "en": "Yui became responsible for choosing seeds, while her friends took charge of watering and making signs. The first work was hard, and their hands and clothes became dirty with soil. Still, everyone cooperated while laughing and slowly shaped the garden."
       },
       {
         "heading": "Page 3",
-        "ru": "小さな問題が出ますが、イワンは新しい言葉を使います。ドアを見て、次に本を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
-        "en": "A small problem appears, but Ivan uses the new words to understand it. Ivan checks the door, looks at the book, and makes a simple plan. By the end, Ivan can say one clear sentence."
+        "ru": "数週間後、小さな緑の芽が並びました。やがて赤いトマトと明るい花が育ち、学校の裏は楽しい場所になりました。ゆいは、自分たちの手で育てたものには特別な味と意味があると感じました。",
+        "en": "A few weeks later, small green sprouts stood in rows. Eventually red tomatoes and bright flowers grew, and the back of the school became a cheerful place. Yui felt that things grown with their own hands had a special taste and meaning."
       }
     ]
   },
   {
     "id": "japanese-intermediate-38",
     "level": "intermediate",
-    "title": "Intermediate 38: The Family Story",
+    "title": "Intermediate 38: The Old Lighthouse",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -1976,29 +1976,29 @@
       576,
       579
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/38-intermediate-the-family-story.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/38-intermediate-the-old-lighthouse.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、レナは家へ行きます。近くに母と写真があります。レナはゆっくり読み、新しい言葉「物語」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Lena is at home. There is mother and photo nearby. Lena reads slowly and notices a new word: story. The day feels good, and the language feels a little closer."
+        "ru": "海辺の町には、長い間使われていない古い灯台がありました。壁の色は薄くなり、階段にはほこりが積もっていました。けれども、町の人々はその灯台を大切な記憶として守りたいと思っていました。",
+        "en": "In a seaside town, there was an old lighthouse that had not been used for a long time. The wall color had faded, and dust covered the stairs. Even so, the people of the town wanted to protect the lighthouse as an important memory."
       },
       {
         "heading": "Page 2",
-        "ru": "レナはノートに「物語」を書きます。それから「家族」について考えます。そこは静かなので、レナは文をもう一度読み、小さな声で言います。",
-        "en": "Lena writes the word story in a notebook. Then Lena thinks about family. The place is quiet, so Lena reads the sentence again and says it softly."
+        "ru": "けんとは友達と一緒に掃除を手伝いました。窓を磨くと、遠くの海が青く見えました。大人たちは壊れたランプを修理し、子供たちは古い写真を並べて、小さな展示を作りました。",
+        "en": "Kento helped clean with his friends. When they polished the windows, the distant sea looked blue. The adults repaired the broken lamp, and the children arranged old photographs to make a small display."
       },
       {
         "heading": "Page 3",
-        "ru": "小さな問題が出ますが、レナは新しい言葉を使います。母を見て、次に写真を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
-        "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the mother, looks at the photo, and makes a simple plan. By the end, Lena can say one clear sentence."
+        "ru": "夕方、灯台の光が久しぶりに海へ向かって伸びました。町の人々は拍手し、けんとは胸が熱くなりました。古い建物でも、みんなで力を合わせれば新しい役目を持てるのだと彼は知りました。",
+        "en": "In the evening, the lighthouse light reached out toward the sea for the first time in a long while. The townspeople clapped, and Kento felt moved. He learned that even an old building could have a new role if everyone worked together."
       }
     ]
   },
   {
     "id": "japanese-intermediate-39",
     "level": "intermediate",
-    "title": "Intermediate 39: The Important Word",
+    "title": "Intermediate 39: The Science Fair",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -2041,29 +2041,29 @@
       599,
       602
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/39-intermediate-the-important-word.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/39-intermediate-the-science-fair.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、パーヴェルは図書館へ行きます。近くに辞書と紙があります。パーヴェルはゆっくり読み、新しい言葉「意味」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Pavel is in the library. There is dictionary and paper nearby. Pavel reads slowly and notices a new word: meaning. The day feels good, and the language feels a little closer."
+        "ru": "毎年秋に、学校では大きな科学展が開かれます。まなは水の浄化について発表することにしました。彼女は砂、石、布を使って小さな装置を作り、汚れた水が少しずつきれいになる様子を調べました。",
+        "en": "Every autumn, the school holds a large science fair. Mana decided to present about water purification. She made a small device using sand, stones, and cloth, and studied how dirty water gradually became cleaner."
       },
       {
         "heading": "Page 2",
-        "ru": "パーヴェルはノートに「意味」を書きます。それから「言語」について考えます。そこは静かなので、パーヴェルは文をもう一度読み、小さな声で言います。",
-        "en": "Pavel writes the word meaning in a notebook. Then Pavel thinks about language. The place is quiet, so Pavel reads the sentence again and says it softly."
+        "ru": "最初の実験では、水は思ったほどきれいになりませんでした。まなは落ち込みましたが、先生は失敗も大切なデータだと言いました。彼女は材料の順番を変え、何度も試しました。",
+        "en": "In the first experiment, the water did not become as clean as she expected. Mana felt discouraged, but her teacher said failure was also important data. She changed the order of the materials and tried many times."
       },
       {
         "heading": "Page 3",
-        "ru": "小さな問題が出ますが、パーヴェルは新しい言葉を使います。辞書を見て、次に紙を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
-        "en": "A small problem appears, but Pavel uses the new words to understand it. Pavel checks the dictionary, looks at the paper, and makes a simple plan. By the end, Pavel can say one clear sentence."
+        "ru": "発表の日、まなの装置はうまく動きました。見に来た人たちは、水が透明に近づく様子を見て驚きました。まなは、科学は答えを覚えるだけでなく、質問し続ける力だと感じました。",
+        "en": "On presentation day, Mana's device worked well. The visitors were surprised to see the water become closer to clear. Mana felt that science was not only memorizing answers, but also the power to keep asking questions."
       }
     ]
   },
   {
     "id": "japanese-intermediate-40",
     "level": "intermediate",
-    "title": "Intermediate 40: Closer Every Day",
+    "title": "Intermediate 40: The Sound of Music",
     "difficulty": "Intermediate chapters",
     "band": 3,
     "wordRange": [
@@ -2106,29 +2106,29 @@
       622,
       625
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/40-intermediate-closer-every-day.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/intermediate/40-intermediate-the-sound-of-music.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、イリーナは公園へ行きます。近くにノートとお茶があります。イリーナはゆっくり読み、新しい言葉「近い」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Irina is in the park. There is notebook and tea nearby. Irina reads slowly and notices a new word: closer. The day feels good, and the language feels a little closer."
+        "ru": "あやは母と一緒に、町の古い音楽室を訪れました。その日は子供たちのための小さな演奏会がありました。部屋の明かりが少し暗くなると、舞台の上でバイオリンが静かに光りました。",
+        "en": "Aya visited the town's old music room with her mother. That day there was a small concert for children. When the room lights became a little dim, a violin quietly shone on the stage."
       },
       {
         "heading": "Page 2",
-        "ru": "イリーナはノートに「近い」を書きます。それから「復習」について考えます。そこは静かなので、イリーナは文をもう一度読み、小さな声で言います。",
-        "en": "Irina writes the word closer in a notebook. Then Irina thinks about review. The place is quiet, so Irina reads the sentence again and says it softly."
+        "ru": "演奏が始まると、音はゆっくり流れたり、急に高く跳ねたりしました。あやは目を閉じて、音の中に雨、風、明るい朝の景色を感じました。言葉がなくても、音楽は気持ちを伝えられるのだと思いました。",
+        "en": "When the performance began, the sounds flowed slowly and sometimes jumped suddenly high. Aya closed her eyes and felt rain, wind, and a bright morning scene inside the music. She thought that even without words, music could communicate feelings."
       },
       {
         "heading": "Page 3",
-        "ru": "小さな問題が出ますが、イリーナは新しい言葉を使います。ノートを見て、次にお茶を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
-        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the notebook, looks at the tea, and makes a simple plan. By the end, Irina can say one clear sentence."
+        "ru": "演奏会の後、みんなは大きな拍手をしました。家に帰ると、あやは昔使っていた小さなピアノを開きました。まだ上手ではありませんでしたが、もう一度練習したいという新しい夢が生まれました。",
+        "en": "After the concert, everyone clapped loudly. When she returned home, Aya opened the small piano she had used long ago. She was not skilled yet, but a new dream was born: she wanted to practice again."
       }
     ]
   },
   {
     "id": "japanese-advanced-41",
     "level": "advanced",
-    "title": "Advanced 41: The Long Walk Through the City",
+    "title": "Advanced 41: The Forest of Tomorrow",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2183,39 +2183,39 @@
       645,
       648
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/41-advanced-the-long-walk-through-the-city.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/41-advanced-the-forest-of-tomorrow.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、アンナは町へ行きます。近くに地図と窓があります。アンナはゆっくり読み、新しい言葉「旅」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Anna is in the city. There is map and window nearby. Anna reads slowly and notices a new word: journey. The day feels good, and the language feels a little closer."
+        "ru": "科学と技術が発達した現代社会では、私たちの生活はとても便利になりました。しかし、その一方で、美しい自然環境が失われつつあります。ある小さな町では、川の汚染が進み、魚たちが姿を消していました。若い科学者のハルトは、この問題を解決するために立ち上がりました。",
+        "en": "In modern society, where science and technology\nhave developed, our lives have become very convenient. However, on the other\nhand, the beautiful natural environment is being lost. In a certain small town,\nthe pollution of the river was progressing, and the fish were disappearing.\nHaruto, a young scientist, stood up to solve this problem."
       },
       {
         "heading": "Page 2",
-        "ru": "アンナはノートに「旅」を書きます。それから「町」について考えます。そこは静かなので、アンナは文をもう一度読み、小さな声で言います。",
-        "en": "Anna writes the word journey in a notebook. Then Anna thinks about city. The place is quiet, so Anna reads the sentence again and says it softly."
+        "ru": "ハルトは、工場から出る水をきれいにする新しいシステムを提案しました。しかし、工場の責任者や一部の町民は、その計画に反対しました。「新しいシステムを導入するには多くのお金がかかり、町の経済に悪い影響を与える」というのが彼らの意見でした。ハルトは諦めず、対話を続けました。",
+        "en": "Haruto proposed a new system to clean the water\ncoming out of the factory. However, the factory managers and some townspeople\nopposed the plan. \"Introducing a new system costs a lot of money and will have a\nbad impact on the town's economy,\" was their opinion. Haruto did not give up and\ncontinued the dialogue."
       },
       {
         "heading": "Page 3",
-        "ru": "小さな問題が出ますが、アンナは新しい言葉を使います。地図を見て、次に窓を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
-        "en": "A small problem appears, but Anna uses the new words to understand it. Anna checks the map, looks at the window, and makes a simple plan. By the end, Anna can say one clear sentence."
+        "ru": "数ヶ月の話し合いの後、ついに実験的なテストを行うことが決定しました。ハルトと彼のチームは、工場の近くに装置を設置しました。しかし、最初のテストは機械の故障により、失敗に終わってしまいました。水が溢れ出し、工場の人々は「やはりこの計画は不可能だ」と怒りました。",
+        "en": "After several months of discussion, it was finally\ndecided to conduct an experimental test. Haruto and his team installed the\ndevice near the factory. However, the first test ended in failure due to a\nmachine malfunction. Water overflowed, and the factory people got angry, saying,\n\"As expected, this plan is impossible.\""
       },
       {
         "heading": "Page 4",
-        "ru": "あとで、アンナは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。アンナはさらに三つの言葉を書き、今日の話とつなげます。",
-        "en": "Later, Anna meets another person and asks one careful question. The answer is simple, but it helps. Anna writes three more words and connects them to the story of the day."
+        "ru": "ハルトは自分の責任を認め、冷静に失敗の原因を分析しました。彼は寝る間を惜しんで装置を修理し、安全性を高めるための改良を加えました。そのひたむきな態度に心を動かされた工場のオーナーは、「もう一度だけチャンスをあげよう」と、彼を支持することを決めました。",
+        "en": "Haruto admitted his responsibility and calmly\nanalyzed the cause of the failure. He spared no time for sleep to repair the\ndevice and made improvements to increase safety. Touched by his single-minded\nattitude, the factory owner decided to support him, saying, \"I will give you\njust one more chance.\""
       },
       {
         "heading": "Page 5",
-        "ru": "一日の終わりに、アンナはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、アンナはほほえみます。",
-        "en": "At the end of the day, Anna reads the whole page out loud. The words are not perfect yet, but they are familiar now. Anna smiles because learning feels possible and close."
+        "ru": "二回目のテストは大成功を収めました。工場の水は完全にきれいになり、川に戻されました。数年後、川には再び魚たちが戻り、町は「環境と経済が調和した先進的な街」として全国から注目されるようになりました。ハルトは、技術の価値は人々の協力によって実現されるのだと確信しました。",
+        "en": "The second test was a huge success. The factory\nwater became completely clean and was returned to the river. A few years later,\nthe fish returned to the river, and the town attracted attention from all over\nthe country as an \"advanced town where environment and economy harmonize.\"\nHaruto was convinced that the value of technology is realized through people's\ncooperation."
       }
     ]
   },
   {
     "id": "japanese-advanced-42",
     "level": "advanced",
-    "title": "Advanced 42: The Forgotten Invitation",
+    "title": "Advanced 42: The Ancient Map's Secret",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2270,39 +2270,39 @@
       680,
       683
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/42-advanced-the-forgotten-invitation.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/42-advanced-the-ancient-maps-secret.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、サーシャは大学へ行きます。近くに手紙と電話があります。サーシャはゆっくり読み、新しい言葉「招待」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Sasha is at the university. There is letter and phone nearby. Sasha reads slowly and notices a new word: invitation. The day feels good, and the language feels a little closer."
+        "ru": "歴史学を学ぶ大学院生のダイキは、古い大学図書館の地下書庫で資料を整理していました。彼は、何十年も開けられていなかった古い本の間から、古びた羊皮紙の地図を見つけました。その地図には、現在の地図には載っていない「幻の集落」の位置が描かれていました。",
+        "en": "Daiki, a graduate student studying history, was\norganizing documents in the basement archives of an old university library. From\nbetween old books that had not been opened for decades, he found a withered\nparchment map. On that map, the location of a \"phantom settlement\" that is not\non modern maps was drawn."
       },
       {
         "heading": "Page 2",
-        "ru": "サーシャはノートに「招待」を書きます。それから「会議」について考えます。そこは静かなので、サーシャは文をもう一度読み、小さな声で言います。",
-        "en": "Sasha writes the word invitation in a notebook. Then Sasha thinks about meeting. The place is quiet, so Sasha reads the sentence again and says it softly."
+        "ru": "ダイキはその地図の信頼性を確かめるために、歴史的な背景を調査しました。その集落は、かつて独自の伝統を持ち、山奥でひっそりと暮らしていたと言われています。彼は、十分な計画を立て、GPSや登山用具を準備して、地図が示す山岳地帯へと出発することを決意しました。",
+        "en": "Daiki investigated the historical background to\nverify the reliability of the map. It is said that this settlement once had its\nown unique traditions and lived quietly deep in the mountains. He decided to\nmake a thorough plan, prepare GPS and climbing equipment, and set off for the\nmountain area shown on the map."
       },
       {
         "heading": "Page 3",
-        "ru": "小さな問題が出ますが、サーシャは新しい言葉を使います。手紙を見て、次に電話を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
-        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the phone, and makes a simple plan. By the end, Sasha can say one clear sentence."
+        "ru": "山は非常に険しく、道なき道を進む必要がありました。途中で激しい雨が降り出し、気温も急激に下がりました。ダイキは体力的に厳しい状況に直面しましたが、歴史の真実を明らかにしたいという強い情熱が、彼の足を前へと動かし続けました。彼は木の下で一時的に嵐をやり過ごしました。",
+        "en": "The mountain was extremely steep, and it was\nnecessary to travel along pathless ways. Along the way, heavy rain began to\nfall, and the temperature dropped sharply. Daiki faced a physically difficult\nsituation, but his strong passion to reveal historical truth kept moving his\nfeet forward. He temporarily weathered the storm under a tree."
       },
       {
         "heading": "Page 4",
-        "ru": "あとで、サーシャは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。サーシャはさらに三つの言葉を書き、今日の話とつなげます。",
-        "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
+        "ru": "雨が上がった後、ダイキは地図に描かれていた「二つの川が交わる場所」に到達しました。そこには美しい滝があり、その裏側に小さな洞窟が隠されているのを発見しました。彼がライトを持って洞窟の奥へと入っていくと、そこには手作りの石造りの小さな箱が置かれていました。",
+        "en": "After the rain cleared, Daiki reached the \"place\nwhere two rivers intersect\" drawn on the map. There was a beautiful waterfall,\nand he discovered a small cave hidden behind it. As he went deeper into the cave\nholding a light, a small, handmade stone box was placed there."
       },
       {
         "heading": "Page 5",
-        "ru": "一日の終わりに、サーシャはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、サーシャはほほえみます。",
-        "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
+        "ru": "ダイキが慎重にその箱を開けると、中には湿気から守られた古い文書が入っていました。そこには、災害によって移住を余儀なくされた昔の人々の暮らしや、彼らの知恵が詳しく記録されていました。彼はその発見を大学に持ち帰り、失われた歴史の一部を現代に蘇らせることに成功しました。",
+        "en": "When Daiki carefully opened the box, inside were\nold documents protected from moisture. It recorded in detail the lives of past\npeople who were forced to migrate due to natural disasters, and their wisdom. He\nbrought his discovery back to the university and succeeded in reviving a part of\nlost history in the modern era."
       }
     ]
   },
   {
     "id": "japanese-advanced-43",
     "level": "advanced",
-    "title": "Advanced 43: The History Room",
+    "title": "Advanced 43: The Voice of the Wind",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2357,39 +2357,39 @@
       715,
       718
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/43-advanced-the-history-room.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/43-advanced-the-voice-of-the-wind.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、ニコライは博物館へ行きます。近くに本と絵があります。ニコライはゆっくり読み、新しい言葉「歴史」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Nikolay is in the museum. There is book and picture nearby. Nikolay reads slowly and notices a new word: history. The day feels good, and the language feels a little closer."
+        "ru": "科学者のリクは、山の上の気象観測所で風の動きを調べていました。最近、山の天気が急激に変化していました。",
+        "en": "Riku, a scientist, was studying the movement of the\nwind at a weather station on the mountain. Recently, the mountain weather was\nchanging rapidly."
       },
       {
         "heading": "Page 2",
-        "ru": "ニコライはノートに「歴史」を書きます。それから「過去」について考えます。そこは静かなので、ニコライは文をもう一度読み、小さな声で言います。",
-        "en": "Nikolay writes the word history in a notebook. Then Nikolay thinks about past. The place is quiet, so Nikolay reads the sentence again and says it softly."
+        "ru": "リクは、強い嵐が村に向かっていることを知りました。彼は、村を保護するために新しい警告システムを開発していました。",
+        "en": "Riku learned that a strong storm was heading\ntowards the village. He was developing a new warning system to protect the\nvillage."
       },
       {
         "heading": "Page 3",
-        "ru": "小さな問題が出ますが、ニコライは新しい言葉を使います。本を見て、次に絵を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
-        "en": "A small problem appears, but Nikolay uses the new words to understand it. Nikolay checks the book, looks at the picture, and makes a simple plan. By the end, Nikolay can say one clear sentence."
+        "ru": "彼は村に降り、人々に嵐の危険を説明しました。最初は信じない人もいましたが、リクの科学的なデータを理解し、避難に同意しました。",
+        "en": "He went down to the village and explained the\ndanger of the storm to the people. At first, some did not believe him, but they\nunderstood Riku's scientific data and agreed to evacuate."
       },
       {
         "heading": "Page 4",
-        "ru": "あとで、ニコライは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。ニコライはさらに三つの言葉を書き、今日の話とつなげます。",
-        "en": "Later, Nikolay meets another person and asks one careful question. The answer is simple, but it helps. Nikolay writes three more words and connects them to the story of the day."
+        "ru": "嵐の夜、強い風と雨が村を襲いました。しかし、リクのシステムのおかげで、すべての人々が安全な場所に避難していました。",
+        "en": "On the night of the storm, strong wind and rain hit\nthe village. However, thanks to Riku's system, all the people had evacuated to a\nsafe place."
       },
       {
         "heading": "Page 5",
-        "ru": "一日の終わりに、ニコライはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、ニコライはほほえみます。",
-        "en": "At the end of the day, Nikolay reads the whole page out loud. The words are not perfect yet, but they are familiar now. Nikolay smiles because learning feels possible and close."
+        "ru": "翌朝、嵐は去りました。家は少し壊れましたが、人々の命は守られました。村の人々はリクに深く感謝し、科学技術の価値を実感しました。",
+        "en": "The next morning, the storm left. The houses were\nslightly damaged, but people's lives were saved. The villagers deeply thanked\nRiku and realized the value of science and technology."
       }
     ]
   },
   {
     "id": "japanese-advanced-44",
     "level": "advanced",
-    "title": "Advanced 44: The Quiet Train",
+    "title": "Advanced 44: The Deep Ocean",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2444,39 +2444,39 @@
       750,
       753
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/44-advanced-the-quiet-train.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/44-advanced-the-deep-ocean.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、マリアは電車へ行きます。近くに切符とお茶があります。マリアはゆっくり読み、新しい言葉「静か」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Maria is on the train. There is ticket and tea nearby. Maria reads slowly and notices a new word: quiet. The day feels good, and the language feels a little closer."
+        "ru": "海洋学者のケンは、新しい深海探査艇を使って、海の最も深い場所を調査する計画を立てました。",
+        "en": "Ken, an oceanographer, made a plan to investigate\nthe deepest parts of the sea using a new deep-sea explorer."
       },
       {
         "heading": "Page 2",
-        "ru": "マリアはノートに「静か」を書きます。それから「旅」について考えます。そこは静かなので、マリアは文をもう一度読み、小さな声で言います。",
-        "en": "Maria writes the word quiet in a notebook. Then Maria thinks about travel. The place is quiet, so Maria reads the sentence again and says it softly."
+        "ru": "水深数千メートルの世界は、完全な暗闇でした。しかし、探査艇の強い光が、未知の美しい海底を照らしました。",
+        "en": "The world thousands of meters deep was complete\ndarkness. However, the strong light of the explorer illuminated the beautiful,\nunknown seafloor."
       },
       {
         "heading": "Page 3",
-        "ru": "小さな問題が出ますが、マリアは新しい言葉を使います。切符を見て、次にお茶を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
-        "en": "A small problem appears, but Maria uses the new words to understand it. Maria checks the ticket, looks at the tea, and makes a simple plan. By the end, Maria can say one clear sentence."
+        "ru": "ケンは、光る美しい新しい生物を発見しました。それは、科学の歴史において重要な発見になるだろうと確信しました。",
+        "en": "Ken discovered a beautiful, glowing new creature.\nHe was convinced that it would be an important discovery in the history of\nscience."
       },
       {
         "heading": "Page 4",
-        "ru": "あとで、マリアは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。マリアはさらに三つの言葉を書き、今日の話とつなげます。",
-        "en": "Later, Maria meets another person and asks one careful question. The answer is simple, but it helps. Maria writes three more words and connects them to the story of the day."
+        "ru": "調査中、一時的に通信システムが故障しました。地上のチームは心配しましたが、ケンは冷静に機械の構造を修復しました。",
+        "en": "During the investigation, the communication system\ntemporarily malfunctioned. The team on the ground was worried, but Ken calmly\nrepaired the machine's structure."
       },
       {
         "heading": "Page 5",
-        "ru": "一日の終わりに、マリアはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、マリアはほほえみます。",
-        "en": "At the end of the day, Maria reads the whole page out loud. The words are not perfect yet, but they are familiar now. Maria smiles because learning feels possible and close."
+        "ru": "ケンは無事に戻り、世界中の人々に深海の美しさを写真で示しました。彼の研究は、海洋環境を保護する大きな基礎となりました。",
+        "en": "Ken returned safely and showed the beauty of the\ndeep sea to people around the world through pictures. His research became a\ngreat foundation for protecting the marine environment."
       }
     ]
   },
   {
     "id": "japanese-advanced-45",
     "level": "advanced",
-    "title": "Advanced 45: A Plan for Tomorrow",
+    "title": "Advanced 45: The Star Tracker",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2531,39 +2531,39 @@
       785,
       788
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/45-advanced-a-plan-for-tomorrow.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/45-advanced-the-star-tracker.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、レナは家へ行きます。近くに地図とノートがあります。レナはゆっくり読み、新しい言葉「明日」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Lena is at home. There is map and notebook nearby. Lena reads slowly and notices a new word: tomorrow. The day feels good, and the language feels a little closer."
+        "ru": "天文学者のサクラは、数十年に一度だけ地球に接近する珍しい彗星を観察する準備をしていました。",
+        "en": "Sakura, an astronomer, was preparing to observe a\nrare comet that approaches Earth only once in several decades."
       },
       {
         "heading": "Page 2",
-        "ru": "レナはノートに「明日」を書きます。それから「計画」について考えます。そこは静かなので、レナは文をもう一度読み、小さな声で言います。",
-        "en": "Lena writes the word tomorrow in a notebook. Then Lena thinks about plan. The place is quiet, so Lena reads the sentence again and says it softly."
+        "ru": "彼女は、地域の子どもたちのために、山の上に小さな観測会を企画しました。多くの家族が集まりました。",
+        "en": "She planned a small observation meeting on the\nmountain for local children. Many families gathered."
       },
       {
         "heading": "Page 3",
-        "ru": "小さな問題が出ますが、レナは新しい言葉を使います。地図を見て、次にノートを見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
-        "en": "A small problem appears, but Lena uses the new words to understand it. Lena checks the map, looks at the notebook, and makes a simple plan. By the end, Lena can say one clear sentence."
+        "ru": "彼女は大きな望遠鏡を調整し、子どもたちに美しい星空をのぞかせました。「宇宙はとても広い」と子どもたちは言いました。",
+        "en": "She adjusted the large telescope and let the\nchildren peer at the beautiful starlit sky. \"The universe is so wide,\" the\nchildren said."
       },
       {
         "heading": "Page 4",
-        "ru": "あとで、レナは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。レナはさらに三つの言葉を書き、今日の話とつなげます。",
-        "en": "Later, Lena meets another person and asks one careful question. The answer is simple, but it helps. Lena writes three more words and connects them to the story of the day."
+        "ru": "ついに、彗星が夜空に現れました。長い尾を引くその美しい光に、誰もが言葉を失い、静かに見つめました。",
+        "en": "Finally, the comet appeared in the night sky. With\nits beautiful light trailing a long tail, everyone lost their words and watched\nquietly."
       },
       {
         "heading": "Page 5",
-        "ru": "一日の終わりに、レナはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、レナはほほえみます。",
-        "en": "At the end of the day, Lena reads the whole page out loud. The words are not perfect yet, but they are familiar now. Lena smiles because learning feels possible and close."
+        "ru": "この体験は、多くの子どもたちに科学への情熱と宇宙への憧れを与えました。サクラは、未来の科学者を育てる価値を実感しました。",
+        "en": "This experience gave many children a passion for\nscience and a longing for space. Sakura realized the value of nurturing future\nscientists."
       }
     ]
   },
   {
     "id": "japanese-advanced-46",
     "level": "advanced",
-    "title": "Advanced 46: News from the Cafe",
+    "title": "Advanced 46: The Digital Heritage",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2618,39 +2618,39 @@
       820,
       823
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/46-advanced-news-from-the-cafe.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/46-advanced-the-digital-heritage.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、オリガはカフェへ行きます。近くに新聞とお茶があります。オリガはゆっくり読み、新しい言葉「ニュース」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Olga is in the cafe. There is newspaper and tea nearby. Olga reads slowly and notices a new word: news. The day feels good, and the language feels a little closer."
+        "ru": "ソースコードを書くプログラマーのタクヤは、祖母の家で古びた白黒の写真アルバムをたくさん見つけました。",
+        "en": "Takuya, a programmer who writes source code, found\nmany faded black-and-white photo albums at his grandmother's house."
       },
       {
         "heading": "Page 2",
-        "ru": "オリガはノートに「ニュース」を書きます。それから「会話」について考えます。そこは静かなので、オリガは文をもう一度読み、小さな声で言います。",
-        "en": "Olga writes the word news in a notebook. Then Olga thinks about talk. The place is quiet, so Olga reads the sentence again and says it softly."
+        "ru": "写真には、昔の町の様子や家族の歴史が記録されていました。タクヤは、これらをデジタル化して保存する計画を立てました。",
+        "en": "The photos recorded the old town's appearance and\nfamily history. Takuya made a plan to digitalize and save them."
       },
       {
         "heading": "Page 3",
-        "ru": "小さな問題が出ますが、オリガは新しい言葉を使います。新聞を見て、次にお茶を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
-        "en": "A small problem appears, but Olga uses the new words to understand it. Olga checks the newspaper, looks at the tea, and makes a simple plan. By the end, Olga can say one clear sentence."
+        "ru": "彼は特別なスキャナーとソフトウェアを使い、古い画像のノイズを取り除き、色を鮮やかに復元しました。",
+        "en": "Using a special scanner and software, he removed\nnoise from the old images and restored the colors vividly."
       },
       {
         "heading": "Page 4",
-        "ru": "あとで、オリガは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。オリガはさらに三つの言葉を書き、今日の話とつなげます。",
-        "en": "Later, Olga meets another person and asks one careful question. The answer is simple, but it helps. Olga writes three more words and connects them to the story of the day."
+        "ru": "彼は完成したデジタルアルバムを、インターネットを使って世界中にいる親戚たちと共有しました。親戚たちはとても喜びました。",
+        "en": "He shared the completed digital album with\nrelatives all over the world using the internet. The relatives were very happy."
       },
       {
         "heading": "Page 5",
-        "ru": "一日の終わりに、オリガはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、オリガはほほえみます。",
-        "en": "At the end of the day, Olga reads the whole page out loud. The words are not perfect yet, but they are familiar now. Olga smiles because learning feels possible and close."
+        "ru": "デジタル技術によって、家族の歴史は未来の世代へと安全に引き継がれました。タクヤは、技術の本当の価値を再認識しました。",
+        "en": "Through digital technology, the family history was\nsafely passed down to future generations. Takuya reaffirmed the true value of\ntechnology."
       }
     ]
   },
   {
     "id": "japanese-advanced-47",
     "level": "advanced",
-    "title": "Advanced 47: The Word That Changed the Day",
+    "title": "Advanced 47: The Green Architecture",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2705,39 +2705,39 @@
       855,
       858
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/47-advanced-the-word-that-changed-the-day.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/47-advanced-the-green-architecture.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、ディマは通りへ行きます。近くにかばんと本があります。ディマはゆっくり読み、新しい言葉「助け」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Dima is on the street. There is bag and book nearby. Dima reads slowly and notices a new word: help. The day feels good, and the language feels a little closer."
+        "ru": "建築家のケンジは、町の新しいコミュニティセンターを設計する仕事を任されました。彼はエコな建物を目指しました。",
+        "en": "Kenji, an architect, was assigned the job of\ndesigning the town's new community center. He aimed for an eco-friendly\nbuilding."
       },
       {
         "heading": "Page 2",
-        "ru": "ディマはノートに「助け」を書きます。それから「道」について考えます。そこは静かなので、ディマは文をもう一度読み、小さな声で言います。",
-        "en": "Dima writes the word help in a notebook. Then Dima thinks about road. The place is quiet, so Dima reads the sentence again and says it softly."
+        "ru": "彼は、建物の構造を工夫し、太陽の光を最大限に取り入れることで、電気の使用を減らす設計をしました。",
+        "en": "He devised the structure of the building to\nmaximize sunlight, designing it to reduce electricity usage."
       },
       {
         "heading": "Page 3",
-        "ru": "小さな問題が出ますが、ディマは新しい言葉を使います。かばんを見て、次に本を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
-        "en": "A small problem appears, but Dima uses the new words to understand it. Dima checks the bag, looks at the book, and makes a simple plan. By the end, Dima can say one clear sentence."
+        "ru": "屋上には大きな庭園を造り、雨水を再利用して植物に水を与えるシステムを導入することにしました。",
+        "en": "He decided to build a large garden on the rooftop\nand introduce a system to reuse rainwater to water the plants."
       },
       {
         "heading": "Page 4",
-        "ru": "あとで、ディマは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。ディマはさらに三つの言葉を書き、今日の話とつなげます。",
-        "en": "Later, Dima meets another person and asks one careful question. The answer is simple, but it helps. Dima writes three more words and connects them to the story of the day."
+        "ru": "多くの大工や町の人々が協力して建設が始まりました。環境に優しいリサイクル素材が壁に使用されました。",
+        "en": "Many carpenters and townspeople cooperated to begin\nconstruction. Environmentally friendly recycled materials were used for the\nwalls."
       },
       {
         "heading": "Page 5",
-        "ru": "一日の終わりに、ディマはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、ディマはほほえみます。",
-        "en": "At the end of the day, Dima reads the whole page out loud. The words are not perfect yet, but they are familiar now. Dima smiles because learning feels possible and close."
+        "ru": "完成したセンターは、美しく温かみのある場所になりました。環境保護のシンボルとして、人々から深く愛されています。",
+        "en": "The completed center became a beautiful and warm\nplace. It is deeply loved by the people as a symbol of environmental protection."
       }
     ]
   },
   {
     "id": "japanese-advanced-48",
     "level": "advanced",
-    "title": "Advanced 48: The Meeting at the University",
+    "title": "Advanced 48: The Silent Garden",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2792,39 +2792,39 @@
       890,
       893
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/48-advanced-the-meeting-at-the-university.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/48-advanced-the-silent-garden.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、サーシャは大学へ行きます。近くに手紙と机があります。サーシャはゆっくり読み、新しい言葉「会議」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Sasha is at the university. There is letter and desk nearby. Sasha reads slowly and notices a new word: meeting. The day feels good, and the language feels a little closer."
+        "ru": "庭園デザイナーのハルは、町の古いお寺にある伝統的な日本庭園を修復する依頼を受けました。",
+        "en": "Haru, a garden designer, received a request to\nrestore a traditional Japanese garden at an old temple in town."
       },
       {
         "heading": "Page 2",
-        "ru": "サーシャはノートに「会議」を書きます。それから「考え」について考えます。そこは静かなので、サーシャは文をもう一度読み、小さな声で言います。",
-        "en": "Sasha writes the word meeting in a notebook. Then Sasha thinks about ideas. The place is quiet, so Sasha reads the sentence again and says it softly."
+        "ru": "彼女は、庭の構造を慎重に計画しました。大きな石を配置し、小さな砂の波を作って自然の川を表現しました。",
+        "en": "She carefully planned the structure of the garden.\nShe arranged large stones and made small waves in the sand to express a natural\nriver."
       },
       {
         "heading": "Page 3",
-        "ru": "小さな問題が出ますが、サーシャは新しい言葉を使います。手紙を見て、次に机を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
-        "en": "A small problem appears, but Sasha uses the new words to understand it. Sasha checks the letter, looks at the desk, and makes a simple plan. By the end, Sasha can say one clear sentence."
+        "ru": "日陰には美しい苔を植え、季節ごとに違った色を見せる美しい桜の木を庭の中心に植えました。",
+        "en": "She planted beautiful moss in the shade and planted\na beautiful cherry blossom tree in the center of the garden, which shows\ndifferent colors each season."
       },
       {
         "heading": "Page 4",
-        "ru": "あとで、サーシャは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。サーシャはさらに三つの言葉を書き、今日の話とつなげます。",
-        "en": "Later, Sasha meets another person and asks one careful question. The answer is simple, but it helps. Sasha writes three more words and connects them to the story of the day."
+        "ru": "彼女は、お寺を訪れる人々が静かに自分自身と向き合えるような、穏やかな空間を創り出すために努力しました。",
+        "en": "She worked hard to create a calm space where people\nvisiting the temple could quietly face themselves."
       },
       {
         "heading": "Page 5",
-        "ru": "一日の終わりに、サーシャはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、サーシャはほほえみます。",
-        "en": "At the end of the day, Sasha reads the whole page out loud. The words are not perfect yet, but they are familiar now. Sasha smiles because learning feels possible and close."
+        "ru": "修復された庭園は、多くの人々に心の休息を与える場所になりました。ハルは、伝統の美しさを未来に繋ぐ価値を感じました。",
+        "en": "The restored garden became a place that gave many\npeople peace of mind. Haru felt the value of connecting traditional beauty to\nthe future."
       }
     ]
   },
   {
     "id": "japanese-advanced-49",
     "level": "advanced",
-    "title": "Advanced 49: The Letter and the Map",
+    "title": "Advanced 49: The Solar Flight",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2879,39 +2879,39 @@
       925,
       928
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/49-advanced-the-letter-and-the-map.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/49-advanced-the-solar-flight.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、カーチャは図書館へ行きます。近くに手紙と地図があります。カーチャはゆっくり読み、新しい言葉「道順」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Katya is in the library. There is letter and map nearby. Katya reads slowly and notices a new word: route. The day feels good, and the language feels a little closer."
+        "ru": "エンジニアのユウキは、太陽光エネルギーだけで飛ぶことができる新しい小型無人機（ドローン）を開発していました。",
+        "en": "Yuki, an engineer, was developing a new small\nunmanned aerial vehicle (drone) that can fly solely on solar energy."
       },
       {
         "heading": "Page 2",
-        "ru": "カーチャはノートに「道順」を書きます。それから「探すこと」について考えます。そこは静かなので、カーチャは文をもう一度読み、小さな声で言います。",
-        "en": "Katya writes the word route in a notebook. Then Katya thinks about search. The place is quiet, so Katya reads the sentence again and says it softly."
+        "ru": "この無人機の目的は、道路が壊れた遠い被災地に、医薬品を素早く届けることでした。それは命を救う大切な技術でした。",
+        "en": "The purpose of this drone was to quickly deliver\nmedicines to distant disaster-hit areas where roads were broken. It was an\nimportant technology for saving lives."
       },
       {
         "heading": "Page 3",
-        "ru": "小さな問題が出ますが、カーチャは新しい言葉を使います。手紙を見て、次に地図を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
-        "en": "A small problem appears, but Katya uses the new words to understand it. Katya checks the letter, looks at the map, and makes a simple plan. By the end, Katya can say one clear sentence."
+        "ru": "晴れた朝、広いテストエリアで最初のテスト飛行が行われました。無人機は静かに空へと昇っていきました。",
+        "en": "On a sunny morning, the first test flight was\nconducted in a wide test area. The drone quietly climbed into the sky."
       },
       {
         "heading": "Page 4",
-        "ru": "あとで、カーチャは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。カーチャはさらに三つの言葉を書き、今日の話とつなげます。",
-        "en": "Later, Katya meets another person and asks one careful question. The answer is simple, but it helps. Katya writes three more words and connects them to the story of the day."
+        "ru": "上空で一時的に強い風が吹きましたが、ユウキが設計した安定構造のおかげで、無人機はバランスを崩さずに飛び続けました。",
+        "en": "A strong wind temporarily blew in the upper sky,\nbut thanks to the stable structure designed by Yuki, the drone continued to fly\nwithout losing balance."
       },
       {
         "heading": "Page 5",
-        "ru": "一日の終わりに、カーチャはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、カーチャはほほえみます。",
-        "en": "At the end of the day, Katya reads the whole page out loud. The words are not perfect yet, but they are familiar now. Katya smiles because learning feels possible and close."
+        "ru": "テスト飛行は見事に成功し、目的の場所に正確に荷物を届けることができました。ユウキは、未来の救助システムに貢献できたと確信しました。",
+        "en": "The test flight was brilliantly successful, and it\nwas able to deliver the package to the target location accurately. Yuki was\nconvinced that he contributed to future rescue systems."
       }
     ]
   },
   {
     "id": "japanese-advanced-50",
     "level": "advanced",
-    "title": "Advanced 50: The Language Feels Close",
+    "title": "Advanced 50: The Circle of Life",
     "difficulty": "Advanced chapters",
     "band": 4,
     "wordRange": [
@@ -2966,32 +2966,32 @@
       960,
       963
     ],
-    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/50-advanced-the-language-feels-close.txt",
+    "sourceTextFile": "Stories/Text/language_story_pack/stories/japanese/advanced/50-advanced-the-circle-of-life.txt",
     "sections": [
       {
         "heading": "Page 1",
-        "ru": "朝、イリーナは公園へ行きます。近くに本と電話があります。イリーナはゆっくり読み、新しい言葉「言語」に気づきます。よい日で、言語が少し近く感じます。",
-        "en": "In the morning, Irina is in the park. There is book and phone nearby. Irina reads slowly and notices a new word: language. The day feels good, and the language feels a little closer."
+        "ru": "生物学者のハナは、地元の豊かな森に入り、植物や小動物の生態系を調べる調査を何年も続けていました。",
+        "en": "Hana, a biologist, had been continuing her research\nfor years, entering the local rich forest to study the ecosystem of plants and\nsmall animals."
       },
       {
         "heading": "Page 2",
-        "ru": "イリーナはノートに「言語」を書きます。それから「自信」について考えます。そこは静かなので、イリーナは文をもう一度読み、小さな声で言います。",
-        "en": "Irina writes the word language in a notebook. Then Irina thinks about confidence. The place is quiet, so Irina reads the sentence again and says it softly."
+        "ru": "彼女は、落ち葉が土になり、その土が大きな木を育て、その木が動物たちの家になる命の循環を観察しました。",
+        "en": "She observed the circle of life, where fallen\nleaves became soil, the soil grew large trees, and the trees became homes for\nanimals."
       },
       {
         "heading": "Page 3",
-        "ru": "小さな問題が出ますが、イリーナは新しい言葉を使います。本を見て、次に電話を見て、簡単な計画を作ります。最後に、はっきりした一文を言えます。",
-        "en": "A small problem appears, but Irina uses the new words to understand it. Irina checks the book, looks at the phone, and makes a simple plan. By the end, Irina can say one clear sentence."
+        "ru": "週末、彼女は子どもたちを森に招待し、自然の構造を説明しました。「この地球のすべての命は繋がっている」と彼女は言いました。",
+        "en": "On weekends, she invited children into the forest\nand explained the structure of nature. \"All life on this earth is connected,\"\nshe said."
       },
       {
         "heading": "Page 4",
-        "ru": "あとで、イリーナは別の人に会い、ていねいに一つ質問します。答えは簡単ですが、役に立ちます。イリーナはさらに三つの言葉を書き、今日の話とつなげます。",
-        "en": "Later, Irina meets another person and asks one careful question. The answer is simple, but it helps. Irina writes three more words and connects them to the story of the day."
+        "ru": "子どもたちは自分で虫や花を観察し、自然の美しさに驚いていました。彼らは自分たちもその一部であることを理解しました。",
+        "en": "The children observed insects and flowers by\nthemselves, marveling at the beauty of nature. They understood that they too\nwere a part of it."
       },
       {
         "heading": "Page 5",
-        "ru": "一日の終わりに、イリーナはページ全体を声に出して読みます。言葉はまだ完璧ではありませんが、もう見慣れています。学ぶことが近く感じられて、イリーナはほほえみます。",
-        "en": "At the end of the day, Irina reads the whole page out loud. The words are not perfect yet, but they are familiar now. Irina smiles because learning feels possible and close."
+        "ru": "ハナは、子どもたちの輝く目を見て、自然保護の教育こそが、未来の美しい地球を守るために最も重要であると確信しました。",
+        "en": "Seeing the children's shining eyes, Hana was\nconvinced that environmental education is the most important factor in\nprotecting the future's beautiful Earth."
       }
     ]
   }
