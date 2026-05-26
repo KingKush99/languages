@@ -2273,6 +2273,8 @@ const els = {
   englishParagraph: document.querySelector("#englishParagraph"),
   toggleTranslationBtn: document.querySelector("#toggleTranslationBtn"),
   slowAudioBtn: document.querySelector("#slowAudioBtn"),
+  pauseAudioBtn: document.querySelector("#pauseAudioBtn"),
+  restartAudioBtn: document.querySelector("#restartAudioBtn"),
   storyLevelSelect: document.querySelector("#storyLevelSelect"),
   storySelect: document.querySelector("#storySelect"),
   storyLibraryCount: document.querySelector("#storyLibraryCount"),
@@ -2292,6 +2294,8 @@ const els = {
   storyNextPageBtn: document.querySelector("#storyNextPageBtn"),
   bookPageIndicator: document.querySelector("#bookPageIndicator"),
   storyAudioBtn: document.querySelector("#storyAudioBtn"),
+  pauseStoryAudioBtn: document.querySelector("#pauseStoryAudioBtn"),
+  restartStoryAudioBtn: document.querySelector("#restartStoryAudioBtn"),
   recordBtn: document.querySelector("#recordBtn"),
   accuracyScore: document.querySelector("#accuracyScore"),
   matchedWords: document.querySelector("#matchedWords"),
@@ -2441,6 +2445,8 @@ const els = {
   
   twitchChat: document.querySelector("#twitchChat"),
   twitchMessages: document.querySelector("#twitchMessages"),
+  globalChatInput: document.querySelector("#globalChatInput"),
+  globalChatSendBtn: document.querySelector("#globalChatSendBtn"),
   closeTwitchBtn: document.querySelector("#closeTwitchBtn"),
   toggleTwitchBtn: document.querySelector("#toggleTwitchBtn"),
   
@@ -3201,8 +3207,10 @@ function speakSlowRussian(startCharIndex = 0) {
     view: appState.activeView,
     language: appState.targetLanguage,
     charIndex: absoluteOffset,
-    requestedCancel: false
+    requestedCancel: false,
+    paused: false
   };
+  updateReadingAudioControls();
   
   utterance.onboundary = (event) => {
     if (event.name === 'word') {
@@ -3227,13 +3235,45 @@ function speakSlowRussian(startCharIndex = 0) {
   utterance.onend = () => {
     tokens.forEach(t => t.classList.remove("word-highlight"));
     if (activeSpeech && !activeSpeech.requestedCancel) activeSpeech = null;
+    updateReadingAudioControls();
   };
   utterance.onerror = () => {
     if (els.spokenResult) els.spokenResult.textContent = "Audio playback could not start. Try clicking Play Audio again.";
     activeSpeech = null;
+    updateReadingAudioControls();
   };
   
   window.speechSynthesis.speak(utterance);
+  updateReadingAudioControls();
+}
+
+function updateReadingAudioControls() {
+  const isPaused = Boolean(window.speechSynthesis?.paused || activeSpeech?.paused);
+  [els.pauseAudioBtn, els.pauseStoryAudioBtn].forEach((button) => {
+    if (button) button.textContent = isPaused ? "Resume" : "Pause";
+  });
+}
+
+function toggleReadingAudioPause() {
+  if (!("speechSynthesis" in window)) return;
+  if (window.speechSynthesis.paused) {
+    window.speechSynthesis.resume();
+    if (activeSpeech) activeSpeech.paused = false;
+  } else if (window.speechSynthesis.speaking) {
+    window.speechSynthesis.pause();
+    if (activeSpeech) activeSpeech.paused = true;
+  }
+  updateReadingAudioControls();
+}
+
+function restartReadingAudio() {
+  if (!("speechSynthesis" in window)) return;
+  clearTimeout(speechRestartTimer);
+  if (activeSpeech) activeSpeech.requestedCancel = true;
+  window.speechSynthesis.cancel();
+  activeSpeech = null;
+  updateReadingAudioControls();
+  speechRestartTimer = setTimeout(() => speakSlowRussian(0), 80);
 }
 
 function handleSpeedChange(e, label) {
@@ -3249,7 +3289,7 @@ function handleSpeedChange(e, label) {
 }
 
 function restartSpeechAtNewRate() {
-  if (!activeSpeech || !window.speechSynthesis?.speaking) return;
+  if (!activeSpeech || (!window.speechSynthesis?.speaking && !window.speechSynthesis?.paused)) return;
   const restartAt = activeSpeech.charIndex || 0;
   activeSpeech.requestedCancel = true;
   window.speechSynthesis.cancel();
@@ -3692,6 +3732,11 @@ els.publicProfilePage?.addEventListener("click", (event) => {
     togglePublicSocialDropdown(toggle.dataset.publicSocialToggle);
     return;
   }
+  const publicRotate = event.target.closest("#publicCharacterAutoRotateBtn");
+  if (publicRotate) {
+    setPublicCharacterAutoRotate(Boolean(publicRotate.checked));
+    return;
+  }
   if (event.target.closest("#publicAddFriendBtn")) {
     if (activePublicProfile?.name) addFriend(activePublicProfile.name);
     return;
@@ -3759,14 +3804,18 @@ els.bandSelect?.addEventListener("change", () => {
 els.newParagraphBtn?.addEventListener("click", () => pickParagraph(1));
 els.practiceBackBtn?.addEventListener("click", () => pickParagraph(-1));
 els.toggleTranslationBtn?.addEventListener("click", toggleTranslation);
-els.slowAudioBtn?.addEventListener("click", speakSlowRussian);
+els.slowAudioBtn?.addEventListener("click", () => speakSlowRussian());
+els.pauseAudioBtn?.addEventListener("click", toggleReadingAudioPause);
+els.restartAudioBtn?.addEventListener("click", restartReadingAudio);
 els.storyLevelSelect?.addEventListener("change", selectStoryLevel);
 els.storySelect?.addEventListener("change", selectStory);
 els.generateStoryImageBtn?.addEventListener("click", generateStoryImage);
 els.importStoryImageBtn?.addEventListener("click", importStoryImage);
 els.storyImageFileInput?.addEventListener("change", saveImportedStoryImage);
 els.toggleStoryTranslationBtn?.addEventListener("click", toggleStoryTranslation);
-els.storyAudioBtn?.addEventListener("click", speakSlowRussian);
+els.storyAudioBtn?.addEventListener("click", () => speakSlowRussian());
+els.pauseStoryAudioBtn?.addEventListener("click", toggleReadingAudioPause);
+els.restartStoryAudioBtn?.addEventListener("click", restartReadingAudio);
 els.recordBtn?.addEventListener("click", toggleRecording);
 els.searchInput?.addEventListener("input", renderWordList);
 
@@ -3855,7 +3904,10 @@ els.openSlotsBtn?.addEventListener("click", () => {
 els.toggleSlotsBtn.addEventListener("click", () => els.slotsWidget.hidden = !els.slotsWidget.hidden);
 els.slotsCloseBtn.addEventListener("click", () => els.slotsWidget.hidden = true);
 
-els.toggleTwitchBtn.addEventListener("click", () => els.twitchChat.hidden = !els.twitchChat.hidden);
+els.toggleTwitchBtn.addEventListener("click", () => {
+  renderGlobalChatKnowledge();
+  els.twitchChat.hidden = !els.twitchChat.hidden;
+});
 els.closeTwitchBtn.addEventListener("click", () => els.twitchChat.hidden = true);
 
 els.toggleDMBtn.addEventListener("click", () => {
@@ -4369,6 +4421,34 @@ async function getChatbotReply(text) {
   return offlineChatReply(text);
 }
 
+function appendGlobalChatMessage(author, text, type = "site") {
+  if (!els.twitchMessages) return;
+  const msg = document.createElement("div");
+  msg.className = `twitch-msg ${type}`;
+  const name = document.createElement("strong");
+  name.textContent = author;
+  const body = document.createElement("span");
+  body.textContent = ` ${text}`;
+  msg.append(name, body);
+  els.twitchMessages.append(msg);
+  els.twitchMessages.scrollTop = els.twitchMessages.scrollHeight;
+}
+
+function renderGlobalChatKnowledge() {
+  if (!els.twitchMessages || els.twitchMessages.dataset.ready === "true") return;
+  els.twitchMessages.dataset.ready = "true";
+  appendGlobalChatMessage("Site Guide", "Ask me about stories, practice, audio, profiles, DMs, coins, music, slots, settings, languages, or purchases.");
+  appendGlobalChatMessage("Site Guide", offlineChatReply("language"));
+}
+
+function sendGlobalChatMessage() {
+  const text = els.globalChatInput?.value?.trim();
+  if (!text) return;
+  els.globalChatInput.value = "";
+  appendGlobalChatMessage("You", text, "user");
+  appendGlobalChatMessage("Site Guide", offlineChatReply(text), "site");
+}
+
 els.chatLanguageSelect?.addEventListener("change", updateChatIntro);
 
 els.chatToggleBtn.addEventListener("click", () => {
@@ -4379,6 +4459,10 @@ els.chatToggleBtn.addEventListener("click", () => {
   }
 });
 els.closeChatBtn.addEventListener("click", () => els.chatWindow.hidden = true);
+els.globalChatSendBtn?.addEventListener("click", sendGlobalChatMessage);
+els.globalChatInput?.addEventListener("keydown", (event) => {
+  if (event.key === "Enter") sendGlobalChatMessage();
+});
 
 function appendChat(text, type, options = {}) {
   const msg = document.createElement("div");
@@ -4804,6 +4888,8 @@ const tierUnlockRules = {
 };
 let character3d = null;
 let characterRotateFrame = null;
+let publicCharacter3d = null;
+let publicCharacterRotateFrame = null;
 let loadingThree = false;
 
 function checkInappropriate(text) {
@@ -5336,7 +5422,9 @@ function createPublicProfile(name) {
   const language = languageDatasets[appState.targetLanguage]?.label || "Russian";
   const colors = ["#0f766e", "#2563eb", "#a855f7", "#d97706", "#dc2626", "#0891b2", "#16a34a", "#9333ea"];
   const level = hash % 18;
-  const xp = (hash % 9000) + level * 1000;
+  const spentBeforeLevel = (level * (level + 1) * 1000) / 2;
+  const neededForNext = (level + 1) * 1000;
+  const xp = spentBeforeLevel + (hash % Math.max(1, neededForNext));
   const stored = socialDataStore.getProfile(name);
   const social = stored.social || { followers: [], following: [], friends: [] };
   const collectionItems = Array.from({ length: 16 }, (_, index) => {
@@ -5386,9 +5474,9 @@ function renderPublicProfileCollection(items) {
 
 function renderPublicCharacter(profile) {
   const canvas = els.publicCharacterCanvas;
+  if (window.THREE && renderPublicCharacter3d(profile)) return;
   const ctx = canvas?.getContext?.("2d");
   if (!canvas || !ctx || !profile?.customization) return;
-  if (window.THREE && renderPublicCharacter3d(profile)) return;
   const c = profile.customization;
   const width = canvas.clientWidth || 300;
   const height = canvas.clientHeight || 360;
@@ -5408,6 +5496,10 @@ function renderPublicCharacter(profile) {
   const centerX = width / 2;
   const groundY = height * 0.91;
   const scale = Math.min(width / 300, height / 360);
+  const spin = canvas.__publicAngle || 0;
+  const facing = Math.cos(spin);
+  const faceShift = Math.sin(spin) * 10 * scale;
+  const bodySquash = canvas.__publicAutoRotate ? 0.78 + Math.abs(facing) * 0.22 : 1;
   ctx.fillStyle = "rgba(15, 23, 42, 0.14)";
   ctx.beginPath();
   ctx.ellipse(centerX, groundY, 72 * scale, 14 * scale, 0, 0, Math.PI * 2);
@@ -5420,15 +5512,17 @@ function renderPublicCharacter(profile) {
   drawShoe(ctx, centerX - 24 * scale, groundY - 18 * scale, c.shoesColor, c.shoes, scale * 0.82);
   drawShoe(ctx, centerX + 24 * scale, groundY - 18 * scale, c.shoesColor, c.shoes, scale * 0.82);
   drawNeck(ctx, centerX, groundY - 196 * scale, c.faceColor, scale * 0.78);
-  drawJerseyBody(ctx, centerX, groundY - 174 * scale, 104 * scale, 136 * scale, c.shirtColor, c.pantsColor);
-  drawEar(ctx, centerX - 43 * scale, groundY - 236 * scale, c.faceColor, scale * 0.78);
-  drawEar(ctx, centerX + 43 * scale, groundY - 236 * scale, c.faceColor, scale * 0.78);
-  drawHead(ctx, centerX, groundY - 250 * scale, 88 * scale, 96 * scale, c.faceColor);
-  drawPublicHair(ctx, centerX, groundY - 305 * scale, c, scale);
-  drawEye(ctx, centerX - 15 * scale, groundY - 258 * scale, c.eyeColor, c.eyeShape, scale * 0.82);
-  drawEye(ctx, centerX + 15 * scale, groundY - 258 * scale, c.eyeColor, c.eyeShape, scale * 0.82);
-  drawNose(ctx, centerX, groundY - 240 * scale, c.nose, scale * 0.78);
-  drawMouth(ctx, centerX, groundY - 219 * scale, c.mouth, scale * 0.78);
+  drawJerseyBody(ctx, centerX, groundY - 174 * scale, 104 * scale * bodySquash, 136 * scale, c.shirtColor, c.pantsColor);
+  drawEar(ctx, centerX - 43 * scale + faceShift, groundY - 236 * scale, c.faceColor, scale * 0.78);
+  drawEar(ctx, centerX + 43 * scale + faceShift, groundY - 236 * scale, c.faceColor, scale * 0.78);
+  drawHead(ctx, centerX + faceShift, groundY - 250 * scale, 88 * scale * bodySquash, 96 * scale, c.faceColor);
+  drawPublicHair(ctx, centerX + faceShift, groundY - 305 * scale, c, scale);
+  if (Math.abs(facing) > 0.18) {
+    drawEye(ctx, centerX - 15 * scale * bodySquash + faceShift, groundY - 258 * scale, c.eyeColor, c.eyeShape, scale * 0.82);
+    drawEye(ctx, centerX + 15 * scale * bodySquash + faceShift, groundY - 258 * scale, c.eyeColor, c.eyeShape, scale * 0.82);
+    drawNose(ctx, centerX + faceShift, groundY - 240 * scale, c.nose, scale * 0.78);
+    drawMouth(ctx, centerX + faceShift, groundY - 219 * scale, c.mouth, scale * 0.78);
+  }
 }
 
 function renderPublicCharacter3d(profile) {
@@ -5575,11 +5669,56 @@ function renderPublicCharacter3d(profile) {
       rightMouthCorner
     );
     renderer.render(scene, camera);
+    publicCharacter3d = {
+      canvas,
+      renderer,
+      scene,
+      camera,
+      group,
+      angle: 0,
+      autoRotate: Boolean(canvas.__publicAutoRotate)
+    };
     return true;
   } catch (error) {
     console.warn("Public 3D character failed; using canvas fallback.", error);
     return false;
   }
+}
+
+function runPublicCharacterRotation() {
+  if (!activePublicProfile || !els.publicCharacterCanvas?.__publicAutoRotate) {
+    publicCharacterRotateFrame = null;
+    return;
+  }
+  if (publicCharacter3d?.group) {
+    publicCharacter3d.angle += 0.035;
+    publicCharacter3d.group.rotation.y = -0.22 + publicCharacter3d.angle;
+    publicCharacter3d.renderer.render(publicCharacter3d.scene, publicCharacter3d.camera);
+  } else {
+    els.publicCharacterCanvas.__publicAngle = (els.publicCharacterCanvas.__publicAngle || 0) + 0.035;
+    renderPublicCharacter(activePublicProfile);
+  }
+  publicCharacterRotateFrame = requestAnimationFrame(runPublicCharacterRotation);
+}
+
+function setPublicCharacterAutoRotate(enabled) {
+  const canvas = els.publicCharacterCanvas;
+  if (!canvas) return;
+  canvas.__publicAutoRotate = Boolean(enabled);
+  if (!enabled) {
+    if (publicCharacterRotateFrame) cancelAnimationFrame(publicCharacterRotateFrame);
+    publicCharacterRotateFrame = null;
+    canvas.__publicAngle = 0;
+    if (publicCharacter3d?.group) {
+      publicCharacter3d.angle = 0;
+      publicCharacter3d.group.rotation.y = -0.22;
+      publicCharacter3d.renderer.render(publicCharacter3d.scene, publicCharacter3d.camera);
+    } else {
+      renderPublicCharacter(activePublicProfile);
+    }
+    return;
+  }
+  if (!publicCharacterRotateFrame) publicCharacterRotateFrame = requestAnimationFrame(runPublicCharacterRotation);
 }
 
 function drawPublicHair(ctx, x, y, c, scale = 1) {
@@ -5827,6 +5966,10 @@ function renderPublicProfileShell(profile) {
           </div>
           <div class="character-preview-frame public-character-preview-frame">
             <div id="publicCharacterCanvasMount" class="public-character-canvas-mount"></div>
+            <label class="auto-rotate-toggle public-auto-rotate-toggle">
+              <span>Auto-rotate</span>
+              <input id="publicCharacterAutoRotateBtn" type="checkbox">
+            </label>
           </div>
         </div>
       </section>
@@ -5871,6 +6014,9 @@ function renderPublicProfile(name) {
   if (els.profileLayout) els.profileLayout.hidden = true;
   if (els.publicProfilePage) {
     els.publicProfilePage.hidden = false;
+    if (publicCharacterRotateFrame) cancelAnimationFrame(publicCharacterRotateFrame);
+    publicCharacterRotateFrame = null;
+    publicCharacter3d = null;
     els.publicProfilePage.innerHTML = renderPublicProfileShell(profile);
     const canvas = els.publicCharacterCanvas || document.createElement("canvas");
     canvas.id = "publicCharacterCanvas";
@@ -5937,6 +6083,9 @@ function goBackFromPublicProfile() {
 function closePublicProfileToHome() {
   publicProfileStack = [];
   activePublicProfile = null;
+  if (publicCharacterRotateFrame) cancelAnimationFrame(publicCharacterRotateFrame);
+  publicCharacterRotateFrame = null;
+  publicCharacter3d = null;
   if (els.publicProfilePage) els.publicProfilePage.hidden = true;
   if (els.publicProfileModal) els.publicProfileModal.hidden = true;
   switchView("practice");
@@ -5978,8 +6127,16 @@ function sendMessageToPerson(name) {
 function showSocialContextMenu(event, name, type) {
   event.preventDefault();
   activeSocialPerson = { name, type };
-  els.socialContextMenu.style.left = `${Math.min(event.clientX, window.innerWidth - 180)}px`;
-  els.socialContextMenu.style.top = `${Math.min(event.clientY, window.innerHeight - 150)}px`;
+  const item = event.target.closest("li[data-person], [data-person]");
+  const rect = item?.getBoundingClientRect();
+  const menuWidth = 190;
+  const menuHeight = 150;
+  const leftFromName = rect ? rect.right + 10 : event.clientX + 10;
+  const topFromName = rect ? rect.top : event.clientY;
+  const left = Math.min(leftFromName, window.innerWidth - menuWidth - 10);
+  const top = Math.min(Math.max(10, topFromName), window.innerHeight - menuHeight - 10);
+  els.socialContextMenu.style.left = `${left}px`;
+  els.socialContextMenu.style.top = `${top}px`;
   els.socialContextMenu.hidden = false;
 }
 
@@ -6681,10 +6838,21 @@ function drawJerseyBody(ctx, x, y, width, height, shirtColor, pantsColor) {
   ctx.quadraticCurveTo(x - width * 0.04, y + height * 0.42, x - width * 0.22, y + height * 0.58);
   ctx.quadraticCurveTo(x - width * 0.4, y + height * 0.32, x - width * 0.28, y + height * 0.05);
   ctx.fill();
-  ctx.fillStyle = pantsColor;
+  const waistY = y + height * 0.79;
+  const pantsGradient = ctx.createLinearGradient(x - width / 2, waistY, x + width / 2, y + height);
+  pantsGradient.addColorStop(0, pantsColor);
+  pantsGradient.addColorStop(1, "#0f172a");
+  ctx.fillStyle = pantsGradient;
   ctx.beginPath();
-  ctx.roundRect(x - width * 0.42, y + height * 0.78, width * 0.84, height * 0.24, width * 0.1);
+  ctx.roundRect(x - width * 0.39, waistY, width * 0.34, height * 0.22, width * 0.08);
+  ctx.roundRect(x + width * 0.05, waistY, width * 0.34, height * 0.22, width * 0.08);
   ctx.fill();
+  ctx.strokeStyle = "rgba(15, 23, 42, 0.18)";
+  ctx.lineWidth = Math.max(1, width * 0.018);
+  ctx.beginPath();
+  ctx.moveTo(x, waistY + height * 0.02);
+  ctx.lineTo(x, y + height * 0.99);
+  ctx.stroke();
 }
 
 function drawRoundedBody(ctx, x, y, width, height, color) {
@@ -6715,11 +6883,21 @@ function drawArm(ctx, x, y, width, height, sleeveColor, skinColor, tilt, pointin
   ctx.save();
   ctx.translate(x, y);
   ctx.rotate(tilt);
+  const capGradient = ctx.createRadialGradient(-width * 0.24, -width * 0.24, width * 0.08, 0, 0, width * 0.74);
+  capGradient.addColorStop(0, shadeCssColor(sleeveColor, 0.32));
+  capGradient.addColorStop(1, sleeveColor);
+  ctx.fillStyle = capGradient;
+  ctx.beginPath();
+  ctx.ellipse(0, -height * 0.02, width * 0.72, width * 0.58, 0.16, 0, Math.PI * 2);
+  ctx.fill();
   drawLimb(ctx, 0, 0, width, height * 0.66, sleeveColor, width * 0.42);
   drawLimb(ctx, 0, height * 0.58, width * 0.82, height * 0.36, skinColor, width * 0.34);
-  ctx.fillStyle = skinColor;
+  const handGradient = ctx.createRadialGradient(-width * 0.2, height * 0.82, width * 0.06, 0, height * 0.94, width * 0.58);
+  handGradient.addColorStop(0, shadeCssColor(skinColor, 0.24));
+  handGradient.addColorStop(1, skinColor);
+  ctx.fillStyle = handGradient;
   ctx.beginPath();
-  ctx.arc(0, height * 0.94, width * 0.52, 0, Math.PI * 2);
+  ctx.ellipse(0, height * 0.94, width * 0.48, width * 0.58, -0.12, 0, Math.PI * 2);
   ctx.fill();
   if (pointing) {
     ctx.strokeStyle = skinColor;
@@ -6755,26 +6933,47 @@ function drawEar(ctx, x, y, color, scale = 1) {
 }
 
 function drawShoe(ctx, x, y, color, shape, scale = 1) {
-  const width = (shape === "boots" ? 52 : shape === "formal" ? 45 : 52) * scale;
-  const height = (shape === "trainers" ? 22 : 18) * scale;
-  ctx.fillStyle = color;
+  const width = (shape === "formal" ? 46 : shape === "sandals" ? 44 : 54) * scale;
+  const height = (shape === "boots" || shape === "work-boots" || shape === "space" ? 25 : 21) * scale;
+  const shoeGradient = ctx.createLinearGradient(x - width / 2, y, x + width / 2, y + height);
+  shoeGradient.addColorStop(0, shadeCssColor(color, 0.22));
+  shoeGradient.addColorStop(0.55, color);
+  shoeGradient.addColorStop(1, shadeCssColor(color, -0.34));
+  ctx.fillStyle = shoeGradient;
   ctx.beginPath();
-  ctx.roundRect(x - width * 0.48, y, width * 0.96, height, 8 * scale);
+  ctx.roundRect(x - width * 0.5, y + height * 0.08, width, height * 0.84, 9 * scale);
   ctx.fill();
-  ctx.fillStyle = "rgba(15, 23, 42, 0.45)";
+  ctx.fillStyle = "rgba(15, 23, 42, 0.58)";
   ctx.beginPath();
-  ctx.roundRect(x - width * 0.5, y + height * 0.72, width, 7 * scale, 5 * scale);
+  ctx.roundRect(x - width * 0.54, y + height * 0.72, width * 1.08, 8 * scale, 5 * scale);
   ctx.fill();
-  ctx.fillStyle = color;
+  ctx.fillStyle = shadeCssColor(color, 0.1);
   ctx.beginPath();
-  ctx.roundRect(x - width * 0.08, y + 3 * scale, width * 0.5, height * 0.72, 7 * scale);
+  ctx.roundRect(x - width * 0.1, y + 2 * scale, width * 0.56, height * 0.72, 8 * scale);
   ctx.fill();
-  ctx.fillStyle = "rgba(255, 255, 255, 0.24)";
-  ctx.fillRect(x - width * 0.3, y + 4 * scale, width * 0.42, 3 * scale);
-  if (shape === "boots") {
+  ctx.strokeStyle = "rgba(255, 255, 255, 0.34)";
+  ctx.lineWidth = Math.max(1, 2 * scale);
+  ctx.beginPath();
+  ctx.moveTo(x - width * 0.24, y + height * 0.28);
+  ctx.lineTo(x + width * 0.16, y + height * 0.28);
+  ctx.stroke();
+  if (shape === "boots" || shape === "work-boots") {
     ctx.fillStyle = "rgba(15, 23, 42, 0.18)";
-    ctx.fillRect(x - width * 0.36, y + height - 4 * scale, width * 0.72, 3 * scale);
+    ctx.fillRect(x - width * 0.38, y + height - 5 * scale, width * 0.76, 3 * scale);
   }
+}
+
+function shadeCssColor(color, amount) {
+  const scratch = document.createElement("canvas").getContext("2d");
+  scratch.fillStyle = color || "#111827";
+  const normalized = scratch.fillStyle;
+  const hex = normalized.startsWith("#") ? normalized : "#111827";
+  const raw = hex.replace("#", "");
+  const value = parseInt(raw.length === 3 ? raw.split("").map((ch) => ch + ch).join("") : raw.padEnd(6, "0").slice(0, 6), 16);
+  const mix = amount >= 0 ? 255 : 0;
+  const ratio = Math.min(1, Math.abs(amount));
+  const channel = (shift) => Math.round(((value >> shift) & 255) * (1 - ratio) + mix * ratio);
+  return `rgb(${channel(16)}, ${channel(8)}, ${channel(0)})`;
 }
 
 function drawEye(ctx, x, y, color, shape = "round", scale = 1) {
@@ -7217,9 +7416,7 @@ document.addEventListener("contextmenu", (e) => {
   if (item && item.parentElement.id.includes("List")) {
     e.preventDefault();
     ctxMenuTarget = item.dataset.person;
-    socialContextMenu.style.left = e.pageX + "px";
-    socialContextMenu.style.top = e.pageY + "px";
-    socialContextMenu.hidden = false;
+    showSocialContextMenu(e, ctxMenuTarget, item.dataset.socialType);
   } else {
     socialContextMenu.hidden = true;
   }

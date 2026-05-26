@@ -4304,6 +4304,10 @@ select, input, textarea {
   overflow: hidden;
 }
 
+.public-auto-rotate-toggle {
+  pointer-events: auto;
+}
+
 .public-mirror-profile-layout .collection-grid,
 .public-mirror-profile-layout .achievements-list,
 .public-mirror-profile-layout .profile-speech-stats-grid {
@@ -4355,9 +4359,12 @@ select, input, textarea {
 }
 
 .reader-actions {
+  display: grid !important;
+  grid-template-columns: repeat(4, minmax(124px, auto)) minmax(190px, 1fr);
   flex-wrap: wrap;
   align-items: center !important;
   justify-content: flex-start !important;
+  gap: 10px !important;
 }
 
 .reader-actions .action-btn {
@@ -4856,7 +4863,76 @@ select, input, textarea {
   right: 24px !important;
   top: auto !important;
   bottom: 96px !important;
-  height: auto !important;
+  width: min(420px, calc(100vw - 48px)) !important;
+  height: min(420px, calc(100vw - 48px)) !important;
+  min-height: 0 !important;
+  box-sizing: border-box !important;
+}
+
+.dm-widget {
+  right: 64px !important;
+  top: 50% !important;
+  transform: translateY(-50%) !important;
+  width: min(780px, calc(100vw - 128px)) !important;
+  height: min(520px, calc(100vh - 72px)) !important;
+  display: flex !important;
+}
+
+.twitch-chat-widget {
+  left: 64px !important;
+  top: 50% !important;
+  transform: translateY(-50%) !important;
+  width: min(420px, calc(100vw - 128px)) !important;
+  height: min(420px, calc(100vh - 72px)) !important;
+  display: flex !important;
+}
+
+.dm-widget[hidden],
+.twitch-chat-widget[hidden] {
+  display: none !important;
+}
+
+.dm-list {
+  display: grid !important;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  align-items: start;
+  gap: 12px !important;
+}
+
+.dm-section {
+  min-width: 0;
+  height: 100%;
+  padding: 10px;
+  border-radius: 14px;
+  background: rgba(255,255,255,0.42);
+  overflow-y: auto;
+}
+
+.dm-preview {
+  max-width: 100% !important;
+}
+
+.twitch-msg.site {
+  padding: 8px;
+  border-radius: 10px;
+  background: rgba(37, 99, 235, 0.10);
+}
+
+.twitch-msg.user {
+  padding: 8px;
+  border-radius: 10px;
+  background: rgba(16, 185, 129, 0.12);
+}
+
+.social-context-menu {
+  min-width: 176px;
+  transform: none !important;
+}
+
+.fab-btn.left-center,
+.fab-btn.bottom-right {
+  width: 62px !important;
+  height: 62px !important;
 }
 
 @media (max-width: 600px) {
@@ -4898,6 +4974,30 @@ select, input, textarea {
     right: 10px !important;
     top: auto !important;
     bottom: 72px !important;
-    width: auto !important;
+    width: calc(100vw - 20px) !important;
+    height: calc(100vw - 20px) !important;
+    min-height: 0 !important;
+  }
+
+  .dm-widget,
+  .twitch-chat-widget {
+    left: 10px !important;
+    right: 10px !important;
+    width: calc(100vw - 20px) !important;
+    height: min(460px, calc(100vh - 92px)) !important;
+    transform: none !important;
+  }
+
+  .dm-widget {
+    top: auto !important;
+    bottom: 70px !important;
+  }
+
+  .twitch-chat-widget {
+    top: 70px !important;
+  }
+
+  .dm-list {
+    grid-template-columns: 1fr !important;
   }
 }

@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Language Learners</title>
-    <link rel="stylesheet" href="styles.css?v=profile-character-4" />
+    <link rel="stylesheet" href="styles.css?v=profile-character-5" />
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r160/three.min.js"></script>
   </head>
@@ -164,6 +164,8 @@
             <div class="reader-actions">
               <button id="toggleTranslationBtn" type="button" class="action-btn">Translate</button>
               <button id="slowAudioBtn" type="button" class="action-btn">Play Audio</button>
+              <button id="pauseAudioBtn" type="button" class="action-btn secondary-btn">Pause</button>
+              <button id="restartAudioBtn" type="button" class="action-btn secondary-btn">Restart</button>
               <div class="audio-speed-control">
                 <input type="range" id="playbackSpeed" min="0.5" max="2" step="0.1" value="1">
                 <span id="speedLabel">1.0x</span>
@@ -238,6 +240,8 @@
                   <div class="reader-actions">
                     <button id="toggleStoryTranslationBtn" type="button" class="action-btn">Translate</button>
                     <button id="storyAudioBtn" type="button" class="action-btn">Play Audio</button>
+                    <button id="pauseStoryAudioBtn" type="button" class="action-btn secondary-btn">Pause</button>
+                    <button id="restartStoryAudioBtn" type="button" class="action-btn secondary-btn">Restart</button>
                     <div class="audio-speed-control">
                       <input type="range" id="playbackSpeedStories" min="0.5" max="2" step="0.1" value="1">
                       <span id="speedLabelStories">1.0x</span>
@@ -974,8 +978,8 @@
         <!-- Messages auto-populated -->
       </div>
       <div class="twitch-input-area">
-        <input type="text" placeholder="Send a message..." disabled>
-        <button type="button" disabled>Chat</button>
+        <input id="globalChatInput" type="text" placeholder="Ask about the site...">
+        <button id="globalChatSendBtn" type="button">Chat</button>
       </div>
     </div>
 
@@ -1089,7 +1093,7 @@
     <script src="config.js?v=site-config-1"></script>
     <script src="music-manifest.js?v=language-music-1"></script>
     <script src="data/curriculum.js?v=language-curriculum-2"></script>
-    <script src="script.js?v=language-profile-18"></script>
+    <script src="script.js?v=language-profile-19"></script>
 
     <!-- Clippy Guide -->
     <div id="clippyGuide" class="clippy-guide" hidden style="position: fixed; bottom: 20px; right: 20px; z-index: 1000; display: flex; align-items: flex-end; gap: 10px; pointer-events: none;">
