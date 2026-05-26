@@ -3685,6 +3685,41 @@ els.publicAddFriendBtn?.addEventListener("click", () => {
 els.publicSendMessageBtn?.addEventListener("click", () => {
   if (activePublicProfile?.name) sendMessageToPerson(activePublicProfile.name);
 });
+els.publicProfilePage?.addEventListener("click", (event) => {
+  const toggle = event.target.closest("[data-public-social-toggle]");
+  if (toggle) {
+    event.stopPropagation();
+    togglePublicSocialDropdown(toggle.dataset.publicSocialToggle);
+    return;
+  }
+  if (event.target.closest("#publicAddFriendBtn")) {
+    if (activePublicProfile?.name) addFriend(activePublicProfile.name);
+    return;
+  }
+  if (event.target.closest("#publicSendMessageBtn")) {
+    if (activePublicProfile?.name) sendMessageToPerson(activePublicProfile.name);
+    return;
+  }
+  const personItem = event.target.closest("li[data-person]");
+  if (personItem) {
+    event.preventDefault();
+    event.stopPropagation();
+    openPersonProfile(personItem.dataset.person);
+  }
+});
+els.publicProfilePage?.addEventListener("input", (event) => {
+  const input = event.target.closest("input[type='search']");
+  if (!input) return;
+  const group = input.closest("[data-public-social-group]");
+  const type = group?.dataset.publicSocialGroup;
+  if (!type) return;
+  publicSocialSearchState[type] = input.value.trim();
+  renderPublicSocialList(type);
+});
+els.publicProfilePage?.addEventListener("contextmenu", (event) => {
+  const item = event.target.closest("li[data-person]");
+  if (item) showSocialContextMenu(event, item.dataset.person, item.dataset.socialType);
+});
 els.storyPrevPageBtn?.addEventListener("click", () => {
   if (appState.currentStorySectionIndex > 0) {
     appState.currentStorySectionIndex--;
@@ -5409,8 +5444,9 @@ function renderPublicCharacter3d(profile) {
     renderer.setSize(width, height, false);
     if (THREE.SRGBColorSpace) renderer.outputColorSpace = THREE.SRGBColorSpace;
     const scene = new THREE.Scene();
-    const camera = new THREE.PerspectiveCamera(34, width / height, 0.1, 100);
-    camera.position.set(0, 1.22, 5.6);
+    const camera = new THREE.PerspectiveCamera(31, width / height, 0.1, 100);
+    camera.position.set(0, 0.12, 9.2);
+    camera.lookAt(0, -0.05, 0);
     scene.add(new THREE.HemisphereLight(0xffffff, 0x94a3b8, 2.1));
     const key = new THREE.DirectionalLight(0xffffff, 1.9);
     key.position.set(3, 4, 5);
@@ -5423,7 +5459,7 @@ function renderPublicCharacter3d(profile) {
       return new THREE.Mesh(geometry, material(color));
     };
     const group = new THREE.Group();
-    group.position.y = -0.2;
+    group.position.y = -0.16;
     group.rotation.y = -0.22;
     scene.add(group);
     const shadow = new THREE.Mesh(
@@ -5431,12 +5467,13 @@ function renderPublicCharacter3d(profile) {
       new THREE.MeshBasicMaterial({ color: 0x0f172a, transparent: true, opacity: 0.12 })
     );
     shadow.rotation.x = -Math.PI / 2;
-    shadow.position.y = -1.42;
-    const torso = capsule(0.48, 0.85, c.shirtColor, 28);
-    torso.position.y = 0.12;
-    torso.scale.set(1.05, 1.08, 0.78);
-    const shorts = new THREE.Mesh(new THREE.BoxGeometry(0.9, 0.28, 0.64), material(c.pantsColor));
-    shorts.position.y = -0.53;
+    shadow.position.y = -1.64;
+    const torso = capsule(0.48, 1.03, c.shirtColor, 32);
+    torso.position.y = 0.04;
+    torso.scale.set(1.04, 1.06, 0.78);
+    const shorts = new THREE.Mesh(new THREE.SphereGeometry(0.47, 32, 18), material(c.pantsColor));
+    shorts.position.y = -0.62;
+    shorts.scale.set(1.04, 0.4, 0.74);
     const neck = capsule(0.15, 0.2, c.faceColor, 18);
     neck.position.y = 0.88;
     const head = new THREE.Mesh(new THREE.SphereGeometry(0.46, 32, 24), material(c.faceColor));
@@ -5470,25 +5507,49 @@ function renderPublicCharacter3d(profile) {
     const mouth = new THREE.Mesh(new THREE.TorusGeometry(0.12, 0.012, 8, 28, Math.PI), material(0x51311c));
     mouth.position.set(0, 1.22, 0.4);
     mouth.rotation.set(0, 0, Math.PI);
+    const leftMouthCorner = new THREE.Mesh(new THREE.SphereGeometry(0.02, 12, 8), material(0x51311c));
+    leftMouthCorner.position.set(-0.12, 1.22, 0.42);
+    leftMouthCorner.scale.set(0.8, 0.58, 0.42);
+    const rightMouthCorner = leftMouthCorner.clone();
+    rightMouthCorner.material = leftMouthCorner.material.clone();
+    rightMouthCorner.position.x = 0.12;
     const makeArm = (side) => {
       const arm = new THREE.Group();
-      arm.position.set(side * 0.55, 0.33, 0);
-      arm.rotation.z = side * -0.22;
-      const sleeve = capsule(0.095, 0.48, c.shirtColor, 16);
-      sleeve.position.y = -0.23;
-      const hand = capsule(0.085, 0.42, c.faceColor, 16);
-      hand.position.y = -0.68;
-      arm.add(sleeve, hand);
+      arm.position.set(side * 0.68, 0.62, 0.22);
+      arm.rotation.z = side * -0.06;
+      arm.rotation.x = 0.04;
+      const shoulderCap = new THREE.Mesh(new THREE.SphereGeometry(0.15, 20, 14), material(c.shirtColor));
+      shoulderCap.position.set(0, 0.02, 0.03);
+      shoulderCap.scale.set(1.06, 0.82, 0.92);
+      const sleeve = capsule(0.112, 0.54, c.shirtColor, 18);
+      sleeve.position.set(side * 0.02, -0.31, 0.03);
+      const forearm = capsule(0.092, 0.44, c.faceColor, 18);
+      forearm.position.set(side * 0.07, -0.76, 0.11);
+      const hand = new THREE.Mesh(new THREE.SphereGeometry(0.12, 20, 14), material(c.faceColor));
+      hand.position.set(side * 0.1, -1.03, 0.15);
+      hand.scale.set(0.9, 1.06, 0.72);
+      arm.add(shoulderCap, sleeve, forearm, hand);
       return arm;
     };
     const makeLeg = (side) => {
       const leg = new THREE.Group();
-      leg.position.set(side * (c.legs === "wide" ? 0.3 : 0.22), -0.83, 0);
-      const pant = capsule(0.1, 0.5, c.pantsColor, 16);
+      leg.position.set(side * (c.legs === "wide" ? 0.32 : 0.24), -0.88, 0.02);
+      const pant = capsule(0.116, 0.52, c.pantsColor, 18);
       pant.position.y = -0.18;
-      const shoe = new THREE.Mesh(new THREE.BoxGeometry(0.3, 0.14, 0.43), material(c.shoesColor));
-      shoe.position.set(side * 0.03, -0.5, 0.06);
-      leg.add(pant, shoe);
+      const lowerLeg = capsule(0.09, 0.38, c.faceColor, 16);
+      lowerLeg.position.y = -0.62;
+      const shoe = new THREE.Group();
+      shoe.position.set(side * 0.04, -0.91, 0.2);
+      const sole = new THREE.Mesh(new THREE.BoxGeometry(0.36, 0.07, 0.56), material(shadeHex(c.shoesColor, -0.34)));
+      sole.position.y = -0.07;
+      const upper = new THREE.Mesh(new THREE.BoxGeometry(0.32, 0.16, 0.43), material(c.shoesColor));
+      const toe = new THREE.Mesh(new THREE.SphereGeometry(0.17, 20, 12), material(c.shoesColor));
+      toe.position.z = 0.23;
+      toe.scale.set(1.02, 0.44, 0.7);
+      const stripe = new THREE.Mesh(new THREE.BoxGeometry(0.26, 0.016, 0.33), material(shadeHex(c.shoesColor, 0.48)));
+      stripe.position.set(0, 0.11, 0.02);
+      shoe.add(sole, upper, toe, stripe);
+      leg.add(pant, lowerLeg, shoe);
       return leg;
     };
     group.add(
@@ -5509,7 +5570,9 @@ function renderPublicCharacter3d(profile) {
       leftEye,
       rightEye,
       nose,
-      mouth
+      mouth,
+      leftMouthCorner,
+      rightMouthCorner
     );
     renderer.render(scene, camera);
     return true;
@@ -5611,6 +5674,196 @@ function togglePublicSocialDropdown(type) {
   if (opening) dropdown.querySelector("input")?.focus();
 }
 
+function escapeHtml(value) {
+  return String(value ?? "").replace(/[&<>"']/g, (char) => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    "\"": "&quot;",
+    "'": "&#39;"
+  })[char]);
+}
+
+function displayLabelFromValue(value) {
+  return String(value || "standard")
+    .replace(/-/g, " ")
+    .replace(/\b\w/g, (char) => char.toUpperCase());
+}
+
+function publicSocialGroupMarkup(type, count, label) {
+  const safeType = escapeHtml(type);
+  return `
+    <div class="stat-item social-group public-social-group" data-public-social-group="${safeType}">
+      <button class="social-toggle-btn public-social-toggle" type="button" data-public-social-toggle="${safeType}">
+        <strong id="public${label}Count">${Number(count || 0).toLocaleString()}</strong>
+        <span>${escapeHtml(label)} <span class="dropdown-arrow">▼</span></span>
+      </button>
+      <div class="social-dropdown public-social-dropdown glass-panel" hidden>
+        <input id="public${label}Search" type="search" placeholder="Search ${safeType}">
+        <ul id="public${label}List"></ul>
+      </div>
+    </div>
+  `;
+}
+
+function readonlyCharacterControlMarkup(profile) {
+  const c = profile.customization || {};
+  const fields = [
+    ["Hair Style", c.hair],
+    ["Eye Shape", c.eyeShape],
+    ["Nose Shape", c.nose],
+    ["Mouth Shape", c.mouth],
+    ["Arm Pose", c.arms],
+    ["Leg Pose", c.legs],
+    ["Outfit Style", c.shirt],
+    ["Pants Style", c.pants],
+    ["Shoes Style", c.shoes]
+  ];
+  const colors = [
+    ["Hair", c.hairColor],
+    ["Eyes", c.eyeColor],
+    ["Skin", c.faceColor],
+    ["Shirt", c.shirtColor],
+    ["Pants", c.pantsColor],
+    ["Shoes", c.shoesColor]
+  ];
+  return `
+    <div class="customizer-grid readonly-customizer-grid">
+      ${fields.map(([label, value]) => `
+        <div class="control-group readonly-control-group">
+          <label>${escapeHtml(label)}</label>
+          <select disabled>
+            <option>${escapeHtml(displayLabelFromValue(value))}</option>
+          </select>
+        </div>
+      `).join("")}
+    </div>
+    <div class="color-pickers-section readonly-color-section">
+      <h4>Color Studio</h4>
+      <div class="color-pickers-grid">
+        ${colors.map(([label, value]) => `
+          <div class="color-picker-item readonly-color-item">
+            <label>${escapeHtml(label)}</label>
+            <span class="readonly-color-swatch" style="--readonly-color:${escapeHtml(value || "#111827")}"></span>
+          </div>
+        `).join("")}
+      </div>
+    </div>
+  `;
+}
+
+function bindPublicProfilePageRefs() {
+  const page = els.publicProfilePage;
+  if (!page) return;
+  els.publicProfileAvatar = page.querySelector("#publicPageAvatarContainer");
+  els.publicProfileHandle = page.querySelector("#publicProfileHandle");
+  els.publicProfileBio = page.querySelector("#publicProfileBio");
+  els.publicProfileStatus = page.querySelector("#publicProfileStatus");
+  els.publicFollowersCount = page.querySelector("#publicFollowersCount");
+  els.publicFollowingCount = page.querySelector("#publicFollowingCount");
+  els.publicFriendsCount = page.querySelector("#publicFriendsCount");
+  els.publicFollowersSearch = page.querySelector("#publicFollowersSearch");
+  els.publicFollowingSearch = page.querySelector("#publicFollowingSearch");
+  els.publicFriendsSearch = page.querySelector("#publicFriendsSearch");
+  els.publicFollowersList = page.querySelector("#publicFollowersList");
+  els.publicFollowingList = page.querySelector("#publicFollowingList");
+  els.publicFriendsList = page.querySelector("#publicFriendsList");
+  els.publicAchievementsList = page.querySelector("#publicAchievementsList");
+  els.publicCollectionGrid = page.querySelector("#publicCollectionGrid");
+  els.publicBestAccuracy = page.querySelector("#publicBestAccuracy");
+  els.publicWordsKnown = page.querySelector("#publicWordsKnown");
+  els.publicStoriesRead = page.querySelector("#publicStoriesRead");
+  els.publicStreakDays = page.querySelector("#publicStreakDays");
+  els.publicLevelLabel = page.querySelector("#publicLevelLabel");
+  els.publicLevelProgressFill = page.querySelector("#publicLevelProgressFill");
+  els.publicLevelProgressText = page.querySelector("#publicLevelProgressText");
+}
+
+function renderPublicProfileShell(profile) {
+  const progress = getLevelInfo(profile.xp);
+  const progressPercent = Math.min(100, Math.round((progress.progress / progress.needed) * 100));
+  const safeName = escapeHtml(profile.name);
+  const safeHandle = escapeHtml(`@${profile.handle}`);
+  const safeBio = escapeHtml(profile.bio);
+  return `
+    <div class="profile-layout public-mirror-profile-layout">
+      <div class="profile-header-card glass-panel public-mirror-header">
+        <div class="profile-header-top-row">
+          <div class="circular-avatar-wrapper public-avatar-wrapper">
+            <div id="publicPageAvatarContainer" class="circular-avatar-inner"></div>
+          </div>
+          <div class="profile-stats-horizontal public-profile-stats">
+            ${publicSocialGroupMarkup("followers", profile.followers, "Followers")}
+            ${publicSocialGroupMarkup("following", profile.following, "Following")}
+            ${publicSocialGroupMarkup("friends", profile.friends, "Friends")}
+          </div>
+        </div>
+        <div class="profile-bio-details public-profile-details">
+          <span class="visiting-profile-label">Visiting Profile</span>
+          <h2>${safeName}</h2>
+          <p id="publicProfileHandle">${safeHandle}</p>
+          <p id="publicProfileBio" class="bio-text-paragraph">${safeBio}</p>
+          <div class="public-profile-actions">
+            <button id="publicAddFriendBtn" class="action-btn public-action-btn" type="button">Add Friend</button>
+            <button id="publicSendMessageBtn" class="action-btn secondary-btn public-action-btn" type="button">Send Message</button>
+          </div>
+          <p id="publicProfileStatus" class="profile-status"></p>
+        </div>
+      </div>
+
+      <section class="achievements-panel glass-panel">
+        <div class="profile-section-heading"><h3>Achievements</h3></div>
+        <div id="publicAchievementsList" class="achievements-list"></div>
+      </section>
+
+      <section class="character-customization-panel glass-panel readonly-character-studio">
+        <div class="profile-section-heading">
+          <h3>Character Studio</h3>
+          <span class="readonly-profile-chip">View Only</span>
+        </div>
+        <div class="studio-layout">
+          <div class="customizer-controls readonly-customizer-controls">
+            ${readonlyCharacterControlMarkup(profile)}
+          </div>
+          <div class="character-preview-frame public-character-preview-frame">
+            <div id="publicCharacterCanvasMount" class="public-character-canvas-mount"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="collection-panel glass-panel">
+        <div class="profile-section-heading"><h3>Collection Grid</h3></div>
+        <div class="tier-odds">
+          <span class="tier-chip standard">Standard 80%</span>
+          <span class="tier-chip rare">Rare 16%</span>
+          <span class="tier-chip legendary">Legendary 4%</span>
+          <span class="tier-chip god">God 1%</span>
+        </div>
+        <div id="publicCollectionGrid" class="collection-grid" aria-label="${safeName} collectible items"></div>
+      </section>
+
+      <section class="profile-speech-stats-panel glass-panel">
+        <div class="profile-section-heading"><h3>Practice Stats</h3></div>
+        <div class="profile-speech-stats-grid">
+          <div><strong id="publicBestAccuracy">--</strong><span>Best accuracy</span></div>
+          <div><strong id="publicWordsKnown">--</strong><span>Words known</span></div>
+          <div><strong id="publicStoriesRead">--</strong><span>Stories read</span></div>
+          <div><strong id="publicStreakDays">--</strong><span>Day streak</span></div>
+        </div>
+      </section>
+
+      <section class="level-panel glass-panel public-level-panel">
+        <div class="profile-section-heading">
+          <h3>Level</h3>
+          <span id="publicLevelLabel">Level ${progress.level}</span>
+        </div>
+        <div class="level-progress"><div id="publicLevelProgressFill" style="width:${progressPercent}%"></div></div>
+        <p id="publicLevelProgressText" class="profile-status">${progress.progress.toLocaleString()} / ${progress.needed.toLocaleString()} XP to Level ${progress.level + 1}</p>
+      </section>
+    </div>
+  `;
+}
+
 function renderPublicProfile(name) {
   const profile = createPublicProfile(name);
   activePublicProfile = profile;
@@ -5618,16 +5871,19 @@ function renderPublicProfile(name) {
   if (els.profileLayout) els.profileLayout.hidden = true;
   if (els.publicProfilePage) {
     els.publicProfilePage.hidden = false;
-    if (els.publicProfileCard && els.publicProfileCard.parentElement !== els.publicProfilePage) {
-      els.publicProfilePage.append(els.publicProfileCard);
-    }
+    els.publicProfilePage.innerHTML = renderPublicProfileShell(profile);
+    const canvas = els.publicCharacterCanvas || document.createElement("canvas");
+    canvas.id = "publicCharacterCanvas";
+    canvas.className = "public-character-canvas character-canvas";
+    canvas.setAttribute("aria-label", "Read-only profile character");
+    els.publicProfilePage.querySelector("#publicCharacterCanvasMount")?.replaceChildren(canvas);
+    els.publicCharacterCanvas = canvas;
+    bindPublicProfilePageRefs();
   }
   if (els.publicProfileModal) els.publicProfileModal.hidden = true;
   window.scrollTo({ top: 0, left: 0, behavior: "instant" });
   els.profileView?.scrollTo?.({ top: 0, left: 0, behavior: "instant" });
-  els.publicProfileName.textContent = profile.name;
-  els.publicProfileAvatar.textContent = profile.customization?.mascot || profile.name.split(" ").map(part => part[0]).join("").slice(0, 2);
-  els.publicProfileAvatar.style.setProperty("--public-profile-color", profile.color);
+  renderMascotAvatar(els.publicProfileAvatar, profile.customization?.mascot, { color: profile.color });
   renderPublicCharacter(profile);
   els.publicProfileHandle.textContent = `@${profile.handle}`;
   els.publicProfileBio.textContent = profile.bio;
@@ -5882,7 +6138,7 @@ function initCharacter3d() {
     const renderer = new THREE.WebGLRenderer({ canvas: els.characterCanvas, antialias: true, alpha: true });
     renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
     if (THREE.SRGBColorSpace) renderer.outputColorSpace = THREE.SRGBColorSpace;
-    camera.position.set(0, 0.16, 8.75);
+    camera.position.set(0, 0.16, 10.2);
     camera.lookAt(0, -0.03, 0);
     scene.add(new THREE.HemisphereLight(0xffffff, 0x8aa0bf, 2.15));
     const key = new THREE.DirectionalLight(0xffffff, 2.0);
@@ -5922,9 +6178,9 @@ function initCharacter3d() {
     shirtSeam.rotation.set(0, 0, Math.PI);
     shirtSeam.scale.set(1.15, 0.35, 0.12);
 
-    const shorts = new THREE.Mesh(new THREE.BoxGeometry(1.02, 0.42, 0.76), material(0x111827));
+    const shorts = new THREE.Mesh(new THREE.SphereGeometry(0.5, 36, 20), material(0x111827));
     shorts.position.y = -0.66;
-    shorts.scale.set(1.02, 1, 0.86);
+    shorts.scale.set(1.06, 0.42, 0.76);
 
     const neck = capsule(0.2, 0.36, 0xed8936, 24);
     neck.position.y = 0.9;
@@ -5974,24 +6230,30 @@ function initCharacter3d() {
     );
     mouth.position.set(0, 1.21, 0.48);
     mouth.rotation.set(0, 0, Math.PI);
+    const leftMouthCorner = new THREE.Mesh(new THREE.SphereGeometry(0.024, 12, 8), material(0x51311c));
+    leftMouthCorner.position.set(-0.13, 1.21, 0.505);
+    leftMouthCorner.scale.set(0.8, 0.62, 0.45);
+    const rightMouthCorner = leftMouthCorner.clone();
+    rightMouthCorner.material = leftMouthCorner.material.clone();
+    rightMouthCorner.position.x = 0.13;
 
     const makeArm = (side) => {
       const shoulder = new THREE.Group();
-      shoulder.position.set(side * 0.56, 0.72, 0.18);
-      shoulder.rotation.z = side * -0.12;
-      shoulder.rotation.x = 0.08;
+      shoulder.position.set(side * 0.72, 0.69, 0.24);
+      shoulder.rotation.z = side * -0.06;
+      shoulder.rotation.x = 0.04;
       const shoulderCap = new THREE.Mesh(new THREE.SphereGeometry(0.17, 24, 18), material(0x3182ce));
-      shoulderCap.position.set(side * 0.02, 0.02, 0.03);
-      shoulderCap.scale.set(1.05, 0.82, 0.92);
+      shoulderCap.position.set(side * 0.01, 0.03, 0.05);
+      shoulderCap.scale.set(1.1, 0.84, 0.96);
       const sleeve = capsule(0.13, 0.6, 0x3182ce, 24);
-      sleeve.position.set(side * 0.02, -0.34, 0.02);
-      sleeve.rotation.z = side * -0.04;
+      sleeve.position.set(side * 0.03, -0.34, 0.03);
+      sleeve.rotation.z = side * 0.02;
       const forearm = capsule(0.108, 0.54, 0xed8936, 22);
-      forearm.position.set(side * 0.03, -0.88, 0.08);
-      forearm.rotation.z = side * 0.03;
+      forearm.position.set(side * 0.08, -0.88, 0.13);
+      forearm.rotation.z = side * 0.05;
       const hand = new THREE.Mesh(new THREE.SphereGeometry(0.135, 24, 18), material(0xed8936));
-      hand.position.set(side * 0.04, -1.21, 0.12);
-      hand.scale.set(0.86, 1.12, 0.72);
+      hand.position.set(side * 0.12, -1.2, 0.17);
+      hand.scale.set(0.92, 1.1, 0.76);
       shoulder.add(shoulderCap, sleeve, forearm, hand);
       return { shoulder, shoulderCap, sleeve, forearm, hand };
     };
@@ -6046,7 +6308,9 @@ function initCharacter3d() {
       leftEye,
       rightEye,
       nose,
-      mouth
+      mouth,
+      leftMouthCorner,
+      rightMouthCorner
     );
     character3d = {
       scene,
@@ -6068,6 +6332,8 @@ function initCharacter3d() {
       rightEye,
       nose,
       mouth,
+      leftMouthCorner,
+      rightMouthCorner,
       leftArm,
       rightArm,
       leftLeg,
@@ -6151,7 +6417,16 @@ function updateCharacterVisuals() {
   character3d.leftEyeWhite.scale.set(c.eyeShape === "determined" ? 1.16 : c.eyeShape === "anime" ? 1.32 : 1.08, c.eyeShape === "happy" ? 0.36 : 0.76, 0.34);
   character3d.rightEyeWhite.scale.copy(character3d.leftEyeWhite.scale);
   character3d.nose.scale.set(c.nose === "sharp" ? 0.9 : c.nose === "cute" ? 0.76 : 1, c.nose === "straight" ? 1.2 : 1, c.nose === "sharp" ? 1.24 : 1);
-  character3d.mouth.scale.set(c.mouth === "grin" ? 1.45 : c.mouth === "neutral" ? 1.05 : c.mouth === "surprised" ? 0.62 : 1, c.mouth === "surprised" ? 1.7 : c.mouth === "neutral" ? 0.35 : 1, 1);
+  const mouthScaleX = c.mouth === "grin" || c.mouth === "wide" || c.mouth === "laugh" ? 1.45 : c.mouth === "neutral" || c.mouth === "focused" ? 1.05 : c.mouth === "surprised" || c.mouth === "open" ? 0.62 : 1;
+  const mouthScaleY = c.mouth === "surprised" || c.mouth === "open" ? 1.7 : c.mouth === "neutral" || c.mouth === "focused" ? 0.35 : 1;
+  character3d.mouth.scale.set(mouthScaleX, mouthScaleY, 1);
+  const cornerSpread = c.mouth === "grin" || c.mouth === "wide" || c.mouth === "laugh" ? 0.18 : c.mouth === "neutral" || c.mouth === "focused" ? 0.13 : 0.14;
+  if (character3d.leftMouthCorner && character3d.rightMouthCorner) {
+    character3d.leftMouthCorner.visible = c.mouth !== "surprised" && c.mouth !== "open";
+    character3d.rightMouthCorner.visible = character3d.leftMouthCorner.visible;
+    character3d.leftMouthCorner.position.x = -cornerSpread;
+    character3d.rightMouthCorner.position.x = cornerSpread;
+  }
   const armPose = {
     waving: [0.92, -0.92],
     athletic: [0.36, -0.36],
@@ -6187,7 +6462,7 @@ function updateCharacterVisuals() {
   character3d.leftLeg.leg.rotation.z = legPose[2];
   character3d.rightLeg.leg.rotation.z = legPose[3];
   character3d.torso.scale.set(c.shirt === "hoodie" ? 1.14 : c.shirt === "jersey" ? 1.08 : 1.05, 1.08, 0.78);
-  character3d.shorts.scale.set(c.pants === "shorts" ? 1.05 : 1, c.pants === "cargo" ? 1.18 : 1, 0.82);
+  character3d.shorts.scale.set(c.pants === "shorts" ? 1.1 : 1.06, c.pants === "cargo" ? 0.48 : 0.42, c.pants === "baggy" || c.pants === "wide" ? 0.84 : 0.76);
   const shoeScale = {
     boots: [1.1, 1.22, 1.08],
     "work-boots": [1.14, 1.28, 1.12],
