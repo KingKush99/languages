@@ -3223,6 +3223,12 @@ function speakSlowRussian() {
 function handleSpeedChange(e, label) {
   const val = Number(e.target.value).toFixed(1);
   label.textContent = `${val}x`;
+  if (els.playbackSpeed && els.playbackSpeed !== e.target) els.playbackSpeed.value = val;
+  if (els.playbackSpeedStories && els.playbackSpeedStories !== e.target) els.playbackSpeedStories.value = val;
+  if (els.speedLabel && els.speedLabel !== label) els.speedLabel.textContent = `${val}x`;
+  if (els.speedLabelStories && els.speedLabelStories !== label) els.speedLabelStories.textContent = `${val}x`;
+  appState.settings.audioRate = Number(val);
+  localStorage.setItem("nova_profile_settings", JSON.stringify(appState.settings));
 }
 
 els.playbackSpeed.addEventListener("input", (e) => handleSpeedChange(e, els.speedLabel));
@@ -5847,8 +5853,8 @@ function initCharacter3d() {
     const renderer = new THREE.WebGLRenderer({ canvas: els.characterCanvas, antialias: true, alpha: true });
     renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
     if (THREE.SRGBColorSpace) renderer.outputColorSpace = THREE.SRGBColorSpace;
-    camera.position.set(0, 0.34, 7.25);
-    camera.lookAt(0, 0.08, 0);
+    camera.position.set(0, 0.16, 8.75);
+    camera.lookAt(0, -0.03, 0);
     scene.add(new THREE.HemisphereLight(0xffffff, 0x8aa0bf, 2.15));
     const key = new THREE.DirectionalLight(0xffffff, 2.0);
     key.position.set(3.2, 4.6, 5.4);
@@ -5858,9 +5864,9 @@ function initCharacter3d() {
     scene.add(fill);
 
     const group = new THREE.Group();
-    group.position.y = -0.26;
+    group.position.y = -0.18;
     scene.add(group);
-    const material = (color) => new THREE.MeshStandardMaterial({ color, roughness: 0.62, metalness: 0.02 });
+    const material = (color) => new THREE.MeshStandardMaterial({ color, roughness: 0.55, metalness: 0.015 });
     const capsule = (radius, length, color, segments = 24) => {
       const geometry = THREE.CapsuleGeometry
         ? new THREE.CapsuleGeometry(radius, length, 10, segments)
@@ -5879,10 +5885,13 @@ function initCharacter3d() {
     torso.position.y = 0.06;
     torso.scale.set(1.04, 1.05, 0.82);
 
-    const chestPanel = new THREE.Mesh(new THREE.CapsuleGeometry(0.18, 0.8, 8, 24), material(0xffffff));
-    chestPanel.position.set(-0.19, 0.2, 0.44);
-    chestPanel.rotation.z = -0.24;
-    chestPanel.scale.set(0.72, 1.05, 0.08);
+    const shirtSeam = new THREE.Mesh(
+      new THREE.TorusGeometry(0.33, 0.012, 8, 32, Math.PI),
+      material(0x1f5f9f)
+    );
+    shirtSeam.position.set(0, 0.85, 0.46);
+    shirtSeam.rotation.set(0, 0, Math.PI);
+    shirtSeam.scale.set(1.15, 0.35, 0.12);
 
     const shorts = new THREE.Mesh(new THREE.BoxGeometry(1.02, 0.42, 0.76), material(0x111827));
     shorts.position.y = -0.66;
@@ -5978,7 +5987,7 @@ function initCharacter3d() {
       leftArm.shoulder,
       rightArm.shoulder,
       torso,
-      chestPanel,
+      shirtSeam,
       shorts,
       neck,
       leftEar,
@@ -5999,7 +6008,7 @@ function initCharacter3d() {
       renderer,
       group,
       torso,
-      chestPanel,
+      shirtSeam,
       shorts,
       neck,
       head,
@@ -6079,6 +6088,7 @@ function updateCharacterVisuals() {
   setGroupColor([character3d.neck, character3d.leftEar, character3d.rightEar, character3d.leftArm.forearm, character3d.leftArm.hand, character3d.rightArm.forearm, character3d.rightArm.hand, character3d.leftLeg.lowerLeg, character3d.rightLeg.lowerLeg], c.faceColor);
   setGroupColor([character3d.leftEye, character3d.rightEye], c.eyeColor);
   setGroupColor([character3d.torso, character3d.leftArm.sleeve, character3d.rightArm.sleeve], c.shirtColor);
+  setGroupColor([character3d.shirtSeam], c.shirtColor);
   setGroupColor([character3d.shorts, character3d.leftLeg.pant, character3d.rightLeg.pant], c.pantsColor);
   setGroupColor([character3d.leftLeg.shoe, character3d.rightLeg.shoe], c.shoesColor);
   setGroupColor([character3d.hair, ...character3d.hairTufts], c.hairColor);
@@ -6217,8 +6227,8 @@ function drawCharacterFallback() {
 
 function updateAutoRotateButton() {
   if (!els.characterAutoRotateBtn || !character3d) return;
-  els.characterAutoRotateBtn.textContent = character3d.autoRotate ? "Auto-rotate On" : "Auto-rotate Off";
-  els.characterAutoRotateBtn.setAttribute("aria-pressed", String(Boolean(character3d.autoRotate)));
+  els.characterAutoRotateBtn.checked = Boolean(character3d.autoRotate);
+  els.characterAutoRotateBtn.setAttribute("aria-checked", String(Boolean(character3d.autoRotate)));
 }
 
 function runCharacterRotation() {
@@ -6607,9 +6617,9 @@ els.editBio.addEventListener("input", updateBioCount);
   input?.addEventListener("input", () => enforceCleanProfileField(input, label));
   input?.addEventListener("paste", () => setTimeout(() => enforceCleanProfileField(input, label), 0));
 });
-els.characterAutoRotateBtn?.addEventListener("click", () => {
+els.characterAutoRotateBtn?.addEventListener("change", () => {
   if (!character3d) initCharacter3d();
-  setCharacterAutoRotate(!character3d?.autoRotate);
+  setCharacterAutoRotate(Boolean(els.characterAutoRotateBtn.checked));
 });
 els.collectItemBtn.addEventListener("click", collectItem);
 els.clearCollectionBtn.addEventListener("click", clearCollection);
