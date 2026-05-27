@@ -74,7 +74,7 @@ For local testing without copying large music files into this repo, serve `M:\La
 npm run media:serve
 ```
 
-The app automatically uses `http://127.0.0.1:9877` as `LANGUAGE_MEDIA_BASE` when opened from localhost or `127.0.0.1`. Manifest paths that start with a language folder, such as `Russian/Music/Artists/...`, `Japanese/Music/Artists/...`, or `Hindi/Music/Artists/...`, are loaded through the media base.
+The app automatically uses `http://127.0.0.1:9877` as `LANGUAGE_MEDIA_BASE` when opened from a local file, localhost, or `127.0.0.1`. Manifest paths that start with a language folder, such as `Russian/Music/Artists/...`, `Japanese/Music/Artists/...`, or `Hindi/Music/Artists/...`, are loaded through the media base.
 
 Large WAV libraries should not be committed directly to GitHub. For production, use compressed audio such as MP3, AAC, OGG, or WebM, or serve the files from external object storage/CDN and point the manifest at those URLs.
 

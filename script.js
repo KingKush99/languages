@@ -2211,6 +2211,17 @@ function resolveMediaUrl(assetPath) {
   return `${base}/${value.replace(/^\/+/, "")}`;
 }
 
+function needsExternalMediaBase(assetPath) {
+  return /^(Russian|Japanese|Mandarin|Hindi|Arabic)\//i.test(String(assetPath || "").trim());
+}
+
+function externalMediaHelpText(assetPath) {
+  if (!needsExternalMediaBase(assetPath)) return "";
+  return getMediaBaseUrl()
+    ? "Media file not reachable. Check that npm run media:serve is still running."
+    : "Run npm run media:serve to load local music and covers.";
+}
+
 const appState = {
   targetLanguage: languageDatasets[initialLanguage] ? initialLanguage : "russian",
   words: (languageDatasets[initialLanguage] || languageDatasets.russian).words(),
@@ -4749,7 +4760,7 @@ function playAudioSong(song) {
     els.songStatus.textContent = "Paused";
   });
   currentAudio.play().catch((error) => {
-    els.songStatus.textContent = "Could not play file";
+    els.songStatus.textContent = externalMediaHelpText(song.src) || "Could not play file";
     console.warn("Music playback failed", error);
   });
 }
@@ -4774,6 +4785,8 @@ function renderSongArtwork(song) {
   img.alt = `${song.album || song.title} cover`;
   img.addEventListener("error", () => {
     els.songArtwork.replaceChildren(createMusicCoverFallback(song));
+    const helpText = externalMediaHelpText(song.cover);
+    if (helpText && els.songStatus?.textContent !== "Playing") els.songStatus.textContent = helpText;
   }, { once: true });
   els.songArtwork.append(img);
 }
