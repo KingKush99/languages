@@ -1,10 +1,12 @@
 const http = require("node:http");
 const fs = require("node:fs");
 const path = require("node:path");
+const crypto = require("node:crypto");
 
 const root = __dirname;
 const port = Number(process.env.PORT || 9876);
 const host = "127.0.0.1";
+let dbPool;
 const types = {
   ".html": "text/html; charset=utf-8",
   ".css": "text/css; charset=utf-8",
@@ -36,6 +38,127 @@ function getCoinPackage(id) {
   return coinPackages.find((pack) => pack.id === id || String(pack.price) === String(id));
 }
 
+function getDbPool() {
+  if (!process.env.DATABASE_URL) return null;
+  if (!dbPool) {
+    const { Pool } = require("pg");
+    dbPool = new Pool({
+      connectionString: process.env.DATABASE_URL,
+      ssl: process.env.DATABASE_URL.includes("sslmode=disable") ? false : { rejectUnauthorized: false },
+      connectionTimeoutMillis: 5000,
+      idleTimeoutMillis: 10000,
+      query_timeout: 8000
+    });
+  }
+  return dbPool;
+}
+
+async function ensureLedgerSchema() {
+  const db = getDbPool();
+  if (!db) throw new Error("DATABASE_URL is not configured.");
+  await db.query(`
+    create table if not exists user_wallets (
+      user_id text primary key,
+      coins integer not null default 0,
+      updated_at timestamptz not null default now()
+    );
+    create table if not exists purchase_events (
+      provider text not null,
+      provider_event_id text not null,
+      provider_payment_id text,
+      user_id text not null,
+      package_id text not null,
+      coins integer not null,
+      raw_event jsonb not null,
+      created_at timestamptz not null default now(),
+      primary key (provider, provider_event_id)
+    );
+  `);
+}
+
+async function getWallet(userId) {
+  const db = getDbPool();
+  if (!db) throw new Error("DATABASE_URL is not configured.");
+  await ensureLedgerSchema();
+  const safeUserId = String(userId || "anonymous").slice(0, 128);
+  await db.query(
+    `insert into user_wallets (user_id, coins)
+     values ($1, 0)
+     on conflict (user_id) do nothing`,
+    [safeUserId]
+  );
+  const existing = await db.query("select user_id, coins from user_wallets where user_id = $1", [safeUserId]);
+  return existing.rows[0] || { user_id: safeUserId, coins: 0 };
+}
+
+async function creditCoinsFromWebhook({ provider, providerEventId, providerPaymentId, userId, packageId, coins, rawEvent }) {
+  const db = getDbPool();
+  if (!db) throw new Error("DATABASE_URL is not configured.");
+  await ensureLedgerSchema();
+  const safeCoins = Number.parseInt(coins, 10);
+  if (!Number.isFinite(safeCoins) || safeCoins <= 0) throw new Error("Webhook did not include a valid coin amount.");
+  const safeUserId = String(userId || "anonymous").slice(0, 128);
+  const client = await db.connect();
+  try {
+    await client.query("begin");
+    const inserted = await client.query(
+      `insert into purchase_events
+       (provider, provider_event_id, provider_payment_id, user_id, package_id, coins, raw_event)
+       values ($1, $2, $3, $4, $5, $6, $7::jsonb)
+       on conflict (provider, provider_event_id) do nothing
+       returning provider_event_id`,
+      [provider, providerEventId, providerPaymentId || "", safeUserId, packageId || "", safeCoins, JSON.stringify(rawEvent)]
+    );
+    if (inserted.rowCount) {
+      await client.query(
+        `insert into user_wallets (user_id, coins, updated_at)
+         values ($1, $2, now())
+         on conflict (user_id)
+         do update set coins = user_wallets.coins + excluded.coins, updated_at = now()`,
+        [safeUserId, safeCoins]
+      );
+    }
+    const wallet = await client.query("select user_id, coins from user_wallets where user_id = $1", [safeUserId]);
+    await client.query("commit");
+    return { credited: Boolean(inserted.rowCount), wallet: wallet.rows[0] || { user_id: safeUserId, coins: 0 } };
+  } catch (error) {
+    await client.query("rollback");
+    throw error;
+  } finally {
+    client.release();
+  }
+}
+
+function verifyCoinbaseSignature(rawBody, signature, secret) {
+  if (!signature || !secret) return false;
+  const expected = crypto.createHmac("sha256", secret).update(rawBody).digest("hex");
+  try {
+    return crypto.timingSafeEqual(Buffer.from(signature), Buffer.from(expected));
+  } catch {
+    return false;
+  }
+}
+
+function verifyStripeSignature(rawBody, header, secret) {
+  if (!header || !secret) return false;
+  const parsed = String(header).split(",").reduce((acc, part) => {
+    const [key, value] = part.split("=");
+    if (key === "t") acc.timestamp = value;
+    if (key === "v1") acc.signatures.push(value);
+    return acc;
+  }, { timestamp: "", signatures: [] });
+  if (!parsed.timestamp || !parsed.signatures.length) return false;
+  const signedPayload = `${parsed.timestamp}.${rawBody.toString("utf8")}`;
+  const expected = crypto.createHmac("sha256", secret).update(signedPayload).digest("hex");
+  return parsed.signatures.some((signature) => {
+    try {
+      return crypto.timingSafeEqual(Buffer.from(signature), Buffer.from(expected));
+    } catch {
+      return false;
+    }
+  });
+}
+
 function readJsonBody(req, maxBytes = 64_000) {
   return new Promise((resolve, reject) => {
     let body = "";
@@ -53,6 +176,24 @@ function readJsonBody(req, maxBytes = 64_000) {
         reject(new Error("Request body must be valid JSON."));
       }
     });
+    req.on("error", reject);
+  });
+}
+
+function readRawBody(req, maxBytes = 1_000_000) {
+  return new Promise((resolve, reject) => {
+    const chunks = [];
+    let total = 0;
+    req.on("data", (chunk) => {
+      total += chunk.length;
+      if (total > maxBytes) {
+        reject(new Error("Request body is too large."));
+        req.destroy();
+        return;
+      }
+      chunks.push(Buffer.from(chunk));
+    });
+    req.on("end", () => resolve(Buffer.concat(chunks)));
     req.on("error", reject);
   });
 }
@@ -195,6 +336,10 @@ async function handleStripeCheckout(req, res) {
     sendJson(res, 503, { error: "Set STRIPE_SECRET_KEY on the backend before using real card checkout." });
     return;
   }
+  if (!env.DATABASE_URL) {
+    sendJson(res, 503, { error: "Set DATABASE_URL before accepting real payments." });
+    return;
+  }
   let payload;
   try {
     payload = await readJsonBody(req);
@@ -214,6 +359,8 @@ async function handleStripeCheckout(req, res) {
   params.set("cancel_url", `${origin}/?purchase=stripe_cancel`);
   params.set("metadata[package_id]", pack.id);
   params.set("metadata[coins]", String(pack.coins));
+  params.set("metadata[user_id]", String(payload.userId || "anonymous").slice(0, 128));
+  params.set("client_reference_id", String(payload.userId || "anonymous").slice(0, 128));
   const priceId = env[`STRIPE_PRICE_ID_${pack.price}`] || env.STRIPE_PRICE_ID;
   if (priceId) {
     params.set("line_items[0][price]", priceId);
@@ -251,6 +398,10 @@ async function handleCoinbaseCharge(req, res) {
     sendJson(res, 503, { error: "Set COINBASE_COMMERCE_API_KEY on the backend before using real crypto checkout." });
     return;
   }
+  if (!env.DATABASE_URL) {
+    sendJson(res, 503, { error: "Set DATABASE_URL before accepting real payments." });
+    return;
+  }
   let payload;
   try {
     payload = await readJsonBody(req);
@@ -264,6 +415,7 @@ async function handleCoinbaseCharge(req, res) {
     return;
   }
   const origin = env.PUBLIC_APP_URL || `http://${host}:${port}`;
+  const userId = String(payload.userId || "anonymous").slice(0, 128);
   try {
     const response = await fetch("https://api.commerce.coinbase.com/charges", {
       method: "POST",
@@ -277,7 +429,7 @@ async function handleCoinbaseCharge(req, res) {
         description: `Coin package ${pack.id}`,
         pricing_type: "fixed_price",
         local_price: { amount: String(pack.price), currency: "USD" },
-        metadata: { package_id: pack.id, coins: String(pack.coins) },
+        metadata: { package_id: pack.id, coins: String(pack.coins), user_id: userId },
         redirect_url: `${origin}/?purchase=coinbase_success&package=${pack.id}`,
         cancel_url: `${origin}/?purchase=coinbase_cancel`
       })
@@ -302,6 +454,82 @@ function handleAdsConfig(_req, res) {
   });
 }
 
+async function handleWallet(req, res, url) {
+  if (!process.env.DATABASE_URL) {
+    sendJson(res, 503, { error: "DATABASE_URL is not configured." });
+    return;
+  }
+  const userId = String(url.searchParams.get("userId") || "").slice(0, 128);
+  if (!userId) {
+    sendJson(res, 400, { error: "Missing userId." });
+    return;
+  }
+  try {
+    const wallet = await getWallet(userId);
+    sendJson(res, 200, { userId: wallet.user_id, coins: wallet.coins });
+  } catch (error) {
+    sendJson(res, 500, { error: error.message });
+  }
+}
+
+async function handleStripeWebhook(req, res) {
+  const rawBody = await readRawBody(req);
+  if (!process.env.STRIPE_WEBHOOK_SECRET) {
+    sendJson(res, 503, { error: "STRIPE_WEBHOOK_SECRET is not configured." });
+    return;
+  }
+  if (!verifyStripeSignature(rawBody, req.headers["stripe-signature"], process.env.STRIPE_WEBHOOK_SECRET)) {
+    sendJson(res, 400, { error: "Invalid Stripe webhook signature." });
+    return;
+  }
+  const event = JSON.parse(rawBody.toString("utf8"));
+  if (event.type === "checkout.session.completed") {
+    const session = event.data?.object || {};
+    const metadata = session.metadata || {};
+    const result = await creditCoinsFromWebhook({
+      provider: "stripe",
+      providerEventId: event.id,
+      providerPaymentId: session.id,
+      userId: metadata.user_id || session.client_reference_id,
+      packageId: metadata.package_id,
+      coins: metadata.coins,
+      rawEvent: event
+    });
+    sendJson(res, 200, { received: true, ...result });
+    return;
+  }
+  sendJson(res, 200, { received: true });
+}
+
+async function handleCoinbaseWebhook(req, res) {
+  const rawBody = await readRawBody(req);
+  if (!process.env.COINBASE_WEBHOOK_SECRET) {
+    sendJson(res, 503, { error: "COINBASE_WEBHOOK_SECRET is not configured." });
+    return;
+  }
+  if (!verifyCoinbaseSignature(rawBody, req.headers["x-cc-webhook-signature"], process.env.COINBASE_WEBHOOK_SECRET)) {
+    sendJson(res, 400, { error: "Invalid Coinbase webhook signature." });
+    return;
+  }
+  const event = JSON.parse(rawBody.toString("utf8"));
+  if (event.event?.type === "charge:confirmed" || event.event?.type === "charge:resolved") {
+    const charge = event.event?.data || {};
+    const metadata = charge.metadata || {};
+    const result = await creditCoinsFromWebhook({
+      provider: "coinbase",
+      providerEventId: event.event.id,
+      providerPaymentId: charge.id || charge.code,
+      userId: metadata.user_id,
+      packageId: metadata.package_id,
+      coins: metadata.coins,
+      rawEvent: event
+    });
+    sendJson(res, 200, { received: true, ...result });
+    return;
+  }
+  sendJson(res, 200, { received: true });
+}
+
 const server = http.createServer((req, res) => {
   const url = new URL(req.url, `http://${host}:${port}`);
   if (url.pathname === "/api/story-image" && req.method === "POST") {
@@ -318,6 +546,18 @@ const server = http.createServer((req, res) => {
   }
   if (url.pathname === "/api/payments/coinbase-charge" && req.method === "POST") {
     handleCoinbaseCharge(req, res);
+    return;
+  }
+  if (url.pathname === "/api/wallet" && req.method === "GET") {
+    handleWallet(req, res, url);
+    return;
+  }
+  if (url.pathname === "/api/webhooks/stripe" && req.method === "POST") {
+    handleStripeWebhook(req, res);
+    return;
+  }
+  if (url.pathname === "/api/webhooks/coinbase" && req.method === "POST") {
+    handleCoinbaseWebhook(req, res);
     return;
   }
   if (url.pathname === "/api/ads/config" && req.method === "GET") {
