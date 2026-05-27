@@ -99,6 +99,11 @@ function cleanFolderName(name) {
   return stripNumberPrefix(name).trim();
 }
 
+function getTrackNumber(audioFile) {
+  const match = path.basename(audioFile).match(/^(\d+)/);
+  return match ? Number(match[1]) : Number.MAX_SAFE_INTEGER;
+}
+
 function findCover(audioFile, source) {
   let dir = path.dirname(audioFile);
   const stopDir = source?.disk || root;
@@ -149,7 +154,11 @@ for (const language of languages) {
       .map((file) => ({ file, source: sourceMeta })));
   }
   const uniqueRecords = [...new Map(fileRecords.map((record) => [toWebPath(record.file, record.source), record])).values()]
-    .sort((a, b) => toWebPath(a.file, a.source).localeCompare(toWebPath(b.file, b.source), undefined, { numeric: true }));
+    .sort((a, b) => {
+      const numberDiff = getTrackNumber(a.file) - getTrackNumber(b.file);
+      if (numberDiff) return numberDiff;
+      return toWebPath(a.file, a.source).localeCompare(toWebPath(b.file, b.source), undefined, { numeric: true });
+    });
   if (!uniqueRecords.length) continue;
 
   manifest[language] = uniqueRecords.map(({ file, source }, index) => {

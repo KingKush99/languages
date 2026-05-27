@@ -2828,6 +2828,7 @@ function renderStoryTreasure(story) {
   const rule = tierUnlockRules[treasure.tier];
   const claimed = hasStoryTreasure(treasure);
   const locked = tasks < rule.tasks;
+  if (claimed) return;
   const card = document.createElement("button");
   card.type = "button";
   card.className = `story-treasure-card ${treasure.tier}${locked ? " is-locked" : ""}`;
@@ -2836,11 +2837,10 @@ function renderStoryTreasure(story) {
     <strong>${treasure.name}</strong>
     <small>${tierConfig[treasure.tier].label} - ${locked ? rule.label : treasure.hiddenIn === "image" ? "Found in the image" : "Found on this page"}</small>
   `;
-  card.disabled = claimed;
   card.addEventListener("click", () => {
     completeCurrentStoryTask();
     claimCurrentStoryTreasure();
-    renderStoryTreasure(appState.currentStory);
+    card.remove();
   });
   if (treasure.hiddenIn === "image" && els.storyImage?.parentElement) {
     els.storyImage.parentElement.append(card);
