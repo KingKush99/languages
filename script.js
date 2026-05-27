@@ -2207,7 +2207,8 @@ function resolveMediaUrl(assetPath) {
   if (/^(https?:|data:|blob:)/i.test(value)) return value;
   const base = getMediaBaseUrl();
   const externalMediaPath = /^(Russian|Japanese|Mandarin|Hindi|Arabic)\//i.test(value);
-  if (!base || !externalMediaPath) return value;
+  if (externalMediaPath && !base) return "";
+  if (!externalMediaPath) return value;
   return `${base}/${value.replace(/^\/+/, "")}`;
 }
 
@@ -2217,8 +2218,10 @@ function needsExternalMediaBase(assetPath) {
 
 function externalMediaHelpText(assetPath) {
   if (!needsExternalMediaBase(assetPath)) return "";
-  return getMediaBaseUrl()
-    ? "Media file not reachable. Check that npm run media:serve is still running."
+  if (getMediaBaseUrl()) return "Media file not reachable. Check the media server or public media URL.";
+  const isHostedPage = /^https?:$/i.test(location.protocol) && !/^(localhost|127\.0\.0\.1)$/i.test(location.hostname);
+  return isHostedPage
+    ? "Music media is not hosted on GitHub Pages. Set LANGUAGE_MEDIA_BASE to a public media URL."
     : "Run npm run media:serve to load local music and covers.";
 }
 
@@ -4753,7 +4756,14 @@ function playAudioSong(song) {
     currentOsc = null;
   }
   if (currentAudio) currentAudio.pause();
-  currentAudio = new Audio(encodeURI(resolveMediaUrl(song.src)));
+  const audioUrl = resolveMediaUrl(song.src);
+  if (!audioUrl) {
+    appState.isPlaying = false;
+    els.playSongBtn.textContent = "Play";
+    els.songStatus.textContent = externalMediaHelpText(song.src) || "Could not play file";
+    return;
+  }
+  currentAudio = new Audio(encodeURI(audioUrl));
   currentAudio.addEventListener("ended", () => {
     appState.isPlaying = false;
     els.playSongBtn.textContent = "Play";
@@ -4780,8 +4790,15 @@ function renderSongArtwork(song) {
     els.songArtwork.append(createMusicCoverFallback(song));
     return;
   }
+  const coverUrl = resolveMediaUrl(song.cover);
+  if (!coverUrl) {
+    els.songArtwork.append(createMusicCoverFallback(song));
+    const helpText = externalMediaHelpText(song.cover);
+    if (helpText && els.songStatus?.textContent !== "Playing") els.songStatus.textContent = helpText;
+    return;
+  }
   const img = document.createElement("img");
-  img.src = encodeURI(resolveMediaUrl(song.cover));
+  img.src = encodeURI(coverUrl);
   img.alt = `${song.album || song.title} cover`;
   img.addEventListener("error", () => {
     els.songArtwork.replaceChildren(createMusicCoverFallback(song));
