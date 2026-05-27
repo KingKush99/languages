@@ -25,9 +25,36 @@ const sourceFolders = {
       web: "Japanese/Music/Artists"
     }
   ],
-  mandarin: ["languages/mandarin/music", "languages/mandarin/Music", "languages/mandarin/assets/music", "Music/mandarin"],
-  hindi: ["languages/hindi/music", "languages/hindi/Music", "languages/hindi/assets/music", "Music/hindi"],
-  arabic: ["languages/arabic/music", "languages/arabic/Music", "languages/arabic/assets/music", "Music/arabic"]
+  mandarin: [
+    "languages/mandarin/music",
+    "languages/mandarin/Music",
+    "languages/mandarin/assets/music",
+    "Music/mandarin",
+    {
+      disk: path.join(externalMediaRoot, "Mandarin", "Music", "Artists"),
+      web: "Mandarin/Music/Artists"
+    }
+  ],
+  hindi: [
+    "languages/hindi/music",
+    "languages/hindi/Music",
+    "languages/hindi/assets/music",
+    "Music/hindi",
+    {
+      disk: path.join(externalMediaRoot, "Hindi", "Music", "Artists"),
+      web: "Hindi/Music/Artists"
+    }
+  ],
+  arabic: [
+    "languages/arabic/music",
+    "languages/arabic/Music",
+    "languages/arabic/assets/music",
+    "Music/arabic",
+    {
+      disk: path.join(externalMediaRoot, "Arabic", "Music", "Artists"),
+      web: "Arabic/Music/Artists"
+    }
+  ]
 };
 
 function normalizeSource(source) {
