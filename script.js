@@ -3978,16 +3978,27 @@ async function startRealCheckout(provider, pkg) {
     alert("Real checkout needs a deployed backend URL. Set window.LANGUAGE_API_BASE or localStorage.language_api_base to your payment server.");
     return;
   }
+  const userId = getLocalUserId();
   const endpoint = provider === "crypto" ? "/api/payments/coinbase-charge" : "/api/payments/stripe-checkout";
   const response = await fetch(`${apiBase}${endpoint}`, {
     method: "POST",
     headers: { "content-type": "application/json" },
-    body: JSON.stringify({ packageId: pkg.id })
+    body: JSON.stringify({ packageId: pkg.id, userId })
   });
   const result = await response.json();
   if (!response.ok) throw new Error(result.error || "Checkout could not be started.");
   if (!result.url) throw new Error("Checkout provider did not return a hosted payment URL.");
   window.location.href = result.url;
+}
+
+function getLocalUserId() {
+  const key = "language_user_id";
+  let id = localStorage.getItem(key);
+  if (!id) {
+    id = window.crypto?.randomUUID?.() || `local_${Date.now()}_${Math.random().toString(36).slice(2)}`;
+    localStorage.setItem(key, id);
+  }
+  return id;
 }
 
 function renderStore() {

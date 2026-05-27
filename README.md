@@ -98,7 +98,7 @@ With that setting, a manifest path like `Japanese/Music/Artists/Album/cover.png`
 
 Real payments and rewarded ads require `server.js` or another backend. Do not put secret keys in `index.html`, `script.js`, GitHub Pages, or browser storage.
 
-This follows the same split as a plain Express deployment: GitHub Pages can host the static app, while the backend host runs `server.js` with Stripe, Coinbase Commerce, AdSense config, webhook verification, and the coin ledger.
+This follows the same split as a plain Express deployment: GitHub Pages can host the static app, while Vercel runs the `/api` functions for Stripe, Coinbase Commerce, AdSense config, webhook verification, and the coin ledger.
 
 For a GitHub Pages frontend with a separate backend, set the public backend URL in the browser:
 
@@ -115,24 +115,34 @@ localStorage.setItem("language_api_base", "https://your-payment-server.example.c
 Backend environment variables:
 
 ```powershell
-$env:PUBLIC_APP_URL = "http://127.0.0.1:9876"
+$env:PUBLIC_APP_URL = "https://languages-liard.vercel.app"
+$env:DATABASE_URL = "postgres://..."
 $env:STRIPE_SECRET_KEY = "sk_live_or_test_key"
-$env:STRIPE_PRICE_ID = "price_optional_default"
+$env:STRIPE_WEBHOOK_SECRET = "whsec_..."
 $env:COINBASE_COMMERCE_API_KEY = "coinbase_commerce_key"
+$env:COINBASE_WEBHOOK_SECRET = "coinbase_webhook_secret"
 $env:GOOGLE_ADSENSE_CLIENT = "ca-pub-0000000000000000"
 $env:GOOGLE_ADSENSE_REWARDED_SLOT = "0000000000"
 $env:GOOGLE_ADSENSE_PUBLISHER_ID = "pub-0000000000000000"
-node server.js
 ```
 
-Available local endpoints:
+Available Vercel endpoints:
 
 - `POST /api/payments/stripe-checkout` starts a Stripe Checkout Session for a coin package.
 - `POST /api/payments/coinbase-charge` starts a Coinbase Commerce hosted crypto charge.
+- `POST /api/webhooks/stripe` verifies Stripe webhook signatures.
+- `POST /api/webhooks/coinbase` verifies Coinbase webhook signatures.
 - `GET /api/ads/config` exposes only public ad configuration.
-- `GET /ads.txt` emits the Google AdSense publisher line when `GOOGLE_ADSENSE_PUBLISHER_ID` is set.
+- `GET /ads.txt` emits the Google AdSense publisher line when `GOOGLE_ADSENSE_PUBLISHER_ID` is set on Vercel.
 
-For production, add webhook verification and a database-backed user ledger before crediting purchased coins.
+Webhook URLs to paste into providers:
+
+```text
+https://languages-liard.vercel.app/api/webhooks/stripe
+https://languages-liard.vercel.app/api/webhooks/coinbase
+```
+
+The checkout endpoints intentionally require `DATABASE_URL` before opening real checkout. That prevents a user from paying before the backend has a durable coin ledger. The webhook files already verify signatures, but the final Postgres insert/update logic still needs to be connected to your chosen schema before coins are credited automatically.
 
 ## Import format
 
