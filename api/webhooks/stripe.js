@@ -1,4 +1,4 @@
-const { readRawBody, sendJson, verifyStripeSignature } = require("../_utils");
+const { creditCoinsFromWebhook, readRawBody, sendJson, verifyStripeSignature } = require("../_utils");
 
 module.exports = async function stripeWebhook(req, res) {
   if (req.method !== "POST") return sendJson(req, res, 405, { error: "Method not allowed." });
@@ -17,9 +17,18 @@ module.exports = async function stripeWebhook(req, res) {
 
   const event = JSON.parse(rawBody.toString("utf8"));
   if (event.type === "checkout.session.completed") {
-    // TODO: Insert purchase event and credit coins in Postgres using DATABASE_URL.
-    // Required fields: event.id, event.data.object.id, metadata.user_id,
-    // metadata.package_id, metadata.coins.
+    const session = event.data?.object || {};
+    const metadata = session.metadata || {};
+    const result = await creditCoinsFromWebhook({
+      provider: "stripe",
+      providerEventId: event.id,
+      providerPaymentId: session.id,
+      userId: metadata.user_id || session.client_reference_id,
+      packageId: metadata.package_id,
+      coins: metadata.coins,
+      rawEvent: event
+    });
+    return sendJson(req, res, 200, { received: true, ...result });
   }
 
   return sendJson(req, res, 200, { received: true });

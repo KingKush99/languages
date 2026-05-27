@@ -1,4 +1,4 @@
-const { readRawBody, sendJson, verifyCoinbaseSignature } = require("../_utils");
+const { creditCoinsFromWebhook, readRawBody, sendJson, verifyCoinbaseSignature } = require("../_utils");
 
 module.exports = async function coinbaseWebhook(req, res) {
   if (req.method !== "POST") return sendJson(req, res, 405, { error: "Method not allowed." });
@@ -17,9 +17,18 @@ module.exports = async function coinbaseWebhook(req, res) {
 
   const event = JSON.parse(rawBody.toString("utf8"));
   if (event.event?.type === "charge:confirmed" || event.event?.type === "charge:resolved") {
-    // TODO: Insert purchase event and credit coins in Postgres using DATABASE_URL.
-    // Required fields: event.event.id, event.event.data.id, metadata.user_id,
-    // metadata.package_id, metadata.coins.
+    const charge = event.event?.data || {};
+    const metadata = charge.metadata || {};
+    const result = await creditCoinsFromWebhook({
+      provider: "coinbase",
+      providerEventId: event.event.id,
+      providerPaymentId: charge.id || charge.code,
+      userId: metadata.user_id,
+      packageId: metadata.package_id,
+      coins: metadata.coins,
+      rawEvent: event
+    });
+    return sendJson(req, res, 200, { received: true, ...result });
   }
 
   return sendJson(req, res, 200, { received: true });

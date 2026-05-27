@@ -3879,6 +3879,23 @@ function initEconomy() {
   document.documentElement.style.setProperty('--app-bg', appState.activeTheme.startsWith("linear-gradient") ? appState.activeTheme : `url('${appState.activeTheme}')`);
 }
 
+async function syncRealWallet() {
+  const apiBase = (window.LANGUAGE_API_BASE || localStorage.getItem("language_api_base") || "").replace(/\/$/, "");
+  if (location.protocol === "file:" && !apiBase) return;
+  try {
+    const userId = getLocalUserId();
+    const response = await fetch(`${apiBase}/api/wallet?userId=${encodeURIComponent(userId)}`);
+    if (!response.ok) return;
+    const wallet = await response.json();
+    if (!Number.isFinite(Number(wallet.coins))) return;
+    appState.coins = Number(wallet.coins);
+    localStorage.setItem("nova_coins", appState.coins);
+    els.coinCount.textContent = appState.coins;
+  } catch (error) {
+    console.warn("Wallet sync failed", error);
+  }
+}
+
 // --- HAMBURGER MENU & MODALS ---
 els.hamburgerBtn.addEventListener("click", () => els.hamburgerMenu.hidden = false);
 els.closeHamburgerBtn.addEventListener("click", () => els.hamburgerMenu.hidden = true);
@@ -7518,6 +7535,7 @@ els.storyContent?.setAttribute("lang", initialWritingMeta.lang);
 els.storyContent?.setAttribute("dir", initialWritingMeta.dir);
 
 initEconomy();
+syncRealWallet();
 renderStore();
 renderThemes();
 renderSpotifyPlaylist();

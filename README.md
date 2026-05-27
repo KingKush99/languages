@@ -132,6 +132,7 @@ Available Vercel endpoints:
 - `POST /api/payments/coinbase-charge` starts a Coinbase Commerce hosted crypto charge.
 - `POST /api/webhooks/stripe` verifies Stripe webhook signatures.
 - `POST /api/webhooks/coinbase` verifies Coinbase webhook signatures.
+- `GET /api/wallet?userId=...` returns the database coin balance for a user.
 - `GET /api/ads/config` exposes only public ad configuration.
 - `GET /ads.txt` emits the Google AdSense publisher line when `GOOGLE_ADSENSE_PUBLISHER_ID` is set on Vercel.
 
@@ -142,7 +143,7 @@ https://languages-liard.vercel.app/api/webhooks/stripe
 https://languages-liard.vercel.app/api/webhooks/coinbase
 ```
 
-The checkout endpoints intentionally require `DATABASE_URL` before opening real checkout. That prevents a user from paying before the backend has a durable coin ledger. The webhook files already verify signatures, but the final Postgres insert/update logic still needs to be connected to your chosen schema before coins are credited automatically.
+The checkout endpoints intentionally require `DATABASE_URL` before opening real checkout. That prevents a user from paying before the backend has a durable coin ledger. The webhook files verify signatures, create the `user_wallets` and `purchase_events` tables if needed, and credit coins idempotently after confirmed provider events.
 
 ## Import format
 
