@@ -2206,7 +2206,8 @@ function resolveMediaUrl(assetPath) {
   if (!value) return "";
   if (/^(https?:|data:|blob:)/i.test(value)) return value;
   const base = getMediaBaseUrl();
-  if (!base) return value;
+  const externalMediaPath = /^(Russian|Japanese|Mandarin|Hindi|Arabic)\//i.test(value);
+  if (!base || !externalMediaPath) return value;
   return `${base}/${value.replace(/^\/+/, "")}`;
 }
 
@@ -2893,21 +2894,22 @@ function fallbackStoryImage(story) {
 }
 
 function renderStoryVisual(story) {
+  if (!els.storyImage) return;
   const section = story.sections[appState.currentStorySectionIndex || 0];
   const sectionImage = section?.image;
   const explicitImage = sectionImage || story.image || story.sections.find((sec) => sec.image)?.image;
   const storedImage = localStorage.getItem(`story-image:${story.id}_${appState.currentStorySectionIndex || 0}`) || localStorage.getItem(`story-image:${story.id}`);
   els.storyImage.src = storedImage || resolveMediaUrl(explicitImage) || fallbackStoryImage(story);
   els.storyImage.alt = `Illustration for ${story.title} - ${section?.heading || ""}`;
-  els.storyImageCaption.textContent = `${story.title} - ${section?.heading || ""}`;
+  if (els.storyImageCaption) els.storyImageCaption.textContent = `${story.title} - ${section?.heading || ""}`;
   if (storedImage) {
-    els.storyImageStatus.textContent = "Imported image saved in this browser.";
+    if (els.storyImageStatus) els.storyImageStatus.textContent = "Imported image saved in this browser.";
   } else if (explicitImage) {
-    els.storyImageStatus.textContent = "Image ready.";
+    if (els.storyImageStatus) els.storyImageStatus.textContent = "Image ready.";
   } else if (location.protocol === "file:") {
-    els.storyImageStatus.textContent = "File mode: use Import local image, or run the local server for ChatGPT generation.";
+    if (els.storyImageStatus) els.storyImageStatus.textContent = "Generated preview.";
   } else {
-    els.storyImageStatus.textContent = "Generated preview. Use ChatGPT to create a cached image.";
+    if (els.storyImageStatus) els.storyImageStatus.textContent = "Generated preview.";
   }
 }
 

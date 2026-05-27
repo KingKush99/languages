@@ -204,29 +204,8 @@
           <article class="book-container">
             <!-- Open Book Outer Cover -->
             <div class="book-cover">
-              <!-- Left Page: Book Illustration / Actions -->
-              <div class="book-page left-page">
-                <div class="page-content-wrapper">
-                  <figure class="story-visual">
-                    <img id="storyImage" alt="Story Illustration" />
-                    <figcaption>
-                      <span id="storyImageCaption">Story Image</span>
-                      <div class="image-action-buttons">
-                        <button id="generateStoryImageBtn" type="button" class="action-btn">Generate Image</button>
-                        <button id="importStoryImageBtn" type="button" class="action-btn secondary-btn">Import</button>
-                      </div>
-                      <input id="storyImageFileInput" type="file" accept="image/png,image/jpeg,image/webp,image/svg+xml" hidden />
-                    </figcaption>
-                    <p id="storyImageStatus" class="image-status"></p>
-                  </figure>
-                </div>
-              </div>
-              
-              <!-- Spine Crease / Centered binding shadow -->
-              <div class="book-spine"></div>
-              
-              <!-- Right Page: Reader Content & TTS controls -->
-              <div class="book-page right-page">
+              <!-- Left Page: Reader Content & TTS controls -->
+              <div class="book-page left-page text-page">
                 <div class="page-content-wrapper">
                   <div class="reading-meta">
                     <span id="storyTitle">Story Title</span>
@@ -249,6 +228,18 @@
                       <span id="speedLabelStories">1.0x</span>
                     </div>
                   </div>
+                </div>
+              </div>
+
+              <!-- Spine Crease / Centered binding shadow -->
+              <div class="book-spine"></div>
+
+              <!-- Right Page: Full Page Story Cover -->
+              <div class="book-page right-page image-page">
+                <div class="page-content-wrapper">
+                  <figure class="story-visual">
+                    <img id="storyImage" alt="Story Illustration" />
+                  </figure>
                 </div>
               </div>
             </div>

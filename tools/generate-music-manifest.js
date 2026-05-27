@@ -2,6 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 const root = path.resolve(__dirname, "..");
+const externalMediaRoot = path.resolve(process.env.LANGUAGE_EXTERNAL_MEDIA_ROOT || path.join(root, ".."));
 const languages = ["russian", "japanese", "mandarin", "hindi", "arabic"];
 const audioExts = new Set([".mp3", ".wav", ".m4a", ".ogg", ".webm", ".flac"]);
 const imageExts = new Set([".png", ".jpg", ".jpeg", ".webp"]);
@@ -14,13 +15,38 @@ const sourceFolders = {
     "Music/russian",
     "Music/Artists"
   ],
-  japanese: ["languages/japanese/music", "languages/japanese/Music", "languages/japanese/assets/music", "Music/japanese"],
+  japanese: [
+    "languages/japanese/music",
+    "languages/japanese/Music",
+    "languages/japanese/assets/music",
+    "Music/japanese",
+    {
+      disk: path.join(externalMediaRoot, "Japanese", "Music", "Artists"),
+      web: "Japanese/Music/Artists"
+    }
+  ],
   mandarin: ["languages/mandarin/music", "languages/mandarin/Music", "languages/mandarin/assets/music", "Music/mandarin"],
   hindi: ["languages/hindi/music", "languages/hindi/Music", "languages/hindi/assets/music", "Music/hindi"],
   arabic: ["languages/arabic/music", "languages/arabic/Music", "languages/arabic/assets/music", "Music/arabic"]
 };
 
-function toWebPath(filePath) {
+function normalizeSource(source) {
+  if (typeof source === "string") {
+    return {
+      disk: path.join(root, source),
+      web: source.split(/[\\/]+/).join("/")
+    };
+  }
+  return {
+    disk: path.resolve(source.disk),
+    web: String(source.web || "").split(/[\\/]+/).filter(Boolean).join("/")
+  };
+}
+
+function toWebPath(filePath, source) {
+  const sourceMeta = source || { disk: root, web: "" };
+  const relativePath = path.relative(sourceMeta.disk, filePath).split(path.sep).join("/");
+  if (sourceMeta.web) return `${sourceMeta.web}/${relativePath}`;
   return path.relative(root, filePath).split(path.sep).join("/");
 }
 
@@ -43,9 +69,10 @@ function cleanFolderName(name) {
   return stripNumberPrefix(name).trim();
 }
 
-function findCover(audioFile) {
+function findCover(audioFile, source) {
   let dir = path.dirname(audioFile);
-  while (dir.startsWith(root)) {
+  const stopDir = source?.disk || root;
+  while (dir.startsWith(stopDir)) {
     const images = fs.existsSync(dir)
       ? fs.readdirSync(dir)
           .filter((file) => imageExts.has(path.extname(file).toLowerCase()))
@@ -53,14 +80,14 @@ function findCover(audioFile) {
       : [];
     if (images.length) return path.join(dir, images[0]);
     const next = path.dirname(dir);
-    if (next === dir || next === root) break;
+    if (next === dir || next === stopDir) break;
     dir = next;
   }
   return "";
 }
 
-function getArtistAlbum(audioFile) {
-  const parts = toWebPath(audioFile).split("/");
+function getArtistAlbum(audioFile, source) {
+  const parts = toWebPath(audioFile, source).split("/");
   const artistsIndex = parts.findIndex((part) => part.toLowerCase() === "artists");
   if (artistsIndex >= 0) {
     return {
@@ -84,17 +111,20 @@ function priceFor(index) {
 const manifest = {};
 
 for (const language of languages) {
-  const files = [];
+  const fileRecords = [];
   for (const source of sourceFolders[language]) {
-    const sourcePath = path.join(root, source);
-    files.push(...listFiles(sourcePath).filter((file) => audioExts.has(path.extname(file).toLowerCase())));
+    const sourceMeta = normalizeSource(source);
+    fileRecords.push(...listFiles(sourceMeta.disk)
+      .filter((file) => audioExts.has(path.extname(file).toLowerCase()))
+      .map((file) => ({ file, source: sourceMeta })));
   }
-  const uniqueFiles = [...new Set(files)].sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
-  if (!uniqueFiles.length) continue;
+  const uniqueRecords = [...new Map(fileRecords.map((record) => [toWebPath(record.file, record.source), record])).values()]
+    .sort((a, b) => toWebPath(a.file, a.source).localeCompare(toWebPath(b.file, b.source), undefined, { numeric: true }));
+  if (!uniqueRecords.length) continue;
 
-  manifest[language] = uniqueFiles.map((file, index) => {
-    const { artist, album } = getArtistAlbum(file);
-    const cover = findCover(file);
+  manifest[language] = uniqueRecords.map(({ file, source }, index) => {
+    const { artist, album } = getArtistAlbum(file, source);
+    const cover = findCover(file, source);
     const price = priceFor(index);
     return {
       id: `${language}-${index + 1}`,
@@ -102,8 +132,8 @@ for (const language of languages) {
       title: stripNumberPrefix(path.basename(file, path.extname(file))),
       artist,
       album,
-      src: toWebPath(file),
-      cover: cover ? toWebPath(cover) : "",
+      src: toWebPath(file, source),
+      cover: cover ? toWebPath(cover, source) : "",
       free: index < 5,
       price
     };

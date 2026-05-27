@@ -61,12 +61,21 @@ languages/arabic/music/
 ```
 
 The generator also supports the current Russian local folder at `Music/Artists/`. Put cover images in the same album folder as the song files.
+It also detects the sibling Japanese library at `M:\Languages\Japanese\Music\Artists\` and writes those entries as `Japanese/Music/Artists/...` media paths.
 
 Regenerate the manifest after adding or moving music:
 
 ```powershell
 node tools/generate-music-manifest.js
 ```
+
+For local testing without copying large music files into this repo, serve `M:\Languages` as the media root in a second terminal:
+
+```powershell
+npm run media:serve
+```
+
+The app automatically uses `http://127.0.0.1:9877` as `LANGUAGE_MEDIA_BASE` when opened from localhost or `127.0.0.1`. Only manifest paths that start with a language folder, such as `Japanese/Music/Artists/...`, are loaded through the media base. Repo-local paths such as `Music/Artists/...` still load from the app itself.
 
 Large WAV libraries should not be committed directly to GitHub. For production, use compressed audio such as MP3, AAC, OGG, or WebM, or serve the files from external object storage/CDN and point the manifest at those URLs.
 
@@ -84,7 +93,7 @@ or during testing:
 localStorage.setItem("language_media_base", "https://your-media-bucket.example.com");
 ```
 
-With that setting, a manifest path like `Music/Artists/Album/cover.png` loads from `https://your-media-bucket.example.com/Music/Artists/Album/cover.png`.
+With that setting, a manifest path like `Japanese/Music/Artists/Album/cover.png` loads from `https://your-media-bucket.example.com/Japanese/Music/Artists/Album/cover.png`.
 
 ## Real ads and purchases
 
