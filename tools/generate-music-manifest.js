@@ -13,7 +13,10 @@ const sourceFolders = {
     "languages/russian/Music",
     "languages/russian/assets/music",
     "Music/russian",
-    "Music/Artists"
+    {
+      disk: path.join(externalMediaRoot, "Russian", "Music", "Artists"),
+      web: "Russian/Music/Artists"
+    }
   ],
   japanese: [
     "languages/japanese/music",

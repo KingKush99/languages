@@ -3884,6 +3884,10 @@ function closeMusicDock() {
   if (!els.musicDock) return;
   els.musicDock.hidden = true;
   els.musicDock.classList.remove("is-expanded");
+  if (els.expandMusicBtn) {
+    els.expandMusicBtn.textContent = "⌃";
+    els.expandMusicBtn.setAttribute("aria-label", "Expand music queue");
+  }
 }
 
 els.openMusicBtn.addEventListener("click", openMusicDock);
@@ -3893,6 +3897,8 @@ els.expandMusicBtn?.addEventListener("click", () => {
   if (!els.musicDock) return;
   els.musicDock.hidden = false;
   els.musicDock.classList.toggle("is-expanded");
+  els.expandMusicBtn.textContent = els.musicDock.classList.contains("is-expanded") ? "⌄" : "⌃";
+  els.expandMusicBtn.setAttribute("aria-label", els.musicDock.classList.contains("is-expanded") ? "Collapse music queue" : "Expand music queue");
 });
 
 els.openAchievementsBtn.addEventListener("click", () => {
@@ -4436,11 +4442,36 @@ function appendGlobalChatMessage(author, text, type = "site") {
   els.twitchMessages.scrollTop = els.twitchMessages.scrollHeight;
 }
 
+const twitchSimulatedChat = [
+  ["WordRunner", "That hover translation helped me remember the new word."],
+  ["KanaQuest", "First five songs are free, then unlock with coins."],
+  ["GrammarGrind", "Try Stories after Practice if you want longer reading."],
+  ["MoscowMode", "Play Audio is good for checking rhythm before recording."],
+  ["HindiHero", "The profile stats update from pronunciation practice."],
+  ["ArabLearner", "Switch languages from the top selector to change stories and voices."],
+  ["MandarinMax", "Collection items can appear inside story pages and images."],
+  ["CoinCoach", "Mini Slots uses local coins only, not real money."]
+];
+let twitchSimulatedIndex = 0;
+let twitchSimulatedTimer = null;
+
+function startTwitchSimulation() {
+  if (twitchSimulatedTimer) return;
+  twitchSimulatedTimer = setInterval(() => {
+    if (!els.twitchChat || els.twitchChat.hidden) return;
+    const [author, text] = twitchSimulatedChat[twitchSimulatedIndex % twitchSimulatedChat.length];
+    twitchSimulatedIndex += 1;
+    appendGlobalChatMessage(author, text, "viewer");
+  }, 4200);
+}
+
 function renderGlobalChatKnowledge() {
   if (!els.twitchMessages || els.twitchMessages.dataset.ready === "true") return;
   els.twitchMessages.dataset.ready = "true";
   appendGlobalChatMessage("Site Guide", "Ask me about stories, practice, audio, profiles, DMs, coins, music, slots, settings, languages, or purchases.");
   appendGlobalChatMessage("Site Guide", offlineChatReply("language"));
+  twitchSimulatedChat.slice(0, 4).forEach(([author, text]) => appendGlobalChatMessage(author, text, "viewer"));
+  startTwitchSimulation();
 }
 
 function sendGlobalChatMessage() {
@@ -4457,7 +4488,6 @@ els.chatToggleBtn.addEventListener("click", () => {
   els.chatWindow.hidden = !els.chatWindow.hidden;
   if (!els.chatWindow.hidden) {
     updateChatIntro();
-    speakChatText(els.chatWelcomeMsg.textContent);
   }
 });
 els.closeChatBtn.addEventListener("click", () => els.chatWindow.hidden = true);
@@ -4609,17 +4639,49 @@ function renderSpotifyPlaylist() {
   els.spotifyPlaylist.replaceChildren(...songs.map((song, i) => {
     const isUnlocked = isSongUnlocked(song, i);
     const tr = document.createElement("tr");
-    const actionHtml = isUnlocked
-      ? `<button class="player-btn play-row-btn" type="button" data-index="${i}">Play</button>`
-      : `<button class="spotify-unlock-btn" type="button" data-index="${i}">Unlock (${song.price} coins)</button>`;
-    tr.innerHTML = `
-      <td>${i + 1}</td>
-      <td><strong>${song.title}</strong><br><small>${song.artist || "Language Artist"} - ${song.album || "Language Music"}</small></td>
-      <td>${isUnlocked ? "Unlocked" : "Locked"}</td>
-      <td>${song.duration || "--"}</td>
-      <td>${actionHtml}</td>
-    `;
-    tr.querySelector("button")?.addEventListener("click", () => {
+    tr.className = isUnlocked ? "spotify-song-row is-unlocked" : "spotify-song-row is-locked";
+    if (i === activeSongIndex) tr.classList.add("is-active");
+
+    const numberCell = document.createElement("td");
+    numberCell.textContent = String(i + 1);
+
+    const titleCell = document.createElement("td");
+    titleCell.className = "spotify-title-cell";
+    const cover = document.createElement("div");
+    cover.className = "spotify-row-cover";
+    if (song.cover) {
+      const img = document.createElement("img");
+      img.src = encodeURI(resolveMediaUrl(song.cover));
+      img.alt = `${song.album || song.title} cover`;
+      img.addEventListener("error", () => cover.replaceChildren(createMusicCoverFallback(song)), { once: true });
+      cover.append(img);
+    } else {
+      cover.append(createMusicCoverFallback(song));
+    }
+    const titleCopy = document.createElement("div");
+    const title = document.createElement("strong");
+    title.textContent = song.title;
+    const meta = document.createElement("small");
+    meta.textContent = `${song.artist || "Language Artist"} - ${song.album || "Language Music"}`;
+    titleCopy.append(title, document.createElement("br"), meta);
+    titleCell.append(cover, titleCopy);
+
+    const statusCell = document.createElement("td");
+    statusCell.textContent = isUnlocked ? (i < 5 ? "Free" : "Unlocked") : "Locked";
+
+    const durationCell = document.createElement("td");
+    durationCell.textContent = song.duration || "--";
+
+    const actionCell = document.createElement("td");
+    const button = document.createElement("button");
+    button.type = "button";
+    button.dataset.index = String(i);
+    button.className = isUnlocked ? "player-btn play-row-btn" : "spotify-unlock-btn";
+    button.textContent = isUnlocked ? "Play" : `Unlock (${song.price} coins)`;
+    actionCell.append(button);
+
+    tr.append(numberCell, titleCell, statusCell, durationCell, actionCell);
+    button.addEventListener("click", () => {
       if (isUnlocked) {
         activeSongIndex = i;
         updatePlayerUI();
@@ -4638,6 +4700,13 @@ function renderSpotifyPlaylist() {
     });
     return tr;
   }));
+}
+
+function highlightActiveSongRow() {
+  if (!els.spotifyPlaylist) return;
+  [...els.spotifyPlaylist.querySelectorAll(".spotify-song-row")].forEach((row, index) => {
+    row.classList.toggle("is-active", index === activeSongIndex);
+  });
 }
 
 function playSynthSong(song) {
@@ -4730,13 +4799,16 @@ function updatePlayerUI() {
     if (currentAudio) currentAudio.pause();
     els.currentSongTitle.textContent = `${song.title} - locked`;
     els.songStatus.textContent = `Unlock for ${song.price} coins`;
+    renderSongArtwork(song);
     appState.isPlaying = false;
     els.playSongBtn.textContent = "Play";
+    highlightActiveSongRow();
     return;
   }
   els.currentSongTitle.textContent = song.title;
   els.songStatus.textContent = appState.isPlaying ? "Playing" : "Paused";
   renderSongArtwork(song);
+  highlightActiveSongRow();
   if (appState.isPlaying) {
     if (currentOsc) currentOsc.stop();
     if (song.src) playAudioSong(song);

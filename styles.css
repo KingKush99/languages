@@ -5042,3 +5042,322 @@ select, input, textarea {
     grid-template-columns: 1fr !important;
   }
 }
+
+/* Music, chat, and widget polish */
+.sr-only {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+.profile-button,
+.icon-only-profile-button {
+  width: 58px !important;
+  height: 58px !important;
+  min-width: 58px !important;
+  min-height: 58px !important;
+  border-radius: 18px !important;
+  padding: 6px !important;
+  border: 3px solid rgba(255,255,255,0.86) !important;
+  box-shadow: 0 8px 0 rgba(15, 118, 110, 0.34), 0 16px 28px rgba(15, 23, 42, 0.18) !important;
+}
+
+.profile-avatar-mini-wrapper {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+#chatToggleBtn,
+.fab-btn.bottom-right {
+  width: 66px !important;
+  height: 66px !important;
+  min-width: 66px !important;
+  min-height: 66px !important;
+  border-radius: 22px !important;
+  font-size: 1.45rem !important;
+}
+
+.chat-window,
+.slots-widget {
+  width: min(420px, calc(100vw - 48px)) !important;
+  height: min(420px, calc(100vw - 48px)) !important;
+}
+
+.chat-window {
+  bottom: 82px !important;
+  border-radius: 18px !important;
+}
+
+.slots-widget {
+  bottom: 102px !important;
+  padding: 18px !important;
+  justify-content: space-between !important;
+}
+
+.slots-header {
+  margin-top: 8px !important;
+  color: #fef08a !important;
+  text-shadow: 0 2px 0 rgba(15, 23, 42, 0.28);
+}
+
+.slots-main-area {
+  flex: 1 1 auto !important;
+  min-height: 150px !important;
+  align-items: center !important;
+}
+
+.slots-footer-controls {
+  margin-top: auto !important;
+  display: grid !important;
+  grid-template-columns: 1fr 1fr !important;
+  align-items: end !important;
+  gap: 14px !important;
+}
+
+.slot-dropup-container {
+  width: 100% !important;
+  align-items: stretch !important;
+}
+
+.slot-dropup-container:first-child {
+  justify-self: start !important;
+}
+
+.slot-dropup-container:last-child {
+  justify-self: end !important;
+}
+
+.slot-dropup-container label {
+  color: #0f172a !important;
+  text-align: left !important;
+  display: block !important;
+  margin-bottom: 4px !important;
+  font-size: 0.78rem !important;
+  font-weight: 950 !important;
+  text-shadow: none !important;
+}
+
+.slot-dropup {
+  min-height: 40px !important;
+  border-radius: 14px !important;
+  border: 2px solid rgba(255,255,255,0.7) !important;
+  background-color: #020617 !important;
+  color: #ffffff !important;
+  font-weight: 900 !important;
+}
+
+.music-dock {
+  left: 0 !important;
+  right: 0 !important;
+  bottom: 0 !important;
+  width: 100% !important;
+  max-height: 92px !important;
+  border-radius: 18px 18px 0 0 !important;
+  background: rgba(15, 15, 15, 0.98) !important;
+  transition: max-height 0.2s ease, width 0.2s ease, left 0.2s ease, right 0.2s ease, bottom 0.2s ease;
+}
+
+.music-dock.is-expanded {
+  left: 50% !important;
+  right: auto !important;
+  bottom: 12px !important;
+  width: min(1120px, calc(100vw - 32px)) !important;
+  max-height: min(46vh, 460px) !important;
+  transform: translateX(-50%) !important;
+  border-radius: 18px !important;
+  box-shadow: 0 24px 70px rgba(0,0,0,0.45) !important;
+}
+
+.music-dock .modal-header {
+  display: none !important;
+}
+
+.music-dock .spotify-playlist-container {
+  padding: 10px 18px 0 !important;
+  max-height: 0;
+  overflow: hidden;
+}
+
+.music-dock.is-expanded .spotify-playlist-container {
+  display: block !important;
+  max-height: min(31vh, 310px);
+  overflow-y: auto;
+}
+
+.music-dock .spotify-table {
+  margin-bottom: 0 !important;
+}
+
+.spotify-table th,
+.spotify-table td {
+  padding: 8px 12px !important;
+  vertical-align: middle;
+}
+
+.spotify-title-cell {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.spotify-row-cover {
+  width: 42px;
+  height: 42px;
+  flex: 0 0 42px;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #111827;
+  display: grid;
+  place-items: center;
+}
+
+.spotify-row-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.spotify-song-row.is-active td {
+  background: rgba(255,255,255,0.11) !important;
+}
+
+.spotify-song-row.is-locked {
+  opacity: 0.88;
+}
+
+.music-dock .spotify-now-playing {
+  min-height: 86px !important;
+  padding: 10px 16px !important;
+}
+
+.music-close-btn {
+  width: 34px !important;
+  height: 34px !important;
+  min-width: 34px !important;
+  min-height: 34px !important;
+  font-size: 1.05rem !important;
+  box-shadow: 0 4px 0 #991b1b, 0 10px 18px rgba(220, 38, 38, 0.22) !important;
+}
+
+.music-expand-btn {
+  width: 62px !important;
+  min-width: 62px !important;
+  height: 52px !important;
+  padding: 0 !important;
+  font-size: 1.6rem !important;
+  border-radius: 18px !important;
+}
+
+.artwork-placeholder {
+  width: 64px !important;
+  height: 64px !important;
+  border-radius: 10px !important;
+}
+
+.dm-widget,
+.twitch-chat-widget {
+  width: min(420px, calc(100vw - 128px)) !important;
+  height: min(460px, calc(100vh - 72px)) !important;
+  background: rgba(15, 23, 42, 0.94) !important;
+  color: white;
+  border-radius: 16px !important;
+  overflow: hidden;
+}
+
+.dm-header,
+.twitch-header {
+  min-height: 52px;
+  background: #18181b !important;
+  border-bottom: 1px solid rgba(255,255,255,0.12);
+}
+
+.twitch-messages,
+.dm-list {
+  background: rgba(24,24,27,0.96) !important;
+}
+
+.dm-list {
+  grid-template-columns: repeat(3, minmax(170px, 1fr)) !important;
+  overflow: auto !important;
+}
+
+.dm-section {
+  background: rgba(39,39,42,0.96) !important;
+  color: white;
+}
+
+.dm-section h4,
+.dm-copy small,
+.dm-preview {
+  color: rgba(255,255,255,0.72) !important;
+}
+
+.dm-thread {
+  background: rgba(255,255,255,0.08) !important;
+  color: white;
+}
+
+.dm-thread:hover {
+  background: rgba(145,70,255,0.24) !important;
+}
+
+.twitch-msg {
+  padding: 2px 0 !important;
+  background: transparent !important;
+  color: #efeff1;
+  font-size: 0.9rem;
+}
+
+.twitch-msg strong {
+  color: #bf94ff !important;
+}
+
+.twitch-msg.viewer:nth-child(3n) strong { color: #00ad96 !important; }
+.twitch-msg.viewer:nth-child(3n + 1) strong { color: #ff75e6 !important; }
+.twitch-msg.viewer:nth-child(3n + 2) strong { color: #f7b500 !important; }
+
+.twitch-input-area {
+  background: #18181b !important;
+}
+
+.twitch-input-area input {
+  background: #0e0e10 !important;
+  color: white !important;
+  border-color: rgba(255,255,255,0.18) !important;
+}
+
+.twitch-input-area button {
+  border: 0;
+  border-radius: 8px;
+  padding: 0 12px;
+  background: #9146ff;
+  color: white;
+  font-weight: 900;
+}
+
+.record-button {
+  min-height: 58px !important;
+  padding: 0 24px !important;
+  border-radius: 18px !important;
+  border: 3px solid rgba(255,255,255,0.9) !important;
+  background: linear-gradient(180deg, #fb7185 0%, #dc2626 100%) !important;
+  color: white !important;
+  font-weight: 950 !important;
+  box-shadow: 0 8px 0 #991b1b, 0 18px 30px rgba(220, 38, 38, 0.24) !important;
+}
+
+.record-button:hover {
+  transform: translateY(-2px);
+}
+
+.record-button:active {
+  transform: translateY(5px);
+  box-shadow: 0 3px 0 #991b1b, 0 10px 18px rgba(220, 38, 38, 0.2) !important;
+}

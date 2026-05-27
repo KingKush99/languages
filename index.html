@@ -6,7 +6,7 @@
     <title>Language Learners</title>
     <link rel="icon" type="image/png" href="assets/favicon.png?v=1" />
     <link rel="apple-touch-icon" href="assets/favicon.png?v=1" />
-    <link rel="stylesheet" href="styles.css?v=profile-character-5" />
+    <link rel="stylesheet" href="styles.css?v=widgets-music-1" />
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r160/three.min.js"></script>
   </head>
@@ -78,7 +78,7 @@
     <div id="musicDock" class="music-dock glass-panel" hidden>
       <div id="musicPlaylistPanel" class="music-playlist-panel">
         <div class="modal-header">
-          <h2>Playlist</h2>
+          <h2 class="sr-only">Music queue</h2>
           <button class="close-modal-btn" id="closeMusicBtn" type="button">×</button>
         </div>
         <div class="spotify-playlist-container">
@@ -107,7 +107,7 @@
              <button id="playSongBtn" class="player-btn play-btn" type="button">▶️</button>
              <button id="nextSongBtn" class="player-btn" type="button">⏭</button>
           </div>
-          <button id="expandMusicBtn" class="action-btn secondary-btn music-expand-btn" type="button">Playlist</button>
+          <button id="expandMusicBtn" class="action-btn secondary-btn music-expand-btn" type="button" aria-label="Expand music queue">⌃</button>
         </div>
       </div>
     </div>
@@ -1084,9 +1084,9 @@
     </div>
     <div id="tooltip" class="tooltip glass-panel" role="tooltip" hidden></div>
     <script src="config.js?v=site-config-1"></script>
-    <script src="music-manifest.js?v=language-music-1"></script>
+    <script src="music-manifest.js?v=language-music-3"></script>
     <script src="data/curriculum.js?v=language-curriculum-5"></script>
-    <script src="script.js?v=language-profile-19"></script>
+    <script src="script.js?v=language-profile-20"></script>
 
     <!-- Clippy Guide -->
     <div id="clippyGuide" class="clippy-guide" hidden style="position: fixed; bottom: 20px; right: 20px; z-index: 1000; display: flex; align-items: flex-end; gap: 10px; pointer-events: none;">

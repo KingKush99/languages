@@ -60,8 +60,7 @@ languages/hindi/music/
 languages/arabic/music/
 ```
 
-The generator also supports the current Russian local folder at `Music/Artists/`. Put cover images in the same album folder as the song files.
-It also detects sibling libraries at `M:\Languages\<Language>\Music\Artists\` for Japanese, Mandarin, Hindi, and Arabic, then writes those entries as `<Language>/Music/Artists/...` media paths.
+The generator detects sibling libraries at `M:\Languages\<Language>\Music\Artists\` for Russian, Japanese, Mandarin, Hindi, and Arabic, then writes those entries as `<Language>/Music/Artists/...` media paths. Put cover images in the same album folder as the song files.
 
 Regenerate the manifest after adding or moving music:
 
@@ -75,7 +74,7 @@ For local testing without copying large music files into this repo, serve `M:\La
 npm run media:serve
 ```
 
-The app automatically uses `http://127.0.0.1:9877` as `LANGUAGE_MEDIA_BASE` when opened from localhost or `127.0.0.1`. Only manifest paths that start with a language folder, such as `Japanese/Music/Artists/...` or `Hindi/Music/Artists/...`, are loaded through the media base. Repo-local paths such as `Music/Artists/...` still load from the app itself.
+The app automatically uses `http://127.0.0.1:9877` as `LANGUAGE_MEDIA_BASE` when opened from localhost or `127.0.0.1`. Manifest paths that start with a language folder, such as `Russian/Music/Artists/...`, `Japanese/Music/Artists/...`, or `Hindi/Music/Artists/...`, are loaded through the media base.
 
 Large WAV libraries should not be committed directly to GitHub. For production, use compressed audio such as MP3, AAC, OGG, or WebM, or serve the files from external object storage/CDN and point the manifest at those URLs.
 
