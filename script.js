@@ -3266,7 +3266,10 @@ function speakSlowRussian(startCharIndex = 0) {
 function updateReadingAudioControls() {
   const isPaused = Boolean(window.speechSynthesis?.paused || activeSpeech?.paused);
   [els.pauseAudioBtn, els.pauseStoryAudioBtn].forEach((button) => {
-    if (button) button.textContent = isPaused ? "Resume" : "Pause";
+    if (!button) return;
+    button.textContent = isPaused ? "▶" : "⏸";
+    button.setAttribute("aria-label", isPaused ? "Resume audio" : "Pause audio");
+    button.title = isPaused ? "Resume audio" : "Pause audio";
   });
 }
 
@@ -4759,14 +4762,14 @@ function playAudioSong(song) {
   const audioUrl = resolveMediaUrl(song.src);
   if (!audioUrl) {
     appState.isPlaying = false;
-    els.playSongBtn.textContent = "Play";
+    setMusicPlayButton(false);
     els.songStatus.textContent = externalMediaHelpText(song.src) || "Could not play file";
     return;
   }
   currentAudio = new Audio(encodeURI(audioUrl));
   currentAudio.addEventListener("ended", () => {
     appState.isPlaying = false;
-    els.playSongBtn.textContent = "Play";
+    setMusicPlayButton(false);
     els.songStatus.textContent = "Paused";
   });
   currentAudio.play().catch((error) => {
@@ -4831,11 +4834,12 @@ function updatePlayerUI() {
     els.songStatus.textContent = `Unlock for ${song.price} coins`;
     renderSongArtwork(song);
     appState.isPlaying = false;
-    els.playSongBtn.textContent = "Play";
+    setMusicPlayButton(false);
     highlightActiveSongRow();
     return;
   }
   els.currentSongTitle.textContent = song.title;
+  setMusicPlayButton(appState.isPlaying);
   els.songStatus.textContent = appState.isPlaying ? "Playing" : "Paused";
   renderSongArtwork(song);
   highlightActiveSongRow();
@@ -4854,7 +4858,7 @@ function togglePlay() {
     if (currentOsc) currentOsc.stop();
     if (currentAudio) currentAudio.pause();
     appState.isPlaying = false;
-    els.playSongBtn.textContent = "Play";
+    setMusicPlayButton(false);
     els.songStatus.textContent = "Paused";
     return;
   }
@@ -4864,9 +4868,16 @@ function togglePlay() {
   }
   if (audioCtx.state === "suspended") audioCtx.resume();
   appState.isPlaying = true;
-  els.playSongBtn.textContent = "Pause";
+  setMusicPlayButton(true);
   els.songStatus.textContent = "Playing";
   updatePlayerUI();
+}
+
+function setMusicPlayButton(isPlaying) {
+  if (!els.playSongBtn) return;
+  els.playSongBtn.textContent = isPlaying ? "⏸" : "▶";
+  els.playSongBtn.setAttribute("aria-label", isPlaying ? "Pause song" : "Play song");
+  els.playSongBtn.title = isPlaying ? "Pause song" : "Play song";
 }
 
 // --- PROFILE & CHARACTER LAB ---
