@@ -11,9 +11,14 @@ module.exports = async function stripeCheckout(req, res) {
 
   let payload;
   try {
-    payload = await readJsonBody(req);
-  } catch {
-    return sendJson(req, res, 400, { error: "Request body must be valid JSON." });
+    // If Vercel has already parsed the JSON body, use it to prevent the stream from hanging
+    if (req.body && typeof req.body === "object") {
+      payload = req.body;
+    } else {
+      payload = await readJsonBody(req);
+    }
+  } catch (error) {
+    return sendJson(req, res, 400, { error: "Request body must be valid JSON. " + error.message });
   }
 
   const pack = getCoinPackage(payload.packageId);
