@@ -3,7 +3,7 @@ const fs = require("node:fs");
 const path = require("node:path");
 const crypto = require("node:crypto");
 
-const root = __dirname;
+const root = process.cwd();
 const port = Number(process.env.PORT || 9876);
 const host = "127.0.0.1";
 let dbPool;
@@ -22,6 +22,16 @@ const types = {
 function sendJson(res, status, payload) {
   res.writeHead(status, { "content-type": "application/json; charset=utf-8" });
   res.end(JSON.stringify(payload));
+}
+
+async function fetchWithTimeout(url, options = {}, timeoutMs = 15000) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), timeoutMs);
+  try {
+    return await fetch(url, { ...options, signal: controller.signal });
+  } finally {
+    clearTimeout(timer);
+  }
 }
 
 const coinPackages = [1, 2, 5, 10, 20, 50, 100, 200, 500, 1000].map((price, index) => {
@@ -373,14 +383,14 @@ async function handleStripeCheckout(req, res) {
   }
 
   try {
-    const response = await fetch("https://api.stripe.com/v1/checkout/sessions", {
+    const response = await fetchWithTimeout("https://api.stripe.com/v1/checkout/sessions", {
       method: "POST",
       headers: {
         authorization: `Bearer ${env.STRIPE_SECRET_KEY}`,
         "content-type": "application/x-www-form-urlencoded"
       },
       body: params
-    });
+    }, 15000);
     const result = await response.json();
     if (!response.ok) {
       sendJson(res, response.status, { error: result.error?.message || "Stripe checkout failed." });
@@ -388,7 +398,7 @@ async function handleStripeCheckout(req, res) {
     }
     sendJson(res, 200, { provider: "stripe", url: result.url, sessionId: result.id });
   } catch (error) {
-    sendJson(res, 500, { error: error.message });
+    sendJson(res, 502, { error: error.name === "AbortError" ? "Stripe checkout request timed out. Check the Stripe secret key and try again." : error.message });
   }
 }
 
@@ -417,7 +427,7 @@ async function handleCoinbaseCharge(req, res) {
   const origin = env.PUBLIC_APP_URL || `http://${host}:${port}`;
   const userId = String(payload.userId || "anonymous").slice(0, 128);
   try {
-    const response = await fetch("https://api.commerce.coinbase.com/charges", {
+    const response = await fetchWithTimeout("https://api.commerce.coinbase.com/charges", {
       method: "POST",
       headers: {
         "content-type": "application/json",
@@ -433,7 +443,7 @@ async function handleCoinbaseCharge(req, res) {
         redirect_url: `${origin}/?purchase=coinbase_success&package=${pack.id}`,
         cancel_url: `${origin}/?purchase=coinbase_cancel`
       })
-    });
+    }, 15000);
     const result = await response.json();
     if (!response.ok) {
       sendJson(res, response.status, { error: result.error?.message || "Coinbase charge failed." });
@@ -441,7 +451,7 @@ async function handleCoinbaseCharge(req, res) {
     }
     sendJson(res, 200, { provider: "coinbase", url: result.data?.hosted_url, chargeId: result.data?.id });
   } catch (error) {
-    sendJson(res, 500, { error: error.message });
+    sendJson(res, 502, { error: error.name === "AbortError" ? "Coinbase charge request timed out. Check the Coinbase API key and try again." : error.message });
   }
 }
 
