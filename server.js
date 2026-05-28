@@ -139,16 +139,6 @@ async function creditCoinsFromWebhook({ provider, providerEventId, providerPayme
   }
 }
 
-function verifyCoinbaseSignature(rawBody, signature, secret) {
-  if (!signature || !secret) return false;
-  const expected = crypto.createHmac("sha256", secret).update(rawBody).digest("hex");
-  try {
-    return crypto.timingSafeEqual(Buffer.from(signature), Buffer.from(expected));
-  } catch {
-    return false;
-  }
-}
-
 function verifyStripeSignature(rawBody, header, secret) {
   if (!header || !secret) return false;
   const parsed = String(header).split(",").reduce((acc, part) => {
@@ -167,6 +157,17 @@ function verifyStripeSignature(rawBody, header, secret) {
       return false;
     }
   });
+}
+
+function verifyNowPaymentsSignature(payload, signature, secret) {
+  if (!signature || !secret) return false;
+  // NOWPayments webhooks require sorting payload keys alphabetically to verify signatures securely
+  const sorted = {};
+  Object.keys(payload).sort().forEach(key => {
+    sorted[key] = payload[key];
+  });
+  const expected = crypto.createHmac("sha512", secret).update(JSON.stringify(sorted)).digest("hex");
+  return signature === expected;
 }
 
 function readJsonBody(req, maxBytes = 64_000) {
@@ -402,10 +403,10 @@ async function handleStripeCheckout(req, res) {
   }
 }
 
-async function handleCoinbaseCharge(req, res) {
+async function handleNowPaymentsInvoice(req, res) {
   const env = typeof process === "undefined" ? {} : process.env;
-  if (!env.COINBASE_COMMERCE_API_KEY) {
-    sendJson(res, 503, { error: "Set COINBASE_COMMERCE_API_KEY on the backend before using real crypto checkout." });
+  if (!env.NOWPAYMENTS_API_KEY) {
+    sendJson(res, 503, { error: "Set NOWPAYMENTS_API_KEY on the backend before using crypto checkout." });
     return;
   }
   if (!env.DATABASE_URL) {
@@ -426,32 +427,33 @@ async function handleCoinbaseCharge(req, res) {
   }
   const origin = env.PUBLIC_APP_URL || `http://${host}:${port}`;
   const userId = String(payload.userId || "anonymous").slice(0, 128);
+
   try {
-    const response = await fetchWithTimeout("https://api.commerce.coinbase.com/charges", {
+    const response = await fetchWithTimeout("https://api.nowpayments.io/v1/invoice", {
       method: "POST",
       headers: {
         "content-type": "application/json",
-        "X-CC-Api-Key": env.COINBASE_COMMERCE_API_KEY,
-        "X-CC-Version": env.COINBASE_COMMERCE_API_VERSION || "2018-03-22"
+        "x-api-key": env.NOWPAYMENTS_API_KEY
       },
       body: JSON.stringify({
-        name: `${pack.coins.toLocaleString()} Language Learners coins`,
-        description: `Coin package ${pack.id}`,
-        pricing_type: "fixed_price",
-        local_price: { amount: String(pack.price), currency: "USD" },
-        metadata: { package_id: pack.id, coins: String(pack.coins), user_id: userId },
-        redirect_url: `${origin}/?purchase=coinbase_success&package=${pack.id}`,
-        cancel_url: `${origin}/?purchase=coinbase_cancel`
+        price_amount: pack.price,
+        price_currency: "usd",
+        order_id: `${userId}__${pack.id}__${pack.coins}`,
+        order_description: `${pack.coins.toLocaleString()} Language Learners coins`,
+        ipn_callback_url: `${origin}/api/webhooks/nowpayments`,
+        success_url: `${origin}/?purchase=nowpayments_success&package=${pack.id}`,
+        cancel_url: `${origin}/?purchase=nowpayments_cancel`
       })
     }, 15000);
+
     const result = await response.json();
     if (!response.ok) {
-      sendJson(res, response.status, { error: result.error?.message || "Coinbase charge failed." });
+      sendJson(res, response.status, { error: result.message || "NOWPayments invoice failed." });
       return;
     }
-    sendJson(res, 200, { provider: "coinbase", url: result.data?.hosted_url, chargeId: result.data?.id });
+    sendJson(res, 200, { provider: "nowpayments", url: result.invoice_url, invoiceId: result.id });
   } catch (error) {
-    sendJson(res, 502, { error: error.name === "AbortError" ? "Coinbase charge request timed out. Check the Coinbase API key and try again." : error.message });
+    sendJson(res, 502, { error: error.name === "AbortError" ? "NOWPayments request timed out. Check your NOWPayments API key." : error.message });
   }
 }
 
@@ -511,31 +513,39 @@ async function handleStripeWebhook(req, res) {
   sendJson(res, 200, { received: true });
 }
 
-async function handleCoinbaseWebhook(req, res) {
+async function handleNowPaymentsWebhook(req, res) {
   const rawBody = await readRawBody(req);
-  if (!process.env.COINBASE_WEBHOOK_SECRET) {
-    sendJson(res, 503, { error: "COINBASE_WEBHOOK_SECRET is not configured." });
-    return;
-  }
-  if (!verifyCoinbaseSignature(rawBody, req.headers["x-cc-webhook-signature"], process.env.COINBASE_WEBHOOK_SECRET)) {
-    sendJson(res, 400, { error: "Invalid Coinbase webhook signature." });
+  if (!process.env.NOWPAYMENTS_IPN_SECRET) {
+    sendJson(res, 503, { error: "NOWPAYMENTS_IPN_SECRET is not configured." });
     return;
   }
   const event = JSON.parse(rawBody.toString("utf8"));
-  if (event.event?.type === "charge:confirmed" || event.event?.type === "charge:resolved") {
-    const charge = event.event?.data || {};
-    const metadata = charge.metadata || {};
-    const result = await creditCoinsFromWebhook({
-      provider: "coinbase",
-      providerEventId: event.event.id,
-      providerPaymentId: charge.id || charge.code,
-      userId: metadata.user_id,
-      packageId: metadata.package_id,
-      coins: metadata.coins,
-      rawEvent: event
-    });
-    sendJson(res, 200, { received: true, ...result });
+  
+  if (!verifyNowPaymentsSignature(event, req.headers["x-nowpayments-sig"], process.env.NOWPAYMENTS_IPN_SECRET)) {
+    sendJson(res, 400, { error: "Invalid NOWPayments webhook signature." });
     return;
+  }
+
+  if (event.payment_status === "finished" || event.payment_status === "partially_paid") {
+    const orderId = event.order_id || "";
+    const parts = orderId.split("__");
+    if (parts.length >= 3) {
+      const userId = parts[0];
+      const packageId = parts[1];
+      const coins = parts[2];
+
+      const result = await creditCoinsFromWebhook({
+        provider: "nowpayments",
+        providerEventId: String(event.payment_id),
+        providerPaymentId: String(event.payment_id),
+        userId: userId,
+        packageId: packageId,
+        coins: coins,
+        rawEvent: event
+      });
+      sendJson(res, 200, { received: true, ...result });
+      return;
+    }
   }
   sendJson(res, 200, { received: true });
 }
@@ -554,8 +564,8 @@ const server = http.createServer((req, res) => {
     handleStripeCheckout(req, res);
     return;
   }
-  if (url.pathname === "/api/payments/coinbase-charge" && req.method === "POST") {
-    handleCoinbaseCharge(req, res);
+  if (url.pathname === "/api/payments/nowpayments-invoice" && req.method === "POST") {
+    handleNowPaymentsInvoice(req, res);
     return;
   }
   if (url.pathname === "/api/wallet" && req.method === "GET") {
@@ -566,8 +576,8 @@ const server = http.createServer((req, res) => {
     handleStripeWebhook(req, res);
     return;
   }
-  if (url.pathname === "/api/webhooks/coinbase" && req.method === "POST") {
-    handleCoinbaseWebhook(req, res);
+  if (url.pathname === "/api/webhooks/nowpayments" && req.method === "POST") {
+    handleNowPaymentsWebhook(req, res);
     return;
   }
   if (url.pathname === "/api/ads/config" && req.method === "GET") {
