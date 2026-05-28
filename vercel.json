@@ -3,7 +3,19 @@
   "builds": [
     {
       "src": "server.js",
-      "use": "@vercel/node"
+      "use": "@vercel/node",
+      "config": {
+        "includeFiles": [
+          "index.html",
+          "styles.css",
+          "script.js",
+          "config.js",
+          "music-manifest.js",
+          "data/**",
+          "assets/**",
+          "Stories/**"
+        ]
+      }
     }
   ],
   "routes": [
