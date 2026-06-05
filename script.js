@@ -4241,18 +4241,23 @@ const themePrices = {
   7: 100, 6: 200, 5: 400,
   4: 800, 3: 1600, 2: 3200, 1: 6400
 };
-const japaneseThemes = {
-  jp10: { price: 0, name: "Sakura Dawn", bg: "linear-gradient(135deg, #fff1f2, #fecdd3 45%, #bfdbfe)" },
-  jp9: { price: 0, name: "Tokyo Night", bg: "linear-gradient(135deg, #111827, #3730a3 48%, #db2777)" },
-  jp8: { price: 0, name: "Fuji Morning", bg: "linear-gradient(135deg, #e0f2fe, #f8fafc 45%, #bae6fd)" },
-  jp7: { price: 100, name: "Bamboo Path", bg: "linear-gradient(135deg, #ecfccb, #86efac 48%, #14532d)" },
-  jp6: { price: 200, name: "Kyoto Lanterns", bg: "linear-gradient(135deg, #450a0a, #dc2626 50%, #fbbf24)" },
-  jp5: { price: 400, name: "Ink Wash", bg: "linear-gradient(135deg, #f8fafc, #cbd5e1 52%, #334155)" },
-  jp4: { price: 800, name: "Shinkansen", bg: "linear-gradient(135deg, #eff6ff, #60a5fa 45%, #1d4ed8)" },
-  jp3: { price: 1600, name: "Matcha Garden", bg: "linear-gradient(135deg, #f7fee7, #a3e635 50%, #365314)" },
-  jp2: { price: 3200, name: "Festival Gold", bg: "linear-gradient(135deg, #7f1d1d, #f97316 48%, #fde68a)" },
-  jp1: { price: 6400, name: "Neon Crossing", bg: "linear-gradient(135deg, #020617, #7c3aed 46%, #22d3ee)" }
-};
+function createThemeSet(prefix, label, folder) {
+  return Object.fromEntries(
+    [10, 9, 8, 7, 6, 5, 4, 3, 2, 1].map((num) => [
+      `${prefix}${num}`,
+      {
+        price: themePrices[num],
+        name: `${label} BG ${num}`,
+        bg: `url('languages/${folder}/assets/themes/${num}.png')`
+      }
+    ])
+  );
+}
+
+const japaneseThemes = createThemeSet("jp", "Japanese", "japanese");
+const mandarinThemes = createThemeSet("zh", "Mandarin", "mandarin");
+const arabicThemes = createThemeSet("ar", "Arabic", "arabic");
+const hindiThemes = createThemeSet("hi", "Hindi", "hindi");
 const languageThemeCatalog = {
   russian: {
     ru10: { price: 0, name: "Russian Reading Room", bg: "url('languages/russian/assets/images/theme_family_1778919168922.png')" },
@@ -4260,15 +4265,9 @@ const languageThemeCatalog = {
     ru8: { price: 0, name: "History Desk", bg: "url('languages/russian/assets/images/theme_history_1778919304589.png')" }
   },
   japanese: japaneseThemes,
-  mandarin: {
-    zh10: { price: 0, name: "Mandarin Lantern Study", bg: "linear-gradient(135deg, #7f1d1d, #dc2626 42%, #fbbf24 100%)" }
-  },
-  arabic: {
-    ar10: { price: 0, name: "Arabic Courtyard", bg: "linear-gradient(135deg, #064e3b, #0f766e 42%, #f59e0b 100%)" }
-  },
-  hindi: {
-    hi10: { price: 0, name: "Hindi Festival Page", bg: "linear-gradient(135deg, #7c2d12, #f97316 42%, #16a34a 100%)" }
-  }
+  mandarin: mandarinThemes,
+  arabic: arabicThemes,
+  hindi: hindiThemes
 };
 const languageDefaultThemes = {
   russian: "ru10",
