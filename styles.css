@@ -1037,7 +1037,7 @@ select, input, textarea {
   border: 0;
   border-radius: inherit;
   box-shadow: none;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .book-page.image-page .story-visual img:hover {

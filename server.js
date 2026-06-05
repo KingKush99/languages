@@ -100,6 +100,13 @@ async function ensureLedgerSchema() {
       status text not null default 'pending',
       created_at timestamptz not null default now()
     );
+    create table if not exists live_chat_moderation (
+      user_id text primary key,
+      violation_count integer not null default 0,
+      window_start timestamptz not null default now(),
+      cooldown_until timestamptz,
+      updated_at timestamptz not null default now()
+    );
   `);
 }
 
@@ -130,6 +137,41 @@ const blockedLiveChatTerms = [
 function containsBlockedLiveChatTerm(text) {
   const normalized = String(text || "").toLowerCase().replace(/[@$!1|0*._-]/g, "");
   return blockedLiveChatTerms.some((term) => new RegExp(`(^|[^a-z0-9])${term}([^a-z0-9]|$)`, "i").test(normalized));
+}
+
+async function getLiveChatCooldown(db, userId) {
+  const existing = await db.query(
+    `select cooldown_until as "cooldownUntil"
+     from live_chat_moderation
+     where user_id = $1 and cooldown_until is not null and cooldown_until > now()`,
+    [userId]
+  );
+  return existing.rows[0]?.cooldownUntil || null;
+}
+
+async function recordLiveChatViolation(db, userId) {
+  const result = await db.query(
+    `insert into live_chat_moderation (user_id, violation_count, window_start, updated_at)
+     values ($1, 1, now(), now())
+     on conflict (user_id) do update set
+       violation_count = case
+         when live_chat_moderation.window_start < now() - interval '1 minute' then 1
+         else live_chat_moderation.violation_count + 1
+       end,
+       window_start = case
+         when live_chat_moderation.window_start < now() - interval '1 minute' then now()
+         else live_chat_moderation.window_start
+       end,
+       cooldown_until = case
+         when live_chat_moderation.window_start >= now() - interval '1 minute'
+          and live_chat_moderation.violation_count + 1 >= 3 then now() + interval '5 minutes'
+         else live_chat_moderation.cooldown_until
+       end,
+       updated_at = now()
+     returning violation_count as "violationCount", cooldown_until as "cooldownUntil"`,
+    [userId]
+  );
+  return result.rows[0] || { violationCount: 1, cooldownUntil: null };
 }
 
 async function handleGlobalChat(req, res, url) {
@@ -165,11 +207,27 @@ async function handleGlobalChat(req, res, url) {
     sendJson(res, 400, { error: "Message is required." });
     return;
   }
-  if (containsBlockedLiveChatTerm(message)) {
-    sendJson(res, 400, { error: "Live chat message blocked by the language filter." });
+  const userId = normalizeChatText(payload.userId || "anonymous", 128);
+  const cooldownUntil = await getLiveChatCooldown(db, userId);
+  if (cooldownUntil) {
+    sendJson(res, 429, { error: "Live chat cooldown active.", cooldownUntil });
     return;
   }
-  const userId = normalizeChatText(payload.userId || "anonymous", 128);
+  if (containsBlockedLiveChatTerm(message)) {
+    const moderation = await recordLiveChatViolation(db, userId);
+    if (moderation.cooldownUntil) {
+      sendJson(res, 429, {
+        error: "Live chat cooldown active after 3 blocked messages in 1 minute.",
+        cooldownUntil: moderation.cooldownUntil
+      });
+      return;
+    }
+    sendJson(res, 400, {
+      error: "Live chat message blocked by the language filter.",
+      remainingWarnings: Math.max(0, 3 - Number(moderation.violationCount || 1))
+    });
+    return;
+  }
   const author = normalizeChatText(payload.author || "Guest", 64);
   const language = normalizeChatText(payload.language || "site", 32);
   const result = await db.query(

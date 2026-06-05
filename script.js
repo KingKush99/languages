@@ -4509,14 +4509,19 @@ let twitchSimulatedIndex = 0;
 let twitchSimulatedTimer = null;
 let globalChatPollTimer = null;
 let lastGlobalChatId = 0;
+let localLiveChatBadAttempts = [];
+let localLiveChatCooldownUntil = 0;
 
 async function fetchServerGlobalChat() {
   if (!canUseServerApi() || !els.twitchMessages) return false;
   const apiBase = getApiBaseUrl();
   try {
     const response = await fetch(`${apiBase}/api/chat/global?afterId=${encodeURIComponent(lastGlobalChatId)}`);
-    if (!response.ok) return false;
     const result = await response.json();
+    if (!response.ok) {
+      appendGlobalChatMessage("System", result.error || "Message blocked.", "site");
+      return true;
+    }
     (result.messages || []).forEach((message) => {
       lastGlobalChatId = Math.max(lastGlobalChatId, Number(message.id) || 0);
       appendGlobalChatMessage(message.author || "Guest", message.message || "", message.author === appState.profile.displayName ? "user" : "viewer");
@@ -4585,16 +4590,33 @@ function renderGlobalChatKnowledge() {
   startTwitchSimulation();
 }
 
+function recordLocalLiveChatViolation() {
+  const now = Date.now();
+  localLiveChatBadAttempts = localLiveChatBadAttempts.filter((time) => now - time < 60_000);
+  localLiveChatBadAttempts.push(now);
+  if (localLiveChatBadAttempts.length >= 3) {
+    localLiveChatCooldownUntil = now + 5 * 60_000;
+    localLiveChatBadAttempts = [];
+    return true;
+  }
+  return false;
+}
+
 async function sendGlobalChatMessage() {
   const text = els.globalChatInput?.value?.trim();
   if (!text) return;
-  if (checkInappropriate(text)) {
-    appendGlobalChatMessage("System", "Message blocked by the live chat language filter.", "site");
-    return;
-  }
   els.globalChatInput.value = "";
   const sent = await postServerGlobalChat(text);
   if (!sent) {
+    if (localLiveChatCooldownUntil > Date.now()) {
+      appendGlobalChatMessage("System", "Live chat cooldown active. Try again in a few minutes.", "site");
+      return;
+    }
+    if (checkInappropriate(text)) {
+      const cooledDown = recordLocalLiveChatViolation();
+      appendGlobalChatMessage("System", cooledDown ? "Live chat cooldown active after 3 blocked messages in 1 minute." : "Message blocked by the live chat language filter.", "site");
+      return;
+    }
     appendGlobalChatMessage("You", text, "user");
     appendGlobalChatMessage("Site Guide", offlineChatReply(text), "site");
   }
