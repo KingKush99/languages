@@ -4588,6 +4588,10 @@ function renderGlobalChatKnowledge() {
 async function sendGlobalChatMessage() {
   const text = els.globalChatInput?.value?.trim();
   if (!text) return;
+  if (checkInappropriate(text)) {
+    appendGlobalChatMessage("System", "Message blocked by the live chat language filter.", "site");
+    return;
+  }
   els.globalChatInput.value = "";
   const sent = await postServerGlobalChat(text);
   if (!sent) {
@@ -4981,7 +4985,8 @@ function setMusicPlayButton(isPlaying) {
 const inappropriateWords = [
   "bad", "rude", "mean", "hate", "violent", "sexual", "kill", "drug", "spam", "scam",
   "admin", "moderator", "support", "official", "fuck", "shit", "bitch", "asshole",
-  "nazi", "terror", "abuse", "predator"
+  "fucking", "bastard", "cunt", "dick", "pussy", "slut", "whore", "nigger", "nigga",
+  "faggot", "retard", "kike", "nazi", "terror", "abuse", "predator"
 ];
 const usernameCooldownMs = 7 * 24 * 60 * 60 * 1000;
 const socialSearchState = { followers: "", following: "", friends: "" };
@@ -5502,10 +5507,11 @@ function makeDMSection(title, rows) {
   return section;
 }
 
-function makeDMRow({ title, preview, meta, actionLabel, actionId, person }) {
+function makeDMRow({ title, preview, meta, actionLabel, actionId, person, messageId, canReport = false }) {
   const row = document.createElement("article");
   row.className = "dm-thread";
   if (person) row.dataset.person = person;
+  if (messageId) row.dataset.messageId = messageId;
   const initials = title.split(" ").map((part) => part[0]).join("").slice(0, 2);
   const avatar = document.createElement("div");
   avatar.className = "dm-avatar";
@@ -5529,6 +5535,15 @@ function makeDMRow({ title, preview, meta, actionLabel, actionId, person }) {
     button.dataset.acceptRequest = actionId;
     button.textContent = actionLabel || "Accept";
     row.append(button);
+  }
+  if (canReport && person) {
+    const reportButton = document.createElement("button");
+    reportButton.className = "dm-inline-action dm-report-action";
+    reportButton.type = "button";
+    reportButton.dataset.reportDm = messageId || "";
+    reportButton.dataset.reportPerson = person;
+    reportButton.textContent = "Report";
+    row.append(reportButton);
   }
   return row;
 }
@@ -5573,6 +5588,53 @@ async function sendServerDM(toName, message) {
   return result.message;
 }
 
+async function reportServerDM({ messageId, reportedUserName, reason, details }) {
+  if (!canUseServerApi()) return null;
+  const apiBase = getApiBaseUrl();
+  const response = await fetch(`${apiBase}/api/dms/report`, {
+    method: "POST",
+    headers: { "content-type": "application/json" },
+    body: JSON.stringify({
+      messageId,
+      reportedUserName,
+      reason,
+      details,
+      reporterUserId: getLocalUserId(),
+      reporterName: socialDataStore.getOwnName()
+    })
+  });
+  const result = await response.json();
+  if (!response.ok) throw new Error(result.error || "Report could not be sent.");
+  return result.report;
+}
+
+async function reportDMMessage(messageId, reportedUserName) {
+  const reasonMap = {
+    "1": "harassment",
+    "2": "hate",
+    "3": "sexual",
+    "4": "scam",
+    "5": "spam",
+    "6": "other"
+  };
+  const choice = window.prompt(
+    "Report DM reason:\n1. Harassment or bullying\n2. Hate or slurs\n3. Sexual content\n4. Scam or fraud\n5. Spam\n6. Other\n\nEnter 1-6:"
+  );
+  if (!choice) return;
+  const reason = reasonMap[String(choice).trim()];
+  if (!reason) {
+    alert("Choose a number from 1 to 6.");
+    return;
+  }
+  const details = reason === "other" ? (window.prompt("Add report details:") || "") : "";
+  try {
+    await reportServerDM({ messageId, reportedUserName, reason, details });
+    alert("Report submitted.");
+  } catch (error) {
+    alert(error.message || "Report could not be submitted.");
+  }
+}
+
 async function renderDMInbox() {
   if (!els.dmList) return;
   const ownName = socialDataStore.getOwnName();
@@ -5601,7 +5663,9 @@ async function renderDMInbox() {
       title: message.from === ownName ? message.to : message.from,
       preview: `${message.from === ownName ? "You: " : ""}${message.text}`,
       meta: formatSocialTime(message.createdAt),
-      person: message.from === ownName ? message.to : message.from
+      person: message.from === ownName ? message.to : message.from,
+      messageId: message.id,
+      canReport: message.from !== ownName
     }));
   const sentMessages = messages
     .filter((message) => message.from === ownName)
@@ -5611,7 +5675,8 @@ async function renderDMInbox() {
       title: message.to,
       preview: message.text,
       meta: `${message.status} - ${formatSocialTime(message.createdAt)}`,
-      person: message.to
+      person: message.to,
+      messageId: message.id
     }));
   const groupRows = groups.map((group) => makeDMRow({
     title: group.name,
@@ -5631,7 +5696,13 @@ function initDMs() {
 
 els.dmList?.addEventListener("click", (event) => {
   const acceptButton = event.target.closest("[data-accept-request]");
+  const reportButton = event.target.closest("[data-report-dm]");
   const personRow = event.target.closest("[data-person]");
+  if (reportButton) {
+    event.stopPropagation();
+    reportDMMessage(reportButton.dataset.reportDm || personRow?.dataset.messageId || "", reportButton.dataset.reportPerson || personRow?.dataset.person || "");
+    return;
+  }
   if (acceptButton) {
     socialDataStore.acceptFriendRequest(acceptButton.dataset.acceptRequest);
     renderProfile();

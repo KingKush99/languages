@@ -122,6 +122,16 @@ function normalizeChatText(value, maxLength = 500) {
   return String(value || "").replace(/\s+/g, " ").trim().slice(0, maxLength);
 }
 
+const blockedLiveChatTerms = [
+  "fuck", "fucking", "shit", "bitch", "asshole", "bastard", "cunt", "dick",
+  "pussy", "slut", "whore", "nigger", "nigga", "faggot", "retard", "kike"
+];
+
+function containsBlockedLiveChatTerm(text) {
+  const normalized = String(text || "").toLowerCase().replace(/[@$!1|0*._-]/g, "");
+  return blockedLiveChatTerms.some((term) => new RegExp(`(^|[^a-z0-9])${term}([^a-z0-9]|$)`, "i").test(normalized));
+}
+
 async function handleGlobalChat(req, res, url) {
   const db = getDbPool();
   if (!db) {
@@ -153,6 +163,10 @@ async function handleGlobalChat(req, res, url) {
   const message = normalizeChatText(payload.message);
   if (!message) {
     sendJson(res, 400, { error: "Message is required." });
+    return;
+  }
+  if (containsBlockedLiveChatTerm(message)) {
+    sendJson(res, 400, { error: "Live chat message blocked by the language filter." });
     return;
   }
   const userId = normalizeChatText(payload.userId || "anonymous", 128);
@@ -220,6 +234,57 @@ async function handleDirectMessages(req, res, url) {
     [fromUserId, fromName, toName, message]
   );
   sendJson(res, 200, { message: result.rows[0] });
+}
+
+async function handleDirectMessageReport(req, res) {
+  const db = getDbPool();
+  if (!db) {
+    sendJson(res, 503, { error: "DATABASE_URL is not configured." });
+    return;
+  }
+  await ensureLedgerSchema();
+  await db.query(`
+    create table if not exists direct_message_reports (
+      id bigserial primary key,
+      message_id bigint,
+      reporter_user_id text not null,
+      reporter_name text not null,
+      reported_user_name text not null,
+      reason text not null,
+      details text not null default '',
+      created_at timestamptz not null default now()
+    );
+  `);
+  let payload;
+  try {
+    payload = await readJsonBody(req);
+  } catch (error) {
+    sendJson(res, 400, { error: error.message });
+    return;
+  }
+  const allowedReasons = new Set(["harassment", "hate", "sexual", "scam", "spam", "other"]);
+  const reason = normalizeChatText(payload.reason, 32).toLowerCase();
+  if (!allowedReasons.has(reason)) {
+    sendJson(res, 400, { error: "Choose a valid report reason." });
+    return;
+  }
+  const reporterUserId = normalizeChatText(payload.reporterUserId || payload.userId || "anonymous", 128);
+  const reporterName = normalizeChatText(payload.reporterName || "Guest", 64);
+  const reportedUserName = normalizeChatText(payload.reportedUserName, 64);
+  const details = normalizeChatText(payload.details || "", 1000);
+  const messageId = Number.parseInt(payload.messageId || "0", 10);
+  if (!reportedUserName) {
+    sendJson(res, 400, { error: "Reported user is required." });
+    return;
+  }
+  const result = await db.query(
+    `insert into direct_message_reports
+     (message_id, reporter_user_id, reporter_name, reported_user_name, reason, details)
+     values ($1, $2, $3, $4, $5, $6)
+     returning id, created_at as "createdAt"`,
+    [Number.isFinite(messageId) && messageId > 0 ? messageId : null, reporterUserId, reporterName, reportedUserName, reason, details]
+  );
+  sendJson(res, 200, { report: result.rows[0] });
 }
 
 async function creditCoinsFromWebhook({ provider, providerEventId, providerPaymentId, userId, packageId, coins, rawEvent }) {
@@ -699,6 +764,10 @@ const server = http.createServer((req, res) => {
   }
   if (url.pathname === "/api/dms" && (req.method === "GET" || req.method === "POST")) {
     handleDirectMessages(req, res, url);
+    return;
+  }
+  if (url.pathname === "/api/dms/report" && req.method === "POST") {
+    handleDirectMessageReport(req, res);
     return;
   }
   if (url.pathname === "/api/webhooks/stripe" && req.method === "POST") {
