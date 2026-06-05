@@ -56,10 +56,7 @@
          <button id="openAchievementsBtn" class="menu-btn" type="button">Achievements</button>
        </div>
 
-       <label class="menu-toggle-row">
-         <span>Character Guide</span>
-         <input id="characterGuideToggle" type="checkbox" checked>
-       </label>
+       <button id="startTutorialBtn" class="menu-btn tutorial-btn" type="button">Start Tutorial</button>
        
        <div class="themes-shop">
          <h3>Background Theme</h3>
@@ -962,6 +959,12 @@
             <option value="4">4</option>
             <option value="5">5</option>
             <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>
+            <option value="11">11</option>
+            <option value="12">12</option>
           </select>
         </div>
       </div>
@@ -970,6 +973,16 @@
     <!-- Twitch Style Chat -->
     <div id="twitchChat" class="twitch-chat-widget glass-panel draggable-widget" hidden>
       <div class="twitch-header drag-handle">
+        <label class="live-chat-language">
+          <span aria-hidden="true">🌐</span>
+          <select id="liveChatLanguageSelect" aria-label="Live chat language">
+            <option value="russian">Russian</option>
+            <option value="japanese">Japanese</option>
+            <option value="mandarin">Mandarin</option>
+            <option value="hindi">Hindi</option>
+            <option value="arabic">Arabic</option>
+          </select>
+        </label>
         Global Chat 🔴
         <button class="widget-close-btn" id="closeTwitchBtn" type="button">×</button>
       </div>

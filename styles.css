@@ -5511,3 +5511,124 @@ select, input, textarea {
   transform: translateY(5px);
   box-shadow: 0 3px 0 #991b1b, 0 10px 18px rgba(220, 38, 38, 0.2) !important;
 }
+
+.twitch-header {
+  display: flex !important;
+  align-items: center !important;
+  gap: 10px !important;
+}
+
+.live-chat-language {
+  order: 2;
+  margin-left: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 34px;
+  padding: 4px 8px;
+  border: 1px solid rgba(255,255,255,0.16);
+  border-radius: 12px;
+  background: rgba(255,255,255,0.08);
+}
+
+.live-chat-language select {
+  width: 34px;
+  max-width: 34px;
+  border: 0;
+  color: transparent;
+  background: transparent;
+  cursor: pointer;
+  appearance: none;
+}
+
+.live-chat-language select:focus {
+  outline: 2px solid #9146ff;
+  outline-offset: 3px;
+}
+
+.live-chat-language select option {
+  color: #fff;
+  background: #18181b;
+}
+
+.twitch-header .widget-close-btn {
+  order: 3;
+}
+
+.slots-controls {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 12px !important;
+}
+
+.auto-spin-label {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 8px !important;
+  width: auto !important;
+  min-height: 46px !important;
+  padding: 0 14px !important;
+  border-radius: 999px !important;
+  background: #111827 !important;
+  color: #fff !important;
+  border: 2px solid rgba(255,255,255,0.18) !important;
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.12), 0 5px 0 #020617 !important;
+}
+
+.auto-spin-label input {
+  width: 18px !important;
+  height: 18px !important;
+  accent-color: #ef4444;
+  cursor: pointer;
+}
+
+.slot-lever {
+  touch-action: none;
+  cursor: grab;
+}
+
+.slot-lever.dragging {
+  cursor: grabbing;
+}
+
+.slot-lever .lever-knob {
+  transform: translate(-50%, var(--lever-pull, 0px)) !important;
+  transition: transform 0.08s ease-out !important;
+}
+
+.slot-lever.pulled .lever-knob {
+  transform: translate(-50%, 40px) !important;
+}
+
+.achievement-item {
+  align-items: flex-start;
+}
+
+.achievement-progress {
+  width: min(420px, 100%);
+  height: 10px;
+  margin-top: 8px;
+  border-radius: 999px;
+  overflow: hidden;
+  background: rgba(15, 23, 42, 0.12);
+}
+
+.achievement-progress span {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, #10b981, #22c55e);
+}
+
+.achievement-item.is-unlocked {
+  box-shadow: inset 0 0 0 2px rgba(16,185,129,0.22);
+}
+
+.achievement-item small {
+  display: block;
+  margin-top: 5px;
+  color: var(--muted);
+  font-weight: 800;
+}

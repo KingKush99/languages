@@ -2402,7 +2402,7 @@ const els = {
   closeProfileSettingsBtn: document.querySelector("#closeProfileSettingsBtn"),
   profileAvatarContainer: document.querySelector("#profileAvatarContainer"),
   profilePageAvatarContainer: document.querySelector("#profilePageAvatarContainer"),
-  characterGuideToggle: document.querySelector("#characterGuideToggle"),
+  startTutorialBtn: document.querySelector("#startTutorialBtn"),
   clippyGuide: document.querySelector("#clippyGuide"),
   clippyAvatar: document.querySelector("#clippyAvatar"),
   clippyMessage: document.querySelector("#clippyMessage"),
@@ -2468,6 +2468,7 @@ const els = {
   twitchMessages: document.querySelector("#twitchMessages"),
   globalChatInput: document.querySelector("#globalChatInput"),
   globalChatSendBtn: document.querySelector("#globalChatSendBtn"),
+  liveChatLanguageSelect: document.querySelector("#liveChatLanguageSelect"),
   closeTwitchBtn: document.querySelector("#closeTwitchBtn"),
   toggleTwitchBtn: document.querySelector("#toggleTwitchBtn"),
   
@@ -3272,6 +3273,9 @@ function speakSlowRussian(startCharIndex = 0) {
   };
   
   window.speechSynthesis.speak(utterance);
+  const audioPlayKey = `nova_audio_plays_${appState.targetLanguage}`;
+  localStorage.setItem(audioPlayKey, String(Number(localStorage.getItem(audioPlayKey) || 0) + 1));
+  renderAchievements();
   updateReadingAudioControls();
 }
 
@@ -4356,6 +4360,33 @@ function renderAchievements() {
 // --- MINI SLOTS ---
 const slotSymbols = ["🍒", "🍋", "🍉", "⭐", "💎", "🔔", "7️⃣"];
 let autoSpinInterval = null;
+let slotLeverDragging = false;
+let slotLeverStartY = 0;
+let slotLeverPull = 0;
+
+function renderSlotReels(reelsCount = parseInt(els.slotReelSelect?.value || "3", 10), fillSymbol = "\uD83C\uDF52") {
+  if (!els.slotsDisplay) return [];
+  const count = Math.max(3, Math.min(12, Number(reelsCount) || 3));
+  els.slotsDisplay.innerHTML = "";
+  const reelEls = [];
+  for (let i = 0; i < count; i += 1) {
+    if (i > 0) {
+      const divider = document.createElement("div");
+      divider.className = "reel-divider";
+      els.slotsDisplay.append(divider);
+    }
+    const span = document.createElement("span");
+    span.className = "slot-reel";
+    span.textContent = fillSymbol;
+    els.slotsDisplay.append(span);
+    reelEls.push(span);
+  }
+  if (els.slotResultOverlay) {
+    els.slotResultOverlay.hidden = true;
+    els.slotsDisplay.append(els.slotResultOverlay);
+  }
+  return reelEls;
+}
 
 function spinSlots() {
   const bet = parseInt(els.slotBetSelect.value);
@@ -4378,7 +4409,8 @@ function spinSlots() {
   els.slotResultOverlay.hidden = true;
   els.slotLever.classList.add("pulled");
   
-  els.slotsDisplay.innerHTML = "";
+  const reelEls = renderSlotReels(reelsCount);
+  /*
   const reelEls = [];
   for(let i=0; i<reelsCount; i++) {
     if(i > 0) {
@@ -4392,7 +4424,7 @@ function spinSlots() {
     els.slotsDisplay.append(span);
     reelEls.push(span);
   }
-  els.slotsDisplay.append(els.slotResultOverlay);
+  */
   
   let spins = 0;
   const interval = setInterval(() => {
@@ -4435,7 +4467,37 @@ els.spinBtn.addEventListener("click", () => {
     spinSlots();
   }
 });
-els.slotLever.addEventListener("click", spinSlots);
+els.slotReelSelect?.addEventListener("change", () => renderSlotReels());
+renderSlotReels();
+
+function resetSlotLever() {
+  slotLeverDragging = false;
+  slotLeverPull = 0;
+  els.slotLever?.style.setProperty("--lever-pull", "0px");
+  els.slotLever?.classList.remove("dragging");
+}
+
+els.slotLever?.addEventListener("pointerdown", (event) => {
+  slotLeverDragging = true;
+  slotLeverStartY = event.clientY;
+  slotLeverPull = 0;
+  els.slotLever.classList.add("dragging");
+  els.slotLever.setPointerCapture?.(event.pointerId);
+});
+
+els.slotLever?.addEventListener("pointermove", (event) => {
+  if (!slotLeverDragging) return;
+  slotLeverPull = Math.max(0, Math.min(54, event.clientY - slotLeverStartY));
+  els.slotLever.style.setProperty("--lever-pull", `${slotLeverPull}px`);
+});
+
+els.slotLever?.addEventListener("pointerup", () => {
+  const shouldSpin = slotLeverPull > 30 || slotLeverPull < 8;
+  resetSlotLever();
+  if (shouldSpin) spinSlots();
+});
+
+els.slotLever?.addEventListener("pointercancel", resetSlotLever);
 
 // --- CHATBOT ---
 const chatLanguages = {
@@ -4662,8 +4724,9 @@ let localLiveChatCooldownUntil = 0;
 async function fetchServerGlobalChat() {
   if (!canUseServerApi() || !els.twitchMessages) return false;
   const apiBase = getApiBaseUrl();
+  const language = els.liveChatLanguageSelect?.value || appState.targetLanguage;
   try {
-    const response = await fetch(`${apiBase}/api/chat/global?afterId=${encodeURIComponent(lastGlobalChatId)}`, { credentials: "include" });
+    const response = await fetch(`${apiBase}/api/chat/global?afterId=${encodeURIComponent(lastGlobalChatId)}&language=${encodeURIComponent(language)}`, { credentials: "include" });
     const result = await response.json();
     if (!response.ok) {
       appendGlobalChatMessage("System", result.error || "Message blocked.", "site");
@@ -4698,7 +4761,7 @@ async function postServerGlobalChat(text) {
       body: JSON.stringify({
         userId: identity.userId,
         author: identity.name,
-        language: appState.targetLanguage,
+        language: els.liveChatLanguageSelect?.value || appState.targetLanguage,
         message: text
       })
     });
@@ -4738,6 +4801,15 @@ function renderGlobalChatKnowledge() {
   twitchSimulatedChat.slice(0, 4).forEach(([author, text]) => appendGlobalChatMessage(author, text, "viewer"));
   startTwitchSimulation();
 }
+
+els.liveChatLanguageSelect?.addEventListener("change", () => {
+  lastGlobalChatId = 0;
+  if (els.twitchMessages) {
+    els.twitchMessages.replaceChildren();
+    delete els.twitchMessages.dataset.ready;
+  }
+  renderGlobalChatKnowledge();
+});
 
 function recordLocalLiveChatViolation() {
   const now = Date.now();
@@ -5188,7 +5260,7 @@ const profileSettingsDefaults = {
   autoTranslate: false,
   allowFriendRequests: true,
   filterMessages: true,
-  characterGuide: true
+  characterGuide: false
 };
 const publicSocialSearchState = { followers: "", following: "", friends: "" };
 let activePublicProfile = null;
@@ -5247,7 +5319,6 @@ function renderProfileSettings() {
   if (els.settingAutoTranslate) els.settingAutoTranslate.checked = s.autoTranslate;
   if (els.settingAllowFriendRequests) els.settingAllowFriendRequests.checked = s.allowFriendRequests;
   if (els.settingFilterMessages) els.settingFilterMessages.checked = s.filterMessages;
-  if (els.characterGuideToggle) els.characterGuideToggle.checked = s.characterGuide;
   applyProfileSettings();
 }
 
@@ -8014,10 +8085,21 @@ function updateCharacterGuide() {
   updateClippy();
 }
 
+function startTutorial() {
+  appState.settings.characterGuide = true;
+  appState.settings.characterGuideStep = 0;
+  saveProfileSettings();
+  updateClippy();
+}
+
+els.startTutorialBtn?.addEventListener("click", () => {
+  startTutorial();
+  if (els.hamburgerMenu) els.hamburgerMenu.hidden = true;
+});
+
 clippyAvatar?.addEventListener("click", () => {
   appState.settings.characterGuide = true;
   appState.settings.characterGuideStep = (Number(appState.settings.characterGuideStep || 0) + 1) % characterGuideSteps.length;
-  if (els.characterGuideToggle) els.characterGuideToggle.checked = true;
   saveProfileSettings();
   updateClippy();
 });
@@ -8063,6 +8145,14 @@ function renderAchievements() {
 const originalSwitchTargetLanguage = switchTargetLanguage;
 switchTargetLanguage = function(language) {
   originalSwitchTargetLanguage(language);
+  if (els.liveChatLanguageSelect && els.liveChatLanguageSelect.value !== language) {
+    els.liveChatLanguageSelect.value = language;
+    lastGlobalChatId = 0;
+    if (els.twitchMessages) {
+      els.twitchMessages.replaceChildren();
+      delete els.twitchMessages.dataset.ready;
+    }
+  }
   renderAchievements();
   updateClippy();
 };
@@ -8072,4 +8162,40 @@ const originalRenderProfile = renderProfile;
 renderProfile = function() {
   originalRenderProfile();
   renderAchievements();
+};
+
+renderAchievements = function renderProgressAchievements() {
+  if (!els.achievementsList) return;
+  const language = languageDatasets[appState.targetLanguage]?.label || "Language";
+  const storyProgress = appState.profile?.storyProgress || {};
+  const completedPages = Array.isArray(storyProgress.completedPages) ? storyProgress.completedPages.length : 0;
+  const completedTasks = Number(storyProgress.completedTasks || 0);
+  const collectionCount = Array.isArray(appState.profile?.collection) ? appState.profile.collection.length : 0;
+  const wordsKnown = Array.isArray(appState.learnedWords) ? appState.learnedWords.length : 0;
+  const bestAccuracy = Number(appState.lastPracticeScore?.bestAccuracy || 0);
+  const audioPlays = Number(localStorage.getItem(`nova_audio_plays_${appState.targetLanguage}`) || 0);
+  const achievements = [
+    { title: `First ${language} Page`, desc: `Read your first ${language} page.`, icon: "📖", current: completedPages, target: 1 },
+    { title: `${language} Story Reader`, desc: `Open 10 ${language} story pages.`, icon: "🖼", current: completedPages, target: 10 },
+    { title: `${language} Listener`, desc: `Play story audio in ${language}.`, icon: "🎧", current: audioPlays, target: 1 },
+    { title: `${language} Speaker`, desc: `Earn 70% or better in pronunciation practice.`, icon: "🎙", current: bestAccuracy, target: 70, suffix: "%" },
+    { title: `100 ${language} Words`, desc: `Learn 100 words while reading ${language}.`, icon: "🏅", current: wordsKnown, target: 100 },
+    { title: `${language} Collector`, desc: `Find 16 story collection items.`, icon: "💠", current: collectionCount + completedTasks, target: 16 }
+  ];
+
+  els.achievementsList.replaceChildren(...achievements.map((achievement) => {
+    const percent = Math.min(100, Math.round((achievement.current / Math.max(achievement.target, 1)) * 100));
+    const div = document.createElement("div");
+    div.className = `achievement-item ${percent >= 100 ? "is-unlocked" : "is-locked"}`;
+    div.innerHTML = `
+      <div class="achievement-icon">${achievement.icon}</div>
+      <div>
+        <h4>${achievement.title}</h4>
+        <p>${achievement.desc}</p>
+        <div class="achievement-progress"><span style="width:${percent}%"></span></div>
+        <small>${Math.min(achievement.current, achievement.target)}${achievement.suffix || ""} / ${achievement.target}${achievement.suffix || ""}</small>
+      </div>
+    `;
+    return div;
+  }));
 };

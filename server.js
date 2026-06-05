@@ -386,13 +386,20 @@ async function handleGlobalChat(req, res, url) {
   const authUser = await getAuthUser(req);
   if (req.method === "GET") {
     const afterId = Number.parseInt(url.searchParams.get("afterId") || "0", 10);
+    const language = normalizeChatText(url.searchParams.get("language") || "", 32);
+    const params = [Number.isFinite(afterId) ? afterId : 0];
+    let whereClause = "where id > $1";
+    if (language) {
+      params.push(language);
+      whereClause += " and language = $2";
+    }
     const result = await db.query(
       `select id, user_id as "userId", author, message, language, created_at as "createdAt"
        from global_chat_messages
-       where id > $1
+       ${whereClause}
        order by id asc
        limit 80`,
-      [Number.isFinite(afterId) ? afterId : 0]
+      params
     );
     sendJson(res, 200, { messages: result.rows });
     return;
