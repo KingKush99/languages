@@ -1,5 +1,17 @@
 {
   "cleanUrls": true,
+  "headers": [
+    {
+      "source": "/api/:path*",
+      "headers": [
+        { "key": "Access-Control-Allow-Origin", "value": "https://kingkush99.github.io" },
+        { "key": "Access-Control-Allow-Credentials", "value": "true" },
+        { "key": "Access-Control-Allow-Methods", "value": "GET,POST,OPTIONS" },
+        { "key": "Access-Control-Allow-Headers", "value": "Content-Type, Stripe-Signature, X-NOWPayments-Sig" },
+        { "key": "Vary", "value": "Origin" }
+      ]
+    }
+  ],
   "rewrites": [
     { "source": "/api/:path*", "destination": "/server.js" },
     { "source": "/ads.txt", "destination": "/server.js" }
