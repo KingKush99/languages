@@ -326,6 +326,41 @@ body {
 .menu-header h2 { margin: 0; }
 .menu-wallet { margin-bottom: 24px; text-align: center; }
 
+.auth-card {
+  margin-top: 14px;
+  padding: 12px;
+  border: 2px solid rgba(255, 255, 255, 0.55);
+  border-radius: 14px;
+  background: linear-gradient(135deg, rgba(15, 23, 42, 0.86), rgba(30, 64, 175, 0.76));
+  color: #fff;
+  display: grid;
+  gap: 8px;
+  box-shadow: 0 10px 22px rgba(15, 23, 42, 0.2);
+}
+
+.auth-card span {
+  font-weight: 800;
+  line-height: 1.25;
+  overflow-wrap: anywhere;
+}
+
+.auth-btn {
+  border: 0;
+  border-radius: 10px;
+  padding: 10px 12px;
+  background: linear-gradient(180deg, #fff, #dbeafe);
+  color: #1d4ed8;
+  font-weight: 900;
+  cursor: pointer;
+  box-shadow: 0 4px 0 rgba(15, 23, 42, 0.32);
+}
+
+.auth-btn.ghost {
+  background: rgba(255, 255, 255, 0.12);
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.45);
+}
+
 .close-btn, .close-modal-btn, .slots-close-btn {
   background: transparent;
   border: none;

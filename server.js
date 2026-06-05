@@ -107,6 +107,26 @@ async function ensureLedgerSchema() {
       cooldown_until timestamptz,
       updated_at timestamptz not null default now()
     );
+    create table if not exists auth_users (
+      id text primary key,
+      email text not null unique,
+      display_name text not null,
+      picture text,
+      created_at timestamptz not null default now(),
+      updated_at timestamptz not null default now()
+    );
+    create table if not exists auth_sessions (
+      session_token text primary key,
+      user_id text not null references auth_users(id) on delete cascade,
+      expires_at timestamptz not null,
+      created_at timestamptz not null default now()
+    );
+    create table if not exists oauth_states (
+      state text primary key,
+      redirect_to text not null default '/',
+      expires_at timestamptz not null,
+      created_at timestamptz not null default now()
+    );
   `);
 }
 
@@ -127,6 +147,171 @@ async function getWallet(userId) {
 
 function normalizeChatText(value, maxLength = 500) {
   return String(value || "").replace(/\s+/g, " ").trim().slice(0, maxLength);
+}
+
+function getPublicOrigin(req) {
+  const envOrigin = process.env.PUBLIC_APP_URL || "";
+  if (envOrigin) return envOrigin.replace(/\/$/, "");
+  const forwardedHost = req.headers["x-forwarded-host"];
+  const hostHeader = forwardedHost || req.headers.host || `${host}:${port}`;
+  const proto = req.headers["x-forwarded-proto"] || (hostHeader.includes("localhost") || hostHeader.includes("127.0.0.1") ? "http" : "https");
+  return `${proto}://${hostHeader}`;
+}
+
+function parseCookies(req) {
+  return String(req.headers.cookie || "").split(";").reduce((cookies, part) => {
+    const index = part.indexOf("=");
+    if (index > -1) cookies[part.slice(0, index).trim()] = decodeURIComponent(part.slice(index + 1).trim());
+    return cookies;
+  }, {});
+}
+
+function setSessionCookie(req, res, token) {
+  const secure = getPublicOrigin(req).startsWith("https://") ? "; Secure" : "";
+  res.setHeader("Set-Cookie", `ll_session=${encodeURIComponent(token)}; Path=/; HttpOnly; SameSite=Lax; Max-Age=${60 * 60 * 24 * 30}${secure}`);
+}
+
+function clearSessionCookie(req, res) {
+  const secure = getPublicOrigin(req).startsWith("https://") ? "; Secure" : "";
+  res.setHeader("Set-Cookie", `ll_session=; Path=/; HttpOnly; SameSite=Lax; Max-Age=0${secure}`);
+}
+
+async function getAuthUser(req) {
+  const db = getDbPool();
+  if (!db) return null;
+  await ensureLedgerSchema();
+  const token = parseCookies(req).ll_session;
+  if (!token) return null;
+  const result = await db.query(
+    `select u.id, u.email, u.display_name as "displayName", u.picture
+     from auth_sessions s
+     join auth_users u on u.id = s.user_id
+     where s.session_token = $1 and s.expires_at > now()`,
+    [token]
+  );
+  return result.rows[0] || null;
+}
+
+async function handleAuthMe(req, res) {
+  const user = await getAuthUser(req);
+  sendJson(res, 200, { signedIn: Boolean(user), user });
+}
+
+async function handleGoogleAuthStart(req, res, url) {
+  const db = getDbPool();
+  if (!db) {
+    sendJson(res, 503, { error: "DATABASE_URL is not configured." });
+    return;
+  }
+  const clientId = process.env.GOOGLE_CLIENT_ID;
+  if (!clientId) {
+    sendJson(res, 503, { error: "GOOGLE_CLIENT_ID is not configured." });
+    return;
+  }
+  await ensureLedgerSchema();
+  const origin = getPublicOrigin(req);
+  const redirectTo = url.searchParams.get("redirect") || "/";
+  const state = crypto.randomBytes(24).toString("hex");
+  await db.query(
+    `insert into oauth_states (state, redirect_to, expires_at)
+     values ($1, $2, now() + interval '10 minutes')`,
+    [state, redirectTo.slice(0, 500)]
+  );
+  const params = new URLSearchParams({
+    client_id: clientId,
+    redirect_uri: `${origin}/api/auth/google/callback`,
+    response_type: "code",
+    scope: "openid email profile",
+    state,
+    access_type: "online",
+    prompt: "select_account"
+  });
+  res.writeHead(302, { location: `https://accounts.google.com/o/oauth2/v2/auth?${params.toString()}` });
+  res.end();
+}
+
+async function handleGoogleAuthCallback(req, res, url) {
+  const db = getDbPool();
+  const clientId = process.env.GOOGLE_CLIENT_ID;
+  const clientSecret = process.env.GOOGLE_CLIENT_SECRET;
+  if (!db || !clientId || !clientSecret) {
+    sendJson(res, 503, { error: "Google sign-in is not configured." });
+    return;
+  }
+  await ensureLedgerSchema();
+  const code = url.searchParams.get("code");
+  const state = url.searchParams.get("state");
+  if (!code || !state) {
+    sendJson(res, 400, { error: "Missing Google OAuth code or state." });
+    return;
+  }
+  const stateResult = await db.query(
+    `delete from oauth_states
+     where state = $1 and expires_at > now()
+     returning redirect_to as "redirectTo"`,
+    [state]
+  );
+  const redirectTo = stateResult.rows[0]?.redirectTo || "/";
+  if (!stateResult.rowCount) {
+    sendJson(res, 400, { error: "Google sign-in state expired. Try again." });
+    return;
+  }
+  const origin = getPublicOrigin(req);
+  const tokenResponse = await fetchWithTimeout("https://oauth2.googleapis.com/token", {
+    method: "POST",
+    headers: { "content-type": "application/x-www-form-urlencoded" },
+    body: new URLSearchParams({
+      code,
+      client_id: clientId,
+      client_secret: clientSecret,
+      redirect_uri: `${origin}/api/auth/google/callback`,
+      grant_type: "authorization_code"
+    })
+  }, 15000);
+  const tokenJson = await tokenResponse.json();
+  if (!tokenResponse.ok) {
+    sendJson(res, tokenResponse.status, { error: tokenJson.error_description || tokenJson.error || "Google token exchange failed." });
+    return;
+  }
+  const profileResponse = await fetchWithTimeout("https://openidconnect.googleapis.com/v1/userinfo", {
+    headers: { authorization: `Bearer ${tokenJson.access_token}` }
+  }, 15000);
+  const profile = await profileResponse.json();
+  if (!profileResponse.ok || !profile.sub || !profile.email) {
+    sendJson(res, 502, { error: "Could not read Google profile." });
+    return;
+  }
+  const userId = `google:${profile.sub}`;
+  await db.query(
+    `insert into auth_users (id, email, display_name, picture, updated_at)
+     values ($1, $2, $3, $4, now())
+     on conflict (id) do update set
+       email = excluded.email,
+       display_name = excluded.display_name,
+       picture = excluded.picture,
+       updated_at = now()`,
+    [userId, profile.email, profile.name || profile.email.split("@")[0], profile.picture || ""]
+  );
+  const sessionToken = crypto.randomBytes(32).toString("hex");
+  await db.query(
+    `insert into auth_sessions (session_token, user_id, expires_at)
+     values ($1, $2, now() + interval '30 days')`,
+    [sessionToken, userId]
+  );
+  setSessionCookie(req, res, sessionToken);
+  res.writeHead(302, { location: redirectTo.startsWith("/") ? redirectTo : "/" });
+  res.end();
+}
+
+async function handleLogout(req, res) {
+  const db = getDbPool();
+  const token = parseCookies(req).ll_session;
+  if (db && token) {
+    await ensureLedgerSchema();
+    await db.query("delete from auth_sessions where session_token = $1", [token]);
+  }
+  clearSessionCookie(req, res);
+  sendJson(res, 200, { signedIn: false });
 }
 
 const blockedLiveChatTerms = [
@@ -181,6 +366,7 @@ async function handleGlobalChat(req, res, url) {
     return;
   }
   await ensureLedgerSchema();
+  const authUser = await getAuthUser(req);
   if (req.method === "GET") {
     const afterId = Number.parseInt(url.searchParams.get("afterId") || "0", 10);
     const result = await db.query(
@@ -207,7 +393,7 @@ async function handleGlobalChat(req, res, url) {
     sendJson(res, 400, { error: "Message is required." });
     return;
   }
-  const userId = normalizeChatText(payload.userId || "anonymous", 128);
+  const userId = normalizeChatText(authUser?.id || payload.userId || "anonymous", 128);
   const cooldownUntil = await getLiveChatCooldown(db, userId);
   if (cooldownUntil) {
     sendJson(res, 429, { error: "Live chat cooldown active.", cooldownUntil });
@@ -228,7 +414,7 @@ async function handleGlobalChat(req, res, url) {
     });
     return;
   }
-  const author = normalizeChatText(payload.author || "Guest", 64);
+  const author = normalizeChatText(authUser?.displayName || payload.author || "Guest", 64);
   const language = normalizeChatText(payload.language || "site", 32);
   const result = await db.query(
     `insert into global_chat_messages (user_id, author, message, language)
@@ -246,8 +432,13 @@ async function handleDirectMessages(req, res, url) {
     return;
   }
   await ensureLedgerSchema();
+  const authUser = await getAuthUser(req);
+  if (!authUser) {
+    sendJson(res, 401, { error: "Sign in with Google to use DMs." });
+    return;
+  }
   if (req.method === "GET") {
-    const ownName = normalizeChatText(url.searchParams.get("name") || "Guest", 64);
+    const ownName = normalizeChatText(authUser.displayName, 64);
     const result = await db.query(
       `select id, from_user_id as "fromUserId", from_name as "from", to_name as "to", message, status, created_at as "createdAt"
        from direct_messages
@@ -267,8 +458,8 @@ async function handleDirectMessages(req, res, url) {
     sendJson(res, 400, { error: error.message });
     return;
   }
-  const fromUserId = normalizeChatText(payload.fromUserId || payload.userId || "anonymous", 128);
-  const fromName = normalizeChatText(payload.fromName || "Guest", 64);
+  const fromUserId = normalizeChatText(authUser.id, 128);
+  const fromName = normalizeChatText(authUser.displayName, 64);
   const toName = normalizeChatText(payload.toName, 64);
   const message = normalizeChatText(payload.message, 1000);
   if (!toName || !message) {
@@ -301,6 +492,11 @@ async function handleDirectMessageReport(req, res) {
     return;
   }
   await ensureLedgerSchema();
+  const authUser = await getAuthUser(req);
+  if (!authUser) {
+    sendJson(res, 401, { error: "Sign in with Google to report DMs." });
+    return;
+  }
   await db.query(`
     create table if not exists direct_message_reports (
       id bigserial primary key,
@@ -326,8 +522,8 @@ async function handleDirectMessageReport(req, res) {
     sendJson(res, 400, { error: "Choose a valid report reason." });
     return;
   }
-  const reporterUserId = normalizeChatText(payload.reporterUserId || payload.userId || "anonymous", 128);
-  const reporterName = normalizeChatText(payload.reporterName || "Guest", 64);
+  const reporterUserId = normalizeChatText(authUser.id, 128);
+  const reporterName = normalizeChatText(authUser.displayName, 64);
   const reportedUserName = normalizeChatText(payload.reportedUserName, 64);
   const details = normalizeChatText(payload.details || "", 1000);
   const messageId = Number.parseInt(payload.messageId || "0", 10);
@@ -814,6 +1010,22 @@ const server = http.createServer((req, res) => {
   }
   if (url.pathname === "/api/wallet" && req.method === "GET") {
     handleWallet(req, res, url);
+    return;
+  }
+  if (url.pathname === "/api/auth/me" && req.method === "GET") {
+    handleAuthMe(req, res);
+    return;
+  }
+  if (url.pathname === "/api/auth/google/start" && req.method === "GET") {
+    handleGoogleAuthStart(req, res, url);
+    return;
+  }
+  if (url.pathname === "/api/auth/google/callback" && req.method === "GET") {
+    handleGoogleAuthCallback(req, res, url);
+    return;
+  }
+  if (url.pathname === "/api/auth/logout" && req.method === "POST") {
+    handleLogout(req, res);
     return;
   }
   if (url.pathname === "/api/chat/global" && (req.method === "GET" || req.method === "POST")) {

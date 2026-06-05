@@ -2245,7 +2245,13 @@ const appState = {
   settings: JSON.parse(localStorage.getItem('nova_profile_settings') || '{}'),
   activeTheme: localStorage.getItem('nova_active_theme') || 'languages/russian/assets/images/theme_family_1778919168922.png',
   isPlaying: false,
-  currentStorySectionIndex: 0
+  currentStorySectionIndex: 0,
+  auth: {
+    loaded: false,
+    signedIn: false,
+    user: null,
+    guestName: localStorage.getItem("language_guest_name") || ""
+  }
 };
 let mediaRecorder = null;
 let mediaRecordChunks = [];
@@ -2514,7 +2520,10 @@ const els = {
   profileBackBtn: document.querySelector("#profileBackBtn"),
   profileCloseBtn: document.querySelector("#profileCloseBtn"),
   editAvatarBtn: document.querySelector("#editAvatarBtn"),
-  userName: document.querySelector("#userName")
+  userName: document.querySelector("#userName"),
+  authStatusText: document.querySelector("#authStatusText"),
+  googleSignInBtn: document.querySelector("#googleSignInBtn"),
+  googleSignOutBtn: document.querySelector("#googleSignOutBtn")
 };
 
 function parseWords(raw) {
@@ -3085,6 +3094,7 @@ function selectStory() {
 }
 
 function switchView(view) {
+  if (view === "profile" && !requireGoogleAuth("Profiles")) return false;
   appState.activeView = view;
   const isStories = view === "stories";
   const isProfile = view === "profile";
@@ -3122,6 +3132,7 @@ function switchView(view) {
   renderWordList();
   resetSpeech();
   updatePracticeControls();
+  return true;
 }
 
 function renderStats() {
@@ -3904,9 +3915,110 @@ function canUseServerApi() {
   return (location.protocol !== "file:" && !location.hostname.includes("github.io")) || Boolean(getApiBaseUrl());
 }
 
+function getGuestName() {
+  if (appState.auth.guestName) return appState.auth.guestName;
+  const digits = Math.floor(1000 + Math.random() * 9000);
+  appState.auth.guestName = `Guest ${digits}`;
+  localStorage.setItem("language_guest_name", appState.auth.guestName);
+  return appState.auth.guestName;
+}
+
+function getCurrentChatIdentity() {
+  if (appState.auth?.signedIn && appState.auth.user) {
+    return {
+      userId: appState.auth.user.id,
+      name: appState.auth.user.displayName || appState.auth.user.email || "Signed in user"
+    };
+  }
+  return { userId: getLocalUserId(), name: getGuestName() };
+}
+
+function getAuthRedirectTarget() {
+  return `${location.pathname || "/"}${location.search || ""}${location.hash || ""}`;
+}
+
+function updateAuthUi() {
+  const identity = getCurrentChatIdentity();
+  if (els.authStatusText) {
+    els.authStatusText.textContent = appState.auth.signedIn
+      ? `Signed in as ${identity.name}`
+      : `${identity.name} in global chat`;
+  }
+  if (els.googleSignInBtn) els.googleSignInBtn.hidden = appState.auth.signedIn;
+  if (els.googleSignOutBtn) els.googleSignOutBtn.hidden = !appState.auth.signedIn;
+}
+
+async function syncAuthState() {
+  if (!canUseServerApi()) {
+    appState.auth.loaded = true;
+    updateAuthUi();
+    return;
+  }
+  const apiBase = getApiBaseUrl();
+  try {
+    const response = await fetch(`${apiBase}/api/auth/me`, { credentials: "include" });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const result = await response.json();
+    appState.auth.loaded = true;
+    appState.auth.signedIn = Boolean(result.signedIn);
+    appState.auth.user = result.user || null;
+    if (appState.auth.user?.displayName) {
+      appState.profile.displayName = appState.auth.user.displayName.slice(0, 64);
+      if (appState.auth.user.email && !appState.profile.username.includes("@")) {
+        appState.profile.username = appState.auth.user.email.split("@")[0].slice(0, 64);
+      }
+      localStorage.setItem("nova_profile", JSON.stringify(appState.profile));
+      socialDataStore.syncOwnProfileFromApp();
+    }
+  } catch (error) {
+    console.warn("Auth sync failed", error);
+    appState.auth.loaded = true;
+    appState.auth.signedIn = false;
+    appState.auth.user = null;
+  }
+  updateAuthUi();
+  renderProfile();
+}
+
+function startGoogleSignIn() {
+  if (!canUseServerApi()) {
+    alert("Google sign-in needs the deployed Vercel site, not file:// or GitHub Pages.");
+    return;
+  }
+  const apiBase = getApiBaseUrl();
+  const redirect = encodeURIComponent(getAuthRedirectTarget());
+  window.location.href = `${apiBase}/api/auth/google/start?redirect=${redirect}`;
+}
+
+async function signOutGoogle() {
+  if (!canUseServerApi()) return;
+  const apiBase = getApiBaseUrl();
+  try {
+    await fetch(`${apiBase}/api/auth/logout`, { method: "POST", credentials: "include" });
+  } catch (error) {
+    console.warn("Sign out failed", error);
+  }
+  appState.auth.signedIn = false;
+  appState.auth.user = null;
+  updateAuthUi();
+  if (appState.activeView === "profile") switchView("practice");
+}
+
+function requireGoogleAuth(feature = "this area") {
+  if (appState.auth?.signedIn) return true;
+  if (!canUseServerApi()) {
+    alert(`${feature} needs Google sign-in on the deployed Vercel site. Global chat still works as ${getGuestName()}.`);
+    return false;
+  }
+  startGoogleSignIn();
+  return false;
+}
+
 // --- HAMBURGER MENU & MODALS ---
 els.hamburgerBtn.addEventListener("click", () => els.hamburgerMenu.hidden = false);
 els.closeHamburgerBtn.addEventListener("click", () => els.hamburgerMenu.hidden = true);
+els.googleSignInBtn?.addEventListener("click", startGoogleSignIn);
+els.googleSignOutBtn?.addEventListener("click", signOutGoogle);
 
 els.openStoreBtn.addEventListener("click", () => els.storeModal.hidden = false);
 els.closeStoreBtn.addEventListener("click", () => els.storeModal.hidden = true);
@@ -3961,6 +4073,7 @@ els.toggleTwitchBtn.addEventListener("click", () => {
 els.closeTwitchBtn.addEventListener("click", () => els.twitchChat.hidden = true);
 
 els.toggleDMBtn.addEventListener("click", () => {
+  if (!requireGoogleAuth("DMs")) return;
   renderDMInbox();
   els.dmWidget.hidden = !els.dmWidget.hidden;
 });
@@ -4516,7 +4629,7 @@ async function fetchServerGlobalChat() {
   if (!canUseServerApi() || !els.twitchMessages) return false;
   const apiBase = getApiBaseUrl();
   try {
-    const response = await fetch(`${apiBase}/api/chat/global?afterId=${encodeURIComponent(lastGlobalChatId)}`);
+    const response = await fetch(`${apiBase}/api/chat/global?afterId=${encodeURIComponent(lastGlobalChatId)}`, { credentials: "include" });
     const result = await response.json();
     if (!response.ok) {
       appendGlobalChatMessage("System", result.error || "Message blocked.", "site");
@@ -4524,7 +4637,7 @@ async function fetchServerGlobalChat() {
     }
     (result.messages || []).forEach((message) => {
       lastGlobalChatId = Math.max(lastGlobalChatId, Number(message.id) || 0);
-      appendGlobalChatMessage(message.author || "Guest", message.message || "", message.author === appState.profile.displayName ? "user" : "viewer");
+      appendGlobalChatMessage(message.author || "Guest", message.message || "", message.author === getCurrentChatIdentity().name ? "user" : "viewer");
     });
     return true;
   } catch (error) {
@@ -4542,13 +4655,15 @@ function startGlobalChatPolling() {
 async function postServerGlobalChat(text) {
   if (!canUseServerApi()) return false;
   const apiBase = getApiBaseUrl();
+  const identity = getCurrentChatIdentity();
   try {
     const response = await fetch(`${apiBase}/api/chat/global`, {
       method: "POST",
+      credentials: "include",
       headers: { "content-type": "application/json" },
       body: JSON.stringify({
-        userId: getLocalUserId(),
-        author: appState.profile.displayName || appState.profile.username || "Guest",
+        userId: identity.userId,
+        author: identity.name,
         language: appState.targetLanguage,
         message: text
       })
@@ -5575,7 +5690,7 @@ async function fetchServerDMs() {
   const apiBase = getApiBaseUrl();
   try {
     const ownName = socialDataStore.getOwnName();
-    const response = await fetch(`${apiBase}/api/dms?name=${encodeURIComponent(ownName)}`);
+    const response = await fetch(`${apiBase}/api/dms?name=${encodeURIComponent(ownName)}`, { credentials: "include" });
     if (!response.ok) return null;
     const result = await response.json();
     return (result.messages || []).map((message) => ({
@@ -5597,6 +5712,7 @@ async function sendServerDM(toName, message) {
   const apiBase = getApiBaseUrl();
   const response = await fetch(`${apiBase}/api/dms`, {
     method: "POST",
+    credentials: "include",
     headers: { "content-type": "application/json" },
     body: JSON.stringify({
       fromUserId: getLocalUserId(),
@@ -5615,6 +5731,7 @@ async function reportServerDM({ messageId, reportedUserName, reason, details }) 
   const apiBase = getApiBaseUrl();
   const response = await fetch(`${apiBase}/api/dms/report`, {
     method: "POST",
+    credentials: "include",
     headers: { "content-type": "application/json" },
     body: JSON.stringify({
       messageId,
@@ -6354,9 +6471,10 @@ function renderPublicProfileShell(profile) {
 }
 
 function renderPublicProfile(name) {
+  if (!requireGoogleAuth("Profiles")) return;
   const profile = createPublicProfile(name);
   activePublicProfile = profile;
-  switchView("profile");
+  if (!switchView("profile")) return;
   if (els.profileLayout) els.profileLayout.hidden = true;
   if (els.publicProfilePage) {
     els.publicProfilePage.hidden = false;
@@ -6438,6 +6556,7 @@ function closePublicProfileToHome() {
 }
 
 function addFriend(name) {
+  if (!requireGoogleAuth("Friend requests")) return;
   if (!appState.settings?.allowFriendRequests) {
     els.publicProfileStatus.textContent = "Friend requests are currently disabled in your profile settings.";
     return;
@@ -6449,6 +6568,7 @@ function addFriend(name) {
 }
 
 async function sendMessageToPerson(name) {
+  if (!requireGoogleAuth("DMs")) return;
   const pending = socialDataStore.pendingMessagesTo(name) || appState.outboundMessages[name] || 0;
   if (pending >= 3) {
     els.publicProfileStatus.textContent = "Message limit reached. Wait for a reply before sending more.";
@@ -6467,6 +6587,13 @@ async function sendMessageToPerson(name) {
       nextPending = socialDataStore.sendMessage(name, message);
     }
   } catch (error) {
+    if (/sign in|401/i.test(error.message)) {
+      appState.auth.signedIn = false;
+      appState.auth.user = null;
+      updateAuthUi();
+      els.publicProfileStatus.textContent = "Sign in with Google to send DMs.";
+      return;
+    }
     if (error.message.includes("three messages")) {
       els.publicProfileStatus.textContent = error.message;
       return;
@@ -7740,6 +7867,8 @@ appState.profile = normalizeProfile(JSON.parse(localStorage.getItem('nova_profil
 });
 renderProfilePracticeStats();
 socialDataStore.syncOwnProfileFromApp();
+updateAuthUi();
+syncAuthState();
 
 if (els.targetLanguageSelect) els.targetLanguageSelect.value = appState.targetLanguage;
 if (els.appTitle) els.appTitle.textContent = languageDatasets[appState.targetLanguage].title;

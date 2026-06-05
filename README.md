@@ -20,7 +20,8 @@ Static prototype for language-reading practice across Russian, Japanese, Mandari
 - Stories tab with 300+ practice readings across beginner pages, elementary pages, intermediate chapters, and advanced multi-chapter readings.
 - Every story has a right-side image panel. Local generated previews appear immediately, and the `Generate with ChatGPT` button can create and cache OpenAI-generated images when `OPENAI_API_KEY` is set.
 - JSON import for another language's 1000-word dataset.
-- Profile social data uses a local `SocialDataStore` layer. Followers, following, friends, and outbound message limits persist in browser storage now, and the UI is structured so the store can later be swapped for a real auth/database backend.
+- Google sign-in is supported through the Vercel backend. Profiles and DMs require a signed-in Google user, while global chat stays open to signed-out users as `Guest ####`.
+- Direct messages, DM reports, and global chat can persist through Neon/Postgres when `DATABASE_URL` is configured.
 - Story pages now contain collectible treasures. Standard items are available immediately; rare, legendary, and god-tier items unlock after more reading tasks and feed into the 4 x 4 collection grid.
 - The store UI is wired for real Stripe card checkout, Coinbase Commerce crypto checkout, and backend-provided AdSense configuration. It no longer grants fake purchase coins from the client.
 - The bottom music player loads language-specific tracks from `music-manifest.js`. The first five tracks per language are free; later tracks are coin unlocks.
@@ -117,6 +118,8 @@ Backend environment variables:
 ```powershell
 $env:PUBLIC_APP_URL = "https://languages-liard.vercel.app"
 $env:DATABASE_URL = "postgres://..."
+$env:GOOGLE_CLIENT_ID = "google_oauth_client_id"
+$env:GOOGLE_CLIENT_SECRET = "google_oauth_client_secret"
 $env:STRIPE_SECRET_KEY = "sk_live_or_test_key"
 $env:STRIPE_WEBHOOK_SECRET = "whsec_..."
 $env:COINBASE_COMMERCE_API_KEY = "coinbase_commerce_key"
@@ -128,6 +131,13 @@ $env:GOOGLE_ADSENSE_PUBLISHER_ID = "pub-0000000000000000"
 
 Available Vercel endpoints:
 
+- `GET /api/auth/me` returns the signed-in Google profile, or `{ signedIn: false }`.
+- `GET /api/auth/google/start` starts Google OAuth.
+- `GET /api/auth/google/callback` is the Google OAuth redirect URI.
+- `POST /api/auth/logout` clears the server session cookie.
+- `GET/POST /api/chat/global` reads and writes server-backed global chat. Signed-out users post as guests.
+- `GET/POST /api/dms` reads and writes server-backed DMs. Google sign-in is required.
+- `POST /api/dms/report` stores a DM report. Google sign-in is required.
 - `POST /api/payments/stripe-checkout` starts a Stripe Checkout Session for a coin package.
 - `POST /api/payments/coinbase-charge` starts a Coinbase Commerce hosted crypto charge.
 - `POST /api/webhooks/stripe` verifies Stripe webhook signatures.
@@ -141,6 +151,12 @@ Webhook URLs to paste into providers:
 ```text
 https://languages-liard.vercel.app/api/webhooks/stripe
 https://languages-liard.vercel.app/api/webhooks/coinbase
+```
+
+Google OAuth redirect URI to paste into Google Cloud:
+
+```text
+https://languages-liard.vercel.app/api/auth/google/callback
 ```
 
 The checkout endpoints intentionally require `DATABASE_URL` before opening real checkout. That prevents a user from paying before the backend has a durable coin ledger. The webhook files verify signatures, create the `user_wallets` and `purchase_events` tables if needed, and credit coins idempotently after confirmed provider events.
