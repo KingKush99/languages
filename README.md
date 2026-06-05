@@ -23,7 +23,7 @@ Static prototype for language-reading practice across Russian, Japanese, Mandari
 - Google sign-in is supported through the Vercel backend. Profiles and DMs require a signed-in Google user, while global chat stays open to signed-out users as `Guest ####`.
 - Direct messages, DM reports, and global chat can persist through Neon/Postgres when `DATABASE_URL` is configured.
 - Story pages now contain collectible treasures. Standard items are available immediately; rare, legendary, and god-tier items unlock after more reading tasks and feed into the 4 x 4 collection grid.
-- The store UI is wired for real Stripe card checkout, Coinbase Commerce crypto checkout, and backend-provided AdSense configuration. It no longer grants fake purchase coins from the client.
+- The store UI is wired for real Stripe card checkout, NOWPayments crypto checkout, and backend-provided AdSense configuration. It no longer grants fake purchase coins from the client.
 - The bottom music player loads language-specific tracks from `music-manifest.js`. The first five tracks per language are free; later tracks are coin unlocks.
 
 ## Run
@@ -99,7 +99,7 @@ With that setting, a manifest path like `Japanese/Music/Artists/Album/cover.png`
 
 Real payments and rewarded ads require `server.js` or another backend. Do not put secret keys in `index.html`, `script.js`, GitHub Pages, or browser storage.
 
-This follows the same split as a plain Express deployment: GitHub Pages can host the static app, while Vercel runs the `/api` functions for Stripe, Coinbase Commerce, AdSense config, webhook verification, and the coin ledger.
+This follows the same split as a plain Express deployment: GitHub Pages can host the static app, while Vercel runs the `/api` functions for Stripe, NOWPayments crypto checkout, AdSense config, webhook verification, and the coin ledger.
 
 For a GitHub Pages frontend with a separate backend, set the public backend URL in the browser:
 
@@ -122,8 +122,8 @@ $env:GOOGLE_CLIENT_ID = "google_oauth_client_id"
 $env:GOOGLE_CLIENT_SECRET = "google_oauth_client_secret"
 $env:STRIPE_SECRET_KEY = "sk_live_or_test_key"
 $env:STRIPE_WEBHOOK_SECRET = "whsec_..."
-$env:COINBASE_COMMERCE_API_KEY = "coinbase_commerce_key"
-$env:COINBASE_WEBHOOK_SECRET = "coinbase_webhook_secret"
+$env:NOWPAYMENTS_API_KEY = "nowpayments_api_key"
+$env:NOWPAYMENTS_IPN_SECRET = "nowpayments_ipn_secret"
 $env:GOOGLE_ADSENSE_CLIENT = "ca-pub-0000000000000000"
 $env:GOOGLE_ADSENSE_REWARDED_SLOT = "0000000000"
 $env:GOOGLE_ADSENSE_PUBLISHER_ID = "pub-0000000000000000"
@@ -139,9 +139,9 @@ Available Vercel endpoints:
 - `GET/POST /api/dms` reads and writes server-backed DMs. Google sign-in is required.
 - `POST /api/dms/report` stores a DM report. Google sign-in is required.
 - `POST /api/payments/stripe-checkout` starts a Stripe Checkout Session for a coin package.
-- `POST /api/payments/coinbase-charge` starts a Coinbase Commerce hosted crypto charge.
+- `POST /api/payments/nowpayments-invoice` starts a NOWPayments hosted crypto invoice.
 - `POST /api/webhooks/stripe` verifies Stripe webhook signatures.
-- `POST /api/webhooks/coinbase` verifies Coinbase webhook signatures.
+- `POST /api/webhooks/nowpayments` verifies NOWPayments webhook signatures.
 - `GET /api/wallet?userId=...` returns the database coin balance for a user.
 - `GET /api/ads/config` exposes only public ad configuration.
 - `GET /ads.txt` emits the Google AdSense publisher line when `GOOGLE_ADSENSE_PUBLISHER_ID` is set on Vercel.
@@ -150,7 +150,7 @@ Webhook URLs to paste into providers:
 
 ```text
 https://languages-liard.vercel.app/api/webhooks/stripe
-https://languages-liard.vercel.app/api/webhooks/coinbase
+https://languages-liard.vercel.app/api/webhooks/nowpayments
 ```
 
 Google OAuth redirect URI to paste into Google Cloud:

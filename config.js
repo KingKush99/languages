@@ -1,4 +1,4 @@
-window.LANGUAGE_API_BASE = window.LANGUAGE_API_BASE || "";
+window.LANGUAGE_API_BASE = window.LANGUAGE_API_BASE || "https://languages-liard.vercel.app";
 window.LANGUAGE_MEDIA_BASE = window.LANGUAGE_MEDIA_BASE || "";
 
 if (

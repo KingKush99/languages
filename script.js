@@ -2614,6 +2614,7 @@ function switchTargetLanguage(language) {
   renderStory();
   renderWordList();
   renderThemes();
+  applyLanguageTheme(appState.targetLanguage);
   renderAchievements();
   activeSongIndex = 0;
   renderSpotifyPlaylist();
@@ -3628,6 +3629,7 @@ els.profileSettingsModal?.addEventListener("click", (event) => {
 });
 els.characterGuideToggle?.addEventListener("change", () => {
   appState.settings.characterGuide = els.characterGuideToggle.checked;
+  appState.settings.characterGuideStep = 0;
   saveProfileSettings();
   updateCharacterGuide();
 });
@@ -4015,8 +4017,11 @@ function requireGoogleAuth(feature = "this area") {
 }
 
 // --- HAMBURGER MENU & MODALS ---
-els.hamburgerBtn.addEventListener("click", () => els.hamburgerMenu.hidden = false);
-els.closeHamburgerBtn.addEventListener("click", () => els.hamburgerMenu.hidden = true);
+els.hamburgerBtn.addEventListener("click", (event) => {
+  event.stopPropagation();
+  els.hamburgerMenu.hidden = !els.hamburgerMenu.hidden;
+});
+els.closeHamburgerBtn?.addEventListener("click", () => els.hamburgerMenu.hidden = true);
 els.googleSignInBtn?.addEventListener("click", startGoogleSignIn);
 els.googleSignOutBtn?.addEventListener("click", signOutGoogle);
 
@@ -4082,6 +4087,9 @@ els.closeDMBtn.addEventListener("click", () => els.dmWidget.hidden = true);
 // Add global window click to close modals if clicking outside content
 window.addEventListener("click", (e) => {
   if (e.target === els.storeModal) els.storeModal.hidden = true;
+  if (!els.hamburgerMenu.hidden && !e.target.closest("#hamburgerMenu") && !e.target.closest("#hamburgerBtn")) {
+    els.hamburgerMenu.hidden = true;
+  }
 });
 
 // Profile Logic
@@ -4117,7 +4125,7 @@ async function startRealCheckout(provider, pkg) {
     return;
   }
   const userId = getLocalUserId();
-  const endpoint = provider === "crypto" ? "/api/payments/coinbase-charge" : "/api/payments/stripe-checkout";
+  const endpoint = provider === "crypto" ? "/api/payments/nowpayments-invoice" : "/api/payments/stripe-checkout";
   const response = await fetch(`${apiBase}${endpoint}`, {
     method: "POST",
     headers: { "content-type": "application/json" },
@@ -4213,7 +4221,7 @@ els.watchAdBtn.addEventListener("click", async (event) => {
   try {
     const config = await loadRewardedAdConfig();
     if (!config) {
-      alert("Real rewarded ads are not configured yet. Set GOOGLE_ADSENSE_CLIENT, GOOGLE_ADSENSE_REWARDED_SLOT, and GOOGLE_ADSENSE_PUBLISHER_ID on the backend.");
+      alert("Real rewarded ads are not configured yet on the Vercel backend. Add GOOGLE_ADSENSE_CLIENT, GOOGLE_ADSENSE_REWARDED_SLOT, and GOOGLE_ADSENSE_PUBLISHER_ID in Vercel, then redeploy.");
       return;
     }
     alert("AdSense is configured. Reward credit should be granted only after a verified ad completion callback.");
@@ -4241,11 +4249,34 @@ const japaneseThemes = {
   jp2: { price: 3200, name: "Festival Gold", bg: "linear-gradient(135deg, #7f1d1d, #f97316 48%, #fde68a)" },
   jp1: { price: 6400, name: "Neon Crossing", bg: "linear-gradient(135deg, #020617, #7c3aed 46%, #22d3ee)" }
 };
+const languageThemeCatalog = {
+  russian: {
+    ru10: { price: 0, name: "Russian Reading Room", bg: "url('languages/russian/assets/images/theme_family_1778919168922.png')" },
+    ru9: { price: 0, name: "City Evening", bg: "url('languages/russian/assets/images/theme_city_1778919252164.png')" },
+    ru8: { price: 0, name: "History Desk", bg: "url('languages/russian/assets/images/theme_history_1778919304589.png')" }
+  },
+  japanese: japaneseThemes,
+  mandarin: {
+    zh10: { price: 0, name: "Mandarin Lantern Study", bg: "linear-gradient(135deg, #7f1d1d, #dc2626 42%, #fbbf24 100%)" }
+  },
+  arabic: {
+    ar10: { price: 0, name: "Arabic Courtyard", bg: "linear-gradient(135deg, #064e3b, #0f766e 42%, #f59e0b 100%)" }
+  },
+  hindi: {
+    hi10: { price: 0, name: "Hindi Festival Page", bg: "linear-gradient(135deg, #7c2d12, #f97316 42%, #16a34a 100%)" }
+  }
+};
+const languageDefaultThemes = {
+  russian: "ru10",
+  japanese: "jp10",
+  mandarin: "zh10",
+  arabic: "ar10",
+  hindi: "hi10"
+};
 
 function renderThemes() {
-  const entries = appState.targetLanguage === "japanese"
-    ? Object.entries(japaneseThemes)
-    : Object.keys(themePrices).sort((a,b) => b-a).map((id) => [id, { price: themePrices[id], name: `Theme ${id}` }]);
+  const languageThemes = languageThemeCatalog[appState.targetLanguage] || languageThemeCatalog.russian;
+  const entries = Object.entries(languageThemes);
   els.themeSelect.replaceChildren(...entries.map(([id, config]) => {
     const opt = document.createElement("option");
     opt.value = id;
@@ -4255,7 +4286,7 @@ function renderThemes() {
   
   els.themeSelect.onchange = (e) => {
     const id = e.target.value;
-    const price = japaneseThemes[id]?.price ?? themePrices[id];
+    const price = languageThemeCatalog[appState.targetLanguage]?.[id]?.price ?? 0;
     
     if (price > 0 && !appState.unlockedThemes.includes(id)) {
       if (appState.coins >= price) {
@@ -4276,16 +4307,19 @@ function renderThemes() {
 }
 
 function applyTheme(id) {
-  if (japaneseThemes[id]) {
-    appState.activeTheme = japaneseThemes[id].bg;
+  const config = Object.values(languageThemeCatalog).reduce((match, themes) => match || themes[id], null);
+  if (config) {
+    appState.activeTheme = config.bg;
     localStorage.setItem('nova_active_theme', appState.activeTheme);
-    document.documentElement.style.setProperty('--app-bg', japaneseThemes[id].bg);
+    document.documentElement.style.setProperty('--app-bg', config.bg);
     return;
   }
-  const url = `languages/japanese/assets/themes/${id}.png`;
-  appState.activeTheme = url;
-  localStorage.setItem('nova_active_theme', url);
-  document.documentElement.style.setProperty('--app-bg', `url('${url}')`);
+}
+
+function applyLanguageTheme(language = appState.targetLanguage) {
+  const defaultTheme = languageDefaultThemes[language] || languageDefaultThemes.russian;
+  applyTheme(defaultTheme);
+  if (els.themeSelect) els.themeSelect.value = defaultTheme;
 }
 
 // --- ACHIEVEMENTS ---
@@ -7882,6 +7916,7 @@ initEconomy();
 syncRealWallet();
 renderStore();
 renderThemes();
+applyLanguageTheme(appState.targetLanguage);
 renderSpotifyPlaylist();
 updatePlayerUI();
 setupChatLanguages();
@@ -7941,6 +7976,14 @@ document.getElementById("ctxSendMessage")?.addEventListener("click", () => {
 const clippyGuide = document.getElementById("clippyGuide");
 const clippyAvatar = document.getElementById("clippyAvatar");
 const clippyMessage = document.getElementById("clippyMessage");
+const characterGuideSteps = [
+  "Step 1 of 6: Choose a language at the top to switch the words, stories, voice, and background.",
+  "Step 2 of 6: Practice reads one paragraph at a time. Play audio, record yourself, then use the score to improve.",
+  "Step 3 of 6: Stories are longer reading pages. Use Back and Next, listen out loud, and collect hidden items.",
+  "Step 4 of 6: Hover or focus a learned word to see the English meaning. Your vocabulary list fills as you read.",
+  "Step 5 of 6: Profile and DMs use Google sign-in. Global chat still works as a guest if you are not signed in.",
+  "Step 6 of 6: Coins unlock songs, themes, and collection items. Real ads and purchases require the Vercel backend settings."
+];
 
 function updateClippy() {
   if (!clippyGuide) return;
@@ -7953,7 +7996,10 @@ function updateClippy() {
   clippyAvatar.innerHTML = `<span style="font-size: 3rem; line-height: 70px;">${appState.profile.customization.mascot || "🦊"}</span>`;
   
   renderMascotAvatar(clippyAvatar, appState.profile.customization.mascot || "LL");
-  if (appState.activeView === "practice") {
+  const step = Number(appState.settings?.characterGuideStep || 0);
+  if (step >= 0 && step < characterGuideSteps.length) {
+    clippyMessage.textContent = characterGuideSteps[step];
+  } else if (appState.activeView === "practice") {
     clippyMessage.textContent = `Hover over words to translate them! Practice makes perfect in ${targetLang}!`;
   } else if (appState.activeView === "stories") {
     clippyMessage.textContent = `Read stories to immerse yourself in ${targetLang}.`;
@@ -7968,11 +8014,20 @@ function updateCharacterGuide() {
   updateClippy();
 }
 
+clippyAvatar?.addEventListener("click", () => {
+  appState.settings.characterGuide = true;
+  appState.settings.characterGuideStep = (Number(appState.settings.characterGuideStep || 0) + 1) % characterGuideSteps.length;
+  if (els.characterGuideToggle) els.characterGuideToggle.checked = true;
+  saveProfileSettings();
+  updateClippy();
+});
+
 // Intercept switchView to update Clippy
 const originalSwitchView = switchView;
 switchView = function(viewId) {
-  originalSwitchView(viewId);
+  const switched = originalSwitchView(viewId);
   updateClippy();
+  return switched;
 };
 
 // Initialize clippy periodically if mascot changes

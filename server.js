@@ -24,6 +24,23 @@ function sendJson(res, status, payload) {
   res.end(JSON.stringify(payload));
 }
 
+function applyCors(req, res) {
+  const origin = req.headers.origin || "";
+  const allowed = [
+    "https://kingkush99.github.io",
+    "https://languages-liard.vercel.app",
+    "http://127.0.0.1:9876",
+    "http://localhost:9876"
+  ];
+  if (allowed.includes(origin)) {
+    res.setHeader("Access-Control-Allow-Origin", origin);
+    res.setHeader("Access-Control-Allow-Credentials", "true");
+    res.setHeader("Vary", "Origin");
+  }
+  res.setHeader("Access-Control-Allow-Methods", "GET,POST,OPTIONS");
+  res.setHeader("Access-Control-Allow-Headers", "Content-Type, Stripe-Signature, X-NOWPayments-Sig");
+}
+
 async function fetchWithTimeout(url, options = {}, timeoutMs = 15000) {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), timeoutMs);
@@ -991,6 +1008,12 @@ async function handleNowPaymentsWebhook(req, res) {
 }
 
 const server = http.createServer((req, res) => {
+  applyCors(req, res);
+  if (req.method === "OPTIONS") {
+    res.writeHead(204);
+    res.end();
+    return;
+  }
   const url = new URL(req.url, `http://${host}:${port}`);
   if (url.pathname === "/api/story-image" && req.method === "POST") {
     handleStoryImage(req, res);

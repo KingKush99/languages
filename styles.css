@@ -1351,24 +1351,40 @@ select, input, textarea {
   cursor: pointer;
 }
 .chat-globe {
-  order: 2;
+  order: 3;
   margin-left: auto;
-  font-size: 1.1rem;
+  width: 42px;
+  height: 36px;
+  display: grid;
+  place-items: center;
+  font-size: 1.25rem;
+  pointer-events: none;
+  position: relative;
+  z-index: 2;
 }
 .chat-lang-dropdown {
-  order: 3;
-  background: rgba(255,255,255,0.2);
-  color: white;
-  border: 1px solid rgba(255,255,255,0.3);
-  padding: 4px 8px;
+  order: 2;
+  margin-left: auto;
+  margin-right: -42px;
+  width: 42px;
+  min-width: 42px;
+  height: 36px;
+  background: rgba(2, 6, 23, 0.72);
+  color: transparent;
+  border: 2px solid rgba(255,255,255,0.7);
+  padding: 0;
   border-radius: 999px;
   min-height: 30px;
   font-size: 0.85rem;
   max-height: 200px;
   overflow-y: auto;
-  width: 118px;
+  cursor: pointer;
+  appearance: none;
 }
-.chat-lang-dropdown option { color: black; }
+.chat-lang-dropdown option {
+  color: #fff;
+  background: #020617;
+}
 
 .chat-messages {
   flex: 1;
@@ -5141,6 +5157,9 @@ select, input, textarea {
   bottom: 102px !important;
   padding: 18px !important;
   justify-content: space-between !important;
+  background: linear-gradient(160deg, rgba(15, 23, 42, 0.98), rgba(88, 28, 135, 0.94)) !important;
+  border: 3px solid rgba(255, 255, 255, 0.18) !important;
+  box-shadow: 0 22px 0 rgba(15, 23, 42, 0.42), 0 24px 50px rgba(15, 23, 42, 0.5) !important;
 }
 
 .slots-header {
@@ -5153,19 +5172,100 @@ select, input, textarea {
   flex: 1 1 auto !important;
   min-height: 150px !important;
   align-items: center !important;
+  justify-content: center !important;
+  gap: 18px !important;
+}
+
+.slots-display {
+  background: linear-gradient(180deg, #f8fafc, #cbd5e1) !important;
+  border: 4px solid #020617 !important;
+  border-radius: 18px !important;
+  box-shadow: inset 0 6px 18px rgba(15, 23, 42, 0.3), 0 8px 0 rgba(0, 0, 0, 0.42) !important;
+  overflow: hidden !important;
+}
+
+.slot-reel {
+  min-width: 58px !important;
+  height: 88px !important;
+  display: grid !important;
+  place-items: center !important;
+  background: linear-gradient(180deg, #ffffff, #e2e8f0) !important;
+  border-radius: 0 !important;
+  font-size: 2rem !important;
+}
+
+.reel-divider {
+  align-self: stretch !important;
+  width: 4px !important;
+  background: #000 !important;
+  border-radius: 0 !important;
+  opacity: 1 !important;
+}
+
+.slot-lever {
+  width: 44px !important;
+  height: 112px !important;
+  position: relative !important;
+  transform-style: preserve-3d !important;
+  filter: drop-shadow(0 10px 8px rgba(0,0,0,0.35));
+}
+
+.slot-lever .lever-stick {
+  width: 14px !important;
+  height: 80px !important;
+  margin: 24px auto 0 !important;
+  background: linear-gradient(90deg, #475569, #f8fafc 48%, #1e293b) !important;
+  border: 2px solid #020617 !important;
+  border-radius: 999px !important;
+  box-shadow: inset -4px 0 8px rgba(0,0,0,0.38) !important;
+}
+
+.slot-lever .lever-knob {
+  width: 42px !important;
+  height: 42px !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+  background: radial-gradient(circle at 32% 28%, #fecaca, #ef4444 45%, #7f1d1d 100%) !important;
+  border: 3px solid #fff !important;
+  box-shadow: inset -6px -6px 10px rgba(0,0,0,0.3), 0 8px 0 rgba(127, 29, 29, 0.75) !important;
+}
+
+.slot-lever.pulled .lever-knob {
+  transform: translate(-50%, 34px) !important;
+}
+
+.slots-controls {
+  display: grid !important;
+  place-items: center !important;
+}
+
+.spin-btn-3d {
+  width: 104px !important;
+  height: 104px !important;
+  min-width: 104px !important;
+  border-radius: 50% !important;
+  background: radial-gradient(circle at 32% 25%, #fecaca, #ef4444 48%, #991b1b 100%) !important;
+  border: 5px solid #fff !important;
+  color: #fff !important;
+  font-size: 1rem !important;
+  letter-spacing: 0 !important;
+  box-shadow: inset -9px -9px 16px rgba(0,0,0,0.32), 0 10px 0 #7f1d1d, 0 18px 28px rgba(0,0,0,0.38) !important;
 }
 
 .slots-footer-controls {
   margin-top: auto !important;
   display: grid !important;
   grid-template-columns: 1fr 1fr !important;
-  align-items: end !important;
+  align-items: center !important;
   gap: 14px !important;
 }
 
 .slot-dropup-container {
   width: 100% !important;
-  align-items: stretch !important;
+  display: grid !important;
+  grid-template-columns: auto 1fr !important;
+  align-items: center !important;
+  gap: 8px !important;
 }
 
 .slot-dropup-container:first-child {
@@ -5177,13 +5277,13 @@ select, input, textarea {
 }
 
 .slot-dropup-container label {
-  color: #0f172a !important;
-  text-align: left !important;
-  display: block !important;
+  color: #fef08a !important;
+  text-align: right !important;
+  display: inline-block !important;
   margin-bottom: 4px !important;
   font-size: 0.78rem !important;
   font-weight: 950 !important;
-  text-shadow: none !important;
+  text-shadow: 0 2px 0 rgba(0,0,0,0.4) !important;
 }
 
 .slot-dropup {
@@ -5193,6 +5293,7 @@ select, input, textarea {
   background-color: #020617 !important;
   color: #ffffff !important;
   font-weight: 900 !important;
+  text-align: center !important;
 }
 
 .music-dock {
