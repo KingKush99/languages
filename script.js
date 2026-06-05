@@ -3880,7 +3880,7 @@ function initEconomy() {
 }
 
 async function syncRealWallet() {
-  const apiBase = (window.LANGUAGE_API_BASE || localStorage.getItem("language_api_base") || "").replace(/\/$/, "");
+  const apiBase = getApiBaseUrl();
   if (location.protocol === "file:" && !apiBase) return;
   try {
     const userId = getLocalUserId();
@@ -3894,6 +3894,14 @@ async function syncRealWallet() {
   } catch (error) {
     console.warn("Wallet sync failed", error);
   }
+}
+
+function getApiBaseUrl() {
+  return (window.LANGUAGE_API_BASE || localStorage.getItem("language_api_base") || "").replace(/\/$/, "");
+}
+
+function canUseServerApi() {
+  return (location.protocol !== "file:" && !location.hostname.includes("github.io")) || Boolean(getApiBaseUrl());
 }
 
 // --- HAMBURGER MENU & MODALS ---
@@ -3990,7 +3998,7 @@ basePrices.forEach((price, index) => {
 });
 
 async function startRealCheckout(provider, pkg) {
-  const apiBase = (window.LANGUAGE_API_BASE || localStorage.getItem("language_api_base") || "").replace(/\/$/, "");
+  const apiBase = getApiBaseUrl();
   if ((location.protocol === "file:" || location.hostname.includes("github.io")) && !apiBase) {
     alert("Real checkout needs a deployed backend URL. Set window.LANGUAGE_API_BASE or localStorage.language_api_base to your payment server.");
     return;
@@ -4076,7 +4084,7 @@ function renderStore() {
 }
 
 async function loadRewardedAdConfig() {
-  const apiBase = (window.LANGUAGE_API_BASE || localStorage.getItem("language_api_base") || "").replace(/\/$/, "");
+  const apiBase = getApiBaseUrl();
   if ((location.protocol === "file:" || location.hostname.includes("github.io")) && !apiBase) return null;
   const response = await fetch(`${apiBase}/api/ads/config`);
   if (!response.ok) return null;
@@ -4499,6 +4507,59 @@ const twitchSimulatedChat = [
 ];
 let twitchSimulatedIndex = 0;
 let twitchSimulatedTimer = null;
+let globalChatPollTimer = null;
+let lastGlobalChatId = 0;
+
+async function fetchServerGlobalChat() {
+  if (!canUseServerApi() || !els.twitchMessages) return false;
+  const apiBase = getApiBaseUrl();
+  try {
+    const response = await fetch(`${apiBase}/api/chat/global?afterId=${encodeURIComponent(lastGlobalChatId)}`);
+    if (!response.ok) return false;
+    const result = await response.json();
+    (result.messages || []).forEach((message) => {
+      lastGlobalChatId = Math.max(lastGlobalChatId, Number(message.id) || 0);
+      appendGlobalChatMessage(message.author || "Guest", message.message || "", message.author === appState.profile.displayName ? "user" : "viewer");
+    });
+    return true;
+  } catch (error) {
+    console.warn("Global chat sync failed", error);
+    return false;
+  }
+}
+
+function startGlobalChatPolling() {
+  if (globalChatPollTimer || !canUseServerApi()) return;
+  fetchServerGlobalChat();
+  globalChatPollTimer = setInterval(fetchServerGlobalChat, 3500);
+}
+
+async function postServerGlobalChat(text) {
+  if (!canUseServerApi()) return false;
+  const apiBase = getApiBaseUrl();
+  try {
+    const response = await fetch(`${apiBase}/api/chat/global`, {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({
+        userId: getLocalUserId(),
+        author: appState.profile.displayName || appState.profile.username || "Guest",
+        language: appState.targetLanguage,
+        message: text
+      })
+    });
+    if (!response.ok) return false;
+    const result = await response.json();
+    if (result.message) {
+      lastGlobalChatId = Math.max(lastGlobalChatId, Number(result.message.id) || 0);
+      appendGlobalChatMessage(result.message.author || "You", result.message.message || text, "user");
+    }
+    return true;
+  } catch (error) {
+    console.warn("Global chat send failed", error);
+    return false;
+  }
+}
 
 function startTwitchSimulation() {
   if (twitchSimulatedTimer) return;
@@ -4513,18 +4574,26 @@ function startTwitchSimulation() {
 function renderGlobalChatKnowledge() {
   if (!els.twitchMessages || els.twitchMessages.dataset.ready === "true") return;
   els.twitchMessages.dataset.ready = "true";
+  if (canUseServerApi()) {
+    appendGlobalChatMessage("Site Guide", "Live chat is connected to the server. Messages here are shared through the Vercel/Neon backend.");
+    startGlobalChatPolling();
+    return;
+  }
   appendGlobalChatMessage("Site Guide", "Ask me about stories, practice, audio, profiles, DMs, coins, music, slots, settings, languages, or purchases.");
   appendGlobalChatMessage("Site Guide", offlineChatReply("language"));
   twitchSimulatedChat.slice(0, 4).forEach(([author, text]) => appendGlobalChatMessage(author, text, "viewer"));
   startTwitchSimulation();
 }
 
-function sendGlobalChatMessage() {
+async function sendGlobalChatMessage() {
   const text = els.globalChatInput?.value?.trim();
   if (!text) return;
   els.globalChatInput.value = "";
-  appendGlobalChatMessage("You", text, "user");
-  appendGlobalChatMessage("Site Guide", offlineChatReply(text), "site");
+  const sent = await postServerGlobalChat(text);
+  if (!sent) {
+    appendGlobalChatMessage("You", text, "user");
+    appendGlobalChatMessage("Site Guide", offlineChatReply(text), "site");
+  }
 }
 
 els.chatLanguageSelect?.addEventListener("change", updateChatIntro);
@@ -5464,11 +5533,52 @@ function makeDMRow({ title, preview, meta, actionLabel, actionId, person }) {
   return row;
 }
 
-function renderDMInbox() {
+async function fetchServerDMs() {
+  if (!canUseServerApi()) return null;
+  const apiBase = getApiBaseUrl();
+  try {
+    const ownName = socialDataStore.getOwnName();
+    const response = await fetch(`${apiBase}/api/dms?name=${encodeURIComponent(ownName)}`);
+    if (!response.ok) return null;
+    const result = await response.json();
+    return (result.messages || []).map((message) => ({
+      id: message.id,
+      from: message.from,
+      to: message.to,
+      text: message.message,
+      status: message.status || "pending",
+      createdAt: message.createdAt
+    }));
+  } catch (error) {
+    console.warn("DM sync failed", error);
+    return null;
+  }
+}
+
+async function sendServerDM(toName, message) {
+  if (!canUseServerApi()) return null;
+  const apiBase = getApiBaseUrl();
+  const response = await fetch(`${apiBase}/api/dms`, {
+    method: "POST",
+    headers: { "content-type": "application/json" },
+    body: JSON.stringify({
+      fromUserId: getLocalUserId(),
+      fromName: socialDataStore.getOwnName(),
+      toName,
+      message
+    })
+  });
+  const result = await response.json();
+  if (!response.ok) throw new Error(result.error || "Message could not be sent.");
+  return result.message;
+}
+
+async function renderDMInbox() {
   if (!els.dmList) return;
   const ownName = socialDataStore.getOwnName();
   const requests = socialDataStore.readFriendRequests();
-  const messages = socialDataStore.readMessages();
+  const serverMessages = await fetchServerDMs();
+  const messages = serverMessages || socialDataStore.readMessages();
   const groups = socialDataStore.readGroupChats();
   const pendingRequests = requests
     .filter((request) => request.status === "pending")
@@ -6245,7 +6355,7 @@ function addFriend(name) {
   els.publicProfileStatus.textContent = `Friend request sent to ${name}. They need to accept it before they are added.`;
 }
 
-function sendMessageToPerson(name) {
+async function sendMessageToPerson(name) {
   const pending = socialDataStore.pendingMessagesTo(name) || appState.outboundMessages[name] || 0;
   if (pending >= 3) {
     els.publicProfileStatus.textContent = "Message limit reached. Wait for a reply before sending more.";
@@ -6257,7 +6367,19 @@ function sendMessageToPerson(name) {
     els.publicProfileStatus.textContent = "Message blocked by your safety filter.";
     return;
   }
-  const nextPending = socialDataStore.sendMessage(name, message);
+  let nextPending = pending + 1;
+  try {
+    const sent = await sendServerDM(name, message);
+    if (!sent) {
+      nextPending = socialDataStore.sendMessage(name, message);
+    }
+  } catch (error) {
+    if (error.message.includes("three messages")) {
+      els.publicProfileStatus.textContent = error.message;
+      return;
+    }
+    nextPending = socialDataStore.sendMessage(name, message);
+  }
   appState.outboundMessages[name] = nextPending;
   localStorage.setItem("nova_outbound_messages", JSON.stringify(appState.outboundMessages));
   renderDMInbox();

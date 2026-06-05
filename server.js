@@ -83,6 +83,23 @@ async function ensureLedgerSchema() {
       created_at timestamptz not null default now(),
       primary key (provider, provider_event_id)
     );
+    create table if not exists global_chat_messages (
+      id bigserial primary key,
+      user_id text not null,
+      author text not null,
+      message text not null,
+      language text not null default 'site',
+      created_at timestamptz not null default now()
+    );
+    create table if not exists direct_messages (
+      id bigserial primary key,
+      from_user_id text not null,
+      from_name text not null,
+      to_name text not null,
+      message text not null,
+      status text not null default 'pending',
+      created_at timestamptz not null default now()
+    );
   `);
 }
 
@@ -99,6 +116,110 @@ async function getWallet(userId) {
   );
   const existing = await db.query("select user_id, coins from user_wallets where user_id = $1", [safeUserId]);
   return existing.rows[0] || { user_id: safeUserId, coins: 0 };
+}
+
+function normalizeChatText(value, maxLength = 500) {
+  return String(value || "").replace(/\s+/g, " ").trim().slice(0, maxLength);
+}
+
+async function handleGlobalChat(req, res, url) {
+  const db = getDbPool();
+  if (!db) {
+    sendJson(res, 503, { error: "DATABASE_URL is not configured." });
+    return;
+  }
+  await ensureLedgerSchema();
+  if (req.method === "GET") {
+    const afterId = Number.parseInt(url.searchParams.get("afterId") || "0", 10);
+    const result = await db.query(
+      `select id, user_id as "userId", author, message, language, created_at as "createdAt"
+       from global_chat_messages
+       where id > $1
+       order by id asc
+       limit 80`,
+      [Number.isFinite(afterId) ? afterId : 0]
+    );
+    sendJson(res, 200, { messages: result.rows });
+    return;
+  }
+
+  let payload;
+  try {
+    payload = await readJsonBody(req);
+  } catch (error) {
+    sendJson(res, 400, { error: error.message });
+    return;
+  }
+  const message = normalizeChatText(payload.message);
+  if (!message) {
+    sendJson(res, 400, { error: "Message is required." });
+    return;
+  }
+  const userId = normalizeChatText(payload.userId || "anonymous", 128);
+  const author = normalizeChatText(payload.author || "Guest", 64);
+  const language = normalizeChatText(payload.language || "site", 32);
+  const result = await db.query(
+    `insert into global_chat_messages (user_id, author, message, language)
+     values ($1, $2, $3, $4)
+     returning id, user_id as "userId", author, message, language, created_at as "createdAt"`,
+    [userId, author, message, language]
+  );
+  sendJson(res, 200, { message: result.rows[0] });
+}
+
+async function handleDirectMessages(req, res, url) {
+  const db = getDbPool();
+  if (!db) {
+    sendJson(res, 503, { error: "DATABASE_URL is not configured." });
+    return;
+  }
+  await ensureLedgerSchema();
+  if (req.method === "GET") {
+    const ownName = normalizeChatText(url.searchParams.get("name") || "Guest", 64);
+    const result = await db.query(
+      `select id, from_user_id as "fromUserId", from_name as "from", to_name as "to", message, status, created_at as "createdAt"
+       from direct_messages
+       where from_name = $1 or to_name = $1
+       order by id desc
+       limit 80`,
+      [ownName]
+    );
+    sendJson(res, 200, { messages: result.rows });
+    return;
+  }
+
+  let payload;
+  try {
+    payload = await readJsonBody(req);
+  } catch (error) {
+    sendJson(res, 400, { error: error.message });
+    return;
+  }
+  const fromUserId = normalizeChatText(payload.fromUserId || payload.userId || "anonymous", 128);
+  const fromName = normalizeChatText(payload.fromName || "Guest", 64);
+  const toName = normalizeChatText(payload.toName, 64);
+  const message = normalizeChatText(payload.message, 1000);
+  if (!toName || !message) {
+    sendJson(res, 400, { error: "Recipient and message are required." });
+    return;
+  }
+  const pending = await db.query(
+    `select count(*)::int as count
+     from direct_messages
+     where from_name = $1 and to_name = $2 and status = 'pending'`,
+    [fromName, toName]
+  );
+  if ((pending.rows[0]?.count || 0) >= 3) {
+    sendJson(res, 429, { error: "You can send up to three messages without a reply." });
+    return;
+  }
+  const result = await db.query(
+    `insert into direct_messages (from_user_id, from_name, to_name, message)
+     values ($1, $2, $3, $4)
+     returning id, from_user_id as "fromUserId", from_name as "from", to_name as "to", message, status, created_at as "createdAt"`,
+    [fromUserId, fromName, toName, message]
+  );
+  sendJson(res, 200, { message: result.rows[0] });
 }
 
 async function creditCoinsFromWebhook({ provider, providerEventId, providerPaymentId, userId, packageId, coins, rawEvent }) {
@@ -570,6 +691,14 @@ const server = http.createServer((req, res) => {
   }
   if (url.pathname === "/api/wallet" && req.method === "GET") {
     handleWallet(req, res, url);
+    return;
+  }
+  if (url.pathname === "/api/chat/global" && (req.method === "GET" || req.method === "POST")) {
+    handleGlobalChat(req, res, url);
+    return;
+  }
+  if (url.pathname === "/api/dms" && (req.method === "GET" || req.method === "POST")) {
+    handleDirectMessages(req, res, url);
     return;
   }
   if (url.pathname === "/api/webhooks/stripe" && req.method === "POST") {

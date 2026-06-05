@@ -1007,19 +1007,26 @@ select, input, textarea {
 .book-page.image-page {
   padding: 0;
   overflow: hidden;
-  justify-content: stretch;
-  min-height: 420px;
+  align-items: center;
+  justify-content: center;
+  min-height: 520px;
 }
 
 .book-page.image-page .page-content-wrapper {
-  height: 100%;
+  width: 100%;
+  height: auto;
   gap: 0;
+  display: grid;
+  place-items: center;
 }
 
 .book-page.image-page .story-visual {
-  height: 100%;
-  width: 100%;
+  width: min(100%, 620px);
+  aspect-ratio: 1 / 1;
+  height: auto;
   overflow: hidden;
+  border-radius: 10px;
+  background: #e2e8f0;
 }
 
 .book-page.image-page .story-visual img {
@@ -1028,7 +1035,7 @@ select, input, textarea {
   height: 100%;
   max-height: none;
   border: 0;
-  border-radius: 4px 12px 12px 4px;
+  border-radius: inherit;
   box-shadow: none;
   object-fit: cover;
 }
@@ -4587,7 +4594,8 @@ select, input, textarea {
   }
 
   .book-page.image-page {
-    min-height: min(72vh, 560px) !important;
+    min-height: auto !important;
+    aspect-ratio: 1 / 1;
   }
 
   .book-page.image-page .story-visual img {

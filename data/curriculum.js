@@ -7080,7 +7080,7 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Я был там. Он положил его книгу на стол. Это было для\nменя, как он и говорил.",
               "en": "I was there. He put his book on the table. It was\nfor me, as he had said.",
-              "image": "Stories/Images/newstories/russian/beginner/01-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-beginner-01-1.png"
             }
           ]
         },
@@ -7119,7 +7119,7 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Они сейчас здесь. Мои друзья хотят быть со мной в одном\nдоме. У нас есть это тихое место.",
               "en": "They are here now. My friends want to be with me in\none house. We have this quiet place.",
-              "image": "Stories/Images/newstories/russian/beginner/02-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-beginner-02-1.png"
             }
           ]
         },
@@ -7159,7 +7159,7 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Что это? Это слово от моего друга. Но сегодня жарко. Здесь\nесть немного воды у него.",
               "en": "What is this? This is a word from my friend. But\ntoday is hot. There is some water near him.",
-              "image": "Stories/Images/newstories/russian/beginner/03-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-beginner-03-1.png"
             }
           ]
         },
@@ -7201,7 +7201,7 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Ты и я идем. Это ты или я? У нас была старая книга о\nпрошлом.",
               "en": "You and I go. Is it you or me? We had an old book\nof the past.",
-              "image": "Stories/Images/newstories/russian/beginner/04-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-beginner-04-1.png"
             }
           ]
         },
@@ -7242,7 +7242,7 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Мы были в одной комнате. В какой? Мы можем выйти. Другие\nлюди тоже были там.",
               "en": "We were in a room. Which room? We can go out. Other\npeople were there too.",
-              "image": "Stories/Images/newstories/russian/beginner/05-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-beginner-05-1.png"
             }
           ]
         },
@@ -7283,7 +7283,7 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Он сказал: «Времени нет». Если они будут делать свою\nработу, как они это сделают? Это отличный план.",
               "en": "He said, \"There is no time.\" If they do their work,\nhow will they do it? It will be a great plan.",
-              "image": "Stories/Images/newstories/russian/beginner/06-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-beginner-06-1.png"
             }
           ]
         },
@@ -7324,7 +7324,7 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Я хочу сказать тебе. Есть набор из трех вещей. Каждая вещь\nнуждается в воздухе. Это работает хорошо.",
               "en": "I want to tell you. There is a set of three things.\nEach thing needs air. It works well.",
-              "image": "Stories/Images/newstories/russian/beginner/07-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-beginner-07-1.png"
             }
           ]
         },
@@ -7365,7 +7365,7 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Я читаю маленькую книгу дома. Я также играю своими руками.\nВ конце дня я откладываю книгу.",
               "en": "I read a small book at home. I also play using my\nhands. At the end of the day, I put the book away.",
-              "image": "Stories/Images/newstories/russian/beginner/08-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-beginner-08-1.png"
             }
           ]
         },
@@ -7406,7 +7406,7 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Здесь находится большой порт. На этой земле стоит большой\nкорабль. Вы должны написать свое имя здесь.",
               "en": "Here is a large port. There is a big ship on this\nland. You must write your name here.",
-              "image": "Stories/Images/newstories/russian/beginner/09-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-beginner-09-1.png"
             }
           ]
         },
@@ -7447,7 +7447,7 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Люди пошли на высокую гору. Я спросил, почему они пошли.\nОни действовали, чтобы следовать за таким изменением.",
               "en": "The men went to a high mountain. I asked why they\nwent. They acted to follow such a change.",
-              "image": "Stories/Images/newstories/russian/beginner/10-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-beginner-10-1.png"
             }
           ]
         },
@@ -7488,7 +7488,7 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Этому дому нужен свет. Попробуйте сделать его снимок еще\nраз с выключенным светом. Добрый человек помогает нам.",
               "en": "This house needs light. Try to take a picture of it\nagain with the light off. A kind person helps us.",
-              "image": "Stories/Images/newstories/russian/beginner/11-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-beginner-11-1.png"
             }
           ]
         },
@@ -7529,7 +7529,7 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Мои мать и отец любят землю. Мы строим маленький дом рядом\nс животными, чтобы самим наблюдать за ними. В этом весь смысл нашего мира.",
               "en": "My mother and father love the earth. We build a\nsmall house near the animals to observe them ourselves. That is the point of our\nworld.",
-              "image": "Stories/Images/newstories/russian/beginner/12-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-beginner-12-1.png"
             }
           ]
         },
@@ -7578,13 +7578,13 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Однажды девочка нашла маленькую собаку в лесу. Собака\nпотерялась и сильно замерзла. Девочка тихо подошла к ней, заговорила\nласковым голосом и успокоила ее.",
               "en": "One day, a girl found a small dog in the forest.\nThe dog was lost and very cold. The girl quietly approached it, spoke in a sweet\nvoice, and calmed it down.",
-              "image": "Stories/Images/newstories/russian/elementary/13-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-13-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Она принесла собаку в свой дом и дала ей теплой еды.\nСобака радостно махала хвостом. Ее мама и отец согласились оставить\nсобаку, и все они были очень счастливы.",
               "en": "She brought the dog into her house and gave it some\nwarm food. The dog wagged its tail happily. Her mother and father agreed to keep\nthe dog, and all of them were very happy.",
-              "image": "Stories/Images/newstories/russian/elementary/13-2.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-13-2.png"
             }
           ]
         },
@@ -7633,13 +7633,13 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Мы выбрали эту тихую землю, чтобы построить наш новый дом.\nРядом течет чистая река, и каждый день слышны голоса птиц. Наша новая жизнь\nначинается на этом месте сегодня.",
               "en": "We chose this quiet land to build our new house. A\nclean river flows nearby, and the voices of birds are heard every day. Our new\nlife begins at this place today.",
-              "image": "Stories/Images/newstories/russian/elementary/14-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-14-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Отец и я начали делать маленький сад около нашего дома. Мы\nпосадили там красивые цветы. Мама смотрела на нас из окна дома и очень\nпо-доброму помогала нам.",
               "en": "Father and I started making a small garden near our\nhouse. We planted beautiful flowers there. Mom watched us from the house window\nand helped us very kindly.",
-              "image": "Stories/Images/newstories/russian/elementary/14-2.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-14-2.png"
             }
           ]
         },
@@ -7688,13 +7688,13 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Мальчик думал над трудной задачей для школы. Он долго\nчитал большую книгу, но никак не мог понять правильный ответ. Он был очень\nрасстроен этим.",
               "en": "The boy was thinking about a difficult task for\nschool. He read a big book for a long time, but could not understand the correct\nanswer. He was very upset by this.",
-              "image": "Stories/Images/newstories/russian/elementary/15-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-15-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Мама подошла к нему близко и тихо сказала: «Попробуй еще\nраз с первой страницы. Если будешь читать медленно, ты обязательно поймешь\nвесь смысл». Он начал снова.",
               "en": "His mother came close to him and quietly said: \"Try\nagain from the first page. If you read slowly, you will surely understand the\nwhole meaning.\" He started again.",
-              "image": "Stories/Images/newstories/russian/elementary/15-2.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-15-2.png"
             }
           ]
         },
@@ -7743,13 +7743,13 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Рядом с нашей деревней течет очень широкая река. Чтобы\nперейти на другую сторону земли, нам всегда приходилось идти по долгой и\nтрудной дороге. Это было неудобно.",
               "en": "A very wide river flows near our village. To cross\nto the other side of the land, we always had to walk along a long and difficult\nroad. It was inconvenient.",
-              "image": "Stories/Images/newstories/russian/elementary/16-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-16-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Люди собрались вместе и решили построить новый деревянный\nмост. Все усердно работали своими руками, и большой мост был готов. Теперь мы\nможем ходить легко.",
               "en": "The people gathered together and decided to build a\nnew wooden bridge. Everyone worked hard with their hands, and the big bridge was\nready. Now we can walk easily.",
-              "image": "Stories/Images/newstories/russian/elementary/16-2.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-16-2.png"
             }
           ]
         },
@@ -7798,13 +7798,13 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Мой дедушка подарил мне старую интересную книгу. В этой\nкниге было много красивых картинок с дикими животными со всего мира. Я сразу\nполюбил эту книгу.",
               "en": "My grandfather gave me an interesting old book. In\nthis book, there were many beautiful pictures of wild animals from all over the\nworld. I loved this book immediately.",
-              "image": "Stories/Images/newstories/russian/elementary/17-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-17-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Я читал книгу и учился писать новые трудные слова по\nбуквам. Моя мама сидела рядом со мной и помогала мне делать это правильно\nи быстро.",
               "en": "I read the book and learned to write new difficult\nwords by spelling them out. My mother sat next to me and helped me do it\ncorrectly and quickly.",
-              "image": "Stories/Images/newstories/russian/elementary/17-2.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-17-2.png"
             }
           ]
         },
@@ -7853,13 +7853,13 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Когда мы поднялись на вершину высокой горы, синее небо\nпоказалось очень близким. Дул сильный холодный ветер, но яркий свет солнца\nделал мир вокруг прекрасным.",
               "en": "When we climbed to the top of the high mountain,\nthe blue sky seemed very close. A strong, cold wind was blowing, but the bright\nlight of the sun made the world around us beautiful.",
-              "image": "Stories/Images/newstories/russian/elementary/18-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-18-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Отец указал рукой на небо и сказал: «Посмотри на этих\nбольших птиц. Они летят в далекие теплые края». Мы долго стояли и тихо\nпровожали их глазами.",
               "en": "Father pointed his hand to the sky and said: \"Look\nat those big birds. They are flying to distant, warm lands.\" We stood for a long\ntime and quietly followed them with our eyes.",
-              "image": "Stories/Images/newstories/russian/elementary/18-2.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-18-2.png"
             }
           ]
         },
@@ -7908,13 +7908,13 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Мой отец уехал по работе в большой портовый город далеко\nот дома. Однажды нам пришло письмо от него. Я был так рад и сразу открыл его.",
               "en": "My father left for work to a large port city far\nfrom home. One day, a letter from him came to us. I was so glad and opened it\nimmediately.",
-              "image": "Stories/Images/newstories/russian/elementary/19-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-19-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "В письме отец писал о красивых местах, море и новых людях,\nкоторых встретил. Он обещал скоро вернуться домой к нам. Моя душа сразу\nуспокоилась.",
               "en": "In the letter, father wrote about the beautiful\nplaces, the sea, and new people he met. He promised to return home to us soon.\nMy soul felt relieved immediately.",
-              "image": "Stories/Images/newstories/russian/elementary/19-2.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-19-2.png"
             }
           ]
         },
@@ -7963,13 +7963,13 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Это был очень жаркий день. В нашем доме было душно, и мы\nвсе нуждались в прохладной и чистой воде. Мы решили пойти к старому колодцу,\nкоторый стоял близко к лесу.",
               "en": "It was a very hot day. It was stuffy inside our\nhouse, and we all needed cool and clean water. We decided to go to the old well\nthat stood near the forest.",
-              "image": "Stories/Images/newstories/russian/elementary/20-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-20-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Мы использовали наши руки, чтобы поднять тяжелое ведро.\nВода из колодца была удивительно холодной. Мы выпили ее и почувствовали себя\nсчастливыми. Наш день стал намного лучше.",
               "en": "We used our hands to pull up the heavy bucket. The\nwell water was surprisingly cold. We drank it and felt happy. Our day became\nmuch better.",
-              "image": "Stories/Images/newstories/russian/elementary/20-2.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-20-2.png"
             }
           ]
         },
@@ -8018,13 +8018,13 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Сегодня в школе не было уроков. Маленькие дети собрались\nна открытом месте возле дома. Они начали играть вместе. Солнце светило ярко, и\nдул приятный ветер.",
               "en": "Today there were no classes at school. Small\nchildren gathered in an open place near the house. They started playing\ntogether. The sun was shining brightly, and a pleasant wind blew.",
-              "image": "Stories/Images/newstories/russian/elementary/21-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-21-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Они бегали и играли до самого вечера. В конце дня все\nуселись в один большой круг на траве. Они рассказывали друг другу\nинтересные истории, которые читали в книгах.",
               "en": "They ran and played until the very evening. At the\nend of the day, everyone sat down in one big circle on the grass. They told each\nother interesting stories they had read in books.",
-              "image": "Stories/Images/newstories/russian/elementary/21-2.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-21-2.png"
             }
           ]
         },
@@ -8073,13 +8073,13 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Каждая вещь имеет свой конец. Но один конец всегда\nозначает начало чего-то нового. Мальчик сложил все свои маленькие\nигрушки в большую коробку.",
               "en": "Every thing has its end. But one ending always\nmeans the beginning of something new. The boy put all his small toys into a big\nbox.",
-              "image": "Stories/Images/newstories/russian/elementary/22-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-22-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Он стал старше и больше не играл в них. Теперь ему нужно\nчитать другие книги и самому делать новые планы на жизнь. Он улыбнулся и\nуверенно пошел вперед в свое будущее.",
               "en": "He grew older and did not play with them anymore.\nNow he needs to read other books and make new plans for life himself. He smiled\nand confidently walked forward into his future.",
-              "image": "Stories/Images/newstories/russian/elementary/22-2.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-22-2.png"
             }
           ]
         },
@@ -8127,13 +8127,13 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Мой дом стоит очень близко к большому порту. Каждое утро\nкорабли со всего мира приходят сюда. Многие люди сходят на эту землю, и вокруг\nстановится шумно.",
               "en": "My house stands very close to a big port. Every\nmorning, ships from all over the world come here. Many people step onto this\nland, and it becomes noisy all around.",
-              "image": "Stories/Images/newstories/russian/elementary/23-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-23-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Вечером я и мой отец идем к воде. Мы смотрим, как большие\nкорабли уходят обратно в море. Свет солнца ложится на волны, и этот вид красив\nбез всяких слов.",
               "en": "In the evening, my father and I go to the water. We\nwatch as the big ships head back out to sea. The light of the sun rests on the\nwaves, and this view is beautiful beyond any words.",
-              "image": "Stories/Images/newstories/russian/elementary/23-2.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-23-2.png"
             }
           ]
         },
@@ -8181,13 +8181,13 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Мы решили сделать план и подняться на очень высокую гору.\nЭта гора стояла близко к облакам, и ее вершина требовала от нас силы и смелых\nдействий.",
               "en": "We decided to make a plan and climb a very high\nmountain. This mountain stood close to the clouds, and its peak required\nstrength and bold actions from us.",
-              "image": "Stories/Images/newstories/russian/elementary/24-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-24-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Когда мы пришли на вершину, дул холодный ветер. Но вид на\nземлю оттуда был прекрасен. Дома и реки казались маленькими точками. Мы\nгордились своей силой.",
               "en": "When we reached the top, a cold wind was blowing.\nBut the view of the earth from there was beautiful. Houses and rivers seemed\nlike small points. We were proud of our strength.",
-              "image": "Stories/Images/newstories/russian/elementary/24-2.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-24-2.png"
             }
           ]
         },
@@ -8235,13 +8235,13 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Девочка пыталась сделать красивое животное из бумаги. Но\nее первая попытка не удалась, и бумага порвалась. Ей стало немного грустно, и\nона хотела бросить работу.",
               "en": "The girl tried to make a beautiful animal out of\npaper. But her first attempt did not succeed, and the paper tore. She felt a\nlittle sad and wanted to quit the work.",
-              "image": "Stories/Images/newstories/russian/elementary/25-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-25-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Мама подошла и сказала: «Попробуй еще раз. Сделай движение\nрук медленнее». Девочка взяла чистый лист и смогла сделать отличную фигуру. Она\nулыбнулась.",
               "en": "Mom came over and said: \"Try again. Make your hand\nmovements slower.\" The girl took a clean sheet and was able to make an excellent\nfigure. She smiled.",
-              "image": "Stories/Images/newstories/russian/elementary/25-2.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-25-2.png"
             }
           ]
         },
@@ -8289,13 +8289,13 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Слова открывают нам новые пути и меняют наше понимание\nжизни. Каждый день я изучаю смысл новых слов и записываю их в свою тетрадь,\nчтобы помнить.",
               "en": "Words open up new paths for us and change our\nunderstanding of life. Every day I study the meaning of new words and write them\nin my notebook to remember.",
-              "image": "Stories/Images/newstories/russian/elementary/26-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-26-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Чтение книг помогает человеку строить свой собственный\nвнутренний мир. Читая много, мы начинаем лучше понимать других людей и\nстановимся добрее ко всем вокруг.",
               "en": "Reading books helps a person build their own inner\nworld. By reading a lot, we begin to better understand other people and become\nkinder to everyone around us.",
-              "image": "Stories/Images/newstories/russian/elementary/26-2.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-elementary-26-2.png"
             }
           ]
         },
@@ -8352,19 +8352,19 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "В одну субботу Антон решил убраться на старом чердаке\nсвоего дома. Там лежало много старых коробок и сломанной мебели. В углу\nкомнаты он заметил большие старинные деревянные часы. Они не двигались много\nлет и были покрыты пылью.",
               "en": "On a Saturday, Anton decided to clean up the old\nattic of his house. There were many old boxes and broken furniture. In the\ncorner of the room, he noticed a large, antique wooden clock. It had not moved\nfor many years and was covered in dust.",
-              "image": "Stories/Images/newstories/russian/intermediate/27-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-27-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Антон открыл стеклянную дверцу часов и стал осматривать их\nизнутри. За тяжелым маятником он нашел маленький медный ключ. Он взял его в руку\nи попробовал вставить в отверстие сбоку. Ключ подошел очень легко и мягко.",
               "en": "Anton opened the clock's glass door and began\nexamining it from the inside. Behind the heavy pendulum, he found a small brass\nkey. He took it in his hand and tried inserting it into a hole on the side. The\nkey fit very easily and softly.",
-              "image": "Stories/Images/newstories/russian/intermediate/27-2.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-27-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "Он медленно повернул ключ, и часы начали тихо тикать.\nСтрелки пошли по кругу, и вскоре по дому разнесся красивый звук\nколокольчика. Этот звук любил слушать его дедушка много лет назад.\nНа душе Антона стало тепло и радостно.",
               "en": "He slowly turned the key, and the clock began to\ntick quietly. The hands moved in a circle, and soon the beautiful sound of a\nchime spread through the house. His grandfather had loved listening to this\nsound many years ago. Anton felt warm and happy in his soul.",
-              "image": "Stories/Images/newstories/russian/intermediate/27-3.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-27-3.png"
             }
           ]
         },
@@ -8421,19 +8421,19 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Анна гуляла по лесу, где были слышны только далекие голоса\nптиц. Деревья были высокими, и свет солнца едва проходил сквозь зеленые ветви.\nПод ногами лежал мягкий зеленый мох, похожий на большой ковер.",
               "en": "Anna was walking through the forest, where only the\ndistant voices of birds were heard. The trees were tall, and the light of the\nsun barely passed through the green branches. Underfoot lay soft green moss,\nlooking like a large carpet.",
-              "image": "Stories/Images/newstories/russian/intermediate/28-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-28-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Она пошла глубже и вдруг увидела маленькое красивое озеро.\nВода в нем была чистой, как зеркало, и в ней отражались небо и белые облака.\nРядом стояли несколько оленей и пили воду. Девочка тихо смотрела на них.",
               "en": "She went deeper and suddenly saw a small, beautiful\nlake. The water in it was clean as a mirror, reflecting the sky and white\nclouds. Nearby stood several deer drinking water. The girl watched them quietly.",
-              "image": "Stories/Images/newstories/russian/intermediate/28-2.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-28-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "Анна села на сухой камень у воды и открыла свой блокнот.\nОна решила записать эту историю и нарисовать озеро и оленей. Эта теплая память\nо прогулке в лесу останется с ней на долгое время.",
               "en": "Anna sat on a dry stone by the water and opened her\nnotebook. She decided to write down this story and draw the lake and the deer.\nThis warm memory of the walk in the forest will stay with her for a long time.",
-              "image": "Stories/Images/newstories/russian/intermediate/28-3.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-28-3.png"
             }
           ]
         },
@@ -8490,19 +8490,19 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Миша жил в красивом городе у самого синего моря. Каждое\nлето здесь устраивали большой праздник. В порту вешали яркие флаги, и люди\nстроили маленькие деревянные лавки с едой. К вечеру на улице собралось много\nвеселых людей.",
               "en": "Misha lived in a beautiful city by the blue sea.\nEvery summer a big festival was organized here. Bright flags were hung in the\nport, and people built small wooden food stalls. By evening, many cheerful\npeople gathered on the street.",
-              "image": "Stories/Images/newstories/russian/intermediate/29-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-29-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Миша встретил в порту старого моряка. Старик рассказал ему\nо своих долгих плаваниях по океанам земли, о сильных штормах и больших рыбах.\nМальчик слушал его с большим интересом и мечтал тоже стать настоящим моряком.",
               "en": "Misha met an old sailor in the port. The old man\ntold him about his long voyages across the oceans of the earth, about strong\nstorms and big fish. The boy listened to him with great interest and dreamed of\nalso becoming a real sailor.",
-              "image": "Stories/Images/newstories/russian/intermediate/29-2.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-29-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "Когда стало темно, в небе начался яркий салют. Огни\nвзлетали высоко в воздух и падали в воду моря. Весь город светился, и\nлюди хлопали в ладоши. Миша чувствовал гордость за свой красивый портовый\nгород.",
               "en": "When it became dark, a bright firework display\nbegan in the sky. Lights flew high into the air and fell into the sea water. The\nwhole city glowed, and people clapped their hands. Misha felt pride in his\nbeautiful port city.",
-              "image": "Stories/Images/newstories/russian/intermediate/29-3.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-29-3.png"
             }
           ]
         },
@@ -8559,19 +8559,19 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "В школе на уроке учитель дал детям новую задачу. Им нужно\nбыло разделиться на группы и построить модель «города будущего». Четыре друга\nсели вместе и начали думать, какие технологии они будут использовать для\nсохранения природы.",
               "en": "At school during the lesson, the teacher gave the\nchildren a new task. They needed to divide into groups and build a model of a\n\"city of the future.\" Four friends sat together and began to think about what\ntechnologies they would use to preserve nature.",
-              "image": "Stories/Images/newstories/russian/intermediate/30-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-30-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "У них было много хороших идей. Они решили сделать\nсолнечные батареи на крышах каждого дома и систему сбора дождевой воды\nдля растений. Они использовали простые вещи: бумагу и картон, работая дружно\nсвоими руками.",
               "en": "They had many good ideas. They decided to make\nsolar panels on the roofs of each house and a rainwater collection system for\nplants. They used simple things like paper and cardboard, working harmoniously\nwith their hands.",
-              "image": "Stories/Images/newstories/russian/intermediate/30-2.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-30-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "На следующий день все группы показали свои модели. Учитель\nпохвалил ребят за их труд. Друзья поняли, как важно помогать друг другу и\nработать вместе ради одной цели. Это был отличный урок для каждого из\nних.",
               "en": "The next day, all groups showed their models. The\nteacher praised the children for their work. The friends understood how\nimportant it is to help each other and work together toward one goal. It was an\nexcellent lesson for each of them.",
-              "image": "Stories/Images/newstories/russian/intermediate/30-3.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-30-3.png"
             }
           ]
         },
@@ -8628,19 +8628,19 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Рано утром Коля начал подниматься по узкой тропе на\nвысокую гору. Дул сильный холодный ветер, но мальчик быстро шел, и ему\nбыло тепло. Вокруг росли красивые горные цветы и травы, которые радовали его\nглаз.",
               "en": "Early in the morning, Kolya began climbing a narrow\ntrail up a high mountain. A strong cold wind was blowing, but the boy walked\nquickly and felt warm. Beautiful mountain flowers and herbs grew around him,\npleasing his eye.",
-              "image": "Stories/Images/newstories/russian/intermediate/31-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-31-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Днем небо потемнело и пошел сильный дождь. К счастью,\nвпереди стоял маленький домик из камня. Коля быстро побежал туда, чтобы\nпереждать дождь. Внутри было сухо, и он смог выпить теплого чая из своего\nтермоса.",
               "en": "By afternoon, the sky grew dark and heavy rain\nfell. Fortunately, a small stone cabin stood ahead. Kolya ran there quickly to\nwait out the rain. Inside it was dry, and he was able to drink warm tea from his\nthermos.",
-              "image": "Stories/Images/newstories/russian/intermediate/31-2.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-31-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "Скоро дождь закончился, и на небе снова появилось яркое\nсолнце. Коля вышел из домика и поднялся на самую вершину горы. Внизу лежала\nбольшая зеленая долина. Сильный ветер унес его усталость, и он почувствовал\nрадость.",
               "en": "Soon the rain ended, and the bright sun appeared in\nthe sky again. Kolya left the cabin and climbed to the very summit of the\nmountain. Below lay a large green valley. The strong wind carried away his\nfatigue, and he felt joy.",
-              "image": "Stories/Images/newstories/russian/intermediate/31-3.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-31-3.png"
             }
           ]
         },
@@ -8697,19 +8697,19 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Мальчик Рома искал книгу в комнате своего дедушки. Он\nоткрыл старый ящик стола и на самом дне нашел бумагу. Это была старая карта\nлеса, которую дедушка нарисовал сам, когда был маленьким ребенком.",
               "en": "The boy Roma was looking for a book in his\ngrandfather's room. He opened an old desk drawer and found a paper at the very\nbottom. It was an old map of the forest that his grandfather had drawn himself\nwhen he was a small child.",
-              "image": "Stories/Images/newstories/russian/intermediate/32-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-32-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Рома и его друг решили пойти в лес по этой карте. Они\nиспользовали старые деревья как ориентиры и шли глубже в лес. Скоро они\nнашли старый каменный колодец, покрытый зеленой травой. Все было точно как\nна карте.",
               "en": "Roma and his friend decided to go into the forest\nusing this map. They used old trees as landmarks and went deeper into the\nforest. Soon they found an old stone well covered with green grass. Everything\nwas exactly as shown on the map.",
-              "image": "Stories/Images/newstories/russian/intermediate/32-2.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-32-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "Они заглянули внутрь и увидели маленькую пластиковую\nкоробку. Внутри лежала старая монетка и записка с именем дедушки. Мальчики\nнашли настоящий привет из прошлого и почувствовали себя героями большой истории.",
               "en": "They peered inside and saw a small plastic box.\nInside lay an old coin and a note with their grandfather's name. The boys had\nfound a real greeting from the past and felt like heroes of a grand story. ===\nEND OF STORY 32 ===",
-              "image": "Stories/Images/newstories/russian/intermediate/32-3.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-32-3.png"
             }
           ]
         },
@@ -8766,19 +8766,19 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "Каждую субботу Лена ходила на уроки рисования. Сегодня им\nнужно было нарисовать вид на реку из большого окна класса. Она подготовила\nхолст и положила на стол яркие краски. Ей очень хотелось начать работу.",
               "en": "Every Saturday Lena went to painting classes. Today\nthey needed to paint the view of the river from the large classroom window. She\nprepared the canvas and put bright paints on the table. She really wanted to\nstart the work.",
-              "image": "Stories/Images/newstories/russian/intermediate/33-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-33-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Через час небо на улице стало медленно менять свой цвет на\nоранжевый. На воде реки появилось красивое отражение солнца. Лена смешала\nкрасную и желтую краски на бумаге, чтобы передать этот теплый свет.",
               "en": "An hour later, the sky outside began slowly\nchanging its color to orange. A beautiful reflection of the sun appeared on the\nriver water. Lena mixed red and yellow paints on paper to convey this warm\nlight.",
-              "image": "Stories/Images/newstories/russian/intermediate/33-2.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-33-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "В конце урока все рисунки повесили на стену. Хотя все\nрисовали один и тот же вид из окна, у каждого получилась своя уникальная\nкартина. Лена поняла, что каждый человек видит мир по-своему, и это очень\nкрасиво.",
               "en": "At the end of the lesson, all paintings were hung\non the wall. Although everyone painted the exact same view from the window, each\nperson ended up with their own unique painting. Lena understood that each person\nsees the world in their own way, and that is very beautiful.",
-              "image": "Stories/Images/newstories/russian/intermediate/33-3.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-33-3.png"
             }
           ]
         },
@@ -8835,18 +8835,19 @@ window.LANGUAGE_CURRICULUM = {
               "heading": "Page 1",
               "ru": "В воскресенье Света со своим братом гуляла в парке. Она\nположила маленький ключ от стола в карман куртки. Но во время игры на траве\nключ выпал, и девочка очень расстроилась.",
               "en": "On Sunday, Sveta was walking in the park with her\nbrother. She put a small desk key in her jacket pocket. But during a game on the\ngrass, the key fell out, and the girl became very upset.",
-              "image": "Stories/Images/newstories/russian/intermediate/34-1.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-34-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Наступил вечер, и стало довольно темно. Брат Светы принес\nмаленький фонарик, чтобы помочь ей. Они вместе ходили около больших деревьев и\nсветили на землю, внимательно проверяя каждую травинку.",
               "en": "Evening arrived, and it became quite dark. Sveta's\nbrother brought a small flashlight to help her. They walked together near the\nlarge trees and shone light on the ground, carefully checking every blade of\ngrass.",
-              "image": "Stories/Images/newstories/russian/intermediate/34-2.png"
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-34-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "Вскоре брат заметил металлический блеск под небольшим\nсерым камнем. Это был потерянный ключ! Света очень обрадовалась и\nпоблагодарила брата. Дома она смогла открыть ящик своего стола.",
-              "en": "Soon her brother noticed a metallic gleam under a\nsmall grey stone. It was the lost key! Sveta was very happy and thanked her\nbrother. At home, she was able to open her desk drawer."
+              "en": "Soon her brother noticed a metallic gleam under a\nsmall grey stone. It was the lost key! Sveta was very happy and thanked her\nbrother. At home, she was able to open her desk drawer.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-34-3.png"
             }
           ]
         },
@@ -8901,17 +8902,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "Рома и Денис сделали красивую деревянную лодку на школьном\nуроке труда. Они решили запустить ее в плавание по чистой местной реке, чтобы\nпосмотреть, как она держится на воде.",
-              "en": "Roma and Denis made a beautiful wooden boat during\ntheir school craft lesson. They decided to launch it on a voyage along the clean\nlocal river to see how it kept on the water."
+              "en": "Roma and Denis made a beautiful wooden boat during\ntheir school craft lesson. They decided to launch it on a voyage along the clean\nlocal river to see how it kept on the water.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-35-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Течение реки было спокойным, но на пути лодки встречались\nупавшие ветки и большие камни. Мальчики бежали по берегу и переживали, сможет\nли их лодка обойти все эти препятствия.",
-              "en": "The river current was calm, but along the boat's\npath, there were fallen branches and large stones. The boys ran along the bank,\nworrying whether their boat could bypass all these obstacles."
+              "en": "The river current was calm, but along the boat's\npath, there were fallen branches and large stones. The boys ran along the bank,\nworrying whether their boat could bypass all these obstacles.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-35-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "Ниже по течению Рома аккуратно достал лодку из воды. Она\nбыла совершенно целой. Мальчики вернулись домой и подробно записали в свой\nдневник наблюдения за скоростью течения реки.",
-              "en": "Downstream, Roma carefully retrieved the boat from\nthe water. It was completely undamaged. The boys returned home and recorded\ntheir observations of the river current's speed in detail in their journal. ===\nEND OF STORY 35 ==="
+              "en": "Downstream, Roma carefully retrieved the boat from\nthe water. It was completely undamaged. The boys returned home and recorded\ntheir observations of the river current's speed in detail in their journal. ===\nEND OF STORY 35 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-35-3.png"
             }
           ]
         },
@@ -8966,17 +8970,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "Летом Миша с родителями отправился в поход в горы. Ночью у\nпалатки было тихо и темно, так как вокруг не было никаких городских огней. Миша\nвышел на свежий воздух и поднял глаза вверх.",
-              "en": "In the summer, Misha went on a camping trip to the\nmountains with his parents. At night by the tent, it was quiet and dark because\nthere were no city lights around. Misha went out into the fresh air and looked\nup."
+              "en": "In the summer, Misha went on a camping trip to the\nmountains with his parents. At night by the tent, it was quiet and dark because\nthere were no city lights around. Misha went out into the fresh air and looked\nup.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-36-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Отец Миши достал из сумки интересную книгу о созвездиях.\nОн включил неяркий фонарь и, глядя в книгу, стал показывать сыну звезды в\nнебе, объясняя их названия и древние истории.",
-              "en": "Misha's father took an interesting book about\nconstellations from his bag. He turned on a dim light and, looking at the book,\nbegan to show his son the stars in the sky, explaining their names and ancient\nstories."
+              "en": "Misha's father took an interesting book about\nconstellations from his bag. He turned on a dim light and, looking at the book,\nbegan to show his son the stars in the sky, explaining their names and ancient\nstories.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-36-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "Вдруг одна яркая звезда быстро пролетела по темному небу,\nоставив за собой светлый след. Это был метеор. Миша успел тихо загадать желание\nо своем будущем. Этот вечер запомнился ему навсегда.",
-              "en": "Suddenly, a bright star quickly flew across the\ndark sky, leaving a light trail behind it. It was a meteor. Misha managed to\nquietly make a wish about his future. He would remember this evening forever."
+              "en": "Suddenly, a bright star quickly flew across the\ndark sky, leaving a light trail behind it. It was a meteor. Misha managed to\nquietly make a wish about his future. He would remember this evening forever.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-36-3.png"
             }
           ]
         },
@@ -9031,17 +9038,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "Весной Дима проводил время на даче у бабушки. Бабушка\nрешила научить его выращивать овощи своими руками. Они подготовили землю в\nсаду и посадили несколько семян помидоров и огурцов.",
-              "en": "In the spring, Dima was spending time at his\ngrandmother's dacha. His grandmother decided to teach him how to grow vegetables\nwith his own hands. They prepared the soil in the garden and planted several\ntomato and cucumber seeds."
+              "en": "In the spring, Dima was spending time at his\ngrandmother's dacha. His grandmother decided to teach him how to grow vegetables\nwith his own hands. They prepared the soil in the garden and planted several\ntomato and cucumber seeds.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-37-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Каждый день после учебы Дима помогал поливать грядки.\nЧерез две недели из теплой земли показались первые зеленые листья. Дима был\nочень рад увидеть плоды их общего труда.",
-              "en": "Every day after studying, Dima helped water the\ngarden beds. Two weeks later, the first green leaves appeared from the warm\nsoil. Dima was very happy to see the fruits of their common labor."
+              "en": "Every day after studying, Dima helped water the\ngarden beds. Two weeks later, the first green leaves appeared from the warm\nsoil. Dima was very happy to see the fruits of their common labor.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-37-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "Летом они собрали много свежих помидоров и огурцов.\nБабушка и Дима сделали из них вкусный салат на ужин. Мальчик понял, что\nеда, выращенная своими руками, имеет самый лучший вкус.",
-              "en": "In the summer, they harvested many fresh tomatoes\nand cucumbers. Grandmother and Dima made a delicious salad out of them for\ndinner. The boy understood that food grown with one's own hands has the best\ntaste."
+              "en": "In the summer, they harvested many fresh tomatoes\nand cucumbers. Grandmother and Dima made a delicious salad out of them for\ndinner. The boy understood that food grown with one's own hands has the best\ntaste.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-37-3.png"
             }
           ]
         },
@@ -9096,17 +9106,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "На высоком утесе у моря стоял старый каменный маяк. Сейчас\nон уже не работал, так как корабли использовали современные системы. Лена и ее\nпапа решили сходить туда на прогулку в воскресенье.",
-              "en": "On a high cliff by the sea stood an old stone\nlighthouse. It was no longer active now, because ships used modern systems. Lena\nand her dad decided to go there for a walk on Sunday."
+              "en": "On a high cliff by the sea stood an old stone\nlighthouse. It was no longer active now, because ships used modern systems. Lena\nand her dad decided to go there for a walk on Sunday.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-38-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Они открыли тяжелую деревянную дверь и вошли внутрь маяка.\nВнутри было прохладно, и наверх вела длинная каменная лестница. Лена осторожно\nподнималась шаг за шагом, держа папу за руку.",
-              "en": "They opened the heavy wooden door and went inside\nthe lighthouse. It was cool inside, and a long stone staircase led upward. Lena\nclimbed carefully step by step, holding her dad's hand."
+              "en": "They opened the heavy wooden door and went inside\nthe lighthouse. It was cool inside, and a long stone staircase led upward. Lena\nclimbed carefully step by step, holding her dad's hand.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-38-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "Наверху на балконе дул сильный ветер. Перед ними открылся\nвид на огромное синее море с большими волнами. Лена подумала о людях, которые\nкогда-то жили здесь и помогали кораблям в шторм.",
-              "en": "At the top on the balcony, a strong wind was\nblowing. Before them opened a view of the vast blue sea with big waves. Lena\nthought of the people who once lived here and helped ships during storms. ===\nEND OF STORY 38 ==="
+              "en": "At the top on the balcony, a strong wind was\nblowing. Before them opened a view of the vast blue sea with big waves. Lena\nthought of the people who once lived here and helped ships during storms. ===\nEND OF STORY 38 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-38-3.png"
             }
           ]
         },
@@ -9161,17 +9174,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "Каждую осень в школе проходила большая научная выставка.\nГруппа Егора решила подготовить проект по чистой энергии. Они построили\nмодель, которая показывала работу солнечных батарей.",
-              "en": "Every autumn, a big science fair took place at\nschool. Egor's group decided to prepare a project on clean energy. They built a\nmodel that demonstrated the work of solar panels."
+              "en": "Every autumn, a big science fair took place at\nschool. Egor's group decided to prepare a project on clean energy. They built a\nmodel that demonstrated the work of solar panels.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-39-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "В день выставки в зале собралось много учителей и\nродителей. Многие останавливались у проекта Егора. Мальчик просто и\nпонятно объяснял гостям, как свет солнца превращается в электрический ток.",
-              "en": "On the day of the fair, many teachers and parents\ngathered in the hall. Many stopped at Egor's project. The boy explained to the\nguests simply and clearly how the light of the sun turns into an electric\ncurrent."
+              "en": "On the day of the fair, many teachers and parents\ngathered in the hall. Many stopped at Egor's project. The boy explained to the\nguests simply and clearly how the light of the sun turns into an electric\ncurrent.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-39-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "В конце дня судьи оценили все проекты. Работа группы Егора\nполучила высокую оценку и первое место за полезную идею. Ребята были очень рады\nи поняли, как важен труд команды.",
-              "en": "At the end of the day, the judges evaluated all\nprojects. The work of Egor's group received a high rating and first place for a\nuseful idea. The children were very glad and understood how important teamwork\nis."
+              "en": "At the end of the day, the judges evaluated all\nprojects. The work of Egor's group received a high rating and first place for a\nuseful idea. The children were very glad and understood how important teamwork\nis.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-39-3.png"
             }
           ]
         },
@@ -9226,17 +9242,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "Аня вместе с мамой пришла в старый городской концертный\nзал. Сегодня там проходил вечер скрипичной музыки. В зале погас свет, и на\nсцене загорелась теплая лампа, осветившая музыканта.",
-              "en": "Anya came with her mom to the old city concert\nhall. Today, an evening of violin music was taking place there. The lights went\nout in the hall, and a warm lamp lit up on the stage, illuminating the musician."
+              "en": "Anya came with her mom to the old city concert\nhall. Today, an evening of violin music was taking place there. The lights went\nout in the hall, and a warm lamp lit up on the stage, illuminating the musician.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-40-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Скрипка зазвучала очень красиво. Звуки музыки то текли\nмедленно и тихо, то взлетали быстро и громко. Аня слушала эту мелодию,\nчувствуя, как меняется ее настроение вместе со звуками.",
-              "en": "The violin sounded very beautiful. The sounds of\nthe music flowed slowly and quietly at times, and at others soared fast and\nloud. Anya listened to this melody, feeling how her mood changed along with the\nsounds."
+              "en": "The violin sounded very beautiful. The sounds of\nthe music flowed slowly and quietly at times, and at others soared fast and\nloud. Anya listened to this melody, feeling how her mood changed along with the\nsounds.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-40-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "После концерта все громко хлопали. Аня была очень\nвдохновлена. Дома она решила достать свое маленькое детское пианино и\nпопробовать снова поиграть на нем простые песни. В ней родилась мечта.",
-              "en": "After the concert, everyone clapped loudly. Anya\nwas highly inspired. At home, she decided to take out her small children's piano\nand try to play simple songs on it again. A dream was born in her. === END OF\nSTORY 40 ==="
+              "en": "After the concert, everyone clapped loudly. Anya\nwas highly inspired. At home, she decided to take out her small children's piano\nand try to play simple songs on it again. A dream was born in her. === END OF\nSTORY 40 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-intermediate-40-3.png"
             }
           ]
         },
@@ -9303,27 +9322,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "В современном обществе наука и технологии быстро\nразвиваются. Наша жизнь становится удобной, но красивая природа часто\nстрадает. В одном маленьком городе река стала грязной из-за заводов. Молодой\nученый Александр решил исправить эту экологическую проблему.",
-              "en": "In modern society, science and technology develop\nrapidly. Our lives become convenient, but beautiful nature often suffers. In one\nsmall town, the river became dirty because of factories. A young scientist,\nAlexander, decided to fix this environmental problem."
+              "en": "In modern society, science and technology develop\nrapidly. Our lives become convenient, but beautiful nature often suffers. In one\nsmall town, the river became dirty because of factories. A young scientist,\nAlexander, decided to fix this environmental problem.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-41-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Александр предложил построить новую систему очистки воды.\nНо директора заводов и некоторые жители города были против. Они считали, что\nэто слишком дорого и повредит местной экономике. Александр не сдавался и\nпродолжал диалог.",
-              "en": "Alexander proposed building a new water\npurification system. But the factory directors and some town residents were\nagainst it. They believed it was too expensive and would harm the local economy.\nAlexander did not give up and continued the dialogue."
+              "en": "Alexander proposed building a new water\npurification system. But the factory directors and some town residents were\nagainst it. They believed it was too expensive and would harm the local economy.\nAlexander did not give up and continued the dialogue.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-41-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "После долгих споров они решили провести первый тест.\nУченые установили оборудование у реки. Но тест прошел неудачно из-за\nполомки машины. Грязная вода снова потекла в реку, и люди начали злиться.",
-              "en": "After long arguments, they decided to conduct the\nfirst test. The scientists installed the equipment near the river. But the test\nfailed due to a machine breakdown. Dirty water flowed into the river again, and\npeople started getting angry."
+              "en": "After long arguments, they decided to conduct the\nfirst test. The scientists installed the equipment near the river. But the test\nfailed due to a machine breakdown. Dirty water flowed into the river again, and\npeople started getting angry.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-41-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "Александр признал свою ошибку и стал искать причину\nполомки. Он работал ночью, чтобы починить прибор и сделать его\nбезопасным. Директор завода увидел его честный труд и решил дать ему\nпоследний шанс.",
-              "en": "Alexander admitted his mistake and began looking\nfor the cause of the breakdown. He worked at night to repair the device and make\nit safe. The factory director saw his honest labor and decided to give him one\nlast chance."
+              "en": "Alexander admitted his mistake and began looking\nfor the cause of the breakdown. He worked at night to repair the device and make\nit safe. The factory director saw his honest labor and decided to give him one\nlast chance.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-41-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "Второй тест прошел успешно. Вода в реке стала полностью\nчистой. Через несколько лет в реку вернулась рыба. Город стал примером того,\nкак наука помогает экономике жить в гармонии с природой.",
-              "en": "The second test was successful. The water in the\nriver became completely clean. A few years later, fish returned to the river.\nThe town became an example of how science helps the economy live in harmony with\nnature."
+              "en": "The second test was successful. The water in the\nriver became completely clean. A few years later, fish returned to the river.\nThe town became an example of how science helps the economy live in harmony with\nnature.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-41-5.png"
             }
           ]
         },
@@ -9390,27 +9414,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "Молодой историк Дмитрий работал в старой библиотеке\nгорода. Среди старых книг он нашел пожелтевшую карту. На ней было отмечено\nместо в горах, которого не было на современных картах.",
-              "en": "The young historian Dmitry was working in the\ncity's old library. Among the old books, he found a yellowed map. On it was\nmarked a place in the mountains that was not on modern maps."
+              "en": "The young historian Dmitry was working in the\ncity's old library. Among the old books, he found a yellowed map. On it was\nmarked a place in the mountains that was not on modern maps.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-42-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Дмитрий решил исследовать это загадочное место. Он изучил\nисторию района и подготовил все приборы для долгого похода. Он знал, что путь\nбудет трудным, но его вел интерес к истории.",
-              "en": "Dmitry decided to investigate this mysterious\nplace. He studied the history of the area and prepared all the devices for a\nlong hike. He knew the path would be difficult, but his interest in history led\nhim."
+              "en": "Dmitry decided to investigate this mysterious\nplace. He studied the history of the area and prepared all the devices for a\nlong hike. He knew the path would be difficult, but his interest in history led\nhim.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-42-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "Горы были очень высокими и крутыми. По дороге начался\nсильный дождь, и стало холодно. Дмитрий устал, но его желание найти истину\nпомогало ему двигаться дальше через лес.",
-              "en": "The mountains were very high and steep. Along the\nway, a heavy rain began, and it became cold. Dmitry was tired, but his desire to\nfind the truth helped him move further through the forest."
+              "en": "The mountains were very high and steep. Along the\nway, a heavy rain began, and it became cold. Dmitry was tired, but his desire to\nfind the truth helped him move further through the forest.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-42-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "Когда дождь прошел, Дмитрий пришел к месту, где текли две\nреки. Там был красивый водопад. За водой он обнаружил скрытый вход в пещеру,\nгде лежал старый каменный ящик.",
-              "en": "When the rain stopped, Dmitry came to the place\nwhere two rivers flowed. There was a beautiful waterfall. Behind the water, he\ndiscovered a hidden entrance to a cave where an old stone box lay."
+              "en": "When the rain stopped, Dmitry came to the place\nwhere two rivers flowed. There was a beautiful waterfall. Behind the water, he\ndiscovered a hidden entrance to a cave where an old stone box lay.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-42-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "Дмитрий открыл ящик и нашел старые бумаги. В них была\nзаписана история древних жителей этих мест и их полезные знания. Дмитрий\nпринес находку в университет и открыл забытую историю миру.",
-              "en": "Dmitry opened the box and found old papers. In them\nwas recorded the history of the ancient residents of these places and their\nuseful knowledge. Dmitry brought the find to the university and revealed the\nforgotten history to the world."
+              "en": "Dmitry opened the box and found old papers. In them\nwas recorded the history of the ancient residents of these places and their\nuseful knowledge. Dmitry brought the find to the university and revealed the\nforgotten history to the world.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-42-5.png"
             }
           ]
         },
@@ -9477,27 +9506,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "Ученый Коля работал на метеостанции высоко в горах. Он\nзаписывал показатели ветра и температуры. В последнее время погода в горах\nстала быстро меняться.",
-              "en": "The scientist Kolya worked at a weather station\nhigh in the mountains. He recorded wind and temperature indicators. Recently,\nthe weather in the mountains began to change rapidly."
+              "en": "The scientist Kolya worked at a weather station\nhigh in the mountains. He recorded wind and temperature indicators. Recently,\nthe weather in the mountains began to change rapidly.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-43-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Коля понял, что к маленькой деревне у подножия горы идет\nопасный шторм. Ему нужно было предупредить людей, чтобы защитить их дома от\nразрушения.",
-              "en": "Kolya realized that a dangerous storm was heading\ntowards the small village at the foot of the mountain. He needed to warn the\npeople to protect their homes from destruction."
+              "en": "Kolya realized that a dangerous storm was heading\ntowards the small village at the foot of the mountain. He needed to warn the\npeople to protect their homes from destruction.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-43-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "Он спустился в деревню и рассказал людям о ветре.\nНекоторые не верили его приборам, но научные данные убедили их\nсогласиться на временную эвакуацию.",
-              "en": "He descended to the village and told the people\nabout the wind. Some did not believe his instruments, but the scientific data\nconvinced them to agree to a temporary evacuation."
+              "en": "He descended to the village and told the people\nabout the wind. Some did not believe his instruments, but the scientific data\nconvinced them to agree to a temporary evacuation.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-43-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "Ночью начался сильный ураган. Ветер ломал деревья около\nдомов. Но благодаря быстрой работе Коли все жители уже были в безопасности в\nкаменном укрытии.",
-              "en": "At night, a strong hurricane began. The wind broke\ntrees near the houses. But thanks to Kolya's quick work, all the residents were\nalready safe in a stone shelter."
+              "en": "At night, a strong hurricane began. The wind broke\ntrees near the houses. But thanks to Kolya's quick work, all the residents were\nalready safe in a stone shelter.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-43-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "Утром шторм ушел. Деревня немного пострадала, но жизни\nлюдей были спасены. Жители благодарили молодого ученого и поняли ценность\nего работы и науки.",
-              "en": "In the morning, the storm left. The village was\nslightly damaged, but people's lives were saved. The residents thanked the young\nscientist and understood the value of his work and science."
+              "en": "In the morning, the storm left. The village was\nslightly damaged, but people's lives were saved. The residents thanked the young\nscientist and understood the value of his work and science.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-43-5.png"
             }
           ]
         },
@@ -9564,27 +9598,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "Океанолог Игорь построил новый подводный аппарат. Он\nпланировал опуститься в самую глубокую точку моря, чтобы изучить жизнь на\nдне океана.",
-              "en": "The oceanographer Igor built a new underwater\nvehicle. He planned to descend to the deepest point of the sea to study life on\nthe ocean floor."
+              "en": "The oceanographer Igor built a new underwater\nvehicle. He planned to descend to the deepest point of the sea to study life on\nthe ocean floor.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-44-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "На глубине нескольких тысяч метров была полная темнота. Но\nмощные лампы аппарата осветили неизвестный мир песка, камней и странных\nрастений.",
-              "en": "At a depth of several thousand meters, there was\ncomplete darkness. But the vehicle's powerful lamps illuminated an unknown world\nof sand, stones, and strange plants."
+              "en": "At a depth of several thousand meters, there was\ncomplete darkness. But the vehicle's powerful lamps illuminated an unknown world\nof sand, stones, and strange plants.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-44-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "Вдруг Игорь увидел маленькое светящееся животное. Это был\nновый вид, неизвестный науке. Он сделал много фотографий этого красивого\nсущества.",
-              "en": "Suddenly, Igor saw a small glowing animal. It was a\nnew species unknown to science. He took many photos of this beautiful creature."
+              "en": "Suddenly, Igor saw a small glowing animal. It was a\nnew species unknown to science. He took many photos of this beautiful creature.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-44-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "Во время работы приборы на секунду выключились. Игорь не\nстал паниковать. Он знал структуру аппарата и быстро исправил электрическую\nпроблему руками.",
-              "en": "During the operation, the instruments turned off\nfor a second. Igor did not panic. He knew the vehicle's structure and quickly\nfixed the electrical problem with his hands."
+              "en": "During the operation, the instruments turned off\nfor a second. Igor did not panic. He knew the vehicle's structure and quickly\nfixed the electrical problem with his hands.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-44-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "Игорь поднялся наверх и показал свои снимки ученым мира.\nЕго открытие помогло людям лучше понять океан и важность защиты его экологии.",
-              "en": "Igor ascended and showed his pictures to the\nscientists of the world. His discovery helped people better understand the ocean\nand the importance of protecting its ecology."
+              "en": "Igor ascended and showed his pictures to the\nscientists of the world. His discovery helped people better understand the ocean\nand the importance of protecting its ecology.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-44-5.png"
             }
           ]
         },
@@ -9651,27 +9690,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "Астроном Мария ждала появления редкой кометы. Эта комета\nподлетала к Земле один раз в сто лет. Она хотела сделать качественные снимки\nее хвоста.",
-              "en": "The astronomer Maria was waiting for the appearance\nof a rare comet. This comet approached Earth once every hundred years. She\nwanted to take high-quality pictures of its tail."
+              "en": "The astronomer Maria was waiting for the appearance\nof a rare comet. This comet approached Earth once every hundred years. She\nwanted to take high-quality pictures of its tail.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-45-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Она организовала маленькую вечернюю школу для детей на\nхолме за городом. Многие дети пришли вместе с родителями, чтобы посмотреть\nна небо.",
-              "en": "She organized a small evening school for children\non a hill outside the town. Many children came with their parents to look at the\nsky."
+              "en": "She organized a small evening school for children\non a hill outside the town. Many children came with their parents to look at the\nsky.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-45-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "Мария настроила большой телескоп и показала детям\nсозвездия. Она объясняла им законы космоса простыми и понятными\nсловами. Дети слушали с интересом.",
-              "en": "Maria adjusted the large telescope and showed the\nchildren constellations. She explained the laws of space to them in simple and\nclear words. The children listened with interest."
+              "en": "Maria adjusted the large telescope and showed the\nchildren constellations. She explained the laws of space to them in simple and\nclear words. The children listened with interest.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-45-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "Наконец комета появилась в темном небе. Ее яркий свет\nоставил длинную линию в небесах. Все замолчали и смотрели на это чудо\nприроды.",
-              "en": "Finally, the comet appeared in the dark sky. Its\nbright light left a long line in the heavens. Everyone fell silent and looked at\nthis miracle of nature."
+              "en": "Finally, the comet appeared in the dark sky. Its\nbright light left a long line in the heavens. Everyone fell silent and looked at\nthis miracle of nature.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-45-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "Этот вечер помог детям полюбить науку. Некоторые из них\nрешили стать астрономами в будущем. Мария поняла, что ее работа имеет большую\nценность.",
-              "en": "This evening helped the children fall in love with\nscience. Some of them decided to become astronomers in the future. Maria\nrealized that her work holds great value."
+              "en": "This evening helped the children fall in love with\nscience. Some of them decided to become astronomers in the future. Maria\nrealized that her work holds great value.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-45-5.png"
             }
           ]
         },
@@ -9738,27 +9782,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "Программист Алексей нашел в доме бабушки старый\nчерно-белый фотоальбом. Там были фотографии его семьи и картины жизни\nгорода сто лет назад.",
-              "en": "The programmer Alexey found an old black-and-white\nphoto album in his grandmother's house. There were photographs of his family and\npictures of the town's life a hundred years ago."
+              "en": "The programmer Alexey found an old black-and-white\nphoto album in his grandmother's house. There were photographs of his family and\npictures of the town's life a hundred years ago.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-46-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Алексей решил перевести эти снимки в цифровой формат,\nчтобы сохранить историю семьи. Он понимал, что бумага со временем может\nиспортиться.",
-              "en": "Alexey decided to convert these pictures into a\ndigital format to preserve the family's history. He understood that paper could\ndeteriorate over time."
+              "en": "Alexey decided to convert these pictures into a\ndigital format to preserve the family's history. He understood that paper could\ndeteriorate over time.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-46-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "Он использовал сканер и написал специальную программу на\nкомпьютере. Программа удаляла пыль с изображений и делала старые лица четкими.",
-              "en": "He used a scanner and wrote a special program on\nhis computer. The program removed dust from the images and made old faces clear."
+              "en": "He used a scanner and wrote a special program on\nhis computer. The program removed dust from the images and made old faces clear.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-46-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "Алексей выложил готовый альбом в интернет и отправил\nссылку всем родственникам в другие города. Все были удивлены и рады\nувидеть свои корни.",
-              "en": "Alexey uploaded the completed album to the internet\nand sent the link to all relatives in other cities. Everyone was surprised and\nglad to see their roots."
+              "en": "Alexey uploaded the completed album to the internet\nand sent the link to all relatives in other cities. Everyone was surprised and\nglad to see their roots.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-46-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "Благодаря современным технологиям история семьи была\nспасена для будущих детей. Алексей понял, что его знания могут служить\nдобрым целям общества.",
-              "en": "Thanks to modern technologies, the family's history\nwas saved for future children. Alexey realized that his knowledge could serve\nthe good goals of society."
+              "en": "Thanks to modern technologies, the family's history\nwas saved for future children. Alexey realized that his knowledge could serve\nthe good goals of society.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-46-5.png"
             }
           ]
         },
@@ -9825,27 +9874,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "Архитектор Андрей получил заказ на создание нового\nобщественного центра в городе. Он решил сделать здание максимально\nэкологичным и чистым.",
-              "en": "The architect Andrey received an order to create a\nnew community center in the city. He decided to make the building as\neco-friendly and clean as possible."
+              "en": "The architect Andrey received an order to create a\nnew community center in the city. He decided to make the building as\neco-friendly and clean as possible.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-47-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Он изменил структуру крыши, чтобы пропускать больше\nсолнечного света внутрь здания. Это помогало уменьшить использование\nэлектрических ламп днем.",
-              "en": "He changed the structure of the roof to let more\nsunlight inside the building. This helped reduce the use of electric lamps\nduring the day."
+              "en": "He changed the structure of the roof to let more\nsunlight inside the building. This helped reduce the use of electric lamps\nduring the day.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-47-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "На крыше центра Андрей запланировал посадить зеленый сад.\nСистема сбора дождевой воды должна была поливать растения автоматически без\nучастия человека.",
-              "en": "On the roof of the center, Andrey planned to plant\na green garden. A rainwater collection system was supposed to water the plants\nautomatically without human involvement."
+              "en": "On the roof of the center, Andrey planned to plant\na green garden. A rainwater collection system was supposed to water the plants\nautomatically without human involvement.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-47-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "Строители начали работу, используя безопасные материалы из\nпереработанного дерева. Жители города с интересом следили за созданием нового\nдома.",
-              "en": "Builders started the work, using safe materials\nmade from recycled wood. City residents watched the creation of the new building\nwith interest."
+              "en": "Builders started the work, using safe materials\nmade from recycled wood. City residents watched the creation of the new building\nwith interest.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-47-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "Новый центр стал самым красивым местом в городе. Люди\nприходили туда отдыхать под зелеными деревьями. Андрей доказал пользу\nзеленой архитектуры.",
-              "en": "The new center became the most beautiful place in\nthe city. People came there to rest under green trees. Andrey proved the benefit\nof green architecture."
+              "en": "The new center became the most beautiful place in\nthe city. People came there to rest under green trees. Andrey proved the benefit\nof green architecture.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-47-5.png"
             }
           ]
         },
@@ -9912,27 +9966,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "Садовник Елена получила просьбу восстановить сад старого\nмонастыря в пригороде. Этот сад был заброшен много лет назад и зарос дикой\nтравой.",
-              "en": "The gardener Yelena received a request to restore\nthe garden of an old monastery in the suburbs. This garden had been abandoned\nmany years ago and was overgrown with wild grass."
+              "en": "The gardener Yelena received a request to restore\nthe garden of an old monastery in the suburbs. This garden had been abandoned\nmany years ago and was overgrown with wild grass.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-48-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Она нарисовала новый план сада. Она решила положить\nбольшие серые камни у воды и сделать маленькие песчаные дорожки для тихих\nпрогулок людей.",
-              "en": "She drew a new plan for the garden. She decided to\nplace large grey stones near the water and make small sandy paths for quiet\nwalks of people."
+              "en": "She drew a new plan for the garden. She decided to\nplace large grey stones near the water and make small sandy paths for quiet\nwalks of people.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-48-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "Елена посадила мягкий зеленый мох в тени и красивые\nдеревья в центре сада. Эти деревья должны были менять свой цвет в разное\nвремя года.",
-              "en": "Yelena planted soft green moss in the shade and\nbeautiful trees in the center of the garden. These trees were supposed to change\ntheir color at different times of the year."
+              "en": "Yelena planted soft green moss in the shade and\nbeautiful trees in the center of the garden. These trees were supposed to change\ntheir color at different times of the year.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-48-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "Она хотела создать место, где каждый человек мог бы забыть\nпро городские проблемы, сесть в тишине и подумать о своей жизни и душе.",
-              "en": "She wanted to create a place where every person\ncould forget about city problems, sit in silence, and think about their life and\nsoul."
+              "en": "She wanted to create a place where every person\ncould forget about city problems, sit in silence, and think about their life and\nsoul.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-48-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "Сад стал настоящим местом покоя для людей. Они приходили\nслушать воду и ветер. Елена была рада, что смогла вернуть красоту старой\nземле.",
-              "en": "The garden became a true place of peace for people.\nThey came to listen to the water and the wind. Yelena was glad she could return\nbeauty to the old land."
+              "en": "The garden became a true place of peace for people.\nThey came to listen to the water and the wind. Yelena was glad she could return\nbeauty to the old land.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-48-5.png"
             }
           ]
         },
@@ -9999,27 +10058,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "Инженер Юрий работал над созданием нового аппарата. Это\nбыл маленький дрон, который мог летать только на солнечной энергии без\nбензина.",
-              "en": "The engineer Yuri worked on creating a new vehicle.\nIt was a small drone that could fly solely on solar energy without gasoline."
+              "en": "The engineer Yuri worked on creating a new vehicle.\nIt was a small drone that could fly solely on solar energy without gasoline.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-49-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Целью проекта было доставлять медицинские приборы и\nлекарства людям в труднодоступные районы гор, где дороги были разрушены\nоползнями.",
-              "en": "The goal of the project was to deliver medical\ndevices and medicines to people in hard-to-reach mountain areas where roads were\ndestroyed by landslides."
+              "en": "The goal of the project was to deliver medical\ndevices and medicines to people in hard-to-reach mountain areas where roads were\ndestroyed by landslides.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-49-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "В одно солнечное утро Юрий вывез аппарат на широкое поле.\nДрон тихо поднялся в воздух и полетел к горам, используя только силу света.",
-              "en": "On a sunny morning, Yuri took the vehicle out to a\nwide field. The drone quietly rose into the air and flew towards the mountains\nusing only the power of light."
+              "en": "On a sunny morning, Yuri took the vehicle out to a\nwide field. The drone quietly rose into the air and flew towards the mountains\nusing only the power of light.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-49-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "В горах поднялся сильный ветер. Но благодаря прочной\nструктуре крыла дрон смог сохранить баланс и продолжил движение по курсу.",
-              "en": "A strong wind arose in the mountains. But thanks to\nthe durable structure of the wing, the drone was able to maintain balance and\ncontinued moving on course."
+              "en": "A strong wind arose in the mountains. But thanks to\nthe durable structure of the wing, the drone was able to maintain balance and\ncontinued moving on course.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-49-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "Дрон успешно доставил груз на место. Юрий был счастлив.\nЕго новая технология доказала свою пользу и помогла сделать шаг к спасению\nжизней.",
-              "en": "The drone successfully delivered the cargo to the\ndestination. Yuri was happy. His new technology proved its utility and helped\nmake a step toward saving lives."
+              "en": "The drone successfully delivered the cargo to the\ndestination. Yuri was happy. His new technology proved its utility and helped\nmake a step toward saving lives.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-49-5.png"
             }
           ]
         },
@@ -10086,27 +10150,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "Биолог Анна много лет изучала экологическую систему\nместного леса. Она следила за тем, как живут маленькие животные и как\nрастут деревья.",
-              "en": "The biologist Anna had studied the local forest's\necological system for many years. She kept track of how small animals live and\nhow trees grow."
+              "en": "The biologist Anna had studied the local forest's\necological system for many years. She kept track of how small animals live and\nhow trees grow.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-50-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "Она наблюдала за тем, как упавшие листья превращаются в\nземлю, земля дает силу большим деревьям, а деревья служат домом для птиц.",
-              "en": "She observed how fallen leaves turn into soil, the\nsoil gives strength to big trees, and the trees serve as a home for birds."
+              "en": "She observed how fallen leaves turn into soil, the\nsoil gives strength to big trees, and the trees serve as a home for birds.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-50-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "В выходные Анна привела детей в лес, чтобы показать им эту\nструктуру. Она объясняла им, что на нашей Земле вся жизнь связана в один круг.",
-              "en": "On the weekend, Anna brought children to the forest\nto show them this structure. She explained to them that on our Earth, all life\nis connected in one circle."
+              "en": "On the weekend, Anna brought children to the forest\nto show them this structure. She explained to them that on our Earth, all life\nis connected in one circle.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-50-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "Дети сами искали насекомых под листьями и смотрели на\nрастения. Они поняли, что человек тоже является частью этого большого круга\nприроды.",
-              "en": "The children searched for insects under leaves\nthemselves and looked at plants. They understood that humans are also part of\nthis large circle of nature."
+              "en": "The children searched for insects under leaves\nthemselves and looked at plants. They understood that humans are also part of\nthis large circle of nature.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-50-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "Анна увидела интерес в глазах детей. Она поняла, что\nэкологическое образование — это лучший способ защитить природу нашей\nпланеты в будущем.",
-              "en": "Anna saw interest in the children's eyes. She\nunderstood that environmental education is the best way to protect our planet's\nnature in the future."
+              "en": "Anna saw interest in the children's eyes. She\nunderstood that environmental education is the best way to protect our planet's\nnature in the future.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-russian-advanced-50-5.png"
             }
           ]
         }
@@ -17147,7 +17216,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "私は彼を静かに見ます。彼はその本をテーブルの上に置きました。それは彼のための本でした。彼は静かでした、まるで猫のように。",
-              "en": "I look at him quietly. He put that book on the table. It was a book for him. He was quiet, just like a cat."
+              "en": "I look at him quietly. He put that book on the table. It was a book for him. He was quiet, just like a cat.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-beginner-01-1.png"
             }
           ]
         },
@@ -17185,7 +17255,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "彼らは今ここにいます。私の友達は、一つの家で私と一緒にいたいと思っています。私たちはこの静かな場所を持っています。",
-              "en": "They are here now. My friends want to be with me in one house. We have this quiet place."
+              "en": "They are here now. My friends want to be with me in one house. We have this quiet place.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-beginner-02-1.png"
             }
           ]
         },
@@ -17224,7 +17295,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "これは何ですか？これは彼からの言葉です。しかし、今日は暑いです。近くにいくつかの水があります。それは冷たいです。",
-              "en": "What is this? This is a word from him. But today is hot. There is some water nearby. It is cold."
+              "en": "What is this? This is a word from him. But today is hot. There is some water nearby. It is cold.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-beginner-03-1.png"
             }
           ]
         },
@@ -17265,7 +17337,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "あなたと私は行きます。それはあなた、または私ですか？私たちはその古い本を持っていました。一緒に新しい町に行きましょう。",
-              "en": "You and I will go. Is it you or me? We had that old book. Let us go to the new town together."
+              "en": "You and I will go. Is it you or me? We had that old book. Let us go to the new town together.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-beginner-04-1.png"
             }
           ]
         },
@@ -17305,7 +17378,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "私たちはその部屋の中にいました。どの部屋ですか？私たちは外に出ることができます。他の人々も外にいました。",
-              "en": "We were in that room. Which room? We can go out. Other people were outside too."
+              "en": "We were in that room. Which room? We can go out. Other people were outside too.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-beginner-05-1.png"
             }
           ]
         },
@@ -17345,7 +17419,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "彼は「時間がない」と言いました。もし彼らが仕事をするなら、どのようにしますか？それは良い計画になるでしょう。",
-              "en": "He said, \"There is no time.\" If they do their work, how will they do it? It will be a good plan."
+              "en": "He said, \"There is no time.\" If they do their work, how will they do it? It will be a good plan.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-beginner-06-1.png"
             }
           ]
         },
@@ -17385,7 +17460,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "私はあなたに教えたいです。三つのものがあります。それぞれのものがきれいな空気を必要とします。それはうまく機能します。",
-              "en": "I want to tell you. There are three things. Each thing needs clean air. It works well."
+              "en": "I want to tell you. There are three things. Each thing needs clean air. It works well.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-beginner-07-1.png"
             }
           ]
         },
@@ -17425,7 +17501,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "私は家で小さな本を読みます。また、手を使って静かに遊びます。一日の終わりに本を棚に置きます。",
-              "en": "I read a small book at home. I also play quietly using my hand. At the end of the day, I put the book on the shelf."
+              "en": "I read a small book at home. I also play quietly using my hand. At the end of the day, I put the book on the shelf.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-beginner-08-1.png"
             }
           ]
         },
@@ -17465,7 +17542,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "ここは大きな港です。この土地には大きな船があります。ここに名前を正しく書き、綴らなければなりません。追加も必要です。",
-              "en": "Here is a large port. There is a big ship on this land. You must write and spell your name correctly here. Addition is also needed."
+              "en": "Here is a large port. There is a big ship on this land. You must write and spell your name correctly here. Addition is also needed.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-beginner-09-1.png"
             }
           ]
         },
@@ -17505,7 +17583,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "人々は高い山に行きました。なぜ行くのかと尋ねました。彼らは行動し、その変化に従いました。",
-              "en": "The men went to a high mountain. I asked why they went. They acted and followed the change."
+              "en": "The men went to a high mountain. I asked why they went. They acted and followed the change.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-beginner-10-1.png"
             }
           ]
         },
@@ -17545,7 +17624,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "この家には光が必要です。電気を消して、もう一度写真を撮ってみてください。親切な人が私たちを助けてくれます。",
-              "en": "This house needs light. Please turn the light off and try to take a picture again. A kind person will help us."
+              "en": "This house needs light. Please turn the light off and try to take a picture again. A kind person will help us.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-beginner-11-1.png"
             }
           ]
         },
@@ -17585,7 +17665,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "私の母と父は地球を愛しています。私たちは家の近くに小さな家を建て、自分で野生動物を観察します。それが世界の意味です。",
-              "en": "My mother and father love the earth. We build a small house near our home and observe wild animals ourselves. That is the point of the world."
+              "en": "My mother and father love the earth. We build a small house near our home and observe wild animals ourselves. That is the point of the world.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-beginner-12-1.png"
             }
           ]
         },
@@ -17633,12 +17714,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "ある日、女の子は近くの森で小さな犬を見つけました。その犬は迷子になっていたようで、とても寒そうにしていました。女の子は優しく話しかけ、犬を安心させました。",
-              "en": "One day, a girl found a small dog in the nearby\nforest. The dog seemed to be lost and looked very cold. The girl spoke to it\ngently and made it feel safe."
+              "en": "One day, a girl found a small dog in the nearby\nforest. The dog seemed to be lost and looked very cold. The girl spoke to it\ngently and made it feel safe.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-13-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "彼女は犬を自分の家に連れて帰り、温かい食べ物を与えました。犬は嬉しそうに尾を振りました。彼女の母と父も犬を家族として迎え入れることに同意し、みんな幸せになりました。",
-              "en": "She took the dog back to her house and gave it warm\nfood. The dog wagged its tail happily. Her mother and father also agreed to\nwelcome the dog as a family member, and everyone became happy. === END OF\nSTORY 13 ==="
+              "en": "She took the dog back to her house and gave it warm\nfood. The dog wagged its tail happily. Her mother and father also agreed to\nwelcome the dog as a family member, and everyone became happy. === END OF\nSTORY 13 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-13-2.png"
             }
           ]
         },
@@ -17686,12 +17769,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "私たちは新しい家を建てるために、この静かな土地を選びました。近くには川があり、毎日鳥の歌声が聞こえます。今日からここで新しい生活が始まります。",
-              "en": "We chose this quiet land to build a new house.\nThere is a river nearby, and we can hear birds singing every day. A new life\nbegins here starting today."
+              "en": "We chose this quiet land to build a new house.\nThere is a river nearby, and we can hear birds singing every day. A new life\nbegins here starting today.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-14-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "父と私は、家の近くに小さな庭を造り始めました。私たちはそこにきれいな花を植えました。母は庭を窓から見て、とても親切に私たちを助けてくれました。",
-              "en": "My father and I began to build a small garden near\nthe house. We planted beautiful flowers there. Watching from the window, my\nmother helped us very kindly."
+              "en": "My father and I began to build a small garden near\nthe house. We planted beautiful flowers there. Watching from the window, my\nmother helped us very kindly.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-14-2.png"
             }
           ]
         },
@@ -17739,12 +17824,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "男の子は学校の難しい問題を考えていました。彼は長い時間、その本を読みましたが、答えが分かりませんでした。彼はとても困っていました。",
-              "en": "The boy was thinking about a difficult school\nproblem. He read that book for a long time, but did not understand the answer.\nHe was very troubled."
+              "en": "The boy was thinking about a difficult school\nproblem. He read that book for a long time, but did not understand the answer.\nHe was very troubled.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-15-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "母は彼の近くに来て、優しく言いました。「もう一度、最初のページから試してみて。ゆっくり読めば、その意味がきっとよく分かるわ。」彼は再び挑戦しました。",
-              "en": "His mother came near him and said gently, \"Try\nagain from the first page. If you read slowly, you will surely understand the\npoint well.\" He challenged it again."
+              "en": "His mother came near him and said gently, \"Try\nagain from the first page. If you read slowly, you will surely understand the\npoint well.\" He challenged it again.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-15-2.png"
             }
           ]
         },
@@ -17792,12 +17879,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "私たちの村の近くには大きな川があります。向こう側の土地に行くには、いつも遠い道を歩かなければなりませんでした。それはとても不便でした。",
-              "en": "There is a large river near our village. To go to\nthe land on the other side, we always had to walk a long way. It was very\ninconvenient."
+              "en": "There is a large river near our village. To go to\nthe land on the other side, we always had to walk a long way. It was very\ninconvenient.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-16-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "人々は集まり、木を使って新しい橋を建てることにしました。みんなで手を使って一生懸命働き、ついに大きな橋が完成しました。これで簡単に行き来ができます。",
-              "en": "The people gathered and decided to build a new\nbridge using wood. Everyone worked hard using their hands, and finally, a large\nbridge was completed. Now we can cross back and forth easily. === END OF\nSTORY 16 ==="
+              "en": "The people gathered and decided to build a new\nbridge using wood. Everyone worked hard using their hands, and finally, a large\nbridge was completed. Now we can cross back and forth easily. === END OF\nSTORY 16 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-16-2.png"
             }
           ]
         },
@@ -17845,12 +17934,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "祖父は私に一冊の古い絵本をくれました。その本には、世界中の動物たちの美しい写真がたくさん載っていました。私はその本が大好きになりました。",
-              "en": "My grandfather gave me an old picture book. In that\nbook, there were many beautiful pictures of animals from all over the world. I\nfell in love with that book."
+              "en": "My grandfather gave me an old picture book. In that\nbook, there were many beautiful pictures of animals from all over the world. I\nfell in love with that book.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-17-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "私は本を読みながら、いくつかの言葉のスペルを覚える練習をしました。母は私の隣に座って、私が正しく綴ることができるように親切に教えてくれました。",
-              "en": "While reading the book, I practiced remembering the\nspelling of some words. Sitting next to me, my mother kindly taught me so that I\ncould spell them correctly."
+              "en": "While reading the book, I practiced remembering the\nspelling of some words. Sitting next to me, my mother kindly taught me so that I\ncould spell them correctly.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-17-2.png"
             }
           ]
         },
@@ -17898,12 +17989,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "高い山の上に登ると、空がとても近くに見えました。風は強く吹いていましたが、光が満ちていて、世界が広く感じられました。",
-              "en": "When we climbed up the high mountain, the sky\nlooked very close. Although the wind was blowing strongly, it was filled with\nlight, and the world felt wide."
+              "en": "When we climbed up the high mountain, the sky\nlooked very close. Although the wind was blowing strongly, it was filled with\nlight, and the world felt wide.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-18-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "父は空を指して、「あの大きな鳥たちを見てごらん。彼らは遠い土地へ飛んでいくんだよ」と言いました。私たちは鳥の動きを静かに見守りました。",
-              "en": "Pointing to the sky, my father said, \"Look at those\nbig birds. They are flying to a distant land.\" We quietly watched the birds'\nmovement."
+              "en": "Pointing to the sky, my father said, \"Look at those\nbig birds. They are flying to a distant land.\" We quietly watched the birds'\nmovement.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-18-2.png"
             }
           ]
         },
@@ -17951,12 +18044,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "父は仕事のために遠い大きな港の町に行っていました。ある日、家にお父さんからの手紙が届きました。私は嬉しくて、すぐに封筒を開けました。",
-              "en": "My father went to a distant, large port town for\nwork. One day, a letter from my father arrived at the house. I was happy and\nopened the envelope immediately."
+              "en": "My father went to a distant, large port town for\nwork. One day, a letter from my father arrived at the house. I was happy and\nopened the envelope immediately.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-19-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "手紙には、その土地の美しい景色や、新しい人々との出会いについて書かれていました。父は「またすぐに帰るよ」と書いていました。私は安心しました。",
-              "en": "Written in the letter were details about the\nbeautiful scenery of that land and meetings with new people. My father wrote, \"I\nwill return again soon.\" I felt relieved."
+              "en": "Written in the letter were details about the\nbeautiful scenery of that land and meetings with new people. My father wrote, \"I\nwill return again soon.\" I felt relieved.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-19-2.png"
             }
           ]
         },
@@ -18004,12 +18099,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "非常に暑い夏の午後でした。家の中は風がなく、私たちは冷たい水を必要としていました。近くの古い井戸に水を取りに行くことにしました。",
-              "en": "It was an extremely hot summer afternoon. There was\nno wind inside the house, and we needed cold water. We decided to go get water\nfrom the old nearby well."
+              "en": "It was an extremely hot summer afternoon. There was\nno wind inside the house, and we needed cold water. We decided to go get water\nfrom the old nearby well.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-20-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "私たちは手を使って重い桶を引き上げました。井戸の水はとても冷たく、私たちは生き返るような気持ちになりました。自然の恵みに感謝しました。",
-              "en": "We used our hands to pull up the heavy bucket. The\nwell water was very cold, and we felt as though we were brought back to life. We\nthanked nature's blessing."
+              "en": "We used our hands to pull up the heavy bucket. The\nwell water was very cold, and we felt as though we were brought back to life. We\nthanked nature's blessing.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-20-2.png"
             }
           ]
         },
@@ -18057,12 +18154,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "今日は学校がお休みです。小さな子供たちが近くの広場に集まって、みんなで元気に遊び始めました。天気は良く、気持ちの良い風が吹いていました。",
-              "en": "Today is a school holiday. Small children gathered\nin the nearby square and all began playing energetically. The weather was good,\nand a pleasant wind was blowing."
+              "en": "Today is a school holiday. Small children gathered\nin the nearby square and all began playing energetically. The weather was good,\nand a pleasant wind was blowing.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-21-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "彼らは夕方まで走り回りました。一日の終わりに、みんなで大きな輪を作って座り、今日読んだ面白い本についてお互いに話し合いました。",
-              "en": "They ran around until evening. At the end of the\nday, everyone made a big circle and sat, talking to each other about the\ninteresting books they read today."
+              "en": "They ran around until evening. At the end of the\nday, everyone made a big circle and sat, talking to each other about the\ninteresting books they read today.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-21-2.png"
             }
           ]
         },
@@ -18110,12 +18209,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "すべてのことには終わりがあります。しかし、一つの終わりは、常に新しいことの始まりを意味しています。男の子は古いおもちゃを箱に置きました。",
-              "en": "There is an end to all things. However, one ending\nalways means the beginning of something new. The boy put his old toys in the\nbox."
+              "en": "There is an end to all things. However, one ending\nalways means the beginning of something new. The boy put his old toys in the\nbox.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-22-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "彼はもう大きくなりました。彼は新しい本を読み、自分で新しい計画を立てる必要があります。彼は未来に向かって笑顔で歩き始めました。",
-              "en": "He has already grown up. He needs to read new books\nand make new plans himself. He began walking toward the future with a smile. ===\nEND OF STORY 22 ==="
+              "en": "He has already grown up. He needs to read new books\nand make new plans himself. He began walking toward the future with a smile. ===\nEND OF STORY 22 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-22-2.png"
             }
           ]
         },
@@ -18162,12 +18263,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "私の家は大きな港の近くにあります。毎日、世界中から大きな船がやってきて、たくさんの人々がこの土地に降ります。ここはとても賑やかです。",
-              "en": "My house is near a large port. Every day, big ships\narrive from all over the world, and many people disembark onto this land. This\nplace is very lively."
+              "en": "My house is near a large port. Every day, big ships\narrive from all over the world, and many people disembark onto this land. This\nplace is very lively.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-23-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "夕方、私は父と一緒に海の近くに行き、船が外に出ていくのを見ます。夕日の光が海を赤く照らし、その光景は言葉にできないほど美しいです。",
-              "en": "In the evening, I go near the sea with my father\nand watch the ships head out. The light of the setting sun paints the sea red,\nand the scenery is too beautiful for words."
+              "en": "In the evening, I go near the sea with my father\nand watch the ships head out. The light of the setting sun paints the sea red,\nand the scenery is too beautiful for words.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-23-2.png"
             }
           ]
         },
@@ -18214,12 +18317,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "私たちは高い山を登る計画を立てました。その山は雲の近くまで高くそびえ立っており、登るには強い意志と行動が必要でした。",
-              "en": "We made a plan to climb a high mountain. That\nmountain towered high near the clouds, and climbing it required strong will and\naction."
+              "en": "We made a plan to climb a high mountain. That\nmountain towered high near the clouds, and climbing it required strong will and\naction.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-24-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "山頂に着くと、冷たい風が吹いていました。そこから見る世界は非常に広く、家や川が小さく見えました。私たちは自分自身の力でここまで来られたことを誇りに思いました。",
-              "en": "When we reached the summit, a cold wind was\nblowing. The world seen from there was extremely wide; houses and rivers looked\nsmall. We were proud to have come this far through our own strength. === END OF\nSTORY 24 ==="
+              "en": "When we reached the summit, a cold wind was\nblowing. The world seen from there was extremely wide; houses and rivers looked\nsmall. We were proud to have come this far through our own strength. === END OF\nSTORY 24 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-24-2.png"
             }
           ]
         },
@@ -18266,12 +18371,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "女の子は紙で小さな動物の形を折ろうとしていました。しかし、最初の試みは失敗し、紙は破れてしまいました。彼女は少し悲しくなりました。",
-              "en": "The girl was trying to fold a paper into the shape\nof a small animal. However, her first attempt failed, and the paper tore. She\nbecame a little sad."
+              "en": "The girl was trying to fold a paper into the shape\nof a small animal. However, her first attempt failed, and the paper tore. She\nbecame a little sad.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-25-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "お母さんは彼女に「もう一度試してみて。次はもっとゆっくり折るといいよ」と言いました。彼女は新しい紙を使い、ついに美しい形を折ることができました。",
-              "en": "Her mother told her, \"Try again. Next time, it's\nbetter to fold it more slowly.\" Using a new sheet of paper, she was finally able\nto fold a beautiful shape."
+              "en": "Her mother told her, \"Try again. Next time, it's\nbetter to fold it more slowly.\" Using a new sheet of paper, she was finally able\nto fold a beautiful shape.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-25-2.png"
             }
           ]
         },
@@ -18318,12 +18425,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "言葉は私たちを新しい世界へと連れて行ってくれます。私は毎日、新しい言葉の意味を調べ、ノートに書き写して覚える練習をしています。",
-              "en": "Words take us to new worlds. Every day, I look up\nthe meanings of new words, copy them into my notebook, and practice memorizing\nthem."
+              "en": "Words take us to new worlds. Every day, I look up\nthe meanings of new words, copy them into my notebook, and practice memorizing\nthem.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-26-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "本を読むことは、自分自身を高めるための素晴らしい方法です。多くの本を読むことで、私たちは他人の考えを理解し、より親切な人になることができます。",
-              "en": "Reading books is a wonderful way to improve\noneself. By reading many books, we can understand other people's thoughts and\nbecome kinder people."
+              "en": "Reading books is a wonderful way to improve\noneself. By reading many books, we can understand other people's thoughts and\nbecome kinder people.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-elementary-26-2.png"
             }
           ]
         },
@@ -18379,17 +18488,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "ある土曜日の午後、健太は家の古い屋根裏部屋を掃除していました。そこには、多くの古い箱や家具が置かれていました。部屋の隅に、大きな木製の古い時計が立っているのを見つけました。その時計はもう何年も動いていないようで、ほこりがたくさん積もっていました。",
-              "en": "On a Saturday afternoon, Kenta was cleaning the old\nattic of his house. Many old boxes and furniture were placed there. In the\ncorner of the room, he found a large, old wooden clock standing. The clock did\nnot seem to have moved for many years, and a lot of dust had accumulated on it."
+              "en": "On a Saturday afternoon, Kenta was cleaning the old\nattic of his house. Many old boxes and furniture were placed there. In the\ncorner of the room, he found a large, old wooden clock standing. The clock did\nnot seem to have moved for many years, and a lot of dust had accumulated on it.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-27-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "健太は時計のガラスの扉を開けて、中を調べてみました。すると、振り子の後ろに小さな真鍮の鍵が隠されているのを見つけました。彼はその鍵を手に取り、時計の側面にある小さな穴に差し込んでみました。鍵はぴったりと合いました。",
-              "en": "Kenta opened the clock's glass door and examined\nthe inside. Then, he found a small brass key hidden behind the pendulum. He took\nthe key in his hand and tried inserting it into a small hole on the side of the\nclock. The key fit perfectly."
+              "en": "Kenta opened the clock's glass door and examined\nthe inside. Then, he found a small brass key hidden behind the pendulum. He took\nthe key in his hand and tried inserting it into a small hole on the side of the\nclock. The key fit perfectly.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-27-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "彼が鍵をゆっくりと回すと、カチカチという懐かしい音が聞こえ始めました。時計の針が再び動き出し、美しい鐘の音が部屋中に響きました。それは、祖父が昔よく聞いていた音と同じでした。健太は暖かい気持ちになり、時間の不思議さを感じました。",
-              "en": "As he turned the key slowly, a nostalgic ticking\nsound began to be heard. The hands of the clock started moving again, and the\nbeautiful sound of a chime echoed throughout the room. It was the same sound his\ngrandfather used to listen to long ago. Kenta felt a warm feeling and\nexperienced the wonder of time."
+              "en": "As he turned the key slowly, a nostalgic ticking\nsound began to be heard. The hands of the clock started moving again, and the\nbeautiful sound of a chime echoed throughout the room. It was the same sound his\ngrandfather used to listen to long ago. Kenta felt a warm feeling and\nexperienced the wonder of time.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-27-3.png"
             }
           ]
         },
@@ -18445,17 +18557,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "美咲は、鳥の声しか聞こえない静かな森の中を歩いていました。木々はとても高く、太陽の光が葉の間からわずかに差し込むだけでした。足元には柔らかい緑の苔が広がっており、まるで静かな絨毯の上を歩いているようでした。",
-              "en": "Misaki was walking through a quiet forest where\nonly the voices of birds could be heard. The trees were very tall, and the\nsunlight only slightly filtered through the leaves. Soft green moss spread\nunderfoot, making it feel as if she were walking on a quiet carpet."
+              "en": "Misaki was walking through a quiet forest where\nonly the voices of birds could be heard. The trees were very tall, and the\nsunlight only slightly filtered through the leaves. Soft green moss spread\nunderfoot, making it feel as if she were walking on a quiet carpet.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-28-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "さらに奥へ進むと、突然目の前が開け、小さな美しい湖が現れました。湖の水は鏡のように澄んでいて、青い空と白い雲がそのまま映っていました。近くには数頭の鹿がいて、静かに水を飲んでいました。彼女は息をのんでその光景を見つめました。",
-              "en": "As she went further inside, the space in front of\nher suddenly opened up, and a small, beautiful lake appeared. The lake water was\nas clear as a mirror, reflecting the blue sky and white clouds exactly. There\nwere several deer nearby, quietly drinking water. She held her breath and stared\nat the scene."
+              "en": "As she went further inside, the space in front of\nher suddenly opened up, and a small, beautiful lake appeared. The lake water was\nas clear as a mirror, reflecting the blue sky and white clouds exactly. There\nwere several deer nearby, quietly drinking water. She held her breath and stared\nat the scene.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-28-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "美咲は湖の近くにある乾いた岩の上に座り、バッグからスケッチブックとペンを取り出しました。彼女は、森の静けさと美しい湖、そして鹿たちの姿を言葉と絵で書き留めました。この特別な旅の記憶は、彼女の心の中にずっと残り続けるでしょう。",
-              "en": "Misaki sat on a dry rock near the lake and took out\na sketchbook and a pen from her bag. She wrote down the silence of the forest,\nthe beautiful lake, and the appearance of the deer using words and drawings. The\nmemory of this special journey will surely remain in her heart forever. === END\nOF STORY 28 ==="
+              "en": "Misaki sat on a dry rock near the lake and took out\na sketchbook and a pen from her bag. She wrote down the silence of the forest,\nthe beautiful lake, and the appearance of the deer using words and drawings. The\nmemory of this special journey will surely remain in her heart forever. === END\nOF STORY 28 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-28-3.png"
             }
           ]
         },
@@ -18511,17 +18626,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "拓海は、海沿いにある美しい港町に住んでいました。毎年夏になると、この町では大きなお祭りが開催されます。港には色とりどりの旗が飾られ、美味しい食べ物の屋台がたくさん並びます。夕方になると、多くの人々が浴衣を着て集まり始めました。",
-              "en": "Takumi lived in a beautiful port town along the\nsea. Every summer, a large festival is held in this town. Various colorful flags\nare decorated at the port, and many stalls of delicious food stand in a row. As\nevening approached, many people wearing yukata began to gather."
+              "en": "Takumi lived in a beautiful port town along the\nsea. Every summer, a large festival is held in this town. Various colorful flags\nare decorated at the port, and many stalls of delicious food stand in a row. As\nevening approached, many people wearing yukata began to gather.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-29-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "拓海は、港の近くで古い漁師の源さんに出会いました。源さんは、若い頃に経験した遠い海への航海の話をしてくれました。嵐の中で見た不思議な青い光や、巨大な魚の話に、拓海は目を輝かせて聞き入りました。それは冒険への憧れを強くさせるものでした。",
-              "en": "Takumi met Gen-san, an old fisherman, near the\nport. Gen-san told him stories of sea voyages to distant oceans that he had\nexperienced when he was young. Takumi listened with shining eyes to the stories\nof the mysterious blue light seen in the storm and the giant fish. It was\nsomething that strengthened his longing for adventure."
+              "en": "Takumi met Gen-san, an old fisherman, near the\nport. Gen-san told him stories of sea voyages to distant oceans that he had\nexperienced when he was young. Takumi listened with shining eyes to the stories\nof the mysterious blue light seen in the storm and the giant fish. It was\nsomething that strengthened his longing for adventure.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-29-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "夜が深まると、お祭りのハイライトである花火が始まりました。大きな音が響き、暗い空に美しい光の大輪の花が次々と咲きました。海の水面にもその光が映り、街全体が輝いているようでした。拓海は、この美しい故郷の景色を誇りに思いました。",
-              "en": "As the night deepened, the fireworks, which were\nthe highlight of the festival, began. A loud sound echoed, and large flowers of\nbeautiful light bloomed one after another in the dark sky. The light was also\nreflected on the sea's surface, making the entire town look as if it were\nglowing. Takumi felt proud of the beautiful scenery of his hometown. === END OF\nSTORY 29 ==="
+              "en": "As the night deepened, the fireworks, which were\nthe highlight of the festival, began. A loud sound echoed, and large flowers of\nbeautiful light bloomed one after another in the dark sky. The light was also\nreflected on the sea's surface, making the entire town look as if it were\nglowing. Takumi felt proud of the beautiful scenery of his hometown. === END OF\nSTORY 29 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-29-3.png"
             }
           ]
         },
@@ -18577,17 +18695,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "木村先生の理科のクラスで、新しいグループワークの課題が出されました。それは、「未来のクリーンな街」の模型を作ることでした。生徒たちは４人のチームに分かれ、どのようなエネルギーを使い、どのように環境を守るかを話し合い始めました。",
-              "en": "In Mr. Kimura's science class, a new group work\nassignment was given. It was to build a model of a \"clean city of the future.\"\nThe students divided into teams of four and began to discuss what kind of energy\nto use and how to protect the environment."
+              "en": "In Mr. Kimura's science class, a new group work\nassignment was given. It was to build a model of a \"clean city of the future.\"\nThe students divided into teams of four and began to discuss what kind of energy\nto use and how to protect the environment.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-30-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "さくらのチームでは、たくさんのユニークなアイデアが出ました。太陽光パネルをすべての家の屋根に設置することや、雨水をためて植物に与えるシステムなどです。彼らは紙や段ボールなど、シンプルな素材を使って、協力しながら模型を組み立てていきました。",
-              "en": "In Sakura's team, many unique ideas came up. These\nincluded installing solar panels on the roofs of all houses and a system to\ncollect rainwater to feed plants. They used simple materials such as paper and\ncardboard, cooperating as they assembled the model."
+              "en": "In Sakura's team, many unique ideas came up. These\nincluded installing solar panels on the roofs of all houses and a system to\ncollect rainwater to feed plants. They used simple materials such as paper and\ncardboard, cooperating as they assembled the model.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-30-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "発表の日、それぞれのチームが素晴らしい模型をクラスの前で見せました。さくらのチームは、自分たちの未来の街の価値を自信を持って説明しました。みんなでアイデアを合わせ、協力することの大切さを学び、彼らは素晴らしい経験を得ました。",
-              "en": "On the presentation day, each team showed their\nwonderful models in front of the class. Sakura's team confidently explained the\nvalue of their future city. By bringing ideas together and learning the\nimportance of cooperation, they gained a wonderful experience. === END OF\nSTORY 30 ==="
+              "en": "On the presentation day, each team showed their\nwonderful models in front of the class. Sakura's team confidently explained the\nvalue of their future city. By bringing ideas together and learning the\nimportance of cooperation, they gained a wonderful experience. === END OF\nSTORY 30 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-30-3.png"
             }
           ]
         },
@@ -18643,17 +18764,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "翔太は、朝早くから高い山の登山道を進んでいました。風が非常に強く吹いていて、少し寒さを感じましたが、体は歩くことで暖まっていました。登山道の周りには、珍しい山の植物や小さな花が咲いていて、彼の目を励ましてくれました。",
-              "en": "Shota was making his way up a high mountain path\nfrom early morning. The wind was blowing very strongly, and he felt a little\ncold, but his body warmed up by walking. Around the mountain trail, rare\nmountain plants and small flowers were blooming, encouraging his eyes."
+              "en": "Shota was making his way up a high mountain path\nfrom early morning. The wind was blowing very strongly, and he felt a little\ncold, but his body warmed up by walking. Around the mountain trail, rare\nmountain plants and small flowers were blooming, encouraging his eyes.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-31-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "昼頃、突然空が暗くなり、激しい雨が降り始めました。幸いなことに、少し進んだところに石で造られた小さな避難小屋がありました。翔太は急いでその小屋の中に逃げ込み、雨が通り過ぎるのを待ちました。彼はそこで温かいお茶を飲みました。",
-              "en": "Around noon, the sky suddenly turned dark, and\nheavy rain began to fall. Fortunately, a short distance ahead, there was a small\nshelter built of stone. Shota quickly took refuge inside the shelter and waited\nfor the rain to pass. He drank warm tea there."
+              "en": "Around noon, the sky suddenly turned dark, and\nheavy rain began to fall. Fortunately, a short distance ahead, there was a small\nshelter built of stone. Shota quickly took refuge inside the shelter and waited\nfor the rain to pass. He drank warm tea there.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-31-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "一時間ほどすると、雨は止み、空には美しい青空が戻ってきました。翔太が小屋を出て山頂に到達したとき、眼下には雨に洗われて輝く広い谷が広がっていました。強い風が彼の疲れを吹き飛ばし、彼は登山の本当の楽しさを実感しました。",
-              "en": "After about an hour, the rain stopped, and the\nbeautiful blue sky returned. When Shota left the shelter and reached the summit,\na wide valley washed clean by the rain spread out shining below him. The strong\nwind blew away his fatigue, and he truly realized the real joy of mountain\nclimbing."
+              "en": "After about an hour, the rain stopped, and the\nbeautiful blue sky returned. When Shota left the shelter and reached the summit,\na wide valley washed clean by the rain spread out shining below him. The strong\nwind blew away his fatigue, and he truly realized the real joy of mountain\nclimbing.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-31-3.png"
             }
           ]
         },
@@ -18709,17 +18833,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "小学生の蓮は、祖父の古い勉強部屋で本を探していました。机の古い引き出しを引くと、その奥から一枚の手書きの地図が出てきました。それは、祖父が子供の頃に描いた地元の森の地図で、赤いバツ印が一つだけ描かれていました。",
-              "en": "Elementary school student Ren was looking for a\nbook in his grandfather's old study room. When he pulled an old desk drawer, a\nhand-drawn map came out from the back. It was a map of the local forest drawn by\nhis grandfather when he was a child, with only one red 'X' marked on it."
+              "en": "Elementary school student Ren was looking for a\nbook in his grandfather's old study room. When he pulled an old desk drawer, a\nhand-drawn map came out from the back. It was a map of the local forest drawn by\nhis grandfather when he was a child, with only one red 'X' marked on it.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-32-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "蓮は、友達の陸と一緒に、地図を頼りに森へ行くことにしました。地図に描かれている古い特徴的な木を目印にして、彼らは奥へと進みました。しばらく歩くと、草やツタに覆われた古い石造りの井戸が姿を現しました。地図の場所とぴったりでした。",
-              "en": "Ren decided to go to the forest with his friend\nRiku, relying on the map. Using the old characteristic tree drawn on the map as\na landmark, they headed deeper inside. After walking for a while, an old stone\nwell covered with grass and ivy revealed itself. It matched the map's location\nperfectly."
+              "en": "Ren decided to go to the forest with his friend\nRiku, relying on the map. Using the old characteristic tree drawn on the map as\na landmark, they headed deeper inside. After walking for a while, an old stone\nwell covered with grass and ivy revealed itself. It matched the map's location\nperfectly.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-32-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "井戸の隙間をのぞくと、古いプラスチックの小さな箱が置かれているのを見つけました。箱を開けると、中には古い硬貨と、祖父が子供の時の名前が書かれたメモが入っていました。彼らは歴史のかけらを見つけ、まるでタイムトラベルをしたような気持ちになりました。",
-              "en": "Peering through a gap in the well, they found a\nsmall, old plastic box placed inside. When they opened the box, inside was an\nold coin and a memo with their grandfather's childhood name written on it. They\nfound a piece of history and felt as if they had traveled through time. === END\nOF STORY 32 ==="
+              "en": "Peering through a gap in the well, they found a\nsmall, old plastic box placed inside. When they opened the box, inside was an\nold coin and a memo with their grandfather's childhood name written on it. They\nfound a piece of history and felt as if they had traveled through time. === END\nOF STORY 32 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-32-3.png"
             }
           ]
         },
@@ -18775,17 +18902,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "あおいは、毎週土曜日に絵画のクラスに通っていました。今日の授業は、教室の窓から見える川と空の景色を描くことでした。彼女は大きなキャンバスを準備し、水彩の絵の具をパレットの上にいくつか出しました。どんな絵を描くかワクワクしていました。",
-              "en": "Aoi attended a painting class every Saturday.\nToday's lesson was to paint the scenery of the river and sky seen from the\nclassroom window. She prepared a large canvas and put out several watercolor\npaints on the palette. She was excited about what kind of painting she would\nmake."
+              "en": "Aoi attended a painting class every Saturday.\nToday's lesson was to paint the scenery of the river and sky seen from the\nclassroom window. She prepared a large canvas and put out several watercolor\npaints on the palette. She was excited about what kind of painting she would\nmake.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-33-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "時間が経つと、外の空がゆっくりとオレンジ色に変わり始めました。川の水面には夕日の美しい光が反射していました。あおいは、その変化する美しい色を表現するために、赤と黄色の絵の具を慎重に混ぜ、ブラシを使ってキャンバスに色を乗せました。",
-              "en": "As time passed, the sky outside slowly began to\nturn orange. The beautiful light of the sunset reflected on the river's water\nsurface. To express those changing, beautiful colors, Aoi carefully mixed red\nand yellow paints and applied the colors to the canvas using a brush."
+              "en": "As time passed, the sky outside slowly began to\nturn orange. The beautiful light of the sunset reflected on the river's water\nsurface. To express those changing, beautiful colors, Aoi carefully mixed red\nand yellow paints and applied the colors to the canvas using a brush.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-33-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "クラスの終わりに、みんなの絵が壁に並べられました。同じ窓からの景色を描いたにもかかわらず、それぞれの絵には違った個性や美しさがありました。あおいは、他人の表現を見ることで深く学び、自分の絵の価値と可能性を改めて感じました。",
-              "en": "At the end of the class, everyone's paintings were\nlined up on the wall. Despite painting the scenery from the same window, each\npainting had a different individuality and beauty. Aoi learned deeply by looking\nat other people's expressions and felt once again the value and potential of her\nown art."
+              "en": "At the end of the class, everyone's paintings were\nlined up on the wall. Despite painting the scenery from the same window, each\npainting had a different individuality and beauty. Aoi learned deeply by looking\nat other people's expressions and felt once again the value and potential of her\nown art.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-33-3.png"
             }
           ]
         },
@@ -18841,17 +18971,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "放課後、すみれは家の小さな庭でなくした鍵を探していました。朝から雨が降っていたので、土は柔らかく、草には水の粒が残っていました。弟も一緒に来て、二人で石の下や植木鉢の近くを丁寧に見ました。",
-              "en": "After school, Sumire was looking for a lost key in the small garden at home. Because it had rained since morning, the soil was soft and drops of water remained on the grass. Her younger brother came too, and they carefully looked under stones and near the flowerpots."
+              "en": "After school, Sumire was looking for a lost key in the small garden at home. Because it had rained since morning, the soil was soft and drops of water remained on the grass. Her younger brother came too, and they carefully looked under stones and near the flowerpots.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-34-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "すみれは古いベンチのそばで、泥の中に細い線を見つけました。それは誰かが何かを引きずった跡のようでした。弟は葉をどかしながら、「ここをもう一度見よう」と言いました。二人は急がず、静かに手がかりを追いました。",
-              "en": "Near an old bench, Sumire found a thin line in the mud. It looked like a mark left by something being dragged. Her brother moved the leaves aside and said, \"Let's look here one more time.\" The two followed the clue quietly without rushing."
+              "en": "Near an old bench, Sumire found a thin line in the mud. It looked like a mark left by something being dragged. Her brother moved the leaves aside and said, \"Let's look here one more time.\" The two followed the clue quietly without rushing.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-34-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "最後に、灰色の小さな石の下で金色の光が見えました。すみれが石を持ち上げると、そこに鍵がありました。彼女はほっとして笑い、弟に感謝しました。その日、二人は注意深く見ることの大切さを学びました。",
-              "en": "At last, a golden shine appeared under a small gray stone. When Sumire lifted the stone, the key was there. She smiled with relief and thanked her brother. That day, they learned the importance of looking carefully."
+              "en": "At last, a golden shine appeared under a small gray stone. When Sumire lifted the stone, the key was there. She smiled with relief and thanked her brother. That day, they learned the importance of looking carefully.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-34-3.png"
             }
           ]
         },
@@ -18906,17 +19039,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "夏休みの朝、はるとは友達と川辺へ行きました。水は透明で、浅い場所では小さな魚が銀色に光っていました。先生から遠くへ行きすぎないように言われていたので、みんなは岸の近くで遊ぶことにしました。",
-              "en": "On a summer vacation morning, Haruto went to the riverside with his friends. The water was clear, and in the shallow places small fish shone silver. Their teacher had told them not to go too far, so everyone decided to play near the bank."
+              "en": "On a summer vacation morning, Haruto went to the riverside with his friends. The water was clear, and in the shallow places small fish shone silver. Their teacher had told them not to go too far, so everyone decided to play near the bank.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-35-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "突然、強い風が吹いて、友達の帽子が川に落ちました。帽子はゆっくり流れ始めましたが、はるとは慌てませんでした。彼は長い枝を見つけ、岸から安全に手を伸ばして帽子を引き寄せました。",
-              "en": "Suddenly, a strong wind blew, and a friend's hat fell into the river. The hat began to float away slowly, but Haruto did not panic. He found a long branch and safely reached from the bank to pull the hat closer."
+              "en": "Suddenly, a strong wind blew, and a friend's hat fell into the river. The hat began to float away slowly, but Haruto did not panic. He found a long branch and safely reached from the bank to pull the hat closer.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-35-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "帽子が戻ると、友達は大きな声で喜びました。はるとは、川は美しいけれど注意が必要だと思いました。帰る前に、みんなは次に来る時も規則を守り、自然を大切にしようと約束しました。",
-              "en": "When the hat returned, his friends cheered loudly. Haruto thought that the river was beautiful but required care. Before going home, everyone promised to follow the rules next time too and take care of nature."
+              "en": "When the hat returned, his friends cheered loudly. Haruto thought that the river was beautiful but required care. Before going home, everyone promised to follow the rules next time too and take care of nature.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-35-3.png"
             }
           ]
         },
@@ -18971,17 +19107,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "秋の週末、りくは家族と山へキャンプに行きました。夜になると空気が冷たくなり、町の明かりは遠くに小さく見えました。父は毛布を出し、みんなで外に座って空を見上げました。",
-              "en": "On an autumn weekend, Riku went camping in the mountains with his family. At night the air became cold, and the lights of the town looked small in the distance. His father brought out blankets, and everyone sat outside looking up at the sky."
+              "en": "On an autumn weekend, Riku went camping in the mountains with his family. At night the air became cold, and the lights of the town looked small in the distance. His father brought out blankets, and everyone sat outside looking up at the sky.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-36-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "空には数えきれないほどの星がありました。母は星座の名前を教え、りくは指で形をなぞりました。彼は、昔の人々も同じ星を見ながら旅をしたのだろうと想像しました。",
-              "en": "There were more stars in the sky than he could count. His mother taught him the names of constellations, and Riku traced their shapes with his finger. He imagined that people long ago must have traveled while looking at the same stars."
+              "en": "There were more stars in the sky than he could count. His mother taught him the names of constellations, and Riku traced their shapes with his finger. He imagined that people long ago must have traveled while looking at the same stars.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-36-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "流れ星が一つ、空を横切りました。りくは目を閉じて、もっと多くのことを学びたいと願いました。翌朝、彼は小さなノートに星の絵を描き、宇宙への興味を忘れないようにしました。",
-              "en": "One shooting star crossed the sky. Riku closed his eyes and wished to learn many more things. The next morning, he drew stars in a small notebook so he would not forget his interest in space."
+              "en": "One shooting star crossed the sky. Riku closed his eyes and wished to learn many more things. The next morning, he drew stars in a small notebook so he would not forget his interest in space.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-36-3.png"
             }
           ]
         },
@@ -19036,17 +19175,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "学校の裏には、長い間使われていない小さな空き地がありました。草は伸び、土は固くなっていました。クラスのみんなは先生と相談し、その場所を野菜と花の庭に変える計画を立てました。",
-              "en": "Behind the school, there was a small unused space that had been empty for a long time. The grass had grown tall, and the soil had become hard. The class talked with the teacher and made a plan to turn the place into a vegetable and flower garden."
+              "en": "Behind the school, there was a small unused space that had been empty for a long time. The grass had grown tall, and the soil had become hard. The class talked with the teacher and made a plan to turn the place into a vegetable and flower garden.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-37-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "ゆいは種を選ぶ係になり、友達は水やりと看板作りを担当しました。最初の作業は大変で、手も服も土で汚れました。それでも、みんなは笑いながら協力し、少しずつ庭の形を作っていきました。",
-              "en": "Yui became responsible for choosing seeds, while her friends took charge of watering and making signs. The first work was hard, and their hands and clothes became dirty with soil. Still, everyone cooperated while laughing and slowly shaped the garden."
+              "en": "Yui became responsible for choosing seeds, while her friends took charge of watering and making signs. The first work was hard, and their hands and clothes became dirty with soil. Still, everyone cooperated while laughing and slowly shaped the garden.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-37-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "数週間後、小さな緑の芽が並びました。やがて赤いトマトと明るい花が育ち、学校の裏は楽しい場所になりました。ゆいは、自分たちの手で育てたものには特別な味と意味があると感じました。",
-              "en": "A few weeks later, small green sprouts stood in rows. Eventually red tomatoes and bright flowers grew, and the back of the school became a cheerful place. Yui felt that things grown with their own hands had a special taste and meaning."
+              "en": "A few weeks later, small green sprouts stood in rows. Eventually red tomatoes and bright flowers grew, and the back of the school became a cheerful place. Yui felt that things grown with their own hands had a special taste and meaning.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-37-3.png"
             }
           ]
         },
@@ -19101,17 +19243,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "海辺の町には、長い間使われていない古い灯台がありました。壁の色は薄くなり、階段にはほこりが積もっていました。けれども、町の人々はその灯台を大切な記憶として守りたいと思っていました。",
-              "en": "In a seaside town, there was an old lighthouse that had not been used for a long time. The wall color had faded, and dust covered the stairs. Even so, the people of the town wanted to protect the lighthouse as an important memory."
+              "en": "In a seaside town, there was an old lighthouse that had not been used for a long time. The wall color had faded, and dust covered the stairs. Even so, the people of the town wanted to protect the lighthouse as an important memory.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-38-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "けんとは友達と一緒に掃除を手伝いました。窓を磨くと、遠くの海が青く見えました。大人たちは壊れたランプを修理し、子供たちは古い写真を並べて、小さな展示を作りました。",
-              "en": "Kento helped clean with his friends. When they polished the windows, the distant sea looked blue. The adults repaired the broken lamp, and the children arranged old photographs to make a small display."
+              "en": "Kento helped clean with his friends. When they polished the windows, the distant sea looked blue. The adults repaired the broken lamp, and the children arranged old photographs to make a small display.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-38-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "夕方、灯台の光が久しぶりに海へ向かって伸びました。町の人々は拍手し、けんとは胸が熱くなりました。古い建物でも、みんなで力を合わせれば新しい役目を持てるのだと彼は知りました。",
-              "en": "In the evening, the lighthouse light reached out toward the sea for the first time in a long while. The townspeople clapped, and Kento felt moved. He learned that even an old building could have a new role if everyone worked together."
+              "en": "In the evening, the lighthouse light reached out toward the sea for the first time in a long while. The townspeople clapped, and Kento felt moved. He learned that even an old building could have a new role if everyone worked together.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-38-3.png"
             }
           ]
         },
@@ -19166,17 +19311,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "毎年秋に、学校では大きな科学展が開かれます。まなは水の浄化について発表することにしました。彼女は砂、石、布を使って小さな装置を作り、汚れた水が少しずつきれいになる様子を調べました。",
-              "en": "Every autumn, the school holds a large science fair. Mana decided to present about water purification. She made a small device using sand, stones, and cloth, and studied how dirty water gradually became cleaner."
+              "en": "Every autumn, the school holds a large science fair. Mana decided to present about water purification. She made a small device using sand, stones, and cloth, and studied how dirty water gradually became cleaner.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-39-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "最初の実験では、水は思ったほどきれいになりませんでした。まなは落ち込みましたが、先生は失敗も大切なデータだと言いました。彼女は材料の順番を変え、何度も試しました。",
-              "en": "In the first experiment, the water did not become as clean as she expected. Mana felt discouraged, but her teacher said failure was also important data. She changed the order of the materials and tried many times."
+              "en": "In the first experiment, the water did not become as clean as she expected. Mana felt discouraged, but her teacher said failure was also important data. She changed the order of the materials and tried many times.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-39-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "発表の日、まなの装置はうまく動きました。見に来た人たちは、水が透明に近づく様子を見て驚きました。まなは、科学は答えを覚えるだけでなく、質問し続ける力だと感じました。",
-              "en": "On presentation day, Mana's device worked well. The visitors were surprised to see the water become closer to clear. Mana felt that science was not only memorizing answers, but also the power to keep asking questions."
+              "en": "On presentation day, Mana's device worked well. The visitors were surprised to see the water become closer to clear. Mana felt that science was not only memorizing answers, but also the power to keep asking questions.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-39-3.png"
             }
           ]
         },
@@ -19231,17 +19379,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "あやは母と一緒に、町の古い音楽室を訪れました。その日は子供たちのための小さな演奏会がありました。部屋の明かりが少し暗くなると、舞台の上でバイオリンが静かに光りました。",
-              "en": "Aya visited the town's old music room with her mother. That day there was a small concert for children. When the room lights became a little dim, a violin quietly shone on the stage."
+              "en": "Aya visited the town's old music room with her mother. That day there was a small concert for children. When the room lights became a little dim, a violin quietly shone on the stage.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-40-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "演奏が始まると、音はゆっくり流れたり、急に高く跳ねたりしました。あやは目を閉じて、音の中に雨、風、明るい朝の景色を感じました。言葉がなくても、音楽は気持ちを伝えられるのだと思いました。",
-              "en": "When the performance began, the sounds flowed slowly and sometimes jumped suddenly high. Aya closed her eyes and felt rain, wind, and a bright morning scene inside the music. She thought that even without words, music could communicate feelings."
+              "en": "When the performance began, the sounds flowed slowly and sometimes jumped suddenly high. Aya closed her eyes and felt rain, wind, and a bright morning scene inside the music. She thought that even without words, music could communicate feelings.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-40-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "演奏会の後、みんなは大きな拍手をしました。家に帰ると、あやは昔使っていた小さなピアノを開きました。まだ上手ではありませんでしたが、もう一度練習したいという新しい夢が生まれました。",
-              "en": "After the concert, everyone clapped loudly. When she returned home, Aya opened the small piano she had used long ago. She was not skilled yet, but a new dream was born: she wanted to practice again."
+              "en": "After the concert, everyone clapped loudly. When she returned home, Aya opened the small piano she had used long ago. She was not skilled yet, but a new dream was born: she wanted to practice again.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-intermediate-40-3.png"
             }
           ]
         },
@@ -19308,27 +19459,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "科学と技術が発達した現代社会では、私たちの生活はとても便利になりました。しかし、その一方で、美しい自然環境が失われつつあります。ある小さな町では、川の汚染が進み、魚たちが姿を消していました。若い科学者のハルトは、この問題を解決するために立ち上がりました。",
-              "en": "In modern society, where science and technology\nhave developed, our lives have become very convenient. However, on the other\nhand, the beautiful natural environment is being lost. In a certain small town,\nthe pollution of the river was progressing, and the fish were disappearing.\nHaruto, a young scientist, stood up to solve this problem."
+              "en": "In modern society, where science and technology\nhave developed, our lives have become very convenient. However, on the other\nhand, the beautiful natural environment is being lost. In a certain small town,\nthe pollution of the river was progressing, and the fish were disappearing.\nHaruto, a young scientist, stood up to solve this problem.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-41-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "ハルトは、工場から出る水をきれいにする新しいシステムを提案しました。しかし、工場の責任者や一部の町民は、その計画に反対しました。「新しいシステムを導入するには多くのお金がかかり、町の経済に悪い影響を与える」というのが彼らの意見でした。ハルトは諦めず、対話を続けました。",
-              "en": "Haruto proposed a new system to clean the water\ncoming out of the factory. However, the factory managers and some townspeople\nopposed the plan. \"Introducing a new system costs a lot of money and will have a\nbad impact on the town's economy,\" was their opinion. Haruto did not give up and\ncontinued the dialogue."
+              "en": "Haruto proposed a new system to clean the water\ncoming out of the factory. However, the factory managers and some townspeople\nopposed the plan. \"Introducing a new system costs a lot of money and will have a\nbad impact on the town's economy,\" was their opinion. Haruto did not give up and\ncontinued the dialogue.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-41-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "数ヶ月の話し合いの後、ついに実験的なテストを行うことが決定しました。ハルトと彼のチームは、工場の近くに装置を設置しました。しかし、最初のテストは機械の故障により、失敗に終わってしまいました。水が溢れ出し、工場の人々は「やはりこの計画は不可能だ」と怒りました。",
-              "en": "After several months of discussion, it was finally\ndecided to conduct an experimental test. Haruto and his team installed the\ndevice near the factory. However, the first test ended in failure due to a\nmachine malfunction. Water overflowed, and the factory people got angry, saying,\n\"As expected, this plan is impossible.\""
+              "en": "After several months of discussion, it was finally\ndecided to conduct an experimental test. Haruto and his team installed the\ndevice near the factory. However, the first test ended in failure due to a\nmachine malfunction. Water overflowed, and the factory people got angry, saying,\n\"As expected, this plan is impossible.\"",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-41-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "ハルトは自分の責任を認め、冷静に失敗の原因を分析しました。彼は寝る間を惜しんで装置を修理し、安全性を高めるための改良を加えました。そのひたむきな態度に心を動かされた工場のオーナーは、「もう一度だけチャンスをあげよう」と、彼を支持することを決めました。",
-              "en": "Haruto admitted his responsibility and calmly\nanalyzed the cause of the failure. He spared no time for sleep to repair the\ndevice and made improvements to increase safety. Touched by his single-minded\nattitude, the factory owner decided to support him, saying, \"I will give you\njust one more chance.\""
+              "en": "Haruto admitted his responsibility and calmly\nanalyzed the cause of the failure. He spared no time for sleep to repair the\ndevice and made improvements to increase safety. Touched by his single-minded\nattitude, the factory owner decided to support him, saying, \"I will give you\njust one more chance.\"",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-41-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "二回目のテストは大成功を収めました。工場の水は完全にきれいになり、川に戻されました。数年後、川には再び魚たちが戻り、町は「環境と経済が調和した先進的な街」として全国から注目されるようになりました。ハルトは、技術の価値は人々の協力によって実現されるのだと確信しました。",
-              "en": "The second test was a huge success. The factory\nwater became completely clean and was returned to the river. A few years later,\nthe fish returned to the river, and the town attracted attention from all over\nthe country as an \"advanced town where environment and economy harmonize.\"\nHaruto was convinced that the value of technology is realized through people's\ncooperation."
+              "en": "The second test was a huge success. The factory\nwater became completely clean and was returned to the river. A few years later,\nthe fish returned to the river, and the town attracted attention from all over\nthe country as an \"advanced town where environment and economy harmonize.\"\nHaruto was convinced that the value of technology is realized through people's\ncooperation.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-41-5.png"
             }
           ]
         },
@@ -19395,27 +19551,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "歴史学を学ぶ大学院生のダイキは、古い大学図書館の地下書庫で資料を整理していました。彼は、何十年も開けられていなかった古い本の間から、古びた羊皮紙の地図を見つけました。その地図には、現在の地図には載っていない「幻の集落」の位置が描かれていました。",
-              "en": "Daiki, a graduate student studying history, was\norganizing documents in the basement archives of an old university library. From\nbetween old books that had not been opened for decades, he found a withered\nparchment map. On that map, the location of a \"phantom settlement\" that is not\non modern maps was drawn."
+              "en": "Daiki, a graduate student studying history, was\norganizing documents in the basement archives of an old university library. From\nbetween old books that had not been opened for decades, he found a withered\nparchment map. On that map, the location of a \"phantom settlement\" that is not\non modern maps was drawn.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-42-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "ダイキはその地図の信頼性を確かめるために、歴史的な背景を調査しました。その集落は、かつて独自の伝統を持ち、山奥でひっそりと暮らしていたと言われています。彼は、十分な計画を立て、GPSや登山用具を準備して、地図が示す山岳地帯へと出発することを決意しました。",
-              "en": "Daiki investigated the historical background to\nverify the reliability of the map. It is said that this settlement once had its\nown unique traditions and lived quietly deep in the mountains. He decided to\nmake a thorough plan, prepare GPS and climbing equipment, and set off for the\nmountain area shown on the map."
+              "en": "Daiki investigated the historical background to\nverify the reliability of the map. It is said that this settlement once had its\nown unique traditions and lived quietly deep in the mountains. He decided to\nmake a thorough plan, prepare GPS and climbing equipment, and set off for the\nmountain area shown on the map.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-42-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "山は非常に険しく、道なき道を進む必要がありました。途中で激しい雨が降り出し、気温も急激に下がりました。ダイキは体力的に厳しい状況に直面しましたが、歴史の真実を明らかにしたいという強い情熱が、彼の足を前へと動かし続けました。彼は木の下で一時的に嵐をやり過ごしました。",
-              "en": "The mountain was extremely steep, and it was\nnecessary to travel along pathless ways. Along the way, heavy rain began to\nfall, and the temperature dropped sharply. Daiki faced a physically difficult\nsituation, but his strong passion to reveal historical truth kept moving his\nfeet forward. He temporarily weathered the storm under a tree."
+              "en": "The mountain was extremely steep, and it was\nnecessary to travel along pathless ways. Along the way, heavy rain began to\nfall, and the temperature dropped sharply. Daiki faced a physically difficult\nsituation, but his strong passion to reveal historical truth kept moving his\nfeet forward. He temporarily weathered the storm under a tree.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-42-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "雨が上がった後、ダイキは地図に描かれていた「二つの川が交わる場所」に到達しました。そこには美しい滝があり、その裏側に小さな洞窟が隠されているのを発見しました。彼がライトを持って洞窟の奥へと入っていくと、そこには手作りの石造りの小さな箱が置かれていました。",
-              "en": "After the rain cleared, Daiki reached the \"place\nwhere two rivers intersect\" drawn on the map. There was a beautiful waterfall,\nand he discovered a small cave hidden behind it. As he went deeper into the cave\nholding a light, a small, handmade stone box was placed there."
+              "en": "After the rain cleared, Daiki reached the \"place\nwhere two rivers intersect\" drawn on the map. There was a beautiful waterfall,\nand he discovered a small cave hidden behind it. As he went deeper into the cave\nholding a light, a small, handmade stone box was placed there.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-42-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "ダイキが慎重にその箱を開けると、中には湿気から守られた古い文書が入っていました。そこには、災害によって移住を余儀なくされた昔の人々の暮らしや、彼らの知恵が詳しく記録されていました。彼はその発見を大学に持ち帰り、失われた歴史の一部を現代に蘇らせることに成功しました。",
-              "en": "When Daiki carefully opened the box, inside were\nold documents protected from moisture. It recorded in detail the lives of past\npeople who were forced to migrate due to natural disasters, and their wisdom. He\nbrought his discovery back to the university and succeeded in reviving a part of\nlost history in the modern era."
+              "en": "When Daiki carefully opened the box, inside were\nold documents protected from moisture. It recorded in detail the lives of past\npeople who were forced to migrate due to natural disasters, and their wisdom. He\nbrought his discovery back to the university and succeeded in reviving a part of\nlost history in the modern era.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-42-5.png"
             }
           ]
         },
@@ -19482,27 +19643,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "科学者のリクは、山の上の気象観測所で風の動きを調べていました。最近、山の天気が急激に変化していました。",
-              "en": "Riku, a scientist, was studying the movement of the\nwind at a weather station on the mountain. Recently, the mountain weather was\nchanging rapidly."
+              "en": "Riku, a scientist, was studying the movement of the\nwind at a weather station on the mountain. Recently, the mountain weather was\nchanging rapidly.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-43-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "リクは、強い嵐が村に向かっていることを知りました。彼は、村を保護するために新しい警告システムを開発していました。",
-              "en": "Riku learned that a strong storm was heading\ntowards the village. He was developing a new warning system to protect the\nvillage."
+              "en": "Riku learned that a strong storm was heading\ntowards the village. He was developing a new warning system to protect the\nvillage.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-43-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "彼は村に降り、人々に嵐の危険を説明しました。最初は信じない人もいましたが、リクの科学的なデータを理解し、避難に同意しました。",
-              "en": "He went down to the village and explained the\ndanger of the storm to the people. At first, some did not believe him, but they\nunderstood Riku's scientific data and agreed to evacuate."
+              "en": "He went down to the village and explained the\ndanger of the storm to the people. At first, some did not believe him, but they\nunderstood Riku's scientific data and agreed to evacuate.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-43-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "嵐の夜、強い風と雨が村を襲いました。しかし、リクのシステムのおかげで、すべての人々が安全な場所に避難していました。",
-              "en": "On the night of the storm, strong wind and rain hit\nthe village. However, thanks to Riku's system, all the people had evacuated to a\nsafe place."
+              "en": "On the night of the storm, strong wind and rain hit\nthe village. However, thanks to Riku's system, all the people had evacuated to a\nsafe place.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-43-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "翌朝、嵐は去りました。家は少し壊れましたが、人々の命は守られました。村の人々はリクに深く感謝し、科学技術の価値を実感しました。",
-              "en": "The next morning, the storm left. The houses were\nslightly damaged, but people's lives were saved. The villagers deeply thanked\nRiku and realized the value of science and technology."
+              "en": "The next morning, the storm left. The houses were\nslightly damaged, but people's lives were saved. The villagers deeply thanked\nRiku and realized the value of science and technology.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-43-5.png"
             }
           ]
         },
@@ -19569,27 +19735,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "海洋学者のケンは、新しい深海探査艇を使って、海の最も深い場所を調査する計画を立てました。",
-              "en": "Ken, an oceanographer, made a plan to investigate\nthe deepest parts of the sea using a new deep-sea explorer."
+              "en": "Ken, an oceanographer, made a plan to investigate\nthe deepest parts of the sea using a new deep-sea explorer.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-44-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "水深数千メートルの世界は、完全な暗闇でした。しかし、探査艇の強い光が、未知の美しい海底を照らしました。",
-              "en": "The world thousands of meters deep was complete\ndarkness. However, the strong light of the explorer illuminated the beautiful,\nunknown seafloor."
+              "en": "The world thousands of meters deep was complete\ndarkness. However, the strong light of the explorer illuminated the beautiful,\nunknown seafloor.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-44-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "ケンは、光る美しい新しい生物を発見しました。それは、科学の歴史において重要な発見になるだろうと確信しました。",
-              "en": "Ken discovered a beautiful, glowing new creature.\nHe was convinced that it would be an important discovery in the history of\nscience."
+              "en": "Ken discovered a beautiful, glowing new creature.\nHe was convinced that it would be an important discovery in the history of\nscience.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-44-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "調査中、一時的に通信システムが故障しました。地上のチームは心配しましたが、ケンは冷静に機械の構造を修復しました。",
-              "en": "During the investigation, the communication system\ntemporarily malfunctioned. The team on the ground was worried, but Ken calmly\nrepaired the machine's structure."
+              "en": "During the investigation, the communication system\ntemporarily malfunctioned. The team on the ground was worried, but Ken calmly\nrepaired the machine's structure.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-44-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "ケンは無事に戻り、世界中の人々に深海の美しさを写真で示しました。彼の研究は、海洋環境を保護する大きな基礎となりました。",
-              "en": "Ken returned safely and showed the beauty of the\ndeep sea to people around the world through pictures. His research became a\ngreat foundation for protecting the marine environment."
+              "en": "Ken returned safely and showed the beauty of the\ndeep sea to people around the world through pictures. His research became a\ngreat foundation for protecting the marine environment.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-44-5.png"
             }
           ]
         },
@@ -19656,27 +19827,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "天文学者のサクラは、数十年に一度だけ地球に接近する珍しい彗星を観察する準備をしていました。",
-              "en": "Sakura, an astronomer, was preparing to observe a\nrare comet that approaches Earth only once in several decades."
+              "en": "Sakura, an astronomer, was preparing to observe a\nrare comet that approaches Earth only once in several decades.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-45-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "彼女は、地域の子どもたちのために、山の上に小さな観測会を企画しました。多くの家族が集まりました。",
-              "en": "She planned a small observation meeting on the\nmountain for local children. Many families gathered."
+              "en": "She planned a small observation meeting on the\nmountain for local children. Many families gathered.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-45-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "彼女は大きな望遠鏡を調整し、子どもたちに美しい星空をのぞかせました。「宇宙はとても広い」と子どもたちは言いました。",
-              "en": "She adjusted the large telescope and let the\nchildren peer at the beautiful starlit sky. \"The universe is so wide,\" the\nchildren said."
+              "en": "She adjusted the large telescope and let the\nchildren peer at the beautiful starlit sky. \"The universe is so wide,\" the\nchildren said.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-45-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "ついに、彗星が夜空に現れました。長い尾を引くその美しい光に、誰もが言葉を失い、静かに見つめました。",
-              "en": "Finally, the comet appeared in the night sky. With\nits beautiful light trailing a long tail, everyone lost their words and watched\nquietly."
+              "en": "Finally, the comet appeared in the night sky. With\nits beautiful light trailing a long tail, everyone lost their words and watched\nquietly.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-45-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "この体験は、多くの子どもたちに科学への情熱と宇宙への憧れを与えました。サクラは、未来の科学者を育てる価値を実感しました。",
-              "en": "This experience gave many children a passion for\nscience and a longing for space. Sakura realized the value of nurturing future\nscientists."
+              "en": "This experience gave many children a passion for\nscience and a longing for space. Sakura realized the value of nurturing future\nscientists.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-45-5.png"
             }
           ]
         },
@@ -19743,27 +19919,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "ソースコードを書くプログラマーのタクヤは、祖母の家で古びた白黒の写真アルバムをたくさん見つけました。",
-              "en": "Takuya, a programmer who writes source code, found\nmany faded black-and-white photo albums at his grandmother's house."
+              "en": "Takuya, a programmer who writes source code, found\nmany faded black-and-white photo albums at his grandmother's house.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-46-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "写真には、昔の町の様子や家族の歴史が記録されていました。タクヤは、これらをデジタル化して保存する計画を立てました。",
-              "en": "The photos recorded the old town's appearance and\nfamily history. Takuya made a plan to digitalize and save them."
+              "en": "The photos recorded the old town's appearance and\nfamily history. Takuya made a plan to digitalize and save them.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-46-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "彼は特別なスキャナーとソフトウェアを使い、古い画像のノイズを取り除き、色を鮮やかに復元しました。",
-              "en": "Using a special scanner and software, he removed\nnoise from the old images and restored the colors vividly."
+              "en": "Using a special scanner and software, he removed\nnoise from the old images and restored the colors vividly.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-46-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "彼は完成したデジタルアルバムを、インターネットを使って世界中にいる親戚たちと共有しました。親戚たちはとても喜びました。",
-              "en": "He shared the completed digital album with\nrelatives all over the world using the internet. The relatives were very happy."
+              "en": "He shared the completed digital album with\nrelatives all over the world using the internet. The relatives were very happy.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-46-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "デジタル技術によって、家族の歴史は未来の世代へと安全に引き継がれました。タクヤは、技術の本当の価値を再認識しました。",
-              "en": "Through digital technology, the family history was\nsafely passed down to future generations. Takuya reaffirmed the true value of\ntechnology."
+              "en": "Through digital technology, the family history was\nsafely passed down to future generations. Takuya reaffirmed the true value of\ntechnology.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-46-5.png"
             }
           ]
         },
@@ -19830,27 +20011,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "建築家のケンジは、町の新しいコミュニティセンターを設計する仕事を任されました。彼はエコな建物を目指しました。",
-              "en": "Kenji, an architect, was assigned the job of\ndesigning the town's new community center. He aimed for an eco-friendly\nbuilding."
+              "en": "Kenji, an architect, was assigned the job of\ndesigning the town's new community center. He aimed for an eco-friendly\nbuilding.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-47-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "彼は、建物の構造を工夫し、太陽の光を最大限に取り入れることで、電気の使用を減らす設計をしました。",
-              "en": "He devised the structure of the building to\nmaximize sunlight, designing it to reduce electricity usage."
+              "en": "He devised the structure of the building to\nmaximize sunlight, designing it to reduce electricity usage.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-47-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "屋上には大きな庭園を造り、雨水を再利用して植物に水を与えるシステムを導入することにしました。",
-              "en": "He decided to build a large garden on the rooftop\nand introduce a system to reuse rainwater to water the plants."
+              "en": "He decided to build a large garden on the rooftop\nand introduce a system to reuse rainwater to water the plants.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-47-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "多くの大工や町の人々が協力して建設が始まりました。環境に優しいリサイクル素材が壁に使用されました。",
-              "en": "Many carpenters and townspeople cooperated to begin\nconstruction. Environmentally friendly recycled materials were used for the\nwalls."
+              "en": "Many carpenters and townspeople cooperated to begin\nconstruction. Environmentally friendly recycled materials were used for the\nwalls.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-47-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "完成したセンターは、美しく温かみのある場所になりました。環境保護のシンボルとして、人々から深く愛されています。",
-              "en": "The completed center became a beautiful and warm\nplace. It is deeply loved by the people as a symbol of environmental protection."
+              "en": "The completed center became a beautiful and warm\nplace. It is deeply loved by the people as a symbol of environmental protection.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-47-5.png"
             }
           ]
         },
@@ -19917,27 +20103,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "庭園デザイナーのハルは、町の古いお寺にある伝統的な日本庭園を修復する依頼を受けました。",
-              "en": "Haru, a garden designer, received a request to\nrestore a traditional Japanese garden at an old temple in town."
+              "en": "Haru, a garden designer, received a request to\nrestore a traditional Japanese garden at an old temple in town.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-48-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "彼女は、庭の構造を慎重に計画しました。大きな石を配置し、小さな砂の波を作って自然の川を表現しました。",
-              "en": "She carefully planned the structure of the garden.\nShe arranged large stones and made small waves in the sand to express a natural\nriver."
+              "en": "She carefully planned the structure of the garden.\nShe arranged large stones and made small waves in the sand to express a natural\nriver.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-48-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "日陰には美しい苔を植え、季節ごとに違った色を見せる美しい桜の木を庭の中心に植えました。",
-              "en": "She planted beautiful moss in the shade and planted\na beautiful cherry blossom tree in the center of the garden, which shows\ndifferent colors each season."
+              "en": "She planted beautiful moss in the shade and planted\na beautiful cherry blossom tree in the center of the garden, which shows\ndifferent colors each season.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-48-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "彼女は、お寺を訪れる人々が静かに自分自身と向き合えるような、穏やかな空間を創り出すために努力しました。",
-              "en": "She worked hard to create a calm space where people\nvisiting the temple could quietly face themselves."
+              "en": "She worked hard to create a calm space where people\nvisiting the temple could quietly face themselves.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-48-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "修復された庭園は、多くの人々に心の休息を与える場所になりました。ハルは、伝統の美しさを未来に繋ぐ価値を感じました。",
-              "en": "The restored garden became a place that gave many\npeople peace of mind. Haru felt the value of connecting traditional beauty to\nthe future."
+              "en": "The restored garden became a place that gave many\npeople peace of mind. Haru felt the value of connecting traditional beauty to\nthe future.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-48-5.png"
             }
           ]
         },
@@ -20004,27 +20195,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "エンジニアのユウキは、太陽光エネルギーだけで飛ぶことができる新しい小型無人機（ドローン）を開発していました。",
-              "en": "Yuki, an engineer, was developing a new small\nunmanned aerial vehicle (drone) that can fly solely on solar energy."
+              "en": "Yuki, an engineer, was developing a new small\nunmanned aerial vehicle (drone) that can fly solely on solar energy.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-49-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "この無人機の目的は、道路が壊れた遠い被災地に、医薬品を素早く届けることでした。それは命を救う大切な技術でした。",
-              "en": "The purpose of this drone was to quickly deliver\nmedicines to distant disaster-hit areas where roads were broken. It was an\nimportant technology for saving lives."
+              "en": "The purpose of this drone was to quickly deliver\nmedicines to distant disaster-hit areas where roads were broken. It was an\nimportant technology for saving lives.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-49-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "晴れた朝、広いテストエリアで最初のテスト飛行が行われました。無人機は静かに空へと昇っていきました。",
-              "en": "On a sunny morning, the first test flight was\nconducted in a wide test area. The drone quietly climbed into the sky."
+              "en": "On a sunny morning, the first test flight was\nconducted in a wide test area. The drone quietly climbed into the sky.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-49-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "上空で一時的に強い風が吹きましたが、ユウキが設計した安定構造のおかげで、無人機はバランスを崩さずに飛び続けました。",
-              "en": "A strong wind temporarily blew in the upper sky,\nbut thanks to the stable structure designed by Yuki, the drone continued to fly\nwithout losing balance."
+              "en": "A strong wind temporarily blew in the upper sky,\nbut thanks to the stable structure designed by Yuki, the drone continued to fly\nwithout losing balance.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-49-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "テスト飛行は見事に成功し、目的の場所に正確に荷物を届けることができました。ユウキは、未来の救助システムに貢献できたと確信しました。",
-              "en": "The test flight was brilliantly successful, and it\nwas able to deliver the package to the target location accurately. Yuki was\nconvinced that he contributed to future rescue systems."
+              "en": "The test flight was brilliantly successful, and it\nwas able to deliver the package to the target location accurately. Yuki was\nconvinced that he contributed to future rescue systems.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-49-5.png"
             }
           ]
         },
@@ -20091,27 +20287,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "生物学者のハナは、地元の豊かな森に入り、植物や小動物の生態系を調べる調査を何年も続けていました。",
-              "en": "Hana, a biologist, had been continuing her research\nfor years, entering the local rich forest to study the ecosystem of plants and\nsmall animals."
+              "en": "Hana, a biologist, had been continuing her research\nfor years, entering the local rich forest to study the ecosystem of plants and\nsmall animals.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-50-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "彼女は、落ち葉が土になり、その土が大きな木を育て、その木が動物たちの家になる命の循環を観察しました。",
-              "en": "She observed the circle of life, where fallen\nleaves became soil, the soil grew large trees, and the trees became homes for\nanimals."
+              "en": "She observed the circle of life, where fallen\nleaves became soil, the soil grew large trees, and the trees became homes for\nanimals.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-50-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "週末、彼女は子どもたちを森に招待し、自然の構造を説明しました。「この地球のすべての命は繋がっている」と彼女は言いました。",
-              "en": "On weekends, she invited children into the forest\nand explained the structure of nature. \"All life on this earth is connected,\"\nshe said."
+              "en": "On weekends, she invited children into the forest\nand explained the structure of nature. \"All life on this earth is connected,\"\nshe said.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-50-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "子どもたちは自分で虫や花を観察し、自然の美しさに驚いていました。彼らは自分たちもその一部であることを理解しました。",
-              "en": "The children observed insects and flowers by\nthemselves, marveling at the beauty of nature. They understood that they too\nwere a part of it."
+              "en": "The children observed insects and flowers by\nthemselves, marveling at the beauty of nature. They understood that they too\nwere a part of it.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-50-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "ハナは、子どもたちの輝く目を見て、自然保護の教育こそが、未来の美しい地球を守るために最も重要であると確信しました。",
-              "en": "Seeing the children's shining eyes, Hana was\nconvinced that environmental education is the most important factor in\nprotecting the future's beautiful Earth."
+              "en": "Seeing the children's shining eyes, Hana was\nconvinced that environmental education is the most important factor in\nprotecting the future's beautiful Earth.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-japanese-advanced-50-5.png"
             }
           ]
         }
@@ -27152,7 +27353,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "我静静地看着那张旧桌子。他曾经在这里。桌子上有一本给他朋友的书。我知道那是他的书，正如他所说。",
-              "en": "I quietly look at that old table. He was once here.\nOn the table was a book for his friend. I know that was his book, as he said."
+              "en": "I quietly look at that old table. He was once here.\nOn the table was a book for his friend. I know that was his book, as he said.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-beginner-01-1.png"
             }
           ]
         },
@@ -27190,7 +27392,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "他们现在在这里。我的朋友们想和我在一个房子里。我们有这个安静的地方。他们很高兴在这里。",
-              "en": "They are here now. My friends want to be with me in\none house. We have this quiet place. They are very happy to be here. === END OF\nSTORY 02 ==="
+              "en": "They are here now. My friends want to be with me in\none house. We have this quiet place. They are very happy to be here. === END OF\nSTORY 02 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-beginner-02-1.png"
             }
           ]
         },
@@ -27229,7 +27432,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "这是什么？这是我朋友来的一句话。但是今天很热。旁边有一些水。水是冷凉的。",
-              "en": "What is this? This is a word from my friend. But\ntoday is hot. There is some water by it. The water is cool."
+              "en": "What is this? This is a word from my friend. But\ntoday is hot. There is some water by it. The water is cool.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-beginner-03-1.png"
             }
           ]
         },
@@ -27270,7 +27474,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "你和我去。是你还是我？我们有那本关于过去的书。一起去那座新城市吧。",
-              "en": "You and I will go. Is it you or me? We had that old\nbook of the past. Let us go to the new town together."
+              "en": "You and I will go. Is it you or me? We had that old\nbook of the past. Let us go to the new town together.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-beginner-04-1.png"
             }
           ]
         },
@@ -27310,7 +27515,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "我们在那个房间里。哪个房间？我们可以走出来。其他的人也出来了。",
-              "en": "We were in that room. Which room? We can walk out.\nOther people came out too."
+              "en": "We were in that room. Which room? We can walk out.\nOther people came out too.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-beginner-05-1.png"
             }
           ]
         },
@@ -27350,7 +27556,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "他说：“没有时间了。”如果他们做他们的工作，他们将如何做？这是一个好计划。",
-              "en": "He said: \"There is no time.\" If they do their work,\nhow will they do it? This is a good plan."
+              "en": "He said: \"There is no time.\" If they do their work,\nhow will they do it? This is a good plan.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-beginner-06-1.png"
             }
           ]
         },
@@ -27390,7 +27597,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "我想告诉你。这里有一套三样东西。每样东西都想要新鲜的空气。这样运行得很好。",
-              "en": "I want to tell you. There is a set of three things\nhere. Each thing wants fresh air. It runs well this way."
+              "en": "I want to tell you. There is a set of three things\nhere. Each thing wants fresh air. It runs well this way.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-beginner-07-1.png"
             }
           ]
         },
@@ -27430,7 +27638,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "我在家里读一本小书。我也用手玩玩具。在一天的结束时，我把书放回书架。",
-              "en": "I read a small book at home. I also play with toys\nusing my hand. At the end of the day, I put the book back on the shelf. === END\nOF STORY 08 ==="
+              "en": "I read a small book at home. I also play with toys\nusing my hand. At the end of the day, I put the book back on the shelf. === END\nOF STORY 08 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-beginner-08-1.png"
             }
           ]
         },
@@ -27470,7 +27679,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "这里是一个大港口。在这片土地上有一艘大船。你必须在这里写下你的名字，甚至添加拼写。",
-              "en": "Here is a large port. There is a big ship on this\nland. You must write your name here, and even add spelling."
+              "en": "Here is a large port. There is a big ship on this\nland. You must write your name here, and even add spelling.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-beginner-09-1.png"
             }
           ]
         },
@@ -27510,7 +27720,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "人们去了一座高山。我问他们为什么去。他们开始行动，以此来跟随那些改变。",
-              "en": "The men went to a high mountain. I asked why they\nwent. They began to act to follow those changes."
+              "en": "The men went to a high mountain. I asked why they\nwent. They began to act to follow those changes.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-beginner-10-1.png"
             }
           ]
         },
@@ -27550,7 +27761,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "这个房子需要光线。请把灯关掉，再次尝试拍一张照片。一个善良的人会帮助我们。",
-              "en": "This house needs light. Please turn the light off\nand try again to take a picture. A kind person will help us."
+              "en": "This house needs light. Please turn the light off\nand try again to take a picture. A kind person will help us.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-beginner-11-1.png"
             }
           ]
         },
@@ -27590,7 +27802,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "我的母亲和父亲热爱地球。我们在家附近建了一个小房子，以便自己观察野生动物。这就是世界的意义。",
-              "en": "My mother and father love the earth. We built a\nsmall house near our home to observe wild animals ourselves. That is the point\nof the world."
+              "en": "My mother and father love the earth. We built a\nsmall house near our home to observe wild animals ourselves. That is the point\nof the world.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-beginner-12-1.png"
             }
           ]
         },
@@ -27638,12 +27851,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "有一天，一个小女孩在附近的森林里发现了一只迷路的小狗。小狗很害怕，而且觉得非常冷。女孩温柔地对它说话，让它安心。",
-              "en": "One day, a little girl found a lost dog in the\nnearby forest. The dog was very scared and felt extremely cold. The girl spoke\nto it gently and made it feel safe."
+              "en": "One day, a little girl found a lost dog in the\nnearby forest. The dog was very scared and felt extremely cold. The girl spoke\nto it gently and made it feel safe.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-13-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "女孩把小狗带回家，给了它温热的食物。小狗高兴地摇着尾巴。她的母亲和父亲也同意让它留下来，大家都很开心。",
-              "en": "The girl took the dog home and gave it warm food.\nThe dog happily wagged its tail. Her mother and father also agreed to let it\nstay, and everyone was very happy."
+              "en": "The girl took the dog home and gave it warm food.\nThe dog happily wagged its tail. Her mother and father also agreed to let it\nstay, and everyone was very happy.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-13-2.png"
             }
           ]
         },
@@ -27691,12 +27906,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "我们选择了这片安静的土地来建造我们的新房子。附近有一条干净的小河，每天都能听到鸟儿美丽的歌声。新生活从今天开始。",
-              "en": "We chose this quiet land to build our new house.\nThere is a clean river nearby, and we can hear the beautiful songs of birds\nevery day. Our new life begins today."
+              "en": "We chose this quiet land to build our new house.\nThere is a clean river nearby, and we can hear the beautiful songs of birds\nevery day. Our new life begins today.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-14-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "我和父亲开始在新房子附近建造一个小花园。我们在那里种了许多美丽的花。母亲从窗户看着我们，亲切地帮助我们。",
-              "en": "My father and I started to build a small garden\nnear our new house. We planted many beautiful flowers there. My mother watched\nus from the window and kindly helped us."
+              "en": "My father and I started to build a small garden\nnear our new house. We planted many beautiful flowers there. My mother watched\nus from the window and kindly helped us.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-14-2.png"
             }
           ]
         },
@@ -27744,12 +27961,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "一个小男孩正在思考学校里一道困难的题。他读了很长时间的书，但一点也无法理解正确的答案。这让他感到难过。",
-              "en": "A little boy was thinking about a difficult problem\nfor school. He read a book for a long time, but he could not understand the\ncorrect answer at all. This made him feel sad."
+              "en": "A little boy was thinking about a difficult problem\nfor school. He read a book for a long time, but he could not understand the\ncorrect answer at all. This made him feel sad.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-15-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "母亲走到他身边，温柔地对他说：“再次尝试一下，从第一页开始。慢慢读，你一定会明白它的意思和答案。”男孩重新开始。",
-              "en": "His mother came to his side and said gently: \"Try\nagain, start from the first page. Read slowly, and you will surely understand\nits meaning and the answer.\" The boy started over."
+              "en": "His mother came to his side and said gently: \"Try\nagain, start from the first page. Read slowly, and you will surely understand\nits meaning and the answer.\" The boy started over.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-15-2.png"
             }
           ]
         },
@@ -27797,12 +28016,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "我们村子附近有一条非常宽的河。为了去对岸的土地，我们过去总是要走很长很累的路。这让我们感到非常不方便。",
-              "en": "There is a very wide river near our village. In\norder to go to the land on the other side, we always had to walk a long and\ntiring road in the past. This made us feel very inconvenienced."
+              "en": "There is a very wide river near our village. In\norder to go to the land on the other side, we always had to walk a long and\ntiring road in the past. This made us feel very inconvenienced.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-16-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "村民们聚在一起，决定建造一座新的木桥。大家用双手努力工作，大桥终于造好了。现在我们可以非常轻松、快速地过河。",
-              "en": "The villagers gathered together and decided to\nbuild a new wooden bridge. Everyone worked hard with their hands, and the big\nbridge was finally built. Now we can cross the river very easily and quickly."
+              "en": "The villagers gathered together and decided to\nbuild a new wooden bridge. Everyone worked hard with their hands, and the big\nbridge was finally built. Now we can cross the river very easily and quickly.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-16-2.png"
             }
           ]
         },
@@ -27850,12 +28071,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "我的祖父送给我一本古老而有趣的图画书。那本书里有许多来自世界各地的野生动物的美丽照片。我第一眼就爱上了它。",
-              "en": "My grandfather gave me an ancient and interesting\npicture book. In that book, there were many beautiful photos of wild animals\nfrom all over the world. I fell in love with it at first sight."
+              "en": "My grandfather gave me an ancient and interesting\npicture book. In that book, there were many beautiful photos of wild animals\nfrom all over the world. I fell in love with it at first sight.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-17-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "我一边读书，一边学习如何写出那些困难新词的拼写。我的母亲总是坐在我身边，亲切地帮助我正确、快速地学习。",
-              "en": "While reading, I learned how to write the spellings\nof those difficult new words. My mother always sat next to me, kindly helping me\nlearn correctly and quickly."
+              "en": "While reading, I learned how to write the spellings\nof those difficult new words. My mother always sat next to me, kindly helping me\nlearn correctly and quickly.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-17-2.png"
             }
           ]
         },
@@ -27903,12 +28126,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "当我们爬上高高的山顶时，蓝天看起来离我们非常近。风吹得又冷又大，但明亮的阳光让周围的世界变得美丽无比。",
-              "en": "When we climbed up to the top of the high mountain,\nthe blue sky looked very close to us. The wind blew cold and strong, but the\nbright sunlight made the world around us incredibly beautiful."
+              "en": "When we climbed up to the top of the high mountain,\nthe blue sky looked very close to us. The wind blew cold and strong, but the\nbright sunlight made the world around us incredibly beautiful.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-18-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "父亲用手指向天空说：“看那些美丽的大鸟，它们正一起飞往遥远而温暖的土地。”我们静静地站在那里，看着它们飞走。",
-              "en": "My father pointed to the sky with his hand and\nsaid: \"Look at those beautiful big birds. They are flying together to a distant\nand warm land.\" We stood there quietly, watching them fly away. === END OF\nSTORY 18 ==="
+              "en": "My father pointed to the sky with his hand and\nsaid: \"Look at those beautiful big birds. They are flying together to a distant\nand warm land.\" We stood there quietly, watching them fly away. === END OF\nSTORY 18 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-18-2.png"
             }
           ]
         },
@@ -27956,12 +28181,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "我的父亲因为工作去了一个很远的大港口城市。有一天，家里收到了一封他写的信。我非常高兴，立刻打开了它。",
-              "en": "My father went to a very far and large port city\nbecause of work. One day, a letter he wrote was received at home. I was very\nhappy and opened it immediately."
+              "en": "My father went to a very far and large port city\nbecause of work. One day, a letter he wrote was received at home. I was very\nhappy and opened it immediately.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-19-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "父亲在信中写到了那里美丽的大海、奇妙的地方和善良的人们。他承诺很快就会回家。我的心立刻安定了下来。",
-              "en": "Father wrote in the letter about the beautiful sea,\nwonderful places, and kind people there. He promised to come home very soon. My\nheart felt relieved immediately."
+              "en": "Father wrote in the letter about the beautiful sea,\nwonderful places, and kind people there. He promised to come home very soon. My\nheart felt relieved immediately.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-19-2.png"
             }
           ]
         },
@@ -28009,12 +28236,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "那是一个非常炎热的夏天下午。屋子里没有风，我们需要凉爽干净的水。我们决定去森林附近的那口旧井里打水。",
-              "en": "That was a very hot summer afternoon. There was no\nwind in the house, and we needed cool, clean water. We decided to go draw water\nfrom that old well near the forest."
+              "en": "That was a very hot summer afternoon. There was no\nwind in the house, and we needed cool, clean water. We decided to go draw water\nfrom that old well near the forest.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-20-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "我们用双手把沉重的水桶从井里拉上来。井水非常凉爽。我们喝了水，感到非常快乐和舒适。炎热的一天也变得美好了。",
-              "en": "We used our hands to pull the heavy bucket up from\nthe well. The well water was very cool. We drank the water and felt very happy\nand comfortable. The hot day became beautiful too."
+              "en": "We used our hands to pull the heavy bucket up from\nthe well. The well water was very cool. We drank the water and felt very happy\nand comfortable. The hot day became beautiful too.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-20-2.png"
             }
           ]
         },
@@ -28062,12 +28291,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "今天是学校的假日。小孩子们聚集在房子附近开阔的广场上。大家开始活泼地玩耍。天气很好，吹着舒服的微风。",
-              "en": "Today is a school holiday. Small children gathered\nin the open square near the houses. Everyone started playing lively. The weather\nwas great, and a comfortable breeze was blowing."
+              "en": "Today is a school holiday. Small children gathered\nin the open square near the houses. Everyone started playing lively. The weather\nwas great, and a comfortable breeze was blowing.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-21-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "他们一直玩到傍晚。在一天的结束时，大家在草地上坐成一个大圆圈，互相讲述着自己在书里读过的有趣故事。",
-              "en": "They played until evening. At the end of the day,\neveryone sat in a big circle on the grass, telling each other interesting\nstories they had read in books."
+              "en": "They played until evening. At the end of the day,\neveryone sat in a big circle on the grass, telling each other interesting\nstories they had read in books.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-21-2.png"
             }
           ]
         },
@@ -28115,12 +28346,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "这个世界上的每样东西都有它的结束。但是一个结束总是意味着新事物的开始。小男孩把他的旧玩具放进一个大箱子里。",
-              "en": "Every thing in this world has its end. But an\nending always means the beginning of something new. The little boy put his old\ntoys into a large box."
+              "en": "Every thing in this world has its end. But an\nending always means the beginning of something new. The little boy put his old\ntoys into a large box.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-22-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "他长大了，不再玩那些玩具。现在他需要读其他更有用的书，自己制定生活新计划。他笑着自信地走向未来。",
-              "en": "He has grown up and doesn't play with those toys\nanymore. Now he needs to read other more useful books and make new plans for\nlife himself. He smiled and walked confidently toward the future. === END OF\nSTORY 22 ==="
+              "en": "He has grown up and doesn't play with those toys\nanymore. Now he needs to read other more useful books and make new plans for\nlife himself. He smiled and walked confidently toward the future. === END OF\nSTORY 22 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-22-2.png"
             }
           ]
         },
@@ -28167,12 +28400,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "我的家离一个非常大而繁忙的港口很近。每天清晨，来自世界各地的大船开到这里，许多人走上这片土地，非常热闹。",
-              "en": "My house is very close to a very large and busy\nport. Every morning, big ships from all over the world arrive here, and many\npeople disembark onto this land; it is very lively."
+              "en": "My house is very close to a very large and busy\nport. Every morning, big ships from all over the world arrive here, and many\npeople disembark onto this land; it is very lively.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-23-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "傍晚，我和父亲来到水边。我们静静地看着大船驶回大海。夕阳的光洒在海浪上，这美丽的景色用语言无法形容。",
-              "en": "In the evening, my father and I come to the water.\nWe quietly watch the big ships sail back to sea. The light of the setting sun\nsprinkles on the waves, and this beautiful scenery cannot be described in words."
+              "en": "In the evening, my father and I come to the water.\nWe quietly watch the big ships sail back to sea. The light of the setting sun\nsprinkles on the waves, and this beautiful scenery cannot be described in words.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-23-2.png"
             }
           ]
         },
@@ -28219,12 +28454,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "我们制定了一个计划，准备爬上一座非常高的山。那座山高高地耸立在云层附近，要到达山顶需要力量和行动。",
-              "en": "We made a plan to climb a very high mountain. That\nmountain towered high near the clouds, and reaching its summit required strength\nand action."
+              "en": "We made a plan to climb a very high mountain. That\nmountain towered high near the clouds, and reaching its summit required strength\nand action.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-24-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "当我们到达高高的山顶时，风非常冷。但从那里看下去，风景太美了。房屋和河流就像小点。我们为自己的力量感到骄傲。",
-              "en": "When we reached the high summit, the wind was very\ncold. But looking down from there, the scenery was so beautiful. Houses and\nrivers looked like small points. We were proud of our own strength. === END OF\nSTORY 24 ==="
+              "en": "When we reached the high summit, the wind was very\ncold. But looking down from there, the scenery was so beautiful. Houses and\nrivers looked like small points. We were proud of our own strength. === END OF\nSTORY 24 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-24-2.png"
             }
           ]
         },
@@ -28271,12 +28508,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "一个小女孩想用彩色的纸折一只漂亮的小动物。但是她的第一次尝试没有成功，纸被撕破了。她感到有点难过。",
-              "en": "A little girl tried to fold a beautiful small\nanimal out of colored paper. But her first attempt did not succeed, and the\npaper tore. She felt a bit sad."
+              "en": "A little girl tried to fold a beautiful small\nanimal out of colored paper. But her first attempt did not succeed, and the\npaper tore. She felt a bit sad.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-25-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "母亲走过来对她说：“再次尝试一下，让你的手动作更慢一点。”女孩拿了一张干净的新纸，终于折出了一个优秀的形状。她笑了。",
-              "en": "Her mother came over and said: \"Try again, and make\nyour hand movements a little slower.\" The girl took a clean new sheet of paper\nand was finally able to fold an excellent shape. She smiled."
+              "en": "Her mother came over and said: \"Try again, and make\nyour hand movements a little slower.\" The girl took a clean new sheet of paper\nand was finally able to fold an excellent shape. She smiled.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-25-2.png"
             }
           ]
         },
@@ -28323,12 +28562,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "词语为我们打开新的道路，完全改变我们对生活的理解。每天，我都研究新词的意思，并写在笔记本上以便记住它们。",
-              "en": "Words open new paths for us and completely change\nour understanding of life. Every day, I study the meanings of new words and\nwrite them in my notebook to remember them."
+              "en": "Words open new paths for us and completely change\nour understanding of life. Every day, I study the meanings of new words and\nwrite them in my notebook to remember them.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-26-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "读书帮助人建造自己独特的内心世界。通过大量的阅读，我们开始更好地理解他人，并对周围的每个人变得更加温和与善良。",
-              "en": "Reading books helps a person build their own unique\ninner world. Through a large amount of reading, we begin to better understand\nothers and become gentler and kinder to everyone around us."
+              "en": "Reading books helps a person build their own unique\ninner world. Through a large amount of reading, we begin to better understand\nothers and become gentler and kinder to everyone around us.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-elementary-26-2.png"
             }
           ]
         },
@@ -28384,17 +28625,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "在一个星期六的下午，小明决定清理家里古老的阁楼。那里放着许多旧箱子和坏掉的家具。在房间的角落里，他发现了一座高大的木制旧钟。这座钟似乎已经很多年不走了，上面落满了灰尘。",
-              "en": "On a Saturday afternoon, Xiao Ming decided to clean\nhis family's ancient attic. There were many old boxes and broken furniture. In\nthe corner of the room, he found a tall, old wooden clock. The clock did not\nseem to have run for many years, and a lot of dust had accumulated on it."
+              "en": "On a Saturday afternoon, Xiao Ming decided to clean\nhis family's ancient attic. There were many old boxes and broken furniture. In\nthe corner of the room, he found a tall, old wooden clock. The clock did not\nseem to have run for many years, and a lot of dust had accumulated on it.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-27-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "小明打开钟的玻璃门，开始检查内部。在沉重的钟摆后面，他发现了一把黄铜小钥匙。他拿起钥匙，尝试插进旧钟侧面的一处小孔中。钥匙大小正好，转动起来也非常轻松。",
-              "en": "Xiao Ming opened the clock's glass door and began\nto check the inside. Behind the heavy pendulum, he found a small brass key. He\ntook the key and tried to insert it into a small hole on the side of the old\nclock. The key fit perfectly and turned very easily."
+              "en": "Xiao Ming opened the clock's glass door and began\nto check the inside. Behind the heavy pendulum, he found a small brass key. He\ntook the key and tried to insert it into a small hole on the side of the old\nclock. The key fit perfectly and turned very easily.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-27-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "当他轻轻转动钥匙时，旧钟开始发出滴答滴答的亲切声音。钟表指针再次移动起来，美丽的钟声很快在屋子里响起。这个声音和祖父多年前最喜欢听的声音一模一样。小明心里感到温暖而喜悦。",
-              "en": "As he turned the key gently, the old clock began to\nmake a friendly ticking sound. The hands moved again, and a beautiful chime soon\nrang out in the house. This sound was exactly like the one his grandfather loved\nto listen to many years ago. Xiao Ming felt warm and joyful in his heart. ===\nEND OF STORY 27 ==="
+              "en": "As he turned the key gently, the old clock began to\nmake a friendly ticking sound. The hands moved again, and a beautiful chime soon\nrang out in the house. This sound was exactly like the one his grandfather loved\nto listen to many years ago. Xiao Ming felt warm and joyful in his heart. ===\nEND OF STORY 27 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-27-3.png"
             }
           ]
         },
@@ -28450,17 +28694,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "小红走在安静的森林里，这里只能听到远处鸟儿的声音。树木长得非常高，明亮的阳光只能穿过绿色的树叶洒下一点点。脚下是柔软的绿色苔藓，走在上面像地毯一样。",
-              "en": "Xiao Hong walked through the quiet forest where\nonly the distant voices of birds were heard. The trees grew very tall, and the\nbright sunlight only filtered slightly through the green leaves. Soft green moss\nlay underfoot, making it feel like walking on a carpet."
+              "en": "Xiao Hong walked through the quiet forest where\nonly the distant voices of birds were heard. The trees grew very tall, and the\nbright sunlight only filtered slightly through the green leaves. Soft green moss\nlay underfoot, making it feel like walking on a carpet.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-28-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "她往更深处走去，突然眼前一亮，发现了一个美丽的小湖泊。湖里的水非常清澈，像镜子一样映照着蓝天和白云。几只小鹿站在湖边，正在安静地喝水。小红在一旁默默看着。",
-              "en": "She walked deeper, and suddenly the view opened up\nas she discovered a beautiful small lake. The water in the lake was very clear,\nreflecting the blue sky and white clouds like a mirror. A few deer stood by the\nlakeside, drinking water quietly. Xiao Hong watched them silently from the side."
+              "en": "She walked deeper, and suddenly the view opened up\nas she discovered a beautiful small lake. The water in the lake was very clear,\nreflecting the blue sky and white clouds like a mirror. A few deer stood by the\nlakeside, drinking water quietly. Xiao Hong watched them silently from the side.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-28-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "小红坐在水边干燥的石头上，打开了自己的笔记本。她决定把这个故事记录下来，画下美丽的湖泊和小鹿。这个森林之行带来的温暖记忆，在她的生活中会保留很长时间。",
-              "en": "Xiao Hong sat on a dry stone near the water and\nopened her notebook. She decided to record this story and draw the beautiful\nlake and the deer. This warm memory of the walk in the forest will remain in her\nlife for a long time."
+              "en": "Xiao Hong sat on a dry stone near the water and\nopened her notebook. She decided to record this story and draw the beautiful\nlake and the deer. This warm memory of the walk in the forest will remain in her\nlife for a long time.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-28-3.png"
             }
           ]
         },
@@ -28516,17 +28763,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "小杰住在一座位于蔚蓝大海边的美丽城市里。每到夏天，这里都会举办盛大的节日。港口挂起了色彩斑斓的旗帜，人们搭建起木制食品摊。随着傍晚的临近，许多快乐的人聚集在街上。",
-              "en": "Xiao Jie lived in a beautiful city on the shore of\nthe blue sea. Every summer, a grand festival was organized here. Colorful flags\nwere hung at the port, and people built wooden food stalls. As evening\napproached, many happy people gathered on the street."
+              "en": "Xiao Jie lived in a beautiful city on the shore of\nthe blue sea. Every summer, a grand festival was organized here. Colorful flags\nwere hung at the port, and people built wooden food stalls. As evening\napproached, many happy people gathered on the street.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-29-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "小杰在港口遇到了一位老渔夫。这位老爷爷向他讲述了自己年轻时在世界各大洋航行的奇妙故事，还有暴风雨和巨大鱼类。男孩听得津津有味，梦想着未来也能成为一名真正的航海家。",
-              "en": "Xiao Jie met an old fisherman at the port. The old\nman told him wonderful stories of his young days sailing across the world's\noceans, about strong storms and huge fish. The boy listened with great interest\nand dreamed of becoming a real voyager in the future."
+              "en": "Xiao Jie met an old fisherman at the port. The old\nman told him wonderful stories of his young days sailing across the world's\noceans, about strong storms and huge fish. The boy listened with great interest\nand dreamed of becoming a real voyager in the future.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-29-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "夜幕降临时，天空中绽放起彩色的烟花。光芒飞得很高，然后落入海水中。整座城市都在快乐地闪耀，小杰为自己的海滨家园感到骄傲。",
-              "en": "When night fell, colorful fireworks bloomed in the\nsky. The lights flew very high and then fell into the sea water. The entire city\nglowed happily, and Xiao Jie felt proud of his seaside home."
+              "en": "When night fell, colorful fireworks bloomed in the\nsky. The lights flew very high and then fell into the sea water. The entire city\nglowed happily, and Xiao Jie felt proud of his seaside home.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-29-3.png"
             }
           ]
         },
@@ -28582,17 +28832,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "在学校的科学课上，老师给孩子们布置了一个新的小组任务。他们需要分成小组，建造一个“未来绿色城市”的模型。四个朋友坐在一起，开始讨论使用什么样的环保技术。",
-              "en": "In school during the science class, the teacher\nassigned the children a new group task. They needed to divide into groups and\nbuild a model of a \"clean city of the future.\" Four friends sat together and\nbegan discussing what eco-friendly technologies to use."
+              "en": "In school during the science class, the teacher\nassigned the children a new group task. They needed to divide into groups and\nbuild a model of a \"clean city of the future.\" Four friends sat together and\nbegan discussing what eco-friendly technologies to use.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-30-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "他们有许多好主意。他们决定在每个房子的屋顶上安装太阳能板，并设计一个收集雨水灌溉植物的系统。他们用纸张和纸板等简单的材料，分工协作。",
-              "en": "They had many great and useful ideas. They decided\nto install solar panels on the roofs of every house and design a system to\ncollect rainwater to irrigate plants. They used simple materials like paper and\ncardboard, dividing the work and cooperating."
+              "en": "They had many great and useful ideas. They decided\nto install solar panels on the roofs of every house and design a system to\ncollect rainwater to irrigate plants. They used simple materials like paper and\ncardboard, dividing the work and cooperating.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-30-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "第二天，所有小组都在全班同学面前展示了自己的模型。小红的队伍自信地介绍了他们未来城市的价值。通过集思广益和学会协作，每个人都获得了极好的经验。",
-              "en": "The next day, all groups presented their models in\nfront of the class. Xiao Hong's team confidently explained the value of their\nfuture city. By bringing ideas together and learning to cooperate, everyone\ngained an excellent experience."
+              "en": "The next day, all groups presented their models in\nfront of the class. Xiao Hong's team confidently explained the value of their\nfuture city. By bringing ideas together and learning to cooperate, everyone\ngained an excellent experience.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-30-3.png"
             }
           ]
         },
@@ -28648,17 +28901,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "清晨，小刚开始沿着窄窄的小路攀登一座高山。风吹得非常强，有些冷，但通过不断行走，他的身体暖和了起来。山路两旁长着好看的山花和野草，让他心情舒畅。",
-              "en": "Early in the morning, Xiao Gang began climbing a\nnarrow path up a high mountain. The wind blew very strongly and was a bit cold,\nbut through continuous walking, his body warmed up. Beautiful mountain flowers\nand wild grass grew on both sides of the path, cheering him up."
+              "en": "Early in the morning, Xiao Gang began climbing a\nnarrow path up a high mountain. The wind blew very strongly and was a bit cold,\nbut through continuous walking, his body warmed up. Beautiful mountain flowers\nand wild grass grew on both sides of the path, cheering him up.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-31-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "中午时分，天空突然变暗，开始下起大雨。幸运的是，不远处有一座石砌的避难小屋。小刚急忙跑进小屋躲雨。屋里很干燥，他能喝一口保温瓶里的热茶。",
-              "en": "Around noon, the sky suddenly turned dark and heavy\nrain began to fall. Fortunately, a small stone shelter was not far ahead. Xiao\nGang quickly ran inside the shelter to hide from the rain. It was dry inside,\nand he was able to drink warm tea from his thermos."
+              "en": "Around noon, the sky suddenly turned dark and heavy\nrain began to fall. Fortunately, a small stone shelter was not far ahead. Xiao\nGang quickly ran inside the shelter to hide from the rain. It was dry inside,\nand he was able to drink warm tea from his thermos.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-31-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "不久雨停了，天空中重新出现了明亮的太阳。小刚走出小屋，登上了最高的高山之顶。下面是一片宽阔发光的绿色山谷。强风吹走了他的疲惫，他感受到了登山的真正快乐。",
-              "en": "Soon the rain stopped, and the bright sun appeared\nin the sky again. Xiao Gang left the cabin and climbed to the highest peak of\nthe mountain. Below stretched a wide, glowing green valley. The strong wind blew\naway his fatigue, and he felt the true joy of mountain climbing. === END OF\nSTORY 31 ==="
+              "en": "Soon the rain stopped, and the bright sun appeared\nin the sky again. Xiao Gang left the cabin and climbed to the highest peak of\nthe mountain. Below stretched a wide, glowing green valley. The strong wind blew\naway his fatigue, and he felt the true joy of mountain climbing. === END OF\nSTORY 31 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-31-3.png"
             }
           ]
         },
@@ -28714,17 +28970,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "小学生小明在祖父的书房里找书。他拉开旧书桌的抽屉，在最深处发现了一张旧纸。那是祖父小时候亲手画的一张附近森林的地图，上面画着一个红叉。",
-              "en": "Elementary school student Xiao Ming was looking for\na book in his grandfather's study. He opened an old desk drawer and found an old\npiece of paper at the very bottom. It was an old map of the nearby forest drawn\nby his grandfather when he was a child, with a red \"X\" marked on it."
+              "en": "Elementary school student Xiao Ming was looking for\na book in his grandfather's study. He opened an old desk drawer and found an old\npiece of paper at the very bottom. It was an old map of the nearby forest drawn\nby his grandfather when he was a child, with a red \"X\" marked on it.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-32-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "小明和他的朋友决定根据这张地图去森林。他们把古老特殊的树木作为路标，走向更深处。很快，他们发现了一口被绿色野草覆盖的旧石井，和地图上画的一模一样。",
-              "en": "Xiao Ming and his friend decided to go to the\nforest using this map. They used old, unique trees as landmarks and went deeper.\nSoon they found an old stone well covered with green wild grass, exactly like\nthe one on the map."
+              "en": "Xiao Ming and his friend decided to go to the\nforest using this map. They used old, unique trees as landmarks and went deeper.\nSoon they found an old stone well covered with green wild grass, exactly like\nthe one on the map.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-32-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "他们往井里看去，发现了一个塑料小盒子。打开盒子，里面有一枚古旧的硬币和一张写着祖父小时候名字的字条。孩子们找到了来自过去的问候，感到非常兴奋。",
-              "en": "They looked into the well and found a small plastic\nbox. When they opened the box, inside was an old coin and a note with their\ngrandfather's childhood name. The children found a greeting from the past and\nfelt very excited."
+              "en": "They looked into the well and found a small plastic\nbox. When they opened the box, inside was an old coin and a note with their\ngrandfather's childhood name. The children found a greeting from the past and\nfelt very excited.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-32-3.png"
             }
           ]
         },
@@ -28780,17 +29039,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "每个星期六，小红都去上绘画课。今天的任务是从教室的大窗户画外面的河流和天空风景。她准备好大画布，把美丽的彩色彩色水彩颜料倒在桌上，十分渴望开始。",
-              "en": "Every Saturday, Xiao Hong went to a painting class.\nToday's task was to paint the view of the river and sky outside from the large\nclassroom window. She prepared her large canvas and put beautiful colorful\nwatercolor paints on the table, very eager to start."
+              "en": "Every Saturday, Xiao Hong went to a painting class.\nToday's task was to paint the view of the river and sky outside from the large\nclassroom window. She prepared her large canvas and put beautiful colorful\nwatercolor paints on the table, very eager to start.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-33-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "一小时后，天空中慢慢变成了美丽的橙色。河面上出现了夕阳光芒的倒影。小红仔细地在调色盘上混合红色和黄色，用画笔在画布上画下这温暖的光线。",
-              "en": "An hour later, the sky slowly began to turn into a\nbeautiful orange. A beautiful reflection of the sunset's rays appeared on the\nriver water. Xiao Hong carefully mixed red and yellow colors on her palette,\nusing her brush to apply these warm lights onto the canvas."
+              "en": "An hour later, the sky slowly began to turn into a\nbeautiful orange. A beautiful reflection of the sunset's rays appeared on the\nriver water. Xiao Hong carefully mixed red and yellow colors on her palette,\nusing her brush to apply these warm lights onto the canvas.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-33-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "在课结束时，大家的画都被挂在了墙上。尽管所有人画的都是同一个窗外风景，但每幅画都有自己独特的个性与美。小红明白，每个人看世界的目光都各不相同。",
-              "en": "At the end of the class, everyone's paintings were\nhung on the wall. Even though everyone painted the same view from the window,\neach painting had its own unique personality and beauty. Xiao Hong understood\nthat each person sees the world with different eyes."
+              "en": "At the end of the class, everyone's paintings were\nhung on the wall. Even though everyone painted the same view from the window,\neach painting had its own unique personality and beauty. Xiao Hong understood\nthat each person sees the world with different eyes.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-33-3.png"
             }
           ]
         },
@@ -28846,17 +29108,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "星期日，小芳在公共公园里和弟弟一起玩。她把书桌的小钥匙放进外套口袋。但在草地上奔跑玩耍时，钥匙掉了出来，这让她很难过。",
-              "en": "On Sunday, Xiao Fang was playing with her younger\nbrother in the public park. She put her small desk key in her jacket pocket. But\nwhile running and playing on the grass, the key fell out, which made her very\nsad."
+              "en": "On Sunday, Xiao Fang was playing with her younger\nbrother in the public park. She put her small desk key in her jacket pocket. But\nwhile running and playing on the grass, the key fell out, which made her very\nsad.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-34-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "夜幕降临，公园里变得有些暗了。弟弟带了一个小手电筒来帮助她。两人一起在巨大的树木附近走动，把光线照向地面，仔细检查每片草地。",
-              "en": "Night fell, and it became a bit dark in the park.\nHer brother brought a small flashlight to help her. The two walked together near\nthe huge trees, pointing the light toward the ground, carefully checking every\npatch of grass."
+              "en": "Night fell, and it became a bit dark in the park.\nHer brother brought a small flashlight to help her. The two walked together near\nthe huge trees, pointing the light toward the ground, carefully checking every\npatch of grass.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-34-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "不久，弟弟在一块灰色小石头下注意到了金属的光亮。那是丢失的钥匙！小芳非常高兴，向弟弟道谢。回到家后，她成功打开了书桌的小抽屉。",
-              "en": "Soon her brother noticed a metallic shine under a\nsmall grey stone. It was the lost key! Xiao Fang was very happy and thanked her\nbrother. Returning home, she successfully opened her small desk drawer. === END\nOF STORY 34 ==="
+              "en": "Soon her brother noticed a metallic shine under a\nsmall grey stone. It was the lost key! Xiao Fang was very happy and thanked her\nbrother. Returning home, she successfully opened her small desk drawer. === END\nOF STORY 34 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-34-3.png"
             }
           ]
         },
@@ -28911,17 +29176,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "小杰和他的朋友在学校的劳作课上做了一艘美丽的小木船。他们计划让它在附近的干净河流中航行，观察它在水面上的表现与平衡。",
-              "en": "Xiao Jie and his friend made a beautiful small\nwooden boat in their school crafts class. They planned to sail it in the clean\nnearby river, observing its performance and balance on the water surface."
+              "en": "Xiao Jie and his friend made a beautiful small\nwooden boat in their school crafts class. They planned to sail it in the clean\nnearby river, observing its performance and balance on the water surface.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-35-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "河水流得很稳，但途中也有一些树枝和石头阻碍。两个男孩沿着岸边奔跑，心里紧张，担心他们的小木船会撞上任何河里的障碍。",
-              "en": "The river flowed smoothly, but there were some\nbranches and stones blocking the way. The two boys ran along the bank, feeling\nnervous, worried that their small wooden boat might hit any obstacles in the\nriver."
+              "en": "The river flowed smoothly, but there were some\nbranches and stones blocking the way. The two boys ran along the bank, feeling\nnervous, worried that their small wooden boat might hit any obstacles in the\nriver.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-35-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "在河流的下流，小杰小心不让自己打湿，回收了小船。船完好无损。朋友们回到家，在笔记本上详细写下了他们对河水流动速度的观察。",
-              "en": "At the downstream end of the river, Xiao Jie\ncarefully retrieved the boat, making sure not to get wet. The boat was\ncompletely undamaged. The friends returned home and wrote down their\nobservations on the river flow's speed in detail in their notebook. === END OF\nSTORY 35 ==="
+              "en": "At the downstream end of the river, Xiao Jie\ncarefully retrieved the boat, making sure not to get wet. The boat was\ncompletely undamaged. The friends returned home and wrote down their\nobservations on the river flow's speed in detail in their notebook. === END OF\nSTORY 35 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-35-3.png"
             }
           ]
         },
@@ -28976,17 +29244,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "夏天，小刚和父母一起去高山里露营。夜晚在帐篷边非常安静，因为周围没有任何城市灯光。小刚来到外面新鲜的空气中，抬头看去。",
-              "en": "In summer, Xiao Gang went camping in the high\nmountains with his parents. The night was very quiet by the tent, since there\nwas no city light around. Xiao Gang came outside into the fresh air and looked\nup."
+              "en": "In summer, Xiao Gang went camping in the high\nmountains with his parents. The night was very quiet by the tent, since there\nwas no city light around. Xiao Gang came outside into the fresh air and looked\nup.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-36-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "小刚的父亲从包里拿出一本有趣的星座书。他打开微弱的手电筒，看着书指给儿子看天空中的亮星，解释星名和古老故事。",
-              "en": "Xiao Gang's father took an interesting book about\nconstellations out of his bag. He turned on a dim flashlight and, looking at the\nbook, pointed out the bright stars in the sky to his son, explaining star names\nand ancient stories."
+              "en": "Xiao Gang's father took an interesting book about\nconstellations out of his bag. He turned on a dim flashlight and, looking at the\nbook, pointed out the bright stars in the sky to his son, explaining star names\nand ancient stories.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-36-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "突然，一颗明亮的星星快速穿过黑夜，划出一道美丽的亮线。那是流星。小刚立刻在心里为未来和梦想许下了一个愿望。这晚星空成了他的回忆。",
-              "en": "Suddenly, a bright star quickly crossed the dark\nnight, carving a beautiful bright line. It was a shooting star. Xiao Gang\nimmediately made a wish in his heart for his future and dreams. This starlit\nnight became a memory for him."
+              "en": "Suddenly, a bright star quickly crossed the dark\nnight, carving a beautiful bright line. It was a shooting star. Xiao Gang\nimmediately made a wish in his heart for his future and dreams. This starlit\nnight became a memory for him.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-36-3.png"
             }
           ]
         },
@@ -29041,17 +29312,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "春天，小华在奶奶家的大院子里度过了愉快的一天。奶奶决定教他用双手种蔬菜。两人在花园里松土，把一些西红柿和黄瓜种子小心种下。",
-              "en": "In spring, Xiao Hua spent a pleasant day in his\ngrandmother's big yard. His grandmother decided to teach him how to grow\nvegetables with his own hands. The two tilled the soil in the garden and\ncarefully planted some tomato and cucumber seeds."
+              "en": "In spring, Xiao Hua spent a pleasant day in his\ngrandmother's big yard. His grandmother decided to teach him how to grow\nvegetables with his own hands. The two tilled the soil in the garden and\ncarefully planted some tomato and cucumber seeds.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-37-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "放学后，小华每天都跑去帮助奶奶，给植物浇凉水。两周后，黑色土地里钻出绿色小叶子。小明看到他们共同努力的成果，感到很高兴。",
-              "en": "After school, Xiao Hua went to help his grandmother\nevery day and watered the plants with cool water. Two weeks later, small green\nleaves emerged from the dark soil. Xiao Ming was very happy to see the fruits of\ntheir combined effort."
+              "en": "After school, Xiao Hua went to help his grandmother\nevery day and watered the plants with cool water. Two weeks later, small green\nleaves emerged from the dark soil. Xiao Ming was very happy to see the fruits of\ntheir combined effort.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-37-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "夏天，他们收获了许多新鲜的西红柿和黄瓜。奶奶和小华用这些自己种的菜做了一盘美味沙拉。男孩感到自己种的菜味道最好。",
-              "en": "In summer, they harvested many fresh tomatoes and\ncucumbers. Grandmother and Xiao Hua made a delicious salad plate using these\nhome-grown vegetables. The boy felt that vegetables grown by oneself tasted\nbest."
+              "en": "In summer, they harvested many fresh tomatoes and\ncucumbers. Grandmother and Xiao Hua made a delicious salad plate using these\nhome-grown vegetables. The boy felt that vegetables grown by oneself tasted\nbest.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-37-3.png"
             }
           ]
         },
@@ -29106,17 +29380,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "在大海边的陡峭悬崖上，站着一座石砌的旧灯塔。由于现在船只使用先进设备，所以不再有人在这里。星期日，小丽和爸爸一起去那里散步。",
-              "en": "On a steep cliff by the sea stood an old stone\nlighthouse. Since ships now use advanced equipment, no one is here anymore. On\nSunday, Xiao Li went for a walk there with her dad."
+              "en": "On a steep cliff by the sea stood an old stone\nlighthouse. Since ships now use advanced equipment, no one is here anymore. On\nSunday, Xiao Li went for a walk there with her dad.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-38-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "他们打开沉重的旧木门，走进了灯塔内部。里面很凉爽，有一条长长的旋转石阶。小丽牵着爸爸的手，一步一步小心地往上爬。",
-              "en": "They opened the heavy old wooden door and walked\ninto the lighthouse. It was cool inside, and there was a long spiral stone\nstaircase. Xiao Li held her dad's hand, climbing up carefully step by step."
+              "en": "They opened the heavy old wooden door and walked\ninto the lighthouse. It was cool inside, and there was a long spiral stone\nstaircase. Xiao Li held her dad's hand, climbing up carefully step by step.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-38-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "在最顶端的阳台上，风吹得很强。他们眼前是一望无际的蔚蓝大海和滚滚波涛。小丽想到了以前住在这里帮助大船的人们。",
-              "en": "At the topmost balcony, the wind blew very\nstrongly. Before them lay the boundless blue sea and rolling waves. Xiao Li\nthought of the people who used to live here helping big ships. === END OF\nSTORY 38 ==="
+              "en": "At the topmost balcony, the wind blew very\nstrongly. Before them lay the boundless blue sea and rolling waves. Xiao Li\nthought of the people who used to live here helping big ships. === END OF\nSTORY 38 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-38-3.png"
             }
           ]
         },
@@ -29171,17 +29448,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "每个秋天，学校都会举办一次大型的科学展示会。小刚的小组决定制作一个关于清洁能源的项目。他们建造了展示太阳能板工作的模型。",
-              "en": "Every autumn, the school holds a large science\nfair. Xiao Gang's group decided to make a project about clean energy. They built\na model showing how solar panels work."
+              "en": "Every autumn, the school holds a large science\nfair. Xiao Gang's group decided to make a project about clean energy. They built\na model showing how solar panels work.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-39-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "展示会当天，大厅里聚集了许多老师和家长。许多人在小刚的项目前停下。男孩简单清楚地向来宾解释太阳光如何转化为电能。",
-              "en": "On the day of the fair, many teachers and parents\ngathered in the hall. Many people stopped before Xiao Gang's project. The boy\nsimply and clearly explained to the guests how sunlight is converted into\nelectrical energy."
+              "en": "On the day of the fair, many teachers and parents\ngathered in the hall. Many people stopped before Xiao Gang's project. The boy\nsimply and clearly explained to the guests how sunlight is converted into\nelectrical energy.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-39-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "一天的最后，评委们对所有项目进行了评估。小刚组的作品获得了优秀评价，因极佳想法获得第一名。大家都为团队协作感到高兴。",
-              "en": "At the end of the day, the judges evaluated all the\nprojects. Xiao Gang's group's work received an excellent rating and won first\nplace for its great idea. Everyone was happy for the teamwork. === END OF\nSTORY 39 ==="
+              "en": "At the end of the day, the judges evaluated all the\nprojects. Xiao Gang's group's work received an excellent rating and won first\nplace for its great idea. Everyone was happy for the teamwork. === END OF\nSTORY 39 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-39-3.png"
             }
           ]
         },
@@ -29236,17 +29516,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "小红和母亲一起走进了城市里那座古老的音乐厅。今天那里有一场著名小提琴演奏家的音乐会。灯光熄灭了，舞台上的暖灯亮起照亮演奏者。",
-              "en": "Xiao Hong and her mother walked into the city's\nancient concert hall. Today there was a classical concert by a famous violinist.\nThe lights went out, and a warm lamp lit up on stage, illuminating the\nperformer."
+              "en": "Xiao Hong and her mother walked into the city's\nancient concert hall. Today there was a classical concert by a famous violinist.\nThe lights went out, and a warm lamp lit up on stage, illuminating the\nperformer.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-40-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "小提琴的声音非常美丽。音乐的声音时而缓慢安静，时而快速高昂。小红听着这段旋律，感到自己的心情随着声音不断起伏变化。",
-              "en": "The sound of the violin was extremely beautiful.\nThe music at times was slow and quiet, and at other times fast and loud. Xiao\nHong listened to this melody, feeling her mood rise and fall along with the\nsounds."
+              "en": "The sound of the violin was extremely beautiful.\nThe music at times was slow and quiet, and at other times fast and loud. Xiao\nHong listened to this melody, feeling her mood rise and fall along with the\nsounds.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-40-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "音乐会结束后，所有人都热烈鼓掌。小红受到了极大的启发。回到家，她决定拿出自己小时候买的旧玩具钢琴，重新弹奏。一个梦想在她心中诞生。",
-              "en": "After the concert ended, everyone clapped warmly.\nXiao Hong was highly inspired. Returning home, she decided to take out her old\ntoy piano bought during childhood to play again. A dream was born in her heart."
+              "en": "After the concert ended, everyone clapped warmly.\nXiao Hong was highly inspired. Returning home, she decided to take out her old\ntoy piano bought during childhood to play again. A dream was born in her heart.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-intermediate-40-3.png"
             }
           ]
         },
@@ -29313,27 +29596,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "在现代社会中，科学与技术快速发展。我们的生活变得非常便利，但美丽的自然环境也常常受到伤害。在一个小镇上，河流因为工厂而变得脏乱。年轻的科学家小明决定解决这个环境问题。",
-              "en": "In modern society, science and technology develop\nrapidly. Our lives become very convenient, but beautiful nature often suffers.\nIn one small town, the river became dirty because of factories. The young\nscientist, Xiao Ming, decided to solve this environmental problem."
+              "en": "In modern society, science and technology develop\nrapidly. Our lives become very convenient, but beautiful nature often suffers.\nIn one small town, the river became dirty because of factories. The young\nscientist, Xiao Ming, decided to solve this environmental problem.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-41-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "小明建议建造一个全新的净水系统。但是，工厂的负责人和一些镇上的居民反对这个计划。他们认为这太昂贵了，会损害当地的经济。小明没有放弃，而是继续进行真诚的对话。",
-              "en": "Xiao Ming proposed building a completely new water\npurification system. But the factory directors and some town residents opposed\nthe plan. They believed it was too expensive and would harm the local economy.\nXiao Ming did not give up and continued the sincere dialogue."
+              "en": "Xiao Ming proposed building a completely new water\npurification system. But the factory directors and some town residents opposed\nthe plan. They believed it was too expensive and would harm the local economy.\nXiao Ming did not give up and continued the sincere dialogue.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-41-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "经过长期的讨论，他们决定进行机器的第一次测试。科学家们在河边安装了设备。但是，由于机器出现故障，测试失败了。脏水再次流进河里，人们开始感到非常生气。",
-              "en": "After long discussions, they decided to conduct the\nfirst test of the machine. The scientists installed the equipment near the\nriver. But the test failed due to a machine breakdown. Dirty water flowed into\nthe river again, and people began to feel very angry."
+              "en": "After long discussions, they decided to conduct the\nfirst test of the machine. The scientists installed the equipment near the\nriver. But the test failed due to a machine breakdown. Dirty water flowed into\nthe river again, and people began to feel very angry.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-41-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "小明承认了自己的错误，并开始寻找故障的原因。他夜以继日地工作以修复设备，并使其变得非常安全。工厂的主管看到了他真诚的付出，决定给他最后一次支持的机会。",
-              "en": "Xiao Ming admitted his mistake and began looking\nfor the cause of the breakdown. He worked day and night to repair the device and\nmake it completely safe. The factory director saw his sincere effort and decided\nto give him one last, supportive opportunity."
+              "en": "Xiao Ming admitted his mistake and began looking\nfor the cause of the breakdown. He worked day and night to repair the device and\nmake it completely safe. The factory director saw his sincere effort and decided\nto give him one last, supportive opportunity.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-41-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "第二次测试非常成功。河水变得完全干净，适合使用。几年后，鱼儿又回到了河里。小镇成为了一个好榜样，展示了科学如何帮助经济与绿色自然和谐共存。",
-              "en": "The second test was a huge success. The river water\nbecame completely clean and fit for use. A few years later, fish returned to the\nriver. The town became an example of how science helps the economy live in\nharmony with green nature."
+              "en": "The second test was a huge success. The river water\nbecame completely clean and fit for use. A few years later, fish returned to the\nriver. The town became an example of how science helps the economy live in\nharmony with green nature.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-41-5.png"
             }
           ]
         },
@@ -29400,27 +29688,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "年轻的历史学者小刚在城市的老图书馆里工作。在整理旧书时，他发现了一张发黄的羊皮纸地图。上面标注了山里的一个神秘地点，而在现代地图上并没有这个地方。",
-              "en": "The young historian Xiao Gang was working in the\ncity's old library. While organizing old books, he found a yellowed parchment\nmap. On it was marked a mysterious location in the mountains that did not appear\non modern maps today."
+              "en": "The young historian Xiao Gang was working in the\ncity's old library. While organizing old books, he found a yellowed parchment\nmap. On it was marked a mysterious location in the mountains that did not appear\non modern maps today.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-42-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "小刚决定去探索这个神秘而未知的地方。他仔细研究了该地区的历史，并准备了所有适合长途探险的设备。他知道旅途会很艰难，但对历史的强烈兴趣引导着他。",
-              "en": "Xiao Gang decided to explore this mysterious and\nunknown place. He studied the area's history well and prepared all the suitable\ndevices for his long adventure. He knew the path would be difficult, but his\nstrong interest in history guided him."
+              "en": "Xiao Gang decided to explore this mysterious and\nunknown place. He studied the area's history well and prepared all the suitable\ndevices for his long adventure. He knew the path would be difficult, but his\nstrong interest in history guided him.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-42-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "大山非常高且十分陡峭。在路上突然下起了暴雨，天气也变得非常寒冷。小刚感到很疲惫，但他寻找历史真相的决心支持着他继续穿过茂密的森林。",
-              "en": "The mountains were very high and steep. On the way,\nheavy rain began to fall, and it became extremely cold. Xiao Gang felt tired,\nbut his determination to find the historical truth supported him to continue\nthrough the dense forest."
+              "en": "The mountains were very high and steep. On the way,\nheavy rain began to fall, and it became extremely cold. Xiao Gang felt tired,\nbut his determination to find the historical truth supported him to continue\nthrough the dense forest.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-42-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "雨停后，小刚来到了两条小河交汇的地方。那里有一个美丽而壮观的瀑布。在水幕后面，他发现了一个隐藏的洞穴入口，里面放着一个古老的石盒。",
-              "en": "After the rain cleared, Xiao Gang reached the place\nwhere two rivers intersect. There was a beautiful and spectacular waterfall.\nBehind the water, he discovered a hidden entrance to a cave where an old stone\nbox lay."
+              "en": "After the rain cleared, Xiao Gang reached the place\nwhere two rivers intersect. There was a beautiful and spectacular waterfall.\nBehind the water, he discovered a hidden entrance to a cave where an old stone\nbox lay.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-42-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "小刚打开石盒，找到了古老的文书。里面记录了这些地方古代居民的历史以及他们有用的草药知识。小刚把这个发现带回学校，将这段遗忘的历史展现给世界。",
-              "en": "Xiao Gang opened the box and found old papers. They\nrecorded the history of the ancient residents of these places and their useful\nherbal knowledge. Xiao Gang brought this discovery back to the university and\nrevealed the forgotten history to the world."
+              "en": "Xiao Gang opened the box and found old papers. They\nrecorded the history of the ancient residents of these places and their useful\nherbal knowledge. Xiao Gang brought this discovery back to the university and\nrevealed the forgotten history to the world.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-42-5.png"
             }
           ]
         },
@@ -29487,27 +29780,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "气象学者小强在山顶的气象站工作。他每天记录风速和温度的数据。最近，山上的天气开始快速发生变化。",
-              "en": "The weather observer Xiao Qiang worked at the\nweather station at the top of the mountain. He recorded wind speed and\ntemperature data daily. Recently, the weather in the mountains began to change\nrapidly."
+              "en": "The weather observer Xiao Qiang worked at the\nweather station at the top of the mountain. He recorded wind speed and\ntemperature data daily. Recently, the weather in the mountains began to change\nrapidly.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-43-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "小强从读数中发现，一场危险且强烈的暴风雨正朝着山脚下的小村庄走来。他需要快速警告村民，以保护他们的房屋免受伤害。",
-              "en": "Xiao Qiang realized from the readings that a\ndangerous and strong storm was heading towards the small village at the foot of\nthe mountain. He needed to warn the residents quickly to protect their homes\nfrom harm."
+              "en": "Xiao Qiang realized from the readings that a\ndangerous and strong storm was heading towards the small village at the foot of\nthe mountain. He needed to warn the residents quickly to protect their homes\nfrom harm.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-43-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "他快速跑下山来到村里，告诉大家大风即将来临。开始有些人不相信仪器，但科学的数据说服了他们，同意立刻进行临时撤离。",
-              "en": "He went down quickly to the village and told\neveryone about the coming wind. Some did not believe the instruments at first,\nbut the scientific data convinced them to agree to an immediate temporary\nevacuation."
+              "en": "He went down quickly to the village and told\neveryone about the coming wind. Some did not believe the instruments at first,\nbut the scientific data convinced them to agree to an immediate temporary\nevacuation.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-43-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "夜里，狂风大作。风折断了房屋周围巨大的树枝。但幸好由于小强快速且提前的工作，所有的居民都已经在坚固的石屋里安全了。",
-              "en": "At night, a strong storm raged. The wind broke\nlarge tree branches near the houses. But fortunately, thanks to Xiao Qiang's\nquick and early work, all the residents were already safe inside a sturdy stone\nshelter."
+              "en": "At night, a strong storm raged. The wind broke\nlarge tree branches near the houses. But fortunately, thanks to Xiao Qiang's\nquick and early work, all the residents were already safe inside a sturdy stone\nshelter.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-43-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "早晨，暴风雨离开了。村庄受到了一点损害，但人们的生命安全无虞。居民们非常感谢小强，也明白了科学技术与他工作的价值。",
-              "en": "In the morning, the storm left. The village was\nslightly damaged, but people's lives were safe and sound. The residents thanked\nXiao Qiang very much and understood the value of science, technology, and his\nwork."
+              "en": "In the morning, the storm left. The village was\nslightly damaged, but people's lives were safe and sound. The residents thanked\nXiao Qiang very much and understood the value of science, technology, and his\nwork.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-43-5.png"
             }
           ]
         },
@@ -29574,27 +29872,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "海洋学者小华建造了一台先进的潜水设备。他计划去海洋最深的地方，研究巨大而未知的深海海底的自然生命。",
-              "en": "The oceanographer Xiao Hua built an advanced diving\ndevice. He planned to go to the deepest parts of the sea to study the unknown\nnatural life of the vast deep seafloor."
+              "en": "The oceanographer Xiao Hua built an advanced diving\ndevice. He planned to go to the deepest parts of the sea to study the unknown\nnatural life of the vast deep seafloor.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-44-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "在几千米深的深海里，是一片完全的黑暗。但是设备上强大的灯光照亮了一个由沙子、岩石和奇怪植物组成的神秘世界。",
-              "en": "At a depth of several thousand meters, there was\ncomplete darkness. But the powerful lights attached to the device illuminated a\nmysterious world of sand, rocks, and strange plants."
+              "en": "At a depth of several thousand meters, there was\ncomplete darkness. But the powerful lights attached to the device illuminated a\nmysterious world of sand, rocks, and strange plants.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-44-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "突然，小华看到了一只发光的漂亮小动物。这是科学上从未记载过的新物种。他为这个神奇的生物拍摄了许多非常清晰的照片。",
-              "en": "Suddenly, Xiao Hua saw a beautiful glowing small\nanimal. This was a exciting new species unknown to science. He took many clear\npictures of this amazing creature."
+              "en": "Suddenly, Xiao Hua saw a beautiful glowing small\nanimal. This was a exciting new species unknown to science. He took many clear\npictures of this amazing creature.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-44-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "在工作时，仪器突然关闭了一秒钟。小华没有感到害怕或慌张。他非常熟悉这台设备的结构，用双手快速且冷静地修好了电路问题。",
-              "en": "During the work, the instruments suddenly turned\noff for one second. Xiao Hua did not feel afraid or panicked. He was very\nfamiliar with the structure of this device and fixed the electrical problem with\nhis hands quickly and calmly."
+              "en": "During the work, the instruments suddenly turned\noff for one second. Xiao Hua did not feel afraid or panicked. He was very\nfamiliar with the structure of this device and fixed the electrical problem with\nhis hands quickly and calmly.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-44-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "小华安全地回到了地面，并在学校展示了他的照片。他的发现帮助人们更好地理解海洋，明白了保护水资源环境的巨大价值。",
-              "en": "Xiao Hua returned safely to the surface and\ndisplayed his photos at school. His discovery helped people better understand\nthe ocean depths and know the importance of protecting its environment. === END\nOF STORY 44 ==="
+              "en": "Xiao Hua returned safely to the surface and\ndisplayed his photos at school. His discovery helped people better understand\nthe ocean depths and know the importance of protecting its environment. === END\nOF STORY 44 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-44-5.png"
             }
           ]
         },
@@ -29661,27 +29964,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "天文学家小丽正在等待一颗十分罕见的彗星出现。这颗彗星每百年才接近一次地球。她希望拍摄到它明亮尾部的高质量照片。",
-              "en": "The astronomer Xiao Li was waiting for the\nappearance of a rare comet. This comet approached Earth once every hundred\nyears. She wanted to take high-quality pictures of its bright tail."
+              "en": "The astronomer Xiao Li was waiting for the\nappearance of a rare comet. This comet approached Earth once every hundred\nyears. She wanted to take high-quality pictures of its bright tail.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-45-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "小丽在城外一座高高的山丘上为对天文感兴趣的孩子们组织了一次晚间星空活动。许多孩子在父母的陪伴下前来看天空。",
-              "en": "Xiao Li organized a small evening stargazing\nactivity for children interested in astronomy on a high hill outside the city.\nMany children came accompanied by their parents to watch the sky today."
+              "en": "Xiao Li organized a small evening stargazing\nactivity for children interested in astronomy on a high hill outside the city.\nMany children came accompanied by their parents to watch the sky today.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-45-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "小丽调整了一台巨大的望远镜，让星星清晰地展现在孩子们面前。她用简单、易懂的词语向他们解释宇宙的规律和运动。",
-              "en": "Xiao Li adjusted a large telescope and placed the\nstars clearly before the children. She explained to them the laws of the\nuniverse and planetary movement in simple, easy-to-understand words."
+              "en": "Xiao Li adjusted a large telescope and placed the\nstars clearly before the children. She explained to them the laws of the\nuniverse and planetary movement in simple, easy-to-understand words.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-45-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "终于，那颗明亮的彗星出现在黑夜中。它的光芒在天空中留下一条长长的亮线。大家都安静下来，惊叹地看着这个美妙的自然景象。",
-              "en": "Finally, the bright comet appeared in the dark sky.\nIts light left a shiny, beautiful line in the sky. Everyone fell silent and\nlooked in awe at this wonderful sight of nature."
+              "en": "Finally, the bright comet appeared in the dark sky.\nIts light left a shiny, beautiful line in the sky. Everyone fell silent and\nlooked in awe at this wonderful sight of nature.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-45-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "这个美丽的夜晚帮助孩子们爱上了科学和宇宙探索。一些人甚至决定未来成为天文学家。小丽明白，她的努力给社会带来了很大的价值。",
-              "en": "This beautiful evening helped the children fall in\nlove with science and space exploration. Some of them decided to become\nastronomers in the future. Xiao Li understood that her effort holds great value\nfor society."
+              "en": "This beautiful evening helped the children fall in\nlove with science and space exploration. Some of them decided to become\nastronomers in the future. Xiao Li understood that her effort holds great value\nfor society.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-45-5.png"
             }
           ]
         },
@@ -29748,27 +30056,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "程序员小军在奶奶的旧房子里发现了一本旧黑白照片相册。里面有他家族的照片，以及展示一百年前小镇上生活面貌的图片。",
-              "en": "The programmer Xiao Jun found an old\nblack-and-white photo album in his grandmother's old house. There were\nphotographs of his family and pictures of the town's life a hundred years ago."
+              "en": "The programmer Xiao Jun found an old\nblack-and-white photo album in his grandmother's old house. There were\nphotographs of his family and pictures of the town's life a hundred years ago.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-46-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "小军决定把这些照片和图像转换成数字格式，以防止家族历史丢失。他很清楚，这些旧纸张会随着漫长时间的流逝而损坏。",
-              "en": "Xiao Jun decided to convert these photos and images\ninto a digital format to prevent family history from loss. He understood well\nthat old paper could get damaged with the passage of many years."
+              "en": "Xiao Jun decided to convert these photos and images\ninto a digital format to prevent family history from loss. He understood well\nthat old paper could get damaged with the passage of many years.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-46-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "他使用了扫描仪，并在自己的电脑上写了一个特殊的软件。这个软件可以自动清除照片上的灰尘和划痕，使旧面孔变得非常清晰。",
-              "en": "He used a scanner and wrote a special program on\nhis computer. This program removed dust and scratches from the photos and made\nold faces clear."
+              "en": "He used a scanner and wrote a special program on\nhis computer. This program removed dust and scratches from the photos and made\nold faces clear.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-46-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "小军把做好的数字相册上传到互联网，并把链接发给了在其他城市的所有亲人。大家看到家族的图片，都感到非常高兴。",
-              "en": "Xiao Jun uploaded the completed album to the\ninternet and sent the link to all his relatives in other cities. Everyone was\nhappy to see their roots through the pictures."
+              "en": "Xiao Jun uploaded the completed album to the\ninternet and sent the link to all his relatives in other cities. Everyone was\nhappy to see their roots through the pictures.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-46-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "多亏了现代技术，家族的历史得以为未来的下一代孩子安全保存。小军明白了，自己的编程技术和知识可以在社会中服务于美好的目标。",
-              "en": "Thanks to modern technologies, the family's history\nwas saved safely for future generations of children. Xiao Jun realized that his\ncoding skills and knowledge could serve good goals in society. === END OF\nSTORY 46 ==="
+              "en": "Thanks to modern technologies, the family's history\nwas saved safely for future generations of children. Xiao Jun realized that his\ncoding skills and knowledge could serve good goals in society. === END OF\nSTORY 46 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-46-5.png"
             }
           ]
         },
@@ -29835,27 +30148,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "建筑学家小建接到了在城市里设计一座新社区中心大楼的任务。他决定完全依靠大自然，使这栋大楼变得清洁、环保。",
-              "en": "The architect Xiao Jian received a request to\ndesign a new community center in the city. He decided to make this building\nclean and eco-friendly by relying on nature."
+              "en": "The architect Xiao Jian received a request to\ndesign a new community center in the city. He decided to make this building\nclean and eco-friendly by relying on nature.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-47-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "他改变了屋顶的结构与设计，允许最大程度地让自然太阳光进入新中心。这个设计有助于大大减少大楼在白天对电灯的使用。",
-              "en": "He modified the structure and design of the roof to\nallow the maximum amount of natural sunlight inside the new center building.\nThis design helped greatly reduce the use of electric lamps during the day."
+              "en": "He modified the structure and design of the roof to\nallow the maximum amount of natural sunlight inside the new center building.\nThis design helped greatly reduce the use of electric lamps during the day.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-47-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "小建计划在新中心楼顶建造一个宽阔美丽的花园。他安装了雨水收集和灌溉系统，能无需人工协助地自动给楼顶的植物浇水。",
-              "en": "Xiao Jian planned to plant a large and beautiful\ngreen garden on the roof of the new center. He installed a rainwater collection\nand irrigation system to water the plants automatically without the need for\nhuman intervention."
+              "en": "Xiao Jian planned to plant a large and beautiful\ngreen garden on the roof of the new center. He installed a rainwater collection\nand irrigation system to water the plants automatically without the need for\nhuman intervention.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-47-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "工人们开始工作，主要使用完全来自环保安全木头的材料。城市居民们都十分好奇地关注着这栋环保新房子的每一步。",
-              "en": "The workers began their work, mainly using safe\nmaterials made from eco-friendly wood. City residents watched every step of\nbuilding this distinct green building with great curiosity."
+              "en": "The workers began their work, mainly using safe\nmaterials made from eco-friendly wood. City residents watched every step of\nbuilding this distinct green building with great curiosity.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-47-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "新大楼成了市里最美的地方。人们喜欢去绿色树木下的花园休息、乘凉。小建向大家证明了绿色建筑理念的巨大益处。",
-              "en": "The new center became the most beautiful place in\nthe city. People liked to rest under the shade of the green trees. Xiao Jian\nproved the great benefits of green architecture ideas."
+              "en": "The new center became the most beautiful place in\nthe city. People liked to rest under the shade of the green trees. Xiao Jian\nproved the great benefits of green architecture ideas.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-47-5.png"
             }
           ]
         },
@@ -29922,27 +30240,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "园林设计师小红收到了一份修复古老寺庙庭院的请求。这个大花园已经被荒废了很多年，里面长满了各种高高矮矮的杂草。",
-              "en": "The landscape architect Xiao Hong received a\nrequest to restore an old temple garden. This large garden had been completely\nabandoned for many years, and wild grasses grew in it."
+              "en": "The landscape architect Xiao Hong received a\nrequest to restore an old temple garden. This large garden had been completely\nabandoned for many years, and wild grasses grew in it.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-48-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "小红为老庭院画了一张全新且美丽的设计图。她决定在水池旁放置一些巨大的灰色石头，并设计一条方便游客散步的小石子路。",
-              "en": "Xiao Hong drew a new and beautiful design plan for\nthe old garden. She decided to place large grey rocks near the water pool and\nmake smooth sandy paths for quiet walks for visitors."
+              "en": "Xiao Hong drew a new and beautiful design plan for\nthe old garden. She decided to place large grey rocks near the water pool and\nmake smooth sandy paths for quiet walks for visitors.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-48-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "小红在阴凉处种上了柔软的绿色苔藓，并在新花园正中心种了美丽的书。这些树叶的颜色会随着季节的变化而变成不同色彩。",
-              "en": "Xiao Hong planted soft green moss in the shaded\nareas and placed beautiful trees in the heart of the new garden. These beautiful\ntrees changed the colors of their leaves with the changing of the different\nseasons."
+              "en": "Xiao Hong planted soft green moss in the shaded\nareas and placed beautiful trees in the heart of the new garden. These beautiful\ntrees changed the colors of their leaves with the changing of the different\nseasons.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-48-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "小红希望创造一个安静的环境。在这里人们可以暂时忘掉城市的各种烦恼和工作，静静地坐着去观察生活，了解心灵。",
-              "en": "Xiao Hong wanted to create a quiet environment\nwhere people could temporarily forget the worries and work of the city, and sit\nin complete silence to observe life and understand the soul."
+              "en": "Xiao Hong wanted to create a quiet environment\nwhere people could temporarily forget the worries and work of the city, and sit\nin complete silence to observe life and understand the soul.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-48-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "美丽的旧庭院成了让人们放松和感到内心平静的真正地方。人们喜欢来这里听风。小红很高兴能够用自己的双手让古老的土地恢复美丽。",
-              "en": "The beautiful old garden became a true place of\nrest and inner peace for people. They came to listen to the wind. Xiao Hong was\nhappy to have been able to return beauty to the old land with her own hands. ===\nEND OF STORY 48 ==="
+              "en": "The beautiful old garden became a true place of\nrest and inner peace for people. They came to listen to the wind. Xiao Hong was\nhappy to have been able to return beauty to the old land with her own hands. ===\nEND OF STORY 48 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-48-5.png"
             }
           ]
         },
@@ -30009,27 +30332,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "工程师小明努力工作，发明出了一台新型飞行器。这是一台能够完全依靠太阳能进行飞行的小型无人家（无人机），不需要使用汽油。",
-              "en": "The engineer Xiao Ming worked hard to invent a new\nflying vehicle. This was a small unmanned aerial vehicle (drone) that could fly\nsolely on solar energy without gasoline."
+              "en": "The engineer Xiao Ming worked hard to invent a new\nflying vehicle. This was a small unmanned aerial vehicle (drone) that could fly\nsolely on solar energy without gasoline.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-49-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "该项目的主要目的是将急需的医疗设备和药品运输给住在遥远大山里的人们，那里的主要道路由于大雨暴风而遭到完全破坏。",
-              "en": "The main goal of the project was to transport\nmedical devices and emergency medicines to people in remote mountainous areas\nwhose main roads were completely destroyed by rain and storms."
+              "en": "The main goal of the project was to transport\nmedical devices and emergency medicines to people in remote mountainous areas\nwhose main roads were completely destroyed by rain and storms.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-49-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "在一个晴朗的早晨，小明带着设备来到一片开阔的测试场地进行第一次试飞。无人机依靠光的能量，安静地飞向遥远的大山。",
-              "en": "On a sunny morning, Xiao Ming took the vehicle to a\nwide test field to conduct the first test flight. The drone quietly flew towards\nthe distant mountains using only the power of light."
+              "en": "On a sunny morning, Xiao Ming took the vehicle to a\nwide test field to conduct the first test flight. The drone quietly flew towards\nthe distant mountains using only the power of light.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-49-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "在大山里，空中突然刮起了一阵强烈的大风。但多亏了机翼坚固且巧妙的内部结构设计，它成功保持了平衡并继续朝着目标航行。",
-              "en": "In the mountains, strong winds suddenly blew in the\nair. But thanks to the durable and clever design of the wing, the plane managed\nto maintain its balance and continued its journey."
+              "en": "In the mountains, strong winds suddenly blew in the\nair. But thanks to the durable and clever design of the wing, the plane managed\nto maintain its balance and continued its journey.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-49-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "无人机把急需的医疗包顺利且非常精准地送达了预定位置。小明感到很高兴，新科技被证明非常有用，保护并拯救了人们的生命。",
-              "en": "The drone successfully and accurately delivered the\nmedical cargo to the specified location. Xiao Ming felt very happy; his new\ntechnology had proved its utility and contributed to saving people's lives. ===\nEND OF STORY 49 ==="
+              "en": "The drone successfully and accurately delivered the\nmedical cargo to the specified location. Xiao Ming felt very happy; his new\ntechnology had proved its utility and contributed to saving people's lives. ===\nEND OF STORY 49 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-49-5.png"
             }
           ]
         },
@@ -30096,27 +30424,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "生物学者小丽多年来一直在观察本地大森林的生态系统。她仔细记录下小动物如何生活以及大树如何成长和高大。",
-              "en": "The biologist Xiao Li had studied the local\nforest's ecological system for many years. She kept track of how small animals\nlive and how tall trees grow."
+              "en": "The biologist Xiao Li had studied the local\nforest's ecological system for many years. She kept track of how small animals\nlive and how tall trees grow.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-50-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "她观察到，落叶慢慢转化成肥沃的泥土，而土地又给树木生长提供力量，树木反过来又成了鸟儿们安全又温暖的家。",
-              "en": "She observed how fallen leaves turn into fertile\nsoil, the soil gives strength to big trees to grow, and the trees in turn become\na safe and warm home for birds."
+              "en": "She observed how fallen leaves turn into fertile\nsoil, the soil gives strength to big trees to grow, and the trees in turn become\na safe and warm home for birds.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-50-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "在周末，小丽邀请一些小孩子们来到大自然，以便向他们说明这个连接结构。她温和地解释说：“在地球上，所有的生命连接成一个圆。”",
-              "en": "On the weekend, Xiao Li invited some children into\nnature to explain to them this connected structure. She gently explained,\nsaying: \"On our Earth, all life is connected in one circle.\""
+              "en": "On the weekend, Xiao Li invited some children into\nnature to explain to them this connected structure. She gently explained,\nsaying: \"On our Earth, all life is connected in one circle.\"",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-50-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "孩子们亲自动手，开始在树叶下寻找小生物，充满兴趣地观察植物。他们开始明白人其实也是这个奇妙大自然之圆的一部分。",
-              "en": "The children got their hands dirty, searching for\nsmall living creatures under the leaves and watching the plants with interest.\nThey began to understand that humans are also part of this wonderful circle of\nnature."
+              "en": "The children got their hands dirty, searching for\nsmall living creatures under the leaves and watching the plants with interest.\nThey began to understand that humans are also part of this wonderful circle of\nnature.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-50-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "小丽看到了孩子们眼里闪耀的光亮。她知道，优质的环境保护教育是让我们在未来保护美丽地球和美好自然的最好方式。",
-              "en": "Xiao Li saw the sparkle in the children's eyes. She\nknew that high-quality environmental protection education is the best way for us\nto protect our beautiful planet and wonderful nature in the future. === END OF\nSTORY 50 ==="
+              "en": "Xiao Li saw the sparkle in the children's eyes. She\nknew that high-quality environmental protection education is the best way for us\nto protect our beautiful planet and wonderful nature in the future. === END OF\nSTORY 50 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-mandarin-advanced-50-5.png"
             }
           ]
         }
@@ -37157,7 +37490,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "मैं वहाँ था। उसने अपनी पुस्तक मेज पर रख दी। वह मेरे लिए था,\nजैसा उसने कहा था।",
-              "en": "I was there. He put his book on the table. It was\nfor me, as he had said."
+              "en": "I was there. He put his book on the table. It was\nfor me, as he had said.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-beginner-01-1.png"
             }
           ]
         },
@@ -37195,7 +37529,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "वे अब यहाँ हैं। मेरे दोस्त एक घर में मेरे साथ रहना चाहते\nहैं। हमारे पास यह शांत जगह है।",
-              "en": "They are here now. My friends want to be with me in\none house. We have this quiet place."
+              "en": "They are here now. My friends want to be with me in\none house. We have this quiet place.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-beginner-02-1.png"
             }
           ]
         },
@@ -37234,7 +37569,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "यह क्या है? यह मेरे दोस्त का एक शब्द है। लेकिन आज बहुत गर्मी\nहै। इसके पास कुछ पानी है।",
-              "en": "What is this? This is a word from my friend. But\ntoday is hot. There is some water by it."
+              "en": "What is this? This is a word from my friend. But\ntoday is hot. There is some water by it.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-beginner-03-1.png"
             }
           ]
         },
@@ -37275,7 +37611,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "आप और मैं जाते हैं। क्या यह आप हैं या मैं? हमारे पास अतीत की\nएक पुरानी किताब थी। साथ में नए शहर की ओर चलें।",
-              "en": "You and I will go. Is it you or me? We had that old\nbook of the past. Let us go to the new town together."
+              "en": "You and I will go. Is it you or me? We had that old\nbook of the past. Let us go to the new town together.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-beginner-04-1.png"
             }
           ]
         },
@@ -37315,7 +37652,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "हम उस कमरे में थे। कौन सा कमरा? हम बाहर जा सकते हैं। अन्य\nलोग भी बाहर थे।",
-              "en": "We were in that room. Which room? We can go out.\nOther people were outside too."
+              "en": "We were in that room. Which room? We can go out.\nOther people were outside too.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-beginner-05-1.png"
             }
           ]
         },
@@ -37355,7 +37693,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "उसने कहा, \"समय नहीं है।\" यदि वे अपना काम करते हैं, तो वे इसे\nकैसे करेंगे? यह एक अच्छी योजना होगी।",
-              "en": "He said, \"There is no time.\" If they do their work,\nhow will they do it? It will be a good plan."
+              "en": "He said, \"There is no time.\" If they do their work,\nhow will they do it? It will be a good plan.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-beginner-06-1.png"
             }
           ]
         },
@@ -37395,7 +37734,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "मैं आपको बताना चाहता हूँ। यहाँ तीन चीजों का एक सेट है। हर\nचीज को ताजी हवा की जरूरत होती है। यह अच्छी तरह से काम करता है।",
-              "en": "I want to tell you. There is a set of three things\nhere. Each thing needs fresh air. It works well."
+              "en": "I want to tell you. There is a set of three things\nhere. Each thing needs fresh air. It works well.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-beginner-07-1.png"
             }
           ]
         },
@@ -37435,7 +37775,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "मैं घर पर एक छोटी किताब पढ़ता हूँ। मैं अपने हाथों से खेलता\nभी हूँ। दिन के अंत में, मैं किताब शेल्फ पर रख देता हूँ।",
-              "en": "I read a small book at home. I also play quietly\nusing my hand. At the end of the day, I put the book on the shelf. === END OF\nSTORY 08 ==="
+              "en": "I read a small book at home. I also play quietly\nusing my hand. At the end of the day, I put the book on the shelf. === END OF\nSTORY 08 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-beginner-08-1.png"
             }
           ]
         },
@@ -37475,7 +37816,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "यह एक बड़ा बंदरगाह है। इस भूमि पर एक बड़ा जहाज है। आपको यहाँ\nअपना नाम सही लिखना और उसकी वर्तनी लिखनी चाहिए। जानकारी भी जोड़ें।",
-              "en": "Here is a large port. There is a big ship on this\nland. You must write and spell your name correctly here. Information is also\nneeded."
+              "en": "Here is a large port. There is a big ship on this\nland. You must write and spell your name correctly here. Information is also\nneeded.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-beginner-09-1.png"
             }
           ]
         },
@@ -37515,7 +37857,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "लोग एक ऊँचे पर्वत पर गए। मैंने पूछा कि वे क्यों गए। वे इस\nतरह के बदलाव का पालन करने के लिए कार्य करते हैं।",
-              "en": "The men went to a high mountain. I asked why they\nwent. They acted and followed the change."
+              "en": "The men went to a high mountain. I asked why they\nwent. They acted and followed the change.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-beginner-10-1.png"
             }
           ]
         },
@@ -37555,7 +37898,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "इस घर को प्रकाश की जरूरत है। कृपया लाइट बंद करके इसकी फिर से\nतस्वीर लेने की कोशिश करें। एक दयालु व्यक्ति हमारी मदद करता है।",
-              "en": "This house needs light. Please turn the light off\nand try to take a picture again. A kind person will help us."
+              "en": "This house needs light. Please turn the light off\nand try to take a picture again. A kind person will help us.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-beginner-11-1.png"
             }
           ]
         },
@@ -37595,7 +37939,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "मेरी माँ और पिता पृथ्वी से प्यार करते हैं। हम अपने घर के पास\nएक छोटा घर बनाते हैं और खुद जंगली जानवरों को देखते हैं। यही दुनिया का बिंदु है।",
-              "en": "My mother and father love the earth. We build a\nsmall house near our home and observe wild animals ourselves. That is the point\nof the world."
+              "en": "My mother and father love the earth. We build a\nsmall house near our home and observe wild animals ourselves. That is the point\nof the world.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-beginner-12-1.png"
             }
           ]
         },
@@ -37643,12 +37988,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "एक दिन, एक छोटी लड़की को पास के जंगल में एक खोया हुआ कुत्ता\nमिला। वह कुत्ता बहुत डरा हुआ था और उसे बहुत ठंड लग रही थी। लड़की ने उससे प्यार\nसे बात की और उसे शांत किया।",
-              "en": "One day, a little girl found a lost dog in the\nnearby forest. The dog was very scared and felt very cold. The girl spoke to it\ngently and made it feel safe."
+              "en": "One day, a little girl found a lost dog in the\nnearby forest. The dog was very scared and felt very cold. The girl spoke to it\ngently and made it feel safe.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-13-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "वह कुत्ते को अपने घर ले आई और उसे गर्म खाना दिया। कुत्ता\nखुशी से अपनी पूंछ हिलाने लगा। उसकी माँ और पिता भी कुत्ते को रखने के लिए\nमान गए और सब बहुत खुश हुए।",
-              "en": "She brought the dog back to her house and gave it\nwarm food. The dog happily wagged its tail. Her mother and father also agreed to\nlet it stay, and everyone was very happy."
+              "en": "She brought the dog back to her house and gave it\nwarm food. The dog happily wagged its tail. Her mother and father also agreed to\nlet it stay, and everyone was very happy.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-13-2.png"
             }
           ]
         },
@@ -37696,12 +38043,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "हमने अपना नया घर बनाने के लिए इस शांत भूमि को चुना। पास ही\nएक साफ नदी है और हर दिन सुंदर पक्षियों का गाना सुनाई देता है। आज से हमारा\nनया जीवन शुरू होता है।",
-              "en": "We chose this quiet land to build our new house.\nThere is a clean river nearby, and we can hear the beautiful songs of birds\nevery day. Our new life begins today."
+              "en": "We chose this quiet land to build our new house.\nThere is a clean river nearby, and we can hear the beautiful songs of birds\nevery day. Our new life begins today.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-14-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "पिताजी और मैंने नए घर के पास एक छोटा बगीचा बनाना शुरू किया।\nहमने वहाँ कई सुंदर फूल लगाए। माँ खिड़की से हमें देख रही थीं और प्यार से हमारी\nमदद कर रही थीं।",
-              "en": "My father and I started to build a small garden\nnear our new house. We planted many beautiful flowers there. My mother watched\nus from the window and kindly helped us."
+              "en": "My father and I started to build a small garden\nnear our new house. We planted many beautiful flowers there. My mother watched\nus from the window and kindly helped us.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-14-2.png"
             }
           ]
         },
@@ -37749,12 +38098,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "एक छोटा लड़का स्कूल के एक कठिन सवाल के बारे में सोच रहा था।\nउसने बहुत समय तक किताब पढ़ी, लेकिन उसे सही उत्तर बिल्कुल समझ नहीं आया। इससे वह\nउदास हो गया।",
-              "en": "A little boy was thinking about a difficult problem\nfor school. He read a book for a long time, but he could not understand the\ncorrect answer at all. This made him feel sad."
+              "en": "A little boy was thinking about a difficult problem\nfor school. He read a book for a long time, but he could not understand the\ncorrect answer at all. This made him feel sad.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-15-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "माँ उसके पास आईं और प्यार से बोलीं, \"एक बार फिर कोशिश करो,\nपहले पन्ने से शुरू करो। धीरे-धीरे पढ़ो, तुम इसका मतलब और उत्तर जरूर समझ\nजाओगे।\" लड़के ने फिर से शुरुआत की।",
-              "en": "His mother came to his side and said gently: \"Try\nagain, start from the first page. Read slowly, and you will surely understand\nits meaning and the answer.\" The boy started over."
+              "en": "His mother came to his side and said gently: \"Try\nagain, start from the first page. Read slowly, and you will surely understand\nits meaning and the answer.\" The boy started over.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-15-2.png"
             }
           ]
         },
@@ -37802,12 +38153,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "हमारे गाँव के पास एक बहुत चौड़ी नदी है। नदी के उस पार जाने\nके लिए हमें पहले हमेशा बहुत लंबा और थका देने वाला रास्ता तय करना पड़ता था।\nइससे हमें बहुत परेशानी होती थी।",
-              "en": "There is a very wide river near our village. In\norder to go to the land on the other side, we always had to walk a long and\ntiring road in the past. This made us feel very inconvenienced."
+              "en": "There is a very wide river near our village. In\norder to go to the land on the other side, we always had to walk a long and\ntiring road in the past. This made us feel very inconvenienced.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-16-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "गाँव के लोग एक साथ आए और उन्होंने एक नया लकड़ी का पुल बनाने\nका फैसला किया। सबने अपने हाथों से कड़ी मेहनत की और पुल बन गया। अब हम बहुत\nआसानी से नदी पार कर सकते हैं।",
-              "en": "The villagers gathered together and decided to\nbuild a new wooden bridge. Everyone worked hard with their hands, and the big\nbridge was finally built. Now we can cross the river very easily and quickly."
+              "en": "The villagers gathered together and decided to\nbuild a new wooden bridge. Everyone worked hard with their hands, and the big\nbridge was finally built. Now we can cross the river very easily and quickly.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-16-2.png"
             }
           ]
         },
@@ -37855,12 +38208,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "मेरे दादाजी ने मुझे एक पुरानी और दिलचस्प चित्रों वाली पुस्तक\nदी। उस किताब में दुनिया भर के जंगली जानवरों की कई सुंदर तस्वीरें थीं। मुझे वह\nपहली नज़र में ही पसंद आ गई।",
-              "en": "My grandfather gave me an ancient and interesting\npicture book. In that book, there were many beautiful photos of wild animals\nfrom all over the world. I fell in love with it at first sight."
+              "en": "My grandfather gave me an ancient and interesting\npicture book. In that book, there were many beautiful photos of wild animals\nfrom all over the world. I fell in love with it at first sight.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-17-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "मैं किताब पढ़ रहा था और नए कठिन शब्दों की वर्तनी लिखना सीख\nरहा था। मेरी माँ हमेशा मेरे पास बैठती थीं और मुझे सही और जल्दी सीखने में\nप्यार से मदद करती थीं।",
-              "en": "While reading, I learned how to write the spellings\nof those difficult new words. My mother always sat next to me, kindly helping me\nlearn correctly and quickly."
+              "en": "While reading, I learned how to write the spellings\nof those difficult new words. My mother always sat next to me, kindly helping me\nlearn correctly and quickly.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-17-2.png"
             }
           ]
         },
@@ -37908,12 +38263,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "जब हम ऊँचे पहाड़ की चोटी पर पहुँचे, तो नीला आसमान हमारे बहुत\nपास लग रहा था। हवा ठंडी और तेज़ चल रही थी, लेकिन तेज़ धूप ने चारों ओर की दुनिया\nको सुंदर बना दिया था।",
-              "en": "When we climbed up to the top of the high mountain,\nthe blue sky seemed very close to us. The wind blew cold and strong, but the\nbright sunlight made the world around us incredibly beautiful."
+              "en": "When we climbed up to the top of the high mountain,\nthe blue sky seemed very close to us. The wind blew cold and strong, but the\nbright sunlight made the world around us incredibly beautiful.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-18-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "पिताजी ने हाथ से आसमान की ओर इशारा किया और कहा, \"उन बड़े\nपक्षियों को देखो, वे सब एक साथ दूर और गर्म देश की ओर उड़ रहे हैं।\" हम\nवहीं खड़े होकर उन्हें देखते रहे।",
-              "en": "My father pointed to the sky with his hand and\nsaid: \"Look at those beautiful big birds. They are flying together to a distant\nand warm land.\" We stood there quietly, watching them fly away. === END OF\nSTORY 18 ==="
+              "en": "My father pointed to the sky with his hand and\nsaid: \"Look at those beautiful big birds. They are flying together to a distant\nand warm land.\" We stood there quietly, watching them fly away. === END OF\nSTORY 18 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-18-2.png"
             }
           ]
         },
@@ -37961,12 +38318,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "मेरे पिता काम की वजह से बहुत दूर एक बड़े बंदरगाह के शहर में\nगए थे। एक दिन घर पर उनका लिखा हुआ पत्र मिला। मैं बहुत खुश हुआ और मैंने तुरंत\nउसे खोल लिया।",
-              "en": "My father went to a very far and large port city\nbecause of work. One day, a letter he wrote was received at home. I was very\nhappy and opened it immediately."
+              "en": "My father went to a very far and large port city\nbecause of work. One day, a letter he wrote was received at home. I was very\nhappy and opened it immediately.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-19-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "पिताजी ने पत्र में वहाँ के सुंदर समुद्र, अद्भुत जगहों और\nअच्छे लोगों के बारे में लिखा था। उन्होंने वादा किया कि वे बहुत जल्द घर\nआएँगे। मेरा दिल शांत हो गया।",
-              "en": "Father wrote in the letter about the beautiful sea,\nwonderful places, and kind people there. He promised to come home very soon. My\nheart felt relieved immediately."
+              "en": "Father wrote in the letter about the beautiful sea,\nwonderful places, and kind people there. He promised to come home very soon. My\nheart felt relieved immediately.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-19-2.png"
             }
           ]
         },
@@ -38014,12 +38373,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "वह गर्मियों की एक बहुत गर्म दोपहर थी। घर में हवा नहीं चल रही\nथी और हमें ठंडे पानी की ज़रूरत थी। हमने जंगल के पास वाले पुराने कुएं से पानी\nलाने का फैसला किया।",
-              "en": "That was a very hot summer afternoon. There was no\nwind in the house, and we needed cool, clean water. We decided to go draw water\nfrom that old well near the forest."
+              "en": "That was a very hot summer afternoon. There was no\nwind in the house, and we needed cool, clean water. We decided to go draw water\nfrom that old well near the forest.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-20-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "हमने अपने हाथों से भारी बाल्टी को कुएं से ऊपर खींचा। कुएं का\nपानी बहुत ठंडा था। हमने पानी पिया और हमें बहुत अच्छा लगा। वह गर्म दिन भी सुंदर\nबन गया।",
-              "en": "We used our hands to pull the heavy bucket up from\nthe well. The well water was very cool. We drank the water and felt very happy\nand comfortable. The hot day became beautiful too."
+              "en": "We used our hands to pull the heavy bucket up from\nthe well. The well water was very cool. We drank the water and felt very happy\nand comfortable. The hot day became beautiful too.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-20-2.png"
             }
           ]
         },
@@ -38067,12 +38428,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "आज स्कूल की छुट्टी थी। छोटे बच्चे घर के पास वाले खुले मैदान\nमें जमा हो गए। सब मजे से खेलने लगे। मौसम बहुत अच्छा था और ठंडी हवा चल रही थी।",
-              "en": "Today is a school holiday. Small children gathered\nin the open square near the houses. Everyone started playing lively. The weather\nwas great, and a comfortable breeze was blowing."
+              "en": "Today is a school holiday. Small children gathered\nin the open square near the houses. Everyone started playing lively. The weather\nwas great, and a comfortable breeze was blowing.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-21-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "वे शाम तक खेलते रहे। दिन के अंत में, सब घास पर एक बड़े घेरे\nमें बैठ गए और एक-दूसरे को उन कहानियों के बारे में बताने लगे जो उन्होंने\nकिताबों में पढ़ी थीं।",
-              "en": "They played until evening. At the end of the day,\neveryone sat in a big circle on the grass, telling each other interesting\nstories they had read in books."
+              "en": "They played until evening. At the end of the day,\neveryone sat in a big circle on the grass, telling each other interesting\nstories they had read in books.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-21-2.png"
             }
           ]
         },
@@ -38120,12 +38483,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "इस दुनिया में हर चीज़ का एक अंत होता है। लेकिन एक अंत का\nमतलब हमेशा कुछ नया शुरू होना होता है। छोटे लड़के ने अपने पुराने खिलौने\nएक बड़े बक्से में रख दिए।",
-              "en": "Every thing in this world has its end. But an\nending always means the beginning of something new. The little boy put his old\ntoys into a large box."
+              "en": "Every thing in this world has its end. But an\nending always means the beginning of something new. The little boy put his old\ntoys into a large box.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-22-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "अब वह बड़ा हो गया था और खिलौनों से नहीं खेलता था। अब उसे\nदूसरी अच्छी किताबें पढ़नी थीं और खुद जीवन की योजना बनानी थी। वह\nमुस्कुराया और आगे बढ़ गया।",
-              "en": "He has grown up and doesn't play with those toys\nanymore. Now he needs to read other more useful books and make new plans for\nlife himself. He smiled and walked confidently toward the future. === END OF\nSTORY 22 ==="
+              "en": "He has grown up and doesn't play with those toys\nanymore. Now he needs to read other more useful books and make new plans for\nlife himself. He smiled and walked confidently toward the future. === END OF\nSTORY 22 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-22-2.png"
             }
           ]
         },
@@ -38172,12 +38537,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "मेरा घर एक बहुत बड़े और व्यस्त बंदरगाह के पास है। हर सुबह\nदुनिया भर से बड़े जहाज यहाँ आते हैं और कई लोग इस ज़मीन पर उतरते हैं। यहाँ\nबहुत चहल-पहल होती है।",
-              "en": "My house is very close to a very large and busy\nport. Every morning, big ships from all over the world arrive here, and many\npeople disembark onto this land; it is very lively."
+              "en": "My house is very close to a very large and busy\nport. Every morning, big ships from all over the world arrive here, and many\npeople disembark onto this land; it is very lively.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-23-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "शाम को मैं और पिताजी पानी के किनारे जाते हैं। हम बड़े जहाजों\nको वापस समुद्र में जाते हुए देखते हैं। सूरज की रोशनी लहरों पर पड़ती है और यह\nनजारा बहुत सुंदर लगता है।",
-              "en": "In the evening, my father and I come to the water.\nWe quietly watch the big ships sail back to sea. The light of the setting sun\nsprinkles on the waves, and this beautiful scenery cannot be described in words."
+              "en": "In the evening, my father and I come to the water.\nWe quietly watch the big ships sail back to sea. The light of the setting sun\nsprinkles on the waves, and this beautiful scenery cannot be described in words.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-23-2.png"
             }
           ]
         },
@@ -38224,12 +38591,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "हमने एक बहुत ऊँचे पहाड़ पर चढ़ने की योजना बनाई। वह पहाड़\nबादलों के पास खड़ा था और वहाँ तक पहुँचने के लिए हमें ताकत और कोशिश की\nज़रूरत थी।",
-              "en": "We made a plan to climb a very high mountain. That\nmountain towered high near the clouds, and reaching its summit required strength\nand action."
+              "en": "We made a plan to climb a very high mountain. That\nmountain towered high near the clouds, and reaching its summit required strength\nand action.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-24-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "जब हम पहाड़ की चोटी पर पहुँचे तो वहाँ हवा बहुत ठंडी थी।\nलेकिन वहाँ से नीचे का नज़ारा बहुत सुंदर था। घर और नदियाँ छोटी लग रही\nथीं। हमें गर्व महसूस हुआ।",
-              "en": "When we reached the high summit, the wind was very\ncold. But looking down from there, the scenery was so beautiful. Houses and\nrivers looked like small points. We were proud of our own strength. === END OF\nSTORY 24 ==="
+              "en": "When we reached the high summit, the wind was very\ncold. But looking down from there, the scenery was so beautiful. Houses and\nrivers looked like small points. We were proud of our own strength. === END OF\nSTORY 24 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-24-2.png"
             }
           ]
         },
@@ -38276,12 +38645,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "एक छोटी लड़की रंगीन कागज़ से एक सुंदर छोटा जानवर बनाने की\nकोशिश कर रही थी। लेकिन उसकी पहली कोशिश सफल नहीं हुई और कागज़ फट गया। उसे\nथोड़ा दुख हुआ।",
-              "en": "A little girl tried to fold a beautiful small\nanimal out of colored paper. But her first attempt did not succeed, and the\npaper tore. She felt a bit sad."
+              "en": "A little girl tried to fold a beautiful small\nanimal out of colored paper. But her first attempt did not succeed, and the\npaper tore. She felt a bit sad.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-25-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "माँ उसके पास आईं और बोलीं, \"एक बार फिर कोशिश करो। अपने हाथों\nको थोड़ा धीरे चलाओ।\" लड़की ने एक नया साफ़ कागज़ लिया और अंत में एक सुंदर खिलौना\nबना लिया। वह मुस्कुराई।",
-              "en": "Her mother came over and said: \"Try again, and make\nyour hand movements a little slower.\" The girl took a clean new sheet of paper\nand was finally able to fold an excellent shape. She smiled."
+              "en": "Her mother came over and said: \"Try again, and make\nyour hand movements a little slower.\" The girl took a clean new sheet of paper\nand was finally able to fold an excellent shape. She smiled.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-25-2.png"
             }
           ]
         },
@@ -38328,12 +38699,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "शब्द हमारे लिए नए रास्ते खोलते हैं और जीवन के प्रति हमारी\nसमझ को पूरी तरह बदल देते हैं। हर दिन मैं नए शब्दों का अर्थ सीखता हूँ और\nउन्हें अपनी डायरी में लिखता हूँ।",
-              "en": "Words open new paths for us and completely change\nour understanding of life. Every day, I study the meanings of new words and\nwrite them in my notebook to remember them."
+              "en": "Words open new paths for us and completely change\nour understanding of life. Every day, I study the meanings of new words and\nwrite them in my notebook to remember them.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-26-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "किताबें पढ़ना इंसान को अपना खुद का एक सुंदर आंतरिक संसार\nबनाने में मदद करता है। बहुत पढ़ने से हम दूसरों को बेहतर ढंग से समझने\nलगते हैं और सभी के लिए दयालु बनते हैं।",
-              "en": "Reading books helps a person build their own unique\ninner world. Through a large amount of reading, we begin to better understand\nothers and become gentler and kinder to everyone around us."
+              "en": "Reading books helps a person build their own unique\ninner world. Through a large amount of reading, we begin to better understand\nothers and become gentler and kinder to everyone around us.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-elementary-26-2.png"
             }
           ]
         },
@@ -38389,17 +38762,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "एक शनिवार की दोपहर, अमित ने अपने घर की पुरानी अटारी को साफ\nकरने का फैसला किया। वहाँ कई पुराने बक्से और टूटे हुए फर्नीचर रखे थे। कमरे के\nकोने में, उसे एक बड़ी पुरानी लकड़ी की घड़ी खड़ी मिली। ऐसा लग रहा था कि वह घड़ी\nसालों से चली नहीं थी और उस पर धूल जमी थी।",
-              "en": "On a Saturday afternoon, Amit decided to clean the\nold attic of his house. There were many old boxes and broken furniture. In the\ncorner of the room, he found a large, old wooden clock standing. The clock did\nnot seem to have run for many years, and a lot of dust had accumulated on it."
+              "en": "On a Saturday afternoon, Amit decided to clean the\nold attic of his house. There were many old boxes and broken furniture. In the\ncorner of the room, he found a large, old wooden clock standing. The clock did\nnot seem to have run for many years, and a lot of dust had accumulated on it.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-27-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "अमित ने घड़ी का कांच का दरवाजा खोला और अंदर की जांच शुरू की।\nभारी पेंडुलम के पीछे उसे एक पीतल की छोटी चाबी मिली। उसने चाबी ली और उसे घड़ी के\nकिनारे बने एक छोटे छेद में डालने की कोशिश की। चाबी पूरी तरह और आसानी से फिट हो\nगई।",
-              "en": "Amit opened the clock's glass door and began to\ncheck the inside. Behind the heavy pendulum, he found a small brass key. He took\nthe key and tried to insert it into a small hole on the side of the clock. The\nkey fit perfectly and easily."
+              "en": "Amit opened the clock's glass door and began to\ncheck the inside. Behind the heavy pendulum, he found a small brass key. He took\nthe key and tried to insert it into a small hole on the side of the clock. The\nkey fit perfectly and easily.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-27-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "जब उसने धीरे से चाबी घुमाई, तो घड़ी से टिक-टिक की प्यारी\nआवाज़ आने लगी। घड़ी की सुइयां फिर से चलने लगीं और जल्द ही घर में एक\nसुंदर घंटी बजी। यह आवाज़ वैसी ही थी जैसी उसके दादाजी सालों पहले सुनते\nथे। अमित को अपने दिल में खुशी महसूस हुई।",
-              "en": "As he turned the key gently, the clock began to\nmake a friendly ticking sound. The hands moved again, and a beautiful chime soon\nrang out in the house. This sound was exactly like the one his grandfather loved\nto listen to many years ago. Amit felt joyful in his heart."
+              "en": "As he turned the key gently, the clock began to\nmake a friendly ticking sound. The hands moved again, and a beautiful chime soon\nrang out in the house. This sound was exactly like the one his grandfather loved\nto listen to many years ago. Amit felt joyful in his heart.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-27-3.png"
             }
           ]
         },
@@ -38455,17 +38831,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "आरती एक शांत जंगल से होकर गुजर रही थी, जहाँ केवल पक्षियों की\nदूर की आवाज़ें सुनाई दे रही थीं। पेड़ बहुत ऊँचे थे और सूरज की रोशनी हरी शाखाओं\nसे होकर बहुत कम छन कर आ रही थी। पैरों के नीचे नरम हरी काई की चादर बिछी थी।",
-              "en": "Aarti was walking through a quiet forest where only\nthe distant voices of birds were heard. The trees were tall, and the light of\nthe sun barely filtered through the green branches. Soft green moss lay\nunderfoot, looking like a carpet."
+              "en": "Aarti was walking through a quiet forest where only\nthe distant voices of birds were heard. The trees were tall, and the light of\nthe sun barely filtered through the green branches. Soft green moss lay\nunderfoot, looking like a carpet.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-28-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "वह और अंदर गई और अचानक उसने एक छोटी और सुंदर झील देखी। उसका\nपानी आईने की तरह साफ था, जिसमें नीला आसमान और सफेद बादल दिखाई दे रहे थे। पास\nही कुछ हिरण खड़े पानी पी रहे थे। लड़की ने चुपचाप उन्हें देखा।",
-              "en": "She went deeper and suddenly saw a small, beautiful\nlake. The water in it was clean as a mirror, reflecting the blue sky and white\nclouds. Nearby stood several deer drinking water. The girl watched them quietly."
+              "en": "She went deeper and suddenly saw a small, beautiful\nlake. The water in it was clean as a mirror, reflecting the blue sky and white\nclouds. Nearby stood several deer drinking water. The girl watched them quietly.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-28-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "आरती पानी के पास एक सूखी चट्टान पर बैठ गई और अपनी डायरी\nखोली। उसने इस कहानी को लिखने और झील व हिरणों का चित्र बनाने का फैसला\nकिया। जंगल की सैर की यह प्यारी याद लंबे समय तक उसके साथ रहेगी।",
-              "en": "Aarti sat on a dry stone by the water and opened\nher notebook. She decided to write down this story and draw the lake and the\ndeer. This warm memory of the walk in the forest will stay with her for a long\ntime."
+              "en": "Aarti sat on a dry stone by the water and opened\nher notebook. She decided to write down this story and draw the lake and the\ndeer. This warm memory of the walk in the forest will stay with her for a long\ntime.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-28-3.png"
             }
           ]
         },
@@ -38521,17 +38900,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "अमन नीले समुद्र के किनारे बसे एक सुंदर शहर में रहता था। हर\nगर्मी में यहाँ एक बड़ा त्योहार मनाया जाता था। बंदरगाह पर रंग-बिरंगे झंडे\nलगाए जाते थे और लोग लकड़ी की छोटी दुकानें बनाते थे। शाम तक बहुत से लोग\nवहाँ जमा हो गए।",
-              "en": "Aman lived in a beautiful city by the blue sea.\nEvery summer a big festival was organized here. Bright flags were hung in the\nport, and people built small wooden food stalls. By evening, many people\ngathered on the street."
+              "en": "Aman lived in a beautiful city by the blue sea.\nEvery summer a big festival was organized here. Bright flags were hung in the\nport, and people built small wooden food stalls. By evening, many people\ngathered on the street.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-29-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "अमन बंदरगाह पर एक बूढ़े नाविक से मिला। नाविक ने उसे दुनिया\nके बड़े समुद्रों की लंबी यात्राओं, तेज़ तूफ़ानों और बड़ी मछलियों के बारे में\nबताया। लड़का उसकी बातें बड़े ध्यान से सुनता था और भविष्य में खुद नाविक बनने का\nसपना देखने लगा।",
-              "en": "Aman met an old sailor in the port. The old man\ntold him about his long voyages across the oceans of the earth, about strong\nstorms and big fish. The boy listened to him with great interest and dreamed of\nalso becoming a real sailor in the future."
+              "en": "Aman met an old sailor in the port. The old man\ntold him about his long voyages across the oceans of the earth, about strong\nstorms and big fish. The boy listened to him with great interest and dreamed of\nalso becoming a real sailor in the future.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-29-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "जब अंधेरा हुआ तो आसमान में रंग-बिरंगे पटाखे चलने लगे। उनकी\nरोशनी हवा में बहुत ऊपर जाती और फिर समुद्र के पानी में गिरती। पूरा शहर चमक\nरहा था और लोग तालियाँ बजा रहे थे। अमन को अपने बंदरगाह वाले शहर पर गर्व\nमहसूस हुआ।",
-              "en": "When it became dark, bright fireworks began in the\nsky. The lights flew high into the air and fell into the sea water. The whole\ncity glowed, and people clapped their hands. Aman felt pride in his beautiful\nport city."
+              "en": "When it became dark, bright fireworks began in the\nsky. The lights flew high into the air and fell into the sea water. The whole\ncity glowed, and people clapped their hands. Aman felt pride in his beautiful\nport city.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-29-3.png"
             }
           ]
         },
@@ -38587,17 +38969,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "स्कूल में विज्ञान के पाठ के दौरान शिक्षक ने बच्चों को एक नया\nकाम दिया। उन्हें समूहों में बँटना था और \"भविष्य के हरे शहर\" का एक मॉडल बनाना था।\nचार दोस्त एक साथ बैठे और सोचने लगे कि वे पर्यावरण को बचाने के लिए किन तकनीकों का\nउपयोग करेंगे।",
-              "en": "At school during the science class, the teacher\ngave the children a new task. They needed to divide into groups and build a\nmodel of a \"city of the future.\" Four friends sat together and began thinking\nabout eco-friendly technologies."
+              "en": "At school during the science class, the teacher\ngave the children a new task. They needed to divide into groups and build a\nmodel of a \"city of the future.\" Four friends sat together and began thinking\nabout eco-friendly technologies.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-30-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "उनके पास कई अच्छे विचार थे। उन्होंने हर घर की छत पर सौर\nऊर्जा पैनल लगाने और पौधों को सींचने के लिए बारिश के पानी को इकट्ठा\nकरने की प्रणाली बनाने का फैसला किया। उन्होंने कागज और गत्ते जैसी साधारण\nचीजों का इस्तेमाल किया।",
-              "en": "They had many good ideas. They decided to make\nsolar panels on the roofs of each house and a rainwater collection system for\nplants. They used simple things like paper and cardboard, working with their\nhands."
+              "en": "They had many good ideas. They decided to make\nsolar panels on the roofs of each house and a rainwater collection system for\nplants. They used simple things like paper and cardboard, working with their\nhands.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-30-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "अगले दिन सभी समूहों ने अपने मॉडल दिखाए। शिक्षक ने बच्चों के\nकाम की तारीफ की। दोस्तों को समझ आया कि एक साथ मिलकर काम करना कितना जरूरी है।\nयह हर बच्चे के लिए एक बेहतरीन पाठ था।",
-              "en": "The next day, all groups showed their models. The\nteacher praised the children for their work. The friends understood how\nimportant it is to work together toward one goal. It was an excellent lesson for\neach of them."
+              "en": "The next day, all groups showed their models. The\nteacher praised the children for their work. The friends understood how\nimportant it is to work together toward one goal. It was an excellent lesson for\neach of them.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-30-3.png"
             }
           ]
         },
@@ -38653,17 +39038,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "सुबह जल्दी राहुल ने एक ऊंचे पहाड़ के संकरे रास्ते पर चढ़ना\nशुरू किया। हवा बहुत ठंडी चल रही थी, लेकिन चलने से उसका शरीर गर्म हो गया था।\nचारों ओर सुंदर पहाड़ी फूल और घास उगे थे जो उसकी आँखों को खुशी दे रहे थे।",
-              "en": "Early in the morning, Rahul began climbing a narrow\ntrail up a high mountain. A cold wind was blowing, but the boy walked quickly\nand felt warm. Beautiful mountain flowers and herbs grew around him, pleasing\nhis eye."
+              "en": "Early in the morning, Rahul began climbing a narrow\ntrail up a high mountain. A cold wind was blowing, but the boy walked quickly\nand felt warm. Beautiful mountain flowers and herbs grew around him, pleasing\nhis eye.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-31-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "दोपहर में आसमान में अंधेरा छा गया और तेज़ बारिश होने लगी।\nखुशकिस्मती से, आगे पत्थर का बना एक छोटा केबिन था। राहुल बारिश से बचने के\nलिए जल्दी से वहाँ गया। अंदर सूखा था और वह थर्मस से गर्म चाय पी सका।",
-              "en": "By afternoon, the sky grew dark and heavy rain\nfell. Fortunately, a small stone cabin stood ahead. Rahul ran there quickly to\nwait out the rain. Inside it was dry, and he was able to drink warm tea from his\nthermos."
+              "en": "By afternoon, the sky grew dark and heavy rain\nfell. Fortunately, a small stone cabin stood ahead. Rahul ran there quickly to\nwait out the rain. Inside it was dry, and he was able to drink warm tea from his\nthermos.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-31-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "जल्द ही बारिश रुक गई और आसमान में फिर से चमकीला सूरज निकल\nआया। राहुल केबिन से बाहर आया और पहाड़ की चोटी पर पहुँच गया। नीचे एक बड़ी\nहरी घाटी थी। तेज़ हवा ने उसकी थकान दूर कर दी और उसे बहुत खुशी हुई।",
-              "en": "Soon the rain ended, and the bright sun appeared in\nthe sky again. Rahul left the cabin and climbed to the very summit of the\nmountain. Below lay a large green valley. The strong wind carried away his\nfatigue, and he felt joy."
+              "en": "Soon the rain ended, and the bright sun appeared in\nthe sky again. Rahul left the cabin and climbed to the very summit of the\nmountain. Below lay a large green valley. The strong wind carried away his\nfatigue, and he felt joy.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-31-3.png"
             }
           ]
         },
@@ -38719,17 +39107,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "रोहन अपने दादाजी के कमरे में एक किताब ढूंढ रहा था। उसने मेज\nका एक पुराना दराज खोला और नीचे एक कागज पाया। यह जंगल का एक पुराना नक्शा था\nजिसे दादाजी ने तब बनाया था जब वे छोटे थे।",
-              "en": "The boy Rohan was looking for a book in his\ngrandfather's room. He opened an old desk drawer and found a paper at the very\nbottom. It was an old map of the forest that his grandfather had drawn himself\nwhen he was a small child."
+              "en": "The boy Rohan was looking for a book in his\ngrandfather's room. He opened an old desk drawer and found a paper at the very\nbottom. It was an old map of the forest that his grandfather had drawn himself\nwhen he was a small child.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-32-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "रोहन और उसके दोस्त ने इस नक्शे की मदद से जंगल जाने का फैसला\nकिया। उन्होंने पुराने पेड़ों को रास्ते के निशान के रूप में इस्तेमाल किया। जल्द\nही उन्हें पत्थरों से बना एक पुराना कुआँ मिला जो घास से ढका था। सब कुछ नक्शे जैसा\nही था।",
-              "en": "Rohan and his friend decided to go into the forest\nusing this map. They used old trees as landmarks and went deeper. Soon they\nfound an old stone well covered with green grass, exactly like on the map."
+              "en": "Rohan and his friend decided to go into the forest\nusing this map. They used old trees as landmarks and went deeper. Soon they\nfound an old stone well covered with green grass, exactly like on the map.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-32-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "उन्होंने कुएं के अंदर झांका और एक छोटा प्लास्टिक का डिब्बा\nदेखा। अंदर एक पुराना सिक्का और दादाजी के नाम की पर्ची थी। बच्चों को अतीत से\nएक संदेश मिला और वे बहुत खुश हुए।",
-              "en": "They peered inside and saw a small plastic box.\nInside lay an old coin and a note with their grandfather's name. The boys had\nfound a real greeting from the past and felt very excited."
+              "en": "They peered inside and saw a small plastic box.\nInside lay an old coin and a note with their grandfather's name. The boys had\nfound a real greeting from the past and felt very excited.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-32-3.png"
             }
           ]
         },
@@ -38785,17 +39176,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "हर शनिवार नेहा चित्रकारी सीखने जाती थी। आज उन्हें कक्षा की\nबड़ी खिड़की से नदी का दृश्य बनाना था। उसने कैनवास तैयार किया और मेज पर\nचमकीले रंग रख दिए। वह काम शुरू करने के लिए बहुत उत्सुक थी।",
-              "en": "Every Saturday Neha went to painting classes. Today\nthey needed to paint the view of the river from the large classroom window. She\nprepared the canvas and put bright paints on the table. She really wanted to\nstart the work."
+              "en": "Every Saturday Neha went to painting classes. Today\nthey needed to paint the view of the river from the large classroom window. She\nprepared the canvas and put bright paints on the table. She really wanted to\nstart the work.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-33-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "एक घंटे बाद, बाहर आसमान का रंग धीरे-धीरे नारंगी होने लगा।\nनदी के पानी पर सूरज की रोशनी की सुंदर परछाईं दिखाई देने लगी। नेहा ने\nकैनवास पर इस गर्म रोशनी को उतारने के लिए रंगों को मिलाया।",
-              "en": "An hour later, the sky outside began slowly\nchanging its color to orange. A beautiful reflection of the sun appeared on the\nriver water. Neha mixed colors to convey this warm light on the canvas."
+              "en": "An hour later, the sky outside began slowly\nchanging its color to orange. A beautiful reflection of the sun appeared on the\nriver water. Neha mixed colors to convey this warm light on the canvas.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-33-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "कक्षा के अंत में सभी चित्रों को दीवार पर लटका दिया गया।\nहालांकि सभी ने एक ही खिड़की से देखकर चित्र बनाया था, लेकिन हर किसी का\nचित्र अनोखा और सुंदर था। नेहा समझ गई कि हर कोई दुनिया को अपने तरीके से देखता\nहै।",
-              "en": "At the end of the lesson, all paintings were hung\non the wall. Although everyone painted the exact same view from the window, each\nperson ended up with their own unique painting. Neha understood that each person\nsees the world in their own way."
+              "en": "At the end of the lesson, all paintings were hung\non the wall. Although everyone painted the exact same view from the window, each\nperson ended up with their own unique painting. Neha understood that each person\nsees the world in their own way.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-33-3.png"
             }
           ]
         },
@@ -38851,17 +39245,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "रविवार को पूजा अपने भाई के साथ पार्क में घूम रही थी। उसने\nअपनी मेज की छोटी चाबी जैकेट की जेब में रखी थी। लेकिन घास पर खेलते समय चाबी\nगिर गई और वह बहुत परेशान हो गई।",
-              "en": "On Sunday, Pooja was walking in the park with her\nbrother. She put her small desk key in her jacket pocket. But while playing on\nthe grass, the key fell out, and she became very upset."
+              "en": "On Sunday, Pooja was walking in the park with her\nbrother. She put her small desk key in her jacket pocket. But while playing on\nthe grass, the key fell out, and she became very upset.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-34-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "शाम हो गई थी और काफी अंधेरा था। पूजा का भाई एक छोटा टॉर्च\nलाया ताकि उसकी मदद कर सके। वे दोनों बड़े पेड़ों के पास गए और जमीन पर रोशनी\nडालकर घास को ध्यान से देखने लगे।",
-              "en": "Evening arrived, and it was quite dark. Pooja's\nbrother brought a small flashlight to help her. They walked together near the\nlarge trees and shone light on the ground, carefully checking the grass."
+              "en": "Evening arrived, and it was quite dark. Pooja's\nbrother brought a small flashlight to help her. They walked together near the\nlarge trees and shone light on the ground, carefully checking the grass.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-34-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "जल्द ही भाई ने एक छोटे भूरे पत्थर के नीचे कुछ चमकता हुआ\nदेखा। वह खोई हुई चाबी थी! पूजा बहुत खुश हुई और उसने अपने भाई को धन्यवाद\nदिया। घर जाकर उसने अपनी मेज का दराज खोल लिया।",
-              "en": "Soon her brother noticed something shining under a\nsmall grey stone. It was the lost key! Pooja was very happy and thanked her\nbrother. Returning home, she was able to open her desk drawer. === END OF\nSTORY 34 ==="
+              "en": "Soon her brother noticed something shining under a\nsmall grey stone. It was the lost key! Pooja was very happy and thanked her\nbrother. Returning home, she was able to open her desk drawer. === END OF\nSTORY 34 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-34-3.png"
             }
           ]
         },
@@ -38916,17 +39313,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "अमित और सुमित ने स्कूल में लकड़ी से एक सुंदर नाव बनाई।\nउन्होंने अपनी नाव को साफ नदी के पानी में चलाने का फैसला किया ताकि वे\nदेख सकें कि नाव पानी पर कैसे चलती है।",
-              "en": "Amit and Sumit made a beautiful wooden boat during\ntheir school craft lesson. They decided to launch it in the clean river to see\nhow it kept on the water."
+              "en": "Amit and Sumit made a beautiful wooden boat during\ntheir school craft lesson. They decided to launch it in the clean river to see\nhow it kept on the water.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-35-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "नदी का बहाव शांत था, लेकिन रास्ते में गिरी हुई टहनियाँ और\nबड़े पत्थर थे। लड़के किनारे पर दौड़ रहे थे और परेशान थे कि क्या उनकी नाव\nइन बाधाओं से बच पाएगी।",
-              "en": "The river current was calm, but along the boat's\npath, there were fallen branches and large stones. The boys ran along the bank,\nworrying whether their boat could bypass all these obstacles."
+              "en": "The river current was calm, but along the boat's\npath, there were fallen branches and large stones. The boys ran along the bank,\nworrying whether their boat could bypass all these obstacles.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-35-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "आगे जाकर अमित ने नाव को पानी से सुरक्षित निकाल लिया। नाव\nबिल्कुल ठीक थी। लड़के घर लौटे और अपनी डायरी में नदी के पानी की गति के\nबारे में सब कुछ लिखा।",
-              "en": "Downstream, Amit safely retrieved the boat from the\nwater. It was completely undamaged. The boys returned home and recorded their\nobservations of the river current's speed in detail in their journal. === END OF\nSTORY 35 ==="
+              "en": "Downstream, Amit safely retrieved the boat from the\nwater. It was completely undamaged. The boys returned home and recorded their\nobservations of the river current's speed in detail in their journal. === END OF\nSTORY 35 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-35-3.png"
             }
           ]
         },
@@ -38981,17 +39381,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "गर्मियों में रोहित अपने माता-पिता के साथ पहाड़ों में कैंपिंग\nके लिए गया था। रात को तंबू के पास सन्नाटा और अंधेरा था क्योंकि आसपास शहर की कोई\nरोशनी नहीं थी। वह बाहर आया।",
-              "en": "In the summer, Rohit went on a camping trip to the\nmountains with his parents. At night by the tent, it was quiet and dark because\nthere were no city lights around. He came outside."
+              "en": "In the summer, Rohit went on a camping trip to the\nmountains with his parents. At night by the tent, it was quiet and dark because\nthere were no city lights around. He came outside.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-36-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "रोहित के पिता ने बैग से तारों के बारे में एक दिलचस्प किताब\nनिकाली। उन्होंने टॉर्च जलाई और किताब की मदद से बेटे को आसमान में तारे दिखाने\nलगे और उनकी कहानियाँ बताईं।",
-              "en": "Rohit's father took an interesting book about\nconstellations from his bag. He turned on a light and, with the help of the\nbook, began to show his son the stars in the sky, explaining their stories."
+              "en": "Rohit's father took an interesting book about\nconstellations from his bag. He turned on a light and, with the help of the\nbook, began to show his son the stars in the sky, explaining their stories.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-36-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "अचानक एक चमकीला तारा तेज़ी से आसमान से गुजरा और एक सुंदर\nरेखा छोड़ गया। वह टूटता तारा था। रोहित ने अपने भविष्य के लिए एक इच्छा\nमाँगी। यह रात उसे हमेशा याद रही।",
-              "en": "Suddenly, a bright star quickly flew across the\ndark sky, leaving a light trail behind it. It was a shooting star. Rohit managed\nto make a wish about his future. He would remember this evening forever. === END\nOF STORY 36 ==="
+              "en": "Suddenly, a bright star quickly flew across the\ndark sky, leaving a light trail behind it. It was a shooting star. Rohit managed\nto make a wish about his future. He would remember this evening forever. === END\nOF STORY 36 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-36-3.png"
             }
           ]
         },
@@ -39046,17 +39449,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "बसंत में विकास अपनी दादी के घर पर था। दादी ने उसे खुद\nसब्जियां उगाना सिखाने का फैसला किया। उन्होंने बगीचे में मिट्टी\nतैयार की और टमाटर और खीरे के बीज बोए।",
-              "en": "In the spring, Vikas was spending time at his\ngrandmother's house. His grandmother decided to teach him how to grow vegetables\nwith his own hands. They prepared the soil in the garden and planted tomato and\ncucumber seeds."
+              "en": "In the spring, Vikas was spending time at his\ngrandmother's house. His grandmother decided to teach him how to grow vegetables\nwith his own hands. They prepared the soil in the garden and planted tomato and\ncucumber seeds.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-37-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "हर दिन स्कूल के बाद विकास पौधों को पानी देने में मदद करता\nथा। दो सप्ताह के बाद मिट्टी से छोटे हरे पत्ते बाहर आने लगे। विकास को अपनी\nमेहनत का फल देखकर बहुत खुशी हुई।",
-              "en": "Every day after school, Vikas helped water the\ngarden beds. Two weeks later, the first green leaves appeared from the warm\nsoil. Vikas was very happy to see the fruits of their common labor."
+              "en": "Every day after school, Vikas helped water the\ngarden beds. Two weeks later, the first green leaves appeared from the warm\nsoil. Vikas was very happy to see the fruits of their common labor.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-37-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "गर्मियों में उन्होंने बहुत सारे टमाटर और खीरे तोड़े। दादी और\nविकास ने उनसे रात के खाने के लिए सलाद बनाया। लड़के को लगा कि अपने हाथों से उगाई\nगई सब्जी का स्वाद सबसे अच्छा होता है।",
-              "en": "In the summer, they harvested many fresh tomatoes\nand cucumbers. Grandmother and Vikas made a delicious salad out of them for\ndinner. The boy understood that food grown with one's own hands has the best\ntaste."
+              "en": "In the summer, they harvested many fresh tomatoes\nand cucumbers. Grandmother and Vikas made a delicious salad out of them for\ndinner. The boy understood that food grown with one's own hands has the best\ntaste.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-37-3.png"
             }
           ]
         },
@@ -39111,17 +39517,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "समुद्र के किनारे एक ऊँची चट्टान पर एक पुराना पत्थर का\nप्रकाशस्तंभ खड़ा था। अब वह काम नहीं करता था क्योंकि जहाज आधुनिक\nप्रणालियों का उपयोग करते थे। सीमा और उसके पिता वहाँ गए।",
-              "en": "On a high cliff by the sea stood an old stone\nlighthouse. It was no longer active now, because ships used modern systems.\nSeema and her dad went there on Sunday."
+              "en": "On a high cliff by the sea stood an old stone\nlighthouse. It was no longer active now, because ships used modern systems.\nSeema and her dad went there on Sunday.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-38-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "उन्होंने भारी लकड़ी का दरवाजा खोला और प्रकाशस्तंभ के अंदर\nगए। अंदर ठंडक थी और ऊपर की ओर लंबी पत्थर की सीढ़ियाँ जा रही थीं। सीमा\nसावधानी से सीढ़ियाँ चढ़ने लगी।",
-              "en": "They opened the heavy wooden door and went inside\nthe lighthouse. It was cool inside, and a long stone staircase led upward. Seema\nclimbed carefully step by step, holding her dad's hand."
+              "en": "They opened the heavy wooden door and went inside\nthe lighthouse. It was cool inside, and a long stone staircase led upward. Seema\nclimbed carefully step by step, holding her dad's hand.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-38-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "ऊपर बालकनी पर तेज हवा चल रही थी। उनके सामने बड़ी लहरों वाले\nनीले समुद्र का सुंदर नजारा था। सीमा ने उन लोगों के बारे में सोचा जो कभी यहाँ\nरहते थे और जहाजों की मदद करते थे।",
-              "en": "At the top on the balcony, a strong wind was\nblowing. Before them opened a view of the vast blue sea with big waves. Seema\nthought of the people who once lived here and helped ships during storms. ===\nEND OF STORY 38 ==="
+              "en": "At the top on the balcony, a strong wind was\nblowing. Before them opened a view of the vast blue sea with big waves. Seema\nthought of the people who once lived here and helped ships during storms. ===\nEND OF STORY 38 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-38-3.png"
             }
           ]
         },
@@ -39176,17 +39585,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "हर साल स्कूल में एक बड़ा विज्ञान मेला होता था। राहुल के\nग्रुप ने स्वच्छ ऊर्जा पर एक प्रोजेक्ट तैयार करने का फैसला किया।\nउन्होंने एक मॉडल बनाया जो सौर पैनलों के काम को दिखाता था।",
-              "en": "Every autumn, a big science fair took place at\nschool. Rahul's group decided to prepare a project on clean energy. They built a\nmodel that demonstrated the work of solar panels."
+              "en": "Every autumn, a big science fair took place at\nschool. Rahul's group decided to prepare a project on clean energy. They built a\nmodel that demonstrated the work of solar panels.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-39-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "मेले के दिन बहुत से शिक्षक और माता-पिता वहाँ जमा हुए। कई लोग\nराहुल के प्रोजेक्ट के पास रुके। लड़के ने मेहमानों को आसानी से समझाया कि कैसे\nसूरज की रोशनी बिजली में बदलती है।",
-              "en": "On the day of the fair, many teachers and parents\ngathered in the hall. Many stopped at Rahul's project. The boy explained to the\nguests simply and clearly how the light of the sun turns into electricity."
+              "en": "On the day of the fair, many teachers and parents\ngathered in the hall. Many stopped at Rahul's project. The boy explained to the\nguests simply and clearly how the light of the sun turns into electricity.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-39-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "दिन के अंत में जजों ने सभी प्रोजेक्ट्स का मूल्यांकन किया।\nराहुल के ग्रुप के काम को बहुत पसंद किया गया और उन्हें पहला स्थान मिला। सब\nबहुत खुश हुए और टीमवर्क का महत्व समझा।",
-              "en": "At the end of the day, the judges evaluated all\nprojects. The work of Rahul's group received a high rating and first place. The\nchildren were very glad and understood how important teamwork is. === END OF\nSTORY 39 ==="
+              "en": "At the end of the day, the judges evaluated all\nprojects. The work of Rahul's group received a high rating and first place. The\nchildren were very glad and understood how important teamwork is. === END OF\nSTORY 39 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-39-3.png"
             }
           ]
         },
@@ -39241,17 +39653,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "अंजलि अपनी माँ के साथ पुराने संगीत हॉल में आई। आज वहाँ एक\nप्रसिद्ध कलाकार का संगीत कार्यक्रम था। हॉल की बत्तियाँ बंद हो गईं और मंच\nपर एक रोशनी जली जिसने कलाकार को दिखाया।",
-              "en": "Anjali came with her mom to the old city concert\nhall. Today, an evening of violin music was taking place there. The lights went\nout in the hall, and a warm lamp lit up on the stage, illuminating the musician."
+              "en": "Anjali came with her mom to the old city concert\nhall. Today, an evening of violin music was taking place there. The lights went\nout in the hall, and a warm lamp lit up on the stage, illuminating the musician.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-40-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "संगीत बहुत सुंदर बज रहा था। संगीत की आवाज़ कभी धीमी और शांत\nहो जाती तो कभी बहुत तेज़ और ऊँची। अंजलि इस धुन को सुन रही थी और उसका मन संगीत\nके साथ बदल रहा था।",
-              "en": "The music sounded very beautiful. The sounds of the\nmusic flowed slowly and quietly at times, and at others soared fast and loud.\nAnjali listened to this melody, feeling how her mood changed along with the\nsounds."
+              "en": "The music sounded very beautiful. The sounds of the\nmusic flowed slowly and quietly at times, and at others soared fast and loud.\nAnjali listened to this melody, feeling how her mood changed along with the\nsounds.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-40-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "कॉन्सर्ट के बाद सभी ने बहुत तालियाँ बजाईं। अंजलि बहुत\nप्रेरित हुई थी। घर जाकर उसने अपना छोटा पियानो निकाला और उस पर गाने\nबजाने की कोशिश की। उसमें एक नया सपना जागा।",
-              "en": "After the concert, everyone clapped loudly. Anjali\nwas highly inspired. At home, she decided to take out her small children's piano\nand try to play songs on it again. A dream was born in her."
+              "en": "After the concert, everyone clapped loudly. Anjali\nwas highly inspired. At home, she decided to take out her small children's piano\nand try to play songs on it again. A dream was born in her.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-intermediate-40-3.png"
             }
           ]
         },
@@ -39318,27 +39733,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "आज के आधुनिक समाज में विज्ञान और तकनीक तेजी से बढ़ रहे हैं।\nहमारा जीवन बहुत आसान हो गया है, लेकिन सुंदर प्रकृति को अक्सर नुकसान पहुँचता\nहै। एक छोटे शहर में फैक्ट्रियों की वजह से नदी गंदी हो गई थी। युवा\nवैज्ञानिक अमित ने इस पर्यावरणीय समस्या को ठीक करने का फैसला\nकिया।",
-              "en": "In today's modern society, science and technology\nare developing rapidly. Our lives have become very easy, but beautiful nature\noften suffers. In one small town, the river became dirty because of factories. A\nyoung scientist, Amit, decided to fix this environmental problem."
+              "en": "In today's modern society, science and technology\nare developing rapidly. Our lives have become very easy, but beautiful nature\noften suffers. In one small town, the river became dirty because of factories. A\nyoung scientist, Amit, decided to fix this environmental problem.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-41-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "अमित ने पानी साफ करने का एक नया सिस्टम बनाने का सुझाव दिया।\nलेकिन फैक्ट्रियों के मालिकों और कुछ लोगों ने इसका विरोध किया। उनका मानना था कि\nयह बहुत महंगा है और इससे स्थानीय काम को नुकसान पहुँचेगा। अमित ने हार नहीं मानी\nऔर बातचीत जारी रखी।",
-              "en": "Amit proposed building a new water purification\nsystem. But the factory owners and some people opposed it. They believed it was\ntoo expensive and would harm local work. Amit did not give up and kept up the\ndialogue."
+              "en": "Amit proposed building a new water purification\nsystem. But the factory owners and some people opposed it. They believed it was\ntoo expensive and would harm local work. Amit did not give up and kept up the\ndialogue.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-41-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "लंबी बातचीत के बाद उन्होंने पहला टेस्ट करने का फैसला किया।\nवैज्ञानिकों ने नदी के पास मशीनें लगाईं। लेकिन मशीन की खराबी के कारण टेस्ट\nविफल हो गया। गंदा पानी फिर से नदी में बहने लगा और लोग गुस्सा होने लगे।",
-              "en": "After long discussions, they decided to conduct the\nfirst test. The scientists installed the equipment near the river. But the test\nfailed due to a machine breakdown. Dirty water flowed into the river again, and\npeople began to get angry."
+              "en": "After long discussions, they decided to conduct the\nfirst test. The scientists installed the equipment near the river. But the test\nfailed due to a machine breakdown. Dirty water flowed into the river again, and\npeople began to get angry.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-41-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "अमित ने अपनी गलती मानी और मशीन की खराबी का कारण ढूंढने लगा।\nउसने रात में काम किया ताकि मशीन को ठीक कर सके और उसे सुरक्षित बना सके।\nफैक्ट्री के मालिक ने उसका सच्चा काम देखा और उसे एक आखिरी मौका\nदेने का फैसला किया।",
-              "en": "Amit admitted his mistake and began looking for the\ncause of the breakdown. He worked at night to repair the device and make it\nsafe. The factory owner saw his sincere work and decided to give him one last\nchance."
+              "en": "Amit admitted his mistake and began looking for the\ncause of the breakdown. He worked at night to repair the device and make it\nsafe. The factory owner saw his sincere work and decided to give him one last\nchance.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-41-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "दूसरा टेस्ट सफल रहा। नदी का पानी पूरी तरह साफ हो गया। कुछ\nसालों के बाद नदी में मछलियां वापस आ गईं। यह शहर एक उदाहरण बन गया कि कैसे\nविज्ञान प्रकृति के साथ मिलकर काम कर सकता है।",
-              "en": "The second test was successful. The water in the\nriver became completely clean. A few years later, fish returned to the river.\nThe town became an example of how science can work together in harmony with\nnature."
+              "en": "The second test was successful. The water in the\nriver became completely clean. A few years later, fish returned to the river.\nThe town became an example of how science can work together in harmony with\nnature.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-41-5.png"
             }
           ]
         },
@@ -39405,27 +39825,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "एक युवा इतिहासकार दिनेश शहर के पुराने पुस्तकालय में काम करता\nथा। पुरानी किताबों के बीच उसे एक पीला पुराना नक्शा मिला। उस पर पहाड़ों में एक\nऐसी जगह दिखाई गई थी जो आधुनिक नक्शों पर नहीं थी।",
-              "en": "A young historian, Dinesh, was working in the\ncity's old library. Among the old books, he found a yellow, old map. On it was\nmarked a place in the mountains that was not on modern maps."
+              "en": "A young historian, Dinesh, was working in the\ncity's old library. Among the old books, he found a yellow, old map. On it was\nmarked a place in the mountains that was not on modern maps.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-42-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "दिनेश ने इस रहस्यमयी जगह की खोज करने का फैसला किया। उसने\nक्षेत्र के इतिहास का अध्ययन किया और लंबी यात्रा के लिए सभी उपकरण तैयार\nकिए। वह जानता था कि रास्ता कठिन होगा, लेकिन इतिहास में उसकी रुचि ने उसे\nरास्ता दिखाया।",
-              "en": "Dinesh decided to investigate this mysterious\nplace. He studied the area's history and prepared all the devices for the long\nhike. He knew the path would be difficult, but his interest in history guided\nhim."
+              "en": "Dinesh decided to investigate this mysterious\nplace. He studied the area's history and prepared all the devices for the long\nhike. He knew the path would be difficult, but his interest in history guided\nhim.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-42-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "पहाड़ बहुत ऊँचे और सीधे थे। रास्ते में तेज़ बारिश शुरू हो गई\nऔर ठंड बढ़ गई। दिनेश थक गया था, लेकिन सच को जानने की उसकी इच्छा ने उसे जंगल के\nरास्ते आगे बढ़ने में मदद की।",
-              "en": "The mountains were very high and steep. Along the\nway, heavy rain began and it became cold. Dinesh was tired, but his desire to\nfind the truth helped him move further through the forest."
+              "en": "The mountains were very high and steep. Along the\nway, heavy rain began and it became cold. Dinesh was tired, but his desire to\nfind the truth helped him move further through the forest.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-42-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "जब बारिश रुकी तो दिनेश उस जगह पहुँचा जहाँ दो नदियाँ बहती\nथीं। वहाँ एक सुंदर झरना था। पानी के पीछे उसे एक गुफा का छिपा हुआ रास्ता\nमिला जहाँ एक पुराना पत्थरों का बक्सा रखा था।",
-              "en": "When the rain stopped, Dinesh came to the place\nwhere two rivers flowed. There was a beautiful waterfall. Behind the water, he\nfound a hidden entrance to a cave where an old stone box was placed."
+              "en": "When the rain stopped, Dinesh came to the place\nwhere two rivers flowed. There was a beautiful waterfall. Behind the water, he\nfound a hidden entrance to a cave where an old stone box was placed.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-42-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "दिनेश ने बक्सा खोला और उसमें पुराने कागज़ पाए। उनमें इन\nजगहों के पुराने लोगों का इतिहास और उनकी उपयोगी जानकारी लिखी थी। दिनेश\nने इस खोज को यूनिवर्सिटी में दिखाया और दुनिया को पुराना इतिहास बताया।",
-              "en": "Dinesh opened the box and found old papers inside.\nIn them was recorded the history of the ancient people of these places and their\nuseful information. Dinesh showed this discovery at the university and revealed\nthe old history to the world."
+              "en": "Dinesh opened the box and found old papers inside.\nIn them was recorded the history of the ancient people of these places and their\nuseful information. Dinesh showed this discovery at the university and revealed\nthe old history to the world.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-42-5.png"
             }
           ]
         },
@@ -39492,27 +39917,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "वैज्ञानिक अमित पहाड़ों में एक मौसम स्टेशन पर काम करते थे। वह\nहवा की गति और तापमान को रिकॉर्ड करते थे। हाल ही में पहाड़ों में मौसम तेजी से\nबदलने लगा था।",
-              "en": "The scientist Amit worked at a weather station high\nin the mountains. He recorded wind speed and temperature. Recently, the weather\nin the mountains began to change rapidly."
+              "en": "The scientist Amit worked at a weather station high\nin the mountains. He recorded wind speed and temperature. Recently, the weather\nin the mountains began to change rapidly.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-43-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "अमित ने समझा कि पहाड़ के नीचे वाले छोटे गाँव की तरफ एक\nखतरनाक तूफ़ान आ रहा है। उसे लोगों को जल्दी सावधान करना था ताकि उनके\nघरों को बचाया जा सके।",
-              "en": "Amit realized that a dangerous storm was heading\ntowards the small village at the foot of the mountain. He needed to warn the\npeople quickly to protect their homes."
+              "en": "Amit realized that a dangerous storm was heading\ntowards the small village at the foot of the mountain. He needed to warn the\npeople quickly to protect their homes.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-43-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "वह जल्दी से गाँव में आया और लोगों को हवा के बारे में बताया।\nशुरू में कुछ लोगों ने विश्वास नहीं किया, लेकिन वैज्ञानिक आँकड़ों ने उन्हें\nतुरंत सुरक्षित जगह जाने के लिए मान लिया।",
-              "en": "He went down quickly to the village and told the\npeople about the wind. Some did not believe at first, but the scientific data\nconvinced them to agree to a temporary evacuation."
+              "en": "He went down quickly to the village and told the\npeople about the wind. Some did not believe at first, but the scientific data\nconvinced them to agree to a temporary evacuation.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-43-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "रात को एक बड़ा तूफ़ान आया। हवा ने घरों के पास के पेड़ों को\nतोड़ दिया। लेकिन अमित के काम के कारण सभी लोग पहले से ही एक मजबूत पत्थर के\nआश्रय में सुरक्षित थे।",
-              "en": "At night, a large storm raged. The wind broke trees\nnear the houses. But thanks to Amit's work, all the residents were already safe\ninside a sturdy stone shelter."
+              "en": "At night, a large storm raged. The wind broke trees\nnear the houses. But thanks to Amit's work, all the residents were already safe\ninside a sturdy stone shelter.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-43-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "सुबह तूफ़ान चला गया। गाँव को थोड़ा नुकसान हुआ, लेकिन लोगों\nकी जान बच गई। लोगों ने अमित को धन्यवाद दिया और विज्ञान की उपयोगिता को समझा।",
-              "en": "In the morning, the storm left. The village was\nslightly damaged, but people's lives were saved. The residents thanked Amit and\nunderstood the utility of science."
+              "en": "In the morning, the storm left. The village was\nslightly damaged, but people's lives were saved. The residents thanked Amit and\nunderstood the utility of science.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-43-5.png"
             }
           ]
         },
@@ -39579,27 +40009,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "वैज्ञानिक रोहन ने पानी के नीचे जाने वाली एक नई मशीन बनाई।\nउन्होंने समुद्र के सबसे गहरे बिंदु पर जाने की योजना बनाई ताकि वे वहाँ की\nअनदेखी दुनिया को देख सकें।",
-              "en": "The scientist Rohan built a new underwater vehicle.\nHe planned to descend to the deepest point of the sea to study the unknown life\non the ocean floor."
+              "en": "The scientist Rohan built a new underwater vehicle.\nHe planned to descend to the deepest point of the sea to study the unknown life\non the ocean floor.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-44-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "कई हज़ार मीटर की गहराई पर पूरा अंधेरा था। लेकिन मशीन की\nशक्तिशाली रोशनी ने रेत, पत्थरों और अजीब पौधों की एक अनजान दुनिया को\nदिखाया।",
-              "en": "At a depth of several thousand meters, there was\ncomplete darkness. But the vehicle's powerful lamps illuminated an unknown world\nof sand, stones, and strange plants."
+              "en": "At a depth of several thousand meters, there was\ncomplete darkness. But the vehicle's powerful lamps illuminated an unknown world\nof sand, stones, and strange plants.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-44-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "अचानक रोहन ने एक छोटा चमकता हुआ जीव देखा। यह एक नई प्रजाति\nथी जिसके बारे में विज्ञान को पता नहीं था। उन्होंने उस सुंदर जीव की कई\nतस्वीरें लीं।",
-              "en": "Suddenly, Rohan saw a small glowing animal. It was\na new species unknown to science. He took many photos of this beautiful\ncreature."
+              "en": "Suddenly, Rohan saw a small glowing animal. It was\na new species unknown to science. He took many photos of this beautiful\ncreature.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-44-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "काम के दौरान मशीन की बत्तियाँ कुछ पलों के लिए बंद हो गईं।\nरोहन डरे नहीं। वह मशीन की संरचना को जानते थे और उन्होंने अपने हाथों से\nबिजली की समस्या को ठीक कर दिया।",
-              "en": "During the operation, the instruments turned off\nfor a second. Rohan did not panic. He knew the vehicle's structure and quickly\nfixed the electrical problem with his hands."
+              "en": "During the operation, the instruments turned off\nfor a second. Rohan did not panic. He knew the vehicle's structure and quickly\nfixed the electrical problem with his hands.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-44-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "रोहन ऊपर आए और अपनी तस्वीरें दुनिया के वैज्ञानिकों को\nदिखाईं। उनकी खोज ने लोगों को महासागर और उसके पर्यावरण की रक्षा के\nमहत्व को बेहतर ढंग से समझने में मदद की।",
-              "en": "Rohan ascended and showed his pictures to the\nworld's scientists. His discovery helped people better understand the ocean\ndepths and know the importance of protecting its ecology."
+              "en": "Rohan ascended and showed his pictures to the\nworld's scientists. His discovery helped people better understand the ocean\ndepths and know the importance of protecting its ecology.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-44-5.png"
             }
           ]
         },
@@ -39666,27 +40101,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "वैज्ञानिक सीमा एक दुर्लभ धूमकेतु के आने का इंतजार कर रही\nथीं। यह धूमकेतु सौ साल में एक बार पृथ्वी के पास आता था। वह उसकी पूंछ की\nतस्वीरें लेना चाहती थीं।",
-              "en": "The astronomer Seema was waiting for the appearance\nof a rare comet. This comet approached Earth once every hundred years. She\nwanted to take high-quality pictures of its tail."
+              "en": "The astronomer Seema was waiting for the appearance\nof a rare comet. This comet approached Earth once every hundred years. She\nwanted to take high-quality pictures of its tail.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-45-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "उन्होंने शहर के बाहर एक पहाड़ी पर बच्चों के लिए तारों को\nदेखने का एक छोटा कार्यक्रम रखा। कई बच्चे अपने माता-पिता के साथ आसमान\nदेखने आए।",
-              "en": "She organized a small evening school for children\non a hill outside the town. Many children came with their parents to look at the\nsky."
+              "en": "She organized a small evening school for children\non a hill outside the town. Many children came with their parents to look at the\nsky.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-45-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "सीमा ने एक बड़ा टेलीस्कोप ठीक किया और बच्चों को तारे दिखाए।\nवह उन्हें अंतरिक्ष के नियम आसान शब्दों में समझा रही थीं। बच्चों ने ध्यान से\nसुना।",
-              "en": "Seema adjusted the large telescope and showed the\nchildren constellations. She explained the laws of space to them in simple and\nclear words. The children listened with interest."
+              "en": "Seema adjusted the large telescope and showed the\nchildren constellations. She explained the laws of space to them in simple and\nclear words. The children listened with interest.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-45-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "आखिरकार चमकीला धूमकेतु आसमान में आ गया। उसकी रोशनी ने रात\nमें एक सुंदर रेखा बनाई। सब चुप हो गए और प्रकृति के इस सुंदर नज़ारे को\nदेखने लगे।",
-              "en": "Finally, the bright comet appeared in the dark sky.\nIts bright light left a long line in the heavens. Everyone fell silent and\nlooked in awe at this miracle of nature."
+              "en": "Finally, the bright comet appeared in the dark sky.\nIts bright light left a long line in the heavens. Everyone fell silent and\nlooked in awe at this miracle of nature.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-45-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "इस शाम ने बच्चों को विज्ञान से प्यार करना सिखाया। उनमें से\nकुछ ने भविष्य में वैज्ञानिक बनने का फैसला किया। सीमा ने समझा कि उनके काम का\nबड़ा मूल्य है।",
-              "en": "This evening helped the children fall in love with\nscience. Some of them decided to become astronomers in the future. Seema\nrealized that her work holds great value."
+              "en": "This evening helped the children fall in love with\nscience. Some of them decided to become astronomers in the future. Seema\nrealized that her work holds great value.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-45-5.png"
             }
           ]
         },
@@ -39753,27 +40193,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "प्रोग्रामर विकास ने अपनी दादी के घर में एक पुराना ब्लैक एंड\nव्हाइट फोटो एल्बम पाया। वहाँ उनके परिवार की तस्वीरें और सौ साल पहले के शहर के\nचित्र थे।",
-              "en": "The programmer Vikas found an old black-and-white\nphoto album in his grandmother's house. There were photographs of his family and\npictures of the town's life a hundred years ago."
+              "en": "The programmer Vikas found an old black-and-white\nphoto album in his grandmother's house. There were photographs of his family and\npictures of the town's life a hundred years ago.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-46-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "विकास ने इन तस्वीरों को डिजिटल रूप में बदलने का फैसला किया\nताकि परिवार का इतिहास सुरक्षित रहे। वह जानता था कि कागज समय के साथ खराब हो\nसकता है।",
-              "en": "Vikas decided to convert these pictures into a\ndigital format to preserve the family's history. He understood that paper could\ndeteriorate over time."
+              "en": "Vikas decided to convert these pictures into a\ndigital format to preserve the family's history. He understood that paper could\ndeteriorate over time.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-46-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "उसने एक स्कैनर का इस्तेमाल किया और कंप्यूटर पर एक विशेष\nप्रोग्राम लिखा। प्रोग्राम ने तस्वीरों से धूल साफ की और पुराने चेहरों\nको साफ दिखाया।",
-              "en": "He used a scanner and wrote a special program on\nhis computer. The program removed dust from the images and made old faces clear."
+              "en": "He used a scanner and wrote a special program on\nhis computer. The program removed dust from the images and made old faces clear.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-46-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "विकास ने तैयार एल्बम को इंटरनेट पर डाला और सभी रिश्तेदारों\nको लिंक भेजा। अपनी पुरानी तस्वीरें देखकर सभी रिश्तेदार बहुत खुश हुए।",
-              "en": "Vikas uploaded the completed album to the internet\nand sent the link to all his relatives in other cities. Everyone was happy to\nsee their roots through the pictures."
+              "en": "Vikas uploaded the completed album to the internet\nand sent the link to all his relatives in other cities. Everyone was happy to\nsee their roots through the pictures.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-46-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "आधुनिक तकनीक के कारण परिवार का इतिहास आने वाले बच्चों के लिए\nसुरक्षित हो गया। विकास ने समझा कि उसका ज्ञान समाज के अच्छे कामों में मदद कर सकता\nहै।",
-              "en": "Thanks to modern technologies, the family's history\nwas saved safely for future generations of children. Vikas realized that his\ncoding skills and knowledge could serve good goals in society. === END OF\nSTORY 46 ==="
+              "en": "Thanks to modern technologies, the family's history\nwas saved safely for future generations of children. Vikas realized that his\ncoding skills and knowledge could serve good goals in society. === END OF\nSTORY 46 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-46-5.png"
             }
           ]
         },
@@ -39840,27 +40285,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "वास्तुकार अनिल को शहर में एक नया सामुदायिक केंद्र बनाने का\nकाम मिला। उन्होंने इस इमारत को पूरी तरह से पर्यावरण के अनुकूल और साफ बनाने\nका फैसला किया।",
-              "en": "The architect Anil received an order to create a\nnew community center in the city. He decided to make the building as\neco-friendly and clean as possible."
+              "en": "The architect Anil received an order to create a\nnew community center in the city. He decided to make the building as\neco-friendly and clean as possible.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-47-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "उन्होंने छत के डिजाइन को बदला ताकि इमारत के अंदर अधिक धूप आ\nसके। इससे दिन के समय बिजली के बल्बों का उपयोग कम करने में मदद मिली।",
-              "en": "He changed the structure of the roof to let more\nsunlight inside the building. This helped reduce the use of electric lamps\nduring the day."
+              "en": "He changed the structure of the roof to let more\nsunlight inside the building. This helped reduce the use of electric lamps\nduring the day.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-47-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "अनिल ने केंद्र की छत पर एक हरा बगीचा बनाने की योजना बनाई।\nबारिश के पानी को इकट्ठा करने की प्रणाली अपने आप पौधों को पानी दे सकती थी।",
-              "en": "Anil planned to plant a green garden on the roof of\nthe new center. A rainwater collection system was supposed to water the plants\nautomatically without human involvement."
+              "en": "Anil planned to plant a green garden on the roof of\nthe new center. A rainwater collection system was supposed to water the plants\nautomatically without human involvement.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-47-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "बनाने वालों ने काम शुरू किया और सुरक्षित लकड़ी की सामग्री का\nउपयोग किया। शहर के लोग रुचि के साथ इस नए घर के बनने को देख रहे थे।",
-              "en": "Builders started the work, using safe materials\nmade from recycled wood. City residents watched the creation of the new building\nwith interest."
+              "en": "Builders started the work, using safe materials\nmade from recycled wood. City residents watched the creation of the new building\nwith interest.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-47-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "नया केंद्र शहर की सबसे सुंदर जगह बन गया। लोग वहाँ हरे पेड़ों\nके नीचे आराम करने आते थे। अनिल ने पर्यावरण के अनुकूल वास्तुकला की उपयोगिता साबित\nकी।",
-              "en": "The new center became the most beautiful place in\nthe city. People came there to rest under green trees. Anil proved the benefit\nof green architecture."
+              "en": "The new center became the most beautiful place in\nthe city. People came there to rest under green trees. Anil proved the benefit\nof green architecture.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-47-5.png"
             }
           ]
         },
@@ -39927,27 +40377,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "माली गीता को शहर के बाहर एक पुराने मंदिर के बगीचे को ठीक\nकरने का काम मिला। यह बगीचा कई सालों से खाली पड़ा था और जंगली घास से भरा\nथा।",
-              "en": "The gardener Geeta received a request to restore\nthe garden of an old monastery in the suburbs. This garden had been abandoned\nmany years ago and was overgrown with wild grass."
+              "en": "The gardener Geeta received a request to restore\nthe garden of an old monastery in the suburbs. This garden had been abandoned\nmany years ago and was overgrown with wild grass.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-48-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "उसने बगीचे का नया नक्शा बनाया। उसने पानी के पास बड़े भूरे\nपत्थर रखने और लोगों के घूमने के लिए छोटे रास्ते बनाने का फैसला किया।",
-              "en": "She drew a new plan for the garden. She decided to\nplace large grey stones near the water pool and make smooth sandy paths for\nquiet walks for visitors."
+              "en": "She drew a new plan for the garden. She decided to\nplace large grey stones near the water pool and make smooth sandy paths for\nquiet walks for visitors.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-48-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "गीता ने छायादार जगह पर नरम हरी काई लगाई और बगीचे के बीच में\nसुंदर पेड़ लगाए। ये पेड़ साल के अलग-अलग समय में अपना रंग बदलते थे।",
-              "en": "Geeta planted soft green moss in the shade and\nbeautiful trees in the center of the garden. These trees were supposed to change\ntheir color at different times of the year."
+              "en": "Geeta planted soft green moss in the shade and\nbeautiful trees in the center of the garden. These trees were supposed to change\ntheir color at different times of the year.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-48-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "वह एक ऐसी जगह बनाना चाहती थी जहाँ कोई भी शहर की समस्याओं को\nभूल सके, शांति से बैठ सके और अपने जीवन के बारे में सोच सके।",
-              "en": "She wanted to create a place where every person\ncould forget about city problems, sit in silence, and think about their life and\nsoul."
+              "en": "She wanted to create a place where every person\ncould forget about city problems, sit in silence, and think about their life and\nsoul.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-48-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "बगीचा लोगों के लिए शांति का असली स्थान बन गया। लोग वहाँ पानी\nऔर हवा की आवाज़ सुनने आते थे। गीता खुश थी कि वह पुरानी ज़मीन की सुंदरता वापस ला\nसकी।",
-              "en": "The garden became a true place of peace for people.\nThey came to listen to the water and the wind. Geeta was glad she could return\nbeauty to the old land."
+              "en": "The garden became a true place of peace for people.\nThey came to listen to the water and the wind. Geeta was glad she could return\nbeauty to the old land.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-48-5.png"
             }
           ]
         },
@@ -40014,27 +40469,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "इंजीनियर अमित एक नई मशीन बनाने पर काम कर रहे थे। यह एक छोटा\nड्रोन था जो बिना पेट्रोल के केवल सौर ऊर्जा पर उड़ सकता था।",
-              "en": "The engineer Amit worked on creating a new vehicle.\nIt was a small drone that could fly solely on solar energy without gasoline."
+              "en": "The engineer Amit worked on creating a new vehicle.\nIt was a small drone that could fly solely on solar energy without gasoline.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-49-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "इस प्रोजेक्ट का लक्ष्य पहाड़ों के दूर के इलाकों में उन लोगों\nतक दवाइयाँ पहुँचाना था, जहाँ भूस्खलन के कारण रास्ते पूरी तरह नष्ट हो गए थे।",
-              "en": "The goal of the project was to deliver medical\ndevices and medicines to people in hard-to-reach mountain areas where roads were\ndestroyed by landslides."
+              "en": "The goal of the project was to deliver medical\ndevices and medicines to people in hard-to-reach mountain areas where roads were\ndestroyed by landslides.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-49-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "एक धूप वाली सुबह, अमित मशीन को एक बड़े मैदान में ले गए।\nड्रोन केवल रोशनी की शक्ति का उपयोग करके हवा में उठा और पहाड़ों की ओर\nउड़ गया।",
-              "en": "On a sunny morning, Amit took the vehicle out to a\nwide field. The drone quietly rose into the air and flew towards the mountains\nusing only the power of light."
+              "en": "On a sunny morning, Amit took the vehicle out to a\nwide field. The drone quietly rose into the air and flew towards the mountains\nusing only the power of light.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-49-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "पहाड़ों में तेज़ हवा चलने लगी। लेकिन पंख की मजबूत बनावट के\nकारण ड्रोन अपना संतुलन बनाए रखने में सफल रहा और आगे बढ़ता रहा।",
-              "en": "A strong wind arose in the mountains. But thanks to\nthe durable structure of the wing, the drone was able to maintain balance and\ncontinued moving on course."
+              "en": "A strong wind arose in the mountains. But thanks to\nthe durable structure of the wing, the drone was able to maintain balance and\ncontinued moving on course.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-49-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "ड्रोन ने सामान को सुरक्षित पहुँचा दिया। अमित बहुत खुश थे।\nउनकी इस तकनीक ने अपनी उपयोगिता साबित की और जीवन बचाने की दिशा में एक कदम\nबढ़ाया।",
-              "en": "The drone successfully delivered the cargo to the\ndestination. Amit was happy. His new technology proved its utility and helped\nmake a step toward saving lives."
+              "en": "The drone successfully delivered the cargo to the\ndestination. Amit was happy. His new technology proved its utility and helped\nmake a step toward saving lives.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-49-5.png"
             }
           ]
         },
@@ -40101,27 +40561,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "वैज्ञानिक सीमा ने कई सालों तक स्थानीय जंगल की पर्यावरण\nप्रणाली का अध्ययन किया। वह देखती थीं कि छोटे जानवर कैसे रहते हैं और\nपेड़ कैसे बढ़ते हैं।",
-              "en": "The biologist Seema had studied the local forest's\necological system for many years. She kept track of how small animals live and\nhow tall trees grow."
+              "en": "The biologist Seema had studied the local forest's\necological system for many years. She kept track of how small animals live and\nhow tall trees grow.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-50-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "वह देखती थीं कि कैसे गिरी हुई पत्तियां मिट्टी में बदल जाती\nहैं, मिट्टी पेड़ों को बढ़ने की शक्ति देती है और पेड़ पक्षियों के लिए घर बनते\nहैं।",
-              "en": "She observed how fallen leaves turn into fertile\nsoil, the soil gives strength to big trees to grow, and the trees serve as a\nhome for birds."
+              "en": "She observed how fallen leaves turn into fertile\nsoil, the soil gives strength to big trees to grow, and the trees serve as a\nhome for birds.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-50-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "सप्ताहांत में सीमा बच्चों को जंगल में ले आईं ताकि उन्हें यह\nसंबंध दिखा सकें। उन्होंने बच्चों को समझाया कि पृथ्वी पर सारा जीवन एक चक्र में\nजुड़ा है।",
-              "en": "On the weekend, Seema brought children to the\nforest to show them this structure. She explained to them that on our Earth, all\nlife is connected in one circle."
+              "en": "On the weekend, Seema brought children to the\nforest to show them this structure. She explained to them that on our Earth, all\nlife is connected in one circle.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-50-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "बच्चों ने खुद पत्तियों के नीचे कीड़े ढूंढे और पौधों को देखा।\nवे समझ गए कि मनुष्य भी प्रकृति के इस बड़े चक्र का एक हिस्सा है।",
-              "en": "The children searched for insects under leaves\nthemselves and looked at plants. They understood that humans are also part of\nthis large circle of nature."
+              "en": "The children searched for insects under leaves\nthemselves and looked at plants. They understood that humans are also part of\nthis large circle of nature.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-50-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "सीमा ने बच्चों की आँखों में रुचि देखी। वह समझ गईं कि\nपर्यावरण शिक्षा ही भविष्य में हमारी पृथ्वी की प्रकृति को बचाने\nका सबसे अच्छा तरीका है।",
-              "en": "Seema saw interest in the children's eyes. She\nunderstood that environmental education is the best way to protect our planet's\nnature in the future."
+              "en": "Seema saw interest in the children's eyes. She\nunderstood that environmental education is the best way to protect our planet's\nnature in the future.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-hindi-advanced-50-5.png"
             }
           ]
         }
@@ -47162,7 +47627,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "أنا في البيت. كان هو هناك. وضعت الكتاب على الطاولة. كان هذا\nله، كما قلت دائماً.",
-              "en": "I am in the house. He was there. I put the book on\nthe table. This was for him, as I always said."
+              "en": "I am in the house. He was there. I put the book on\nthe table. This was for him, as I always said.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-beginner-01-1.png"
             }
           ]
         },
@@ -47200,7 +47666,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "هم هنا الآن. أصدقائي يريدون أن يكونوا معي في بيت واحد.\nلدينا هذا المكان الهادئ.",
-              "en": "They are here now. My friends want to be with me in\none house. We have this quiet place."
+              "en": "They are here now. My friends want to be with me in\none house. We have this quiet place.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-beginner-02-1.png"
             }
           ]
         },
@@ -47239,7 +47706,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "ما هذا؟ هذه كلمة من صديقي. لكن الطقس حار اليوم. هناك بعض\nالماء بجانبه.",
-              "en": "What is this? This is a word from my friend. But\nthe weather is hot today. There is some water near him."
+              "en": "What is this? This is a word from my friend. But\nthe weather is hot today. There is some water near him.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-beginner-03-1.png"
             }
           ]
         },
@@ -47280,7 +47748,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "أنت وأنا نذهب. هل هو لك أو لي؟ كان لدينا كتاب قديم من\nالماضي.",
-              "en": "You and I go. Is it you or me? We had an old book\nof the past."
+              "en": "You and I go. Is it you or me? We had an old book\nof the past.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-beginner-04-1.png"
             }
           ]
         },
@@ -47320,7 +47789,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "كنا في غرفة واحدة. أي غرفة؟ يمكننا الخروج الآن. كان هناك\nأشخاص آخرون أيضاً.",
-              "en": "We were in a room. Which room? We can go out now.\nOther people were there too."
+              "en": "We were in a room. Which room? We can go out now.\nOther people were there too.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-beginner-05-1.png"
             }
           ]
         },
@@ -47360,7 +47830,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "قال: \"لا يوجد وقت\". إذا قاموا بعملهم، كيف سيفعلون ذلك؟ هذه\nخطة جيدة.",
-              "en": "He said: \"There is no time.\" If they do their work,\nhow will they do it? This is a good plan."
+              "en": "He said: \"There is no time.\" If they do their work,\nhow will they do it? This is a good plan.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-beginner-06-1.png"
             }
           ]
         },
@@ -47400,7 +47871,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "أريد أن أقول لك. هناك مجموعة من ثلاثة أشياء. كل شيء يحتاج\nإلى الهواء. هذا يعمل بشكل جيد.",
-              "en": "I want to tell you. There is a set of three things.\nEach thing needs air. This works well."
+              "en": "I want to tell you. There is a set of three things.\nEach thing needs air. This works well.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-beginner-07-1.png"
             }
           ]
         },
@@ -47440,7 +47912,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "أقرأ كتاباً صغيراً في المنزل. كما ألعب بيدي أيضاً. في نهاية\nاليوم، أضع الكتاب جانباً.",
-              "en": "I read a small book at home. I also play with my\nhand. At the end of the day, I put the book aside."
+              "en": "I read a small book at home. I also play with my\nhand. At the end of the day, I put the book aside.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-beginner-08-1.png"
             }
           ]
         },
@@ -47480,7 +47953,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "هنا ميناء كبير. هناك سفينة ضخمة على هذه الأرض. يجب عليك\nكتابة اسمك أو تهجئته، بل وإضافة التفاصيل.",
-              "en": "Here is a large port. There is a big ship on this\nland. You must write or spell your name, and even add details. === END OF\nSTORY 09 ==="
+              "en": "Here is a large port. There is a big ship on this\nland. You must write or spell your name, and even add details. === END OF\nSTORY 09 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-beginner-09-1.png"
             }
           ]
         },
@@ -47520,7 +47994,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "ذهب الرجال إلى جبل مرتفع. أتساءل لماذا ذهبوا. إنهم يعملون\nعلى متابعة مثل هذا التغيير.",
-              "en": "The men went to a high mountain. I ask why they\nwent. They act to follow such a change."
+              "en": "The men went to a high mountain. I ask why they\nwent. They act to follow such a change.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-beginner-10-1.png"
             }
           ]
         },
@@ -47560,7 +48035,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "هذا البيت يحتاج إلى ضوء. يرجى محاولة التقاط صورة له مرة\nأخرى دون إضاءة. شخص طيب يساعدنا.",
-              "en": "This house needs light. Please try to take a\npicture of it again with the light off. A kind person helps us. === END OF\nSTORY 11 ==="
+              "en": "This house needs light. Please try to take a\npicture of it again with the light off. A kind person helps us. === END OF\nSTORY 11 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-beginner-11-1.png"
             }
           ]
         },
@@ -47600,7 +48076,8 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "أمي وأبي يحبان الأرض. نحن نبني بيتاً صغيراً بالقرب من\nالحيوانات لنلاحظ الطبيعة بأنفسنا. هذا هو المغزى في عالمنا.",
-              "en": "My mother and father love the earth. We build a\nsmall home near the animals to observe nature ourselves. That is the point in\nour world."
+              "en": "My mother and father love the earth. We build a\nsmall home near the animals to observe nature ourselves. That is the point in\nour world.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-beginner-12-1.png"
             }
           ]
         },
@@ -47648,12 +48125,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "في يوم من الأيام، وجدت فتاة صغيرة كلباً مفقوداً في الغابة\nالقريبة. كان الكلب خائفاً ويشعر بالبرد الشديد. اقتربت منه الفتاة بلطف وتحدثت\nمعه بصوت هادئ حتى يطمئن.",
-              "en": "One day, a young girl found a lost dog in the\nnearby forest. The dog was afraid and felt very cold. The girl approached it\ngently and spoke to it in a quiet voice until it felt safe."
+              "en": "One day, a young girl found a lost dog in the\nnearby forest. The dog was afraid and felt very cold. The girl approached it\ngently and spoke to it in a quiet voice until it felt safe.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-13-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "أخذت الفتاة الكلب إلى منزلها وأعطته طعاماً دافئاً. بدأ\nالكلب يهز ذيله بسعادة. وافقت والدتها وأبوها على بقاء الكلب معهم كفرد من\nالعائلة، وكان الجميع سعداء جداً.",
-              "en": "The girl took the dog to her house and gave it warm\nfood. The dog began to wag its tail happily. Her mother and father agreed to let\nthe dog stay with them as a family member, and everyone was very happy. === END\nOF STORY 13 ==="
+              "en": "The girl took the dog to her house and gave it warm\nfood. The dog began to wag its tail happily. Her mother and father agreed to let\nthe dog stay with them as a family member, and everyone was very happy. === END\nOF STORY 13 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-13-2.png"
             }
           ]
         },
@@ -47701,12 +48180,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "اخترنا هذه الأرض الهادئة لنبني عليها منزلنا الجديد. يمر نهر\nنظيف بالقرب منا، ونسمع أصوات الطيور الجميلة كل يوم. تبدأ حياتنا الجديدة في هذا\nالمكان الجميل اليوم.",
-              "en": "We chose this quiet land to build our new house. A\nclean river flows near us, and we hear the beautiful voices of birds every day.\nOur new life begins in this beautiful place today."
+              "en": "We chose this quiet land to build our new house. A\nclean river flows near us, and we hear the beautiful voices of birds every day.\nOur new life begins in this beautiful place today.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-14-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "بدأت أنا وأبي في زراعة حديقة صغيرة بالقرب من منزلنا الجديد.\nزرعنا هناك زهوراً ملونة وجميلة. كانت أمي تنظر إلينا من النافذة وتساعدنا بكلماتها\nالطيبة والمشجعة.",
-              "en": "My father and I started planting a small garden\nnear our new house. We planted colorful and beautiful flowers there. My mother\nwatched us from the window and helped us with her kind and encouraging words."
+              "en": "My father and I started planting a small garden\nnear our new house. We planted colorful and beautiful flowers there. My mother\nwatched us from the window and helped us with her kind and encouraging words.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-14-2.png"
             }
           ]
         },
@@ -47754,12 +48235,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "كان ولد صغير يفكر في مسألة صعبة للمدرسة. قرأ كتاباً كبيراً\nلوقت طويل، لكنه لم يستطع فهم الجواب الصحيح على الإطلاق. كان الولد حزيناً\nومشوّشاً بسبب ذلك.",
-              "en": "A young boy was thinking about a difficult problem\nfor school. He read a big book for a long time, but he could not understand the\ncorrect answer at all. The boy was sad and confused because of that."
+              "en": "A young boy was thinking about a difficult problem\nfor school. He read a big book for a long time, but he could not understand the\ncorrect answer at all. The boy was sad and confused because of that.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-15-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "اقتربت أمه منه وقالت له بلطف: \"حاول مرة أخرى وابدأ من\nالصفحة الأولى. إذا قرأت ببطء وهدوء، سوف تفهم المغزى والحل بالتأكيد\". بدأ\nالولد القراءة مجدداً بنجاح.",
-              "en": "His mother approached him and said gently: \"Try\nagain and start from the first page. If you read slowly and quietly, you will\nsurely understand the meaning and the solution.\" The boy started reading again\nwith success."
+              "en": "His mother approached him and said gently: \"Try\nagain and start from the first page. If you read slowly and quietly, you will\nsurely understand the meaning and the solution.\" The boy started reading again\nwith success.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-15-2.png"
             }
           ]
         },
@@ -47807,12 +48290,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "يمر نهر واسع جداً بالقرب من قريتنا الصغيرة. للذهاب إلى\nالجانب الآخر من الأرض، كان يجب علينا دائماً السير في طريق طويل ومتعب. كان\nهذا الأمر غير مريح لنا.",
-              "en": "A very wide river flows near our small village. To\ngo to the other side of the land, we always had to walk along a long and tiring\nroad. This was very inconvenient for us."
+              "en": "A very wide river flows near our small village. To\ngo to the other side of the land, we always had to walk along a long and tiring\nroad. This was very inconvenient for us.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-16-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "اجتمع أهل القرية وقرروا بناء جسر خشبي جديد. عمل الجميع بجد\nمستخدمين أيديهم، وأصبح الجسر الكبير جاهزاً. الآن يمكننا العبور إلى الطرف الآخر\nبسهولة وسرعة كبيرة.",
-              "en": "The villagers gathered and decided to build a new\nwooden bridge. Everyone worked hard using their hands, and the big bridge became\nready. Now we can cross to the other side easily and very quickly. === END OF\nSTORY 16 ==="
+              "en": "The villagers gathered and decided to build a new\nwooden bridge. Everyone worked hard using their hands, and the big bridge became\nready. Now we can cross to the other side easily and very quickly. === END OF\nSTORY 16 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-16-2.png"
             }
           ]
         },
@@ -47860,12 +48345,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "أهداني جدي كتاب صور قديم ومثير للاهتمام. كان في هذا الكتاب\nالعديد من الصور الجميلة لحيوانات برية من جميع أنحاء العالم. أحببت هذا الكتاب\nالرائع من أول لحظة.",
-              "en": "My grandfather gave me an old and interesting\npicture book. In this book, there were many beautiful pictures of wild animals\nfrom all over the world. I loved this wonderful book from the first moment."
+              "en": "My grandfather gave me an old and interesting\npicture book. In this book, there were many beautiful pictures of wild animals\nfrom all over the world. I loved this wonderful book from the first moment.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-17-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "كنت أقرأ الكتاب وأتعلم كيفية كتابة وتهجئة الكلمات الجديدة\nوالصعبة. كانت أمي تجلس بجانبي دائماً وتساعدني في القيام بذلك بشكل صحيح وسريع\nدون أخطاء.",
-              "en": "I was reading the book and learning how to write\nand spell the new and difficult words. My mother always sat beside me and helped\nme do that correctly and quickly without mistakes."
+              "en": "I was reading the book and learning how to write\nand spell the new and difficult words. My mother always sat beside me and helped\nme do that correctly and quickly without mistakes.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-17-2.png"
             }
           ]
         },
@@ -47913,12 +48400,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "عندما صعدنا إلى قمة الجبل المرتفع، بدت السماء الزرقاء قريبة\nجداً منا. كانت الرياح تهب ببرودة وقوة، لكن ضوء الشمس المشرق جعل العالم من حولنا\nجميلاً ورائعاً.",
-              "en": "When we climbed to the top of the high mountain,\nthe blue sky seemed very close to us. The wind was blowing coldly and strongly,\nbut the bright light of the sun made the world around us beautiful and\nwonderful."
+              "en": "When we climbed to the top of the high mountain,\nthe blue sky seemed very close to us. The wind was blowing coldly and strongly,\nbut the bright light of the sun made the world around us beautiful and\nwonderful.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-18-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "أشار والدي بيده إلى السماء وقال: \"انظر إلى تلك الطيور\nالكبيرة والجميلة. إنها تطير معاً إلى بلاد دافئة وبعيدة\". وقفنا هناك طويلاً\nنراقب حركتها بهدوء تام.",
-              "en": "My father pointed with his hand to the sky and\nsaid: \"Look at those big, beautiful birds. They are flying together to warm,\ndistant lands.\" We stood there for a long time watching their movement in\ncomplete quiet."
+              "en": "My father pointed with his hand to the sky and\nsaid: \"Look at those big, beautiful birds. They are flying together to warm,\ndistant lands.\" We stood there for a long time watching their movement in\ncomplete quiet.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-18-2.png"
             }
           ]
         },
@@ -47966,12 +48455,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "سافر والدي للعمل في مدينة ميناء كبيرة بعيدة جداً عن منزلنا\nالهادئ. وفي أحد الأيام، وصلت إلينا رسالة مكتوبة منه. شعرت بفرح شديد وفتحتها على\nالفور.",
-              "en": "My father traveled for work to a large port city\nfar away from our quiet house. One day, a written letter from him arrived. I\nfelt extreme joy and opened it immediately."
+              "en": "My father traveled for work to a large port city\nfar away from our quiet house. One day, a written letter from him arrived. I\nfelt extreme joy and opened it immediately.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-19-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "كتب أبي في الرسالة عن البحر الجميل والأماكن الرائعة والناس\nالطيبين هناك. ووعدنا بأنه سوف يعود إلى المنزل قريباً جداً. اطمأنت روحي وسعدت\nالعائلة بهذه الأخبار.",
-              "en": "My father wrote in the letter about the beautiful\nsea, wonderful places, and kind people there. He promised us that he would\nreturn home very soon. My soul felt relieved, and the family was happy with this\nnews."
+              "en": "My father wrote in the letter about the beautiful\nsea, wonderful places, and kind people there. He promised us that he would\nreturn home very soon. My soul felt relieved, and the family was happy with this\nnews.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-19-2.png"
             }
           ]
         },
@@ -48019,12 +48510,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "كان هذا يوماً حاراً جداً في الصيف. كان الهواء داخل المنزل\nدافئاً وثقيلاً، وكنا بحاجة إلى ماء بارد ونظيف. قررنا الذهاب إلى البئر القديمة\nالقريبة من الغابة.",
-              "en": "This was a very hot day in summer. The air inside\nthe house was warm and heavy, and we needed cold, clean water. We decided to go\nto the old well near the forest."
+              "en": "This was a very hot day in summer. The air inside\nthe house was warm and heavy, and we needed cold, clean water. We decided to go\nto the old well near the forest.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-20-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "استخدمنا أيدينا لسحب الدلو الثقيل من البئر. كان الماء\nبارداً جداً ومنعشاً. شربنا منه وشعرنا بسعادة ونشاط كبيرين، وأصبح يومنا\nالحار أفضل بكثير من قبل.",
-              "en": "We used our hands to pull up the heavy bucket from\nthe well. The water was very cold and refreshing. We drank from it and felt\ngreat happiness and energy, and our hot day became much better than before. ===\nEND OF STORY 20 ==="
+              "en": "We used our hands to pull up the heavy bucket from\nthe well. The water was very cold and refreshing. We drank from it and felt\ngreat happiness and energy, and our hot day became much better than before. ===\nEND OF STORY 20 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-20-2.png"
             }
           ]
         },
@@ -48072,12 +48565,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "اليوم كان عطلة مدرسية سعيدة. اجتمع الأطفال الصغار في الساحة\nالمفتوحة بالقرب من المنازل. بدأ الجميع يلعبون ويمرحون بنشاط. كان الطقس جميلاً\nوالرياح خفيفة ومنعشة.",
-              "en": "Today was a happy school holiday. The small\nchildren gathered in the open square near the houses. Everyone began playing and\nhaving fun energetically. The weather was beautiful and the wind was light and\nrefreshing."
+              "en": "Today was a happy school holiday. The small\nchildren gathered in the open square near the houses. Everyone began playing and\nhaving fun energetically. The weather was beautiful and the wind was light and\nrefreshing.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-21-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "جرى الأطفال ولعبوا حتى وقت المساء. وفي نهاية اليوم، جلس\nالجميع في دائرة كبيرة على العشب الأخضر. وأخذوا يخبرون بعضهم البعض عن قصصهم\nالمفضلة في الكتب.",
-              "en": "The children ran and played until evening. At the\nend of the day, everyone sat in a large circle on the green grass. They began\ntelling each other about their favorite stories in books."
+              "en": "The children ran and played until evening. At the\nend of the day, everyone sat in a large circle on the green grass. They began\ntelling each other about their favorite stories in books.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-21-2.png"
             }
           ]
         },
@@ -48125,12 +48620,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "كل شيء في هذا العالم له نهاية. لكن أي نهاية تعني دائماً\nبداية لشيء جديد ومثير. وضع الولد الصغير كل ألعابه القديمة في صندوق كبير\nومغلق.",
-              "en": "Every thing in this world has an end. But any end\nalways means a beginning for something new and exciting. The young boy put all\nhis old toys in a large, closed box."
+              "en": "Every thing in this world has an end. But any end\nalways means a beginning for something new and exciting. The young boy put all\nhis old toys in a large, closed box.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-22-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "لقد أصبح الولد أكبر الآن ولم يعد يلعب بتلك الألعاب. يجب\nعليه الآن قراءة كتب مفيدة ووضع خطط جديدة لحياته. ابتسم ومضى يبني مستقبله\nبثقة.",
-              "en": "The boy has become older now and does not play with\nthose toys anymore. He must now read useful books and make new plans for his\nlife. He smiled and went on to build his future with confidence. === END OF\nSTORY 22 ==="
+              "en": "The boy has become older now and does not play with\nthose toys anymore. He must now read useful books and make new plans for his\nlife. He smiled and went on to build his future with confidence. === END OF\nSTORY 22 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-22-2.png"
             }
           ]
         },
@@ -48177,12 +48674,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "يقع منزلي بالقرب من ميناء كبير جداً ونشيط. وفي كل صباح، تصل\nسفن ضخمة من جميع أنحاء العالم. ينزل الكثير من الناس إلى هذه الأرض وتصبح الحركة\nمزدحمة.",
-              "en": "My house is located near a very large and busy\nport. Every morning, huge ships arrive from all over the world. Many people\ndisembark onto this land, and the movement becomes crowded."
+              "en": "My house is located near a very large and busy\nport. Every morning, huge ships arrive from all over the world. Many people\ndisembark onto this land, and the movement becomes crowded.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-23-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "في المساء، أذهب مع والدي إلى الماء. نقف لنشاهد السفن\nالكبيرة وهي تخرج عائدة إلى عرض البحر. يغطي ضوء الشمس الأمواج، ويبدو هذا\nالمنظر جميلاً بلا كلمات.",
-              "en": "In the evening, I go with my father to the water.\nWe stand to watch the large ships as they head back out to the open sea. The\nsun's light covers the waves, and this view looks beautiful beyond words. ===\nEND OF STORY 23 ==="
+              "en": "In the evening, I go with my father to the water.\nWe stand to watch the large ships as they head back out to the open sea. The\nsun's light covers the waves, and this view looks beautiful beyond words. ===\nEND OF STORY 23 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-23-2.png"
             }
           ]
         },
@@ -48229,12 +48728,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "قررنا وضع خطة للصعود إلى جبل مرتفع جداً. كان هذا الجبل\nيرتفع عالياً بالقرب من السحاب، وكان الوصول إلى قمته يتطلب منا قوة وعملاً\nجاداً.",
-              "en": "We decided to make a plan to climb a very high\nmountain. This mountain rose high near the clouds, and reaching its summit\nrequired strength and hard work from us."
+              "en": "We decided to make a plan to climb a very high\nmountain. This mountain rose high near the clouds, and reaching its summit\nrequired strength and hard work from us.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-24-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "عندما وصلنا إلى القمة المرتفعة، كانت الرياح باردة جداً. لكن\nالمنظر للأرض من هناك كان رائعاً؛ بدت البيوت والأنهار كنقاط صغيرة. شعرنا بالفخر\nبقوتنا الذاتية.",
-              "en": "When we reached the high summit, the wind was very\ncold. But the view of the earth from there was wonderful; houses and rivers\nlooked like small points. We felt proud of our own strength."
+              "en": "When we reached the high summit, the wind was very\ncold. But the view of the earth from there was wonderful; houses and rivers\nlooked like small points. We felt proud of our own strength.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-24-2.png"
             }
           ]
         },
@@ -48281,12 +48782,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "حاولت فتاة صغيرة صنع حيوان جميل من الورق الملون. لكن\nمحاولتها الأولى لم تنجح، وتمزق الورق. شعرت بالحزن الشديد وأرادت التوقف عن\nالعمل تماماً.",
-              "en": "A young girl tried to make a beautiful animal out\nof colored paper. But her first attempt did not succeed, and the paper tore. She\nfelt very sad and wanted to stop the work completely."
+              "en": "A young girl tried to make a beautiful animal out\nof colored paper. But her first attempt did not succeed, and the paper tore. She\nfelt very sad and wanted to stop the work completely.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-25-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "اقتربت منها أمها وقالت: \"حاولي مرة أخرى واجعلي حركة يدك\nأبطأ\". أخذت الفتاة ورقة جديدة ونظيفة واستطاعت صنع شكل ممتاز. ابتسمت وشعرت\nبالفرح والنجاح.",
-              "en": "Her mother came near her and said: \"Try again and\nmake your hand movement slower.\" The girl took a new, clean sheet of paper and\nwas able to make an excellent shape. She smiled and felt joy and success. ===\nEND OF STORY 25 ==="
+              "en": "Her mother came near her and said: \"Try again and\nmake your hand movement slower.\" The girl took a new, clean sheet of paper and\nwas able to make an excellent shape. She smiled and felt joy and success. ===\nEND OF STORY 25 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-25-2.png"
             }
           ]
         },
@@ -48333,12 +48836,14 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "تفتح الكلمات لنا طرقاً جديدة وتغير فهمنا للحياة كلياً. وفي\nكل يوم، أدرس معاني الكلمات الجديدة وأكتبها في دفتري لكي أتذكرها دائماً دون\nنسيان.",
-              "en": "Words open new paths for us and change our\nunderstanding of life entirely. Every day, I study the meanings of new words and\nwrite them in my notebook so that I always remember them without forgetting."
+              "en": "Words open new paths for us and change our\nunderstanding of life entirely. Every day, I study the meanings of new words and\nwrite them in my notebook so that I always remember them without forgetting.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-26-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "تساعد قراءة الكتب الإنسان في بناء عالمه الداخلي الخاص به.\nومن خلال القراءة الكثيرة، نبدأ في فهم الآخرين بشكل أفضل ونصبح أكثر عطفاً\nولطفاً مع الجميع.",
-              "en": "Reading books helps a person build their own inner\nworld. Through reading a lot, we begin to understand others better and become\nmore compassionate and kind to everyone."
+              "en": "Reading books helps a person build their own inner\nworld. Through reading a lot, we begin to understand others better and become\nmore compassionate and kind to everyone.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-elementary-26-2.png"
             }
           ]
         },
@@ -48394,17 +48899,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "في أحد أيام السبت، قرر ماجد تنظيف علية منزله القديمة. كان\nهناك الكثير من الصناديق والأثاث المكسور. وفي زاوية الغرفة، لاحظ ساعة خشبية\nقديمة كبيرة. كانت تبدو وكأنها لم تعمل منذ سنوات طويلة، ومغطاة بالغبار.",
-              "en": "On a Saturday, Majid decided to clean the old attic\nof his house. There were many old boxes and broken furniture. In the corner of\nthe room, he noticed a large, antique wooden clock. It looked as if it had not\nworked for many years and was covered in dust."
+              "en": "On a Saturday, Majid decided to clean the old attic\nof his house. There were many old boxes and broken furniture. In the corner of\nthe room, he noticed a large, antique wooden clock. It looked as if it had not\nworked for many years and was covered in dust.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-27-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "فتح ماجد الباب الزجاجي للساعة وبدأ يفحصها من الداخل. وخلف\nالبندول الثقيل، وجد مفتاحاً نحاسياً صغيراً. أخذه في يده وحاول إدخاله في فتحة\nصغيرة على جانب الساعة. تطابق المفتاح تماماً وبسهولة.",
-              "en": "Majid opened the clock's glass door and began\nexamining it from the inside. Behind the heavy pendulum, he found a small brass\nkey. He took it in his hand and tried inserting it into a small hole on the\nside. The key fit perfectly and easily."
+              "en": "Majid opened the clock's glass door and began\nexamining it from the inside. Behind the heavy pendulum, he found a small brass\nkey. He took it in his hand and tried inserting it into a small hole on the\nside. The key fit perfectly and easily.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-27-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "أدار المفتاح ببطء، وبدأت الساعة تصدر صوت تكتكة مألوفاً.\nتحركت العقارب في دائرة، وسرعان ما رن جرس جميل في أرجاء المنزل. كان هذا الصوت\nهو نفسه الذي كان جده يحب سماعه قبل سنوات طويلة. شعر ماجد بالدفء والسرور.",
-              "en": "He turned the key slowly, and the clock began to\nmake a familiar ticking sound. The hands moved in a circle, and soon a beautiful\nchime rang throughout the house. This sound was the same one his grandfather\nloved listening to many years ago. Majid felt warm and joyful. === END OF\nSTORY 27 ==="
+              "en": "He turned the key slowly, and the clock began to\nmake a familiar ticking sound. The hands moved in a circle, and soon a beautiful\nchime rang throughout the house. This sound was the same one his grandfather\nloved listening to many years ago. Majid felt warm and joyful. === END OF\nSTORY 27 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-27-3.png"
             }
           ]
         },
@@ -48460,17 +48968,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "كانت مريم تسير في غابة هادئة، حيث لم يكن يُسمع سوى أصوات\nالطيور البعيدة. كانت الأشجار عالية جداً، وضوء الشمس يمر بالكاد بين الأغصان\nالخضراء. وتحت قدميها كان هناك بساط من الطحالب الخضراء الناعمة.",
-              "en": "Maryam was walking through a quiet forest where\nonly the distant voices of birds were heard. The trees were very tall, and the\nlight of the sun barely passed through the green branches. Underfoot lay a\ncarpet of soft green moss."
+              "en": "Maryam was walking through a quiet forest where\nonly the distant voices of birds were heard. The trees were very tall, and the\nlight of the sun barely passed through the green branches. Underfoot lay a\ncarpet of soft green moss.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-28-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "مشيت مريم إلى عمق أكبر وفجأة رأت بحيرة صغيرة وجميلة. كان\nالماء فيها صافياً كأنه مرآة، وتنعكس عليه السماء الصافية والغيوم البيضاء.\nوبالقرب منها كانت تقف بعض الغزلان وهي تشرب الماء بهدوء ونظرت إليها مريم\nبصمت.",
-              "en": "Maryam walked deeper and suddenly saw a small,\nbeautiful lake. The water in it was clean as a mirror, reflecting the clear sky\nand white clouds. Nearby stood several deer drinking water quietly, and Maryam\nwatched them in silence."
+              "en": "Maryam walked deeper and suddenly saw a small,\nbeautiful lake. The water in it was clean as a mirror, reflecting the clear sky\nand white clouds. Nearby stood several deer drinking water quietly, and Maryam\nwatched them in silence.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-28-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "جلست مريم على صخرة جافة بالقرب من الماء وفتحت دفترها. قررت\nكتابة هذه القصة ورسم البحيرة والغزلان. ستبقى هذه الذكرى الدافئة والجميلة\nلرحلتها في الغابة معها لوقت طويل جداً في حياتها.",
-              "en": "Maryam sat on a dry rock near the water and opened\nher notebook. She decided to write down this story and draw the lake and the\ndeer. This warm and beautiful memory of her trip in the forest will stay with\nher for a very long time in her life."
+              "en": "Maryam sat on a dry rock near the water and opened\nher notebook. She decided to write down this story and draw the lake and the\ndeer. This warm and beautiful memory of her trip in the forest will stay with\nher for a very long time in her life.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-28-3.png"
             }
           ]
         },
@@ -48526,17 +49037,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "كان عادل يعيش في مدينة جميلة تقع على شاطئ البحر الأزرق. وفي\nكل صيف، كان يقام هناك مهرجان كبير. تُعلق الأعلام الملونة في الميناء، ويبني الناس\nأكشاكاً خشبية لبيع الطعام. ومع اقتراب المساء، تجمّع الكثير من الناس السعداء.",
-              "en": "Adel lived in a beautiful city located on the shore\nof the blue sea. Every summer, a big festival was organized there. Colorful\nflags were hung in the port, and people built wooden stalls to sell food. As\nevening approached, many happy people gathered."
+              "en": "Adel lived in a beautiful city located on the shore\nof the blue sea. Every summer, a big festival was organized there. Colorful\nflags were hung in the port, and people built wooden stalls to sell food. As\nevening approached, many happy people gathered.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-29-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "التقى عادل في الميناء ببحار عجوز قضى حياته في البحر. أخبره\nالعجوز عن رحلاته الطويلة في محيطات الأرض، وعن العواصف القوية والأسماك الضخمة.\nاستمع الولد إليه باهتمام كبير وحلم بأن يصبح بحاراً حقيقياً في المستقبل.",
-              "en": "Adel met an old sailor at the port who spent his\nlife at sea. The old man told him about his long voyages across the earth's\noceans, about strong storms and huge fish. The boy listened to him with great\ninterest and dreamed of becoming a real sailor in the future."
+              "en": "Adel met an old sailor at the port who spent his\nlife at sea. The old man told him about his long voyages across the earth's\noceans, about strong storms and huge fish. The boy listened to him with great\ninterest and dreamed of becoming a real sailor in the future.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-29-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "عندما حل الظلام، بدأت الألعاب النارية الملونة تضيء السماء.\nكانت الأضواء تطير عالياً في الهواء ثم تسقط في ماء البحر لترسم لوحة رائعة. كانت\nالمدينة كلها تضيء بسعادة، وشعر عادل بالفخر بمدينته الساحلية الرائعة.",
-              "en": "When darkness fell, colorful fireworks began to\nlight up the sky. The lights flew high into the air and then fell into the sea\nwater to paint a wonderful picture. The whole city glowed with happiness, and\nAdel felt proud of his wonderful coastal city."
+              "en": "When darkness fell, colorful fireworks began to\nlight up the sky. The lights flew high into the air and then fell into the sea\nwater to paint a wonderful picture. The whole city glowed with happiness, and\nAdel felt proud of his wonderful coastal city.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-29-3.png"
             }
           ]
         },
@@ -48592,17 +49106,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "في المدرسة، أعطى المعلم الأطفال مهمة جديدة في حصة العلوم.\nكان عليهم التقسيم إلى مجموعات وبناء نموذج لـ \"مدينة المستقبل\". جلس أربعة\nأصدقاء معاً وبدأوا يفكرون في التقنيات الصديقة للبيئة.",
-              "en": "At school, the teacher gave the children a new task\nin science class. They had to divide into groups and build a model of a \"city of\nthe future.\" Four friends sat together and began thinking about eco-friendly\ntechnologies."
+              "en": "At school, the teacher gave the children a new task\nin science class. They had to divide into groups and build a model of a \"city of\nthe future.\" Four friends sat together and began thinking about eco-friendly\ntechnologies.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-30-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "كان لديهم الكثير من الأفكار الرائعة والمفيدة. قرروا وضع\nخلايا شمسية على أسطح كل المنازل، ونظام لجمع مياه الأمطار من أجل سقاية\nالنباتات. استخدموا أشياء بسيطة مثل الورق والكرتون بأيديهم.",
-              "en": "They had many great and useful ideas. They decided\nto put solar panels on the roofs of all houses, and a system to collect\nrainwater to water the plants. They used simple things like paper and cardboard\nwith their hands."
+              "en": "They had many great and useful ideas. They decided\nto put solar panels on the roofs of all houses, and a system to collect\nrainwater to water the plants. They used simple things like paper and cardboard\nwith their hands.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-30-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "في اليوم التالي، عرضت كل المجموعات نماذجها الرائعة. مدح\nالمعلم الطلاب على جهدهم الكبير وعملهم الجاد. فهم الأصدقاء أهمية العمل معاً\nومساعدة بعضهم البعض من أجل تحقيق هدف مفيد للجميع.",
-              "en": "The next day, all groups displayed their wonderful\nmodels. The teacher praised the students for their great effort and hard work.\nThe friends understood the importance of working together and helping one\nanother to achieve a useful goal for everyone."
+              "en": "The next day, all groups displayed their wonderful\nmodels. The teacher praised the students for their great effort and hard work.\nThe friends understood the importance of working together and helping one\nanother to achieve a useful goal for everyone.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-30-3.png"
             }
           ]
         },
@@ -48658,17 +49175,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "في الصباح الباكر، بدأ طارق الصعود في طريق ضيق نحو الجبل\nالمرتفع. كانت الرياح تهب بقوة وبرودة، لكن حركته السريعة جعلت جسده يشعر\nبالدفء. كانت هناك زهور برية جميلة تظهر على طول الطريق وتسر عينه.",
-              "en": "Early in the morning, Tariq began climbing a narrow\npath towards the high mountain. The wind blew strongly and coldly, but his fast\nmovement kept his body warm. There were beautiful wild flowers appearing along\nthe path, pleasing his eye."
+              "en": "Early in the morning, Tariq began climbing a narrow\npath towards the high mountain. The wind blew strongly and coldly, but his fast\nmovement kept his body warm. There were beautiful wild flowers appearing along\nthe path, pleasing his eye.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-31-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "في منتصف النهار، أصبحت السماء مظلمة فجأة وبدأ المطر يهطل\nبغزارة. ولحسن الحظ، كان هناك كوخ صغير مبني من الحجر أمامه مباشرة. ركض طارق\nبسرعة إلى الداخل ليحتمي من العاصفة ويشرب الشاي الدافئ.",
-              "en": "At noon, the sky suddenly turned dark and heavy\nrain began to fall. Fortunately, there was a small cabin built of stone right in\nfront of him. Tariq ran quickly inside to take shelter from the storm and drink\nwarm tea."
+              "en": "At noon, the sky suddenly turned dark and heavy\nrain began to fall. Fortunately, there was a small cabin built of stone right in\nfront of him. Tariq ran quickly inside to take shelter from the storm and drink\nwarm tea.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-31-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "بعد ساعة، توقف المطر وظهرت الشمس المشرقة مجدداً في السماء.\nخرج طارق من الكوخ ووصل إلى قمة الجبل. كانت هناك وادٍ أخضر كبير ممتد بالأسفل.\nأخذت الرياح القوية كل تعبه وشعر بفرحة حقيقية.",
-              "en": "After an hour, the rain stopped and the bright sun\nappeared again in the sky. Tariq left the cabin and reached the top of the\nmountain. There was a large green valley stretching out below. The strong wind\ncarried away all his fatigue, and he felt true joy."
+              "en": "After an hour, the rain stopped and the bright sun\nappeared again in the sky. Tariq left the cabin and reached the top of the\nmountain. There was a large green valley stretching out below. The strong wind\ncarried away all his fatigue, and he felt true joy.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-31-3.png"
             }
           ]
         },
@@ -48724,17 +49244,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "كان سمير يبحث عن كتاب في غرفة مكتب جده القديمة. وعندما فتح\nدرجاً قديماً من أدراج المكتبة، وجد في قاعه ورقة مطوية. كانت خريطة قديمة للغابة\nالقريبة رسمها جده بيده عندما كان طفلاً صغيراً.",
-              "en": "Samir was looking for a book in his grandfather's\nold study room. When he opened an old drawer of the desk, he found a folded\npaper at the bottom. It was an old map of the nearby forest drawn by his\ngrandfather when he was a young child."
+              "en": "Samir was looking for a book in his grandfather's\nold study room. When he opened an old drawer of the desk, he found a folded\npaper at the bottom. It was an old map of the nearby forest drawn by his\ngrandfather when he was a young child.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-32-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "قرر سمير وصديقه الذهاب إلى الغابة باستخدام هذه الخريطة.\nاستخدموا الأشجار القديمة المميزة كعلامات للطريق وساروا في عمق أكبر. وسرعان\nما وجدوا بئراً حجرية قديمة مغطاة بالعشب الأخضر، تماماً كما في الخريطة.",
-              "en": "Samir and his friend decided to go to the forest\nusing this map. They used old, unique trees as landmarks and walked deeper into\nthe forest. Soon they found an old stone well covered with green grass, exactly\nlike on the map."
+              "en": "Samir and his friend decided to go to the forest\nusing this map. They used old, unique trees as landmarks and walked deeper into\nthe forest. Soon they found an old stone well covered with green grass, exactly\nlike on the map.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-32-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "نظر الولدان داخل البئر ووجدا صندوقاً بلاستيكياً صغيراً. في\nالداخل كانت عملة معدنية قديمة ورسالة صغيرة تحمل اسم جده عندما كان طفلاً. شعر\nالولدان بسعادة غامرة وكأنهما في مغامرة تاريخية حقيقية.",
-              "en": "The two boys looked inside the well and found a\nsmall plastic box. Inside was an old coin and a small note with their\ngrandfather's name when he was a child. The boys felt immense joy as if they\nwere in a real historical adventure."
+              "en": "The two boys looked inside the well and found a\nsmall plastic box. Inside was an old coin and a small note with their\ngrandfather's name when he was a child. The boys felt immense joy as if they\nwere in a real historical adventure.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-32-3.png"
             }
           ]
         },
@@ -48790,17 +49313,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "في كل سبت، كانت ليلى تذهب إلى دروس الرسم. اليوم كان عليهم\nرسم منظر النهر والسماء من نافذة الصف الكبيرة. جهزت لوحتها ووضعت ألواناً مائية\nزاهية على الطاولة. كانت متشوقة جداً لبدء العمل والنشاط.",
-              "en": "Every Saturday, Layla went to painting class. Today\nthey had to paint the view of the river and sky from the large classroom window.\nShe prepared her canvas and put bright watercolors on the table. She was very\nexcited to start her work and activity."
+              "en": "Every Saturday, Layla went to painting class. Today\nthey had to paint the view of the river and sky from the large classroom window.\nShe prepared her canvas and put bright watercolors on the table. She was very\nexcited to start her work and activity.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-33-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "بعد ساعة، بدأت السماء في الخارج تغير لونها ببطء إلى اللون\nالبرتقالي الجميل. وظهر انعكاس رائع لأشعة الشمس فوق ماء النهر. خلطت ليلى\nالألوان الحمراء والصفراء بحذر على لوحتها لتنقل هذا الضوء الدافئ والجميل.",
-              "en": "An hour later, the sky outside began to slowly\nchange its color to a beautiful orange. A wonderful reflection of the sun's rays\nappeared on the river water. Layla carefully mixed red and yellow colors on her\ncanvas to convey this warm and beautiful light."
+              "en": "An hour later, the sky outside began to slowly\nchange its color to a beautiful orange. A wonderful reflection of the sun's rays\nappeared on the river water. Layla carefully mixed red and yellow colors on her\ncanvas to convey this warm and beautiful light.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-33-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "في نهاية الدرس، عُلقت كل اللوحات على الجدار. وعلى الرغم من\nأن الجميع رسموا نفس المنظر من النافذة، كانت لكل لوحة شخصيتها وجمالها الفريد.\nفهمت ليلى أن كل إنسان يرى العالم بطريقته الخاصة والجميلة.",
-              "en": "At the end of the lesson, all paintings were hung\non the wall. Even though everyone painted the same view from the window, each\npainting had its own unique personality and beauty. Layla understood that every\nperson sees the world in their own special and beautiful way. === END OF\nSTORY 33 ==="
+              "en": "At the end of the lesson, all paintings were hung\non the wall. Even though everyone painted the same view from the window, each\npainting had its own unique personality and beauty. Layla understood that every\nperson sees the world in their own special and beautiful way. === END OF\nSTORY 33 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-33-3.png"
             }
           ]
         },
@@ -48856,17 +49382,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "يوم الأحد، كانت ياسمين تلعب مع أخيها الصغير في الحديقة\nالعامة. وضعت ياسمين مفتاح مكتبها الصغير في جيب سترتها. لكن خلال اللعب\nوالجري على العشب الأخضر، سقط المفتاح وحزنت الفتاة كثيراً.",
-              "en": "On Sunday, Yasmin was playing with her younger\nbrother in the public park. Yasmin put her small desk key in her jacket pocket.\nBut during playing and running on the green grass, the key fell out, and the\ngirl was very sad."
+              "en": "On Sunday, Yasmin was playing with her younger\nbrother in the public park. Yasmin put her small desk key in her jacket pocket.\nBut during playing and running on the green grass, the key fell out, and the\ngirl was very sad.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-34-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "جاء وقت المساء، وأصبح الجو مظلماً بعض الشيء في الحديقة.\nأحضر شقيقها مصباحاً يدوياً صغيراً ليساعدها في البحث. مشى الاثنان معاً بالقرب\nمن الأشجار الكبيرة ووجها الضوء نحو الأرض لمراقبة العشب بدقة.",
-              "en": "Evening arrived, and it became a bit dark in the\npark. Her brother brought a small flashlight to help her search. The two walked\ntogether near the large trees and pointed the light towards the ground to\nexamine the grass closely."
+              "en": "Evening arrived, and it became a bit dark in the\npark. Her brother brought a small flashlight to help her search. The two walked\ntogether near the large trees and pointed the light towards the ground to\nexamine the grass closely.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-34-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "بعد قليل، لاحظ شقيقها لمعاناً معدنياً تحت صخرة رمادية\nصغيرة. كان هذا هو المفتاح المفقود! فرحت ياسمين كثيراً وشكرت شقيقها بامتنان.\nوعندما عادوا إلى المنزل، استطاعت فتح درج مكتبها الصغير بنجاح.",
-              "en": "After a short while, her brother noticed a metallic\nshine under a small grey stone. It was the lost key! Yasmin was very happy and\nthanked her brother with gratitude. When they returned home, she was able to\nopen her small desk drawer successfully."
+              "en": "After a short while, her brother noticed a metallic\nshine under a small grey stone. It was the lost key! Yasmin was very happy and\nthanked her brother with gratitude. When they returned home, she was able to\nopen her small desk drawer successfully.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-34-3.png"
             }
           ]
         },
@@ -48921,17 +49450,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "صنع يوسف وصديقه قاربًا خشبيًا جميلاً في حصة الأشغال اليدوية\nبالمدرسة. وقررا إطلاقه في رحلة مائية على طول النهر النظيف الموجود بالقرب من\nمنزلهما لمعرفة كيفية حركته وتوازنه على الماء.",
-              "en": "Youssef and his friend made a beautiful wooden boat\nin their school crafts class. They decided to launch it on a water voyage along\nthe clean river located near their house to see its movement and balance on the\nwater."
+              "en": "Youssef and his friend made a beautiful wooden boat\nin their school crafts class. They decided to launch it on a water voyage along\nthe clean river located near their house to see its movement and balance on the\nwater.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-35-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "كان مجرى النهر هادئاً، لكن في طريقه كانت توجد بعض الأغصان\nالمتساقطة والحجارة الكبيرة. جرى الولدان على طول الشاطئ وكانا يشعران بالقلق\nخوفاً من أن يصطدم قاربهما الصغير بأي من هذه الحواجز المائية.",
-              "en": "The river flow was calm, but along its path there\nwere some fallen branches and big stones. The two boys ran along the bank and\nfelt anxious, fearing that their small boat might collide with any of these\nwater obstacles."
+              "en": "The river flow was calm, but along its path there\nwere some fallen branches and big stones. The two boys ran along the bank and\nfelt anxious, fearing that their small boat might collide with any of these\nwater obstacles.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-35-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "في نهاية النهر، أمسك يوسف بالقارب بحذر شديد لئلا يبتل. كان\nالقارب سليماً تماماً ولم يصب بأي ضرر. عاد الصديقان إلى المنزل ودونا بالتفصيل في\nدفتر الملاحظات نتائجهما حول سرعة تدفق مياه النهر.",
-              "en": "At the end of the river, Youssef caught the boat\nvery carefully so as not to get wet. The boat was completely intact and did not\nsuffer any damage. The two friends returned home and recorded their results\nregarding the speed of the river water flow in detail in their notebook. === END\nOF STORY 35 ==="
+              "en": "At the end of the river, Youssef caught the boat\nvery carefully so as not to get wet. The boat was completely intact and did not\nsuffer any damage. The two friends returned home and recorded their results\nregarding the speed of the river water flow in detail in their notebook. === END\nOF STORY 35 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-35-3.png"
             }
           ]
         },
@@ -48986,17 +49518,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "في الصيف، ذهب كريم مع والديه في رحلة تخييم في الجبال\nالمرتفعة. كانت الليلة هادئة ومظلمة جداً لعدم وجود أي أضواء للمدينة حولهم.\nخرج كريم إلى الهواء النقي ورفع عينيه لمشاهدة السماء الرائعة.",
-              "en": "In the summer, Karim went with his parents on a\ncamping trip in the high mountains. The night was very quiet and dark because\nthere were no city lights around them. Karim went out into the fresh air and\nraised his eyes to watch the wonderful sky."
+              "en": "In the summer, Karim went with his parents on a\ncamping trip in the high mountains. The night was very quiet and dark because\nthere were no city lights around them. Karim went out into the fresh air and\nraised his eyes to watch the wonderful sky.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-36-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "أخرج والد كريم من حقيبته كتاباً رائعاً عن المجموعات\nالنجمية. قام بتشغيل مصباح يدوي ضعيف، وبدأ وهو ينظر في الكتاب يوضح لابنه\nأسماء النجوم البراقة في السماء، ويشرح له أسمائها وقصصها القديمة.",
-              "en": "Karim's father took a wonderful book about\nconstellations from his bag. He turned on a dim flashlight and, looking at the\nbook, began to show his son the bright stars in the sky, explaining their names\nand ancient stories."
+              "en": "Karim's father took a wonderful book about\nconstellations from his bag. He turned on a dim flashlight and, looking at the\nbook, began to show his son the bright stars in the sky, explaining their names\nand ancient stories.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-36-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "فجأة، طار نجم ساطع بسرعة عبر السماء المظلمة، تاركاً خلفه\nخطاً مضيئاً وجميلاً. كان هذا شهاباً. تمكن كريم من تمني أمنية سريعة لقلبه\nبخصوص مستقبله وأحلامه. كانت هذه الليلة تجربة دافئة وجميلة بالنسبة له.",
-              "en": "Suddenly, a bright star flew quickly across the\ndark sky, leaving a glowing and beautiful line behind it. This was a shooting\nstar. Karim managed to quickly make a wish in his heart about his future and\ndreams. This night was a warm and beautiful experience for him. === END OF\nSTORY 36 ==="
+              "en": "Suddenly, a bright star flew quickly across the\ndark sky, leaving a glowing and beautiful line behind it. This was a shooting\nstar. Karim managed to quickly make a wish in his heart about his future and\ndreams. This night was a warm and beautiful experience for him. === END OF\nSTORY 36 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-36-3.png"
             }
           ]
         },
@@ -49051,17 +49586,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "في الربيع، قضى حازم وقتاً ممتعاً في مزرعة جدته الطيبة. قررت\nالجدة تعليمه كيفية زراعة الخضار والاهتمام بها بأيديهم. قام الاثنان بتجهيز الأرض\nفي الحديقة وزرعا بعض بذور الطماطم والخيار بحذر شديد.",
-              "en": "In spring, Hazem spent an enjoyable time at his\nkind grandmother's farm. The grandmother decided to teach him how to grow\nvegetables and care for them with their hands. The two prepared the soil in the\ngarden and planted some tomato and cucumber seeds very carefully."
+              "en": "In spring, Hazem spent an enjoyable time at his\nkind grandmother's farm. The grandmother decided to teach him how to grow\nvegetables and care for them with their hands. The two prepared the soil in the\ngarden and planted some tomato and cucumber seeds very carefully.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-37-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "كل يوم بعد انتهاء دروسه، كان حازم يسرع لمساعدة جدته وسقاية\nالنباتات بالماء البارد. وبعد أسبوعين، بدأت الأوراق الخضراء الصغيرة تظهر من\nالتربة الدافئة. شعر حازم بسعادة غامرة لرؤية ثمار جهدهم المشترك.",
-              "en": "Every day after his lessons ended, Hazem rushed to\nhelp his grandmother and water the plants with cold water. After two weeks,\nsmall green leaves began to appear from the warm soil. Hazem felt great\nhappiness to see the fruits of their joint effort."
+              "en": "Every day after his lessons ended, Hazem rushed to\nhelp his grandmother and water the plants with cold water. After two weeks,\nsmall green leaves began to appear from the warm soil. Hazem felt great\nhappiness to see the fruits of their joint effort.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-37-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "في الصيف، جنيا الكثير من الطماطم والخيار الطازج. أعدت الجدة\nوحازم طبق سلطة لذيذ من هذه الخضار الطازجة لوجبة العشاء. فهم الولد أن الطعام الذي\nيزرعه الإنسان بيديه يكون له دائماً المذاق الأطيب والأجمل.",
-              "en": "In summer, they harvested a lot of fresh tomatoes\nand cucumbers. His grandmother and Hazem prepared a delicious salad plate from\nthese fresh vegetables for dinner. The boy understood that food grown by one's\nown hands always has the finest and most beautiful taste."
+              "en": "In summer, they harvested a lot of fresh tomatoes\nand cucumbers. His grandmother and Hazem prepared a delicious salad plate from\nthese fresh vegetables for dinner. The boy understood that food grown by one's\nown hands always has the finest and most beautiful taste.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-37-3.png"
             }
           ]
         },
@@ -49116,17 +49654,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "على جرف صخري مرتفع يقع على البحر الأزرق، كانت تقف منارة\nحجرية قديمة. في الوقت الحالي، لم تكن تعمل بسبب استخدام السفن للأنظمة الحديثة\nوالمتقدمة. قررت هند ووالدها الذهاب إلى هناك في رحلة ترفيهية يوم الأحد.",
-              "en": "On a high rocky cliff by the blue sea, an old stone\nlighthouse stood. At the present time, it did not work due to ships using modern\nand advanced systems. Hind and her father decided to go there on a leisure trip\non Sunday."
+              "en": "On a high rocky cliff by the blue sea, an old stone\nlighthouse stood. At the present time, it did not work due to ships using modern\nand advanced systems. Hind and her father decided to go there on a leisure trip\non Sunday.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-38-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "فتح الاثنان الباب الخشبي الثقيل ودخلا إلى المنارة. كان الجو\nفي الداخل بارداً، وكان هناك درج حجري طويل ملتف يقود إلى الأعلى. بدأت هند في\nالصعود بحذر شديد خطوة بخطوة وهي تمسك بيد والدها بقوة.",
-              "en": "The two opened the heavy wooden door and entered\nthe lighthouse. It was cool inside, and there was a long, spiral stone staircase\nleading upward. Hind began to climb carefully step by step, holding her father's\nhand tightly."
+              "en": "The two opened the heavy wooden door and entered\nthe lighthouse. It was cool inside, and there was a long, spiral stone staircase\nleading upward. Hind began to climb carefully step by step, holding her father's\nhand tightly.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-38-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "في الأعلى على الشرفة، كانت الرياح تهب بقوة. ظهر أمامهم منظر\nرائع للبحر الأزرق الواسع وأمواجه الكبيرة. فكرت هند في الأشخاص الطيبين الذين\nعاشوا هناك ذات يوم وكانوا يساعدون السفن ويحمون حياتها أثناء العواصف\nالشديدة.",
-              "en": "At the top on the balcony, the wind was blowing\nstrongly. A wonderful view of the vast blue sea and its large waves opened up\nbefore them. Hind thought of the kind people who once lived there and helped\nships and saved lives during severe storms."
+              "en": "At the top on the balcony, the wind was blowing\nstrongly. A wonderful view of the vast blue sea and its large waves opened up\nbefore them. Hind thought of the kind people who once lived there and helped\nships and saved lives during severe storms.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-38-3.png"
             }
           ]
         },
@@ -49181,17 +49722,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "في كل خريف، كان يقام في المدرسة معرض علمي كبير وجميل. قررت\nمجموعة مازن تجهيز مشروع متميز يتحدث عن الطاقة النظيفة والصديقة للبيئة. وقاموا\nببناء نموذج صغير يوضح عمل الخلايا الشمسية.",
-              "en": "Every autumn, a large and beautiful science fair\nwas held at the school. Mazen's group decided to prepare a distinct project\nabout clean and eco-friendly energy. They built a small model demonstrating how\nsolar panels work."
+              "en": "Every autumn, a large and beautiful science fair\nwas held at the school. Mazen's group decided to prepare a distinct project\nabout clean and eco-friendly energy. They built a small model demonstrating how\nsolar panels work.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-39-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "في يوم المعرض، تجمع الكثير من المعلمين والأولياء في القاعة\nالكبيرة. وتوقف العديد منهم أمام مشروع مازن. كان الولد يشرح للضيوف ببساطة ووضوح\nتام كيف تتحول أشعة الشمس إلى طاقة تيار كهربائي مفيد.",
-              "en": "On the day of the exhibition, many teachers and\nparents gathered in the large hall. Many of them stopped in front of Mazen's\nproject. The boy explained to the guests simply and clearly how the sun's rays\ntransform into useful electric current energy."
+              "en": "On the day of the exhibition, many teachers and\nparents gathered in the large hall. Many of them stopped in front of Mazen's\nproject. The boy explained to the guests simply and clearly how the sun's rays\ntransform into useful electric current energy.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-39-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "في نهاية اليوم، قام الحكام بتقييم جميع المشاريع المعروضة.\nحصل مشروع مجموعة مازن على تقييم مرتفع جداً والمركز الأول بفضل فكرته المفيدة\nوالممتازة. شعر الأصدقاء بالفرح والسرور لنجاح عملهم الجماعي المشترك.",
-              "en": "At the end of the day, the judges evaluated all the\npresented projects. Mazen's group project received a very high rating and won\nfirst place thanks to its useful and excellent idea. The friends felt joy and\nhappiness at the success of their joint collective work."
+              "en": "At the end of the day, the judges evaluated all the\npresented projects. Mazen's group project received a very high rating and won\nfirst place thanks to its useful and excellent idea. The friends felt joy and\nhappiness at the success of their joint collective work.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-39-3.png"
             }
           ]
         },
@@ -49246,17 +49790,20 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "جاءت سلمى مع والدتها الطيبة إلى قاعة الحفلات القديمة\nبالمدينة. اليوم كان هناك حفل موسيقي يعزف فيه عازف كمان مشهور. انطفأت\nالأضواء في القاعة المظلمة، وأضيئت شمعة دافئة على المسرح لتنير المكان.",
-              "en": "Salma came with her kind mother to the town's old\nconcert hall. Today, there was a musical concert in which a famous violinist was\nplaying. The lights went out in the dark hall, and a warm candle was lit on the\nstage to illuminate the place."
+              "en": "Salma came with her kind mother to the town's old\nconcert hall. Today, there was a musical concert in which a famous violinist was\nplaying. The lights went out in the dark hall, and a warm candle was lit on the\nstage to illuminate the place.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-40-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "عندما بدأ العزف، بدت ألحان الكمان دافئة وجميلة للغاية. كانت\nأصوات الموسيقى تتغير تارة ببطء وهدوء شديد، وتارة أخرى ترتفع بسرعة وقوة لتأخذ\nقلوب الجميع. شعرت سلمى بسعادة وراحة نفسية كبيرة مع الألحان.",
-              "en": "When the performance began, the violin melodies\nsounded extremely warm and beautiful. The sounds of the music changed at times\nslowly and quietly, and at other times rose quickly and strongly to capture\neveryone's hearts. Salma felt great happiness and mental comfort with the\nmelodies."
+              "en": "When the performance began, the violin melodies\nsounded extremely warm and beautiful. The sounds of the music changed at times\nslowly and quietly, and at other times rose quickly and strongly to capture\neveryone's hearts. Salma felt great happiness and mental comfort with the\nmelodies.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-40-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "بعد الحفل، صفق الجميع بحرارة وقوة كبيرة. شعرت سلمى بإلهام\nكبير ورغبة حقيقية. وعندما عادت إلى المنزل، قررت إخراج بيانو ألعاب طفولتها\nالقديم لتجرب العزف مجدداً وسماع نغماته. ولد فيها حلم جديد اليوم.",
-              "en": "After the concert, everyone clapped warmly and with\ngreat strength. Salma felt highly inspired and had a genuine desire. When she\nreturned home, she decided to take out her old childhood toy piano to try\nplaying again and hearing its tones. A new dream was born in her today. === END\nOF STORY 40 ==="
+              "en": "After the concert, everyone clapped warmly and with\ngreat strength. Salma felt highly inspired and had a genuine desire. When she\nreturned home, she decided to take out her old childhood toy piano to try\nplaying again and hearing its tones. A new dream was born in her today. === END\nOF STORY 40 ===",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-intermediate-40-3.png"
             }
           ]
         },
@@ -49323,27 +49870,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "في المجتمع الحديث، تتطور العلوم والتكنولوجيا بسرعة كبيرة.\nتصبح حياتنا مريحة، لكن الطبيعة الجميلة تعاني غالباً. وفي إحدى المدن الصغيرة،\nأصبح النهر متسخاً بسبب المصانع. قرر العالم الشاب فريد إصلاح هذه المشكلة\nالبيئية.",
-              "en": "In modern society, science and technology develop\nvery rapidly. Our lives become convenient, but beautiful nature often suffers.\nIn one small town, the river became dirty because of factories. The young\nscientist, Fred, decided to fix this environmental problem."
+              "en": "In modern society, science and technology develop\nvery rapidly. Our lives become convenient, but beautiful nature often suffers.\nIn one small town, the river became dirty because of factories. The young\nscientist, Fred, decided to fix this environmental problem.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-41-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "اقترح فريد بناء نظام جديد لتنقية المياه. لكن مدراء المصانع\nوبعض سكان المدينة كانوا ضد الفكرة. كانوا يعتقدون أن هذا مكلف للغاية وسوف يضر\nبالاقتصاد المحلي. لم يستسلم فريد واحتفظ بلغة الحوار المستمر.",
-              "en": "Fred proposed building a new water purification\nsystem. But the factory directors and some town residents were against the idea.\nThey believed that this was too expensive and would harm the local economy. Fred\ndid not give up and kept up the continuous dialogue."
+              "en": "Fred proposed building a new water purification\nsystem. But the factory directors and some town residents were against the idea.\nThey believed that this was too expensive and would harm the local economy. Fred\ndid not give up and kept up the continuous dialogue.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-41-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "بعد نقاشات طويلة، قرروا إجراء الاختبار الأول للآلة. وضع\nالعلماء الأجهزة عند النهر. لكن الاختبار فشل بسبب عطل مفاجئ في المحرك. تدفقت\nالمياه المتسخة مجدداً إلى النهر، وبدأ الناس يشعرون بالغضب الشديد.",
-              "en": "After long discussions, they decided to conduct the\nfirst test of the machine. The scientists placed the equipment near the river.\nBut the test failed due to a sudden engine breakdown. Dirty water flowed into\nthe river again, and people began to feel very angry."
+              "en": "After long discussions, they decided to conduct the\nfirst test of the machine. The scientists placed the equipment near the river.\nBut the test failed due to a sudden engine breakdown. Dirty water flowed into\nthe river again, and people began to feel very angry.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-41-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "اعترف فريد بخطئه وبدأ يبحث عن سبب العطل بحرص. عمل طوال\nالليل لإصلاح الجهاز وجعله آمناً تماماً. رأى مدير المصنع عمله المخلص وجهده\nالكبير، وقرر أن يعطيه فرصة أخيرة وداعمة.",
-              "en": "Fred admitted his mistake and began carefully\nlooking for the cause of the breakdown. He worked all night to repair the device\nand make it completely safe. The factory director saw his sincere work and great\neffort, and decided to give him one last, supportive opportunity."
+              "en": "Fred admitted his mistake and began carefully\nlooking for the cause of the breakdown. He worked all night to repair the device\nand make it completely safe. The factory director saw his sincere work and great\neffort, and decided to give him one last, supportive opportunity.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-41-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "نجح الاختبار الثاني نجاحاً كبيراً. أصبحت مياه النهر نظيفة\nتماماً وصالحة للاستخدام. وبعد سنوات قليلة، عادت الأسماك إلى النهر. غدت المدينة\nنموذجاً متميزاً للانسجام التام بين التطور والاقتصاد وحماية الطبيعة الخضراء.",
-              "en": "The second test was a great success. The river\nwater became completely clean and fit for use. A few years later, fish returned\nto the river. The city became a distinct model of complete harmony between\ndevelopment, economy, and protecting green nature."
+              "en": "The second test was a great success. The river\nwater became completely clean and fit for use. A few years later, fish returned\nto the river. The city became a distinct model of complete harmony between\ndevelopment, economy, and protecting green nature.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-41-5.png"
             }
           ]
         },
@@ -49410,27 +49962,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "كان المؤرخ الشاب شادي يعمل في المكتبة القديمة للمدينة. وبين\nالكتب القديمة، وجد خريطة ورقية صفراء ومميزة. كانت هذه الخريطة توضح موقعاً غامضاً\nفي الجبال لم يظهر على الخرائط الحديثة اليوم.",
-              "en": "The young historian Shady was working in the city's\nold library. Among the old books, he found a yellow, distinct paper map. This\nmap showed a mysterious location in the mountains that did not appear on modern\nmaps today."
+              "en": "The young historian Shady was working in the city's\nold library. Among the old books, he found a yellow, distinct paper map. This\nmap showed a mysterious location in the mountains that did not appear on modern\nmaps today.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-42-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "قرر شادي استكشاف هذا الموقع الغامض والمجهول. درس تاريخ\nالمنطقة جيداً وجهز كافة الأجهزة المناسبة لرحلته الطويلة والمثيرة. كان يعلم\nأن الطريق سيكون صعباً، لكن رغبته في كشف التاريخ قادته بثقة.",
-              "en": "Shady decided to explore this mysterious and\nunknown location. He studied the area's history well and prepared all the\nsuitable devices for his long and exciting trip. He knew the path would be\ndifficult, but his desire to uncover history led him confidently."
+              "en": "Shady decided to explore this mysterious and\nunknown location. He studied the area's history well and prepared all the\nsuitable devices for his long and exciting trip. He knew the path would be\ndifficult, but his desire to uncover history led him confidently.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-42-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "كانت الجبال عالية جداً ومنحدرة بشكل خطير. وفي الطريق، بدأ\nمطر غزير يهطل وأصبح الجو بارداً للغاية. شعر شادي بالتعب، لكن إصراره على معرفة\nالحقيقة ساعده على مواصلة الحركة عبر الغابة الكثيفة.",
-              "en": "The mountains were very high and dangerously steep.\nOn the way, heavy rain began to fall, and it became extremely cold. Shady felt\ntired, but his insistence on knowing the truth helped him continue moving\nthrough the dense forest."
+              "en": "The mountains were very high and dangerously steep.\nOn the way, heavy rain began to fall, and it became extremely cold. Shady felt\ntired, but his insistence on knowing the truth helped him continue moving\nthrough the dense forest.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-42-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "عندما توقف المطر، وصل شادي إلى مكان يلتقي فيه نهران جميلان.\nكان هناك شلال رائع ومبهر. وخلف الماء، اكتشف مدخلاً مخفياً لكهف مظلم، حيث وجد\nصندوقاً حجرياً قديماً مغلقاً.",
-              "en": "When the rain stopped, Shady reached a place where\ntwo beautiful rivers meet. There was a wonderful and dazzling waterfall. Behind\nthe water, he discovered a hidden entrance to a dark cave, where he found a\nclosed, old stone box."
+              "en": "When the rain stopped, Shady reached a place where\ntwo beautiful rivers meet. There was a wonderful and dazzling waterfall. Behind\nthe water, he discovered a hidden entrance to a dark cave, where he found a\nclosed, old stone box.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-42-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "فتح شادي الصندوق وعثر على أوراق قديمة. كانت تحتوي على تاريخ\nسكان تلك المنطقة المجهولين ومعارفهم الطبية والزراعية المفيدة. أحضر شادي هذا\nالاكتشاف العظيم إلى الجامعة ليعرض التاريخ المفقود على العالم كله.",
-              "en": "Shady opened the box and found old papers. They\ncontained the history of the unknown residents of that area and their useful\nmedical and agricultural knowledge. Shady brought this great discovery to the\nuniversity to display the lost history to the whole world."
+              "en": "Shady opened the box and found old papers. They\ncontained the history of the unknown residents of that area and their useful\nmedical and agricultural knowledge. Shady brought this great discovery to the\nuniversity to display the lost history to the whole world.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-42-5.png"
             }
           ]
         },
@@ -49497,27 +50054,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "كان الراصد الجوي عمار يعمل في محطة الأرصاد في قمة الجبل.\nكان يسجل سرعة الرياح ودرجات الحرارة يومياً. وفي الآونة الأخيرة، بدأ الطقس في\nالجبال يتغير بسرعة غير عادية.",
-              "en": "The weather observer Ammar was working at the\nweather station at the top of the mountain. He recorded wind speed and\ntemperature daily. Recently, the weather in the mountains began to change with\nunusual speed."
+              "en": "The weather observer Ammar was working at the\nweather station at the top of the mountain. He recorded wind speed and\ntemperature daily. Recently, the weather in the mountains began to change with\nunusual speed.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-43-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "فهم عمار من القراءات أن هناك عاصفة قوية وخطيرة تتجه نحو\nالقرية الصغيرة عند قاعدة الجبل. كان بحاجة إلى تحذير السكان بسرعة لحماية\nمنازلهم من الخطر والرياح.",
-              "en": "Ammar understood from the readings that a strong\nand dangerous storm was heading towards the small village at the base of the\nmountain. He needed to warn the residents quickly to protect their homes from\ndanger and wind."
+              "en": "Ammar understood from the readings that a strong\nand dangerous storm was heading towards the small village at the base of the\nmountain. He needed to warn the residents quickly to protect their homes from\ndanger and wind.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-43-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "نزل عمار بسرعة إلى القرية وأخبر الناس بالرياح القادمة. لم\nيصدق بعضهم الأجهزة في البداية، لكن البيانات العلمية الدقيقة أقنعتهم بالموافقة\nعلى الإخلاء المؤقت الفوري.",
-              "en": "Ammar went down quickly to the village and told the\npeople about the coming wind. Some did not believe the instruments at first, but\nthe accurate scientific data convinced them to agree to immediate temporary\nevacuation."
+              "en": "Ammar went down quickly to the village and told the\npeople about the coming wind. Some did not believe the instruments at first, but\nthe accurate scientific data convinced them to agree to immediate temporary\nevacuation.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-43-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "في الليل، بدأت عاصفة قوية جداً. كانت الرياح تكسر أغصان\nالأشجار الكبيرة بالقرب من البيوت. لكن بفضل عمل عمار السريع والمبكر، كان\nجميع السكان بسلام داخل ملجأ حجري متين.",
-              "en": "At night, a very strong storm began. The wind was\nbreaking large tree branches near the houses. But thanks to Ammar's quick and\nearly work, all the residents were safe inside a durable stone shelter."
+              "en": "At night, a very strong storm began. The wind was\nbreaking large tree branches near the houses. But thanks to Ammar's quick and\nearly work, all the residents were safe inside a durable stone shelter.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-43-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "في الصباح، تراجعت العاصفة وهدأت الرياح. تضررت القرية\nقليلاً، لكن أرواح الناس كانت آمنة وسليمة. شكر السكان الراصد الشاب بامتنان\nكبير وفهموا أهمية علمه وعمله الجاد.",
-              "en": "In the morning, the storm retreated and the wind\ncalmed. The village was slightly damaged, but people's lives were safe and\nsound. The residents thanked the young observer with great gratitude and\nunderstood the importance of his science and hard work."
+              "en": "In the morning, the storm retreated and the wind\ncalmed. The village was slightly damaged, but people's lives were safe and\nsound. The residents thanked the young observer with great gratitude and\nunderstood the importance of his science and hard work.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-43-5.png"
             }
           ]
         },
@@ -49584,27 +50146,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "قام عالم المحيطات طارق ببناء جهاز غوص جديد ومتقدم. كان يخطط\nللنزول إلى أعمق نقطة في البحر لدراسة طبيعة الحياة المجهولة في قاع المحيط الشاسع.",
-              "en": "The oceanographer Tariq built a new and advanced\ndiving device. He was planning to descend to the deepest point in the sea to\nstudy the nature of unknown life on the bottom of the vast ocean."
+              "en": "The oceanographer Tariq built a new and advanced\ndiving device. He was planning to descend to the deepest point in the sea to\nstudy the nature of unknown life on the bottom of the vast ocean.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-44-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "على عمق عدة آلاف من الأمتار، كان هناك ظلام دامس وتام. لكن\nالمصابيح القوية والحديثة الملحقة بالجهاز أضاءت عالماً غامضاً من الرمال والصخور\nوالنباتات الغريبة.",
-              "en": "At a depth of several thousand meters, there was\npitch and total darkness. But the powerful and modern lamps attached to the\ndevice illuminated a mysterious world of sand, rocks, and strange plants."
+              "en": "At a depth of several thousand meters, there was\npitch and total darkness. But the powerful and modern lamps attached to the\ndevice illuminated a mysterious world of sand, rocks, and strange plants.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-44-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "فجأة، رأى طارق كائناً حياً صغيراً ومضيئاً بشكل رائع. كان\nهذا نوعاً جديداً ومثيراً غير معروف للعلم من قبل. التقط صوراً واضحة لل غاية\nلهذا الكائن الجميل.",
-              "en": "Suddenly, Tariq saw a small and beautifully glowing\nliving creature. This was a exciting new species unknown to science before. He\ntook extremely clear pictures of this beautiful creature."
+              "en": "Suddenly, Tariq saw a small and beautifully glowing\nliving creature. This was a exciting new species unknown to science before. He\ntook extremely clear pictures of this beautiful creature.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-44-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "أثناء العمل، انطفأت الأجهزة فجأة لثانية واحدة. لم يشعر طارق\nبالخوف أو الذعر. كان يعرف هيكل وبناء الجهاز جيداً، وأصلح المشكلة الكهربائية\nبيديه بسرعة وهدوء.",
-              "en": "During the work, the instruments suddenly turned\noff for one second. Tariq did not feel fear or panic. He knew the structure and\nbuild of the device well, and fixed the electrical problem with his hands\nquickly and calmly."
+              "en": "During the work, the instruments suddenly turned\noff for one second. Tariq did not feel fear or panic. He knew the structure and\nbuild of the device well, and fixed the electrical problem with his hands\nquickly and calmly.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-44-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "عاد طارق إلى السطح وعرض صوره على علماء العالم. ساعد اكتشافه\nالرائع الناس على فهم أعماق المحيط بشكل أفضل ومعرفة أهمية حماية طبيعته وبيئته\nالمائية.",
-              "en": "Tariq returned to the surface and displayed his\npictures to the world's scientists. His wonderful discovery helped people better\nunderstand the ocean depths and know the importance of protecting its nature and\nmarine environment."
+              "en": "Tariq returned to the surface and displayed his\npictures to the world's scientists. His wonderful discovery helped people better\nunderstand the ocean depths and know the importance of protecting its nature and\nmarine environment.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-44-5.png"
             }
           ]
         },
@@ -49671,27 +50238,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "كانت عالمة الفلك ليلى تنتظر ظهور مذنب نادر ومميز للغاية.\nيقترب هذا المذنب من الأرض مرة واحدة كل مئة عام فقط. كانت تريد التقاط صور\nعالية الجودة لذيله الساطع.",
-              "en": "The astronomer Layla was waiting for the appearance\nof a rare and very distinct comet. This comet approaches Earth only once every\nhundred years. She wanted to take high-quality pictures of its bright tail."
+              "en": "The astronomer Layla was waiting for the appearance\nof a rare and very distinct comet. This comet approaches Earth only once every\nhundred years. She wanted to take high-quality pictures of its bright tail.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-45-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "نظمت ليلى مدرسة مسائية صغيرة وممتعة للأطفال المهتمين بالفلك\nعلى تلة مرتفعة خارج المدينة. جاء الكثير من الأطفال الصغار برفقة والديهم لمشاهدة\nالسماء الرائعة اليوم.",
-              "en": "Layla organized a small and fun evening school for\nchildren interested in astronomy on a high hill outside the city. Many young\nchildren came accompanied by their parents to watch the wonderful sky today."
+              "en": "Layla organized a small and fun evening school for\nchildren interested in astronomy on a high hill outside the city. Many young\nchildren came accompanied by their parents to watch the wonderful sky today.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-45-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "قامت ليلى بتعديل تلسكوب كبير ووضعت النجوم بوضوح أمام\nالأطفال. كانت تشرح لهم قوانين الكون وحركة الكواكب بكلمات بسيطة وسهلة\nالفهم. استمع الجميع بشغف واهتمام.",
-              "en": "Layla adjusted a large telescope and placed the\nstars clearly before the children. She explained to them the laws of the\nuniverse and planetary movement in simple, easy-to-understand words. Everyone\nlistened with passion and interest."
+              "en": "Layla adjusted a large telescope and placed the\nstars clearly before the children. She explained to them the laws of the\nuniverse and planetary movement in simple, easy-to-understand words. Everyone\nlistened with passion and interest.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-45-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "وأخيراً، ظهر المذنب الساطع في السماء المظلمة. ترك ضوؤه خطاً\nلامعاً وجميلاً في الأعالي. صمت الجميع ونظروا بذهول إلى هذا المشهد الرائع والجميل\nمن مشاهد الطبيعة.",
-              "en": "Finally, the bright comet appeared in the dark sky.\nIts light left a shiny, beautiful line in the heights. Everyone fell silent and\nlooked in awe at this wonderful and beautiful sight of nature."
+              "en": "Finally, the bright comet appeared in the dark sky.\nIts light left a shiny, beautiful line in the heights. Everyone fell silent and\nlooked in awe at this wonderful and beautiful sight of nature.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-45-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "ساعد هذا المساء الجميل الأطفال على حب العلوم واستكشاف\nالفضاء. قرر بعضهم أن يصبحوا علماء فلك في المستقبل. فهمت ليلى أن عملها\nوجهدها يحملان قيمة كبيرة للمجتمع.",
-              "en": "This beautiful evening helped the children fall in\nlove with science and space exploration. Some of them decided to become\nastronomers in the future. Layla understood that her work and effort hold great\nvalue for society."
+              "en": "This beautiful evening helped the children fall in\nlove with science and space exploration. Some of them decided to become\nastronomers in the future. Layla understood that her work and effort hold great\nvalue for society.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-45-5.png"
             }
           ]
         },
@@ -49758,27 +50330,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "عثر المبرمج سمير في منزل جدته القديم على ألبوم صور أسود\nوأبيض قديم جداً. كانت هناك صور لعائلته ولقطات توضح معالم الحياة في المدينة\nقبل مئة عام.",
-              "en": "The programmer Samir found a very old\nblack-and-white photo album in his grandmother's old house. There were photos of\nhis family and shots illustrating the features of life in the city a hundred\nyears ago."
+              "en": "The programmer Samir found a very old\nblack-and-white photo album in his grandmother's old house. There were photos of\nhis family and shots illustrating the features of life in the city a hundred\nyears ago.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-46-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "قرر سمير تحويل هذه الصور واللقطات إلى تنسيق رقمي حديث لحفظ\nتاريخ العائلة من الضياع. كان يدرك جيداً أن الورق القديم قد يتلف مع مرور السنوات\nالطويلة.",
-              "en": "Samir decided to convert these photos and shots\ninto a modern digital format to preserve the family history from loss. He\nunderstood well that old paper could get damaged with the passage of many years."
+              "en": "Samir decided to convert these photos and shots\ninto a modern digital format to preserve the family history from loss. He\nunderstood well that old paper could get damaged with the passage of many years.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-46-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "استخدم سمير جهاز المسح الضوئي وكتب برنامجاً خاصاً على\nحاسوبه الشخصي. كان هذا البرنامج يزيل الغبار والخدوش من الصور ويجعل الوجوه\nالقديمة واضحة وجميلة للغاية.",
-              "en": "Samir used a scanner and wrote a special program on\nhis personal computer. This program removed dust and scratches from the photos\nand made old faces extremely clear and beautiful."
+              "en": "Samir used a scanner and wrote a special program on\nhis personal computer. This program removed dust and scratches from the photos\nand made old faces extremely clear and beautiful.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-46-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "نشر سمير الألبوم الرقمي الجاهز على شبكة الإنترنت وأرسل\nالرابط إلى جميع أقاربه في المدن الأخرى. غمرت السعادة قلوب الجميع لرؤية\nجذورهم وتاريخ عائلتهم المشترك بالصور.",
-              "en": "Samir published the completed digital album on the\ninternet and sent the link to all his relatives in other cities. Happiness\nfilled everyone's hearts to see their roots and shared family history through\nthe pictures."
+              "en": "Samir published the completed digital album on the\ninternet and sent the link to all his relatives in other cities. Happiness\nfilled everyone's hearts to see their roots and shared family history through\nthe pictures.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-46-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "بفضل التكنولوجيا الحديثة والمتقدمة، تم حفظ تاريخ العائلة\nبأمان تام للأطفال والأجيال القادمة. فهم سمير أن مهاراته التقنية يمكنها أن\nتخدم أهدافاً طيبة ونبيلة في المجتمع.",
-              "en": "Thanks to modern and advanced technology, the\nfamily history was saved completely safely for children and future generations.\nSamir understood that his technical skills could serve kind and noble goals in\nsociety."
+              "en": "Thanks to modern and advanced technology, the\nfamily history was saved completely safely for children and future generations.\nSamir understood that his technical skills could serve kind and noble goals in\nsociety.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-46-5.png"
             }
           ]
         },
@@ -49845,27 +50422,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "حصل المهندس المعماري أنس على طلب لتصميم مركز مجتمعي جديد\nومتميز في المدينة. وقرر جعل هذا المبنى صديقاً للبيئة ونظيفاً تماماً بالاعتماد\nعلى الطبيعة.",
-              "en": "The architect Anas received a request to design a\nnew and distinct community center in the city. He decided to make this building\neco-friendly and completely clean by relying on nature."
+              "en": "The architect Anas received a request to design a\nnew and distinct community center in the city. He decided to make this building\neco-friendly and completely clean by relying on nature.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-47-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "قام أنس بتعديل هيكل وتصميم السقف للسماح بمرور أكبر قدر من\nضوء الشمس الطبيعي داخل مبنى المركز الجديد. ساعد هذا الحل في تقليل استخدام\nالمصابيح الكهربائية نهاراً.",
-              "en": "Anas modified the structure and design of the roof\nto allow the maximum amount of natural sunlight inside the new center building.\nThis solution helped reduce the use of electric lamps during the day."
+              "en": "Anas modified the structure and design of the roof\nto allow the maximum amount of natural sunlight inside the new center building.\nThis solution helped reduce the use of electric lamps during the day.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-47-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "خطط أنس لزراعة حديقة خضراء واسعة وجميلة على سقف المركز\nالجديد. وقام بوضع نظام ذكي لجمع مياه الأمطار وري النباتات تلقائياً دون\nالحاجة إلى تدخل بشري دائم.",
-              "en": "Anas planned to plant a large and beautiful green\ngarden on the roof of the new center. He placed a smart system to collect\nrainwater and water the plants automatically without the need for constant human\nintervention."
+              "en": "Anas planned to plant a large and beautiful green\ngarden on the roof of the new center. He placed a smart system to collect\nrainwater and water the plants automatically without the need for constant human\nintervention.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-47-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "بدأ البناء والعمال عملهم بنشاط باستخدام مواد آمنة ومصنوعة\nبالكامل من الخشب المعتمد بيئياً. كان سكان المدينة يتابعون ببالغ الاهتمام خطوات\nبناء هذا المبنى الأخضر والمميز.",
-              "en": "The construction and the workers began their work\nenergetically, using safe materials made entirely from environmentally certified\nwood. The city residents followed with great interest the steps of building this\ndistinct green building."
+              "en": "The construction and the workers began their work\nenergetically, using safe materials made entirely from environmentally certified\nwood. The city residents followed with great interest the steps of building this\ndistinct green building.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-47-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "غدا المركز الجديد أجمل مكان في المدينة كلها. كان الناس\nيزورونه للاسترخاء والراحة تحت ظلال الأشجار الخضراء. أثبت أنس للجميع الفوائد\nالكبيرة والنبيلة لأفكار العمارة الخضراء.",
-              "en": "The new center became the most beautiful place in\nthe entire city. People visited it to relax and rest under the shade of the\ngreen trees. Anas proved to everyone the great and noble benefits of green\narchitecture ideas."
+              "en": "The new center became the most beautiful place in\nthe entire city. People visited it to relax and rest under the shade of the\ngreen trees. Anas proved to everyone the great and noble benefits of green\narchitecture ideas.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-47-5.png"
             }
           ]
         },
@@ -49932,27 +50514,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "تلقّت مهندسة الحدائق منى طلباً متميزاً لإعادة تخطيط حديقة\nدير قديم في ضواحي المدينة. كانت هذه الحديقة الكبيرة مهجورة ومنسية بالكامل منذ\nسنوات طويلة ونمت فيها الحشائش البرية.",
-              "en": "The landscape architect Mona received a distinct\nrequest to re-plan the garden of an old monastery in the suburbs of the city.\nThis large garden had been completely abandoned and forgotten for many years,\nand wild grasses grew in it."
+              "en": "The landscape architect Mona received a distinct\nrequest to re-plan the garden of an old monastery in the suburbs of the city.\nThis large garden had been completely abandoned and forgotten for many years,\nand wild grasses grew in it.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-48-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "رسمت منى خطة تصميم جديدة ومتميزة للحديقة القديمة. وقررت وضع\nصخور رمادية كبيرة بالقرب من بركة الماء وصنع مسارات رملية ناعمة من أجل نزهات\nهادئة وصامتة للزوار.",
-              "en": "Mona drew a new and distinct design plan for the\nold garden. She decided to place large grey rocks near the water pool and make\nsmooth sandy paths for quiet and silent walks for visitors."
+              "en": "Mona drew a new and distinct design plan for the\nold garden. She decided to place large grey rocks near the water pool and make\nsmooth sandy paths for quiet and silent walks for visitors.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-48-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "زرعت منى طحالب خضراء ناعمة في الأماكن الظليلة، ووضعت\nأشجاراً جميلة ومميزة في قلب الحديقة الجديدة. كانت هذه الأشجار الجميلة\nتغير ألوان أوراقها مع تغير الفصول المختلفة للعام.",
-              "en": "Mona planted soft green moss in the shaded areas\nand placed beautiful and distinct trees in the heart of the new garden. These\nbeautiful trees changed the colors of their leaves with the changing of the\ndifferent seasons of the year."
+              "en": "Mona planted soft green moss in the shaded areas\nand placed beautiful and distinct trees in the heart of the new garden. These\nbeautiful trees changed the colors of their leaves with the changing of the\ndifferent seasons of the year.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-48-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "كانت منى تريد خلق بيئة هادئة ومساحة آمنة حيث يمكن لكل شخص\nزيارة المكان ونسيان هموم ومشاكل المدينة، والجلوس بصمت تام لمراجعة حياته وتأمل\nذاته وروحه.",
-              "en": "Mona wanted to create a quiet environment and a\nsafe space where every person could visit the place and forget the worries and\nproblems of the city, and sit in complete silence to review their life and\ncontemplate their self and soul."
+              "en": "Mona wanted to create a quiet environment and a\nsafe space where every person could visit the place and forget the worries and\nproblems of the city, and sit in complete silence to review their life and\ncontemplate their self and soul.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-48-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "غدت الحديقة القديمة مكاناً حقيقياً للراحة والسلام الداخلي\nللناس. كانوا يأتون للاستماع لصوت الماء وحركة الرياح بلطف. كانت منى سعيدة\nبتمكنها من إعادة الجمال والروح لتلك الأرض القديمة.",
-              "en": "The old garden became a true place of rest and\ninner peace for people. They came to listen to the sound of water and the\nmovement of the wind gently. Mona was happy to have been able to return beauty\nand spirit to that old land."
+              "en": "The old garden became a true place of rest and\ninner peace for people. They came to listen to the sound of water and the\nmovement of the wind gently. Mona was happy to have been able to return beauty\nand spirit to that old land.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-48-5.png"
             }
           ]
         },
@@ -50019,27 +50606,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "كان المهندس يوسف يعمل بجد على تطوير واختراع طائرة صغيرة\nبدون طيار (درون). كانت هذه الطائرة تتميز بقدرتها على الطيران بالاعتماد\nالكامل على طاقة الشمس النظيفة فقط.",
-              "en": "The engineer Youssef was working hard on developing\nand inventing a small unmanned aerial vehicle (drone). This plane was\ndistinguished by its ability to fly relying completely on clean solar energy\nalone."
+              "en": "The engineer Youssef was working hard on developing\nand inventing a small unmanned aerial vehicle (drone). This plane was\ndistinguished by its ability to fly relying completely on clean solar energy\nalone.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-49-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "كان الهدف الرئيسي للمشروع هو نقل الأجهزة الطبية والأدوية\nالطارئة للناس المحتاجين في المناطق الجبلية النائية التي دمرت العواصف والأمطار\nالطرق والمسارات المؤدية إليها بالكامل.",
-              "en": "The main goal of the project was to transport\nmedical devices and emergency medicines to needy people in remote mountainous\nareas whose roads and paths leading to them were completely destroyed by storms\nand rain."
+              "en": "The main goal of the project was to transport\nmedical devices and emergency medicines to needy people in remote mountainous\nareas whose roads and paths leading to them were completely destroyed by storms\nand rain.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-49-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "في صباح يوم مشمس وجميل، أخذ يوسف الطائرة إلى حقل واسع\nلإجراء الاختبار الأول. طارت الطائرة بدون طيار بهدوء وصمت نحو الجبال\nالبعيدة مستخدمة قوة ضوء الشمس فقط.",
-              "en": "On a sunny and beautiful morning, Youssef took the\nplane to a wide field to conduct the first test. The drone flew quietly and\nsilently towards the distant mountains using only the power of sunlight."
+              "en": "On a sunny and beautiful morning, Youssef took the\nplane to a wide field to conduct the first test. The drone flew quietly and\nsilently towards the distant mountains using only the power of sunlight.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-49-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "في الجبال، بدأت رياح قوية ومفاجئة تهب في الأعالي. لكن بفضل\nالهيكل المتين والتصميم الذكي للجناح، تمكنت الطائرة من الحفاظ على توازنها الكامل\nوواصلت رحلتها بثقة تامة.",
-              "en": "In the mountains, strong and sudden winds began to\nblow in the heights. But thanks to the durable structure and smart design of the\nwing, the plane managed to maintain its complete balance and continued its\njourney with full confidence."
+              "en": "In the mountains, strong and sudden winds began to\nblow in the heights. But thanks to the durable structure and smart design of the\nwing, the plane managed to maintain its complete balance and continued its\njourney with full confidence.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-49-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "أوصلت الطائرة الحمولة الطبية بنجاح كبير ودقة تامة إلى\nالموقع المحدد. كان يوسف سعيداً؛ فقد أثبتت تكنولوجياه الجديدة فائدتها\nوساهمت في عمل خطوة نحو إنقاذ حياة الناس.",
-              "en": "The plane delivered the medical cargo with great\nsuccess and complete accuracy to the specified location. Youssef was happy; his\nnew technology had proved its utility and contributed to making a step toward\nsaving people's lives."
+              "en": "The plane delivered the medical cargo with great\nsuccess and complete accuracy to the specified location. Youssef was happy; his\nnew technology had proved its utility and contributed to making a step toward\nsaving people's lives.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-49-5.png"
             }
           ]
         },
@@ -50106,27 +50698,32 @@ window.LANGUAGE_CURRICULUM = {
             {
               "heading": "Page 1",
               "ru": "كانت عالمة الأحياء هبة تدرس النظام البيئي الدقيق للغابة\nالمحلية منذ سنوات طويلة. كانت تراقب عن كثب كيف تعيش الحيوانات الصغيرة وكيف\nتنمو وتتطور الأشجار العالية.",
-              "en": "The biologist Heba had studied the delicate\necological system of the local forest for many years. She closely monitored how\nsmall animals live and how tall trees grow and develop."
+              "en": "The biologist Heba had studied the delicate\necological system of the local forest for many years. She closely monitored how\nsmall animals live and how tall trees grow and develop.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-50-1.png"
             },
             {
               "heading": "Page 2",
               "ru": "لاحظت هبة كيف تتحول الأوراق المتساقطة إلى تربة خصبة،\nوالتربة تمنح القوة للأشجار الكبيرة لتنمو، والأشجار بدورها تصبح بيتاً\nآمناً ودافئاً للطيور والحيوانات الصغيرة.",
-              "en": "Heba observed how fallen leaves turn into fertile\nsoil, the soil gives strength to big trees to grow, and the trees in turn become\na safe and warm home for birds and small animals."
+              "en": "Heba observed how fallen leaves turn into fertile\nsoil, the soil gives strength to big trees to grow, and the trees in turn become\na safe and warm home for birds and small animals.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-50-2.png"
             },
             {
               "heading": "Page 3",
               "ru": "في عطلة نهاية الأسبوع، دعت هبة الأطفال الصغار إلى الغابة\nلتوضح لهم هذا الهيكل المترابط. وكانت تشرح لهم بحب قائلة: \"على أرضنا الجميلة،\nكل أشكال الحياة متصلة بدائرة واحدة\".",
-              "en": "On the weekend, Heba invited young children into\nthe forest to explain to them this interconnected structure. She lovingly\nexplained to them, saying: \"On our beautiful earth, all forms of life are\nconnected in one circle.\""
+              "en": "On the weekend, Heba invited young children into\nthe forest to explain to them this interconnected structure. She lovingly\nexplained to them, saying: \"On our beautiful earth, all forms of life are\nconnected in one circle.\"",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-50-3.png"
             },
             {
               "heading": "Page 4",
               "ru": "بدأ الأطفال يستكشفون بأنفسهم ويبحثون عن الكائنات الحية\nالصغيرة تحت الأوراق وينظرون إلى النباتات بذهول. وفهموا أن الإنسان أيضاً\nيمثل جزءاً كبيراً من دائرة الطبيعة المترابطة.",
-              "en": "The children began to explore for themselves,\nsearching for small living creatures under the leaves and looking at plants in\nawe. They understood that humans also represent a big part of nature's\ninterconnected circle."
+              "en": "The children began to explore for themselves,\nsearching for small living creatures under the leaves and looking at plants in\nawe. They understood that humans also represent a big part of nature's\ninterconnected circle.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-50-4.png"
             },
             {
               "heading": "Page 5",
               "ru": "شاهدت هبة الاهتمام واللمعان في عيون الأطفال. وأدركت جيداً\nأن التعليم البيئي السليم هو الطريقة الفضلى والوحيدة لحماية طبيعة كوكبنا الجميل\nوبيئته الرائعة في المستقبل.",
-              "en": "Heba watched the interest and sparkle in the\nchildren's eyes. She realized well that sound environmental education is the\nbest and only way to protect the nature and wonderful environment of our\nbeautiful planet in the future."
+              "en": "Heba watched the interest and sparkle in the\nchildren's eyes. She realized well that sound environmental education is the\nbest and only way to protect the nature and wonderful environment of our\nbeautiful planet in the future.",
+              "image": "https://github.com/KingKush99/languages/releases/download/story-images-v1/story-arabic-advanced-50-5.png"
             }
           ]
         }
