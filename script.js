@@ -3940,7 +3940,7 @@ function getCurrentChatIdentity() {
 }
 
 function getAuthRedirectTarget() {
-  return `${location.pathname || "/"}${location.search || ""}${location.hash || ""}`;
+  return window.location.href;
 }
 
 function updateAuthUi() {
