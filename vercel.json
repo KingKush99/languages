@@ -11,5 +11,10 @@
         { "key": "Vary", "value": "Origin" }
       ]
     }
+  ],
+  "rewrites": [
+    { "source": "/api/auth/:path*", "destination": "/api/auth?path=:path*" },
+    { "source": "/api/chat/:path*", "destination": "/api/chat?path=:path*" },
+    { "source": "/api/dms/:path*", "destination": "/api/dms?path=:path*" }
   ]
 }
