@@ -5649,9 +5649,15 @@ select, input, textarea {
   right: 12px !important;
   order: unset !important;
   margin: 0 !important;
-  width: 34px !important;
+  width: 44px !important;
   height: 34px !important;
   z-index: 3 !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 2px !important;
+  font-size: 1.05rem !important;
+  letter-spacing: 0 !important;
 }
 
 .chat-window .chat-lang-dropdown {
@@ -5660,8 +5666,8 @@ select, input, textarea {
   right: 12px !important;
   order: unset !important;
   margin: 0 !important;
-  width: 34px !important;
-  min-width: 34px !important;
+  width: 44px !important;
+  min-width: 44px !important;
   height: 34px !important;
   z-index: 4 !important;
   opacity: 0.02 !important;
