@@ -7,3 +7,5 @@ node_modules/
 languages/*/assets/story-ai/
 Music/
 .release-upload/
+
+.vercel

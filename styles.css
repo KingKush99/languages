@@ -5632,3 +5632,129 @@ select, input, textarea {
   color: var(--muted);
   font-weight: 800;
 }
+
+/* Final widget polish overrides */
+.chat-window .chat-header {
+  position: relative !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+  min-height: 58px !important;
+  padding: 10px 52px 10px 14px !important;
+}
+
+.chat-window .chat-globe {
+  position: absolute !important;
+  top: 10px !important;
+  right: 12px !important;
+  order: unset !important;
+  margin: 0 !important;
+  width: 34px !important;
+  height: 34px !important;
+  z-index: 3 !important;
+}
+
+.chat-window .chat-lang-dropdown {
+  position: absolute !important;
+  top: 10px !important;
+  right: 12px !important;
+  order: unset !important;
+  margin: 0 !important;
+  width: 34px !important;
+  min-width: 34px !important;
+  height: 34px !important;
+  z-index: 4 !important;
+  opacity: 0.02 !important;
+  cursor: pointer !important;
+}
+
+.chat-window .chat-lang-dropdown option {
+  color: #fff !important;
+  background: #020617 !important;
+}
+
+.slots-widget .slots-main-area {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) 50px !important;
+}
+
+.slots-widget .slot-lever {
+  position: relative !important;
+  width: 48px !important;
+  height: 126px !important;
+  display: grid !important;
+  justify-items: center !important;
+  align-items: start !important;
+  transform: none !important;
+  cursor: grab !important;
+  touch-action: none !important;
+}
+
+.slots-widget .slot-lever::before {
+  content: "" !important;
+  position: absolute !important;
+  top: 20px !important;
+  bottom: 10px !important;
+  left: 50% !important;
+  width: 16px !important;
+  transform: translateX(-50%) !important;
+  border-radius: 999px !important;
+  background: linear-gradient(90deg, #111827 0%, #f8fafc 45%, #475569 100%) !important;
+  border: 2px solid #020617 !important;
+  box-shadow: inset -4px 0 8px rgba(0,0,0,0.42), 0 4px 0 rgba(0,0,0,0.35) !important;
+}
+
+.slots-widget .slot-lever .lever-stick {
+  display: block !important;
+  position: absolute !important;
+  top: 22px !important;
+  left: 50% !important;
+  width: 12px !important;
+  height: 86px !important;
+  margin: 0 !important;
+  transform: translateX(-50%) !important;
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+}
+
+.slots-widget .slot-lever .lever-knob {
+  position: absolute !important;
+  top: 0 !important;
+  left: 50% !important;
+  width: 44px !important;
+  height: 44px !important;
+  transform: translate(-50%, var(--lever-pull, 0px)) !important;
+  transition: transform 0.08s ease-out !important;
+  z-index: 2 !important;
+}
+
+.slots-widget .slot-lever.pulled .lever-knob {
+  transform: translate(-50%, 48px) !important;
+}
+
+.slots-widget .slots-controls {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 14px !important;
+}
+
+.slots-widget .auto-spin-label {
+  width: auto !important;
+  min-height: auto !important;
+  padding: 0 !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  color: #fff !important;
+  gap: 6px !important;
+}
+
+.slots-widget .auto-spin-label input {
+  width: 20px !important;
+  height: 20px !important;
+  margin: 0 !important;
+  accent-color: #ef4444 !important;
+}

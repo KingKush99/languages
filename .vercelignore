@@ -1,1 +1,14 @@
 server.js
+.git/
+.agents/
+.codex/
+.release-assets/
+.release-upload/
+Stories/Images/
+Music/
+**/Music/
+**/*.wav
+**/*.mp3
+**/*.flac
+**/*.m4a
+**/*.mp4
