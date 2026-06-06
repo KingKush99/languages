@@ -11,9 +11,5 @@
         { "key": "Vary", "value": "Origin" }
       ]
     }
-  ],
-  "rewrites": [
-    { "source": "/api/:path*", "destination": "/server.js" },
-    { "source": "/ads.txt", "destination": "/server.js" }
   ]
 }
