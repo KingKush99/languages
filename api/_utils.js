@@ -151,7 +151,7 @@ function normalizeChatText(value, maxLength = 500) {
 }
 
 function getPublicOrigin(req) {
-  const envOrigin = process.env.PUBLIC_APP_URL || "";
+  const envOrigin = process.env.BACKEND_PUBLIC_URL || process.env.PUBLIC_API_URL || "";
   if (envOrigin) return envOrigin.replace(/\/$/, "");
   const forwardedHost = req.headers["x-forwarded-host"];
   const hostHeader = forwardedHost || req.headers.host || "localhost";
