@@ -2277,6 +2277,8 @@ const els = {
   practiceView: document.querySelector("#practiceView"),
   storiesView: document.querySelector("#storiesView"),
   profileView: document.querySelector("#profileView"),
+  profileSignInPanel: document.querySelector("#profileSignInPanel"),
+  profileGoogleSignInBtn: document.querySelector("#profileGoogleSignInBtn"),
   profileLayout: document.querySelector(".profile-layout"),
   publicProfilePage: document.querySelector("#publicProfilePage"),
   bandSelect: document.querySelector("#bandSelect"),
@@ -2473,6 +2475,11 @@ const els = {
   toggleTwitchBtn: document.querySelector("#toggleTwitchBtn"),
   
   dmWidget: document.querySelector("#dmWidget"),
+  newDmForm: document.querySelector("#newDmForm"),
+  newDmRecipient: document.querySelector("#newDmRecipient"),
+  newDmMessage: document.querySelector("#newDmMessage"),
+  newDmSendBtn: document.querySelector("#newDmSendBtn"),
+  newDmStatus: document.querySelector("#newDmStatus"),
   dmList: document.querySelector("#dmList"),
   closeDMBtn: document.querySelector("#closeDMBtn"),
   toggleDMBtn: document.querySelector("#toggleDMBtn"),
@@ -3096,7 +3103,6 @@ function selectStory() {
 }
 
 function switchView(view) {
-  if (view === "profile" && !requireGoogleAuth("Profiles")) return false;
   appState.activeView = view;
   const isStories = view === "stories";
   const isProfile = view === "profile";
@@ -3952,6 +3958,14 @@ function updateAuthUi() {
   }
   if (els.googleSignInBtn) els.googleSignInBtn.hidden = appState.auth.signedIn;
   if (els.googleSignOutBtn) els.googleSignOutBtn.hidden = !appState.auth.signedIn;
+  if (!appState.auth.signedIn) {
+    renderMascotAvatar(els.profileAvatarContainer, "👤", { color: "#64748b", small: true });
+  } else if (appState.profile?.customization) {
+    renderMascotAvatar(els.profileAvatarContainer, appState.profile.customization.mascot, {
+      color: appState.profile.customization.avatarColor || "#f59e0b",
+      small: true
+    });
+  }
 }
 
 async function syncAuthState() {
@@ -4027,6 +4041,7 @@ els.hamburgerBtn.addEventListener("click", (event) => {
 });
 els.closeHamburgerBtn?.addEventListener("click", () => els.hamburgerMenu.hidden = true);
 els.googleSignInBtn?.addEventListener("click", startGoogleSignIn);
+els.profileGoogleSignInBtn?.addEventListener("click", startGoogleSignIn);
 els.googleSignOutBtn?.addEventListener("click", signOutGoogle);
 
 els.openStoreBtn.addEventListener("click", () => els.storeModal.hidden = false);
@@ -4365,7 +4380,10 @@ let slotLeverPull = 0;
 
 function renderSlotReels(reelsCount = parseInt(els.slotReelSelect?.value || "3", 10), fillSymbol = "\uD83C\uDF52") {
   if (!els.slotsDisplay) return [];
-  const count = Math.max(3, Math.min(12, Number(reelsCount) || 3));
+  const count = Math.max(3, Math.min(6, Number(reelsCount) || 3));
+  if (els.slotReelSelect && String(count) !== String(els.slotReelSelect.value)) {
+    els.slotReelSelect.value = String(count);
+  }
   els.slotsDisplay.innerHTML = "";
   const reelEls = [];
   for (let i = 0; i < count; i += 1) {
@@ -4389,7 +4407,7 @@ function renderSlotReels(reelsCount = parseInt(els.slotReelSelect?.value || "3",
 
 function spinSlots() {
   const bet = parseInt(els.slotBetSelect.value);
-  const reelsCount = parseInt(els.slotReelSelect.value);
+  const reelsCount = Math.max(3, Math.min(6, parseInt(els.slotReelSelect.value, 10) || 3));
   
   if (appState.coins < bet) {
     els.slotResultOverlay.textContent = "Not enough coins!";
@@ -5432,9 +5450,15 @@ function renderMascotAvatar(target, mascot, options = {}) {
 }
 
 function renderProfile() {
-  const p = appState.profile;
-  if (els.profileLayout) els.profileLayout.hidden = false;
+  const signedIn = Boolean(appState.auth?.signedIn);
+  if (els.profileSignInPanel) els.profileSignInPanel.hidden = signedIn;
+  if (els.profileLayout) els.profileLayout.hidden = !signedIn;
   if (els.publicProfilePage) els.publicProfilePage.hidden = true;
+  if (!signedIn) {
+    renderMascotAvatar(els.profileAvatarContainer, "👤", { color: "#64748b", small: true });
+    return;
+  }
+  const p = appState.profile;
   els.profileDisplayName.textContent = p.displayName;
   if (els.profileDisplayNameSummary) els.profileDisplayNameSummary.textContent = p.displayName;
   els.profileUsername.textContent = `@${p.username}`;
@@ -5878,6 +5902,42 @@ async function reportDMMessage(messageId, reportedUserName) {
   }
 }
 
+async function startNewDM(event) {
+  event?.preventDefault?.();
+  if (!requireGoogleAuth("DMs")) return;
+  const toName = (els.newDmRecipient?.value || "").trim();
+  const message = (els.newDmMessage?.value || "").trim();
+  if (!toName || !message) {
+    if (els.newDmStatus) els.newDmStatus.textContent = "Enter a recipient and a message.";
+    return;
+  }
+  if (toName.toLowerCase() === socialDataStore.getOwnName().toLowerCase()) {
+    if (els.newDmStatus) els.newDmStatus.textContent = "Choose someone other than yourself.";
+    return;
+  }
+  if (els.newDmSendBtn) {
+    els.newDmSendBtn.disabled = true;
+    els.newDmSendBtn.textContent = "Sending...";
+  }
+  if (els.newDmStatus) els.newDmStatus.textContent = "";
+  try {
+    const sent = await sendServerDM(toName, message);
+    if (!sent) socialDataStore.sendMessage(toName, message);
+    socialDataStore.getProfile(toName);
+    if (els.newDmRecipient) els.newDmRecipient.value = "";
+    if (els.newDmMessage) els.newDmMessage.value = "";
+    if (els.newDmStatus) els.newDmStatus.textContent = `DM sent to ${toName}.`;
+    await renderDMInbox();
+  } catch (error) {
+    if (els.newDmStatus) els.newDmStatus.textContent = error.message || "DM could not be sent.";
+  } finally {
+    if (els.newDmSendBtn) {
+      els.newDmSendBtn.disabled = false;
+      els.newDmSendBtn.textContent = "Send";
+    }
+  }
+}
+
 async function renderDMInbox() {
   if (!els.dmList) return;
   const ownName = socialDataStore.getOwnName();
@@ -5936,6 +5996,8 @@ async function renderDMInbox() {
 function initDMs() {
   renderDMInbox();
 }
+
+els.newDmForm?.addEventListener("submit", startNewDM);
 
 els.dmList?.addEventListener("click", (event) => {
   const acceptButton = event.target.closest("[data-accept-request]");

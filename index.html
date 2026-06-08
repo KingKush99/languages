@@ -271,6 +271,12 @@
         <section id="profileView" class="reader-view profile-page-view" hidden>
           <button id="profileBackBtn" class="profile-back-btn" type="button">Back</button>
           <button id="profileCloseBtn" class="profile-close-page-btn" type="button" aria-label="Close profile">x</button>
+          <div id="profileSignInPanel" class="profile-signin-panel glass-panel" hidden>
+            <div class="profile-signin-icon" aria-hidden="true">👤</div>
+            <h2>Sign in to view your profile</h2>
+            <p>Use Google sign-in to access your profile, DMs, friends, achievements, and saved progress.</p>
+            <button id="profileGoogleSignInBtn" class="auth-btn profile-google-signin-btn" type="button">Sign in with Google</button>
+          </div>
           <div class="profile-layout">
             
             <!-- 1. Header Profile Card (Avatar Circle, Horizontal Stats, Bio Details) -->
@@ -760,7 +766,7 @@
     <div class="chatbot-widget" id="chatbotWidget">
       <div id="chatWindow" class="chat-window glass-panel" hidden>
          <div class="chat-header">
-           <span class="chat-globe" aria-hidden="true">🌐⌄</span>
+           <span class="chat-globe" aria-hidden="true">🌐</span>
            <select id="chatLanguageSelect" class="chat-lang-dropdown">
              <option value="Afrikaans">Afrikaans</option>
              <option value="Albanian">Albanian</option>
@@ -920,7 +926,7 @@
 
     <div class="slots-widget glass-panel" id="slotsWidget" hidden>
       <button class="slots-close-btn" id="slotsCloseBtn" type="button">×</button>
-      <div class="slots-header">Mini Slots</div>
+      <div class="slots-header" aria-hidden="true"></div>
       
       <div class="slots-main-area">
         <div class="slots-display" id="slotsDisplay">
@@ -959,12 +965,6 @@
             <option value="4">4</option>
             <option value="5">5</option>
             <option value="6">6</option>
-            <option value="7">7</option>
-            <option value="8">8</option>
-            <option value="9">9</option>
-            <option value="10">10</option>
-            <option value="11">11</option>
-            <option value="12">12</option>
           </select>
         </div>
       </div>
@@ -1001,6 +1001,12 @@
         Direct Messages 📩
         <button class="widget-close-btn" id="closeDMBtn" type="button">×</button>
       </div>
+      <form id="newDmForm" class="new-dm-form">
+        <input id="newDmRecipient" type="text" placeholder="Start DM with..." autocomplete="off" maxlength="64">
+        <input id="newDmMessage" type="text" placeholder="Message" autocomplete="off" maxlength="500">
+        <button id="newDmSendBtn" type="submit">Send</button>
+      </form>
+      <p id="newDmStatus" class="dm-compose-status"></p>
       <div class="dm-list" id="dmList">
         <!-- DM threads auto-populated -->
       </div>
