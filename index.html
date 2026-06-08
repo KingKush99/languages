@@ -31,10 +31,6 @@
 
     <!-- Side Menus -->
     <div id="hamburgerMenu" class="side-menu glass-panel" hidden>
-       <div class="menu-header">
-         <h2>Menu</h2>
-       </div>
-       
        <div class="menu-wallet">
          <div class="coin-display pulse-anim">
            <svg class="ll-coin-svg" viewBox="0 0 24 24" width="28" height="28">
@@ -43,24 +39,25 @@
            </svg>
           <span id="coinCount">0</span>
          </div>
-         <div class="auth-card" id="authCard">
-           <span id="authStatusText">Guest</span>
-           <button id="googleSignInBtn" class="auth-btn" type="button">Sign in with Google</button>
-           <button id="googleSignOutBtn" class="auth-btn ghost" type="button" hidden>Sign out</button>
-         </div>
+         <button id="coinPlusBtn" class="coin-plus-btn" type="button" aria-label="Add coins">+</button>
        </div>
 
        <div class="menu-actions">
-         <button id="openStoreBtn" class="menu-btn primary-btn" type="button">Buy Coins & Store</button>
-         <button id="openMusicBtn" class="menu-btn secondary-btn" type="button">Spotify Music Player</button>
+         <button id="openStoreBtn" class="menu-btn primary-btn" type="button">Store</button>
+         <button id="openMusicBtn" class="menu-btn secondary-btn" type="button">Music</button>
          <button id="openAchievementsBtn" class="menu-btn" type="button">Achievements</button>
+         <button id="openThemesBtn" class="menu-btn theme-menu-btn" type="button">Themes</button>
+         <button id="startTutorialBtn" class="menu-btn tutorial-btn" type="button">Tutorial</button>
+       </div>
+       
+       <div id="themesPanel" class="themes-shop" hidden>
+         <select id="themeSelect" class="theme-dropdown"></select>
        </div>
 
-       <button id="startTutorialBtn" class="menu-btn tutorial-btn" type="button">Start Tutorial</button>
-       
-       <div class="themes-shop">
-         <h3>Background Theme</h3>
-         <select id="themeSelect" class="theme-dropdown"></select>
+       <div class="auth-card" id="authCard">
+         <span id="authStatusText" hidden>Guest</span>
+         <button id="googleSignInBtn" class="auth-btn menu-btn" type="button">Sign in</button>
+         <button id="googleSignOutBtn" class="auth-btn menu-btn ghost" type="button" hidden>Sign out</button>
        </div>
     </div>
 
@@ -1002,7 +999,10 @@
         <button class="widget-close-btn" id="closeDMBtn" type="button">×</button>
       </div>
       <form id="newDmForm" class="new-dm-form">
-        <input id="newDmRecipient" type="text" placeholder="Start DM with..." autocomplete="off" maxlength="64">
+        <div class="dm-user-search-wrap">
+          <input id="newDmRecipient" type="text" placeholder="Search registered user..." autocomplete="off" maxlength="64" aria-haspopup="listbox" aria-expanded="false">
+          <div id="dmUserDropdown" class="dm-user-dropdown" role="listbox" hidden></div>
+        </div>
         <input id="newDmMessage" type="text" placeholder="Message" autocomplete="off" maxlength="500">
         <button id="newDmSendBtn" type="submit">Send</button>
       </form>
@@ -1116,7 +1116,7 @@
     <!-- Clippy Guide -->
     <div id="clippyGuide" class="clippy-guide" hidden style="position: fixed; bottom: 20px; right: 20px; z-index: 1000; display: flex; align-items: flex-end; gap: 10px; pointer-events: none;">
        <div class="clippy-speech-bubble glass-panel" id="clippyMessage" style="padding: 12px; border-radius: 12px; border-bottom-right-radius: 0; max-width: 200px; font-weight: bold; font-size: 0.9rem; margin-bottom: 30px;">Welcome! Let me guide you.</div>
-       <div class="clippy-avatar circular-avatar-wrapper" id="clippyAvatar" style="width: 80px; height: 80px; border: 3px solid var(--primary); pointer-events: auto; cursor: pointer;"></div>
+       <div class="clippy-avatar circular-avatar-wrapper" id="clippyAvatar" style="width: 92px; height: 92px; border: 3px solid var(--primary); pointer-events: auto; cursor: pointer;"></div>
     </div>
 
   </body>

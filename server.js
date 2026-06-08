@@ -462,6 +462,20 @@ async function handleDirectMessages(req, res, url) {
     return;
   }
   if (req.method === "GET") {
+    if (url.pathname === "/api/dms/users") {
+      const query = normalizeChatText(url.searchParams.get("q") || "", 64).toLowerCase();
+      const params = query ? [authUser.id, `%${query}%`] : [authUser.id];
+      const result = await db.query(
+        `select id, display_name as "displayName", picture
+         from auth_users
+         ${query ? "where lower(display_name) like $2" : ""}
+         order by case when id = $1 then 0 else 1 end, updated_at desc
+         limit 20`,
+        params
+      );
+      sendJson(res, 200, { users: result.rows });
+      return;
+    }
     const ownName = normalizeChatText(authUser.displayName, 64);
     const result = await db.query(
       `select id, from_user_id as "fromUserId", from_name as "from", to_name as "to", message, status, created_at as "createdAt"
@@ -490,11 +504,24 @@ async function handleDirectMessages(req, res, url) {
     sendJson(res, 400, { error: "Recipient and message are required." });
     return;
   }
+  const recipient = await db.query(
+    `select id, display_name as "displayName"
+     from auth_users
+     where lower(display_name) = lower($1)
+     limit 1`,
+    [toName]
+  );
+  const recipientUser = recipient.rows[0];
+  if (!recipientUser) {
+    sendJson(res, 404, { error: "Choose a registered signed-in user." });
+    return;
+  }
+  const normalizedRecipientName = normalizeChatText(recipientUser.displayName, 64);
   const pending = await db.query(
     `select count(*)::int as count
      from direct_messages
      where from_name = $1 and to_name = $2 and status = 'pending'`,
-    [fromName, toName]
+    [fromName, normalizedRecipientName]
   );
   if ((pending.rows[0]?.count || 0) >= 3) {
     sendJson(res, 429, { error: "You can send up to three messages without a reply." });
@@ -504,7 +531,7 @@ async function handleDirectMessages(req, res, url) {
     `insert into direct_messages (from_user_id, from_name, to_name, message)
      values ($1, $2, $3, $4)
      returning id, from_user_id as "fromUserId", from_name as "from", to_name as "to", message, status, created_at as "createdAt"`,
-    [fromUserId, fromName, toName, message]
+    [fromUserId, fromName, normalizedRecipientName, message]
   );
   sendJson(res, 200, { message: result.rows[0] });
 }
@@ -1062,7 +1089,7 @@ const server = http.createServer((req, res) => {
     handleGlobalChat(req, res, url);
     return;
   }
-  if (url.pathname === "/api/dms" && (req.method === "GET" || req.method === "POST")) {
+  if ((url.pathname === "/api/dms" || url.pathname === "/api/dms/users") && (req.method === "GET" || req.method === "POST")) {
     handleDirectMessages(req, res, url);
     return;
   }

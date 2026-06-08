@@ -32,11 +32,22 @@ async function messages(req, res) {
   const message = normalizeChatText(payload.message, 1000);
   if (!toName || !message) return sendJson(req, res, 400, { error: "Recipient and message are required." });
 
+  const recipient = await db.query(
+    `select id, display_name as "displayName"
+     from auth_users
+     where lower(display_name) = lower($1)
+     limit 1`,
+    [toName]
+  );
+  const recipientUser = recipient.rows[0];
+  if (!recipientUser) return sendJson(req, res, 404, { error: "Choose a registered signed-in user." });
+  const normalizedRecipientName = normalizeChatText(recipientUser.displayName, 64);
+
   const pending = await db.query(
     `select count(*)::int as count
      from direct_messages
      where from_name = $1 and to_name = $2 and status = 'pending'`,
-    [fromName, toName]
+    [fromName, normalizedRecipientName]
   );
   if ((pending.rows[0]?.count || 0) >= 3) {
     return sendJson(req, res, 429, { error: "You can send up to three messages without a reply." });
@@ -46,9 +57,29 @@ async function messages(req, res) {
     `insert into direct_messages (from_user_id, from_name, to_name, message)
      values ($1, $2, $3, $4)
      returning id, from_user_id as "fromUserId", from_name as "from", to_name as "to", message, status, created_at as "createdAt"`,
-    [fromUserId, fromName, toName, message]
+    [fromUserId, fromName, normalizedRecipientName, message]
   );
   sendJson(req, res, 200, { message: result.rows[0] });
+}
+
+async function users(req, res) {
+  const db = getPool();
+  if (!db) return sendJson(req, res, 503, { error: "DATABASE_URL is not configured." });
+  await ensureLedgerSchema();
+  const authUser = await getAuthUser(req);
+  if (!authUser) return sendJson(req, res, 401, { error: "Sign in with Google to search registered users." });
+
+  const query = normalizeChatText(req.query.q || "", 64).toLowerCase();
+  const params = query ? [authUser.id, `%${query}%`] : [authUser.id];
+  const result = await db.query(
+    `select id, display_name as "displayName", picture
+     from auth_users
+     ${query ? "where lower(display_name) like $2" : ""}
+     order by case when id = $1 then 0 else 1 end, updated_at desc
+     limit 20`,
+    params
+  );
+  sendJson(req, res, 200, { users: result.rows });
 }
 
 async function report(req, res) {
@@ -102,6 +133,7 @@ module.exports = async function dms(req, res) {
   try {
     const path = routePath(req);
     if ((path === "/" || path === "") && (req.method === "GET" || req.method === "POST")) return await messages(req, res);
+    if (path === "/users" && req.method === "GET") return await users(req, res);
     if (path === "/report" && req.method === "POST") return await report(req, res);
     sendJson(req, res, 404, { error: "DM route not found.", path });
   } catch (error) {

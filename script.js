@@ -2332,9 +2332,12 @@ const els = {
   hamburgerBtn: document.querySelector("#hamburgerBtn"),
   hamburgerMenu: document.querySelector("#hamburgerMenu"),
   closeHamburgerBtn: document.querySelector("#closeHamburgerBtn"),
+  coinPlusBtn: document.querySelector("#coinPlusBtn"),
   openStoreBtn: document.querySelector("#openStoreBtn"),
   openMusicBtn: document.querySelector("#openMusicBtn"),
   openAchievementsBtn: document.querySelector("#openAchievementsBtn"),
+  openThemesBtn: document.querySelector("#openThemesBtn"),
+  themesPanel: document.querySelector("#themesPanel"),
   themeSelect: document.querySelector("#themeSelect"),
   
   storeModal: document.querySelector("#storeModal"),
@@ -2477,6 +2480,7 @@ const els = {
   dmWidget: document.querySelector("#dmWidget"),
   newDmForm: document.querySelector("#newDmForm"),
   newDmRecipient: document.querySelector("#newDmRecipient"),
+  dmUserDropdown: document.querySelector("#dmUserDropdown"),
   newDmMessage: document.querySelector("#newDmMessage"),
   newDmSendBtn: document.querySelector("#newDmSendBtn"),
   newDmStatus: document.querySelector("#newDmStatus"),
@@ -3952,12 +3956,16 @@ function getAuthRedirectTarget() {
 function updateAuthUi() {
   const identity = getCurrentChatIdentity();
   if (els.authStatusText) {
-    els.authStatusText.textContent = appState.auth.signedIn
-      ? `Signed in as ${identity.name}`
-      : `${identity.name} in global chat`;
+    els.authStatusText.textContent = appState.auth.signedIn ? identity.name : getGuestName();
   }
-  if (els.googleSignInBtn) els.googleSignInBtn.hidden = appState.auth.signedIn;
-  if (els.googleSignOutBtn) els.googleSignOutBtn.hidden = !appState.auth.signedIn;
+  if (els.googleSignInBtn) {
+    els.googleSignInBtn.hidden = appState.auth.signedIn;
+    els.googleSignInBtn.textContent = "Sign in";
+  }
+  if (els.googleSignOutBtn) {
+    els.googleSignOutBtn.hidden = !appState.auth.signedIn;
+    els.googleSignOutBtn.textContent = "Sign out";
+  }
   if (!appState.auth.signedIn) {
     renderMascotAvatar(els.profileAvatarContainer, "👤", { color: "#64748b", small: true });
   } else if (appState.profile?.customization) {
@@ -4045,6 +4053,10 @@ els.profileGoogleSignInBtn?.addEventListener("click", startGoogleSignIn);
 els.googleSignOutBtn?.addEventListener("click", signOutGoogle);
 
 els.openStoreBtn.addEventListener("click", () => els.storeModal.hidden = false);
+els.coinPlusBtn?.addEventListener("click", () => {
+  els.storeModal.hidden = false;
+  els.hamburgerMenu.hidden = true;
+});
 els.closeStoreBtn.addEventListener("click", () => els.storeModal.hidden = true);
 
 function openMusicDock() {
@@ -4081,6 +4093,11 @@ els.expandMusicBtn?.addEventListener("click", () => {
 
 els.openAchievementsBtn.addEventListener("click", () => {
   switchView("profile");
+});
+
+els.openThemesBtn?.addEventListener("click", () => {
+  if (!els.themesPanel) return;
+  els.themesPanel.hidden = !els.themesPanel.hidden;
 });
 
 els.openSlotsBtn?.addEventListener("click", () => {
@@ -5854,6 +5871,84 @@ async function sendServerDM(toName, message) {
   return result.message;
 }
 
+let dmUserSearchTimer = null;
+let selectedDmUser = null;
+
+async function searchRegisteredDMUsers(query = "") {
+  if (!canUseServerApi() || !appState.auth?.signedIn) return [];
+  const apiBase = getApiBaseUrl();
+  const response = await fetch(`${apiBase}/api/dms/users?q=${encodeURIComponent(query.trim())}`, {
+    credentials: "include"
+  });
+  const result = await response.json();
+  if (!response.ok) throw new Error(result.error || "Could not search registered users.");
+  return result.users || [];
+}
+
+function renderDMUserDropdown(users = [], statusMessage = "") {
+  if (!els.dmUserDropdown) return;
+  els.dmUserDropdown.replaceChildren();
+  if (statusMessage) {
+    const status = document.createElement("div");
+    status.className = "dm-user-option muted";
+    status.textContent = statusMessage;
+    els.dmUserDropdown.append(status);
+  } else {
+    users.forEach((user) => {
+      const button = document.createElement("button");
+      button.type = "button";
+      button.className = "dm-user-option";
+      button.setAttribute("role", "option");
+      button.dataset.userName = user.displayName || "";
+      button.innerHTML = `
+        <span class="dm-user-avatar">${user.picture ? `<img src="${user.picture}" alt="">` : "👤"}</span>
+        <span class="dm-user-copy">
+          <strong>${user.displayName || "Registered user"}</strong>
+          <small>Signed-in user</small>
+        </span>
+      `;
+      button.addEventListener("click", () => {
+        selectedDmUser = user;
+        if (els.newDmRecipient) {
+          els.newDmRecipient.value = user.displayName || "";
+          els.newDmRecipient.setAttribute("aria-expanded", "false");
+        }
+        els.dmUserDropdown.hidden = true;
+        els.newDmMessage?.focus();
+      });
+      els.dmUserDropdown.append(button);
+    });
+  }
+  els.dmUserDropdown.hidden = false;
+  els.newDmRecipient?.setAttribute("aria-expanded", "true");
+}
+
+function queueDMUserSearch() {
+  if (!els.newDmRecipient) return;
+  selectedDmUser = null;
+  window.clearTimeout(dmUserSearchTimer);
+  dmUserSearchTimer = window.setTimeout(async () => {
+    if (!appState.auth?.signedIn) {
+      renderDMUserDropdown([], "Sign in to search registered users.");
+      return;
+    }
+    const query = els.newDmRecipient.value.trim();
+    try {
+      renderDMUserDropdown([], "Searching...");
+      const users = await searchRegisteredDMUsers(query);
+      renderDMUserDropdown(users, users.length ? "" : "No registered users found.");
+    } catch (error) {
+      renderDMUserDropdown([], error.message || "User search failed.");
+    }
+  }, 220);
+}
+
+async function resolveRegisteredDMUser(name) {
+  if (selectedDmUser?.displayName?.toLowerCase() === name.toLowerCase()) return selectedDmUser;
+  const users = await searchRegisteredDMUsers(name);
+  return users.find((user) => user.displayName?.toLowerCase() === name.toLowerCase()) || null;
+}
+
 async function reportServerDM({ messageId, reportedUserName, reason, details }) {
   if (!canUseServerApi()) return null;
   const apiBase = getApiBaseUrl();
@@ -5911,8 +6006,15 @@ async function startNewDM(event) {
     if (els.newDmStatus) els.newDmStatus.textContent = "Enter a recipient and a message.";
     return;
   }
-  if (toName.toLowerCase() === socialDataStore.getOwnName().toLowerCase()) {
-    if (els.newDmStatus) els.newDmStatus.textContent = "Choose someone other than yourself.";
+  let registeredUser = null;
+  try {
+    registeredUser = await resolveRegisteredDMUser(toName);
+  } catch (error) {
+    if (els.newDmStatus) els.newDmStatus.textContent = error.message || "Could not verify this user.";
+    return;
+  }
+  if (!registeredUser) {
+    if (els.newDmStatus) els.newDmStatus.textContent = "Choose a registered signed-in user from the dropdown.";
     return;
   }
   if (els.newDmSendBtn) {
@@ -5921,12 +6023,14 @@ async function startNewDM(event) {
   }
   if (els.newDmStatus) els.newDmStatus.textContent = "";
   try {
-    const sent = await sendServerDM(toName, message);
-    if (!sent) socialDataStore.sendMessage(toName, message);
-    socialDataStore.getProfile(toName);
+    const normalizedName = registeredUser.displayName || toName;
+    const sent = await sendServerDM(normalizedName, message);
+    if (!sent) socialDataStore.sendMessage(normalizedName, message);
+    socialDataStore.getProfile(normalizedName);
     if (els.newDmRecipient) els.newDmRecipient.value = "";
     if (els.newDmMessage) els.newDmMessage.value = "";
-    if (els.newDmStatus) els.newDmStatus.textContent = `DM sent to ${toName}.`;
+    selectedDmUser = null;
+    if (els.newDmStatus) els.newDmStatus.textContent = `DM sent to ${normalizedName}.`;
     await renderDMInbox();
   } catch (error) {
     if (els.newDmStatus) els.newDmStatus.textContent = error.message || "DM could not be sent.";
@@ -5998,6 +6102,14 @@ function initDMs() {
 }
 
 els.newDmForm?.addEventListener("submit", startNewDM);
+els.newDmRecipient?.addEventListener("input", queueDMUserSearch);
+els.newDmRecipient?.addEventListener("focus", queueDMUserSearch);
+document.addEventListener("click", (event) => {
+  if (!event.target.closest(".dm-user-search-wrap")) {
+    if (els.dmUserDropdown) els.dmUserDropdown.hidden = true;
+    els.newDmRecipient?.setAttribute("aria-expanded", "false");
+  }
+});
 
 els.dmList?.addEventListener("click", (event) => {
   const acceptButton = event.target.closest("[data-accept-request]");
@@ -8117,6 +8229,105 @@ const characterGuideSteps = [
   "Step 6 of 6: Coins unlock songs, themes, and collection items. Real ads and purchases require the Vercel backend settings."
 ];
 
+let tutorialCharacter3d = null;
+
+function renderTutorialCharacter3d() {
+  if (!clippyAvatar || !window.THREE) return false;
+  let canvas = clippyAvatar.querySelector("canvas");
+  if (!canvas) {
+    clippyAvatar.replaceChildren();
+    canvas = document.createElement("canvas");
+    canvas.className = "tutorial-character-canvas";
+    canvas.width = 92;
+    canvas.height = 92;
+    clippyAvatar.append(canvas);
+  }
+  const THREE = window.THREE;
+  const c = typeof getCharacterCustomization === "function" ? getCharacterCustomization() : (appState.profile?.customization || {});
+  const color = (value, fallback) => new THREE.Color(value || fallback);
+  if (!tutorialCharacter3d) {
+    const renderer = new THREE.WebGLRenderer({ canvas, antialias: true, alpha: true });
+    renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
+    renderer.setSize(92, 92, false);
+    if (THREE.SRGBColorSpace) renderer.outputColorSpace = THREE.SRGBColorSpace;
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(30, 1, 0.1, 100);
+    camera.position.set(0, 0.25, 4.7);
+    scene.add(new THREE.HemisphereLight(0xffffff, 0x64748b, 2.2));
+    const key = new THREE.DirectionalLight(0xffffff, 1.8);
+    key.position.set(2, 4, 3);
+    scene.add(key);
+    const group = new THREE.Group();
+    group.rotation.y = -0.38;
+    scene.add(group);
+    const material = (value) => new THREE.MeshStandardMaterial({ color: value, roughness: 0.58, metalness: 0.02 });
+    const capsule = (radius, length, mat) => {
+      const geometry = THREE.CapsuleGeometry
+        ? new THREE.CapsuleGeometry(radius, length, 8, 18)
+        : new THREE.CylinderGeometry(radius, radius, length + radius * 2, 18);
+      return new THREE.Mesh(geometry, mat);
+    };
+    const body = capsule(0.34, 0.78, material(0x3182ce));
+    body.position.y = -0.25;
+    group.add(body);
+    const head = new THREE.Mesh(new THREE.SphereGeometry(0.34, 28, 20), material(0xed8936));
+    head.position.y = 0.58;
+    group.add(head);
+    const hair = new THREE.Mesh(new THREE.SphereGeometry(0.36, 24, 12, 0, Math.PI * 2, 0, Math.PI / 2), material(0x2f241f));
+    hair.position.y = 0.84;
+    group.add(hair);
+    const eyeMat = material(0x1d4ed8);
+    const eyeWhite = material(0xffffff);
+    [-0.12, 0.12].forEach((x) => {
+      const white = new THREE.Mesh(new THREE.SphereGeometry(0.046, 12, 8), eyeWhite);
+      white.position.set(x, 0.62, 0.31);
+      group.add(white);
+      const pupil = new THREE.Mesh(new THREE.SphereGeometry(0.023, 10, 8), eyeMat);
+      pupil.position.set(x + 0.01, 0.62, 0.345);
+      group.add(pupil);
+    });
+    const mouth = new THREE.Mesh(new THREE.TorusGeometry(0.1, 0.01, 8, 22, Math.PI), material(0x51311c));
+    mouth.rotation.set(0, 0, Math.PI);
+    mouth.position.set(0, 0.46, 0.33);
+    group.add(mouth);
+    const skin = material(0xed8936);
+    const shirt = material(0x3182ce);
+    const pointingArm = capsule(0.065, 0.56, shirt);
+    pointingArm.position.set(-0.42, -0.08, 0.08);
+    pointingArm.rotation.set(0.2, 0, -0.78);
+    group.add(pointingArm);
+    const pointingHand = new THREE.Mesh(new THREE.SphereGeometry(0.075, 14, 10), skin);
+    pointingHand.position.set(-0.66, 0.15, 0.12);
+    group.add(pointingHand);
+    const restingArm = capsule(0.065, 0.5, shirt);
+    restingArm.position.set(0.43, -0.16, 0.02);
+    restingArm.rotation.z = 0.38;
+    group.add(restingArm);
+    const pants = material(0x1f2937);
+    const shoeMat = material(0x111827);
+    [-0.16, 0.16].forEach((x) => {
+      const leg = capsule(0.075, 0.34, pants);
+      leg.position.set(x, -0.95, 0);
+      group.add(leg);
+      const shoe = new THREE.Mesh(new THREE.BoxGeometry(0.22, 0.09, 0.3), shoeMat);
+      shoe.position.set(x, -1.22, 0.04);
+      group.add(shoe);
+    });
+    tutorialCharacter3d = { renderer, scene, camera, group, body, head, hair, eyeMat, skin, shirt, pants, shoeMat };
+  }
+  tutorialCharacter3d.body.material.color.copy(color(c.shirtColor, "#3182ce"));
+  tutorialCharacter3d.shirt.color.copy(color(c.shirtColor, "#3182ce"));
+  tutorialCharacter3d.head.material.color.copy(color(c.faceColor, "#ed8936"));
+  tutorialCharacter3d.skin.color.copy(color(c.faceColor, "#ed8936"));
+  tutorialCharacter3d.hair.material.color.copy(color(c.hairColor, "#2f241f"));
+  tutorialCharacter3d.eyeMat.color.copy(color(c.eyeColor, "#1d4ed8"));
+  tutorialCharacter3d.pants.color.copy(color(c.pantsColor, "#1f2937"));
+  tutorialCharacter3d.shoeMat.color.copy(color(c.shoesColor, "#111827"));
+  tutorialCharacter3d.group.rotation.y = -0.38 + Math.sin(Date.now() / 850) * 0.05;
+  tutorialCharacter3d.renderer.render(tutorialCharacter3d.scene, tutorialCharacter3d.camera);
+  return true;
+}
+
 function updateClippy() {
   if (!clippyGuide) return;
   if (appState.settings?.characterGuide === false) {
@@ -8126,8 +8337,9 @@ function updateClippy() {
   const targetLang = appState.targetLanguage;
   clippyGuide.hidden = false;
   clippyAvatar.innerHTML = `<span style="font-size: 3rem; line-height: 70px;">${appState.profile.customization.mascot || "🦊"}</span>`;
-  
-  renderMascotAvatar(clippyAvatar, appState.profile.customization.mascot || "LL");
+  if (!renderTutorialCharacter3d()) {
+    renderMascotAvatar(clippyAvatar, appState.profile.customization.mascot || "LL");
+  }
   const step = Number(appState.settings?.characterGuideStep || 0);
   if (step >= 0 && step < characterGuideSteps.length) {
     clippyMessage.textContent = characterGuideSteps[step];
